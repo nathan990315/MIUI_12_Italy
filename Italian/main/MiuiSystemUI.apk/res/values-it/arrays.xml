@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="animator_duration_scale_entries">
+        <item>Animazioni disattivate</item>
+        <item>Scala animazione .5x</item>
+        <item>Scala animazione 1x</item>
+        <item>Scala animazione 1.5x</item>
+        <item>Scala animazione 2x</item>
+        <item>Scala animazione 5x</item>
+        <item>Scala animazione 10x</item>
+     </string-array>
+     <string-array name="app_process_limit_entries">
+        <item>Limite predefinito</item>
+        <item>Nessun processo in background</item>
+        <item>Massimo 1 processo</item>
+        <item>Massimo 2 processi</item>
+        <item>Massimo 3 processi</item>
+        <item>Massimo 4 processi</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>16 bit/campione</item>
+        <item>24 bit/campione</item>
+        <item>32 bit/campione</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>16 bit/campione</item>
+        <item>24 bit/campione</item>
+        <item>32 bit/campione</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Ottimizzato per la qualità audio</item>
+        <item>Audio bilanciato e qualità di connessione</item>
+        <item>Ottimizzato per la qualità di connessione</item>
+        <item>Migliore possibile (Bit Rate adattivo)</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Ottimizzato epr qualità audio (990kbps/909kbps)</item>
+        <item>Bilanciato audio e qualità di connessione (660kbps/606kbps)</item>
+        <item>Ottimizzato epr qualità di connessione (330kbps/303kbps)</item>
+        <item>MIgliore possibile (Bit Rate adattivo)</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Attiva Codec Opzionali</item>
+        <item>Disattiva Codec Opzionali</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Usa selezione di sistema (Predefinito)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Attiva Codec Opzionali</item>
+        <item>Disattiva Codec Opzionali</item>
+     </string-array>
+     <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Default)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+     </string-array>
+     <string-array name="carrier_name">
+        <item>SmarToneVodafone</item>
+        <item>SmarToneVodafone 3G</item>
+     </string-array>
+     <string-array name="carrier_simple_name">
+        <item>SMC HK</item>
+        <item>SMC HK 3G</item>
+     </string-array>
+     <string-array name="color_mode_descriptions">
+        <item>Colori migliorati</item>
+        <item>Colori naturali come percepiti dagli occhi</item>
+        <item>Colori ottimizzati per contenuti digitali</item>
+     </string-array>
+     <string-array name="color_mode_names">
+        <item>Vibrante (predefinito)</item>
+        <item>Naturale</item>
+        <item>Standard</item>
+     </string-array>
+     <string-array name="debug_hw_overdraw_entries">
+        <item>Disattivato</item>
+        <item>Mostra aree overdraw</item>
+        <item>Mostra aree per Deuteranomalia</item>
+     </string-array>
+     <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (Default)</item>
+        <item>OpenGL (Skia)</item>
+     </string-array>
+     <string-array name="enable_opengl_traces_entries">
+        <item>Nessuno</item>
+        <item>Logcat</item>
+        <item>Traccia (Grafica)</item>
+        <item>Richiamo su glGetError</item>
+     </string-array>
+     <string-array name="hdcp_checking_summaries">
+        <item>Non utilizzare mai controllo HDCP</item>
+        <item>Usa controllo HDCP solo per contenuti DRM</item>
+        <item>Usa sempre controllo HDCP</item>
+     </string-array>
+     <string-array name="hdcp_checking_titles">
+        <item>Non controllare mai</item>
+        <item>Controlla solo per contenuti DRM</item>
+        <item>Controlla sempre</item>
+     </string-array>
+     <string-array name="overlay_display_devices_entries">
+        <item>Nessuno</item>
+        <item>480p</item>
+        <item>480p (sicuro)</item>
+        <item>720p</item>
+        <item>720p (sicuro)</item>
+        <item>1080p</item>
+        <item>1080p (sicuro)</item>
+        <item>4K</item>
+        <item>4K (sicuro)</item>
+        <item>4K (migliorato)</item>
+        <item>4K (migliorato, sicuro)</item>
+        <item>720p, 1080p (doppio schermo)</item>
+     </string-array>
+     <string-array name="select_logd_size_lowram_titles">
+        <item>Disattivato</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+     </string-array>
+     <string-array name="select_logd_size_summaries">
+        <item>Disattivato</item>
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+     </string-array>
+     <string-array name="select_logd_size_titles">
+        <item>Disattivato</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+     </string-array>
+     <string-array name="select_logd_system_levels">
+        <item>Disattivato</item>
+        <item>Errore</item>
+        <item>Avviso</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+     </string-array>
+     <string-array name="select_logpersist_summaries">
+        <item>Disattivato</item>
+        <item>Tutti i buffer log</item>
+        <item>Tutti tranne i buffer log radio</item>
+        <item>Solo buffer log</item>
+     </string-array>
+     <string-array name="select_logpersist_titles">
+        <item>Disattivato</item>
+        <item>Tutti</item>
+        <item>Tutti tranne radio</item>
+        <item>Solo kernel</item>
+     </string-array>
+     <string-array name="show_non_rect_clip_entries">
+        <item>Disattivato</item>
+        <item>Mostra regione di ritaglio non rettangolare in blu</item>
+        <item>Evidenzia comandi di disegno testati in verde</item>
+     </string-array>
+     <string-array name="track_frame_time_entries">
+        <item>Disattivato</item>
+        <item>Su schermo tramite barre</item>
+        <item>Su adb shell dumpsys gfxinfo</item>
+     </string-array>
+     <string-array name="transition_animation_scale_entries">
+        <item>Animazioni disattivate</item>
+        <item>Scala animazione .5x</item>
+        <item>Scala animazione 1x</item>
+        <item>Scala animazione 1.5x</item>
+        <item>Scala animazione 2x</item>
+        <item>Scala animazione 5x</item>
+        <item>Scala animazione 10x</item>
+     </string-array>
+     <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+     </string-array>
+     <string-array name="tts_rate_entries">
+        <item>Veramente lento</item>
+        <item>Lento</item>
+        <item>Normale</item>
+        <item>Veloce</item>
+        <item>Molto veloce</item>
+        <item>Velocissimo</item>
+        <item>Rapido</item>
+        <item>Molto rapido</item>
+        <item>Rapidissimo</item>
+     </string-array>
+     <string-array name="usb_configuration_titles">
+        <item>Ricarica</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Sorgente audio</item>
+        <item>MIDI</item>
+     </string-array>
+     <string-array name="weather_type">
+        <item>Sole</item>
+        <item>Nuvoloso</item>
+        <item>Coperto</item>
+        <item>Nebbia</item>
+        <item>Forte temporale</item>
+        <item>Acquazzone</item>
+        <item>Temporale</item>
+        <item>Burrasca</item>
+        <item>Pioggia</item>
+        <item>Forte pioggia</item>
+        <item>Pioggia moderata</item>
+        <item>Pioggia leggera</item>
+        <item>Pioggia e neve</item>
+        <item>Nevischio</item>
+        <item>Neve</item>
+        <item>Grande nevicata</item>
+        <item>Nevicata moderata</item>
+        <item>Nevicata leggera</item>
+        <item>Forte tempesta di sabbia</item>
+        <item>Tempesta di sabbia</item>
+        <item>Sabbia</item>
+        <item>Ventoso</item>
+        <item>Grandine</item>
+        <item>Polvere</item>
+        <item>Foschia</item>
+        <item>Nevischio</item>
+        <item></item>
+     </string-array>
+     <string-array name="wifi_status">
+        <item></item>
+        <item>Scansione…</item>
+        <item>Connessione…</item>
+        <item>Autenticazione…</item>
+        <item>Ottenimento indirizzo IP…</item>
+        <item>Connesso</item>
+        <item>Sospeso</item>
+        <item>Disconnessione…</item>
+        <item>Disconnesso</item>
+        <item>Fallito</item>
+        <item>Bloccato</item>
+        <item>Evitamento temporaneo reti deboli</item>
+     </string-array>
+     <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scansione…</item>
+        <item>Connessione a %1$s…</item>
+        <item>Autenticazione con %1$s…</item>
+        <item>Ottenimento indirizzo IP da %1$s…</item>
+        <item>Connesso a %1$s</item>
+        <item>Sospeso</item>
+        <item>Disconnessione da %1$s…</item>
+        <item>Disconnesso</item>
+        <item>Fallito</item>
+        <item>Bloccato</item>
+        <item>Evitamento temporaneo reti deboli</item>
+     </string-array>
+     <string-array name="window_animation_scale_entries">
+        <item>Animazione disattivata</item>
+        <item>Scala animazione .5x</item>
+        <item>Scala animazione 1x</item>
+        <item>Scala animazione 1.5x</item>
+        <item>Scala animazione 2x</item>
+        <item>Scala animazione 5x</item>
+        <item>Scala animazione 10x</item>
+     </string-array>
+</resources>

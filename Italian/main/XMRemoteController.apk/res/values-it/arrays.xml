@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="ac_mode_array">
+        <item>Raffreddamento</item>
+        <item>Riscaldamento</item>
+        <item>Deumidificazione</item>
+        <item>Ventilatore</item>
+     </string-array>
+     <string-array name="answer">
+        <item>Il tuo dispositivo può essere abbinato a Mi TV, Mi Box e altri dispositivi Android soltanto con il Wi-Fi.</item>
+        <item>"Assicurati di aver selezionato il modello corretto di Condizionatore. Segui le istruzioni visualizzate sul tuo dispositivo finché l'abbinamento sarà terminato."</item>
+        <item>No. Attualmente è possibile usare Mi 4, Mi 4c e Redmi Note 2 come telecomando infrarossi.</item>
+     </string-array>
+     <string-array name="epg_week_tab">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+     </string-array>
+     <string-array name="question">
+        <item>Perché il mio smartphone continua a cercare i dispositivi wireless?</item>
+        <item>Perché riesco ad accendere il Condizionatore ma non a spegnerlo?</item>
+        <item>È possibile usare Mi 2, Mi 3 e Redmi 1 come telecomando infrarossi?</item>
+     </string-array>
+     <string-array name="voice_ac_help">
+        <item>Turn on Haier AC in the living room</item>
+        <item>Set the temperature to 25 degrees</item>
+        <item>Set wind direction to \"Up\"</item>
+     </string-array>
+     <string-array name="voice_fan_help">
+        <item>Turn on Gree AC</item>
+        <item>Switch to swinging mode</item>
+        <item>Make AC blow harder</item>
+     </string-array>
+     <string-array name="voice_stb_help">
+        <item>Turn on set-top box</item>
+        <item>I want to watch Hunan TV</item>
+        <item>Go back to channel 15</item>
+     </string-array>
+     <string-array name="voice_tips">
+        <item>Turn on AC</item>
+        <item>I want to watch Shenzhen TV</item>
+        <item>Go back to channel 12</item>
+     </string-array>
+     <string-array name="voice_tv_help">
+        <item>Turn on TV in the bedroom</item>
+        <item>Turn off the TV</item>
+        <item>Turn up the volume on TV</item>
+     </string-array>
+</resources>

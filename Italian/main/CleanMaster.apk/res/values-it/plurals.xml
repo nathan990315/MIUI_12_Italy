@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d min fa</item>
+        <item quantity="zero">%1$d min fa</item>
+        <item quantity="one">%1$d min fa</item>
+        <item quantity="two">%1$d min fa</item>
+        <item quantity="few">%1$d min fa</item>
+        <item quantity="many">%1$d min fa</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d ore fa</item>
+        <item quantity="zero">%1$d ore fa</item>
+        <item quantity="one">%1$d ora fa</item>
+        <item quantity="two">%1$d ore fa</item>
+        <item quantity="few">%1$d ore fa</item>
+        <item quantity="many">%1$d ore fa</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d giorni fa</item>
+        <item quantity="zero">%1$d giorni fa</item>
+        <item quantity="one">%1$d giorno fa</item>
+        <item quantity="two">%1$d giorni fa</item>
+        <item quantity="few">%1$d giorni fa</item>
+        <item quantity="many">%1$d giorni fa</item>
+    </plurals>
+    <plurals name="people">
+        <item quantity="other">Scaricato da %1$d persone</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">Scaricato da %1$d persone</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">Scaricato da %1$d persone</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$s visualizzazioni</item>
+        <item quantity="one">%1$s visualizzazione</item>
+    </plurals>
+    <plurals name="hint_similar_image_header_left">
+        <item quantity="other">%d gruppi</item>
+        <item quantity="one">%d gruppo</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_confirm">
+        <item quantity="other">Eliminare %d foto?</item>
+        <item quantity="one">Eliminare %d foto?</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+        <item quantity="other">Eliminare %1$s foto da tutti i dispositivi?</item>
+        <item quantity="one">Eliminare %1$s foto da tutti i dispositivi?</item>
+    </plurals>
+    <plurals name="deepclean_cache_summary">
+        <item quantity="other">Puoi rimuovere dati non importanti da %d app</item>
+        <item quantity="one">Puoi rimuovere dati non importanti da %d app</item>
+    </plurals>
+    <plurals name="deepclean_app_summary">
+        <item quantity="other">%d app installate, puoi rimuovere le app utilizzate raramente</item>
+        <item quantity="one">%d app installata, puoi rimuoverla</item>
+    </plurals>
+    <plurals name="deepclean_large_summary">
+        <item quantity="other">Trovati %d file di grandi dimensioni, puoi rimuovere quelli non importanti</item>
+        <item quantity="one">Trovato %d file di grandi dimensioni, puoi rimuoverlo</item>
+    </plurals>
+    <plurals name="deepclean_similar_summary">
+        <item quantity="other">Trovate %d foto, puoi rimuovere quelle duplicate o ridondanti</item>
+        <item quantity="one">Trovata %d foto, puoi rimuoverla se duplicata o ridondante</item>
+    </plurals>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="other">Trovati %d APK, puoi eliminare quelli non necessari.</item>
+        <item quantity="one">Trovato %d APK, puoi eliminarlo.</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="other">Trovati %d video, puoi eliminare quelli non necessari.</item>
+        <item quantity="one">Trovato %d video, puoi eliminarlo.</item>
+    </plurals>
+    <plurals name="deepclean_install_info_desc1">
+        <item quantity="other">%d app installate</item>
+        <item quantity="one">%d app installata</item>
+    </plurals>
+    <plurals name="wechat_copy_video_failed_dialog_msg">
+        <item quantity="other">Impossibile esportare %d video. Libera spazio e prova di nuovo.</item>
+        <item quantity="one">Impossibile esportare %d video. Libera spazio e prova di nuovo.</item>
+    </plurals>
+    <plurals name="wechat_empty_files">
+        <item quantity="other">(%1$d file vuoti) %2$s</item>
+        <item quantity="one">(%1$d file vuoti) %2$s</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">Non utilizzata per %d giorni"</item>
+        <item quantity="one">Non utilizzata per %d giorno</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Non utilizzata per %d mesi</item>
+        <item quantity="one">Non utilizzata per %d mese</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Non utilizzata per %d anni</item>
+        <item quantity="one">Non utilizzata per %d anno</item>
+    </plurals>
+     <plurals name="resutl_function_install_app_summary">
+        <item quantity="other">"%d app non sono state utilizzate per lungo tempo, dagli un'occhiata."</item>
+        <item quantity="one">"%d app non sono state utilizzate per lungo tempo, dagli un'occhiata."</item>
+     </plurals>
+</resources>

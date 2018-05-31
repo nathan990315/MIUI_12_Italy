@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_settings_disabled_header_title">
+        <item quantity="other">%s app non possono mostrare notifiche</item>
+        <item quantity="one">1 app non può mostrare notifiche</item>
+    </plurals>
+    <plurals name="app_settings_enabled_header_title">
+        <item quantity="other">%s app possono mostrare notifiche</item>
+        <item quantity="one">1 app può mostrare notifiche</item>
+    </plurals>
+</resources>

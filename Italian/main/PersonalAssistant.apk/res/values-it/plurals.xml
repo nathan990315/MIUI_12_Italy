@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="assistant_day">
+        <item quantity="other">In %d giorni</item>
+        <item quantity="one">In %d giorno</item>
+     </plurals>
+     <plurals name="days_ago">
+        <item quantity="other">%1$d giorni fa</item>
+     </plurals>
+     <plurals name="express_history_dialog_delete_message">
+        <item quantity="other">Eliminare %s elementi da express?</item>
+        <item quantity="one">Eliminare %s elemento da express?</item>
+     </plurals>
+     <plurals name="express_history_menu_select_num">
+        <item quantity="other">%s elementi selezionati</item>
+        <item quantity="one">%s elemento selezionato</item>
+     </plurals>
+     <plurals name="hours_ago">
+        <item quantity="other">%1$d ore fa</item>
+     </plurals>
+     <plurals name="main_delete_desc">
+        <item quantity="other">Rimuovere %s elementi da preferiti?</item>
+        <item quantity="one">Rimuovere %s elemento da preferiti?</item>
+     </plurals>
+     <plurals name="main_mark_fav_num">
+        <item quantity="other">%s elementi contrassegnati come importanti</item>
+        <item quantity="one">%s elemento contrassegnato come importante</item>
+     </plurals>
+     <plurals name="main_mark_select_num">
+        <item quantity="other">%s elementi selezionati</item>
+        <item quantity="one">%s elemento selezionato</item>
+     </plurals>
+     <plurals name="mins_ago">
+        <item quantity="other">%1$d minuti fa</item>
+     </plurals>
+     <plurals name="payment_record_dialog_delete_message">
+        <item quantity="other">Eliminare %s elementi dai pagamenti?</item>
+        <item quantity="one">Eliminare %s elemento dal pagamento?</item>
+     </plurals>
+     <plurals name="payment_record_menu_select_num">
+        <item quantity="other">Selezionati %s elementi</item>
+        <item quantity="one">Selezionato %s elemento</item>
+     </plurals>
+     <plurals name="sms_day_suffix">
+        <item quantity="other">In %d giorni</item>
+        <item quantity="one">In %d giorno</item>
+     </plurals>
+     <plurals name="sms_hour_suffix">
+        <item quantity="other">In %d ore</item>
+        <item quantity="one">In %d ora</item>
+     </plurals>
+     <plurals name="sms_minute_suffix">
+        <item quantity="other">In %d minuti</item>
+        <item quantity="one">In %d minuto</item>
+     </plurals>
+     <plurals name="sms_title_hours">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d ora</item>
+     </plurals>
+     <plurals name="sms_title_minutes">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d minuto</item>
+     </plurals>
+     <plurals name="steps">
+        <item quantity="other">%d passi</item>
+        <item quantity="zero">%d passi</item>
+        <item quantity="one">%d passo</item>
+     </plurals>
+     <plurals name="time_hour_ago">
+        <item quantity="other">%d ore fa</item>
+        <item quantity="one">%d ora fa</item>
+     </plurals>
+     <plurals name="time_minute_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">%d minuto fa</item>
+     </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="hmode_app_groups">
+        <item>Personalizzato</item>
+        <item>Risparmio batteria</item>
+     </string-array>
+     <string-array name="power_mode_entries">
+        <item>Prestazioni</item>
+        <item>Bilanciato</item>
+     </string-array>
+     <string-array name="thermal_entries">
+        <item>Modalità controllo temperatura predefinita</item>
+        <item>Modalità prestazioni</item>
+     </string-array>
+     <string-array name="thermal_summaries">
+        <item>Con questa modalità viene data la precedenza alla regolazione della temperatura</item>
+        <item>Con questa modalità viene data la precedenza alle prestazioni, la temperatura potrebbe aumentare significativamente</item>
+     </string-array>
+</resources>

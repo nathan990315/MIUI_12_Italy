@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Impostazioni di retroilluminazione adattiva</string>
+    <string name="cabl_settings_title">Impostazioni di retroilluminazione adattiva</string>
+    <string name="cabl_enable_title">Attiva retroilluminazione adattiva contenuti</string>
+    <string name="cabl_enable_summary_on">La retroilluminazione si riaggiusterà in base al contenuto visualizzato</string>
+    <string name="cabl_enable_summary_off">La retroilluminazione non si riaggiusterà in base al contenuto visualizzato</string>
+    <string name="cabl_levels_title">Livello qualità visuale</string>
+    <string name="cabl_levels_summary">Livello di qualità visiva inferiore: CABL cercherà di risparmiare più energia possibile senza influire in modo significativo sul contenuto visualizzato. Livello di qualità visiva automatica: CABL cercherà di massimizzare il risparmio energetico in base al tipo di contenuto di rilevamento automatico visualizzato.</string>
+    <string name="cabl_info_default">Sconosciuto</string>
+    <string name="cabl_version_title">Versione CABL</string>
+</resources>

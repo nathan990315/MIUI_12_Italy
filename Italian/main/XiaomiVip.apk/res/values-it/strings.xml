@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cube_ptr_pull_down">Trascina in basso</string>
+    <string name="cube_ptr_pull_down_to_refresh">Trascina in basso per aggiornare</string>
+    <string name="cube_ptr_release_to_refresh">Rilascia per aggiornare</string>
+    <string name="cube_ptr_refreshing">Aggiornamento…</string>
+    <string name="cube_ptr_refresh_complete">Aggiornato</string>
+    <string name="cube_ptr_last_update">Ultimo aggiornamento: </string>
+    <string name="cube_ptr_seconds_ago"> secondi fa</string>
+    <string name="cube_ptr_minutes_ago"> minuti fa</string>
+    <string name="cube_ptr_hours_ago"> ore fa</string>
+    <string name="app_name">Xiaomi Vip</string>
+    <string name="level">Livello</string>
+    <string name="level_detail">Limite operazioni giornaliere: %d</string>
+    <string name="action">Mostra</string>
+    <string name="task">Operazioni</string>
+    <string name="today_task">Operazioni giornaliere</string>
+    <string name="today_task_format" formatted="false">%d/%d</string>
+    <string name="passive_task">Operazioni passive</string>
+    <string name="task_score">%d punti</string>
+    <string name="task_ongoing">In uscita</string>
+    <string name="task_done">Fatto</string>
+    <string name="task_start">Avvia</string>
+    <string name="task_take_award">Ritira premi</string>
+    <string name="query_user_tasks_fail">Impossibile recuperare informazioni sulle operazioni</string>
+    <string name="my_award">I miei premi</string>
+    <string name="validity">Scade il %s</string>
+    <string name="expired">Scaduto</string>
+    <string name="award_time">Ricevuto il %s</string>
+    <string name="no_award">Nessun premio</string>
+    <string name="query_level_fail">Impossibile recuperare le informazioni</string>
+    <string name="award_taken">Punti ricevuti</string>
+    <string name="task_begin">In corso…</string>
+    <string name="in_progress">Invio richiesta…</string>
+    <string name="privilege">Privilegi</string>
+    <string name="promote">Passaggio di livello</string>
+    <string name="level_info_format" formatted="false">"Livello %d %d/%d
+%s"</string>
+    <string name="no_network">Impossibile collegarsi alla rete</string>
+    <string name="task_limit">Nessuna operazione rimanente per oggi, a domani.</string>
+    <string name="no_task">Tutte le operazioni sono state completate</string>
+    <string name="fail_reach_server">Impossibile collegarsi al server</string>
+    <string name="no_app">"Prima installa l'applicazione"</string>
+    <string name="use">Utilizza</string>
+    <string name="already_used">Utilizzato</string>
+    <string name="unlimited_task">Operazioni speciali</string>
+    <string name="take_awarded_package">Ritira</string>
+    <string name="awarded_package_is_expired">Scaduto</string>
+    <string name="awarded_package_was_redeemed">Ritirato</string>
+    <string name="take_awarded_package_failed">Impossibile ritirare il premio. Riprova più tardi.</string>
+    <string name="invalid_json">La risposta è una stringa JSON non valida</string>
+    <string name="task_select_title">"Scegli un'operazione"</string>
+    <string name="task_not_completed">Non completata</string>
+    <string name="task_completed">Completata</string>
+    <string name="exp_buff">+%s%% esperienza</string>
+    <string name="upgraded">Livello aumentato.</string>
+    <string name="experience">Esp</string>
+    <string name="giveup">Abbandona</string>
+</resources>

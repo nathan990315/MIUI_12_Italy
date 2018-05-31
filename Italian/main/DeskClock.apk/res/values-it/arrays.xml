@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="alarm_in_furture">
+        <item>Sveglia tra meno di un minuto</item>
+        <item>Sveglia tra %1$s</item>
+        <item>Sveglia tra %2$s</item>
+        <item>Sveglia tra %1$s %2$s</item>
+        <item>Sveglia tra %3$s</item>
+        <item>Sveglia tra %1$s %3$s</item>
+        <item>Sveglia tra %2$s %3$s</item>
+        <item>Sveglia tra %1$s %2$s %3$s</item>
+     </string-array>
+     <string-array name="alarm_repeat_type">
+        <item>Una volta</item>
+        <item>Tutti i giorni</item>
+        <item>Giorni lavorativi\u0020</item>
+        <item>Giorni di riposo</item>
+        <item>Lun-Ven</item>
+        <item>Personalizza</item>
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
+        <item>Una volta</item>
+        <item>Tutti i giorni</item>
+        <item>Lun - Ven</item>
+        <item>Personalizzata</item>
+     </string-array>
+     <string-array name="alarm_set">
+        <item>Questa sveglia è impostata a meno di un minuto da adesso.</item>
+        <item>Questa sveglia è impostata a %1$s da adesso.</item>
+        <item>Questa sveglia è impostata a %2$s da adesso.</item>
+        <item>Questa sveglia è impostata a %1$s e %2$s da adesso.</item>
+        <item>Questa sveglia è impostata a %3$s da adesso.</item>
+        <item>Questa sveglia è impostata a %1$s e %3$s da adesso.</item>
+        <item>Questa sveglia è impostata a %2$s e %3$s da adesso.</item>
+        <item>Questa sveglia è impostata a %1$s, %2$s, e %3$s da adesso.</item>
+     </string-array>
+     <string-array name="aqi_value">
+        <item>Buono</item>
+        <item>Soddisfacente</item>
+        <item>Moderatamente inquinato</item>
+        <item>Mediocre</item>
+        <item>Veramente mediocre</item>
+        <item>Grave</item>
+     </string-array>
+     <string-array name="auto_silence_entries">
+        <item>Disattivata</item>
+        <item>1 minuto</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>15 minuti</item>
+        <item>20 minuti</item>
+        <item>25 minuti</item>
+        <item>30 minuti</item>
+     </string-array>
+     <string-array name="days">
+        <item>ieri</item>
+        <item>oggi</item>
+        <item>domani</item>
+     </string-array>
+     <string-array name="snooze_duration_entries">
+        <item>1 minuto</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>15 minuti</item>
+        <item>20 minuti</item>
+        <item>25 minuti</item>
+        <item>30 minuti</item>
+     </string-array>
+     <string-array name="stat_volume_button_behaviors">
+        <item>Nessuno</item>
+        <item>Riavvia</item>
+        <item>Spegni</item>
+     </string-array>
+     <string-array name="volume_button_setting_entries">
+        <item>Niente</item>
+        <item>Sospendi</item>
+        <item>Disattiva</item>
+     </string-array>
+</resources>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ non letti</item>
+        <item quantity="one">%1$d+ non letto</item>
+     </plurals>
+     <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d nuovi messaggi</item>
+		<item quantity="one">%1$d nuovo messaggio</item>
+     </plurals>
+     <plurals name="confirm_archive_conversation">
+        <item quantity="other">Archiviare queste %1$d conversazioni?</item>
+        <item quantity="one">Archiviare questa conversazione?</item>
+     </plurals>
+     <plurals name="confirm_delete_conversation">
+        <item quantity="other">Eliminare queste %1$d conversazioni?</item>
+        <item quantity="one">Eliminare questa conversazione?</item>
+     </plurals>
+     <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Queste conversazioni contengono elementi uniti, sicuro di volerle eliminare?</item>
+        <item quantity="one">Questa conversazione contiene elementi uniti, sicuro di volerla eliminare?</item>
+     </plurals>
+     <plurals name="confirm_delete_draft">
+        <item quantity="other">Eliminare %1$d bozze?</item>
+        <item quantity="one">Eliminare %1$d bozza?</item>
+     </plurals>
+     <plurals name="contact_num_selected">
+        <item quantity="other">%d selezionati</item>
+        <item quantity="one">%d selezionato</item>
+     </plurals>
+     <plurals name="conversation_archived">
+        <item quantity="other">%1$d archiviate.</item>
+        <item quantity="one">%1$d archiviata.</item>
+     </plurals>
+     <plurals name="conversation_deleted">
+        <item quantity="other">%1$d eliminata.</item>
+        <item quantity="one">%1$d eliminata.</item>
+     </plurals>
+     <plurals name="conversation_folder_changed">
+        <item quantity="other">Cartelle modificate.</item>
+        <item quantity="one">Cartella modificata.</item>
+     </plurals>
+     <plurals name="conversation_msg_header_count">
+        <item quantity="other">… %1$d persone</item>
+        <item quantity="one">… %1$d persona</item>
+     </plurals>
+     <plurals name="conversation_muted">
+        <item quantity="other">%1$d silenziose.</item>
+        <item quantity="one">%1$d silenziosa.</item>
+     </plurals>
+     <plurals name="conversation_not_important">
+        <item quantity="other">%1$d segnate come non importanti.</item>
+        <item quantity="one">%1$d segnata come non importante.</item>
+     </plurals>
+     <plurals name="conversation_not_spam">
+        <item quantity="other">%1$d non segnate come spam</item>
+        <item quantity="one">%1$d non segnata come spam</item>
+     </plurals>
+     <plurals name="conversation_phished">
+        <item quantity="other">%1$d segnalate come spam</item>
+        <item quantity="one">%1$d segnalata come spam</item>
+     </plurals>
+     <plurals name="conversation_spammed">
+        <item quantity="other">%1$d segnate come spam</item>
+        <item quantity="one">%1$d segnata come spam</item>
+     </plurals>
+     <plurals name="day">
+        <item quantity="other">%d giorni</item>
+        <item quantity="one">%d giorno</item>
+     </plurals>
+     <plurals name="day_after">
+        <item quantity="other">In %d giorni</item>
+        <item quantity="one">In %d giorno</item>
+     </plurals>
+     <plurals name="day_before">
+        <item quantity="other">%d giorni fa</item>
+        <item quantity="one">%d giorno fa</item>
+     </plurals>
+     <plurals name="draft">
+        <item quantity="other">Bozze</item>
+        <item quantity="one">Bozza</item>
+     </plurals>
+     <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d messaggi verranno eliminati definitivamente.</item>
+        <item quantity="one">%1$d messaggio verrà eliminato definitivamente.</item>
+     </plurals>
+     <plurals name="hide_atts_remaining">
+        <item quantity="other">Nascondi %1$d allegati</item>
+        <item quantity="one">Nascondi %1$d allegato</item>
+     </plurals>
+     <plurals name="local_search_result">
+        <item quantity="other">%s risultati nei messaggi sincronizzati</item>
+        <item quantity="one">%s risultato nei messaggi sincronizzati</item>
+     </plurals>
+     <plurals name="month">
+        <item quantity="other">%d mesi</item>
+        <item quantity="one">%d mese</item>
+     </plurals>
+     <plurals name="more_atts_remaining">
+        <item quantity="other">%1$d altri rimanenti</item>
+        <item quantity="one">%1$d altro rimanente</item>
+     </plurals>
+     <plurals name="move_conversation">
+        <item quantity="other">Sposta %1$d conversazioni</item>
+        <item quantity="one">Sposta conversazione</item>
+     </plurals>
+     <plurals name="new_incoming_messages_many">
+        <item quantity="other">Mostra %1$d nuovi messaggi.</item>
+        <item quantity="one">Mostra %1$d nuovo messaggio.</item>
+     </plurals>
+     <plurals name="new_messages">
+        <item quantity="other">%1$d nuovi messaggi</item>
+        <item quantity="one">%1$d nuovo messaggio</item>
+     </plurals>
+     <plurals name="num_selected">
+        <item quantity="other">%d selezionati</item>
+        <item quantity="one">%d selezionato</item>
+     </plurals>
+     <plurals name="quick_reply_hint">
+        <item quantity="other">Rispondi a %1$d persone</item>
+        <item quantity="one">Rispondi a %1$d persona</item>
+     </plurals>
+     <plurals name="remote_search_result">
+        <item quantity="other">%s risultati sul server</item>
+        <item quantity="one">%s risultato sul server</item>
+     </plurals>
+     <plurals name="show_messages_read">
+        <item quantity="other">%1$d vecchi messaggi</item>
+        <item quantity="one">%1$d vecchio messaggio</item>
+     </plurals>
+     <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s non inviati in %2$s</item>
+        <item quantity="one">%1$s non inviato in %2$s</item>
+     </plurals>
+</resources>

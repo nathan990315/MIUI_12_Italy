@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="aquarius_info">
+        <item>aquario</item>
+        <item>Aquario</item>
+        <item>1/20 - 2/18</item>
+     </string-array>
+     <string-array name="aries_info">
+        <item>ariete</item>
+        <item>Ariete</item>
+        <item>3/21 - 4/19</item>
+     </string-array>
+     <string-array name="cancer_info">
+        <item>cancro</item>
+        <item>Cancro</item>
+        <item>6/22 - 7/22</item>
+     </string-array>
+     <string-array name="capricorn_info">
+        <item>capricorno</item>
+        <item>Capricorno</item>
+        <item>12/22 - 1/19</item>
+     </string-array>
+     <string-array name="change_response_labels">
+        <item>Solo questa istanza</item>
+        <item>Tutti gli eventi della serie</item>
+     </string-array>
+     <string-array name="date_calculate_spinner">
+        <item>Avanti</item>
+        <item>Indietro</item>
+     </string-array>
+     <string-array name="default_reminder_labels">
+        <item>"Al momento dell'evento"</item>
+        <item>5 minuti prima</item>
+        <item>10 minuti prima</item>
+        <item>15 minuti prima</item>
+        <item>30 minuti prima</item>
+        <item>1 ora prima</item>
+        <item>1 giorno prima</item>
+        <item>2 giorni prima</item>
+        <item>1 settimana prima</item>
+     </string-array>
+     <string-array name="delete_repeating_labels">
+        <item>Solo questo evento</item>
+        <item>Questo ed eventi futuri</item>
+        <item>Tutti gli eventi</item>
+     </string-array>
+     <string-array name="gemini_info">
+        <item>gemelli</item>
+        <item>Gemelli</item>
+        <item>5/21 - 6/21</item>
+     </string-array>
+     <string-array name="leo_info">
+        <item>leone</item>
+        <item>Leone</item>
+        <item>7/23 - 8/22</item>
+     </string-array>
+     <string-array name="libra_info">
+        <item>bilancia</item>
+        <item>Bilancia</item>
+        <item>9/23 - 10/23</item>
+     </string-array>
+     <string-array name="ordinal_labels">
+        <item>primo</item>
+        <item>secondo</item>
+        <item>terzo</item>
+        <item>quarto</item>
+        <item>ultimo</item>
+     </string-array>
+     <string-array name="pisces_info">
+        <item>pesci</item>
+        <item>Pesci</item>
+        <item>2/19 - 3/20</item>
+     </string-array>
+     <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Sempre</item>
+        <item>Solo quando silenzioso</item>
+        <item>Mai</item>
+     </string-array>
+     <string-array name="preferences_default_reminder_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+     </string-array>
+     <string-array name="preferences_week_start_day_labels">
+        <item>Definito dalla regione</item>
+        <item>Sabato</item>
+        <item>Domenica</item>
+        <item>Lunedì</item>
+     </string-array>
+     <string-array name="repeat_choose_end">
+        <item>Mai</item>
+        <item>Ora</item>
+        <item>Numero</item>
+     </string-array>
+     <string-array name="repeat_choose_month">
+        <item>Gen</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mag</item>
+        <item>Giu</item>
+        <item>Lug</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Ott</item>
+        <item>Nov</item>
+        <item>Dic</item>
+     </string-array>
+     <string-array name="repeat_choose_week_left">
+        <item>primo</item>
+        <item>secondo</item>
+        <item>terzo</item>
+        <item>quarto</item>
+        <item>ultimo</item>
+     </string-array>
+     <string-array name="repeat_choose_week_right">
+        <item>Lun - Ven</item>
+        <item>Weekend</item>
+        <item>Settimana</item>
+     </string-array>
+     <string-array name="repeat_choose_weekday">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+        <item>Dom</item>
+     </string-array>
+     <string-array name="repeat_countdown">
+        <item>Mai</item>
+        <item>Mensile</item>
+        <item>Annuale</item>
+     </string-array>
+     <string-array name="repeat_frequency_spinner">
+        <item>giorno</item>
+        <item>settimana</item>
+        <item>mese</item>
+        <item>anno</item>
+     </string-array>
+     <string-array name="response_labels1">
+        <item>Senza risposta</item>
+        <item>Sì</item>
+        <item>Forse</item>
+        <item>No</item>
+     </string-array>
+     <string-array name="sagittarius_info">
+        <item>sagittario</item>
+        <item>Sagittario</item>
+        <item>11/23 - 12/21</item>
+     </string-array>
+     <string-array name="scorpio_info">
+        <item>scorpione</item>
+        <item>Scorpione</item>
+        <item>10/24 - 11/22</item>
+     </string-array>
+     <string-array name="taurus_info">
+        <item>toro</item>
+        <item>Toro</item>
+        <item>4/20 - 5/20</item>
+     </string-array>
+     <string-array name="travel_reminder_minutes_labels">
+        <item>3 ore</item>
+        <item>4 ore</item>
+        <item>5 ore</item>
+        <item>6 ore</item>
+        <item>1 giorno</item>
+     </string-array>
+     <string-array name="virgo_info">
+        <item>vergine</item>
+        <item>Vergine</item>
+        <item>8/23 - 9/22</item>
+     </string-array>
+     <string-array name="week_header_name">
+        <item>DOM</item>
+        <item>LUN</item>
+        <item>MAR</item>
+        <item>MER</item>
+        <item>GIO</item>
+        <item>VEN</item>
+        <item>SAB</item>
+     </string-array>
+     <string-array name="widget_style_list">
+        <item>Nero trasparente</item>
+        <item>Sfondo bianco</item>
+     </string-array>
+</resources>

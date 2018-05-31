@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="fileCount">
+        <item quantity="other">%d elementi</item>
+        <item quantity="one">%d elemento</item>
+     </plurals>
+     <plurals name="first_space_notification_format">
+        <item quantity="other">%d notifiche nello Spazio Primario</item>
+        <item quantity="one">%d notifica nello Spazio Primario</item>
+     </plurals>
+     <plurals name="search_app_count_txt_na">
+        <item quantity="other">Cerca %d app</item>
+        <item quantity="one">Cerca %d app</item>
+     </plurals>
+     <plurals name="second_space_notification_format">
+        <item quantity="other">%d notifiche nello Spazio Secondario</item>
+        <item quantity="one">%d notifica nello Spazio Secondario</item>
+     </plurals>
+</resources>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="all_month_str">
+        <item>Gen</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mag</item>
+        <item>Giu</item>
+        <item>Lug</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Ott</item>
+        <item>Nov</item>
+        <item>Dic</item>
+     </string-array>
+     <string-array name="calendar_remind_string_array">
+        <item>Stanotte</item>
+        <item>Domani</item>
+        <item>Weekend</item>
+        <item>Prossima settimana</item>
+        <item>Mese prossimo</item>
+        <item>Scegli data</item>
+     </string-array>
+     <string-array name="compose_modes">
+        <item>Rispondi</item>
+        <item>Rispondi a tutti</item>
+        <item>Inoltra</item>
+     </string-array>
+     <string-array name="general_preference_text_zoom_summary_array">
+        <item>Molto piccolo</item>
+        <item>Piccolo</item>
+        <item>Normale</item>
+        <item>Grande</item>
+        <item>Enorme</item>
+     </string-array>
+     <string-array name="menu_att_mgr_sort_string_array">
+        <item>Predefinito</item>
+        <item>Formato</item>
+        <item>Nome</item>
+        <item>Mittente</item>
+        <item>Data</item>
+     </string-array>
+     <string-array name="moveto_folder_sections">
+        <item>Sistema</item>
+        <item>Utilizzati di frequente</item>
+        <item>Tutte le cartelle</item>
+     </string-array>
+     <string-array name="prefEntries_autoAdvance">
+        <item>Messaggi più nuovi</item>
+        <item>Messaggi più vecchi</item>
+        <item>Lista conversazioni</item>
+     </string-array>
+     <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Sito:</item>
+        <item>Email:</item>
+        <item>Cell:</item>
+        <item>Telefono:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+     </string-array>
+     <string-array name="signature_normal_string_array_next">
+        <item>Indirizzo:</item>
+        <item>Tel:</item>
+        <item>Nome:</item>
+        <item>Email:</item>
+        <item>Cell:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Codice postale:</item>
+     </string-array>
+     <string-array name="signature_special_string_array">
+        <item>Avviso:</item>
+        <item>Avviso Email</item>
+        <item>Inviato da WPSMail</item>
+        <item>Inviato da</item>
+        <item>Inviato con</item>
+        <item>Grazie,</item>
+        <item>Cordiali saluti</item>
+     </string-array>
+     <string-array name="signature_special_string_array_next">
+        <item>Grazie,</item>
+        <item>Cordiali saluti</item>
+        <item>Inviato dal mio</item>
+        <item>Email originale</item>
+        <item>Inviato dal mio</item>
+        <item>Inviato da</item>
+        <item>Da</item>
+        <item>Questa email</item>
+        <item>Avviso</item>
+        <item>Avviso email</item>
+     </string-array>
+</resources>

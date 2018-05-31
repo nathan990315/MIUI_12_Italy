@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Vibra quando squilla</item>
+        <item>Vibra alla ricezione di messaggi</item>
+        <item>Vibra su sveglia</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Scatta foto</item>
+        <item>Trova dispositivo</item>
+        <item>Trova Mi-key</item>
+    </string-array>
+</resources>

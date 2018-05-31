@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">PIN non corretto, %d tentativi rimanenti</item>
+        <item quantity="one">PIN non corretto, %d tentativo rimanente</item>
+     </plurals>
+     <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">PUK non corretto, %d tentativi rimanenti</item>
+        <item quantity="one">PUK non corretto, %d tentativo rimanente</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
+        <item quantity="other">Circa %d ore al completamento</item>
+        <item quantity="one">Circa %d ora al completamento</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
+        <item quantity="other">Circa %d minuti al completamento​</item>
+        <item quantity="one">Circa %d minuto al completamento​</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_charging_full_need_time__text">
+        <item quantity="other">Circa %1$d ore e %2$d minuti al completamento</item>
+        <item quantity="one">Circa %1$d ora e %2$d minuti al completamento</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Circa %d ore rimanenti</item>
+        <item quantity="one">Circa %d ora rimanente</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Circa %d minuti rimanenti</item>
+        <item quantity="one">Circa %d minuto rimanente</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Circa %1$d ore e %2$d minuti rimanenti</item>
+        <item quantity="one">Circa %1$d ora e %2$d minuti rimanenti</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d ora</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d minuto</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d ore %2$d minuti</item>
+        <item quantity="one">%1$d ora %2$d minuti</item>
+     </plurals>
+     <plurals name="new_notifications_msg">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+     </plurals>
+     <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Riprova tra %d minuti</item>
+        <item quantity="one">Riprova tra %d minuto</item>
+     </plurals>
+     <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Riprova tra %d secondi</item>
+        <item quantity="one">Riprova tra %d secondo</item>
+     </plurals>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="choose_ask_type">
+        <item>Chiedi sempre</item>
+        <item>App predefinita</item>
+        <item>App clonata</item>
+     </string-array>
+     <string-array name="switch_apps_entries">
+        <item>Utilizzato nello spazio Primario</item>
+        <item>Utilizzato nello spazio Secondario</item>
+        <item>Utilizzato in entrambi gli spazi</item>
+     </string-array>
+     <string-array name="switch_apps_msg_confirms">
+        <item>I dati app andranno persi dopo che le applicazioni verranno spostate nello spazio Primario.</item>
+        <item>I dati app andranno persi dopo che le applicazioni verranno spostate nello spazio Secondario</item>
+        <item>Le applicazione vengono utilizzate in entrambi gli spazi.</item>
+     </string-array>
+     <string-array name="switch_apps_title_confirms">
+        <item>I dati app verranno persi</item>
+        <item>I dati app verranno persi</item>
+        <item>Attenzione</item>
+     </string-array>
+</resources>

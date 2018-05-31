@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="alarm_repeat_type">
+        <item>Una volta</item>
+        <item>Ogni giorno</item>
+        <item>Giorni lavorativi</item>
+        <item>Infrasettimanale</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
+        <item>Una volta</item>
+        <item>Tutti i giorni</item>
+        <item>Infrasettimanale</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="date_of_app_all">
+        <item>Dati (ieri)\u0020</item>
+        <item>Dati (oggi)\u0020</item>
+		<item>Dati (ultimo mese)\u0020</item>
+        <item>Dati (questo mese)\u0020</item>
+        <item>Wi-Fi (ieri)\u0020</item>
+        <item>Wi-Fi (oggi)\u0020</item>
+		<item>Wi-Fi (ultimo mese)\u0020</item>
+        <item>Wi-Fi (questo mese)\u0020</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+        <item>"Ieri "</item>
+        <item>"Oggi "</item>
+		<item>"Ultimo mese "</item>
+        <item>"Questo mese "</item>
+     </string-array>
+     <string-array name="date_of_traffic_cmcc">
+        <item>"Questa settimana "</item>
+        <item>"Oggi "</item>
+        <item>"Questo mese "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+        <item>"Ieri: "</item>
+        <item>"Oggi: "</item>
+		<item>"Ultimo mese: "</item>
+        <item>"Questo mese: "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Questa settimana: "</item>
+        <item>"Oggi: "</item>
+        <item>"Questo mese: "</item>
+     </string-array>
+     <string-array name="lock_mode">
+        <item>Quando il dispositivo è bloccato</item>
+        <item>"Quando il dispositivo è bloccato dopo l'uscita dall'app"</item>
+        <item>"Quando il dispositivo è bloccato o in 1 minuto dopo l'uscita dall'app"</item>
+     </string-array>
+     <string-array name="mi_service_traffic_type">
+        <item>"Utilizzo dati "</item>
+        <item>"Utilizzo Wi-Fi "</item>
+     </string-array>
+     <string-array name="over_limit_traffic_waring_style">
+        <item>Mostra avviso</item>
+        <item>Avvisa e disattiva la connessione dati</item>
+     </string-array>
+     <string-array name="roaming_network_type">
+        <item>Sempre</item>
+        <item>Solo per le eccezioni</item>
+        <item>Mai</item>
+     </string-array>
+     <string-array name="sms_report_type">
+        <item>Utilizzo dati</item>
+        <item>Saldo telefono</item>
+     </string-array>
+     <string-array name="sort_title">
+        <item>Ordina per stato</item>
+        <item>Ordina per nome app</item>
+        <item>"Ordina per frequenza d'uso"</item>
+        <item>Ordina per memoria utilizzata</item>
+        <item>Ordina per tempo installazione</item>
+     </string-array>
+     <string-array name="sort_type">
+        <item>Stato</item>
+        <item>Nome app</item>
+        <item>Frequenza utilizzo</item>
+        <item>Memoria utilizzata</item>
+        <item>Tempo installazione</item>
+     </string-array>
+     <string-array name="tether_limit_warn_type">
+        <item>Disattiva e notifica</item>
+        <item>Notifica solamente</item>
+     </string-array>
+     <string-array name="title_app_info">
+        <item>Fonte installazione</item>
+        <item>Orario installazione</item>
+        <item>Ultima fonte aggiornamento</item>
+        <item>Ultimo orario aggiornamento</item>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"Utilizzo dati "</item>
+        <item>"Utilizzo Wi-Fi "</item>
+     </string-array>
+</resources>

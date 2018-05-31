@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s note</item>
+        <item quantity="one">%1$s nota</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s cartelle</item>
+        <item quantity="one">%1$s cartella</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%1$s non sono stati sincronizzati</item>
+        <item quantity="one">%1$s è stato sincronizzato</item>
+    </plurals>
+</resources>

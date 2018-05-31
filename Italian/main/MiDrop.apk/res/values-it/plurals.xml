@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sender_file_num">
+        <item quantity="other">In attesa per %1$d file…</item>
+        <item quantity="one">In attesa per %1$d file…</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d file da %1$s</item>
+        <item quantity="one">%2$d file da %1$s</item>
+    </plurals>
+    <plurals name="receiver_file_current">
+        <item quantity="other">Ricezione di %2$d file da %1$s…</item>
+        <item quantity="one">Recezione di %2$d file da %1$s…</item>
+    </plurals>
+    <plurals name="receiver_pic_file_num">
+        <item quantity="other">%2$d immagini da %1$s</item>
+        <item quantity="one">%2$d immagini da %1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_current">
+        <item quantity="other">Ricezione di %2$d immagini da %1$s…</item>
+        <item quantity="one">Ricezione di %2$d immagini da %1$s…</item>
+    </plurals>
+    <plurals name="receiver_audio_file_num">
+        <item quantity="other">%2$d canzoni da %1$s</item>
+        <item quantity="one">%2$d canzoni da %1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_current">
+        <item quantity="other">Ricezione di %2$d canzoni da %1$s…</item>
+        <item quantity="one">Ricezione di %2$d canzoni da %1$s…</item>
+    </plurals>
+    <plurals name="receiver_video_file_num">
+        <item quantity="other">%2$d video da %1$s</item>
+        <item quantity="one">%2$d video da %1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_current">
+        <item quantity="other">Ricezione di %2$d video da %1$s…</item>
+        <item quantity="one">Receiving di %2$d video da %1$s…</item>
+    </plurals>
+    <plurals name="receiver_apk_file_num">
+        <item quantity="other">%2$d app da %1$s</item>
+        <item quantity="one">%2$d app da %1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_current">
+        <item quantity="other">Ricezione di %2$d app da %1$s…</item>
+        <item quantity="one">Recezione di %2$d app da %1$s…</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">Ricezione di %1$s file…</item>
+        <item quantity="one">Ricezione di %1$s file…</item>
+    </plurals>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">%1$s file non trasferiti</item>
+        <item quantity="one">%1$s file non trasferito</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">Ricevuti %1$s file</item>
+        <item quantity="one">Ricevuti %1$s file</item>
+    </plurals>
+</resources>

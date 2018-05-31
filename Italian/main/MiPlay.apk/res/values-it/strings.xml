@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiPlay</string>
+    <string name="noti_projection_status_title">Schermo Wireless Mi Play</string>
+    <string name="noti_projection_status_desc_on">Schermo remoto attivato</string>
+    <string name="prjection_title">Schermo wireless</string>
+    <string name="search_for_devices">Aggiorna</string>
+    <string name="media_feature_projection">Schermo remoto</string>
+    <string name="media_status_error">Errore</string>
+    <string name="media_status_starting">Connessione…</string>
+    <string name="media_status_started">Connesso</string>
+    <string name="media_status_stopping">Interruzione…</string>
+    <string name="media_status_stopped">Interrotto</string>
+    <string name="wifi_display_settings_title">Trasmetti</string>
+    <string name="wifi_display_enable_menu_item">Attiva schermo wireless</string>
+    <string name="wifi_display_no_devices_found">Nessun dispositivo vicino rilevato.</string>
+    <string name="wifi_display_status_connecting">Connessione</string>
+    <string name="wifi_display_status_connected">Connesso</string>
+    <string name="wifi_display_status_in_use">In uso</string>
+    <string name="wifi_display_status_not_available">Non disponibile</string>
+    <string name="wifi_display_details">Impostazioni schermo</string>
+    <string name="wifi_display_options_title">Opzioni schermo wireless</string>
+    <string name="wifi_display_options_forget">Dimentica</string>
+    <string name="wifi_display_options_done">Fatto</string>
+    <string name="wifi_display_options_name">Nome</string>
+    <string name="wifi_display_certification_heading">Certificazione</string>
+    <string name="wifi_display_session_info">Informazioni di sessione</string>
+    <string name="wifi_display_listen_mode">Attiva modalità di ascolto</string>
+    <string name="wifi_display_autonomous_go">Attiva GO autonomo</string>
+    <string name="wifi_display_pause">Pausa</string>
+    <string name="wifi_display_resume">Riprendi</string>
+    <string name="wifi_display_wps_config">Configurazione WPS</string>
+    <string name="wifi_display_listen_channel">Canale di ascolto</string>
+    <string name="wifi_display_operating_channel">Canale operativo</string>
+    <string name="cancel">Annulla</string>
+    <string name="enable_wifi_title">Attiva Wi-Fi</string>
+    <string name="enable_wifi_message">Attiva Wi-Fi per rilevare e collegarti ai dispositivi nelle vicinanze.</string>
+    <string name="enable_wifi_btn">Attiva</string>
+    <string name="media_route_controller_disconnect">Disconnetti</string>
+</resources>

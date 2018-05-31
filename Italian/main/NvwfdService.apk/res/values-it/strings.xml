@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NVIDIA Schemo Wireless</string>
+    <string name="miracast_hdmi_title">HDMI</string>
+    <string name="miracast_hdmi_unavailable">Non disponibile quando Miracast è attivo.</string>
+    <string name="miracast_hdcp_title">Autenticazione HDCP fallita con %1$s</string>
+    <string name="miracast_hdcp_failure_text">Il contenuto non può essere visualizzato.</string>
+    <string name="miracast_connection_status_discovery">"Cerco "</string>
+    <string name="miracast_connection_status_progress">"Connetto a "</string>
+    <string name="miracast_connection_status_connected">"Trasmetto a "</string>
+    <string name="miracast_connection_status_warning_conn_failed">"Impossibile trovare "</string>
+    <string name="miracast_connection_status_warning_conn_lost">"Connessione persa con "</string>
+    <string name="miracast_connection_status_warning_auth_failed">"Autenticazione fallita con "</string>
+    <string name="miracast_access_settings_title">Impostazioni Miracast</string>
+    <string name="miracast_display_notification_disconnect">Disconnetti</string>
+</resources>

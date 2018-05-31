@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="animator_duration_scale_entries">
+        <item>Animazioni disattivate</item>
+        <item>Scala animazioni .5x</item>
+        <item>Scala animazioni 1x</item>
+        <item>Scala animazioni 1.5x</item>
+        <item>Scala animazioni 2x</item>
+        <item>Scala animazioni 5x</item>
+        <item>Scala animazioni 10x</item>
+     </string-array>
+     <string-array name="app_process_limit_entries">
+        <item>Limite normale</item>
+        <item>Nessun processo in background</item>
+        <item>Limite di 1 processo</item>
+        <item>Limite di 2 processi</item>
+        <item>Limite di 3 processi</item>
+        <item>Limite di 4 processi</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Usa Selezione di Sistema (Predefinito)</item>
+        <item>16 bit/campione</item>
+        <item>24 bit/campione</item>
+        <item>32 bit/campione</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Usa Selezione di Sistema (Predefinito</item>
+        <item>16 bit/campione</item>
+        <item>24 bit/campione</item>
+        <item>32 bit/campione</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Usa Selezione di Sistema (Predefinito</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Usa Selezione di Sistema (Predefinito</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Ottimizzato per Qualità Audio</item>
+        <item>Bilanciato tra Qualità Audio e Connessione</item>
+        <item>Ottimizzato per Qualità Connessione</item>
+        <item>Miglior rapporto (Bit Rate Adattivo)</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Ottimizzato per Qualità Audio (990kbps/909kbps)</item>
+        <item>Bilanciato tra Qualità Audio e Connessione (660kbps/606kbps)</item>
+        <item>Ottimizzato per Qualità Connessione (330kbps/303kbps)</item>
+        <item>Miglior rapporto (Bit Rate Adattivo)</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Usa Selezione di Sistema (Predefinito</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Usa Selezione di Sistema (Predefinito</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Usa Selezione di Sistema (Predefinito</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Attiva Codec Opzionali</item>
+        <item>Disattiva Codec Opzionali</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Usa Selezione di Sistema (Predefinito)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Attiva Codec Opzionali</item>
+        <item>Disattiva Codec Opzionali</item>
+     </string-array>
+     <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Default)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+     </string-array>
+     <string-array name="color_mode_descriptions">
+        <item>Colori Migliorati</item>
+        <item>"Colori naturali come visti dall'occhio umano"</item>
+        <item>Colori ottimizzati per contenuti digitali</item>
+     </string-array>
+     <string-array name="color_mode_names">
+        <item>Vibrante (predefinito)</item>
+        <item>Naturale</item>
+        <item>Normale</item>
+     </string-array>
+     <string-array name="debug_hw_overdraw_entries">
+        <item>Disattivato</item>
+        <item>Mostra aree di sovrapposizione</item>
+        <item>Mostra aree per Deuteranomalia</item>
+     </string-array>
+     <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (Predefinito)</item>
+        <item>OpenGL (Skia)</item>
+     </string-array>
+     <string-array name="enable_opengl_traces_entries">
+        <item>None</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+     </string-array>
+     <string-array name="hdcp_checking_summaries">
+        <item>Non usare mai il controllo HDCP</item>
+        <item>Usa il controllo HDCP solo per contenuti DRM</item>
+        <item>Usa sempre il controllo HDCP</item>
+     </string-array>
+     <string-array name="hdcp_checking_titles">
+        <item>Non controllare mai</item>
+        <item>COntrolla solo per contenuti DRM</item>
+        <item>Controlla sempre</item>
+     </string-array>
+     <string-array name="overlay_display_devices_entries">
+        <item>Nessuno</item>
+        <item>480p</item>
+        <item>480p (sicuro)</item>
+        <item>720p</item>
+        <item>720p (sicuro)</item>
+        <item>1080p</item>
+        <item>1080p (sicuro)</item>
+        <item>4K</item>
+        <item>4K (sicuro)</item>
+        <item>4K (upscale)</item>
+        <item>4K (upscale, sicuro)</item>
+        <item>720p, 1080p (doppio schermo)</item>
+     </string-array>
+     <string-array name="select_logd_size_lowram_titles">
+        <item>Disattivato</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+     </string-array>
+     <string-array name="select_logd_size_summaries">
+        <item>Disattivato</item>
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+     </string-array>
+     <string-array name="select_logd_size_titles">
+        <item>Disattivato</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+     </string-array>
+     <string-array name="select_logpersist_summaries">
+        <item>Disattivato</item>
+        <item>Tutti i buffer log</item>
+        <item>Tutti i buffer log tranne radio</item>
+        <item>Solo buffer log kernel</item>
+     </string-array>
+     <string-array name="select_logpersist_titles">
+        <item>Disattivato</item>
+        <item>Tutti</item>
+        <item>Tutti tranne radio</item>
+        <item>Solo kernel</item>
+     </string-array>
+     <string-array name="show_non_rect_clip_entries">
+        <item>Disattivato</item>
+        <item>Disegna aree non rettangolari in blu</item>
+        <item>Evidenzia i comandi di test in verde</item>
+     </string-array>
+     <string-array name="track_frame_time_entries">
+        <item>Disattivato</item>
+        <item>Su schermo come barre</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+     </string-array>
+     <string-array name="transition_animation_scale_entries">
+        <item>Animazioni disattivate</item>
+        <item>Scala animazioni .5x</item>
+        <item>Scala animazioni 1x</item>
+        <item>Scala animazioni 1.5x</item>
+        <item>Scala animazioni 2x</item>
+        <item>Scala animazioni 5x</item>
+        <item>Scala animazioni 10x</item>
+     </string-array>
+     <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+     </string-array>
+     <string-array name="tts_rate_entries">
+        <item>Molto lento</item>
+        <item>Lento</item>
+        <item>Normale</item>
+        <item>Accelerato</item>
+        <item>Veloce</item>
+        <item>Molto veloce</item>
+        <item>Rapido</item>
+        <item>Molto rapido</item>
+        <item>Velocità massima</item>
+     </string-array>
+     <string-array name="usb_configuration_titles">
+        <item>In carica</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Fonte audio</item>
+        <item>MIDI</item>
+     </string-array>
+     <string-array name="wifi_status">
+        <item></item>
+        <item>Scansione…</item>
+        <item>Connessione…</item>
+        <item>Autenticazione…</item>
+        <item>Recupero indirizzo IP…</item>
+        <item>Connesso</item>
+        <item>Sospeso</item>
+        <item>Disconnessione…</item>
+        <item>Disconnesso</item>
+        <item>Fallito</item>
+        <item>Bloccato</item>
+        <item>Evitamento temporaneo reti deboli</item>
+     </string-array>
+     <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scansione…</item>
+        <item>Connessione a %1$s…</item>
+        <item>Autenticazione con %1$s…</item>
+        <item>Recupero indirizzo IP da %1$s…</item>
+        <item>Connesso a %1$s</item>
+        <item>Sospeso</item>
+        <item>Disconnesso da %1$s…</item>
+        <item>Disconnesso</item>
+        <item>Fallito</item>
+        <item>Bloccato</item>
+        <item>Evitamento temporaneo reti deboli</item>
+     </string-array>
+     <string-array name="window_animation_scale_entries">
+        <item>Animazioni disattivate</item>
+        <item>Scala animazioni .5x</item>
+        <item>Scala animazioni 1x</item>
+        <item>Scala animazioni 1.5x</item>
+        <item>Scala animazioni 2x</item>
+        <item>Scala animazioni 5x</item>
+        <item>Scala animazioni 10x</item>
+     </string-array>
+</resources>
