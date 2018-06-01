@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Accounts_settings_title">Account</string>
      <string name="abc_action_bar_home_description">Naviga nella home</string>
@@ -259,7 +259,11 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="another_migration_already_in_progress">"E' già in corso un'altra migrazione."</string>
      <string name="anti_spam">Antispam</string>
      <string name="aod_mode_summary">Mostra ora, data e messaggi a schermo spento.</string>
+     <string name="aod_mode_time_summary">Schedule time when your device should switch to Always on mode</string>
+     <string name="aod_mode_time_title">Schedule</string>
      <string name="aod_mode_title">Modalità Sempre attivo</string>
+     <string name="aod_mode_turn_off">Off</string>
+     <string name="aod_mode_turn_on">On</string>
      <string name="apn_apn">APN</string>
      <string name="apn_auth_type">Tipo di autenticazione</string>
      <string name="apn_auth_type_chap">CHAP</string>
@@ -1013,8 +1017,6 @@ Frequenza Campione"</string>
      <string name="carrier_enabled">Attivazione/disattivazione APN</string>
      <string name="carrier_enabled_summaryOff">APN non attivo</string>
      <string name="carrier_enabled_summaryOn">APN attivo</string>
-     <string name="carrier_show_in_lock_screen">Mostra solo nella schermata di blocco</string>
-     <string name="carrier_show_none">"Non mostrare mai il nome dell'operatore"</string>
      <string name="category_personal">Personale</string>
      <string name="category_work">Lavoro</string>
      <string name="cdma_security_settings_summary">Imposta La mia posizione, blocco schermo, blocco archivio credenziali</string>
@@ -2436,7 +2438,6 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="lock_settings_profile_unified_summary">Lo stesso dello sblocco schermo dispositivo</string>
      <string name="lock_settings_title">Sicurezza schermo</string>
      <string name="lock_settings_with_fingerprint">Schermata di blocco e password</string>
-	 <string name="master_clear_summary">Eliminerà tutti i dati sul telefono</string>
      <string name="lock_setup">Impostazione completata.</string>
      <string name="lock_sounds_enable_title">Suono di blocco schermo</string>
      <string name="lockpassword_cancel_label">Annulla</string>
@@ -2715,6 +2716,8 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_allow_vibrate">Vibrazione</string>
      <string name="miui_data_usage_menu_metered">Hotspot dati cellulare</string>
      <string name="miui_experience_optimization">Attiva ottimizzazione MIUI</string>
+     <string name="miui_lab_drive_mode_desc">Use voice controls &amp; listen to WeChat messages</string>
+     <string name="miui_lab_drive_mode_title">Car mode</string>
      <string name="miui_lab_feature_applied">Applicato</string>
      <string name="miui_lab_feature_off">Disattivato</string>
      <string name="miui_lab_feature_on">Attivato</string>
@@ -2723,6 +2726,8 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_lab_gallery_search_title">Trova foto in Galleria Gallery</string>
      <string name="miui_lab_settings">MIUI Lab</string>
      <string name="miui_lab_slogan">Impara. Esplora. Scopri.</string>
+     <string name="miui_lab_super_resolution_desc">Make images crisper</string>
+     <string name="miui_lab_super_resolution_title">Super resolution</string>
      <string name="miui_lab_taplus_desc">Tieni premuto i collegamenti di avvio</string>
      <string name="miui_lab_taplus_title">Avvio app</string>
      <string name="miui_master_clear_summary">Elimina tutti i dati sul telefono</string>
@@ -2856,6 +2861,8 @@ ed esegui il software."</string>
      <string name="nature_color">Default</string>
      <string name="navigation_guide_app_summary">Scorri a sinistra o destra dal bordo superiore dello schermo</string>
      <string name="navigation_guide_app_title">"Azione per l'app"</string>
+     <string name="navigation_guide_appswitch_summary">Swipe left or right from the edge of the screen and hold for a while</string>
+     <string name="navigation_guide_appswitch_title">Switch to previous app</string>
      <string name="navigation_guide_back_anim_summary">Gesture indietro con animazione</string>
      <string name="navigation_guide_back_anim_title">Animazione gesture indietro</string>
      <string name="navigation_guide_back_summary">Scorri a destra o sinistra sullo schermo</string>
@@ -2989,6 +2996,8 @@ ed esegui il software."</string>
      <string name="normal_smartcover_title">Cover frontale opaca</string>
      <string name="not_battery_optimizing">Ottimizzazione batteria non utilizzata</string>
      <string name="not_installed">Non installata</string>
+     <string name="notch_force_black_desc">Turn on to darken the area around the notch</string>
+     <string name="notch_force_black_title">Hide notch</string>
      <string name="notes_privacy_password_role_instruction">Le tue note private verranno archiviate qui.</string>
      <string name="notification_app_settings_button">Impostazioni di notifica</string>
      <string name="notification_badge_title">Consenti il punto di notifica</string>
@@ -3508,7 +3517,6 @@ ed esegui il software."</string>
      <string name="radioInfo_menu_getIMS">Stato Servizio IMS</string>
      <string name="radioInfo_menu_viewADN">Visualizza rubrica SIM</string>
      <string name="radioInfo_menu_viewFDN">Visualizza numeri selezione fissa</string>
-	 <string name="radioInfo_menu_getPDP">Ottieni lista PDP</string>
      <string name="radioInfo_menu_viewSDN">"Visualizza numeri dell'elenco dei numeri di servizio"</string>
      <string name="radioInfo_phone_idle">Disattivato</string>
      <string name="radioInfo_phone_offhook">Chiamata in corso</string>
@@ -3843,6 +3851,8 @@ Come usare Mantieni su schermo:
      <string name="sd_mount_summary" />
      <string name="sdcard_changes_instructions">Le modifiche verranno applicate quando verrà ricollegato il cavo USB.</string>
      <string name="sdcard_format">Formatta scheda SD</string>
+     <string name="sdcard_optimization">Ottimizzazione scheda SD</string>
+     <string name="sdcard_optimization_summary">La tua scheda SD sarà molto più veloce</string>
      <string name="sdcard_setting">Archivio USB</string>
      <string name="sdcard_settings_available_bytes_label">Byte disponibili:</string>
      <string name="sdcard_settings_bad_removal_status">Archivio USB rimosso quando ancora in uso.</string>
@@ -4387,6 +4397,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_app_enable_floating">Notifiche a comparsa</string>
      <string name="status_bar_app_enable_keyguard">Schermata di blocco</string>
      <string name="status_bar_app_enable_message">Badge</string>
+     <string name="status_bar_carrier_settings_no_sim_card">No SIM card</string>
      <string name="status_bar_key_position_custom">Personalizza posizione tasti</string>
      <string name="status_bar_screen_button_force_immersive_desc">"Scorri da basso verso l'altro dello schermo per mostrare i tasti virtuali"</string>
      <string name="status_bar_screen_button_key_force_immersive">Nascondi tasti virtuali</string>
@@ -4403,7 +4414,6 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_custom_carrier">"Modifica il nome dell'operatore"</string>
      <string name="status_bar_settings_custom_wifi_name">Modifica nome rete Wi-Fi</string>
      <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
-     <string name="status_bar_settings_expandable_under_keyguard">Abilita nella Schermata di blocco</string>
      <string name="status_bar_settings_long_click_sort">Tieni premuto per ordinare</string>
      <string name="status_bar_settings_manage_notification">Gestisci notifiche</string>
      <string name="status_bar_settings_no_carrier">Nessuna</string>
@@ -4415,6 +4425,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_notification_vibrate">Vibrazione</string>
      <string name="status_bar_settings_show_carrier">Mostra operatore</string>
      <string name="status_bar_settings_show_carrier_summary">Mostra solo nella Schermata di blocco</string>
+     <string name="status_bar_settings_show_carrier_under_keyguard">Show carrier when device is locked</string>
      <string name="status_bar_settings_show_floating_notification">Notifiche a comparsa</string>
      <string name="status_bar_settings_show_floating_notification_summary">Le notifiche scompariranno automaticamente dopo essere apparse in alto</string>
      <string name="status_bar_settings_show_flow_info">Mostra dettagli trasmissione</string>
@@ -4617,6 +4628,7 @@ Considera l'utilizzo di un ^1 più veloce per prestazioni migliori."</string>
      <string name="storageuse_settings_title">Utilizzo memoria</string>
      <string name="strict_mode">Attiva Modalità Strict</string>
      <string name="strict_mode_summary">Flash dello schermo in caso di lunghe operazioni sul thread principale</string>
+     <string name="structure_add_facerecoginition_text">Add 3D face data</string>
      <string name="suggest_unrestrict_max_aspect_ratio_title">Suggeriamo di attivare la dimensione massima</string>
      <string name="suggested_fingerprint_lock_settings_summary">"Sblocca con l'impronta"</string>
      <string name="suggested_fingerprint_lock_settings_title">Usa impronta</string>
@@ -4630,6 +4642,12 @@ Considera l'utilizzo di un ^1 più veloce per prestazioni migliori."</string>
      <string name="sum_carrier_select">Scegli un operatore di rete</string>
      <string name="summary_divider_text">", "</string>
      <string name="summary_range_verbal_combination">%1$s di %2$s</string>
+     <string name="super_resolution_access_title">Accessible apps</string>
+     <string name="super_resolution_desc">Make images crisper using an AI algorithm</string>
+     <string name="super_resolution_maintain">"Super resolution isn't available yet."</string>
+     <string name="super_resolution_no_app_tips">Download WeChat and Toutiao first.</string>
+     <string name="super_resolution_reboot_tips">Restart apps to make this feature work after you turn it on.</string>
+     <string name="super_resolution_title">Super resolution</string>
      <string name="supl_not_set">Non impostato</string>
      <string name="supplicant_state_label">Stato supplicant:</string>
      <string name="support_account_picker_add_account">Aggiungi account</string>
@@ -4789,7 +4807,6 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="track_frame_time">Render GPU</string>
      <string name="trackball_settings">Trackball</string>
      <string name="trackball_wake_title">Attivazione con trackball</string>
-     <string name="traffic_balance">Strategia traffico intelligente</string>
      <string name="traffic_none">Nessuno</string>
      <string name="transition_animation_scale_title">Scala animazione transizione</string>
      <string name="translation_contributors_summary" />
@@ -5395,6 +5412,27 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_api_test">API Wi-Fi</string>
      <string name="wifi_ask_disable">%s vuole disattivare la connessione Wi-Fi</string>
      <string name="wifi_ask_enable">%s vuole attivare la connessione Wi-Fi</string>
+     <string name="wifi_assistant">WLAN assistant</string>
+     <string name="wifi_assistant_auto_confirm_data_message">This WLAN network has no access to the internet. Your device will use mobile data instead. You can turn off WLAN assistant in the Settings.</string>
+     <string name="wifi_assistant_confirm_always">"Don't show again"</string>
+     <string name="wifi_assistant_confirm_connection_title">Confirm</string>
+     <string name="wifi_assistant_data_prompt">Show data usage warning</string>
+     <string name="wifi_assistant_data_prompt_summary">Show data usage warning when WLAN assistant switches to mobile data</string>
+     <string name="wifi_assistant_description">"Here's how WLAN assistant works:
+1. When WLAN connection is poor, WLAN assistant will try to connect your device to other available WLAN networks.
+2. If all available WLAN connections turn out to be poor and mobile data is turned on, WLAN assistant will switch to mobile data."</string>
+     <string name="wifi_assistant_disconnect">Disconnect</string>
+     <string name="wifi_assistant_explicitly_confirm_data_message">This WLAN network has no access to the internet. Use mobile data instead?</string>
+     <string name="wifi_assistant_explicitly_confirm_disconnect">This WLAN network has no access to the internet. Disconnect now?</string>
+     <string name="wifi_assistant_explicitly_confirm_wifi_message">This WLAN network has no access to the internet. Other WLAN networks are available. Switch networks?</string>
+     <string name="wifi_assistant_keep_connection">Stay connected</string>
+     <string name="wifi_assistant_off">Off</string>
+     <string name="wifi_assistant_ok">OK</string>
+     <string name="wifi_assistant_on">On</string>
+     <string name="wifi_assistant_setup_wifi_assistant">Set up</string>
+     <string name="wifi_assistant_summary">Switch between WLAN networks and mobile data when WLAN connection is poor</string>
+     <string name="wifi_assistant_switch_data">Use mobile data</string>
+     <string name="wifi_assistant_switch_wifi">Switch networks</string>
      <string name="wifi_auto_connect">Connessione automatica</string>
      <string name="wifi_available_title">Connettiti al Wi-Fi</string>
      <string name="wifi_avoid_poor_network_detection_summary">Usa solo reti con una buona connessione</string>
@@ -5428,6 +5466,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_connect_cmcc_dialog_title">Notifica utilizzo dati</string>
      <string name="wifi_connect_failed_message">Impossibile collegare il dispositivo alla rete Wi-Fi.</string>
      <string name="wifi_connected_no_internet">Connesso, senza Internet</string>
+     <string name="wifi_connection_management">Manage WLAN connections</string>
      <string name="wifi_context_menu_change_password">Cambia password</string>
      <string name="wifi_context_menu_change_wapi_certificate">Cambia certificato WAPI</string>
      <string name="wifi_context_menu_connect">Connetti</string>
@@ -5481,14 +5520,14 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_eap_domain">Dominio</string>
      <string name="wifi_eap_identity">Identità</string>
      <string name="wifi_eap_method">Metodo EAP</string>
+     <string name="wifi_eap_options_advanced">Advanced options</string>
+     <string name="wifi_eap_options_simple">Simple options</string>
      <string name="wifi_eap_sim_simcard">Scegli la SIM</string>
      <string name="wifi_eap_user_cert">Certificato utente</string>
      <string name="wifi_empty_list_user_restricted">"Non disponi dell'autorizzazione per cambiare la rete Wi-Fi."</string>
      <string name="wifi_empty_list_wifi_off">Per visualizzare le reti disponibili, attiva il Wi-Fi.</string>
      <string name="wifi_empty_list_wifi_on">Ricerca reti Wi-Fi in corso…</string>
      <string name="wifi_enable">Wi-Fi</string>
-     <string name="wifi_enable_data_and_wifi_roam">Roaming Dati e Wi-Fi</string>
-     <string name="wifi_enable_data_and_wifi_roam_summary">Passa alla connessione dati quando la connessione dati e il Wi-Fi provano a collegarsi e il Wi-Fi non può accedere a internet.</string>
      <string name="wifi_enable_watchdog_service_summary">Evita connessioni di scarsa qualità</string>
      <string name="wifi_error">Errore</string>
      <string name="wifi_fail_to_scan">Impossibile cercare reti</string>
@@ -5534,6 +5573,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_menu_write_to_nfc">Crea un tag NFC</string>
      <string name="wifi_more">Altro</string>
      <string name="wifi_multiple_cert_added">(certificati multipli aggiunti)</string>
+     <string name="wifi_network_optimization">Optimized connection</string>
      <string name="wifi_network_prefix_length">Lunghezza prefisso</string>
      <string name="wifi_network_prefix_length_hint">24</string>
      <string name="wifi_no_domain_warning">Devi specificare un dominio.</string>
@@ -5550,6 +5590,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_off_airplane_on_not_remind">Non mostrare più</string>
      <string name="wifi_off_airplane_on_title">Wi-Fi in modalità Aereo</string>
      <string name="wifi_on_time">Tempo accensione Wi-Fi</string>
+     <string name="wifi_other_connection_mode">Other connectivity options</string>
      <string name="wifi_p2p_cancel_connect_message">"Annullare l'invito a connettersi con %1$s?"</string>
      <string name="wifi_p2p_cancel_connect_title">"Annullare l'invito?"</string>
      <string name="wifi_p2p_delete_group_message">Eliminare questo gruppo?</string>
@@ -5577,9 +5618,11 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="wifi_priority_settings_title">Impostazione priorità AP</string>
      <string name="wifi_priority_type_summary">"Imposta manualmente la priorità per ciascun punto d'accesso"</string>
      <string name="wifi_priority_type_title">Impostazione manuale priorità AP</string>
+     <string name="wifi_property">WLAN properties</string>
      <string name="wifi_quick_toggle_summary">Attiva Wi-Fi</string>
      <string name="wifi_quick_toggle_title">Wi-Fi</string>
      <string name="wifi_remembered">Salvata</string>
+     <string name="wifi_remembered_disabled_auto_connect">Saved. Auto connection is off.</string>
      <string name="wifi_required_info_text">Per poter completare la configurazione, il dispositivo deve poter accedere ad una rete Wi-Fi. Dopo la configurazione potrai passare dalla connessione dati alla rete Wi-Fi e viceversa.</string>
      <string name="wifi_sap_no_channel_error">Banda 5GHz non disponibile in questa nazione</string>
      <string name="wifi_save">Salva</string>
@@ -5724,6 +5767,14 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="wifi_tether_settings_title">Hotspot personale</string>
      <string name="wifi_tether_starting">Attivazione hotspot…</string>
      <string name="wifi_tether_stopping">Disattivazione hotspot…</string>
+     <string name="wifi_traffic_priority">WLAN speed mode</string>
+     <string name="wifi_traffic_priority_extreme">Extreme mode</string>
+     <string name="wifi_traffic_priority_extreme_summary">Give most of the bandwidth to the app in the foreground. Background processes might not be able to connect to the network.</string>
+     <string name="wifi_traffic_priority_off">Off</string>
+     <string name="wifi_traffic_priority_on">On</string>
+     <string name="wifi_traffic_priority_regular">Regular mode</string>
+     <string name="wifi_traffic_priority_regular_summary">Share bandwidth between background processes and the app in the foreground</string>
+     <string name="wifi_traffic_priority_summary">Prioritize connection speed automatically</string>
      <string name="wifi_type_approval" />
      <string name="wifi_type_approval_dialog_title">NTC NO.</string>
      <string name="wifi_type_approval_title">Tipo di approvazione</string>
@@ -5923,16 +5974,4 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="zone_auto_summaryOn">Utilizza il fuso orario fornito dalla rete</string>
      <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
      <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
-	 <string name="sdcard_optimization">Ottimizzazione scheda SD</string>
-	 <string name="sdcard_optimization_summary">La tua scheda SD sarà molto più veloce</string>
-	 <string name="show_cpu_usage">Mostra utilizzo CPU</string>
-     <string name="show_cpu_usage_summary">Mostra utilizzo CPU sullo schermo</string>
-	 <string name="legacy_dhcp_client">Utilizza il client DHCP</string>
-	 <string name="legacy_dhcp_client_summary">Utilizzare il client DHCP da Lollipop al posto del nuovo client Android DHCP.</string>
-	 <string name="use_nuplayer">Utilizza NuPlayer (sperimentale)</string>
-     <string name="use_nuplayer_summary">Utilizza NuPlayer al posto di AwesomePlayer</string>
-	 <string name="print_enable">Abilita stampa</string>
-	 <string name="print_remind">Abilita prima la stampa</string>
-	 <string name="date_time_date_format">Scegli il formato data</string>
-	 <string name="zen_mode_from">Chiamate/messaggi da</string>
 </resources>

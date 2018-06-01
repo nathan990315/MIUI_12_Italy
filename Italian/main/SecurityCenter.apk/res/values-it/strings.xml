@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Phonepass">Consenti chiamate</string>
      <string name="SMS_and_MMS">SMS e MMS</string>
@@ -797,6 +797,8 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gamebooster_main_activity_back">Torna a Turbo videogiochi</string>
      <string name="gamebooster_network_dialog_message">"Consentire all'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzionalità di Turbo videogiochi?"</string>
      <string name="gamebooster_network_dialog_title">Alcune funzionlità non sono disponibili</string>
+     <string name="gamebox_qq_not_find">Install QQ and try again.</string>
+     <string name="gamebox_wechat_not_find">Install WeChat and try again.</string>
      <string name="gateway_exception_summary">Controlla il tuo router e riprova.</string>
      <string name="gateway_exception_summary2">"Impossibile connettersi al server"</string>
      <string name="gateway_exception_title">Test router</string>
@@ -809,6 +811,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gb_have_signed">Registrato oggi</string>
      <string name="gb_msg_completely_shielded">Nascondi messaggi</string>
      <string name="gb_msg_completely_shielded_summary">Nascondi</string>
+     <string name="gb_msg_not_shielded_summary">Show</string>
      <string name="gb_msg_quickly_answer">Consenti risposte veloci</string>
      <string name="gb_msg_quickly_answer_summary">Risposte veloci</string>
      <string name="gb_msg_transparent_dispaly">Notifiche con sfondo trasparente</string>
@@ -852,6 +855,8 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gs_game_net_priority_detail">Limita la velocità di download per avere maggiore banda da dedicare al gioco</string>
      <string name="gs_game_performance">Prestazioni</string>
      <string name="gs_game_shortcut">"Goditi un'esperienza di gioco più fluida"</string>
+     <string name="gs_gamebox">In-game shortcuts</string>
+     <string name="gs_gamebox_detail">Show in-game shortcut panel</string>
      <string name="gs_only_self_start_for_list">Limita i processi in background per risparmiare batteria da utilizzare per il gioco</string>
      <string name="gs_open_game_booster">Incrementa la velocità</string>
      <string name="gs_open_game_booster_summary">Migliora la velocità di rete per i giochi</string>
@@ -1144,6 +1149,8 @@ dall'operatore"</string>
      <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
      <string name="mi_service_traffic_detail">Dettagli framework</string>
      <string name="mian_page_primary_txt">Roaming estero</string>
+     <string name="midrop_post_notification_contentText">"Try Mi Drop. It's fast and ad-free."</string>
+     <string name="midrop_post_notification_contentTitle">Need to transfer files?</string>
      <string name="mixed_need_to_confirm">Inserisci di nuovo per confermare</string>
      <string name="mixed_password_confirmed_header_confirm">Impostato correttamente. Tocca per confermare.</string>
      <string name="mixed_password_confirmed_header_continue">Impostato correttamente. Tocca \"Avanti\".</string>
@@ -1676,6 +1683,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="scan_installed_games">Controllo giochi installati…</string>
      <string name="scan_status_risk">Pericolo</string>
      <string name="scan_status_safe">Sicuro</string>
+     <string name="screenrecord_not_find">Install the latest version of Screen Recorder and try again.</string>
      <string name="search_result_text">Nessuna app trovata</string>
      <string name="section_clear_acc_item_title">Liberato %s. Se non hai ancora abbastanza spazio, prova ad utilizzare Pulizia.</string>
      <string name="section_security_defend_item_title">Proteggi i tuoi dati con Blocco Applicazioni</string>

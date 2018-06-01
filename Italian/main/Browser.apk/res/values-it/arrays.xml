@@ -13,6 +13,10 @@
         <item>Telefono</item>
         <item>Tablet</item>
      </string-array>
+     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Vertical view</item>
+        <item>Horizontal view</item>
+     </string-array>
      <string-array name="pref_text_zoom_choices">
         <item>Molto piccolo</item>
         <item>Piccolo</item>
@@ -69,7 +73,7 @@
         <item>Neve da moderata a forte</item>
         <item>Neve da forte a bufera</item>
         <item>Polvere sospesa</item>
-        <item>Sabbia nell\'aria</item>
+        <item>"Sabbia nell\'aria"</item>
         <item>Tempesta di sabbia</item>
         <item>Nebbia densa</item>
         <item>Forte nebbia</item>

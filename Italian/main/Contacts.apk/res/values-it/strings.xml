@@ -191,7 +191,7 @@
      <string name="composer_failed_to_get_database_infomation">Recupero informazioni database non riuscito.</string>
      <string name="composer_has_no_exportable_contact">"Non sono presenti contatti esportabili. Se hai contatti sul dispositivo, è possibile che alcuni fornitori di dati non consentano l'esportazione dei contatti."</string>
      <string name="composer_not_initialized">Il compositore di vCard non si è avviato correttamente.</string>
-     <string name="confirm_delete_contact_all_call_logs">Cancellare il registro chiamate?</string>
+     <string name="confirm_delete_contact_all_call_logs">"Clear all %s's history?"</string>
      <string name="confirm_delete_selected_all_call_logs">Cancellare il registro chiamate?</string>
      <string name="confirm_delete_sim_entry_miui_title">Elimina</string>
      <string name="confirm_export_message">"L'elenco dei contatti verrà esportato nel file: %s."</string>
@@ -213,6 +213,7 @@
      <string name="contact_detail_calllog_empty">Nessuna chiamata</string>
      <string name="contact_detail_entry_pay">Paga</string>
      <string name="contact_detail_entry_pay_dialog_title">Seleziona il numero di telefono</string>
+     <string name="contact_detail_entry_pay_request">Request money</string>
      <string name="contact_detail_menu_delete_miprofile">Elimina scheda</string>
      <string name="contact_detail_miprofile_accept">Scambio schede contatto</string>
      <string name="contact_detail_miprofile_accept_fail_toast">Impossibile scambiare schede contatti</string>
@@ -1153,7 +1154,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="toast_start_intent_failed">"Nessuna app per eseguire l'azione"</string>
      <string name="toast_text_copied">Testo copiato</string>
      <string name="today">Oggi</string>
-     <string name="tomorrow">Domani</string>
      <string name="transfer_accounts">Trasferisci account</string>
      <string name="type_incoming">Chiamata ricevuta</string>
      <string name="type_missed">Chiamata persa</string>
@@ -1238,6 +1238,5 @@ Scegli una delle seguenti opzioni:"</string>
      <string name="yellowpage_navigation_send_to_desktop_succeeded">Aggiunto alla Home</string>
      <string name="yellowpage_search_the_yellowpage">Cerca nella cartella</string>
      <string name="yellowpage_user_profile">Profilo</string>
-     <string name="yesterday">Ieri</string>
      <string name="zero_items_selected">Seleziona voci</string>
 </resources>

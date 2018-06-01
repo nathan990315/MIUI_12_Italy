@@ -215,6 +215,14 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">"%d minuti "</item>
         <item quantity="one">"%d minuto "</item>
      </plurals>
+     <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+     </plurals>
+     <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
+     </plurals>
      <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d problemi batteria</item>
         <item quantity="one">%d problema batteria</item>

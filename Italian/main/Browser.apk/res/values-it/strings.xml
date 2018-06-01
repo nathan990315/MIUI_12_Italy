@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="abc_action_bar_home_description">Vai alla home</string>
      <string name="abc_action_bar_up_description">Vai in alto</string>
@@ -45,7 +45,9 @@
      <string name="action_menu_useful_page_added">Utilità aggiunta</string>
      <string name="action_menu_user_center">Centro utente</string>
      <string name="action_modify_bookmark">Modifica segnalibro</string>
+     <string name="action_one_touch">Open notifications</string>
      <string name="action_put_in_search_box">Inserisci %s nel campo di ricerca</string>
+     <string name="action_skip">Skip</string>
      <string name="adblock_force_updating_rules_toast">Aggiornamento Ad blocker</string>
      <string name="adblock_notification">%d pubblicità bloccate</string>
      <string name="adblock_rules_not_updated_toast">Fallito</string>
@@ -283,6 +285,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="enable_geolocation_confirm_message">La disattivazione di questa funzione potrebbe influire sulla visualizzazione dei siti web.</string>
      <string name="enter_developer_mode">Modalità sviluppatore</string>
      <string name="enter_incongnito_mode">Entra in modalità incognito</string>
+     <string name="enter_infoflow_guide">Slide up to see news</string>
      <string name="enter_the_group_name">Inserisci il nome del gruppo</string>
      <string name="enter_the_password">Inserisci la password</string>
      <string name="enter_the_user_name">Inserisci il nome utente</string>
@@ -344,8 +347,10 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="homepage_more_sites">Altri siti</string>
      <string name="homepage_search_hint">Cerca</string>
      <string name="homepage_top_card_menu">In cima</string>
+     <string name="hot_words_item_ads_mark">Ads</string>
      <string name="ignore_add_pwa_dialog_today">Non mostrare oggi</string>
      <string name="in_secureaccess">Browser passato in modalità provvisoria</string>
+     <string name="info_flow_description">Info channel</string>
      <string name="isReplacePage">File già esistente, sostituire?</string>
      <string name="is_first_history_item">Questa è la prima voce in cronologia</string>
      <string name="is_first_tab">Questa è la prima scheda</string>
@@ -377,6 +382,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="menu_title_open_file_management">Apri File Explorer</string>
      <string name="menu_title_pause_all">Metti tutto in pausa</string>
      <string name="menu_title_resume_all">Avvia tutto</string>
+     <string name="message_notice_push">Latest hot spots no longer miss!</string>
      <string name="miui_autologin_bar_error">Impossibile accedere</string>
      <string name="miui_autologin_bar_title">Usa account di sistema per accedere</string>
      <string name="miui_bookmark_action_bar_add_group_title">Aggiungi gruppo</string>
@@ -901,6 +907,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_nav_mode_summary_pad">Tablet</string>
      <string name="pref_nav_mode_summary_phone">Telefono</string>
      <string name="pref_nav_mode_title">Modalità browser</string>
+     <string name="pref_navscreen_layoutstate_title">Multi-window management</string>
      <string name="pref_notifications_hint">Notifiche</string>
      <string name="pref_notifications_receive">Avvisi per nuove notifiche</string>
      <string name="pref_notifications_title">Notifiche</string>
@@ -980,6 +987,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="readmode_recommend_message">Hai letto tutti i capitoli di questo libro. Passa alla lettura di un altro.</string>
      <string name="readmode_refresh">Aggiorna</string>
      <string name="readmodelist_bookmarks_to_show">Lista di lettura</string>
+     <string name="refresh_description">Refresh</string>
      <string name="refuse_permissions_request">Rifiuta</string>
      <string name="remember_passwords_confirm_message">"La disattivazione di questa funzione potrebbe influire sull'utilizzo."."</string>
      <string name="remove_bookmark">Elimina segnalibro</string>
@@ -1004,9 +1012,10 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="same_folder_name_warning">Cartella già esistente</string>
      <string name="save_button_text">Salva</string>
      <string name="save_dialog_title">Salva</string>
-     <string name="save_file">Salva %s file</string>
+     <string name="save_file">Salva</string>
      <string name="save_file_already_exist_alert_message">Un file con lo stesso nome esiste già, desideri sovrascriverlo?</string>
      <string name="save_file_already_exist_alert_title">Sovrascrivere il file?</string>
+     <string name="save_file_suffix">file</string>
      <string name="save_form_data_confirm_message">"La disattivazione di questa funzione potrebbe influire sull'utilizzo."</string>
      <string name="save_image_failed">"Impossibile salvare l'immagine"</string>
      <string name="save_image_success">Immagine salvata</string>
@@ -1055,6 +1064,8 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="share_image_text">Sto guardando una foto bellissima</string>
      <string name="share_page_text">"Mi sto godendo %1$s | %2$s"</string>
      <string name="share_video">Condividi video</string>
+     <string name="short_video_description">Video channel</string>
+     <string name="short_video_tip">Look! Fun video</string>
      <string name="show_check_security_url_check_tip_dialog_description">"Raccoglieremo ed utilizzeremo i tuoi dati personali se scegli di utilizzare il nostro servizio.
 Questi sono i dati che raccoglieremo:
 1. URL sicuri: raccoglieremo gli URL dei siti che visiti mentre utilizzi il nostro servizio.
@@ -1118,6 +1129,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="suggest_access_music">Mi Music</string>
      <string name="suggest_item_delete_text">Elimina</string>
      <string name="suggest_open_app_failed">Non è stato possibile aprire questa app</string>
+     <string name="suggestion_clear_record_message">Do you confirm empty input record?</string>
      <string name="suggestion_express_button_query_more">VEDI ALTRO</string>
      <string name="suggestion_express_button_text_query">QUERY</string>
      <string name="suggestion_express_exception_net">Si è verificato un problema di rete. Prego verifica la connessione di rete</string>
@@ -1148,6 +1160,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="tae_sdk_qr_login_icon_scan"></string>
      <string name="temp_refuse">Rifiuta</string>
      <string name="title_bar_loading">Caricamento…</string>
+     <string name="title_notice_push">Notice reminding</string>
      <string name="too_many_windows_dialog_message">Impossibile aprire una nuova scheda finché non se ne chiude una.</string>
      <string name="too_many_windows_dialog_title">Limite schede raggiunto</string>
      <string name="transfer_prompt_0">Avvia video</string>

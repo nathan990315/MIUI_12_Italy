@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="animator_duration_scale_entries">
         <item>Animazioni disattivate</item>
@@ -16,6 +16,11 @@
         <item>Massimo 2 processi</item>
         <item>Massimo 3 processi</item>
         <item>Massimo 4 processi</item>
+     </string-array>
+     <string-array name="battery_options">
+        <item>Always show percentage</item>
+        <item>Show percentage when charging (default)</item>
+        <item>"Don't show this icon"</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Usa selezione di sistema (Predefinito)</item>
@@ -90,13 +95,10 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
      </string-array>
-     <string-array name="carrier_name">
-        <item>SmarToneVodafone</item>
-        <item>SmarToneVodafone 3G</item>
-     </string-array>
-     <string-array name="carrier_simple_name">
-        <item>SMC HK</item>
-        <item>SMC HK 3G</item>
+     <string-array name="clock_options">
+        <item>Show hours, minutes, and seconds</item>
+        <item>Show hours and minutes (default)</item>
+        <item>"Don't show this icon"</item>
      </string-array>
      <string-array name="color_mode_descriptions">
         <item>Colori migliorati</item>
@@ -132,6 +134,25 @@
         <item>Non controllare mai</item>
         <item>Controlla solo per contenuti DRM</item>
         <item>Controlla sempre</item>
+     </string-array>
+     <string-array name="miui_volume_timer_segments_title">
+        <item>Off</item>
+        <item>Half hour</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>8 Hours</item>
+     </string-array>
+     <string-array name="nav_bar_buttons">
+        <item>Clipboard</item>
+        <item>Keycode</item>
+        <item>Keyboard switcher</item>
+        <item>None</item>
+     </string-array>
+     <string-array name="nav_bar_layouts">
+        <item>Normal</item>
+        <item>Compact</item>
+        <item>Left-leaning</item>
+        <item>Right-leaning</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Nessuno</item>

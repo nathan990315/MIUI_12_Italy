@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="activate_xiaomi_account">Attiva questo dispositivo</string>
      <string name="adding_or_updating_account">Aggiornamento account…</string>
@@ -27,9 +27,7 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
      <string name="find_device_error_server">Errore server (%s). </string>
      <string name="find_device_error_unknown">Errore sconosciuto (%s).</string>
      <string name="find_device_noise_title">Suono di localizzazione dispositivo</string>
-     <string name="find_device_notice_p1">Vai su</string>
-     <string name="find_device_notice_p3">"per localizzare, bloccare o formattare il tuo dispositivo.
-Se cambi SIM, verrà automaticamente inviato un SMS per riattivare questa funzionalità."</string>
+     <string name="find_device_notice">Go to&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />to locate, lock, or restore your device.</string>
      <string name="find_device_notice_sms_alert">In caso di sostituzione della scheda SIM, un altro SMS potrebbe essere inviato automaticamente per riattivare questa funzionalità.</string>
      <string name="find_device_stop_noise">Tocca OK per silenziare</string>
      <string name="find_device_storage_corrupted">Memoria Trova Dispositivo corrotta. Il tuo dispositivo adesso non è sicuro.</string>

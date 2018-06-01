@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="action_firewall_setting">Blacklist</string>
      <string name="activity_not_found">Applicazione non installata sul telefono.</string>
@@ -169,7 +169,6 @@
      <string name="error_state">Errore di incoerenza</string>
      <string name="error_state_text">Lo stato delle conversazioni e dei destinatari è incoerente. Raccogli un rapporto ed invialo a http://go/droidanizer</string>
      <string name="error_timed_msg">Impossibile programmare un orario antecedente</string>
-     <string name="ex_type_guide">Informazione</string>
      <string name="ex_type_mx">Messaggio cloud</string>
      <string name="ex_type_sms">SMS/MMS</string>
      <string name="exceed_message_size_limitation">Limite di dimensione del messaggio raggiunto.</string>
@@ -363,6 +362,9 @@
      <string name="no_subject_view">(Nessun oggetto)</string>
      <string name="non_english_subject_limit">Limite di 13 caratteri per soggetti non in inglese</string>
      <string name="nosend_message">Non inviato</string>
+     <string name="notification_channel_description">Notifications from Messaging</string>
+     <string name="notification_channel_name">Messaging</string>
+     <string name="notification_copy">Copy OTP</string>
      <string name="notification_failed_multiple">%s messaggi potrebbe non essere inviati.</string>
      <string name="notification_failed_multiple_title">Messaggi non inviati</string>
      <string name="notification_multiple">[%s]</string>
@@ -629,6 +631,7 @@
      <string name="to_address_label">"A: "</string>
      <string name="to_label">"A "</string>
      <string name="to_send_wrapper">Sarà inviato alle %s</string>
+     <string name="toast_pending_hangup_msg">Message will be sent after the call ends</string>
      <string name="today">Oggi</string>
      <string name="too_many_attachments">"C'è un limite di %1$s allegati. Verranno aggiunti solo i primi %2$s."</string>
      <string name="too_many_recipients">"Questo messaggio ha troppi destinatari (%1$s). C'è un limite di %2$s destinatari."</string>
@@ -657,6 +660,7 @@
      <string name="url_fraud_title">Possibile truffa</string>
      <string name="url_fraud_visit"><u>Visita comunque</u></string>
      <string name="url_result_safe">Questo URL è sicuro</string>
+     <string name="url_scan_again">Check again</string>
      <string name="url_scanning">Scansione URL…</string>
      <string name="verification_code_icon_name">V</string>
      <string name="verification_code_list_title">Codici di verifica</string>

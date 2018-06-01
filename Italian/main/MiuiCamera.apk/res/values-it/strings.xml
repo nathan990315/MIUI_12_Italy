@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="access_sd_fail">Impossibile accedere alla scheda SD.</string>
+     <string name="accessibility_ai_scene_off">AI camera is off</string>
+     <string name="accessibility_ai_scene_on">AI camera</string>
      <string name="accessibility_audio_shutter_bg">Sfondo scatto vocale</string>
      <string name="accessibility_back_preview_status">Anteprima fotocamera posteriore</string>
      <string name="accessibility_beauty_panel_closed">Menu bellezza nascosto</string>
@@ -148,6 +150,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="groupshot_mode_use_hint">La fotocamera scatterà più foto per creare uno scatto con il risultato migliore.</string>
      <string name="hine_hht">"Con poca luce ambientale, verranno scattate foto multiple
 per la costruzione di uno scatto con il minimo rumore."</string>
+     <string name="hint_ae_af_lock">Auto focus / auto exposure has been locked</string>
      <string name="hint_device_water_mark">Il logo del dispositivo verrà aggiunto automaticamente.</string>
      <string name="hint_fast_motion">Il video che registri verrà riprodotto più velocemente.</string>
      <string name="hint_groupshot">"La fotocamera scatterà foto multiple
@@ -343,8 +346,8 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_camera_peak_title">Messa a fuoco Peak</string>
      <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
      <string name="pref_camera_picture_format_entry_raw">RAW</string>
-	 <string name="pref_camera_picturesize_entry_fullscreen">Schermo Intero 16:9</string>
-	 <string name="pref_camera_picturesize_entry_standard">Normale 4:3</string>
+     <string name="pref_camera_picturesize_entry_fullscreen">Schermo Intero 16:9</string>
+     <string name="pref_camera_picturesize_entry_standard">Normale 4:3</string>
      <string name="pref_camera_picturesize_title_simple_mode">Formato immagine</string>
      <string name="pref_camera_portrait_mode_entry_off">Modalità ritratto disattivata</string>
      <string name="pref_camera_portrait_mode_entry_on">Modalità ritratto attivata</string>

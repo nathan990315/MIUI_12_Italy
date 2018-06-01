@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="agps_network_entries">
         <item>Rete domestica</item>
@@ -113,6 +112,7 @@
         <item>Attiva schermo</item>
         <item>Recupera account</item>
         <item>Esegui in background</item>
+		<item>Accessibilità volume</item>
      </string-array>
      <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>
@@ -179,6 +179,7 @@
         <item>attiva schermo</item>
         <item>recupera account</item>
         <item>esegui in background</item>
+		<item>accessibilità volume</item>
      </string-array>
      <string-array name="app_process_limit_entries">
         <item>Limite predefinito</item>
@@ -996,6 +997,13 @@
         <item>OpenGL (Default)</item>
         <item>OpenGL (Skia)</item>
      </string-array>
+     <string-array name="device_support_pickup_by_xiaomi">
+        <item>polaris</item>
+        <item>dipper</item>
+        <item>sirius</item>
+        <item>ursa</item>
+        <item>beryllium</item>
+     </string-array>
      <string-array name="dream_timeout_entries">
         <item>Mai</item>
         <item>15 secondi</item>
@@ -1146,6 +1154,13 @@
         <item>Accesso al dispositivo montato: mtpfs /media/mtp tramite File Explorer; stessa cartella locale</item>
         <item>"Disinstalla dispositivo fusermount -u /media/mtp
  Nota: solo per Ubuntu 8.04"</item>
+     </string-array>
+     <string-array name="mvno_type_entries">
+        <item>Nessuno</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+        <item>ICCID</item>
      </string-array>
      <string-array name="network_speed_slow_summary">
         <item>La rete è lenta a causa del traffico intenso</item>
@@ -1338,15 +1353,6 @@
         <item>Consenti</item>
         <item>Nega</item>
      </string-array>
-     <string-array name="status_bar_show_carrier_entries">
-        <item>Mostra solo nella schermata di blocco e nel pannello delle notifiche</item>
-        <item>"Mostra sempre il nome dell\'operatore"</item>
-        <item>"Non mostrare mai il nome dell\'operatore"</item>
-     </string-array>
-     <string-array name="status_bar_style_entries">
-        <item>Combinato</item>
-        <item>Separato</item>
-     </string-array>
      <string-array name="timezone_filters">
         <item>America</item>
         <item>Europa</item>
@@ -1537,6 +1543,7 @@
      </string-array>
      <string-array name="wifi_signal">
         <item>Scadente</item>
+		<item>Scadente</item>
         <item>Discreta</item>
         <item>Buona</item>
         <item>Eccellente</item>
@@ -1596,11 +1603,4 @@
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
      </string-array>
-	 <string-array name="mvno_type_entries">
-        <item>Nessuno</item>
-        <item>SPN</item>
-        <item>IMSI</item>
-        <item>GID</item>
-        <item>ICCID</item>
-    </string-array>
 </resources>
