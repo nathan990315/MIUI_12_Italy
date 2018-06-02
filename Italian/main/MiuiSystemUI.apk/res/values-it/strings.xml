@@ -1355,7 +1355,6 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="quick_settings_settings_label">Settings</string>
      <string name="quick_settings_sync_label">Sync</string>
      <string name="quick_settings_tethering_label">Tethering</string>
-     <string name="quick_settings_tiles">predefinito</string>
      <string name="quick_settings_time_label">Time</string>
      <string name="quick_settings_user_label">Me</string>
      <string name="quick_settings_user_new_user">New user</string>
@@ -1788,7 +1787,4 @@ Any user can update apps for all other users."</string>
      <string name="zen_priority_introduction">"You won’t be disturbed by sounds and vibrations, except from alarms, reminders, events, and callers you specify. "</string>
      <string name="zen_silence_introduction">This blocks ALL sounds and vibrations, including from alarms, music, videos, and games.</string>
      <string name="zen_silence_introduction_voice">This blocks ALL sounds and vibrations, including from alarms, music, videos, and games. You’ll still be able to make phone calls.</string>
-	 <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,drivemode,rotation,edit</string>
-     <string name="quick_settings_tiles_retail_mode">cell,batterysaver,powermode,flashlight,rotation,location</string>
-     <string name="quick_settings_tiles_stock">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,drivemode,rotation,edit,vibrate,hotspot,papermode,sync,quietmode,powermode,screenbutton,batterysaver,midrop</string>
 </resources>
