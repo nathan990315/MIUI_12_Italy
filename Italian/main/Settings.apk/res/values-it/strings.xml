@@ -4790,7 +4790,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>
      <string name="total">Non disturbare</string>
-     <string name="total_info">I suoni e la vibrazione sarà disattivata tranne la sveglia</string>
+     <string name="total_info">Silence sounds %1$sexcept for the alarms</string>
+     <string name="total_info_sub">and turn off vibration</string>
      <string name="total_memory">Memoria totale</string>
      <string name="total_size">%s totale</string>
      <string name="total_size_label">Totale</string>

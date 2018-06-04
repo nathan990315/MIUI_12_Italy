@@ -1260,6 +1260,10 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="power_remaining_duration_only">Appross. %1$s rimanenti</string>
      <string name="power_remaining_duration_only_short">%1$s rimanenti</string>
      <string name="profile_owned_footer">Profile may be monitored</string>
+     <string name="prompt_danger">Danger</string>
+     <string name="prompt_detecting">Detecting</string>
+     <string name="prompt_safe">Safe</string>
+     <string name="prompt_unknown">Unknown</string>
      <string name="qs_customize">Allow long-press customize in Quick Settings</string>
      <string name="qs_customize_info">Info</string>
      <string name="qs_customize_remove">Remove</string>
@@ -1533,6 +1537,10 @@ scorri in basso per bloccare"</string>
      <string name="status_bar_recent_remove_item_title">Rimuovi dalla lista</string>
      <string name="status_bar_recording_back">Premi per tornare al Registratore</string>
      <string name="status_bar_recording_pause">La registrazione è in pausa.</string>
+     <string name="status_bar_safepay_risk">Payment risks found</string>
+     <string name="status_bar_safepay_safe">No payment risks found</string>
+     <string name="status_bar_safepay_scanning">Checking payment environment…</string>
+     <string name="status_bar_safepay_unknown">"Couldn't check payment environment"</string>
      <string name="status_bar_settings_airplane">Modalità aereo</string>
      <string name="status_bar_settings_auto_brightness_label">AUTO</string>
      <string name="status_bar_settings_auto_rotation">Auto-rotate screen</string>
