@@ -40,7 +40,7 @@
      <string name="multisim_settings_title">Scheda SIM 2 rilevata</string>
      <string name="navigation_picker_gesture_guide">Guida gesture</string>
      <string name="navigation_picker_radio_text_full_screen">Modalità schermo intero</string>
-     <string name="navigation_picker_radio_text_virtual_key">MOdalità tasti virtuali</string>
+     <string name="navigation_picker_radio_text_virtual_key">Modalità tasti virtuali</string>
      <string name="next">Avanti</string>
      <string name="next_fingerprint">Avanti</string>
      <string name="other_settings">Impostazioni aggiuntive</string>
@@ -54,7 +54,7 @@
      <string name="other_settings_upload_debug_log_title">Invia automaticamente i dati per la diagnosi</string>
      <string name="other_settings_user_experience">Programma Esperienza Utente</string>
      <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
-     <string name="other_settings_user_experience_summary_index">Details</string>
+     <string name="other_settings_user_experience_summary_index">Dettagli</string>
      <string name="pref_title_data_slot">SIM Dati</string>
      <string name="pref_title_voice_slot">SIM Voce</string>
      <string name="privacy_policy">Termini sulla Privacy</string>
@@ -69,10 +69,10 @@ Leggi questo documento per la tastiera: "</string>
      <string name="sim_card_detecting_title">Cerca SIM</string>
      <string name="sim_card_detection">Nessuna SIM rilevata</string>
      <string name="sim_card_detection_info">Hai bisogno di una SIM per impostare il tuo Mi Account.</string>
-     <string name="sim_card_detection_mobile_not_available">"SIM card couldn't connect to the network"</string>
+     <string name="sim_card_detection_mobile_not_available">La scheda SIM non può connettersi alla rete</string>
      <string name="sim_dectection_next">Continua</string>
      <string name="sim_redetection">Cerca SIM</string>
-     <string name="sim_scard_detecting_check_mobile_not_available">"Your SIM card couldn't connect to a valid carrier network. Make sure you have sufficient funds on your balance and try to connect again."</string>
+     <string name="sim_scard_detecting_check_mobile_not_available">La tua scheda SIM non può connettersi ad una rete operatore valida. Assicurati di avere fondi sufficienti sul tuo saldo e prova a connetterti nuovamente.</string>
      <string name="skip_underline"><u>Salta questo passaggio</u></string>
      <string name="start_up_slogan" />
      <string name="summary_not_set">Non impostato</string>
@@ -81,7 +81,7 @@ Leggi questo documento per la tastiera: "</string>
      <string name="terms_of_use_label">"La tua privacy ci sta molto a cuore. Leggi i nostri Termini di Servizio e l'Informativa sulla Privacy per capire quali informazioni raccogliamo, come le utilizziamo e quali scelte hai in merito.
 
 Devi accettare le Condizioni del Servizio e i Termini sulla Privacy prima di utilizzare MIUI."</string>
-     <string name="terms_of_use_label_gms">"LA tua privacy è molto importante per noi. Leggi i nostri Termini di Servizio e l'Informativasulla Privacy per capire quali informazioni raccogliamo, come le utilizziamo e quali sono le tue opzioni in merito.
+     <string name="terms_of_use_label_gms">"La tua privacy è molto importante per noi. Leggi i nostri Termini di Servizio e l'Informativasulla Privacy per capire quali informazioni raccogliamo, come le utilizziamo e quali sono le tue opzioni in merito.
 
 Devi accettare i Termini di Servizio e l'Informativa sulla Privacy per utilizzare MIUI. I servizi Mi, i servizi di attivazione della Mi SIM, Mi Cloud, Trova telefono, schermata Home, Game center, MAB ,MiuiDaemon ed i componenti di sistema MSA, app web, schede rapide, statistiche, schede smart, Mi Link, Mi Account ed i componenti dei servizi Google Play si collegheranno ad Internet e individueranno la tua posizione."</string>
      <string name="title_fingerprint">Aggiungi la tua impronta digitale</string>

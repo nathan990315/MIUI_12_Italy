@@ -65,16 +65,16 @@
      <string name="button_confirm">Consenti</string>
      <string name="button_exit">Esci</string>
      <string name="button_not_allow">Annulla</string>
-     <string name="button_settings_cancel">Cancel</string>
-     <string name="button_settings_confirm">Revoke</string>
-     <string name="button_settings_confirm_to_revoke_msg">"You won't be able to use Weather after revoking authorization."</string>
-     <string name="button_settings_confirm_to_revoke_title">Revoke authorization?</string>
+     <string name="button_settings_cancel">Indietro</string>
+     <string name="button_settings_confirm">Revoca</string>
+     <string name="button_settings_confirm_to_revoke_msg">"Non sarai in grado di utilizzare Meteo dopo aver revocato l'autorizzazione."</string>
+     <string name="button_settings_confirm_to_revoke_title">Revocare autorizzazione?</string>
      <string name="button_sure_abandon">Annullare le modifiche?</string>
      <string name="card_vote_item_vs">VS</string>
      <string name="change_alert">Controlla la connessione di rete e prova di nuovo</string>
-     <string name="china_version_first_start_network_msg">"By using this product, you agree to Xiaomi's%1$s and %2$s.This app needs to connect to the internet and access your location to work normally."</string>
+     <string name="china_version_first_start_network_msg">Utilizzando questo prodotto, accetterai %1$s e %2$s di Xiaomi. Questa app dovrà connettersi ad Internet e accedere alla tua posizione per funzionare correttamente.</string>
      <string name="city_exceeded_warning">Puoi aggiungere fino a 10 città</string>
-     <string name="clear_net_mock_success">Pulizia net mock completata</string>
+     <string name="clear_net_mock_success">Pulizia simulazione rete completata</string>
      <string name="common_loading_text">Solo un attimo...</string>
      <string name="connect_fail">Anomalia nella connessione di rete. Prova di nuovo più tardi.</string>
      <string name="content_desc_activity_main_add_city">Aggiungi città</string>
@@ -90,8 +90,8 @@
      <string name="daily_forcast_whirl_wind">Forte</string>
      <string name="daily_forcast_wind_connect">%1$s %2$s</string>
      <string name="daily_forecast_add_city_add">Follow</string>
-     <string name="daily_forecast_add_city_message">Follow the weather in %1$s for a more detailed forecast.</string>
-     <string name="daily_forecast_add_city_title">Follow the weather in %1$s</string>
+     <string name="daily_forecast_add_city_message">Segui il meteo in %1$s per una previsione più dettagliata.</string>
+     <string name="daily_forecast_add_city_title">Segui in metro in %1$s</string>
      <string name="daily_forecast_detail_date">d/M</string>
      <string name="daily_forecast_no_data">"Impossibile recuperare i dati
 trascina verso il basso per aggiornare o verifica le impostazioni di rete"</string>

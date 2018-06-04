@@ -166,8 +166,8 @@
      <string name="online_precust_geometry">Geometrici</string>
      <string name="online_precust_lifestyle">Stili di vita</string>
      <string name="online_precust_mi_note2">Mi Note 2</string>
-     <string name="online_precust_museum">British Museum</string>
-     <string name="online_precust_paper_world">Paper World</string>
+     <string name="online_precust_museum">Museo Britannico</string>
+     <string name="online_precust_paper_world">Mondo di Carta</string>
      <string name="online_precust_peach_blossom">Fiori di pesco</string>
      <string name="online_precust_plant">Piante</string>
      <string name="online_precust_scenery">Scenari</string>
@@ -397,7 +397,7 @@
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">In attesa del download…</string>
      <string name="resource_waiting_pause">Pausa</string>
-     <string name="resource_wallpaper_download">Download wallpaper</string>
+     <string name="resource_wallpaper_download">Scarica sfondo</string>
      <string name="ringtone_set_success">Impostato correttamente</string>
      <string name="sdcard_not_mounted_dialog_message">Inserisci una scheda SD ora</string>
      <string name="sdcard_not_mounted_dialog_title">Scheda SD non trovata</string>
@@ -489,7 +489,7 @@
      <string name="title_component">Personalizza temi</string>
      <string name="title_my_audio_resource">Le mie suonerie</string>
      <string name="title_my_miwallpaper_resource">I miei sfondi Live</string>
-     <string name="title_my_miwallpaper_video_file_resource">My video wallpapers</string>
+     <string name="title_my_miwallpaper_video_file_resource">I miei sfondi video</string>
      <string name="title_my_wallpaper_resource">I miei sfondi</string>
      <string name="title_system_audio_notification_resource">Notifiche di sistema</string>
      <string name="title_system_audio_resource">Suonerie di sistema</string>
@@ -499,12 +499,12 @@
      <string name="uid_change_dialog_ok">Ho capito</string>
      <string name="uid_change_dialog_title">Riavvia dispositivo</string>
      <string name="up_to_the_end">Questo è tutto per il momento. Ritorna più tardi.</string>
-     <string name="video_apply_home">Home screen</string>
-     <string name="video_apply_home_lock">Home screen and Lock screen</string>
-     <string name="video_audio_apply_success">Configured video with sound successfully</string>
-     <string name="video_data_tips_message">Using mobile data may generate additional fees. Continue anyway?</string>
-     <string name="video_data_tips_title">Data usage warning</string>
-     <string name="video_silence_apply_success">Configured video without sound successfully</string>
+     <string name="video_apply_home">Schermata Home</string>
+     <string name="video_apply_home_lock">Schermata home e Blocco schermo</string>
+     <string name="video_audio_apply_success">Configurazione video con suono riuscita</string>
+     <string name="video_data_tips_message">"L'utilizzo di dati mobili può comportare costi aggiuntivi. Continuare comunque?"</string>
+     <string name="video_data_tips_title">Avviso utilizzo dati</string>
+     <string name="video_silence_apply_success">Configurazione video senza suono riuscita</string>
      <string name="wallpaper_apply">Applica</string>
      <string name="wallpaper_crop">Taglia</string>
      <string name="wallpaper_decoded_error">Decodifica fallita</string>
