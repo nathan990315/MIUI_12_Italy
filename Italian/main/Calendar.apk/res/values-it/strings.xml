@@ -12,7 +12,7 @@
      <string name="accounts">Account e sincronizzazione</string>
      <string name="acct_not_synced">Questo account non è stato sincronizzato e i tuoi calendari potrebbero non essere aggiornati.</string>
      <string name="acessibility_selected_marker_description">Evento selezionato</string>
-     <string name="action_bar_date_button_title">Calculate date</string>
+     <string name="action_bar_date_button_title">Calcola data</string>
      <string name="action_bar_more_menu_view_description">Altro</string>
      <string name="action_bar_return">Invio</string>
      <string name="action_text_card_manager">Canale</string>
@@ -30,10 +30,10 @@
      <string name="alert_reminder_expired">Scaduto</string>
      <string name="alert_title">Notifiche calendario</string>
      <string name="anniversary_event_title">Anniversario: %1$s</string>
-     <string name="anniversary_secondary_tag">Anniversary</string>
+     <string name="anniversary_secondary_tag">Anniversario</string>
      <string name="app_label">Calendario</string>
      <string name="app_name">Comune</string>
-     <string name="birthday_born">birth date</string>
+     <string name="birthday_born">data di nascita</string>
      <string name="birthday_calendar_display_name">Promemoria compleanno</string>
      <string name="birthday_event_description_a_week_ago">Una settimana fa</string>
      <string name="birthday_event_description_a_week_later">Tra una settimana</string>
@@ -72,13 +72,13 @@
      <string name="change_response_title">Cambia risultato</string>
      <string name="chinese_leap" />
      <string name="chongsha" />
-     <string name="clear_net_mock_success">Net mock clear success</string>
+     <string name="clear_net_mock_success">Eliminazione rete simulata completata</string>
      <string name="copy_email">Copia indirizzo email</string>
      <string name="copy_number">Copia numero di telefono</string>
      <string name="countdown_event_title">Promemoria: %1$s</string>
      <string name="countdown_notify_before_3_day_title">Promemoria: %1$s tra 3 giorni</string>
      <string name="countdown_notify_title">Promemoria: %1$s</string>
-     <string name="countdown_secondary_tag">Countdown</string>
+     <string name="countdown_secondary_tag">Conto alla rovescia</string>
      <string name="countdown_today">Oggi</string>
      <string name="create_an_account_desc">"Il calendario funziona meglio con un Account Google.
 
@@ -92,7 +92,7 @@
      <string name="date_calculate_description">Scopri quanti giorni mancano ad un giorno specifico</string>
      <string name="date_calculate_direction">Direzione</string>
      <string name="date_calculate_direction_content_description">Direzione attuale %1s</string>
-     <string name="date_calculate_hint">Learn what date it is after a number of days</string>
+     <string name="date_calculate_hint">Impara a scoprire la data esatta dopo un certo numero di giorni</string>
      <string name="date_calculate_result">Risultato</string>
      <string name="date_calculate_tab">Calcola data</string>
      <string name="date_calculate_today">0 giorni</string>
@@ -102,8 +102,8 @@
      <string name="date_interval_start">Da</string>
      <string name="date_interval_tab">Intervallo</string>
      <string name="date_interval_text_to">A %1$s</string>
-     <string name="date_jump_hint">Jump to a certain day directly</string>
-     <string name="date_jump_title">Jump to date</string>
+     <string name="date_jump_hint">Salta direttamente ad una data certa</string>
+     <string name="date_jump_title">Salta ad una data</string>
      <string name="date_time_fmt" formatted="false">%s, %s</string>
      <string name="date_today">(oggi)</string>
      <string name="day_view_new_event_hint">+ Nuovo evento</string>
@@ -118,7 +118,7 @@
      <string name="description_calendar_subscribe_group" />
      <string name="directory_searching_fmt">Ricerca %s…</string>
      <string name="does_not_repeat">Evento singolo</string>
-     <string name="done">Return</string>
+     <string name="done">Ritorna</string>
      <string name="download">Download</string>
      <string name="download_finished">Download completato</string>
      <string name="downloaded">Scaricati</string>
@@ -131,7 +131,7 @@
      <string name="edit_event_birthday_import_from_contact">Importa compleanno dai contatti</string>
      <string name="edit_event_birthday_name_empty_hint">Inserisci un nome</string>
      <string name="edit_event_birthday_name_hint">Nome</string>
-     <string name="edit_event_birthday_reminder_3_days_before">Remind 3 days in advance as well</string>
+     <string name="edit_event_birthday_reminder_3_days_before">Ricorda 3 giorni in anticipo</string>
      <string name="edit_event_birthday_reminder_time">Orario promemoria</string>
      <string name="edit_event_calendar_label">Calendario</string>
      <string name="edit_event_choose_date">Scegli data</string>
@@ -190,13 +190,13 @@
      <string name="gadget_title">Calendario</string>
      <string name="global_action_text_card_manager">Un calendario più interessante</string>
      <string name="global_cricket_no_match">"Nessuna gara prevista per oggi, puoi vedere la sintesi delle gare passate o provare con un altra partita. Fantastico evento, valeva l'attesa!"</string>
-     <string name="global_football_final">FINAL</string>
+     <string name="global_football_final">FINALE</string>
      <string name="global_football_no_match">Nessuna partita in programma per oggi.</string>
      <string name="global_onthisday_com">OnThisDay.com</string>
-     <string name="guide_card_import">Import</string>
-     <string name="guide_card_primary_text">Import friend birthday</string>
-     <string name="guide_card_second_text">Batch import, buddy birthday is not missing</string>
-     <string name="guide_card_title">Import birthdays</string>
+     <string name="guide_card_import">Importa</string>
+     <string name="guide_card_primary_text">Importa compleanno amici</string>
+     <string name="guide_card_second_text">Importa gruppo, così da non mancare mai al compleanno di un tuo amico</string>
+     <string name="guide_card_title">Importa compleanni</string>
      <string name="hint_attendees">Indirizzi email</string>
      <string name="hint_description">Descrizione evento</string>
      <string name="hint_what">Nome evento</string>
@@ -233,22 +233,22 @@
      <string name="menu_reminder_preferences">Promemoria</string>
      <string name="missing_name">(Nessun nome)</string>
      <string name="missing_required_permission">Hai disattivato un permesso richiesto.</string>
-     <string name="miuishare_account_activate_confirmation">Activate Mi Account</string>
-     <string name="miuishare_account_activate_ok">Activate</string>
-     <string name="miuishare_account_login_cancel">Cancel</string>
-     <string name="miuishare_account_login_confirmation">Sign in to Mi Account</string>
-     <string name="miuishare_account_login_ok">Sign in</string>
-     <string name="miuishare_account_need_activate">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Activate your Mi Account to continue.</string>
-     <string name="miuishare_account_need_login">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Sign in to your Mi Account to continue.</string>
-     <string name="miuishare_app_name">MIUI Share</string>
-     <string name="miuishare_no_network">"Couldn't connect to the network."</string>
-     <string name="miuishare_publish">Send</string>
+     <string name="miuishare_account_activate_confirmation">Attiva Mi Account</string>
+     <string name="miuishare_account_activate_ok">Attiva</string>
+     <string name="miuishare_account_login_cancel">Annulla</string>
+     <string name="miuishare_account_login_confirmation">Accedi a Mi Account</string>
+     <string name="miuishare_account_login_ok">Accedi</string>
+     <string name="miuishare_account_need_activate">La condivisione su Weibo richiede un account Weibo associato al Mi Account. Attiva il tuo Mi Account per continuare.</string>
+     <string name="miuishare_account_need_login">La condivisione su Weibo richiede un account Weibo associato al Mi Account. Accedi al tuo Mi Account per continuare.</string>
+     <string name="miuishare_app_name">Condivisione MIUI Share</string>
+     <string name="miuishare_no_network">Impossibile connettersi alla rete.</string>
+     <string name="miuishare_publish">Invia</string>
      <string name="miuishare_qzone_title">Qzone</string>
-     <string name="miuishare_share_done">Shared successfully</string>
-     <string name="miuishare_share_editor_title">Share</string>
-     <string name="miuishare_title_more">More</string>
-     <string name="miuishare_title_share">Share</string>
-     <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
+     <string name="miuishare_share_done">Condivisione riuscita</string>
+     <string name="miuishare_share_editor_title">Condividi</string>
+     <string name="miuishare_title_more">Altro</string>
+     <string name="miuishare_title_share">Condividi</string>
+     <string name="miuishare_wechat_timeline_title">Momenti WeChat</string>
      <string name="miuishare_weibo_title">Weibo</string>
      <string name="modify_all">Cambia tutti gli eventi in serie.</string>
      <string name="modify_all_following">Cambia questo e tutti gli eventi futuri.</string>
@@ -276,7 +276,7 @@
      <string name="no_contact_birthday_hint">Nessun compleanno importato</string>
      <string name="no_events_hint">Nessun evento</string>
      <string name="no_network">"Impossibile collegarsi alla rete.
-Controlla le impostazioni di rete pe prova di nuovo."</string>
+Controlla le impostazioni di rete e riprova."</string>
      <string name="no_network_btn">Riprova</string>
      <string name="no_title_label">(Senza titolo)</string>
      <string name="no_visiable_calendar_message">Devi selezionare un account del calendario, tocca Seleziona Account per il passo successivo.</string>
@@ -328,7 +328,7 @@ Controlla le impostazioni di rete pe prova di nuovo."</string>
      <string name="preferences_week_start_day_dialog">Inizio settimana</string>
      <string name="preferences_week_start_day_title">Inizio settimana</string>
      <string name="pull_to_refresh_hint">Trascina per aggiornare gli eventi di %1$d</string>
-     <string name="receive_net_mock_success">Net mock receive success</string>
+     <string name="receive_net_mock_success">Ricezione su rete simulata riuscita</string>
      <string name="refresh">Aggiorna</string>
      <string name="refreshing_hint">Aggiornamento</string>
      <string name="repeat_activity_label">Ripeti</string>
@@ -383,7 +383,7 @@ Controlla le impostazioni di rete pe prova di nuovo."</string>
      <string name="setting_others">Aggiuntive</string>
      <string name="setting_title_about">Informazioni</string>
      <string name="setting_title_holiday_display">Mostra festività</string>
-     <string name="share_title">Share</string>
+     <string name="share_title">Condividi</string>
      <string name="show_day_view">Mostra giorno</string>
      <string name="solar_lunar_convert_date" />
      <string name="solar_lunar_convert_description" />
@@ -406,10 +406,10 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="subscribe_channel_title">Canale</string>
      <string name="subscribing_card">Annullamento iscrizione</string>
      <string name="synced">Sincronizzato</string>
-     <string name="tab_title_agenda">Events</string>
-     <string name="tab_title_day">Day</string>
-     <string name="tab_title_month">Month</string>
-     <string name="tab_title_week">Week</string>
+     <string name="tab_title_agenda">Eventi</string>
+     <string name="tab_title_day">Giorno</string>
+     <string name="tab_title_month">Mese</string>
+     <string name="tab_title_week">Settimana</string>
      <string name="taishen" />
      <string name="talk_back_read_date">La data corrente è %1$s,%2$s,</string>
      <string name="template_announce_item_index">Evento %1$s di %2$s.</string>
@@ -438,7 +438,7 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="travel_item_reminder">Avviso</string>
      <string name="travel_item_reminder_overdue">Attenzione</string>
      <string name="travel_item_trafic">Traffico</string>
-     <string name="travel_item_virtual_sim">Mi Virtual SIM</string>
+     <string name="travel_item_virtual_sim">SIM Virtuale Mi</string>
      <string name="travel_item_weather_forecast">Località previsioni</string>
      <string name="travel_item_weather_now">Località meteo</string>
      <string name="travel_load_failed">Impossibile caricare</string>

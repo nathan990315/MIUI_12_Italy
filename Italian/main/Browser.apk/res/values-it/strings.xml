@@ -45,14 +45,14 @@
      <string name="action_menu_useful_page_added">Utilità aggiunta</string>
      <string name="action_menu_user_center">Centro utente</string>
      <string name="action_modify_bookmark">Modifica segnalibro</string>
-     <string name="action_one_touch">Open notifications</string>
+     <string name="action_one_touch">Apri notifiche</string>
      <string name="action_put_in_search_box">Inserisci %s nel campo di ricerca</string>
-     <string name="action_skip">Skip</string>
+     <string name="action_skip">Salta</string>
      <string name="adblock_force_updating_rules_toast">Aggiornamento Ad blocker</string>
      <string name="adblock_notification">%d pubblicità bloccate</string>
      <string name="adblock_rules_not_updated_toast">Fallito</string>
      <string name="adblock_rules_restore">Ripristina</string>
-     <string name="adblock_rules_updated_toast">Complete</string>
+     <string name="adblock_rules_updated_toast">Completa</string>
      <string name="adblock_websites_settings_empyt_hint">Regole vuote</string>
      <string name="adblock_websites_settings_title">Regole personalizzate</string>
      <string name="add_bookmark_group">Aggiungi gruppo</string>
@@ -285,7 +285,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="enable_geolocation_confirm_message">La disattivazione di questa funzione potrebbe influire sulla visualizzazione dei siti web.</string>
      <string name="enter_developer_mode">Modalità sviluppatore</string>
      <string name="enter_incongnito_mode">Entra in modalità incognito</string>
-     <string name="enter_infoflow_guide">Slide up to see news</string>
+     <string name="enter_infoflow_guide">"Scorri verso l'alto per leggere le notizie"</string>
      <string name="enter_the_group_name">Inserisci il nome del gruppo</string>
      <string name="enter_the_password">Inserisci la password</string>
      <string name="enter_the_user_name">Inserisci il nome utente</string>
@@ -791,7 +791,7 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="mw_time_picker_dialog_am">AM</string>
      <string name="mw_time_picker_dialog_pm">PM</string>
      <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
-     <string name="mw_time_picker_dialog_title">Set time</string>
+     <string name="mw_time_picker_dialog_title">Imposta tempo</string>
      <string name="mw_updating_chrome">Aggiornamento Chrome…</string>
      <string name="mw_video_buffering_percent">"Buffering "</string>
      <string name="mw_video_float_window">Pop-up</string>
@@ -823,7 +823,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="no_space_alert_title">Download in pausa</string>
      <string name="no_space_clean_failed">Non è possibile liberare spazio sul dispositivo​</string>
      <string name="not_allowed_open">"Impossibile utilizzare il Browser all'avvio"</string>
-     <string name="not_now">Not now</string>
+     <string name="not_now">Non ora</string>
      <string name="not_remind_again">Ricorda la mia scelta</string>
      <string name="notif_install_successful">Download completato</string>
      <string name="ok">OK</string>
@@ -907,7 +907,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_nav_mode_summary_pad">Tablet</string>
      <string name="pref_nav_mode_summary_phone">Telefono</string>
      <string name="pref_nav_mode_title">Modalità browser</string>
-     <string name="pref_navscreen_layoutstate_title">Multi-window management</string>
+     <string name="pref_navscreen_layoutstate_title">Gestione multi-finestra</string>
      <string name="pref_notifications_hint">Notifiche</string>
      <string name="pref_notifications_receive">Avvisi per nuove notifiche</string>
      <string name="pref_notifications_title">Notifiche</string>
@@ -958,7 +958,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pull_to_refresh_release_label">Rilascia per andare ai Suggeriti ed aggiornare</string>
      <string name="pwa_app_name">Web App</string>
      <string name="qr_code_title">Codice QR</string>
-     <string name="qr_description">Scan QR code</string>
+     <string name="qr_description">Scansiona codice QR</string>
      <string name="quicklink_bookmark_save">Salva in</string>
      <string name="quicklink_cannot_save_url">Questo URL non può essere aggiunto.</string>
      <string name="quicklink_folder_text">App Top</string>
@@ -987,7 +987,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="readmode_recommend_message">Hai letto tutti i capitoli di questo libro. Passa alla lettura di un altro.</string>
      <string name="readmode_refresh">Aggiorna</string>
      <string name="readmodelist_bookmarks_to_show">Lista di lettura</string>
-     <string name="refresh_description">Refresh</string>
+     <string name="refresh_description">Ricarica</string>
      <string name="refuse_permissions_request">Rifiuta</string>
      <string name="remember_passwords_confirm_message">"La disattivazione di questa funzione potrebbe influire sull'utilizzo."."</string>
      <string name="remove_bookmark">Elimina segnalibro</string>
@@ -996,7 +996,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="remove_history_item">Rimuovi da cronologia</string>
      <string name="remove_snapshot">Elimina pagina salvata</string>
      <string name="removed_from_bookmarks">Rimosso dai segnalibri.</string>
-     <string name="reopen">Open</string>
+     <string name="reopen">Apri</string>
      <string name="replace">Sostituisci</string>
      <string name="reply_comment_title">risposta: %s</string>
      <string name="resume_download">Avvia</string>
@@ -1065,7 +1065,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="share_page_text">"Mi sto godendo %1$s | %2$s"</string>
      <string name="share_video">Condividi video</string>
      <string name="short_video_description">Video channel</string>
-     <string name="short_video_tip">Look! Fun video</string>
+     <string name="short_video_tip">Guarda! Che video buffo</string>
      <string name="show_check_security_url_check_tip_dialog_description">"Raccoglieremo ed utilizzeremo i tuoi dati personali se scegli di utilizzare il nostro servizio.
 Questi sono i dati che raccoglieremo:
 1. URL sicuri: raccoglieremo gli URL dei siti che visiti mentre utilizzi il nostro servizio.
@@ -1075,10 +1075,10 @@ Utilizzeremo i dati in questo modo:
 2. Contenuto: i tuoi dati ci aiutano a fornire contenuti delle news personalizzate.
 Per navigare correttamente devi essere collegato ad Internet. Per poter utilizzare il Browser devi accettare %2$s e %1$s.​"</string>
      <string name="show_security_tip_dialog_title">Termini del Servizio</string>
-     <string name="sign_and_open">Sin and open</string>
-     <string name="sign_in">Check in</string>
+     <string name="sign_and_open">Accedi ed apri</string>
+     <string name="sign_in">Registrati</string>
      <string name="sign_in_to" formatted="false">Accedi a %s1 \"%s2\"</string>
-     <string name="signed_in">Checked in</string>
+     <string name="signed_in">Registrato</string>
      <string name="skip_button_label">Salta</string>
      <string name="skip_current_version">Salta questa versione</string>
      <string name="snapshot">Locale</string>
@@ -1117,19 +1117,19 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="suggest_access_item_app_mark">APP</string>
      <string name="suggest_access_item_app_size">%.2fMB</string>
      <string name="suggest_access_item_app_update">Aggiornamento: %s</string>
-     <string name="suggest_access_item_book_mark">BOOK</string>
-     <string name="suggest_access_item_mina_mark">DIRECT SERVICE</string>
-     <string name="suggest_access_item_music_mark">MUSIC</string>
+     <string name="suggest_access_item_book_mark">SEGNALIBRO</string>
+     <string name="suggest_access_item_mina_mark">SERVIZIO DIRETTO</string>
+     <string name="suggest_access_item_music_mark">MUSICA</string>
      <string name="suggest_access_item_singer_albums">%d album</string>
      <string name="suggest_access_item_singer_pop">%d brani popolari</string>
-     <string name="suggest_access_item_site_mark">SITES</string>
+     <string name="suggest_access_item_site_mark">SITI</string>
      <string name="suggest_access_item_video_mark">VIDEO</string>
-     <string name="suggest_access_item_weather_mark">WEATHER</string>
+     <string name="suggest_access_item_weather_mark">METEO</string>
      <string name="suggest_access_item_yellow_mark">PAGINE GIALLE</string>
      <string name="suggest_access_music">Mi Music</string>
      <string name="suggest_item_delete_text">Elimina</string>
      <string name="suggest_open_app_failed">Non è stato possibile aprire questa app</string>
-     <string name="suggestion_clear_record_message">Do you confirm empty input record?</string>
+     <string name="suggestion_clear_record_message">"Confermi di voler cancellare i messaggi salvatati?"</string>
      <string name="suggestion_express_button_query_more">VEDI ALTRO</string>
      <string name="suggestion_express_button_text_query">QUERY</string>
      <string name="suggestion_express_exception_net">Si è verificato un problema di rete. Prego verifica la connessione di rete</string>
@@ -1149,7 +1149,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="switch_proxy_dialog_title">Deviazione di rete</string>
      <string name="sync_and_backup_bookmark">Sincronizzazione e backup dei segnalibri</string>
      <string name="sync_and_backup_history">Sincronizzazione e backup delle cronologie</string>
-     <string name="sync_cloud_tabs">Sync</string>
+     <string name="sync_cloud_tabs">Sincr.</string>
      <string name="tab_hotpage">Tendenza</string>
      <string name="tab_quicklinks">Utilità</string>
      <string name="tab_yellowpage">In evidenza</string>
@@ -1160,7 +1160,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="tae_sdk_qr_login_icon_scan"></string>
      <string name="temp_refuse">Rifiuta</string>
      <string name="title_bar_loading">Caricamento…</string>
-     <string name="title_notice_push">Notice reminding</string>
+     <string name="title_notice_push">Posticipazione notifica</string>
      <string name="too_many_windows_dialog_message">Impossibile aprire una nuova scheda finché non se ne chiude una.</string>
      <string name="too_many_windows_dialog_title">Limite schede raggiunto</string>
      <string name="transfer_prompt_0">Avvia video</string>
@@ -1231,7 +1231,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="video_downloaded_group">Scaricati</string>
      <string name="video_downloading_group">Download in corso</string>
      <string name="video_edit">Modifica</string>
-     <string name="video_float_window_text">PopUp</string>
+     <string name="video_float_window_text">Popup</string>
      <string name="video_fragment_name_collections">Le mie collezioni</string>
      <string name="video_fragment_name_download">Video Offline</string>
      <string name="video_fragment_name_historys">Cronologia</string>
@@ -1246,7 +1246,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="video_push_multi_message">Ci sono %1$d aggiornamenti</string>
      <string name="video_push_multi_title">Ci sono nuovi aggiornamenti</string>
      <string name="video_push_single_message">Aggiornato a %1$d</string>
-     <string name="video_service_notification_title">Playing pop-up video</string>
+     <string name="video_service_notification_title">Riproduci video popup</string>
      <string name="video_subtitle_last_message1">Resta meno di un minuto</string>
      <string name="video_subtitle_prefix1">Visto</string>
      <string name="video_subtitle_prefix2">"Visto "</string>

@@ -119,8 +119,8 @@
      <string name="clean_content_three">3 file</string>
      <string name="clean_content_two">2 file</string>
      <string name="clean_content_zero">Non pulire niente</string>
-     <string name="clean_long_msg">"Cleaning %1$d files,%2$d finished 
-%3$d%% item/second remained time:%4$s"</string>
+     <string name="clean_long_msg">"Rimossi %1$d file, %2$d terminati 
+%3$d%% elementi / secondi rimanenti: %4$s"</string>
      <string name="clear_bigfiles">Elimina file di grosse dimensioni, foto duplicate ed altri file inutili</string>
      <string name="clear_immediately">Ottimizza adesso</string>
      <string name="clear_safe_notify">Barra per le notifiche di sicurezza</string>
@@ -304,14 +304,14 @@
      <string name="low_memory_warning_dialog_ok_button">Avvia la pulizia</string>
      <string name="low_memory_warning_dialog_title">Spazio insufficiente in memoria</string>
      <string name="main_title_filesize">%1$s spazzatura</string>
-     <string name="mainbtn_text_no_trash">Skip</string>
+     <string name="mainbtn_text_no_trash">Salta</string>
      <string name="mainbtn_text_quick_cleanup">Pulisci %s</string>
      <string name="mainbtn_text_quick_cleanup_default">Pulisci</string>
      <string name="megabyteShort">MB</string>
      <string name="memeory_check_content">%1$d app, memoria %2$s</string>
      <string name="menu_add_to_white_list">Aggiungi alle eccezioni</string>
      <string name="menu_clear">Cancella</string>
-     <string name="menu_install">Installa con questa app</string>
+     <string name="menu_install">"Installa con quest'app"</string>
      <string name="menu_open">Apri</string>
      <string name="menu_view">Mostra nella cartella</string>
      <string name="month_day_format">dd MMM</string>

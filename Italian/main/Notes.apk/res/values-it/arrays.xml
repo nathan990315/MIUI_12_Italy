@@ -6,7 +6,7 @@
      </string-array>
      <string-array name="contact_entries">
         <item>Nome</item>
-        <item>Nickname</item>
+        <item>Soprannome</item>
         <item>Telefono</item>
         <item>E-mail</item>
         <item>Società</item>
@@ -18,14 +18,14 @@
         <item>Note</item>
      </string-array>
      <string-array name="first_guide_contents">
-        <item>Welcome to Notes!</item>
-        <item>Take notes</item>
-        <item>You can use text, images, and voice recordings in your notes. A rich library of styles and fonts will make your simple scribbles look stunning.</item>
-        <item>Checklists and reminders come to help when you need basic and effective tools for planning your next trip or putting together a grocery list.</item>
-        <item>Share notes</item>
-        <item>You can generate scrolling screenshots in Notes automatically, and them share them with your friends.</item>
-        <item>Create&amp;switch between folders</item>
-        <item>Press the arrow below to create a new folder or switch between existing ones.</item>
+        <item>Benvenuto in Note!</item>
+        <item>Scrivi note</item>
+        <item>Puoi utilizzare testo, immagini e registrazioni vocali nelle tue note. Una ricca libreria di stili e caratteri renderà sbalorditivi i tuoi basilari scarabocchi.</item>
+        <item>Liste di controllo e promemoria ti verranno in aiuto quando avrai bisogno di strumenti di base ed efficaci per pianificare il tuo prossimo viaggio o mettere insieme una lista della spesa.</item>
+        <item>Condividi note</item>
+        <item>Potrai generare automaticamente schermate estese sulle tue note e condividerle con i tuoi amici.</item>
+        <item>Crea e passa fra le cartelle</item>
+        <item>"Premi la freccia in basso per creare una nuova cartella o passare da una esistente ad un'altra."</item>
      </string-array>
      <string-array name="folder_operations">
         <item>Rinomina</item>
@@ -42,7 +42,7 @@
         <item>Ordina per data di modifica</item>
      </string-array>
      <string-array name="second_guide_contents">
-        <item>Voice notes</item>
-        <item>Create notes using our built-in speech-to-text engine attaching the original recordings of your voice to the notes.</item>
+        <item>Note vocali</item>
+        <item>Crea note utilizzando il nostro motore di sintesi vocale incorporato che allega registrazioni originali della tua voce.</item>
      </string-array>
 </resources>
