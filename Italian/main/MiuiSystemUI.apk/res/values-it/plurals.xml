@@ -21,16 +21,16 @@
         <item quantity="one">%d notifica irrilevante</item>
      </plurals>
      <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">Incorrect PIN code, %d attempts remaining</item>
-        <item quantity="one">Incorrect PIN code, %d attempt remaining</item>
+        <item quantity="other">Codice PIN non corretto, %d tentativi rimanenti</item>
+        <item quantity="one">Codice PIN non corretto, %d tentativo rimanente</item>
      </plurals>
      <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">Incorrect PUK code, %d attempts remaining</item>
-        <item quantity="one">Incorrect PUK code, %d attempt remaining</item>
+        <item quantity="other">Codice PUK non corretto, %d tentativi rimanenti</item>
+        <item quantity="one">Codice PUK non corretto, %d tentativo rimanente</item>
      </plurals>
      <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">About %d hours until full</item>
-        <item quantity="one">About %d hour until full</item>
+        <item quantity="other">Circa %d ore alla carica completa</item>
+        <item quantity="one">Circa %d ora alla carica completa</item>
      </plurals>
      <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
         <item quantity="other">About %d minutes until full​</item>
