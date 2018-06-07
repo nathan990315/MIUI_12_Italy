@@ -17,10 +17,10 @@
      <string name="abc_capital_off">DISATTIVA</string>
      <string name="abc_capital_on">ATTIVA</string>
      <string name="abc_search_hint">Cerca…</string>
-     <string name="abc_searchview_description_clear">Pulisci query</string>
-     <string name="abc_searchview_description_query">Cerca query</string>
+     <string name="abc_searchview_description_clear">Cancella termine</string>
+     <string name="abc_searchview_description_query">Cerca termine</string>
      <string name="abc_searchview_description_search">Cerca</string>
-     <string name="abc_searchview_description_submit">Invia query</string>
+     <string name="abc_searchview_description_submit">Invia termine</string>
      <string name="abc_searchview_description_voice">Ricerca vocale</string>
      <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
@@ -296,7 +296,7 @@
      <string name="battery_info_status_not_charging">Non in carica</string>
      <string name="battery_info_status_unknown">Sconosciuto</string>
      <string name="battery_low_percent_format">%d%% rimanente</string>
-     <string name="battery_low_percent_format_saver_started">%s rimanente. Rispamio batteria attivo.</string>
+     <string name="battery_low_percent_format_saver_started">%s rimanente. Risparmio batteria attivo.</string>
      <string name="battery_low_title">"Collega l'alimentatore"</string>
      <string name="battery_low_why">Impostazioni</string>
      <string name="battery_meter_very_low_overlay_symbol">!</string>
@@ -386,7 +386,7 @@ Frequenza Campione"</string>
      <string name="bluetooth_tethered">Bluetooth con tethering</string>
      <string name="branded_monitoring_description_app_personal">Sei connesso a %1$s, che può monitorare la tua attività di rete personale, incluse e-mail, app e siti web.</string>
      <string name="branded_vpn_footer">La rete può essere monitorata</string>
-     <string name="broadcast_tile">Tile trasmissione</string>
+     <string name="broadcast_tile">Trasmissione tile</string>
      <string name="bt_hci_snoop_log">Attiva Bluetooth HCI snoop log</string>
      <string name="bt_hci_snoop_log_summary">Cattura tutti i pacchetti Bluetooth HCI in un file</string>
      <string name="bt_is_off">Bluetooth disattivato</string>
@@ -397,7 +397,7 @@ Frequenza Campione"</string>
      <string name="call_status_dialing">Composizione</string>
      <string name="call_status_holding">Chiamata in attesa</string>
      <string name="call_status_ringing">Chiamata in corso</string>
-     <string name="camera_hint">>"Scorriicona per la Camera"</string>
+     <string name="camera_hint">>"Scorri icona per la Camera"</string>
      <string name="camera_key_action_app_title">Apri applicazione</string>
      <string name="camera_key_action_category_title">"Utilizza se l'applicazione Fotocamera non è aperta"</string>
      <string name="camera_key_action_none_title">Nessuna azione</string>
@@ -672,36 +672,36 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="got_it">Fatto</string>
      <string name="gps_notification_found_text">Posizione GPS stabilita</string>
      <string name="gps_notification_searching_text">Ricerca del GPS</string>
-     <string name="guest_exit_guest">Rimuovi utente guest</string>
-     <string name="guest_exit_guest_dialog_message">All apps and data in this session will be deleted.</string>
-     <string name="guest_exit_guest_dialog_remove">Remove</string>
-     <string name="guest_exit_guest_dialog_title">Remove guest?</string>
-     <string name="guest_new_guest">Add guest</string>
-     <string name="guest_nickname">Guest</string>
-     <string name="guest_notification_remove_action">REMOVE GUEST</string>
-     <string name="guest_notification_text">To delete apps and data, remove guest user</string>
-     <string name="guest_notification_title">Guest user</string>
-     <string name="guest_wipe_session_dontwipe">Yes, continue</string>
-     <string name="guest_wipe_session_message">Do you want to continue your session?</string>
-     <string name="guest_wipe_session_title">Welcome back, guest!</string>
-     <string name="guest_wipe_session_wipe">Start over</string>
+     <string name="guest_exit_guest">Rimuovi utente ospite</string>
+     <string name="guest_exit_guest_dialog_message">Tutte le app e i dati di questa sessione verranno eliminati.</string>
+     <string name="guest_exit_guest_dialog_remove">Rimuovi</string>
+     <string name="guest_exit_guest_dialog_title">Rimuovere ospite?</string>
+     <string name="guest_new_guest">Aggiungi ospite</string>
+     <string name="guest_nickname">Ospite</string>
+     <string name="guest_notification_remove_action">RIMUOVI OSPITE</string>
+     <string name="guest_notification_text">"Per eliminare app  e dati, rimuovere l'utente ospite"</string>
+     <string name="guest_notification_title">Utente Ospite</string>
+     <string name="guest_wipe_session_dontwipe">Sì, continua</string>
+     <string name="guest_wipe_session_message">Vuoi continuare la tua sessione?</string>
+     <string name="guest_wipe_session_title">Ben tornato Ospite!</string>
+     <string name="guest_wipe_session_wipe">Inizia da capo</string>
      <string name="gxzw_press_harder">Premi più forte</string>
      <string name="gxzw_try_again">Prova di nuovo</string>
      <string name="gxzw_try_more_again">Prova di nuovo</string>
      <string name="gxzw_use_password">Utilizza una password</string>
      <string name="hdcp_checking_dialog_title">Imposta comportamento di controllo HDCP</string>
      <string name="hdcp_checking_title">Controllo HDCP</string>
-     <string name="headset">Headset</string>
+     <string name="headset">Cuffie</string>
      <string name="help_feedback_label">Aiuto e segnalazione bug</string>
-     <string name="hidden_notifications_cancel">No thanks</string>
-     <string name="hidden_notifications_setup">Set up</string>
-     <string name="hidden_notifications_text">See them before you unlock</string>
-     <string name="hidden_notifications_title">Get notifications faster</string>
-     <string name="high_temp_dialog_message">"Your phone will automatically try to cool down. You can still use your phone, but it may run slower.
+     <string name="hidden_notifications_cancel">No grazie</string>
+     <string name="hidden_notifications_setup">Imposta</string>
+     <string name="hidden_notifications_text">Mostra prima di bloccare</string>
+     <string name="hidden_notifications_title">Ricevi le notifiche più velocemente</string>
+     <string name="high_temp_dialog_message">"Il telefono proverà a raffreddarsi automaticamente. Puoi continuare ad utilizzare il dispositivo, ma potrebbe avere dei rallentamenti.
 
-Once your phone has cooled down, it will run normally."</string>
-     <string name="high_temp_notif_message">Some features limited while phone cools down</string>
-     <string name="high_temp_title">Phone is getting warm</string>
+Una volta raffreddato, funzionerà normalmente."</string>
+     <string name="high_temp_notif_message">Alcune funzioni sono limitate durante il raffreddamento</string>
+     <string name="high_temp_title">Il telefono si sta surriscaldando</string>
      <string name="home">Impostazioni Home</string>
      <string name="hour_minute_time_format">HH:mm</string>
      <string name="how_to_back_home">Come tornare alla home</string>
@@ -728,19 +728,19 @@ Once your phone has cooled down, it will run normally."</string>
      <string name="input_pin_code">Inserisci PIN</string>
      <string name="input_puk_code">Inserisci PUK</string>
      <string name="install_other_apps">Installa app sconosciute</string>
-     <string name="installer_cd_button_title">Install Android File Transfer app for Mac</string>
-     <string name="instant_apps">Instant apps</string>
-     <string name="instant_apps_message">"Instant apps don't require installation."</string>
+     <string name="installer_cd_button_title">"Installa l'app Android File Transfer per Mac"</string>
+     <string name="instant_apps">Instant app</string>
+     <string name="instant_apps_message">Instant apps non richiede installazione.</string>
      <string name="interruption_level_alarms">Solo sveglie</string>
      <string name="interruption_level_alarms_twoline">"Solo
 	 sveglie"</string>
      <string name="interruption_level_none">Silenzia tutto</string>
      <string name="interruption_level_none_twoline">"Silenzia
 tutto"</string>
-     <string name="interruption_level_none_with_warning">Total silence. This will also silence screen readers.</string>
-     <string name="interruption_level_priority">Priority only</string>
-     <string name="interruption_level_priority_twoline">"Priority
-only"</string>
+     <string name="interruption_level_none_with_warning">Silenziamento totale. Verranno silenziati anche i lettori di schermo.</string>
+     <string name="interruption_level_priority">Solo priorità</string>
+     <string name="interruption_level_priority_twoline">"Solo
+priorità"</string>
      <string name="invalid_charger">"Ricarica tramite USB non supportata.
 Utilizza solo l'alimentatore in dotazione."</string>
      <string name="invalid_charger_text">Utilizza solo il caricabatterie in dotazione.</string>
@@ -830,7 +830,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="keyguard_left_view_lock_wallpaper">Sfondi Carousel</string>
      <string name="keyguard_low_battery">Collega il tuo caricabatteria.</string>
      <string name="keyguard_missing_sim_instructions">Inserisci una SIM.</string>
-     <string name="keyguard_missing_sim_instructions_long">La SIM è illegibile o mancante. Inserisci una SIM.</string>
+     <string name="keyguard_missing_sim_instructions_long">La SIM è illeggibile o mancante. Inserisci una SIM.</string>
      <string name="keyguard_missing_sim_message">Nessuna SIM nel telefono.</string>
      <string name="keyguard_missing_sim_message_short">Nessuna SIM</string>
      <string name="keyguard_network_locked_message">Rete bloccata</string>
@@ -856,16 +856,16 @@ Contatta il tuo provider di rete per richiedere un'altra SIM."</string>
      <string name="keyguard_unlock">"Scorri verso l'alto per sbloccare"</string>
      <string name="keyguard_widget_12_hours_format">hmm</string>
      <string name="keyguard_widget_24_hours_format">kkmm</string>
-     <string name="kg_enter_confirm_pin_hint">Confirm desired PIN code</string>
-     <string name="kg_failed_attempts_almost_at_erase_profile">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
-     <string name="kg_failed_attempts_almost_at_erase_user">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-     <string name="kg_failed_attempts_almost_at_login">"You have incorrectly drawn your unlock pattern %1$d times. After %2$d more unsuccessful attempts, you will be asked to unlock your phone using an email account.
+     <string name="kg_enter_confirm_pin_hint">Conferma il PIN</string>
+     <string name="kg_failed_attempts_almost_at_erase_profile">Hai provato a sbloccare il telefono senza successo per %1$d volte. Dopo altri %2$d tentativi sbagliati, il profilo di lavoro verrà rimosso, e tutti i dati del profilo eliminati.</string>
+     <string name="kg_failed_attempts_almost_at_erase_user">"Hai provato a sbloccare il telefono senza successo per %1$d volte. Dopo altri %2$d tentativi sbagliati, questo utente verrà rimosso, e tutti i dati dell'utente eliminati."</string>
+     <string name="kg_failed_attempts_almost_at_login">"Ha disegnato la sequenza di sblocco in modo errato per %1$d volte. Dopo altri %2$d more tentativi sbagliati, ti verrà chiesto di sbloccare il telefono tramite il tuo account email.
 
  Try again in %3$d seconds."</string>
-     <string name="kg_failed_attempts_almost_at_wipe">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, this phone will be reset, which will delete all its data.</string>
-     <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the phone %d times. The work profile will be removed, which will delete all profile data.</string>
-     <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the phone %d times. This user will be removed, which will delete all user data.</string>
-     <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. This phone will be reset, which will delete all its data.</string>
+     <string name="kg_failed_attempts_almost_at_wipe">Hai provato a sbloccare il telefono senza successo per %1$d volte. Dopo altri %2$d tentativi sbagliati, il telefono verrà formattato e tutti i dati verranno cancellati.</string>
+     <string name="kg_failed_attempts_now_erasing_profile">Hai provato a sbloccare il telefono senza successo per %d volte. Il profilo di lavoro verrà eliminato e tutti i dati del profilo verranno eliminati.</string>
+     <string name="kg_failed_attempts_now_erasing_user">Hai provato a sbloccare il telefono senza successo per %d volte. Questo utente verrà rimosso, questo utente verrà rimosso, e tutti i dati dell'utente eliminati.</string>
+     <string name="kg_failed_attempts_now_wiping">Hai provato a sbloccare il telefono senza successo per %d volte. Il telefono verrà formattato e tutti i dati verranno cancellati.</string>
      <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
      <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
      <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
