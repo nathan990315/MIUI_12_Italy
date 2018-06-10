@@ -510,7 +510,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="disable_notification_title">Blocca notifiche</string>
      <string name="disable_overlays">Disabilita overlay HW</string>
      <string name="disable_overlays_summary">Usa sempre GPU per la composizione dello schermo</string>
-     <string name="disable_vpn">Disable VPN</string>
+     <string name="disable_vpn">Disattiva VPN</string>
      <string name="disabled">Disattivato</string>
      <string name="disabled_by_admin">"Disabilitato dall'amministratore"</string>
      <string name="disabled_by_admin_summary_text">"Controllato dall'amministratore"</string>
@@ -730,7 +730,7 @@ Una volta raffreddato, funzionerà normalmente."</string>
      <string name="install_other_apps">Installa app sconosciute</string>
      <string name="installer_cd_button_title">"Installa l'app Android File Transfer per Mac"</string>
      <string name="instant_apps">Instant app</string>
-     <string name="instant_apps_message">Instant apps non richiede installazione.</string>
+     <string name="instant_apps_message">Instant app non richiede installazione.</string>
      <string name="interruption_level_alarms">Solo sveglie</string>
      <string name="interruption_level_alarms_twoline">"Solo
 	 sveglie"</string>
@@ -861,55 +861,55 @@ Contatta il tuo provider di rete per richiedere un'altra SIM."</string>
      <string name="kg_failed_attempts_almost_at_erase_user">"Hai provato a sbloccare il telefono senza successo per %1$d volte. Dopo altri %2$d tentativi sbagliati, questo utente verrà rimosso, e tutti i dati dell'utente eliminati."</string>
      <string name="kg_failed_attempts_almost_at_login">"Ha disegnato la sequenza di sblocco in modo errato per %1$d volte. Dopo altri %2$d more tentativi sbagliati, ti verrà chiesto di sbloccare il telefono tramite il tuo account email.
 
- Try again in %3$d seconds."</string>
+ Prova di nuovo tra %3$d secondi."</string>
      <string name="kg_failed_attempts_almost_at_wipe">Hai provato a sbloccare il telefono senza successo per %1$d volte. Dopo altri %2$d tentativi sbagliati, il telefono verrà formattato e tutti i dati verranno cancellati.</string>
      <string name="kg_failed_attempts_now_erasing_profile">Hai provato a sbloccare il telefono senza successo per %d volte. Il profilo di lavoro verrà eliminato e tutti i dati del profilo verranno eliminati.</string>
      <string name="kg_failed_attempts_now_erasing_user">"Hai provato a sbloccare il telefono senza successo per %d volte. Questo utente verrà rimosso, questo utente verrà rimosso, e tutti i dati dell'utente eliminati."</string>
      <string name="kg_failed_attempts_now_wiping">Hai provato a sbloccare il telefono senza successo per %d volte. Il telefono verrà formattato e tutti i dati verranno cancellati.</string>
-     <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
-     <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
-     <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
-     <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
-     <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
-     <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
+     <string name="kg_forgot_pattern_button_text">Sequenza dimenticata</string>
+     <string name="kg_invalid_confirm_pin_hint">I PIN non combaciano</string>
+     <string name="kg_invalid_puk">Inserisci di nuovo il PUK corretto. Errori multipli disattiveranno definitivamente la SIM.</string>
+     <string name="kg_invalid_sim_pin_hint">Digita un PIN tra i 4 e 8 numeri.</string>
+     <string name="kg_invalid_sim_puk_hint">Il codice PUK dovrebbe essere composto di almeno 8 numeri.</string>
+     <string name="kg_login_too_many_attempts">Troppi sequenze sbagliate</string>
      <string name="kg_password_instructions">Inserisci password</string>
      <string name="kg_password_pin_failed">Operazione PIN SIM fallita!</string>
      <string name="kg_password_puk_failed">Operazione PUK SIM fallita!</string>
-     <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
-     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
-     <string name="kg_pattern_instructions">Draw your pattern</string>
-     <string name="kg_pin_accepted">Code Accepted!</string>
-     <string name="kg_pin_instructions">Enter PIN</string>
-     <string name="kg_prompt_reason_device_admin">Device locked by admin</string>
-     <string name="kg_prompt_reason_restart_password">Enter password to unlock</string>
-     <string name="kg_prompt_reason_restart_pattern">Draw your pattern to unlock</string>
-     <string name="kg_prompt_reason_restart_pin">Enter PIN to unlock</string>
-     <string name="kg_prompt_reason_switch_profiles_password">Password required when you switch profiles</string>
-     <string name="kg_prompt_reason_switch_profiles_pattern">Pattern required when you switch profiles</string>
-     <string name="kg_prompt_reason_switch_profiles_pin">PIN required when you switch profiles</string>
-     <string name="kg_prompt_reason_timeout_password">Password required for additional security</string>
-     <string name="kg_prompt_reason_timeout_pattern">Pattern required for additional security</string>
-     <string name="kg_prompt_reason_timeout_pin">PIN required for additional security</string>
-     <string name="kg_prompt_reason_user_request">Device was locked manually</string>
-     <string name="kg_puk_enter_pin_hint">Enter desired PIN code</string>
-     <string name="kg_puk_enter_puk_hint">SIM is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
-     <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
-     <string name="kg_sim_pin_instructions">Enter SIM PIN</string>
-     <string name="kg_sim_pin_instructions_multi">Enter SIM PIN for \"%1$s\"</string>
-     <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
-     <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
-     <string name="kg_too_many_failed_password_attempts_dialog_message">"You have incorrectly typed your password %1$d times. 
+     <string name="kg_password_wrong_pin_code_pukked">PIN SIM non corretto, devi contattare il tuo operatore per sbloccare il dispositivo.</string>
+     <string name="kg_password_wrong_puk_code_dead">SIM non utilizzabile. Contatta il tuo operatore.</string>
+     <string name="kg_pattern_instructions">Disegna la sequenza</string>
+     <string name="kg_pin_accepted">Codice accettato!</string>
+     <string name="kg_pin_instructions">Inserisci il PIN</string>
+     <string name="kg_prompt_reason_device_admin">"Dispositivo bloccato dall'amministratore"</string>
+     <string name="kg_prompt_reason_restart_password">Inserisci la password per sbloccare</string>
+     <string name="kg_prompt_reason_restart_pattern">Disegnala sequenza per sbloccare</string>
+     <string name="kg_prompt_reason_restart_pin">Inserisci il PIN per sbloccare</string>
+     <string name="kg_prompt_reason_switch_profiles_password">"E' richiesta la password quando cambi profilo"</string>
+     <string name="kg_prompt_reason_switch_profiles_pattern">"E' richiesta la sequenza quando cambi profilo"</string>
+     <string name="kg_prompt_reason_switch_profiles_pin">"E' richiesto il PIN quando cambi profilo"</string>
+     <string name="kg_prompt_reason_timeout_password">Password richiesta per maggiore sicurezza</string>
+     <string name="kg_prompt_reason_timeout_pattern">Sequenza richiesta per maggiore sicurezza</string>
+     <string name="kg_prompt_reason_timeout_pin">PIN richiesto per maggiore sicurezza</string>
+     <string name="kg_prompt_reason_user_request">Il dispositivo è stato bloccato manualmente</string>
+     <string name="kg_puk_enter_pin_hint">Inserisci il PIN desiderato</string>
+     <string name="kg_puk_enter_puk_hint">"SIM disattivata. Inserisci il codice PUK per continuare. Contatta l'operatore per maggiori dettagli."</string>
+     <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" disattivata. Inserisci il codice PUK per continuare. Contatta l\'operatore per maggiori dettagli.</string>
+     <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
+     <string name="kg_sim_pin_instructions_multi">Inserisci il PIN della SIM per \"%1$s\"</string>
+     <string name="kg_sim_unlock_progress_dialog_message">Sblocco SIM…</string>
+     <string name="kg_too_many_failed_attempts_countdown">Riprova tra %d secondi.</string>
+     <string name="kg_too_many_failed_password_attempts_dialog_message">"Hai digitato la password in modo errato per %1$d volte. 
 
-Try again in %2$d seconds."</string>
-     <string name="kg_too_many_failed_pattern_attempts_dialog_message">"You have incorrectly drawn your unlock pattern %1$d times. 
+Riprova tra %2$d secondi."</string>
+     <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Hai disegnato la sequenza in modo errato per %1$d volte. 
 
-Try again in %2$d seconds."</string>
-     <string name="kg_too_many_failed_pin_attempts_dialog_message">"You have incorrectly typed your PIN %1$d times. 
+Riprova tra %2$d secondi."</string>
+     <string name="kg_too_many_failed_pin_attempts_dialog_message">"Hai digitato il PIN in modo errato per %1$d volte. 
 
-Try again in %2$d seconds."</string>
-     <string name="kg_wrong_password">Wrong Password</string>
-     <string name="kg_wrong_pattern">Wrong Pattern</string>
-     <string name="kg_wrong_pin">Wrong PIN</string>
+Riprova tra %2$d secondi."</string>
+     <string name="kg_wrong_password">Password sbagliata</string>
+     <string name="kg_wrong_pattern">Sequenza sbagliata</string>
+     <string name="kg_wrong_pin">PIN sbagliato</string>
      <string name="kilobyte_per_second">KB/s</string>
      <string name="label_view">Visualizza</string>
      <string name="launch_defaults_none">Nessuna impostazione predefinita</string>
@@ -917,46 +917,46 @@ Try again in %2$d seconds."</string>
      <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
      <string name="lb_control_display_rewind_multiplier">%1$dX</string>
      <string name="lb_date_separator">/</string>
-     <string name="lb_guidedaction_continue_title">Continue</string>
-     <string name="lb_guidedaction_finish_title">Finish</string>
-     <string name="lb_media_player_error">MediaPlayer error code %1$d extra %2$d</string>
-     <string name="lb_navigation_menu_contentDescription">Navigation menu</string>
-     <string name="lb_onboarding_accessibility_next">Next</string>
-     <string name="lb_onboarding_get_started">GET STARTED</string>
-     <string name="lb_playback_controls_closed_captioning_disable">Disable Closed Captioning</string>
-     <string name="lb_playback_controls_closed_captioning_enable">Enable Closed Captioning</string>
-     <string name="lb_playback_controls_fast_forward">Fast Forward</string>
-     <string name="lb_playback_controls_fast_forward_multiplier">Fast Forward %1$dX</string>
-     <string name="lb_playback_controls_hidden">Media controls hidden, press d-pad to show</string>
-     <string name="lb_playback_controls_high_quality_disable">Disable High Quality</string>
-     <string name="lb_playback_controls_high_quality_enable">Enable High Quality</string>
-     <string name="lb_playback_controls_more_actions">More Actions</string>
-     <string name="lb_playback_controls_pause">Pause</string>
-     <string name="lb_playback_controls_picture_in_picture">Enter Picture In Picture Mode</string>
-     <string name="lb_playback_controls_play">Play</string>
-     <string name="lb_playback_controls_repeat_all">Repeat All</string>
-     <string name="lb_playback_controls_repeat_none">Repeat None</string>
-     <string name="lb_playback_controls_repeat_one">Repeat One</string>
-     <string name="lb_playback_controls_rewind">Rewind</string>
-     <string name="lb_playback_controls_rewind_multiplier">Rewind %1$dX</string>
-     <string name="lb_playback_controls_shown">Media controls shown</string>
-     <string name="lb_playback_controls_shuffle_disable">Disable Shuffle</string>
-     <string name="lb_playback_controls_shuffle_enable">Enable Shuffle</string>
-     <string name="lb_playback_controls_skip_next">Skip Next</string>
-     <string name="lb_playback_controls_skip_previous">Skip Previous</string>
-     <string name="lb_playback_controls_thumb_down">Deselect Thumb Down</string>
-     <string name="lb_playback_controls_thumb_down_outline">Select Thumb Down</string>
-     <string name="lb_playback_controls_thumb_up">Deselect Thumb Up</string>
-     <string name="lb_playback_controls_thumb_up_outline">Select Thumb Up</string>
+     <string name="lb_guidedaction_continue_title">Continua</string>
+     <string name="lb_guidedaction_finish_title">Fine</string>
+     <string name="lb_media_player_error">Codice errore MediaPlayer %1$d extra %2$d</string>
+     <string name="lb_navigation_menu_contentDescription">Menù di navigazione</string>
+     <string name="lb_onboarding_accessibility_next">Avanti</string>
+     <string name="lb_onboarding_get_started">AVVIA</string>
+     <string name="lb_playback_controls_closed_captioning_disable">Disattiva Sottotitoli Vicini</string>
+     <string name="lb_playback_controls_closed_captioning_enable">Attiva Sottotitoli Vicini</string>
+     <string name="lb_playback_controls_fast_forward">Avanti</string>
+     <string name="lb_playback_controls_fast_forward_multiplier">Avanti %1$dX</string>
+     <string name="lb_playback_controls_hidden">Controlli media nascosti, tocca d-pad per visualizzarli</string>
+     <string name="lb_playback_controls_high_quality_disable">Disattiva Alta Qualità</string>
+     <string name="lb_playback_controls_high_quality_enable">Attiva Alta Qualità</string>
+     <string name="lb_playback_controls_more_actions">Altre azioni</string>
+     <string name="lb_playback_controls_pause">Pausa</string>
+     <string name="lb_playback_controls_picture_in_picture">Avvia la modalità Picture In Picture</string>
+     <string name="lb_playback_controls_play">Riproduci</string>
+     <string name="lb_playback_controls_repeat_all">Ripeti tutto</string>
+     <string name="lb_playback_controls_repeat_none">Non ripetere</string>
+     <string name="lb_playback_controls_repeat_one">Ripetizione singola</string>
+     <string name="lb_playback_controls_rewind">Indietro</string>
+     <string name="lb_playback_controls_rewind_multiplier">Indietro %1$dX</string>
+     <string name="lb_playback_controls_shown">Controlli media visualizzati</string>
+     <string name="lb_playback_controls_shuffle_disable">Disattiva Shuffle</string>
+     <string name="lb_playback_controls_shuffle_enable">Attiva Shuffle</string>
+     <string name="lb_playback_controls_skip_next">Salta al successivo</string>
+     <string name="lb_playback_controls_skip_previous">Salta al precedente</string>
+     <string name="lb_playback_controls_thumb_down">Deseleziona pollice giù</string>
+     <string name="lb_playback_controls_thumb_down_outline">Seleziona pollice giù</string>
+     <string name="lb_playback_controls_thumb_up">Deseleziona pollice su</string>
+     <string name="lb_playback_controls_thumb_up_outline">Seleziona pollice su</string>
      <string name="lb_playback_time_separator">/</string>
-     <string name="lb_search_bar_hint">Search</string>
-     <string name="lb_search_bar_hint_speech">Speak to search</string>
-     <string name="lb_search_bar_hint_with_title">Search %1$s</string>
-     <string name="lb_search_bar_hint_with_title_speech">Speak to search %1$s</string>
+     <string name="lb_search_bar_hint">Cerca</string>
+     <string name="lb_search_bar_hint_speech">Parla per cercare</string>
+     <string name="lb_search_bar_hint_with_title">Cerca %1$s</string>
+     <string name="lb_search_bar_hint_with_title_speech">Parla per cercare %1$s</string>
      <string name="lb_time_separator">:</string>
-     <string name="left_icon">Left icon</string>
-     <string name="left_keycode">Left keycode</string>
-     <string name="left_nav_bar_button_type">Extra left button type</string>
+     <string name="left_icon">Icona sinistra</string>
+     <string name="left_keycode">Chiave sinistra</string>
+     <string name="left_nav_bar_button_type">Tipo di tasto sinistro extra</string>
      <string name="legacy_vpn_name">VPN</string>
      <string name="list_delimeter">", "</string>
      <string name="local_backup_password_summary_change">Premi per cambiare o rimuovere le password dei backup desktop completati</string>
@@ -983,12 +983,12 @@ Try again in %2$d seconds."</string>
 
  Riprova tra %d secondi."</string>
      <string name="lockscreen_failed_attempts_now_wiping">Hai cercato di sbloccare il telefono %d volte senza successo. Il telefono verrà ripristinato alle condizioni di fabbrica.</string>
-     <string name="lockscreen_none">None</string>
-     <string name="lockscreen_shortcut_left">Left shortcut</string>
-     <string name="lockscreen_shortcut_right">Right shortcut</string>
-     <string name="lockscreen_sim_error_message_short">Invalid Card.</string>
-     <string name="lockscreen_unlock_left">Left shortcut also unlocks</string>
-     <string name="lockscreen_unlock_right">Right shortcut also unlocks</string>
+     <string name="lockscreen_none">Nessuno</string>
+     <string name="lockscreen_shortcut_left">Collegamento sinistro</string>
+     <string name="lockscreen_shortcut_right">RCollegamento destro</string>
+     <string name="lockscreen_sim_error_message_short">Scheda non valida</string>
+     <string name="lockscreen_unlock_left">Collegamento sinistro e sblocco</string>
+     <string name="lockscreen_unlock_right">Collegamento destro e sblocco</string>
      <string name="long_screenshot_not_support_msg">Questa app non supporta lo screenshot lungo.</string>
      <string name="long_screenshot_out_of_memory_error">"Fallito a causa dell'immagine troppo grande"</string>
      <string name="long_screenshot_processing">Elaborazione…</string>
@@ -1012,20 +1012,20 @@ Try again in %2$d seconds."</string>
      <string name="media_projection_dialog_text">%s inizierà a registrare tutto ciò che verrà visualizzato sullo schermo.</string>
      <string name="media_projection_remember_text">Non chiedere più</string>
      <string name="megabyte_per_second">MB/s</string>
-     <string name="memory_clear_result_giga">%1$sGB cleared</string>
-     <string name="memory_clear_result_mega">%1$sMB cleared</string>
-     <string name="menu_ime">Keyboard switcher</string>
+     <string name="memory_clear_result_giga">%1$sGB puliti</string>
+     <string name="memory_clear_result_mega">%1$sMB puliti</string>
+     <string name="menu_ime">Cambio tastiera</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Sbloccato da dispositivo Bluetooth</string>
-     <string name="miui_ringer_count_down">Count down</string>
-     <string name="miui_ringer_count_down_time">Count down: %s</string>
-     <string name="miui_ringer_standard">Silent</string>
-     <string name="miui_ringer_standard_description">Silence ringtones for incoming calls and notifications</string>
+     <string name="miui_ringer_count_down">Conto alla rovescia</string>
+     <string name="miui_ringer_count_down_time">Conto alla rovescia: %s</string>
+     <string name="miui_ringer_standard">Silenzioso</string>
+     <string name="miui_ringer_standard_description">Silenzia le suonerie per le chiamate in arrivo e le notifiche</string>
      <string name="miui_ringer_total">DND</string>
-     <string name="miui_ringer_total_description">Silence sounds and turn off vibration for all items except the alarm clock</string>
-     <string name="miui_toast_zen_dnd_to_off">Sounds and vibration restored to normal</string>
-     <string name="miui_toast_zen_standard_to_off">Ringtones restored to normal</string>
-     <string name="miui_toast_zen_to_dnd">Sounds silenced and vibration turned off</string>
-     <string name="miui_toast_zen_to_standard">Ringtones for calls and notifications silenced</string>
+     <string name="miui_ringer_total_description">Silenzia i suoni e disattiva la vibrazione per tutti gli elementi tranne le sveglie</string>
+     <string name="miui_toast_zen_dnd_to_off">Suoni e vibrazione ripristinati alla normalità</string>
+     <string name="miui_toast_zen_standard_to_off">Suonerie ripristinate alla normalità</string>
+     <string name="miui_toast_zen_to_dnd">Suoni silenziati e vibrazione disattivata</string>
+     <string name="miui_toast_zen_to_standard">Suonerie per le chiamate e notifiche silenziate</string>
      <string name="mland">Suolo Marshmallow</string>
      <string name="mobile_data">Dati mobili</string>
      <string name="mobile_data_always_on">Dati cellulare sempre attivi</string>
@@ -1034,26 +1034,26 @@ Try again in %2$d seconds."</string>
      <string name="mock_location_app_not_set">Nessuna app impostata su false localizzazioni</string>
      <string name="mock_location_app_set">App con false localizzazioni: %1$s</string>
      <string name="monitoring_button_view_policies">"Leggi l'Informativa"</string>
-     <string name="monitoring_description_app">"You're connected to %1$s, which can monitor your network activity, including emails, apps, and websites."</string>
-     <string name="monitoring_description_app_personal">"You're connected to %1$s, which can monitor your personal network activity, including emails, apps, and websites."</string>
-     <string name="monitoring_description_app_personal_work">"Your work profile is managed by %1$s. The profile is connected to %2$s, which can monitor your work network activity, including emails, apps, and websites.
+     <string name="monitoring_description_app">"Sei collegato a %1$s, che può monitorare la tua attività di rete, incluse email, app e siti web."</string>
+     <string name="monitoring_description_app_personal">"Sei collegato a %1$s, che può monitorare la tua attività di rete, incluse email, app e siti web."</string>
+     <string name="monitoring_description_app_personal_work">"I tuo profilo di lavoro è gestito da %1$s. Il profilo è collegato a %2$s, che può monitorare la tua attività di rete, incluse email, app e siti web.
 
-You're also connected to %3$s, which can monitor your personal network activity."</string>
-     <string name="monitoring_description_app_work">"Your work profile is managed by %1$s. The profile is connected to %2$s, which can monitor your work network activity, including emails, apps, and websites.
+Sei collegato anche a %3$s, che può monitorare la tua attività di rete."</string>
+     <string name="monitoring_description_app_work">"Il tuo profilo di lavoro è gestito da %1$s. Il profilo è collegato a %2$s, che può monitorare la tua attività di rete, incluse email, app e siti web.
 
-For more information, contact your admin."</string>
-     <string name="monitoring_description_ca_cert_settings">Open trusted credentials</string>
+Contatta il tuo amministratore per maggiori informazioni."</string>
+     <string name="monitoring_description_ca_cert_settings">Apri le credenziali sicure</string>
      <string name="monitoring_description_ca_cert_settings_separator">" "</string>
      <string name="monitoring_description_ca_certificate">"Un'autorità di certificazione è installata su questo dispositivo. Il traffico di rete sicuro può essere monitorato o modificato."</string>
-     <string name="monitoring_description_do_body">"Your admin can monitor and manage settings, corporate access, apps, data associated with your device, and your device's location information."</string>
-     <string name="monitoring_description_do_body_vpn">"You're connected to %1$s, which can monitor your network activity, including emails, apps, and websites."</string>
-     <string name="monitoring_description_do_header_generic">Your device is managed by %1$s.</string>
-     <string name="monitoring_description_do_header_with_name">%1$s uses %2$s to manage your device.</string>
-     <string name="monitoring_description_do_learn_more">Learn more</string>
+     <string name="monitoring_description_do_body">"Il tuo amministratore può monitorare e gestire le impostazioni, accessi aziendali, app, dati associati con il tuo dispositivo e informazioni sulla posizione della tuo dispositivo."</string>
+     <string name="monitoring_description_do_body_vpn">"Sei collegato a %1$s, che può monitorare la tua attività di rete, incluse email, app e siti web."</string>
+     <string name="monitoring_description_do_header_generic">Il tuo dispositivo è gestito da %1$s.</string>
+     <string name="monitoring_description_do_header_with_name">%1$s utilizza %2$s per gestire il tuo dispositivo.</string>
+     <string name="monitoring_description_do_learn_more">Scopri di più</string>
      <string name="monitoring_description_do_learn_more_separator">" "</string>
-     <string name="monitoring_description_managed_profile_ca_certificate">Your organization installed a certificate authority in your work profile. Your secure network traffic may be monitored or modified.</string>
-     <string name="monitoring_description_managed_profile_named_vpn">Your work profile is connected to %1$s, which can monitor your network activity, including emails, apps, and websites.</string>
-     <string name="monitoring_description_management">"Il tuo dispositivo è gestito dalla tua organizzazione.
+     <string name="monitoring_description_managed_profile_ca_certificate">La tua organizzazione ha installato un certificato nel tuo profilo di lavoro. Il tuo traffico di rete sicuro potrebbe essere monitorato o modificato.</string>
+     <string name="monitoring_description_managed_profile_named_vpn">Il tuo profilo di lavoro è collegato a %1$s, che può monitorare il tuo traffico di rete, incluse email, app e siti web.</string>
+     <string name="monitoring_description_management">"Il dispositivo è gestito dalla tua organizzazione.
 
 Your admin can monitor and manage settings, corporate access, apps, data associated with your device, and your device's location information.
 
