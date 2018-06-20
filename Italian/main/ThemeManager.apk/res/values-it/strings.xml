@@ -35,6 +35,7 @@
      <string name="apply_theme_with_ringtones">Utilizza la suoneria del tema</string>
      <string name="audio_duration_minutes_format">%1$d minuti</string>
      <string name="audio_duration_seconds_format">%1$d secondi</string>
+     <string name="automatically_update_using_theme_tips">Update automatically next time</string>
      <string name="backup_theme_dialog_message">Eseguire il backup del tema corrente?</string>
      <string name="backup_theme_dialog_ok">Backup</string>
      <string name="backup_theme_fail_trial_rights_message">Impossibile eseguire il backup dei temi in prova</string>
@@ -164,6 +165,7 @@
      <string name="online_precust_creative">Creativi</string>
      <string name="online_precust_forest_stories">Storie di foreste</string>
      <string name="online_precust_geometry">Geometrici</string>
+     <string name="online_precust_hatsune">Hatsune</string>
      <string name="online_precust_lifestyle">Stili di vita</string>
      <string name="online_precust_mi_note2">Mi Note 2</string>
      <string name="online_precust_museum">Museo Britannico</string>
@@ -406,6 +408,8 @@
      <string name="selected_resource_file_invalid">Impossibile utilizzare il file di risorsa selezionato</string>
      <string name="set_color_ring_back_tone">Imposta colore tono di risposta</string>
      <string name="settings">Impostazioni</string>
+     <string name="show_free">Show free %1$s</string>
+     <string name="show_incompatible">Show incompatible %1$s</string>
      <string name="system_precust">Predefinito di sistema</string>
      <string name="the_picture_is_not_support">"L'immagine non è supportata"</string>
      <string name="the_picture_is_too_small">"L'immagine è troppo piccola"</string>
@@ -417,8 +421,6 @@
      <string name="theme_apply_success">Schermata di blocco applicata</string>
      <string name="theme_applying">Applicazione…</string>
      <string name="theme_batch_update_all">Aggiorna tutto</string>
-     <string name="theme_batch_update_dlg_content">Vuoi aggiornare %1$s ed altri %2$d temi adesso?</string>
-     <string name="theme_batch_update_dlg_content_single">Aggiornare %1$s adesso?</string>
      <string name="theme_batch_update_dlg_title">Aggiorna</string>
      <string name="theme_batch_updating_text">%1$d temi sono stati aggiornati</string>
      <string name="theme_bug_report">Segnalazione bug</string>
@@ -499,6 +501,10 @@
      <string name="uid_change_dialog_ok">Ho capito</string>
      <string name="uid_change_dialog_title">Riavvia dispositivo</string>
      <string name="up_to_the_end">Questo è tutto per il momento. Ritorna più tardi.</string>
+     <string name="update_immediately">Update now</string>
+     <string name="using_theme_has_update_tips">An update for this theme is available.</string>
+     <string name="using_theme_next_automatic_update">Automatic updates</string>
+     <string name="using_theme_next_automatic_update_summary">Update downloaded themes via Wi-Fi automatically when the screen is locked</string>
      <string name="video_apply_home">Schermata Home</string>
      <string name="video_apply_home_lock">Schermata home e Blocco schermo</string>
      <string name="video_audio_apply_success">Configurazione video con suono riuscita</string>

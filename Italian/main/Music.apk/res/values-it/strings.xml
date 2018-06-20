@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="account">Account</string>
      <string name="account_and_cloud">Account</string>
@@ -30,6 +30,8 @@
      <string name="ad_close">Chiudi</string>
      <string name="ad_data_exception">Eccezione dati AD!</string>
      <string name="ad_extension">Promozione</string>
+     <string name="ad_immediate_download">immediate download</string>
+     <string name="ad_immediate_open">immediate open</string>
      <string name="ad_mark">AD</string>
      <string name="ad_recommend">Suggerimenti AD</string>
      <string name="ad_setting">Impostazioni AD</string>
@@ -85,6 +87,7 @@
      <string name="audio_recognition_setting_title">Ottimizzazione intelligente di album e testi</string>
      <string name="auth_activity_title">Account Xunlei</string>
      <string name="auto_download_in_wifi">Nessuna connessione internet rilevata</string>
+     <string name="auto_enter_nowplaying_setting_title">Auto Enter Nowplaying</string>
      <string name="auto_payment">Rinnovo automatico</string>
      <string name="auto_payment_date">Pagamento successivo: %s</string>
      <string name="auto_restart_under_wifi">Il file verrà scaricato automaticamente appena collegato ad una rete Wi-Fi</string>
@@ -114,6 +117,7 @@
      <string name="can_not_find_resource">Nessuna risorsa trovata</string>
      <string name="cancel">Annulla</string>
      <string name="cancel_running_download">Annulla</string>
+     <string name="cannot_reply">This comment can not be replied</string>
      <string name="change_download_quality">Modifica qualità download</string>
      <string name="channel_list_fragment_title">Radio</string>
      <string name="choose_download_quality">Seleziona la qualità dei download</string>
@@ -136,16 +140,21 @@
      <string name="cloud_welcome_message">Backup brani</string>
      <string name="cloud_welcome_summary">Esegui il backup dei tuoi brani su Mi Cloud e ascoltali su altri dispositivi</string>
      <string name="comment_action_title">"commento di %s"</string>
+     <string name="comment_delete_hint">Comment was deleted</string>
      <string name="comment_format" formatted="false">%s: %s</string>
      <string name="comment_input_empty">Impossibile aggiungere un commento vuoto.</string>
      <string name="comment_input_hint">Inserisci commento</string>
+     <string name="comment_input_length_invalid">Comments limit %1$d characters, currently %2$d characters</string>
      <string name="comment_ref_format">%1$s: %2$s</string>
      <string name="comment_ref_reply_format">RIspondi a @%1$s: %2$s</string>
      <string name="confirm">OK</string>
+     <string name="confirm_delete_comment">Confirm permanently deleted the comment?</string>
      <string name="confirm_download">Download</string>
      <string name="confirm_to_renew">Rinnova</string>
      <string name="connecting_apk">Connessione...</string>
      <string name="continue_backup">Continua</string>
+     <string name="copy">Copy</string>
+     <string name="copy_success">Copied to clipboard</string>
      <string name="cp_info_first">Il servizio di streaming è offerto da Ultimate Inc.</string>
      <string name="create_order_fail">"Impossibile creare l'ordine, prova di nuovo."</string>
      <string name="create_playlist">Crea playlist</string>
@@ -220,6 +229,7 @@
      <string name="disable_auto_payment_success_message">"Rinnovo automatico disattivato. Dopo la scadenza, dovrai rinnovare l'abbonamento per poter scaricare i brani."</string>
      <string name="disallow_add_to_fm">Impossibile aggiungere brani alla radio FM</string>
      <string name="disallow_add_to_personal_radio">La radio personale funziona solo in lettura</string>
+     <string name="dislike_comment_success">Disliked successfully</string>
      <string name="doc_filter">Doc</string>
      <string name="done">Fatto</string>
      <string name="download">Download</string>
@@ -451,9 +461,11 @@ attendere o selezionare Musica Online."</string>
      <string name="latest_song">Riproduci cronologia (%d).</string>
      <string name="like">Mi piace</string>
      <string name="like_comment_failed">Impossibile aggiungere Mi Piace</string>
+     <string name="like_comment_success">Liked successfully</string>
      <string name="list_item_play_FM_radio">Tocca per riprodurre la radio FM</string>
      <string name="list_item_play_all_tracks">Riproduci tutti i brani</string>
      <string name="load_shuffle">Caricamento</string>
+     <string name="load_success">loaded successfully</string>
      <string name="loadercontainer_loading">Solo un secondo…</string>
      <string name="loading_hint">Caricamento in corso…</string>
      <string name="local_header_title">Musica locale</string>
@@ -489,6 +501,7 @@ attendere o selezionare Musica Online."</string>
      <string name="menu_title_pause_all">Tutto in pausa</string>
      <string name="menu_title_resume_all">Riprendi tutti</string>
      <string name="menu_title_settings">Impostazioni</string>
+     <string name="message">Message</string>
      <string name="message_delete_playlist">Eliminare la playlist %s?</string>
      <string name="metered_alert">Avviso utilizzo dati</string>
      <string name="metered_alert_msg">Lo streaming tramite rete dati cellulare può aumentare il traffico dati.</string>
@@ -534,6 +547,7 @@ attendere o selezionare Musica Online."</string>
      <string name="more">Altro</string>
      <string name="more_about_artist">Altre info su %s</string>
      <string name="more_add_song_list">Aggiungi</string>
+     <string name="more_milink_bluetooth">Milink and Bluetooth</string>
      <string name="more_online_artist">Altro</string>
      <string name="more_online_billboard">Altro</string>
      <string name="more_online_fm">Altro</string>
@@ -568,6 +582,14 @@ attendere o selezionare Musica Online."</string>
      <string name="network_settings_error">Impossibile collegarsi alla rete</string>
      <string name="network_traffic">Traffico di rete</string>
      <string name="news_mark">NEWS</string>
+     <string name="news_not_interest_cancel">cancel</string>
+     <string name="news_not_interest_message">You can choose more reasons for feedback on spam and specific content that are not of interest, vulgarity, title party, etc.</string>
+     <string name="news_not_interest_negative">Choose precise reasons</string>
+     <string name="news_not_interest_ok">ok</string>
+     <string name="news_not_interest_positive">not interested</string>
+     <string name="news_not_interest_title">Mask feedback</string>
+     <string name="news_not_interest_toast">Will reduce similar content recommendations for you!</string>
+     <string name="news_top_title">TopNews</string>
      <string name="next_time">La prossima volta</string>
      <string name="no_album_info">"Nessuna informazione sull'album"</string>
      <string name="no_artist_info">"Nessuna informazione sull'artista"</string>
@@ -592,6 +614,8 @@ attendere o selezionare Musica Online."</string>
      <string name="notif_text_engine_on">Accelerazione…</string>
      <string name="notif_title_file_size">%1$d totale</string>
      <string name="notif_title_single_downloading">Download %1$s</string>
+     <string name="notification_comment_fav_title">When your comments are liked</string>
+     <string name="notification_comment_reply_title">When your comments are replied</string>
      <string name="notification_des_next_song">Prossimo brano: %s</string>
      <string name="notification_des_no_song">Mi Music. Novità ogni giorno.</string>
      <string name="notification_download_complete">Download completato</string>
@@ -599,15 +623,17 @@ attendere o selezionare Musica Online."</string>
      <string name="notification_need_wifi_for_size">La dimensione del file richiede il Wi-Fi.</string>
      <string name="notification_play_summary">Mostra il brano attuale e quello successivo, mostra i testi sulla Home</string>
      <string name="notification_play_title">Widget pannello notifiche</string>
-     <string name="notification_recommend_summary">Scopri i nuovi trend musicali e le promozioni sulle app</string>
-     <string name="notification_recommend_title">Notifiche importanti</string>
      <string name="notification_setting">Impostazioni di notifica</string>
+     <string name="notification_settings_summary">Learn about new music trends and social messages</string>
+     <string name="notification_settings_title">Enable Notifications</string>
+     <string name="notification_social_title">Social notification</string>
      <string name="notification_title_no_song">Guarda cosa ascoltano gli altri!</string>
      <string name="nowplaying_circle_style">Circolare</string>
      <string name="nowplaying_circle_style_rainbow">Arcobaleno</string>
      <string name="nowplaying_circle_style_wave">Onda</string>
      <string name="nowplaying_dialog_title_delete_tracks">Rimuovere dalla playlist?</string>
      <string name="nowplaying_menu_item_delete">Elimina</string>
+     <string name="nowplaying_scroll_try">try to scroll</string>
      <string name="ok">OK</string>
      <string name="one_month">1 mese</string>
      <string name="online_bill">Più ascoltati</string>
@@ -626,6 +652,7 @@ attendere o selezionare Musica Online."</string>
      <string name="online_switch">Servizi di contenuti online</string>
      <string name="online_switch_message">La disattivazione dei servizi online ha effetti sui servizi VIP e i consigli. Disattivare comunque?</string>
      <string name="online_switch_setting">Impostazioni contenuti online</string>
+     <string name="online_video">Video</string>
      <string name="open_download">Apri</string>
      <string name="open_online_service">Devi attivare i servizi online per poter utilizzare questa funzionalità. Attivare adesso?</string>
      <string name="open_service">Attiva</string>
@@ -671,6 +698,7 @@ attendere o selezionare Musica Online."</string>
      <string name="please_search_or_select">Cerca e seleziona</string>
      <string name="please_select_song">Prima seleziona un brano</string>
      <string name="post_comment_failed">Impossibile aggiungere il commento</string>
+     <string name="post_comment_success">Added comment successfully</string>
      <string name="power_save_mode_dialog_msg">Il dispositivo è in Modalità Risparmio Batteria. Avviare adesso il download?</string>
      <string name="pref_download_settings_title">Limite dimensione download</string>
      <string name="pref_summary_any_bytes_popup">Attendi la connessione ad una rete Wi-Fi per scaricare i file</string>
@@ -691,6 +719,7 @@ attendere o selezionare Musica Online."</string>
      <string name="privacy_tip_ok">OK</string>
      <string name="privacy_tip_title">Utilizzare Acceleratore Xunlei?</string>
      <string name="project_device">Dispositivo Mi</string>
+     <string name="project_device_bs">My mobile phone</string>
      <string name="project_device_mobile">Dispositivo mobile</string>
      <string name="pulluprefreshrecyclerview_loading_error">Caricamento fallito</string>
      <string name="pulluprefreshrecyclerview_loading_finished">Caricamento riuscito</string>
@@ -736,6 +765,9 @@ attendere o selezionare Musica Online."</string>
      <string name="repeat_current_notif">Ripeti questo brano.</string>
      <string name="reply_comment">Rispondi</string>
      <string name="reply_comment_hint">Rispondi a @%s</string>
+     <string name="report">Report</string>
+     <string name="report_comment_failed">"Couldn't report"</string>
+     <string name="report_comment_success">Reported successfully</string>
      <string name="restart_download">Riavvia</string>
      <string name="restart_immediate">Riavvia adesso</string>
      <string name="resume_download">Riprendi</string>
@@ -818,11 +850,13 @@ attendere o selezionare Musica Online."</string>
      <string name="sleep_mode_canceled">Timer spegnimento annullato</string>
      <string name="sleep_mode_summary">Termina la riproduzione dopo un certo periodo</string>
      <string name="sleep_mode_title">Timer spegnimento</string>
+     <string name="sleep_quit_warning">Minutes remaining</string>
      <string name="song_exist_in_playlist">Operazione fallita. Il brano è già nella playlist.</string>
      <string name="song_is_empty">Il nome del brano non può essere vuoto.</string>
      <string name="song_name">Brano</string>
      <string name="song_not_find">"Nessun brano trovato. Verifica la connessione di rete e riprova."</string>
      <string name="song_offline">Questo brano non è più disponibile.</string>
+     <string name="song_playing">The song is Playing</string>
      <string name="song_unit">elementi</string>
      <string name="sort_by_name">Nome</string>
      <string name="sort_by_time">Data</string>
@@ -841,13 +875,20 @@ attendere o selezionare Musica Online."</string>
      <string name="stream_quality">Qualità streaming</string>
      <string name="streamloadingtext">Connessione a %s</string>
      <string name="suggest_text">A chi è piaciuto questo è piaciuto anche</string>
+     <string name="swipe_to_load_head_complete_fail">refresh failed</string>
+     <string name="swipe_to_load_head_complete_success">%1$s your %2$d exclusive recommendations have been updated</string>
+     <string name="swipe_to_load_head_pengding">swipe to refresh</string>
+     <string name="swipe_to_load_head_refreshing">refreshing</string>
+     <string name="swipe_to_load_head_release">release to refresh</string>
      <string name="sync_only_in_wifi">Sincronizza solo con Wi-Fi</string>
      <string name="sync_only_in_wifi_summary">Sincronizza la musica su tutti i tuoi dispositivi con Mi Cloud.</string>
      <string name="tab_album">Album</string>
      <string name="tab_album_list">Album</string>
      <string name="tab_artist">Artisti</string>
      <string name="tab_artist_list">Artisti</string>
+     <string name="tab_comment">Comment</string>
      <string name="tab_folder">Cartelle</string>
+     <string name="tab_like">Like</string>
      <string name="tab_local_folder_list">Cartella</string>
      <string name="tab_local_track_list">Brani</string>
      <string name="tab_track">Brani</string>
@@ -860,6 +901,7 @@ attendere o selezionare Musica Online."</string>
      <string name="talkback_favorite">Mi piace</string>
      <string name="talkback_follow">Segui</string>
      <string name="talkback_followed">Non seguire</string>
+     <string name="talkback_frame_list">Frame List</string>
      <string name="talkback_header_search">"Cerca "</string>
      <string name="talkback_karaoke">Avvia Karaoke</string>
      <string name="talkback_like">Mi Piace</string>
@@ -907,6 +949,7 @@ attendere o selezionare Musica Online."</string>
      <string name="toast_uhd_songs_for_download">Qualità download impostata su Alta</string>
      <string name="toast_uhd_songs_for_stream">Qualità streaming impostata su Alta</string>
      <string name="too_freq">Operazione ripetuta troppe volte</string>
+     <string name="topnews_refresh">refresh news</string>
      <string name="tos">Termini del Servizio</string>
      <string name="track_list_control_download">Scarica</string>
      <string name="track_list_control_edit_add_tracks">Aggiungi brano</string>
@@ -924,6 +967,7 @@ attendere o selezionare Musica Online."</string>
      <string name="ultra_high_quality">Migliore</string>
      <string name="unknown_album_name">Album sconosciuto</string>
      <string name="unknown_artist_name">Artista sconosciuto</string>
+     <string name="unread_message_count">%s message unread</string>
      <string name="update_now">Aggiorna adesso</string>
      <string name="upgrade">Aggiorna:</string>
      <string name="upgrade_force">"Abbiamo interrotto il nostro servizio di streaming a causa di problemi con i diritti d'autore. Aggiorna all'ultima versione per ascoltare musica di alta qualità."</string>
@@ -938,6 +982,18 @@ attendere o selezionare Musica Online."</string>
      <string name="upgrade_waringing">Potrai ascoltare soltanto la musica archiviata in locale.</string>
      <string name="valid_period">Validità: %s</string>
      <string name="version_info">Informazioni</string>
+     <string name="video_more_dislike">Dislike</string>
+     <string name="video_more_like">Like</string>
+     <string name="video_network_message">Currently in 2G/3G/4G network, continue to play will consume %1$s traffic!</string>
+     <string name="video_network_negative">Allow this play</string>
+     <string name="video_network_positive">Allow today to play</string>
+     <string name="video_play_error">Try again</string>
+     <string name="video_play_finish_continue">Replay</string>
+     <string name="video_play_finish_share">Share</string>
+     <string name="video_play_mobile_net_continue">Play</string>
+     <string name="video_player_data_error_tip">The video is temporarily unavailable. Please try again later</string>
+     <string name="video_player_net_error">The network is not connected, please check the network settings</string>
+     <string name="video_player_no_data">Sorry! This video is missing~</string>
      <string name="vip_after_tomorrow_auto_renew_message">Il tuo abbonamento musica sarà rinnovato automaticamente la sera del giorno dopo domani. Assicurati di avere abbastanza Crediti Mi nel tuo account per completare questo pagamento.</string>
      <string name="vip_after_tomorrow_renew_message">Non sarai in grado di eseguire lo streaming di audio in alta qualità, ma alcune canzoni saranno disponibili in qualità normale.</string>
      <string name="vip_auto_renew_message">Il tuo abbonamento a Musica verrà rinnovato automaticamente questa sera. Assicurati di avere Mi Credit sufficienti per poter eseguire il pagamento.</string>
@@ -957,4 +1013,8 @@ attendere o selezionare Musica Online."</string>
 
 Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</string>
      <string name="wifi_required_title">"File troppo grande per la rete dell'operatore"</string>
+     <string name="xiaoai_install_message">Now go to download and install it!</string>
+     <string name="xiaoai_install_title">No voice engine installed</string>
+     <string name="xiaoai_update_message">Now go to download and update it!</string>
+     <string name="xiaoai_update_title">The version of voice engine is too low</string>
 </resources>

@@ -56,6 +56,9 @@
      <string name="ai_scene_mode_use_hint_text">"Scena-AI identifica il tipo di scena 
  ed ottimizza l'immagine"</string>
      <string name="audio_focus_exit_button_text">Disattiva Messa a Fuoco Audio</string>
+     <string name="back_bokeh_use_hint">"Make sure the object isn't further than 1.5 meters."</string>
+     <string name="beauty_fragment_tab_name_3d_beauty">Beauty</string>
+     <string name="beauty_fragment_tab_name_3d_remodeling">Remodeling</string>
      <string name="beauty_fragment_tab_name_beauty">Bellezza</string>
      <string name="beauty_fragment_tab_name_makeup">Avanzate</string>
      <string name="bokeh_use_hint">Effetto di profondit?</string>
@@ -116,13 +119,21 @@
      <string name="dual_camera_too_close_toast">La fotocamera ? troppo vicina al soggetto.</string>
      <string name="dual_camera_use_hint">"La modalit? Dual Camera permette di esaltare il soggetto in primo piano.
 Il soggetto non deve essere pi? lontano di 2 metri."</string>
+     <string name="edit_chin">Chin</string>
      <string name="edit_eye_large">Occhi grandi</string>
      <string name="edit_face_ruddy">Rossastro</string>
      <string name="edit_face_slender">Sottile</string>
+     <string name="edit_lips">Lips</string>
+     <string name="edit_neck">Neck</string>
+     <string name="edit_nose">Nose</string>
+     <string name="edit_risorius">Risorius</string>
      <string name="edit_skin_smooth">Morbido</string>
      <string name="edit_skin_white">Tono</string>
+     <string name="edit_slim_nose">Nose</string>
+     <string name="edit_smile">Smile</string>
      <string name="error_fail_to_start_audio_capture">"Impossibile registrare l'audio: il microfono potrebbe essere in uso da un'altra app."</string>
      <string name="face_age_info">Anni: %d</string>
+     <string name="face_analyze_info">Age: %2$s (%1$s)</string>
      <string name="face_analyze_info_female">Donna</string>
      <string name="face_analyze_info_male">Uomo</string>
      <string name="face_beauty_advanced">Pro</string>
@@ -148,6 +159,7 @@ Il soggetto non deve essere pi? lontano di 2 metri."</string>
      <string name="front_camera_hint_text_place">"Fare un selfie sar? pi? facile se ruoti il telefono"</string>
      <string name="front_camera_hint_text_rotate">Ruota il tuo telefono</string>
      <string name="groupshot_mode_use_hint">La fotocamera scatter? pi? foto per creare uno scatto con il risultato migliore.</string>
+     <string name="hibernate_hint">Tap the screen to wake Camera</string>
      <string name="hine_hht">"Con poca luce ambientale, verranno scattate foto multiple
 per la costruzione di uno scatto con il minimo rumore."</string>
      <string name="hint_ae_af_lock">Messa a fuoco automatica/Esposizione automatica ? stata bloccata</string>
@@ -159,6 +171,10 @@ e creer? una foto in cui tutti appariranno ancora pi? belli."</string>
      <string name="hint_slow_motion">Il video che registri verr? riprodotto pi? lentamente.</string>
      <string name="hunt_dual_water_mark">Il logo dual camera verr? aggiunto automaticamente.</string>
      <string name="install_confirmed">Installa</string>
+     <string name="lens_dirty_detected_content">"Looks like your camera's lens is dirty.
+Clean the lens for better effect."</string>
+     <string name="lens_dirty_detected_title_back">Rear camera lens is dirty</string>
+     <string name="lens_dirty_detected_title_front">Front camera lens is dirty</string>
      <string name="message_snap_double_confirm">La funzionlit? attuale associata alla pressione prolungata del tasto volume ? la modalit? NFC, confermare la sostituzione?</string>
      <string name="module_name_beauty">Bellezza</string>
      <string name="module_name_capture">Foto</string>
@@ -178,6 +194,7 @@ e creer? una foto in cui tutti appariranno ancora pi? belli."</string>
      <string name="pano_how_to_use_prompt_start">Tocca la freccia per cambiare direzione ed inizia a ruotare lentamente.</string>
      <string name="pano_how_to_use_prompt_to_move">Inizia a ruotare lentamente</string>
      <string name="path_settings">Applicazioni di sistema/Fotocamera/Impostazioni</string>
+     <string name="popup_tip_3d_beauty_intro_text">3D Beauty</string>
      <string name="portait_effect_entry_blackwhite">B/N</string>
      <string name="portait_effect_entry_cool">Menta</string>
      <string name="portait_effect_entry_fairytale">Infanzia</string>
@@ -454,13 +471,18 @@ per rendere il tuo corpo ancor pi? chiaro e meraviglioso"</string>
      <string name="pref_skin_beautify_slim_title">Sottile</string>
      <string name="pref_skin_beautify_smooth_title">Liscio</string>
      <string name="pref_video_captrue_ability_title">Cattura immagini durante la registrazione</string>
+     <string name="pref_video_encoder_entry_h264">H.264 High compatibility</string>
+     <string name="pref_video_encoder_entry_h265">H.265 High performance</string>
+     <string name="pref_video_encoder_title">Video encoder</string>
      <string name="pref_video_focusmode_entry_auto">Tocca</string>
      <string name="pref_video_focusmode_entry_continuous">CAF</string>
      <string name="pref_video_focusmode_title">Modalit? di messa a fuoco</string>
      <string name="pref_video_hfr_title">Video HFR</string>
      <string name="pref_video_quality_entry_1080p">Full HD (1080p)</string>
+     <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
      <string name="pref_video_quality_entry_480p">SD (480p)</string>
      <string name="pref_video_quality_entry_4kuhd">4K (2160p)</string>
+     <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
      <string name="pref_video_quality_entry_720p">HD (720p)</string>
      <string name="pref_video_quality_entry_fwvga">Piena Larghezza VGA (480p)</string>
      <string name="pref_video_quality_entry_vga">VGA (480p)</string>

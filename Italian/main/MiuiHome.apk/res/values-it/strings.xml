@@ -229,8 +229,6 @@
      <string name="normal_wallpaper">Sfondo</string>
      <string name="notification_installed">Installato correttamente</string>
      <string name="notification_open_button">Apri</string>
-     <string name="notification_reset_description">%1$s%1$s Può reimpostare il launcher a %2$s</string>
-     <string name="notification_reset_duration">In due ore,</string>
      <string name="notification_reset_title">Auto-pulizia terminata</string>
      <string name="online_wallpaper">Online</string>
      <string name="open_personal_assistant_dialog_btn_cancel">Indietro</string>
@@ -280,6 +278,8 @@
      <string name="recommend_apps_tips">Questo servizio deve collegarsi ad internet per funzionare. Per disattivare questo servizio tocca il nome della cartella.</string>
      <string name="recommend_loading">Caricamento</string>
      <string name="refresh">Ricarica</string>
+     <string name="reset_description_first_time">You can restore the layout from %1$s within 2 hours</string>
+     <string name="reset_description_others">You can restore the layout from %1$s</string>
      <string name="reset_fail">Reimpostazione fallita</string>
      <string name="reset_scene_prompt">La scena verrà ripristinata al layout predefinito</string>
      <string name="reset_title">reimposta</string>

@@ -4,6 +4,8 @@
      <string name="China_Mobile_HD">Cina Mobile (HD)</string>
      <string name="China_Telecom">Cina Telecom</string>
      <string name="China_Unicom">Cina Unicom</string>
+     <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
+     <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
      <string name="abc_action_bar_home_description">Vai alla home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -458,6 +460,7 @@ Frequenza Campione"</string>
      <string name="daltonizer_mode_protanomaly">Protonomalia (rosso-verde)</string>
      <string name="daltonizer_mode_tritanomaly">Tritanomalia (blu-giallo)</string>
      <string name="daltonizer_type_overridden">Sovrascritto da %1$s</string>
+     <string name="data_connection_no_internet">Not connected to the internet</string>
      <string name="data_saver">Risparmio dati</string>
      <string name="data_usage_disabled_dialog">"Hai raggiunto il limite di utilizzo dei dati specificato.
 
@@ -718,7 +721,6 @@ Una volta raffreddato, funzionerà normalmente."</string>
      <string name="incorrect_pukcode">PUK non corretto</string>
      <string name="input_password_after_boot_msg">Inserisci la password per sbloccare il dispositivo</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
-     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Impossibile passare ad altri spazi quando la guardia verde è attiva</string>
      <string name="input_password_after_boot_msg_must_enter_owner_space">Devi inserire lo spazio primario dopo che il dispositivo è stato riavviato</string>
      <string name="input_password_handle_sdcard_fs">Impossibile accedere allo spazio secondario dalla lockscreen. Inserisci dallo spazio Primario.</string>
      <string name="input_password_hint_text">Inserisci password</string>
@@ -891,7 +893,7 @@ Contatta il tuo provider di rete per richiedere un'altra SIM."</string>
      <string name="kg_prompt_reason_user_request">Il dispositivo è stato bloccato manualmente</string>
      <string name="kg_puk_enter_pin_hint">Inserisci il PIN desiderato</string>
      <string name="kg_puk_enter_puk_hint">"SIM disattivata. Inserisci il codice PUK per continuare. Contatta l'operatore per maggiori dettagli."</string>
-     <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" disattivata. Inserisci il codice PUK per continuare. Contatta l\'operatore per maggiori dettagli.</string>
+     <string name="kg_puk_enter_puk_hint_multi">"SIM \"%1$s\" disattivata. Inserisci il codice PUK per continuare. Contatta l\'operatore per maggiori dettagli."</string>
      <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
      <string name="kg_sim_pin_instructions_multi">Inserisci il PIN della SIM per \"%1$s\"</string>
      <string name="kg_sim_unlock_progress_dialog_message">Sblocco SIM…</string>
@@ -1125,15 +1127,18 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="notification_all_categories">Tutte le categorie</string>
      <string name="notification_app_settings">Personalizza: %1$s</string>
      <string name="notification_channel_alerts">Avvisi</string>
+     <string name="notification_channel_battery">Battery</string>
      <string name="notification_channel_controls_closed_accessibility">Controlli notifiche chiusi per %1$s</string>
      <string name="notification_channel_controls_opened_accessibility">Controlli notifiche aperti per %1$s</string>
      <string name="notification_channel_disabled">Non riceverai più queste notifiche.</string>
      <string name="notification_channel_general">Messaggi generali</string>
      <string name="notification_channel_location">Posizione</string>
+     <string name="notification_channel_screenbutton">Buttons</string>
      <string name="notification_channel_screenshot">Screenshot</string>
      <string name="notification_channel_storage">Archiviazione</string>
      <string name="notification_channel_switch_accessibility">Consenti notifiche da questo canale</string>
      <string name="notification_channel_tv_pip">Picture-in-Picture</string>
+     <string name="notification_channel_usb">USB</string>
      <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
      <string name="notification_default_channel_desc">Questa app non ha categorie di notifica</string>
      <string name="notification_done">Fatto</string>
@@ -1161,7 +1166,6 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="notification_menu_remove_from_filter_title">Importante</string>
      <string name="notification_menu_snooze_description">Opzioni silenziamento notifiche</string>
      <string name="notification_more_settings">Altre impostazioni</string>
-     <string name="notification_num_channels">%d categorie di notifica</string>
      <string name="notification_otg_gamestick_in">Gamepad connesso</string>
      <string name="notification_otg_gamestick_out">Gamepad disconnesso</string>
      <string name="notification_otg_keyboard_in">Tastiera connessa</string>
@@ -1326,6 +1330,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="quick_settings_dual_location_label">GPS</string>
      <string name="quick_settings_edit_label">Modifica</string>
      <string name="quick_settings_flashlight_label">Torcia</string>
+     <string name="quick_settings_gps_label">GPS</string>
      <string name="quick_settings_hotspot_label">Hotspot</string>
      <string name="quick_settings_ime_label">Input method</string>
      <string name="quick_settings_inversion_label">Invert colors</string>
@@ -1339,6 +1344,9 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="quick_settings_nfc_off">NFC disattivato</string>
      <string name="quick_settings_nfc_on">NFC attivato</string>
      <string name="quick_settings_night_display_label">Night light</string>
+     <string name="quick_settings_night_secondary_label_on_at">On at %s</string>
+     <string name="quick_settings_night_secondary_label_on_at_sunset">On at sunset</string>
+     <string name="quick_settings_night_secondary_label_until_sunrise">Until sunrise</string>
      <string name="quick_settings_notifications_label">Notifications</string>
      <string name="quick_settings_papermode_label">Lettura</string>
      <string name="quick_settings_powermode_label">Performance mode</string>
@@ -1355,6 +1363,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="quick_settings_screenbutton_label">Tasti</string>
      <string name="quick_settings_screenlock_label">Blocco schermo</string>
      <string name="quick_settings_screenshot_label">Screenshot</string>
+     <string name="quick_settings_secondary_label_until">Until %s</string>
      <string name="quick_settings_settings_label">Impostazioni</string>
      <string name="quick_settings_sync_label">Sincr.</string>
      <string name="quick_settings_tethering_label">Tethering</string>
@@ -1653,6 +1662,7 @@ Your phone may get too hot if you:
      <string name="unlock_camera_steady">Rimani fermo</string>
      <string name="unlock_failed">Errore interno</string>
      <string name="unlock_failed_face_not_found">Rilevamento</string>
+     <string name="unlock_label">Unlock</string>
      <string name="unlock_string">Sblocca</string>
      <string name="unlocking_sim_card">Sblocco SIM</string>
      <string name="unlockscreen_low_battery">Collegare il caricabatteria</string>

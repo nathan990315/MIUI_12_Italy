@@ -119,8 +119,6 @@
      <string name="clean_content_three">3 file</string>
      <string name="clean_content_two">2 file</string>
      <string name="clean_content_zero">Non pulire niente</string>
-     <string name="clean_long_msg">"Rimossi %1$d file, %2$d terminati 
-%3$d%% elementi / secondi rimanenti: %4$s"</string>
      <string name="clear_bigfiles">Elimina file di grosse dimensioni, foto duplicate ed altri file inutili</string>
      <string name="clear_immediately">Ottimizza adesso</string>
      <string name="clear_safe_notify">Barra per le notifiche di sicurezza</string>
@@ -527,6 +525,8 @@
      <string name="wechat_copying_video_dialog_title">Esporta sulla Galleria</string>
      <string name="wechat_copying_video_empty">Nessun video da esportare</string>
      <string name="wechat_copying_video_success">Esportazione riuscita</string>
+     <string name="wechat_msg_time_long">yyyy-MM-dd</string>
+     <string name="wechat_msg_time_short">MM-dd</string>
      <string name="wechat_qq_activity_title">Pulizia approfondita</string>
      <string name="wechat_qq_celan_tab_file">File</string>
      <string name="wechat_qq_celan_tab_image">Immagini</string>
