@@ -802,10 +802,6 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="keyguard_charged">Carico</string>
      <string name="keyguard_charging_info_battery_used_time_text">Su batteria</string>
      <string name="keyguard_charging_info_click_to_detail">Mostra dettagli</string>
-     <string name="keyguard_charging_info_data_c">%s℃</string>
-     <string name="keyguard_charging_info_data_ma">%smA</string>
-     <string name="keyguard_charging_info_data_percent">%s%%</string>
-     <string name="keyguard_charging_info_data_v">%sV</string>
      <string name="keyguard_charging_info_drained_power_percent_text">Esaurita</string>
      <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
      <string name="keyguard_charging_info_last_charge_today_time">Oggi %s</string>
@@ -817,7 +813,6 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="keyguard_charging_info_tip_text4">Non utilizzare il dispositivo mentre è in carica per evitare il surriscaldamento.</string>
      <string name="keyguard_charging_info_tip_text5">Le batterie impiegano più tempo a caricare quando diventano più calde del solito.</string>
      <string name="keyguard_charging_info_tip_text6">Spegni lo schermo e riponi il dispositivo per raffreddarlo.</string>
-     <string name="keyguard_fancy_colon"></string>
      <string name="keyguard_indication_charging_time">In carica (%s al completamento)</string>
      <string name="keyguard_indication_charging_time_fast">Carica rapida (%s al completamento)</string>
      <string name="keyguard_indication_charging_time_slowly">Carica lenta (%s al completamento)</string>
@@ -958,7 +953,6 @@ Riprova tra %2$d secondi."</string>
      <string name="left_keycode">Chiave sinistra</string>
      <string name="left_nav_bar_button_type">Tipo di tasto sinistro extra</string>
      <string name="legacy_vpn_name">VPN</string>
-     <string name="list_delimeter">", "</string>
      <string name="local_backup_password_summary_change">Premi per cambiare o rimuovere le password dei backup desktop completati</string>
      <string name="local_backup_password_summary_none">I backup desktop completati non sono attualmente protetti</string>
      <string name="local_backup_password_title">Password backup desktop</string>
@@ -1043,14 +1037,12 @@ Sei collegato anche a %3$s, che può monitorare la tua attività di rete."</stri
 
 Contatta il tuo amministratore per maggiori informazioni."</string>
      <string name="monitoring_description_ca_cert_settings">Apri le credenziali sicure</string>
-     <string name="monitoring_description_ca_cert_settings_separator">" "</string>
      <string name="monitoring_description_ca_certificate">"Un'autorità di certificazione è installata su questo dispositivo. Il traffico di rete sicuro può essere monitorato o modificato."</string>
      <string name="monitoring_description_do_body">"Il tuo amministratore può monitorare e gestire le impostazioni, accessi aziendali, app, dati associati con il tuo dispositivo e informazioni sulla posizione della tuo dispositivo."</string>
      <string name="monitoring_description_do_body_vpn">"Sei collegato a %1$s, che può monitorare la tua attività di rete, incluse email, app e siti web."</string>
      <string name="monitoring_description_do_header_generic">Il tuo dispositivo è gestito da %1$s.</string>
      <string name="monitoring_description_do_header_with_name">%1$s utilizza %2$s per gestire il tuo dispositivo.</string>
      <string name="monitoring_description_do_learn_more">Scopri di più</string>
-     <string name="monitoring_description_do_learn_more_separator">" "</string>
      <string name="monitoring_description_managed_profile_ca_certificate">La tua organizzazione ha installato un certificato nel tuo profilo di lavoro. Il tuo traffico di rete sicuro potrebbe essere monitorato o modificato.</string>
      <string name="monitoring_description_managed_profile_named_vpn">Il tuo profilo di lavoro è collegato a %1$s, che può monitorare il tuo traffico di rete, incluse email, app e siti web.</string>
      <string name="monitoring_description_management">"Il dispositivo è gestito dalla tua organizzazione.
@@ -1082,7 +1074,6 @@ For more information, contact your admin.
 
 You're also connected to a VPN, which can monitor your network activity."</string>
      <string name="monitoring_description_vpn_settings">Impostazioni VPN aperta</string>
-     <string name="monitoring_description_vpn_settings_separator">" "</string>
      <string name="monitoring_subtitle_ca_certificate">Certificati CA</string>
      <string name="monitoring_subtitle_network_logging">Registrazione della rete</string>
      <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1143,8 +1134,6 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="notification_default_channel_desc">Questa app non ha categorie di notifica</string>
      <string name="notification_done">Fatto</string>
      <string name="notification_group_collapse_button_text">Chiudi</string>
-     <string name="notification_group_divider_symbol">" • "</string>
-     <string name="notification_group_overflow_indicator">+%s</string>
      <string name="notification_header_default_channel">Notifiche</string>
      <string name="notification_header_title">Notifiche</string>
      <string name="notification_hidden_by_policy_text">Contenuto nascosto</string>
@@ -1528,7 +1517,6 @@ be monitored"</string>
      <string name="status_bar_network_flow_limit">"   Limite mensile: %1$s"</string>
      <string name="status_bar_network_flow_purchase">"   Acquista >"</string>
      <string name="status_bar_network_flow_today">Oggi: %1$s</string>
-     <string name="status_bar_network_name_separator">|</string>
      <string name="status_bar_no_notifications_title">No notifications</string>
      <string name="status_bar_no_recent_apps">Nessuna applicazione in esecuzione</string>
      <string name="status_bar_notification_app_settings_title">%s settings</string>
@@ -1725,7 +1713,6 @@ Any user can update apps for all other users."</string>
      <string name="user_remove_user_title">Remove user?</string>
      <string name="v7_preference_off">OFF</string>
      <string name="v7_preference_on">ON</string>
-     <string name="velocity_tracker_impl">platform</string>
      <string name="verify_apps_over_usb_summary">Controlla le app installate tramite ADB/ADT per comportamenti dannosi.</string>
      <string name="verify_apps_over_usb_title">Verifica app da USB</string>
      <string name="voice_assist_label">Open Voice assistant</string>
