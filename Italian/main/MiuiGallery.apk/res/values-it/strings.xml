@@ -206,8 +206,8 @@
      <string name="change_to_face_mode">Ordina per contatto</string>
      <string name="change_to_photo_mode">Ordina per album</string>
      <string name="change_to_visible">Ripristinare questa persona?</string>
-     <string name="checked">Selected</string>
-     <string name="checked_something">Selected %s</string>
+     <string name="checked">Selezionato</string>
+     <string name="checked_something">%s selezionato</string>
      <string name="choose_baby_sexy">Genere</string>
      <string name="choose_owner_relation">Relazione</string>
      <string name="choose_people">Scegli Album volto</string>
@@ -749,7 +749,7 @@
      <string name="enable_face_album_summary">Ordina automaticamente le foto in base alle persone ritratte</string>
      <string name="enable_face_album_title">Ordina per contatti</string>
      <string name="enabling_face_feature">Attivazione…</string>
-     <string name="enter_choice_mode">Entered Share dialog</string>
+     <string name="enter_choice_mode">Sei entrato nella finestra di dialogo Condivisione</string>
      <string name="enter_email_hint">Inserisci indirizzo email</string>
      <string name="error_album_not_exist">Album inesistente.</string>
      <string name="error_build_thumbnail_action">Scarica file originale</string>
@@ -813,7 +813,7 @@
      <string name="error_unknown_msg">Si è verificato un errore. Inviaci la tua segnalazione.</string>
      <string name="error_unknown_tip">Si è verificato un errore.</string>
      <string name="exit">Esci</string>
-     <string name="exit_choice_mode">Left Share dialog</string>
+     <string name="exit_choice_mode">Hai abbandonato la finestra di dialogo Condivisione</string>
      <string name="exit_share">"Esci dall'album"</string>
      <string name="exit_share_failed">"Uscita dall'album %1$s fallita"</string>
      <string name="exit_share_in_process">Uscita da album \"%s\"…</string>
@@ -846,7 +846,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="fancy_color_desc">Colori</string>
      <string name="fast_share_auto_render">Filtro bellezza</string>
      <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
-     <string name="feature_guidance_photo_effects">Photo effects</string>
+     <string name="feature_guidance_photo_effects">Effetti foto</string>
      <string name="filter_bi_memory">Memoria</string>
      <string name="filter_bi_mono">Mono</string>
      <string name="filter_bi_pink">Rosa</string>
@@ -949,8 +949,8 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="image_invalid_path">Percorso non valido</string>
      <string name="image_not_found">"Impossibile trovare l'immagine"</string>
      <string name="image_quota_fulfiled">"Impossibile creare l'immagine, è stato raggiunto il limite di spazio a disposizione."</string>
-     <string name="image_with_time">Photo taken on %s</string>
-     <string name="image_with_time_and_location">Photo taken on %1$s. Location: %2$s.</string>
+     <string name="image_with_time">Foto catturata da %s</string>
+     <string name="image_with_time_and_location">Foto catturata da %1$s. Posizione: %2$s.</string>
      <string name="impunity_declaration_settings">Mostra gli avvisi di rete</string>
      <string name="impunity_declaration_summary">"Mostra gli avvisi di rete ad ogni avvio dell'applicazione"</string>
      <string name="initializing_cloud">Inizializzazione Mi Cloud…</string>
@@ -1434,7 +1434,7 @@ per personalizzare la Galleria"</string>
      <string name="sticker_words">Parole</string>
      <string name="storage_description_primary">Archivio interno</string>
      <string name="storage_description_sdcard">Scheda SD</string>
-     <string name="storage_description_usb">USB storage</string>
+     <string name="storage_description_usb">Memoria USB</string>
      <string name="storage_description_xspace">Dati app clonate</string>
      <string name="storage_no_space">Spazio insufficiente</string>
      <string name="sub_discard_confirm_message">Salvare le modifiche?</string>
@@ -1500,8 +1500,8 @@ per personalizzare la Galleria"</string>
      <string name="turn_off_and_move">Disattiva e sposta</string>
      <string name="turn_on_and_remove">Attiva e rimuovi</string>
      <string name="turn_on_sync">Attiva sincronizzazione</string>
-     <string name="unchecked">Deselected</string>
-     <string name="unchecked_something">Deselected %s</string>
+     <string name="unchecked">Deselezionato</string>
+     <string name="unchecked_something">%s deselezionato</string>
      <string name="unpublish_failed">Impossibile annullare la pubblicazione</string>
      <string name="unpublish_succeeded">Album rimosso</string>
      <string name="unpublishing">Annullo la pubblicazione, attendere…</string>
@@ -1608,8 +1608,8 @@ per personalizzare la Galleria"</string>
      <string name="video_editor_watermark">Filigrana</string>
      <string name="video_err">Impossibile riprodurre il video.</string>
      <string name="video_not_exist">Video inesistente</string>
-     <string name="video_with_time">Video taken on %s</string>
-     <string name="video_with_time_and_location">Video taken on %1$s. Location: %2$s.</string>
+     <string name="video_with_time">Video catturato da %s</string>
+     <string name="video_with_time_and_location">Video catturato da %1$s. Posizione: %2$s.</string>
      <string name="view_by_gallery_tip">Galleria</string>
      <string name="view_face_album">Mostra album</string>
      <string name="view_more_face_desc">Visualizza piú persone</string>
