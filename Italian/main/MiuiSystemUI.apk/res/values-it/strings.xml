@@ -460,7 +460,7 @@ Frequenza Campione"</string>
      <string name="daltonizer_mode_protanomaly">Protonomalia (rosso-verde)</string>
      <string name="daltonizer_mode_tritanomaly">Tritanomalia (blu-giallo)</string>
      <string name="daltonizer_type_overridden">Sovrascritto da %1$s</string>
-     <string name="data_connection_no_internet">Not connected to the internet</string>
+     <string name="data_connection_no_internet">Non connesso ad Internet</string>
      <string name="data_saver">Risparmio dati</string>
      <string name="data_usage_disabled_dialog">"Hai raggiunto il limite di utilizzo dei dati specificato.
 
@@ -482,7 +482,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="debug_hw_overdraw">Debug overdraw GPU</string>
      <string name="debug_hw_renderer">Imposta Rendering GPU</string>
      <string name="debug_input_category">Input</string>
-     <string name="debug_layout">Mostra misura layout</string>
+     <string name="debug_layout">Mostra misura disposizione</string>
      <string name="debug_layout_summary">Mostra misura taglio, margini, etc.</string>
      <string name="debug_monitoring_category">Monitoraggio</string>
      <string name="debug_networking_category">Rete</string>
@@ -652,8 +652,8 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="force_msaa_summary">Abilita 4x MSAA su app OpenGL ES 2.0</string>
      <string name="force_resizable_activities">Forza attività di ridimensionamento</string>
      <string name="force_resizable_activities_summary">Rendi tutte le attività multi finestra ridimensionabili, indipendentemente dai loro valori di manifest.</string>
-     <string name="force_rtl_layout_all_locales">Forza direzione layout RTL</string>
-     <string name="force_rtl_layout_all_locales_summary">Forza direzione layout ad RTL per tutte le località</string>
+     <string name="force_rtl_layout_all_locales">Forza direzione disposizione RTL</string>
+     <string name="force_rtl_layout_all_locales_summary">Forza direzione disposizione ad RTL per tutte le località</string>
      <string name="forced_resizable_secondary_display">Le app porrebbero non funzionare sullo schermo secondario.</string>
      <string name="forget_password_string">Password dimenticata</string>
      <string name="fs_gesture_back_home_summary">Scorri sul fondo rapidamente</string>
@@ -990,7 +990,7 @@ Riprova tra %2$d secondi."</string>
      <string name="long_screenshot_top_msg">Screenshot lungo in esecuzione…</string>
      <string name="long_screenshot_top_msg_manual">Ritaglia lo screenshot e tocca il tasto per terminare</string>
      <string name="low_temperature_button_ok">Ho capito</string>
-     <string name="low_temperature_warning_message">TLA temperatura è troppo bassa,il telefono potrebbe spegnersi in qualsiasi momento, salva i dati.</string>
+     <string name="low_temperature_warning_message">La temperatura è troppo bassa, il telefono potrebbe spegnersi in qualsiasi momento, salva i dati.</string>
      <string name="low_temperature_warning_title">Avviso spegnimento</string>
      <string name="managed_profile_foreground_toast">Stai utilizzando il tuo profilo di lavoro</string>
      <string name="managed_user_title">Tutte le app attive</string>
@@ -1047,44 +1047,44 @@ Contatta il tuo amministratore per maggiori informazioni."</string>
      <string name="monitoring_description_managed_profile_named_vpn">Il tuo profilo di lavoro è collegato a %1$s, che può monitorare il tuo traffico di rete, incluse email, app e siti web.</string>
      <string name="monitoring_description_management">"Il dispositivo è gestito dalla tua organizzazione.
 
-Your admin can monitor and manage settings, corporate access, apps, data associated with your device, and your device's location information.
+L'amministratore può monitorare e gestire le impostazioni, l'accesso aziendale, le app, i dati associati al dispositivo e le informazioni sulla posizione del dispositivo.
 
-For more information, contact your admin."</string>
-     <string name="monitoring_description_management_ca_certificate">Your organization installed a certificate authority on this device. Your secure network traffic may be monitored or modified.</string>
-     <string name="monitoring_description_management_network_logging">Your admin has turned on network logging, which monitors traffic on your device.</string>
-     <string name="monitoring_description_named_management">"Your device is managed by %1$s.
+Per ulteriori informazioni, contatta l'amministratore."</string>
+     <string name="monitoring_description_management_ca_certificate">La tua organizzazione ha installato un'autorità di certificazione su questo dispositivo. Il tuo traffico di rete sicuro potrebbe essere monitorato o modificato.</string>
+     <string name="monitoring_description_management_network_logging">"L'amministratore ha attivato la registrazione di rete, che monitora il traffico sul tuo dispositivo."</string>
+     <string name="monitoring_description_named_management">"Il tuo dispositivo è gestito da %1$s.
+     
+L'amministratore può monitorare e gestire le impostazioni, l'accesso aziendale, le app, i dati associati al dispositivo e le informazioni sulla posizione del dispositivo.
 
-Your admin can monitor and manage settings, corporate access, apps, data associated with your device, and your device's location information.
+Per ulteriori informazioni, contatta l'amministratore."</string>
+     <string name="monitoring_description_named_vpn">Sei connesso a %1$s, che può monitorare la tua attività di rete, inclusi email, app e siti web.</string>
+     <string name="monitoring_description_network_logging">"L'amministratore ha attivato la registrazione di rete, che monitora il traffico sul tuo dispositivo.
+     
+Per ulteriori informazioni, contatta l'amministratore."</string>
+     <string name="monitoring_description_personal_profile_named_vpn">Il tuo profilo personale è connesso a %1$s, che può monitorare la tua attività di rete, inclusi e-mail, app e siti web.</string>
+     <string name="monitoring_description_two_named_vpns">Sei connesso a %1$s e %2$s, che può monitorare la tua attività di rete, inclusi e-mail, app e siti web</string>
+     <string name="monitoring_description_vpn">"Hai concesso ad un'app l'autorizzazione per configurare una connessione VPN.
+     
+Quest'app può monitorare il tuo dispositivo e le attività di rete, inclusi e-mail, app e siti web."</string>
+     <string name="monitoring_description_vpn_profile_owned">"Il tuo profilo di lavoro è gestito da %1$s.
+     
+Il tuo amministratore è in grado di monitorare la tua attività di rete, inclusi e-mail, app e siti web.
 
-For more information, contact your admin."</string>
-     <string name="monitoring_description_named_vpn">"You're connected to %1$s, which can monitor your network activity, including emails, apps, and websites."</string>
-     <string name="monitoring_description_network_logging">"Your admin has turned on network logging, which monitors traffic on your device.
+Per ulteriori informazioni, contatta l'amministratore.
 
-For more information, contact your admin."</string>
-     <string name="monitoring_description_personal_profile_named_vpn">Your personal profile is connected to %1$s, which can monitor your network activity, including emails, apps, and websites.</string>
-     <string name="monitoring_description_two_named_vpns">"You're connected to %1$s and %2$s, which can monitor your network activity, including emails, apps, and websites."</string>
-     <string name="monitoring_description_vpn">"You gave an app permission to set up a VPN connection.
-
-This app can monitor your device and network activity, including emails, apps, and websites."</string>
-     <string name="monitoring_description_vpn_profile_owned">"Your work profile is managed by %1$s.
-
-Your admin is capable of monitoring your network activity including emails, apps, and websites.
-
-For more information, contact your admin.
-
-You're also connected to a VPN, which can monitor your network activity."</string>
+Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</string>
      <string name="monitoring_description_vpn_settings">Impostazioni VPN aperta</string>
      <string name="monitoring_subtitle_ca_certificate">Certificati CA</string>
      <string name="monitoring_subtitle_network_logging">Registrazione della rete</string>
      <string name="monitoring_subtitle_vpn">VPN</string>
      <string name="monitoring_title">Monitoraggio della rete</string>
      <string name="monitoring_title_device_owned">Gestione del dispositivo</string>
-     <string name="monitoring_title_profile_owned">Profile monitoring</string>
+     <string name="monitoring_title_profile_owned">Monitoraggio profilo</string>
      <string name="mount_storage">Sì</string>
-     <string name="mr_button_content_description">Cast button</string>
-     <string name="mr_cast_button_connected">Cast button. Connected</string>
-     <string name="mr_cast_button_connecting">Cast button. Connecting</string>
-     <string name="mr_cast_button_disconnected">Cast button. Disconnected</string>
+     <string name="mr_button_content_description">Pulsante di trasmissione</string>
+     <string name="mr_cast_button_connected">Pulsante di trasmissione. Connesso</string>
+     <string name="mr_cast_button_connecting">Pulsante di trasmissione. Connessione</string>
+     <string name="mr_cast_button_disconnected">Pulsante di trasmissione. Disconnesso</string>
      <string name="mr_chooser_searching">Ricerca dispositivi</string>
      <string name="mr_chooser_title">Trasmetti a</string>
      <string name="mr_controller_album_art">Album art</string>
@@ -1094,7 +1094,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="mr_controller_disconnect">Disconnetti</string>
      <string name="mr_controller_expand_group">Espandi</string>
      <string name="mr_controller_no_info_available">Nessuna informazione disponibile</string>
-     <string name="mr_controller_no_media_selected">Nessunmedia selezionato</string>
+     <string name="mr_controller_no_media_selected">Nessun media selezionato</string>
      <string name="mr_controller_pause">Pausa</string>
      <string name="mr_controller_play">Riproduzione</string>
      <string name="mr_controller_stop">Stop</string>
@@ -1103,8 +1103,8 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="mr_system_route_name">Sistema</string>
      <string name="mr_user_route_category_name">Dispositivi</string>
      <string name="nav_bar">Barra di navigazione</string>
-     <string name="nav_bar_default">(default)</string>
-     <string name="nav_bar_layout">Layout</string>
+     <string name="nav_bar_default">(predefinito)</string>
+     <string name="nav_bar_layout">Disposizione</string>
      <string name="nav_guide_cancel">Ignora</string>
      <string name="nav_guide_message">Puoi utilizzare le gesture per nascondere/mostrare i tasti virtuali dopo le impostazioni.</string>
      <string name="nav_guide_ok">Impostazioni</string>
@@ -1118,13 +1118,13 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="notification_all_categories">Tutte le categorie</string>
      <string name="notification_app_settings">Personalizza: %1$s</string>
      <string name="notification_channel_alerts">Avvisi</string>
-     <string name="notification_channel_battery">Battery</string>
+     <string name="notification_channel_battery">Batteria</string>
      <string name="notification_channel_controls_closed_accessibility">Controlli notifiche chiusi per %1$s</string>
      <string name="notification_channel_controls_opened_accessibility">Controlli notifiche aperti per %1$s</string>
      <string name="notification_channel_disabled">Non riceverai più queste notifiche.</string>
      <string name="notification_channel_general">Messaggi generali</string>
      <string name="notification_channel_location">Posizione</string>
-     <string name="notification_channel_screenbutton">Buttons</string>
+     <string name="notification_channel_screenbutton">Pulsanti</string>
      <string name="notification_channel_screenshot">Screenshot</string>
      <string name="notification_channel_storage">Archiviazione</string>
      <string name="notification_channel_switch_accessibility">Consenti notifiche da questo canale</string>
@@ -1171,7 +1171,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="notification_otg_trackball_out">Trackball disconnessa</string>
      <string name="notification_otg_unknow_in">Dispositivo OTG connesso</string>
      <string name="notification_otg_unknow_out">Dispositivo OTG disconnesso</string>
-     <string name="notification_tap_again">Tap again to open</string>
+     <string name="notification_tap_again">Tocca nuovamente ed apri</string>
      <string name="notification_template_text">" ha una notifica. Tocca per leggere."</string>
      <string name="oem_preferred_feedback_reporter" />
      <string name="oem_unlock_enable">Sblocco OEM</string>
@@ -1182,7 +1182,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="open_remote_center_hint_text">Scorri a destra per avviare Mi Remote</string>
      <string name="orb_search_action">Ricerca</string>
      <string name="other">Altro</string>
-     <string name="overlay_display_devices_title">Simula display secondari</string>
+     <string name="overlay_display_devices_title">Simula schermi secondari</string>
      <string name="overview">Panoramica</string>
      <string name="phone_hint">"Scorri dall'icona peril Telefono"</string>
      <string name="phone_label">Apri Telefono</string>
@@ -1219,51 +1219,45 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="power_charging_duration">%1$s - %2$s fino al completamento</string>
      <string name="power_discharging_duration">%1$s - appross. %2$s rimanenti</string>
      <string name="power_discharging_duration_short">%1$s - %2$s rimanenti</string>
-     <string name="power_notification_controls_description">"With power notification controls, you can set an importance level from 0 to 5 for an app's notifications. 
-
-"<b>Level 5</b>" 
-- Show at the top of the notification list 
-- Allow full screen interruption 
-- Always peek 
-
-"<b>Level 4</b>" 
-- Prevent full screen interruption 
-- Always peek 
-
-"<b>Level 3</b>" 
-- Prevent full screen interruption 
-- Never peek 
-
-"<b>Level 2</b>" 
-- Prevent full screen interruption 
-- Never peek 
-- Never make sound and vibration 
-
-"<b>Level 1</b>" 
-- Prevent full screen interruption 
-- Never peek 
-- Never make sound or vibrate 
-- Hide from lock screen and status bar 
-- Show at the bottom of the notification list 
-
-"<b>Level 0</b>" 
-- Block all notifications from the app"</string>
+     <string name="power_notification_controls_description">"Con i controlli energia nell'area notifiche, puoi impostare un livello di importanza da 0 a 5 per le notifiche di un'app.
+"<b>Livello 5</b>"
+- Mostra in cima all'elenco delle notifiche
+- Consenti interruzione a schermo intero
+- Sempre visualizzabile
+"<b>Livello 4</b>"
+- Previene un'interruzione a schermo intero
+- Sempre visualizzabile
+"<b>Livello 3</b>"
+- Previene un'interruzione a schermo intero
+- Mai visualizzabile
+"<b>Livello 2</b>"
+- Previene un'interruzione a schermo intero
+- Mai visualizzabile
+- Non emette suoni e vibrazioni
+"<b>Livello 1</b>"
+- Previene un'interruzione a schermo intero
+- Mai visualizzabile
+- Non emette suoni o vibrazioni
+- Disattivabile dalla schermata di blocco e dalla barra di stato
+- Mostrata in fondo all'elenco delle notifiche
+"<b>Livello 0</b>"
+- Blocca tutte le notifiche dall'app"</string>
      <string name="power_remaining_charging_duration_only">%1$s rimanenti fino alla carica completa</string>
      <string name="power_remaining_duration_only">Appross. %1$s rimanenti</string>
      <string name="power_remaining_duration_only_short">%1$s rimanenti</string>
-     <string name="profile_owned_footer">Profile may be monitored</string>
-     <string name="prompt_danger">Danger</string>
-     <string name="prompt_detecting">Detecting</string>
-     <string name="prompt_safe">Safe</string>
-     <string name="prompt_unknown">Unknown</string>
-     <string name="qs_customize">Allow long-press customize in Quick Settings</string>
+     <string name="profile_owned_footer">Il profilo potrebbe essere monitorato</string>
+     <string name="prompt_danger">Pericoloso</string>
+     <string name="prompt_detecting">Rilevamento</string>
+     <string name="prompt_safe">Sicuro</string>
+     <string name="prompt_unknown">Sconosciuto</string>
+     <string name="qs_customize">Consenti personalizzazione a pressione prolungata sulle Impostazioni Rapide</string>
      <string name="qs_customize_info">Info</string>
      <string name="qs_customize_remove">Rimuovi</string>
      <string name="qs_customize_title">Modifica</string>
-     <string name="qs_dnd_keep">Keep</string>
-     <string name="qs_dnd_prompt_app">DND was turned on by an app (%s).</string>
-     <string name="qs_dnd_prompt_auto_rule">DND was turned on by an automatic rule (%s).</string>
-     <string name="qs_dnd_prompt_auto_rule_app">DND was turned on by an automatic rule or app.</string>
+     <string name="qs_dnd_keep">Mantieni</string>
+     <string name="qs_dnd_prompt_app">"DND è stata attivata dall'app (%s)."</string>
+     <string name="qs_dnd_prompt_auto_rule">"DND è stata attivata da una regola automatica (%s)."</string>
+     <string name="qs_dnd_prompt_auto_rule_app">"DND è stata attivata da una regola autonatica o da un'app."</string>
      <string name="qs_dnd_replace">Sostituisci</string>
      <string name="qs_dnd_until">Fino a %s</string>
      <string name="qs_edit">Modifica</string>
@@ -1277,23 +1271,23 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d dispositivi)</string>
      <string name="quick_settings_bluetooth_off_label">Bluetooth disattivato</string>
      <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
-     <string name="quick_settings_brightness_dialog_title">Brightness</string>
-     <string name="quick_settings_brightness_label">Brightness</string>
-     <string name="quick_settings_cast_detail_empty_text">No devices available</string>
-     <string name="quick_settings_cast_device_default_description">Ready to cast</string>
-     <string name="quick_settings_cast_device_default_name">Unnamed device</string>
-     <string name="quick_settings_cast_title">Cast</string>
-     <string name="quick_settings_casting">Casting</string>
-     <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
-     <string name="quick_settings_cellular_detail_data_usage">Data usage</string>
-     <string name="quick_settings_cellular_detail_data_used">%s used</string>
-     <string name="quick_settings_cellular_detail_data_warning">%s warning</string>
-     <string name="quick_settings_cellular_detail_over_limit">Over limit</string>
-     <string name="quick_settings_cellular_detail_remaining_data">Remaining data</string>
+     <string name="quick_settings_brightness_dialog_title">Luminosità</string>
+     <string name="quick_settings_brightness_label">Luminosità</string>
+     <string name="quick_settings_cast_detail_empty_text">Nessun dispositivo disponibile</string>
+     <string name="quick_settings_cast_device_default_description">Pronto per trasmissione</string>
+     <string name="quick_settings_cast_device_default_name">Dispositivo senza nome</string>
+     <string name="quick_settings_cast_title">Trasmissione</string>
+     <string name="quick_settings_casting">Trasmetti</string>
+     <string name="quick_settings_cellular_detail_data_limit">%s limite</string>
+     <string name="quick_settings_cellular_detail_data_usage">Utilizzo dati</string>
+     <string name="quick_settings_cellular_detail_data_used">%s utilizzati</string>
+     <string name="quick_settings_cellular_detail_data_warning">%s attenzione</string>
+     <string name="quick_settings_cellular_detail_over_limit">Oltre i limiti</string>
+     <string name="quick_settings_cellular_detail_remaining_data">Dati rimasti</string>
      <string name="quick_settings_cellular_detail_title">Dati</string>
-     <string name="quick_settings_color_space_label">Color correction mode</string>
+     <string name="quick_settings_color_space_label">Modalità correzione colore</string>
      <string name="quick_settings_connect_success">Connesso</string>
-     <string name="quick_settings_connected">Connected</string>
+     <string name="quick_settings_connected">Connesso</string>
      <string name="quick_settings_connecting">Connessione in corso</string>
      <string name="quick_settings_disclosure_managed_profile_monitoring">La tua organizzazione può monitorare il traffico di rete nel tuo profilo di lavoro</string>
      <string name="quick_settings_disclosure_managed_profile_named_vpn">Profilo di lavoro connesso a %1$s</string>
@@ -1309,11 +1303,11 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="quick_settings_disclosure_named_management_vpns">Il dispositivo è gestito da %1$s e connesso a VPNs</string>
      <string name="quick_settings_disclosure_named_vpn">Dispositivo connesso a %1$s</string>
      <string name="quick_settings_disclosure_personal_profile_named_vpn">Profilo personale collegato a %1$s</string>
-     <string name="quick_settings_disclosure_vpns">Dispositivo connesso a VPNs</string>
-     <string name="quick_settings_dnd_alarms_label">Alarms only</string>
-     <string name="quick_settings_dnd_label">Do not disturb</string>
-     <string name="quick_settings_dnd_none_label">Total silence</string>
-     <string name="quick_settings_dnd_priority_label">Priority only</string>
+     <string name="quick_settings_disclosure_vpns">Dispositivo connesso a VPN</string>
+     <string name="quick_settings_dnd_alarms_label">Solo sveglia</string>
+     <string name="quick_settings_dnd_label">Non disturbare</string>
+     <string name="quick_settings_dnd_none_label">Silenzio totale</string>
+     <string name="quick_settings_dnd_priority_label">Solo priorità</string>
      <string name="quick_settings_done">Fatto</string>
      <string name="quick_settings_drivemode_label">Automobile</string>
      <string name="quick_settings_dual_location_label">GPS</string>
@@ -1321,42 +1315,42 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="quick_settings_flashlight_label">Torcia</string>
      <string name="quick_settings_gps_label">GPS</string>
      <string name="quick_settings_hotspot_label">Hotspot</string>
-     <string name="quick_settings_ime_label">Input method</string>
-     <string name="quick_settings_inversion_label">Invert colors</string>
+     <string name="quick_settings_ime_label">Metodi di input</string>
+     <string name="quick_settings_inversion_label">Inverti colori</string>
      <string name="quick_settings_location_label">Posizione</string>
-     <string name="quick_settings_location_off_label">Location is off</string>
-     <string name="quick_settings_media_device_label">Media device</string>
+     <string name="quick_settings_location_off_label">Posizione disattivata</string>
+     <string name="quick_settings_media_device_label">Dispositivo multimediale</string>
      <string name="quick_settings_midrop_label">Mi Drop</string>
      <string name="quick_settings_more_settings">Altre impostazioni</string>
      <string name="quick_settings_mute_label">Silenzioso</string>
      <string name="quick_settings_nfc_label">NFC</string>
      <string name="quick_settings_nfc_off">NFC disattivato</string>
      <string name="quick_settings_nfc_on">NFC attivato</string>
-     <string name="quick_settings_night_display_label">Night light</string>
-     <string name="quick_settings_night_secondary_label_on_at">On at %s</string>
-     <string name="quick_settings_night_secondary_label_on_at_sunset">On at sunset</string>
-     <string name="quick_settings_night_secondary_label_until_sunrise">Until sunrise</string>
-     <string name="quick_settings_notifications_label">Notifications</string>
+     <string name="quick_settings_night_display_label">Luce notturna</string>
+     <string name="quick_settings_night_secondary_label_on_at">Attivo a %s</string>
+     <string name="quick_settings_night_secondary_label_on_at_sunset">Attivo al tramonto</string>
+     <string name="quick_settings_night_secondary_label_until_sunrise">Fino al tramonto</string>
+     <string name="quick_settings_notifications_label">Notifiche</string>
      <string name="quick_settings_papermode_label">Lettura</string>
-     <string name="quick_settings_powermode_label">Performance mode</string>
+     <string name="quick_settings_powermode_label">Modalità prestazioni</string>
      <string name="quick_settings_quietmode_label">DND</string>
-     <string name="quick_settings_reset_confirmation_button">Hide</string>
-     <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in the Settings.</string>
-     <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
+     <string name="quick_settings_reset_confirmation_button">Nascondi</string>
+     <string name="quick_settings_reset_confirmation_message">Riapparirà la prossima volta che verrà attivato dalle Impostazioni.</string>
+     <string name="quick_settings_reset_confirmation_title">Nascondere %1$s?</string>
      <string name="quick_settings_rotation_locked_label">Rotazione bloccata</string>
-     <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
-     <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
+     <string name="quick_settings_rotation_locked_landscape_label">Orizzontale</string>
+     <string name="quick_settings_rotation_locked_portrait_label">Verticale</string>
      <string name="quick_settings_rotation_unlocked_label">Rotazione</string>
      <string name="quick_settings_rssi_emergency_only">Solo chiamate di emergenza</string>
      <string name="quick_settings_rssi_label">RSSI</string>
      <string name="quick_settings_screenbutton_label">Tasti</string>
      <string name="quick_settings_screenlock_label">Blocco schermo</string>
      <string name="quick_settings_screenshot_label">Screenshot</string>
-     <string name="quick_settings_secondary_label_until">Until %s</string>
+     <string name="quick_settings_secondary_label_until">Fino a %s</string>
      <string name="quick_settings_settings_label">Impostazioni</string>
      <string name="quick_settings_sync_label">Sincr.</string>
      <string name="quick_settings_tethering_label">Tethering</string>
-     <string name="quick_settings_time_label">Time</string>
+     <string name="quick_settings_time_label">Tempo</string>
      <string name="quick_settings_user_label">Me</string>
      <string name="quick_settings_user_new_user">Nuovo utente</string>
      <string name="quick_settings_user_title">Utente</string>
@@ -1364,12 +1358,12 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="quick_settings_wifi_detail_empty_text">Nessuna rete Wi-Fi disponibile</string>
      <string name="quick_settings_wifi_label">Wi-Fi</string>
      <string name="quick_settings_wifi_nearby">Seleziona una rete vicina</string>
-     <string name="quick_settings_wifi_no_network">No network</string>
-     <string name="quick_settings_wifi_not_connected">Not connected</string>
-     <string name="quick_settings_wifi_off_label">WLAN is off</string>
-     <string name="quick_settings_wifi_on_label">WLAN is on</string>
-     <string name="quick_settings_work_mode_label">Work mode</string>
-     <string name="recent_cannot_dock">"can't enter MultiWindow Mode in Second Space"</string>
+     <string name="quick_settings_wifi_no_network">Nessuna rete</string>
+     <string name="quick_settings_wifi_not_connected">Non connesso</string>
+     <string name="quick_settings_wifi_off_label">Wi-Fi disattivato</string>
+     <string name="quick_settings_wifi_on_label">WLAN attivato</string>
+     <string name="quick_settings_work_mode_label">Modalità lavoro</string>
+     <string name="recent_cannot_dock">"impossibile entrare in modalità multi-schermo nello spazio Secondario"</string>
      <string name="recent_dock_tip">"Clicca per scegliere l'applicazione"</string>
      <string name="recent_menu_item_info">Info</string>
      <string name="recent_menu_item_lock">Blocca</string>
@@ -1379,11 +1373,11 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="recent_task_cleaning">Cancellazione app…</string>
      <string name="recent_task_lock_text">Blocca</string>
      <string name="recent_task_unlock_text">Sblocca</string>
-     <string name="recents_accessibility_split_screen_left">Split screen to the left</string>
-     <string name="recents_accessibility_split_screen_right">Split screen to the right</string>
-     <string name="recents_accessibility_split_screen_top">Split screen to the top</string>
+     <string name="recents_accessibility_split_screen_left">Schermo diviso verso sinistra</string>
+     <string name="recents_accessibility_split_screen_right">Schermo diviso verso destra</string>
+     <string name="recents_accessibility_split_screen_top">"Schermo diviso verso l'alto"</string>
      <string name="recents_app_info_button_label">Info applicazione</string>
-     <string name="recents_caption_resize">Seleziona layout per nuovi compiti</string>
+     <string name="recents_caption_resize">Seleziona disposizione per nuovi compiti</string>
      <string name="recents_drag_hint_message">Sposta qui per utilizzare lo schermo diviso</string>
      <string name="recents_empty_message">Nessun elemento recente</string>
      <string name="recents_empty_message_dismissed_all">Hai ripulito tutto</string>
@@ -1397,23 +1391,23 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="recents_multistack_add_stack_dialog_split_custom">Divisione personalizzata</string>
      <string name="recents_multistack_add_stack_dialog_split_horizontal">Divisione orizzontale</string>
      <string name="recents_multistack_add_stack_dialog_split_vertical">Divisione verticale</string>
-     <string name="recents_search_bar_label">cercq</string>
+     <string name="recents_search_bar_label">cerca</string>
      <string name="recents_stack_action_button_label">Cancella tutto</string>
      <string name="reject_call">Rifiuta la chiamata</string>
      <string name="remaining_length_format">%1$s rimanenti</string>
-     <string name="remove_from_settings">Remove from Settings</string>
-     <string name="remove_from_settings_prompt">Remove System UI Tuner from Settings and stop using all of its features?</string>
-     <string name="report_rejected_touch">Report rejected touch</string>
+     <string name="remove_from_settings">Rimuovi dalle Impostazioni</string>
+     <string name="remove_from_settings_prompt">"Rimuovere messa a punto UI di Sistema dalle Impostazioni e interrompere l'utilizzo di tutte le sue funzionalità?"</string>
+     <string name="report_rejected_touch">Segnala tocco rifiutato</string>
      <string name="reset">Ripristina</string>
      <string name="retail_demo_reset_message">Inserisci la password per eseguire un ripristino di fabbrica in modalità demo</string>
      <string name="retail_demo_reset_next">Avanti</string>
      <string name="retail_demo_reset_title">Password richiesta</string>
      <string name="return_to_incall_screen">Premi per tornare alla chiamata</string>
-     <string name="right_icon">Right icon</string>
-     <string name="right_keycode">Right keycode</string>
-     <string name="right_nav_bar_button_type">Extra right button type</string>
-     <string name="running_foreground_services_msg">Tap for details on battery and data usage</string>
-     <string name="running_foreground_services_title">Apps running in background</string>
+     <string name="right_icon">Icona destra</string>
+     <string name="right_keycode">Codice pulsante destro</string>
+     <string name="right_nav_bar_button_type">Tipologia di pulsante destro extra</string>
+     <string name="running_foreground_services_msg">"Tocca per i dettagli sull'utilizzo della batteria e dei dati"</string>
+     <string name="running_foreground_services_title">App in esecuzione in background</string>
      <string name="running_process_item_user_label">Utente: %1$s</string>
      <string name="runningservices_settings_summary">Visualizza e controlla i servizi attualmente in esecuzione</string>
      <string name="runningservices_settings_title">Servizi in esecuzione</string>
@@ -1439,13 +1433,13 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="screenshot_dlg_cancel">Annulla</string>
      <string name="screenshot_dlg_delete_button">Elimina</string>
      <string name="screenshot_edit">Modifica</string>
-     <string name="screenshot_failed_title">"Couldn't capture screenshot."</string>
-     <string name="screenshot_failed_to_capture_text">"Taking screenshots isn't allowed by the app or your organization"</string>
-     <string name="screenshot_failed_to_save_text">"Can't save screenshot due to limited storage space."</string>
-     <string name="screenshot_failed_to_save_unknown_text">An error occurred while saving screenshot.</string>
+     <string name="screenshot_failed_title">Impossibile catturare schermata.</string>
+     <string name="screenshot_failed_to_capture_text">"Gli screenshot non sono consentiti dall'app o dalla tua organizzazione"</string>
+     <string name="screenshot_failed_to_save_text">Impossibile salvare schermata a causa di limitato spazio di archiviazione.</string>
+     <string name="screenshot_failed_to_save_unknown_text">Si è verificato un errore durante il salvataggio della schermata.</string>
      <string name="screenshot_feedback_txt">Segnalazione bug</string>
      <string name="screenshot_insert_failed">"Caricamento schermata fallito, prego prova di nuovo o visualizza le immagini nell'album"</string>
-     <string name="screenshot_long_screenshot">Screenshot lungo</string>
+     <string name="screenshot_long_screenshot">Schermata estesa</string>
      <string name="screenshot_saved_text">Premi per visualizzare la tua schermata.</string>
      <string name="screenshot_saved_title">Schermata acquisita</string>
      <string name="screenshot_saving_text">Schermata in fase di salvataggio</string>
@@ -1453,7 +1447,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="screenshot_saving_title">Salvataggio schermata…</string>
      <string name="screenshot_send">Invia</string>
      <string name="search_hint">Cerca siti web, app, contatti, video...</string>
-     <string name="search_menu_title">Search</string>
+     <string name="search_menu_title">Cerca</string>
      <string name="select_application">Seleziona applicazioni</string>
      <string name="select_logd_level">Seleziona il livello del registro</string>
      <string name="select_logd_size_dialog_title">Seleziona dimensione logger per log buffer</string>
@@ -1472,9 +1466,9 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="share">Condividi</string>
      <string name="show_all_anrs">Mostra tutti gli ANR</string>
      <string name="show_all_anrs_summary">Mostra finestra di dialogo per app in background che non rispondono</string>
-     <string name="show_battery_percentage">Show embedded battery percentage</string>
-     <string name="show_battery_percentage_summary">Show battery level percentage inside the status bar icon when not charging</string>
-     <string name="show_brightness">Show brightness in Quick settings</string>
+     <string name="show_battery_percentage">Mostra percentuale della batteria incorporata</string>
+     <string name="show_battery_percentage_summary">"Mostra la percentuale del livello della batteria all'interno dell'icona della barra di stato durante la carica"</string>
+     <string name="show_brightness">Mostra luminosità nelle Impostazioni veloci</string>
      <string name="show_demo_mode">Mostra modalità demo</string>
      <string name="show_hw_layers_updates">Mostra aggiornamenti layer hardware</string>
      <string name="show_hw_layers_updates_summary">Fai lampeggiare di verde i layer hardware quando essi si aggiornano</string>
@@ -1485,106 +1479,107 @@ You're also connected to a VPN, which can monitor your network activity."</strin
      <string name="show_notification_channel_warnings_summary">"Mostra avvisi a schermo quando un'app lascia una notifica senza un canale valido"</string>
      <string name="show_screen_updates">Mostra aggiornamenti superficie</string>
      <string name="show_screen_updates_summary">"Fai lampeggiare l'intera superficie della finestra quando essa si aggiorna"</string>
-     <string name="show_silently">Show notifications silently</string>
+     <string name="show_silently">Mostra notifiche silenziose</string>
      <string name="show_touches">Mostra pressioni</string>
      <string name="show_touches_summary">Mostra feedback visuali per pressioni</string>
      <string name="simulate_color_space">Simula lo spazio del colore</string>
-     <string name="snooze_option_15_min">15 minutes</string>
-     <string name="snooze_option_1_hour">1 hour</string>
-     <string name="snooze_option_2_hour">2 hours</string>
-     <string name="snooze_option_30_min">30 minutes</string>
-     <string name="snooze_undo">UNDO</string>
-     <string name="snoozed_for_time">Snoozed for %1$s</string>
-     <string name="speed_bump_explanation">Less urgent notifications below</string>
-     <string name="ssl_ca_cert_warning">"Network may
-be monitored"</string>
-     <string name="start_dreams">Screen saver</string>
+     <string name="snooze_option_15_min">15 minuti</string>
+     <string name="snooze_option_1_hour">1 ora</string>
+     <string name="snooze_option_2_hour">2 ore</string>
+     <string name="snooze_option_30_min">30 minuti</string>
+     <string name="snooze_undo">ANNULLA</string>
+     <string name="snoozed_for_time">Silenziato per %1$s</string>
+     <string name="speed_bump_explanation">Notifiche meno urgenti in basso</string>
+     <string name="ssl_ca_cert_warning">"La rete potrebbe
+essere monitorata"</string>
+     <string name="start_dreams">Salva schermo</string>
      <string name="stat_sys_data_connected_1x_half">1X</string>
-     <string name="status_bar">Status bar</string>
+     <string name="status_bar">Barra di stato</string>
      <string name="status_bar_accessibility_dismiss_recents">Chiudi app recenti</string>
-     <string name="status_bar_airplane">Airplane mode</string>
-     <string name="status_bar_alarm">Alarm</string>
-     <string name="status_bar_clear_all_button">Clear</string>
+     <string name="status_bar_airplane">Modalità aereo</string>
+     <string name="status_bar_alarm">Sveglia</string>
+     <string name="status_bar_clear_all_button">Pulisci</string>
      <string name="status_bar_clock_date_format">EEEE, dd MMMM</string>
      <string name="status_bar_clock_date_format_12">EEEE, MMMM d</string>
      <string name="status_bar_date_format">EEEE, dd MMMM</string>
      <string name="status_bar_date_format_12">EEEE, dd MMMM</string>
-     <string name="status_bar_ethernet">Ethernet</string>
-     <string name="status_bar_input_method_settings_configure_input_methods">Set up input methods</string>
-     <string name="status_bar_latest_events_title">Notifications</string>
+     <string name="status_bar_ethernet">LAN</string>
+     <string name="status_bar_input_method_settings_configure_input_methods">Imposta metodi di input</string>
+     <string name="status_bar_latest_events_title">Notifiche</string>
      <string name="status_bar_network_flow_content">"Oggi: %1$s   Rimanente: %2$s"</string>
      <string name="status_bar_network_flow_exceed_content">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Superamento soglia: &lt;font color=%2$s>%3$s&lt;/font></string>
      <string name="status_bar_network_flow_limit">"   Limite mensile: %1$s"</string>
      <string name="status_bar_network_flow_purchase">"   Acquista >"</string>
      <string name="status_bar_network_flow_today">Oggi: %1$s</string>
-     <string name="status_bar_no_notifications_title">No notifications</string>
+     <string name="status_bar_no_notifications_title">Nessuna notifica</string>
      <string name="status_bar_no_recent_apps">Nessuna applicazione in esecuzione</string>
-     <string name="status_bar_notification_app_settings_title">%s settings</string>
+     <string name="status_bar_notification_app_settings_title">%s impostazioni</string>
      <string name="status_bar_notification_info_overflow">999+</string>
      <string name="status_bar_notification_inspect_item_title">Informazioni app</string>
-     <string name="status_bar_ongoing_events_title">Ongoing</string>
+     <string name="status_bar_ongoing_events_title">In corso</string>
      <string name="status_bar_recent_guide_all">"Scorri in alto per chiudere, 
 scorri in basso per bloccare"</string>
      <string name="status_bar_recent_guide_bottom">Scorri in basso per bloccare</string>
      <string name="status_bar_recent_guide_top">Scorri in alto per chiudere</string>
-     <string name="status_bar_recent_inspect_item_title">App info</string>
+     <string name="status_bar_recent_inspect_item_title">Info app</string>
      <string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
      <string name="status_bar_recent_memory_info2" />
      <string name="status_bar_recent_remove_item_title">Rimuovi dalla lista</string>
      <string name="status_bar_recording_back">Premi per tornare al Registratore</string>
      <string name="status_bar_recording_pause">La registrazione è in pausa.</string>
-     <string name="status_bar_safepay_risk">Payment risks found</string>
-     <string name="status_bar_safepay_safe">No payment risks found</string>
-     <string name="status_bar_safepay_scanning">Checking payment environment…</string>
-     <string name="status_bar_safepay_unknown">"Couldn't check payment environment"</string>
+     <string name="status_bar_safepay_risk">Rischio pagamenti trovato</string>
+     <string name="status_bar_safepay_safe">Nessun rischio pagamenti trovato</string>
+     <string name="status_bar_safepay_scanning">Verifica ambiente pagamenti…</string>
+     <string name="status_bar_safepay_unknown">Impossibile verificare ambiente pagamenti</string>
      <string name="status_bar_settings_airplane">Modalità aereo</string>
      <string name="status_bar_settings_auto_brightness_label">AUTO</string>
-     <string name="status_bar_settings_auto_rotation">Auto-rotate screen</string>
-     <string name="status_bar_settings_mute_label">MUTE</string>
-     <string name="status_bar_settings_notifications">Notifications</string>
-     <string name="status_bar_settings_settings_button">Settings</string>
+     <string name="status_bar_settings_auto_rotation">Auto-rotazione schermo</string>
+     <string name="status_bar_settings_mute_label">SILENZIA</string>
+     <string name="status_bar_settings_notifications">Notifiche</string>
+     <string name="status_bar_settings_settings_button">Impostazioni</string>
      <string name="status_bar_settings_signal_meter_disconnected">Nessuna connessione</string>
      <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connesso</string>
      <string name="status_bar_settings_wifi_button">WLAN</string>
      <string name="status_bar_style_settings">Impostazioni</string>
-     <string name="status_bar_use_physical_keyboard">Physical keyboard</string>
+     <string name="status_bar_use_physical_keyboard">Tastiera fisica</string>
      <string name="status_bar_volte_label">HD</string>
-     <string name="status_bar_work">Work profile</string>
-     <string name="stream_accessibility">Accessibility</string>
-     <string name="stream_alarm">Alarm</string>
+     <string name="status_bar_work">Profilo di lavoro</string>
+     <string name="stream_accessibility">Accessibilità</string>
+     <string name="stream_alarm">Sveglia</string>
      <string name="stream_bluetooth_sco">Bluetooth</string>
-     <string name="stream_dtmf">Dual multitone frequency</string>
+     <string name="stream_dtmf">Doppia frequenza multitono</string>
      <string name="stream_music">Media</string>
-     <string name="stream_notification">Notification</string>
-     <string name="stream_ring">Ring</string>
-     <string name="stream_system">System</string>
-     <string name="stream_system_enforced">System enforced</string>
-     <string name="stream_tts">Transmitted Through Speaker</string>
-     <string name="stream_voice_call">Call</string>
+     <string name="stream_notification">Notifiche</string>
+     <string name="stream_ring">Anello</string>
+     <string name="stream_system">Sistema</string>
+     <string name="stream_system_enforced">Sistema applicato</string>
+     <string name="stream_tts">"Trasmesso Attraverso l'Altoparlante"</string>
+     <string name="stream_voice_call">Chiamata</string>
      <string name="strict_mode">Abilita modalità rigorosa</string>
      <string name="strict_mode_summary">"Fai lampeggiare lo schermo quando un'applicazione esegue un'operazione lunga sul thread principale"</string>
-     <string name="switch_bar_off">Off</string>
-     <string name="switch_bar_on">On</string>
+     <string name="switch_bar_off">Disattiva</string>
+     <string name="switch_bar_on">Attiva</string>
      <string name="symbol_colon">:</string>
-     <string name="system_ui_tuner">System UI Tuner</string>
+     <string name="system_ui_tuner">Messa a punto UI di Sistema</string>
      <string name="task_access_locked_app_msg">"Il contenuto dell'applicazione è nascosto."</string>
-     <string name="telephony_monitor_switch">Telephony Monitor</string>
-     <string name="telephony_monitor_switch_summary">"Telephony Monitor raccoglierà log quando rileva un problema con le funzionalità telefono/modem e chiede all'utente di inviare un report sul bug."</string>
+     <string name="telephony_monitor_switch">Monitoraggio Telefonico</string>
+     <string name="telephony_monitor_switch_summary">"Monitoraggio Telefonico raccoglierà log quando rileva un problema con le funzionalità telefono/modem e chiede all'utente di inviare un report sul bug."</string>
      <string name="tether_settings_title_all">Tethering e hotspot</string>
      <string name="tether_settings_title_bluetooth">Tethering bluetooth</string>
      <string name="tether_settings_title_usb">Tethering USB</string>
      <string name="tether_settings_title_usb_bluetooth">Tethering</string>
      <string name="tether_settings_title_wifi">Hotspot</string>
      <string name="tethering_settings_not_available">Le opzioni di tethering non sono disponibili per questo utente</string>
-     <string name="theme">Theme</string>
-     <string name="thermal_shutdown_dialog_message">"Your phone was too hot, so it turned off to cool down. Your phone is now running normally.
+     <string name="theme">Tema</string>
+     <string name="thermal_shutdown_dialog_message">"Il tuo telefono era troppo caldo, quindi si è spento per raffreddarsi. Il tuo telefono ora funziona normalmente.
+     
+Il tuo telefono potrebbe diventare troppo caldo se:
 
-Your phone may get too hot if you:
-\u0009• Use resource-intensive apps (such as gaming, video, or navigation apps)
-\u0009• Download or upload large files
-\u0009• Use your phone in high temperatures"</string>
-     <string name="thermal_shutdown_message">Your phone is now running normally</string>
-     <string name="thermal_shutdown_title">Phone turned off due to heat</string>
+\u0009 • Utilizzi app ad alto consumo di risorse (come giochi, video o app di navigazione)
+\u0009 • Scarichi o carichi file di grandi dimensioni
+\u0009 • Usi il telefono a temperature già elevate"</string>
+     <string name="thermal_shutdown_message">Il tuo telefono ora funziona normalmente</string>
+     <string name="thermal_shutdown_title">Il telefono si è spento per surriscaldamento</string>
      <string name="time_zone_gmt">GMT</string>
      <string name="title_convert_fbe">Converti a file basato su crittografia</string>
      <string name="title_usb_accessory">Accessorio USB</string>
@@ -1623,26 +1618,26 @@ Your phone may get too hot if you:
      <string name="tts_status_requires_network">%1$s richiede una connessione di rete</string>
      <string name="tts_status_title">Stato lingua predefinita</string>
      <string name="tuner_app">%1$s app</string>
-     <string name="tuner_circle">Circle</string>
-     <string name="tuner_doze">Ambient Display</string>
-     <string name="tuner_doze_always_on">Always on</string>
-     <string name="tuner_full_importance_settings">Power notification controls</string>
-     <string name="tuner_full_importance_settings_off">Off</string>
-     <string name="tuner_full_importance_settings_on">On</string>
-     <string name="tuner_full_zen_title">Show with volume controls</string>
-     <string name="tuner_launch_app">Launch %1$s</string>
-     <string name="tuner_left">Left</string>
-     <string name="tuner_lock_screen">Lock screen</string>
+     <string name="tuner_circle">Cerchio</string>
+     <string name="tuner_doze">Schermo Ambient</string>
+     <string name="tuner_doze_always_on">Sempre attivo</string>
+     <string name="tuner_full_importance_settings">Controlli notifica gestione energia</string>
+     <string name="tuner_full_importance_settings_off">Disattiva</string>
+     <string name="tuner_full_importance_settings_on">Attiva</string>
+     <string name="tuner_full_zen_title">Mostra con i controlli volume</string>
+     <string name="tuner_launch_app">Esegui %1$s</string>
+     <string name="tuner_left">Sinistra</string>
+     <string name="tuner_lock_screen">Blocco schermo</string>
      <string name="tuner_menu">Menu</string>
-     <string name="tuner_minus">Minus</string>
-     <string name="tuner_other_apps">Other apps</string>
-     <string name="tuner_persistent_warning">These experimental features may change, break, or disappear in future releases. Proceed with caution.</string>
-     <string name="tuner_plus">Plus</string>
-     <string name="tuner_right">Right</string>
-     <string name="tuner_time">Time</string>
-     <string name="tuner_toast">Congrats! System UI Tuner has been added to Settings</string>
-     <string name="tuner_warning">System UI Tuner gives you extra ways to tweak and customize the Android user interface. These experimental features may change, break, or disappear in future releases. Proceed with caution.</string>
-     <string name="tuner_warning_title">Fun for some but not for all</string>
+     <string name="tuner_minus">Minore</string>
+     <string name="tuner_other_apps">Altre app</string>
+     <string name="tuner_persistent_warning">Queste funzionalità sperimentali possono cambiare, danneggiarsi o scomparire nelle versioni future. Procedi con cautela.</string>
+     <string name="tuner_plus">Maggiore</string>
+     <string name="tuner_right">Destra</string>
+     <string name="tuner_time">Tempo</string>
+     <string name="tuner_toast">"Congratulazioni! La messa a punto dell'UI di Sistema è stata aggiunta alle Impostazioni"</string>
+     <string name="tuner_warning">"La messa a punto dell'UI di Sistema offre ulteriori modifiche e personalizzazioni per l'interfaccia utente di Android. Queste funzionalità sperimentali possono cambiare, danneggiarsi o scomparire nelle versioni future. Procedi con cautela."</string>
+     <string name="tuner_warning_title">Divertente per molti ma non per tutti</string>
      <string name="un_important_notifications">Notifiche non importanti</string>
      <string name="unimportant_desc">Tutte le notifiche non importanti appariranno in una cartella separata.</string>
      <string name="unimportant_title">Non importante</string>
@@ -1650,7 +1645,7 @@ Your phone may get too hot if you:
      <string name="unlock_camera_steady">Rimani fermo</string>
      <string name="unlock_failed">Errore interno</string>
      <string name="unlock_failed_face_not_found">Rilevamento</string>
-     <string name="unlock_label">Unlock</string>
+     <string name="unlock_label">Sblocca</string>
      <string name="unlock_string">Sblocca</string>
      <string name="unlocking_sim_card">Sblocco SIM</string>
      <string name="unlockscreen_low_battery">Collegare il caricabatteria</string>
@@ -1664,8 +1659,8 @@ Your phone may get too hot if you:
      <string name="usb_debugging_always">Consenti sempre per questo computer</string>
      <string name="usb_debugging_message">"La chiave RSA del computer è:
 %1$s"</string>
-     <string name="usb_debugging_secondary_user_message">"The user currently signed in to this device can't turn on USB debugging. To use this feature, switch to an Admin user."</string>
-     <string name="usb_debugging_secondary_user_title">USB debugging not allowed</string>
+     <string name="usb_debugging_secondary_user_message">"L'utente che ha eseguito l'accesso a questo dispositivo non può attivare il debug USB. Per utilizzare questa funzionalità, sarà necessario passare ad un utente amministratore."</string>
+     <string name="usb_debugging_secondary_user_title">Debug USB non consentito</string>
      <string name="usb_debugging_title">Consentire debug USB?</string>
      <string name="usb_device_confirm_prompt">Aprire %1$s quando questo dispositivo USB è collegato?</string>
      <string name="usb_device_permission_prompt">"Consentire all'applicazione %1$s di accedere al dispositivo USB?"</string>
@@ -1680,7 +1675,7 @@ Your phone may get too hot if you:
      <string name="usb_notification_mtp_ticker_text">Archivio USB connesso (File)</string>
      <string name="usb_notification_ptp_info">Accedi alle foto tramite la connessione con il computer</string>
      <string name="usb_notification_ptp_ticker_text">Archivio USB connesso (Foto)</string>
-     <string name="usb_preference_title">USB file transfer options</string>
+     <string name="usb_preference_title">Opzioni di trasferimento file USB</string>
      <string name="usb_ptp_text">Foto</string>
      <string name="usb_share_net_info">Utilizza la connessione internet del computer</string>
      <string name="usb_storage_error_message">"Riscontrato un problema nell'utilizzo dell'archivio USB"</string>
@@ -1692,49 +1687,49 @@ Your phone may get too hot if you:
      <string name="usb_storage_stop_notification_title">Disattiva archivio USB</string>
      <string name="usb_storage_stop_title">Archivio USB in uso</string>
      <string name="usb_storage_title">USB connesso</string>
-     <string name="use_mtp_button_title">Mount as a media player (MTP)</string>
-     <string name="use_ptp_button_title">Mount as a camera (PTP)</string>
+     <string name="use_mtp_button_title">Collega come riproduttore multimediale (MTP)</string>
+     <string name="use_ptp_button_title">Collega come camera (PTP)</string>
      <string name="use_system_language_to_select_input_method_subtypes">Usa lingue di sistema</string>
-     <string name="user_add_user">Add user</string>
-     <string name="user_add_user_message_short">"When you add a new user, that person needs to set up their space.
-
-Any user can update apps for all other users."</string>
-     <string name="user_add_user_title">Add new user?</string>
+     <string name="user_add_user">Aggiungi utente</string>
+     <string name="user_add_user_message_short">"Quando aggiungi un nuovo utente, quella persona dovrà impostare il proprio spazio.
+     
+Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
+     <string name="user_add_user_title">Aggiungere nuovo utente?</string>
      <string name="user_guest">Ospite</string>
      <string name="user_guide_for_notification">Hai ricevuto una nuova notifica, trascina in basso la barra di stato per vedere i dettagli</string>
      <string name="user_guide_for_toggle">La lista dei comandi può essere spostata lateralmente</string>
      <string name="user_guide_for_toggle_list">Premi qui per personalizzare la lista comandi</string>
-     <string name="user_logout_notification_action">LOGOUT USER</string>
-     <string name="user_logout_notification_text">Logout current user</string>
-     <string name="user_logout_notification_title">Logout user</string>
-     <string name="user_new_user_name">New user</string>
-     <string name="user_remove_user_message">All apps and data of this user will be deleted.</string>
-     <string name="user_remove_user_remove">Remove</string>
-     <string name="user_remove_user_title">Remove user?</string>
-     <string name="v7_preference_off">OFF</string>
-     <string name="v7_preference_on">ON</string>
+     <string name="user_logout_notification_action">DISCONNETTI UTENTE</string>
+     <string name="user_logout_notification_text">Disconnetti utente corrente</string>
+     <string name="user_logout_notification_title">Disconnetti utente</string>
+     <string name="user_new_user_name">Nuovo utente</string>
+     <string name="user_remove_user_message">Tutte le app ed i dati di questo utente saranno eliminati.</string>
+     <string name="user_remove_user_remove">Rimuovi</string>
+     <string name="user_remove_user_title">Rimuovere utente?</string>
+     <string name="v7_preference_off">DISATTIVA</string>
+     <string name="v7_preference_on">ATTIVA</string>
      <string name="verify_apps_over_usb_summary">Controlla le app installate tramite ADB/ADT per comportamenti dannosi.</string>
      <string name="verify_apps_over_usb_title">Verifica app da USB</string>
-     <string name="voice_assist_label">Open Voice assistant</string>
-     <string name="voice_hint">Swipe from icon for Voice assistant</string>
-     <string name="volume_and_do_not_disturb">Do not disturb</string>
-     <string name="volume_dialog_accessibility_dismissed_message">Volume controls hidden</string>
-     <string name="volume_dialog_accessibility_shown_message">%s volume controls shown. Swipe up to dismiss.</string>
-     <string name="volume_dnd_silent">Volume buttons shortcut</string>
-     <string name="volume_stream_content_description_mute">%1$s. Tap to mute. Accessibility services may be muted.</string>
-     <string name="volume_stream_content_description_mute_a11y">%1$s. Tap to mute.</string>
-     <string name="volume_stream_content_description_unmute">%1$s. Tap to unmute.</string>
-     <string name="volume_stream_content_description_vibrate">%1$s. Tap to set to vibrate. Accessibility services may be muted.</string>
-     <string name="volume_stream_content_description_vibrate_a11y">%1$s. Tap to set to vibrate.</string>
-     <string name="volume_stream_limited_dnd">%s — Priority only</string>
-     <string name="volume_stream_muted">%s silent</string>
-     <string name="volume_stream_muted_dnd">%s silent — Total silence</string>
-     <string name="volume_stream_suppressed">%1$s silent — %2$s</string>
-     <string name="volume_stream_vibrate">%s vibrate</string>
-     <string name="volume_stream_vibrate_dnd">%s vibrate — Priority only</string>
-     <string name="volume_up_silent">Exit DND on volume up</string>
-     <string name="volume_zen_end_now">Turn off now</string>
-     <string name="vpn_footer">Network may be monitored</string>
+     <string name="voice_assist_label">Esegui Voce Assistente</string>
+     <string name="voice_hint">"Scorri dall'icona per l'assistente vocale"</string>
+     <string name="volume_and_do_not_disturb">Non disturbare</string>
+     <string name="volume_dialog_accessibility_dismissed_message">Controlli volume nascosti</string>
+     <string name="volume_dialog_accessibility_shown_message">"%s controlli volume visibili. Scorri verso l'alto per chiudere."</string>
+     <string name="volume_dnd_silent">Collegamento pulsanti controllo volume</string>
+     <string name="volume_stream_content_description_mute">%1$s. Tocca per silenziare. Anche i servizi di accessibilità potrebbero essere silenziati.</string>
+     <string name="volume_stream_content_description_mute_a11y">%1$s. Tocca per silenziare.</string>
+     <string name="volume_stream_content_description_unmute">%1$s. Tocca per riattivare.</string>
+     <string name="volume_stream_content_description_vibrate">%1$s. Tocca per impostare vibrazione. Anche i servizi di accessibilità potrebbero essere silenziati.</string>
+     <string name="volume_stream_content_description_vibrate_a11y">%1$s. Tocca per impostare vibrazione.</string>
+     <string name="volume_stream_limited_dnd">%s — Solo priorità</string>
+     <string name="volume_stream_muted">%s silenzioso</string>
+     <string name="volume_stream_muted_dnd">%s silenzioso — Silenzio totale</string>
+     <string name="volume_stream_suppressed">%1$s silenzioso — %2$s</string>
+     <string name="volume_stream_vibrate">%s vibrazione</string>
+     <string name="volume_stream_vibrate_dnd">%s vibrazione — Solo priorità</string>
+     <string name="volume_up_silent">Uscità modalità DND con aumento volume</string>
+     <string name="volume_zen_end_now">Disattiva ora</string>
+     <string name="vpn_footer">La rete potrebbe essere monitorata</string>
      <string name="vpn_settings_not_available">Le opzioni VPN non sono disponibili per questo utente</string>
      <string name="vpn_text">Tocca per vedere le impostazioni.</string>
      <string name="vpn_text_long">Connesso a %s. Tocca per vedere i dettagli.</string>
@@ -1757,9 +1752,9 @@ Any user can update apps for all other users."</string>
      <string name="wifi_display_certification">Certificazione schermo wireless</string>
      <string name="wifi_display_certification_summary">Mostra opzioni per certificazione schermo wireless</string>
      <string name="wifi_fail_to_scan">"Impossibile scansionare le reti</string>
-     <string name="wifi_is_off">WLAN is off</string>
+     <string name="wifi_is_off">Wi-Fi disattivato</string>
      <string name="wifi_no_internet">Nessun accesso ad Internet, non si riconnetterà automaticamente.</string>
-     <string name="wifi_no_internet_no_reconnect">NOn si collegherà automaticamente</string>
+     <string name="wifi_no_internet_no_reconnect">Non si collegherà automaticamente</string>
      <string name="wifi_not_in_range">Fuori portata</string>
      <string name="wifi_remembered">Salvata</string>
      <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
@@ -1782,12 +1777,12 @@ Any user can update apps for all other users."</string>
      <string name="wifi_verbose_logging_summary">Incrementa il livello di logging del Wi‑Fi logging, e mostra SSID RSSI nel raccoglitore Wi‑Fi</string>
      <string name="window_animation_scale_title">Scala animazioni finestra</string>
      <string name="wrong_password">Password non corretta</string>
-     <string name="zen_alarm_warning">"You won't hear your next alarm %1$s"</string>
-     <string name="zen_alarm_warning_indef">"You won't hear your next alarm %1$s unless you turn this off before then"</string>
-     <string name="zen_alarms_introduction">"You won’t be disturbed by sounds and vibrations, except from alarms. "</string>
+     <string name="zen_alarm_warning">Non sentirai la tua prossima sveglia %1$s</string>
+     <string name="zen_alarm_warning_indef">Non sentirai la tua prossima sveglia %1$s a meno che non venga disattivata prima di allora</string>
+     <string name="zen_alarms_introduction">Non sarai disturbato da suoni e vibrazioni, eccetto dalle sveglie.</string>
      <string name="zen_mode_and_condition">%1$s. %2$s</string>
-     <string name="zen_priority_customize_button">Customize</string>
-     <string name="zen_priority_introduction">"You won’t be disturbed by sounds and vibrations, except from alarms, reminders, events, and callers you specify. "</string>
-     <string name="zen_silence_introduction">This blocks ALL sounds and vibrations, including from alarms, music, videos, and games.</string>
-     <string name="zen_silence_introduction_voice">This blocks ALL sounds and vibrations, including from alarms, music, videos, and games. You’ll still be able to make phone calls.</string>
+     <string name="zen_priority_customize_button">Personalizza</string>
+     <string name="zen_priority_introduction">Non sarai disturbato da suoni e vibrazioni, ad eccezione di allarmi, promemoria, eventi e chiamate specifiche.</string>
+     <string name="zen_silence_introduction">Questo bloccherà TUTTI i suoni e le vibrazioni, inclusi gli allarmi, la musica, i video e i giochi.</string>
+     <string name="zen_silence_introduction_voice">Questo bloccherà TUTTI i suoni e le vibrazioni, inclusi gli allarmi, la musica, i video e i giochi. Sarai tuttavia in grado di effettuare chiamate telefoniche.</string>
 </resources>
