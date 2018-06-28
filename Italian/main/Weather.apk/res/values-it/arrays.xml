@@ -33,7 +33,6 @@
         <item>Delhi</item>
         <item>Mumbai</item>
         <item>Mosca</item>
-        <item>Hyderabad</item>
         <item>Chennai</item>
         <item>Istanbul</item>
         <item>Rio de Janeiro</item>
@@ -48,19 +47,6 @@
         <item>Bangkok</item>
         <item>Seoul</item>
         <item>Kuala Lumpur</item>
-     </string-array>
-     <string-array name="indices_car_wash">
-        <item>Indicato</item>
-        <item>Non indicato</item>
-     </string-array>
-     <string-array name="indices_sport">
-        <item>Indicato</item>
-        <item>Non indicato</item>
-     </string-array>
-     <string-array name="indices_uv_level">
-        <item>Debole</item>
-        <item>Medio</item>
-        <item>Forte</item>
      </string-array>
      <string-array name="minute_rain_array">
         <item>Forte</item>
@@ -138,12 +124,5 @@
         <item>%1$sm/s</item>
         <item>%1$smph</item>
         <item>%1$skn</item>
-     </string-array>
-     <string-array name="wind_unit_simple">
-        <item>Scala Beaufort</item>
-        <item>km/h</item>
-        <item>m/s</item>
-        <item>mph</item>
-        <item>kn</item>
      </string-array>
 </resources>

@@ -302,14 +302,14 @@
      <string name="low_memory_warning_dialog_ok_button">Avvia la pulizia</string>
      <string name="low_memory_warning_dialog_title">Spazio insufficiente in memoria</string>
      <string name="main_title_filesize">%1$s spazzatura</string>
-     <string name="mainbtn_text_no_trash">Skip</string>
+     <string name="mainbtn_text_no_trash">Salta</string>
      <string name="mainbtn_text_quick_cleanup">Pulisci %s</string>
      <string name="mainbtn_text_quick_cleanup_default">Pulisci</string>
      <string name="megabyteShort">MB</string>
      <string name="memeory_check_content">%1$d app, memoria %2$s</string>
      <string name="menu_add_to_white_list">Aggiungi alle eccezioni</string>
      <string name="menu_clear">Cancella</string>
-     <string name="menu_install">Installa con questa app</string>
+     <string name="menu_install">"Installa con quest'app"</string>
      <string name="menu_open">Apri</string>
      <string name="menu_view">Mostra nella cartella</string>
      <string name="month_day_format">dd MMM</string>
@@ -525,6 +525,8 @@
      <string name="wechat_copying_video_dialog_title">Esporta sulla Galleria</string>
      <string name="wechat_copying_video_empty">Nessun video da esportare</string>
      <string name="wechat_copying_video_success">Esportazione riuscita</string>
+     <string name="wechat_msg_time_long">yyyy-MM-dd</string>
+     <string name="wechat_msg_time_short">MM-dd</string>
      <string name="wechat_qq_activity_title">Pulizia approfondita</string>
      <string name="wechat_qq_celan_tab_file">File</string>
      <string name="wechat_qq_celan_tab_image">Immagini</string>

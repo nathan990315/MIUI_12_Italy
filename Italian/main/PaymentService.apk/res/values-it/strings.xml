@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="abc_action_bar_home_description">Vai in home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -19,7 +19,7 @@
      <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Chiudi</string>
-     <string name="mibi_all_license_message">Stai per usare Mi Credit, un servizio fornito da Xiaomi Inc. Prima che tu possa utilizzare questo servizio, devi accettare i Termini del Servizio presenti in %1$s. Tocca OK se accetti i Termini e Condizioni su %1$s e %1$s. Devi collegarti ad internet e localizzare il tuo dispositivo per utilizzare Mi Credit."</string>
+     <string name="mibi_all_license_message">Stai per utilizzare del Mi Credit, un servizio fornito da Xiaomi Inc. Prima che tu possa utilizzare questo servizio, dovrai concordare con i Termini di Servizio. Tocca OK se hai concordato con i termini e le condizioni descritte in %1$s e %2$s. Dovrai connetterti ad Internet, localizzare il tuo dispositivo ed utilizzare i Mi Credit."</string>
      <string name="mibi_app_name">Mi Credit</string>
      <string name="mibi_applock_config">Impossibile impostare App lock quando è in uso lo Split Screen.</string>
      <string name="mibi_applock_dialog_cancel">Non adesso</string>
@@ -35,7 +35,7 @@
      <string name="mibi_bill_record_empty">Nessun elemento.</string>
      <string name="mibi_btn_agree">OK</string>
      <string name="mibi_btn_back">Indietro</string>
-      <string name="mibi_btn_count_down_auto">Chiedi di nuovo tra %1$d secondi</string>
+     <string name="mibi_btn_count_down_auto">Chiedi di nuovo tra %1$d secondi</string>
      <string name="mibi_btn_finish">Fine</string>
      <string name="mibi_btn_mili_center_recharge">Ricarica Mi Credit</string>
      <string name="mibi_btn_net_connection_retry">Riprova</string>
@@ -110,9 +110,11 @@ Controlla la tua data locale e riprova."</string>
      <string name="mibi_error_illegal_order_summary">Errore ordine. Riprova più tardi</string>
      <string name="mibi_error_invalid_device">Dispositivo non valido.</string>
      <string name="mibi_error_mili_summary">Saldo insufficiente.</string>
+     <string name="mibi_error_mipay_no_installed">Mi Wallet non è installato sul tuo dispositivo.</string>
      <string name="mibi_error_network_summary">Impossibile collegarsi alla rete.</string>
      <string name="mibi_error_no_available_channels">Spiacenti, nessun canale disponibile in questo momento.</string>
      <string name="mibi_error_pay_result_uncertain">Pagamento non sicuro.</string>
+     <string name="mibi_error_privacy_summary">"Hai revocato l'autorizzazione."</string>
      <string name="mibi_error_recharge_process_fail">Operazione di ricarica fallito.</string>
      <string name="mibi_error_recharge_result_fail">Ricarica fallita.</string>
      <string name="mibi_error_recharge_result_uncertain">Ricarica non sicura.</string>
@@ -148,6 +150,7 @@ Controlla la tua data locale e riprova."</string>
      <string name="mibi_giftcard_has_unavailable">Scaduto</string>
      <string name="mibi_giftcard_has_used">Rinnovato</string>
      <string name="mibi_giftcard_hint">I crediti Mi aggiunti tramite carta regalo verranno spesi automaticamente per primi.</string>
+     <string name="mibi_giftcard_in_available">Disponibile</string>
      <string name="mibi_giftcard_payment">Certificati regalo</string>
      <string name="mibi_giftcard_payment_with_append">Applica certificati regalo</string>
      <string name="mibi_giftcard_push_notification_prime_title">Hai ricevuto un certificato regalo</string>
@@ -253,6 +256,8 @@ Controlla la tua data locale e riprova."</string>
      <string name="mibi_prepaid_picker_title_default">Seleziona ammontare</string>
      <string name="mibi_prepaid_picker_title_selected">Ammontare</string>
      <string name="mibi_privacy_license_name">Privacy Policy</string>
+     <string name="mibi_privacy_tip_message">"Non puoi utilizzare i Mi Credits dopo aver revocato l'autorizzazione."</string>
+     <string name="mibi_privacy_tip_title">Concedi prima le autorizzazioni</string>
      <string name="mibi_process_expired">Dove stai andando? Questa operazione è scaduta</string>
      <string name="mibi_progress_creating">Ottenimento info ordine…</string>
      <string name="mibi_progress_deduct_creating">Attivazione protocollo pagamento automatico %1$s…</string>

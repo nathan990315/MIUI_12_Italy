@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="attachment_chooser">
         <item>Fotocamera</item>
@@ -6,7 +6,7 @@
      </string-array>
      <string-array name="contact_entries">
         <item>Nome</item>
-        <item>Nickname</item>
+        <item>Soprannome</item>
         <item>Telefono</item>
         <item>E-mail</item>
         <item>Società</item>
@@ -16,6 +16,16 @@
         <item>Sito Web</item>
         <item>Indirizzo</item>
         <item>Note</item>
+     </string-array>
+     <string-array name="first_guide_contents">
+        <item>Benvenuto in Note!</item>
+        <item>Scrivi note</item>
+        <item>Puoi utilizzare testo, immagini e registrazioni vocali nelle tue note. Una ricca libreria di stili e caratteri renderà sbalorditivi i tuoi basilari scarabocchi.</item>
+        <item>Liste di controllo e promemoria ti verranno in aiuto quando avrai bisogno di strumenti di base ed efficaci per pianificare il tuo prossimo viaggio o mettere insieme una lista della spesa.</item>
+        <item>Condividi note</item>
+        <item>Potrai generare automaticamente schermate estese sulle tue note e condividerle con i tuoi amici.</item>
+        <item>Crea e passa fra le cartelle</item>
+        <item>"Premi la freccia in basso per creare una nuova cartella o passare da una esistente ad un'altra."</item>
      </string-array>
      <string-array name="folder_operations">
         <item>Rinomina</item>
@@ -31,40 +41,8 @@
         <item>Ordina per data di creazione</item>
         <item>Ordina per data di modifica</item>
      </string-array>
-     <string-array name="welcome_notes_content">
-        <item>"Benvenuto in Note
-"</item>
-        <item>"Crea una nota
-Tocca il tasto \"+\" per creare una nota."</item>
-        <item>"Scegli il modello
-Usa i modelli per modificare sfondo e stile delle tue note.
-Tocca il pulsante in basso a destra per scegliere un modello."</item>
-        <item>"Crea cartelle
-Organizza le tue note in cartelle.
-Esistono 2 modi per creare una cartella:
-1. Tocca l'icona della cartella in alto a destra, poi tocca il tasto \"+\".
-2. Tieni premuto sulla nota finché non appare un pop-up e scegli \"Sposta in\" - \"Nuova cartella\"."</item>
-        <item>"Nascondi note
-Proteggi le note private con una password.
-Esistono 2 modi per nascondere una nota:
-1. Tocca il tasto \"+\" in alto a destra della nota e seleziona \"Nascondi\".
-2. Tieni premuto sulla nota finché non appare un pop-up e scegli \"Nascondi\"."</item>
-        <item>"Ed altri interessanti funzionalità!
-  - Immagini, elenchi e promemoria.
-
-Aggiungi immagini
-Tocca l'icona in basso per aggiungere un'immagine.
-Puoi scattare una foto o sceglierne una dalla Galleria.
-Quando una nota contiene un'immagine, questa verrà utilizzata come miniatura di anteprima nella visuale a griglia.
-
-Crea elenchi
-Gli elenchi con spunta sono strumenti essenziali per la lista delle cose da fare.
-Tocca l'icona del checkbox in basso per aggiungere un elenco in un paragrafo.
-Spunta il quadratino quando l'oggetto è completato.
-
-Imposta promemoria
-Imposta i promemoria direttamente dalle note.
-Tocca il tasto \"+\" in alto a destra, seleziona \"Promemoria\" e imposta l'orario.
-"</item>
+     <string-array name="second_guide_contents">
+        <item>Note vocali</item>
+        <item>Crea note utilizzando il nostro motore di sintesi vocale incorporato che allega registrazioni originali della tua voce.</item>
      </string-array>
 </resources>

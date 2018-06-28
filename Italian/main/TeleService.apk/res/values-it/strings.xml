@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">Sblocco PIN aziendale RUIM</string>
      <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">Richiesta sblocco aziendale RUIM non riuscita.</string>
@@ -373,9 +373,6 @@ Frequenza Campione"</string>
      <string name="callFailed_wifi_lost">Connessione Wi-Fi persa. Chiamata terminata.</string>
      <string name="callUnanswered_forwarded">Chiamata senza risposta e inoltrata</string>
      <string name="call_advanced_setting_title">Impostazioni avanzate</string>
-     <string name="call_background_default">Predefinito</string>
-     <string name="call_background_lock_wallpaper">Sfondo schermata di blocco</string>
-     <string name="call_background_setting">Sfondo chiamata</string>
      <string name="call_barring">Blocco chiamata</string>
      <string name="call_barring_sum">Impostazione blocco chiamate vocali</string>
      <string name="call_description_recording">Registrazione chiamata…</string>
@@ -516,6 +513,8 @@ Frequenza Campione"</string>
      <string name="close_profile">Chiudi</string>
      <string name="close_volte">Disattiva VoLTE</string>
      <string name="cloud_antispam_title">Identifica numeri sconosciuti</string>
+     <string name="cloud_sim_enabled_dual_4g_summary">Impossibile disattivare il Dual 4G mentre Mi Roaming è in fase di utilizzo</string>
+     <string name="cloud_sim_enabled_preferred_network_summary">Impossibile modificare le preferenze di rete mentre Mi Roaming è in fase di utilizzo</string>
      <string name="cmcc_ut_data_enable_prompt">Impossibile connettersi alla rete che utilizza VoLTE. Attiva ora la tua connessione dati.</string>
      <string name="command_error_fdn_failure">Devi disabilitare prima i NSF</string>
      <string name="config_default_data_sim">Impostazioni</string>
@@ -564,18 +563,21 @@ Frequenza Campione"</string>
      <string name="daltonizer_type_overridden">Sovrascritto da %1$s</string>
      <string name="data_enable_summary">Abilita accesso dati tramite rete mobile</string>
      <string name="data_enabled">Connessione dati</string>
+     <string name="data_plan">Piano dati mobile</string>
      <string name="data_usage_uninstalled_apps">App rimosse</string>
      <string name="data_usage_uninstalled_apps_users">App e utenti rimossi</string>
+     <string name="dc_alert_dialog_message">Alcune app richiedono una connessione dati mobile. Puoi contattare il tuo operatore per sapere quali %s sono disponibili per te.</string>
+     <string name="dc_alert_dialog_title">Avviso utilizzo dati</string>
      <string name="deactivate_all">Disattiva tutto</string>
-     <string name="debug_app">Seleziona apo di debug</string>
+     <string name="debug_app">Seleziona app di debug</string>
      <string name="debug_app_not_set">Nessuna app di debug impostata</string>
-     <string name="debug_app_set">Debugging applicazioni: %1$s</string>
+     <string name="debug_app_set">Debug applicazioni: %1$s</string>
      <string name="debug_applications_category">App</string>
-     <string name="debug_debugging_category">Debugging</string>
+     <string name="debug_debugging_category">Debug</string>
      <string name="debug_drawing_category">Disegno</string>
      <string name="debug_hw_drawing_category">Rendering hardware accelerato</string>
      <string name="debug_hw_overdraw">Debug overdraw GPU</string>
-     <string name="debug_hw_renderer">Set GPU Renderer</string>
+     <string name="debug_hw_renderer">Imposta render GPU</string>
      <string name="debug_input_category">Input</string>
      <string name="debug_layout">Mostra limiti layout</string>
      <string name="debug_layout_summary">Mostra limiti ritaglio, margini, etc.</string>
@@ -672,6 +674,7 @@ Frequenza Campione"</string>
      <string name="disabled_by_admin_summary_text">"Controllato dall'amministratore"</string>
      <string name="display_name_summary">Come il nome utente</string>
      <string name="display_name_title">Nome visualizzato</string>
+     <string name="do_not_show_again">Non mostrare nuovamente</string>
      <string name="domain_address_title">Server</string>
      <string name="doneButton">Fatto</string>
      <string name="dtmf_tone_entries_long">Lungo</string>
@@ -719,7 +722,8 @@ Frequenza Campione"</string>
      <string name="enable_disable_retail_directory">Elenco venditori al dettaglio</string>
      <string name="enable_disable_stock_quotes">Quotazione di borsa</string>
      <string name="enable_disable_technology_news">Notizie di tecnologia</string>
-     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE richiede la connessione 4G per entrambi gli slot SIM. PAssare al doppio 4G adesso?</string>
+     <string name="enable_dual_4g_if_dual_ct">Reti 4G preferite su entrambe le schede SIM per utilizzare VoLTE sulla SIM secondaria, quando sono installate due schede SIM Cina Telecom.</string>
+     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE richiede la connessione 4G per entrambi gli slot SIM. Passare al doppio 4G adesso?</string>
      <string name="enable_fdn">Attiva NSSF</string>
      <string name="enable_fdn_ok">NSF disattivati</string>
      <string name="enable_freeform_support">Abilita finestre di libero formato</string>
@@ -733,6 +737,7 @@ Frequenza Campione"</string>
      <string name="enable_sim_pin">Attiva PIN della SIM</string>
      <string name="enable_terminal_summary">Abilita terminale app per accesso alla shell locale</string>
      <string name="enable_terminal_title">Terminale locale</string>
+     <string name="enable_vice_volte_if_dual_ct">Attiva automaticamente VoLTE per la SIM secondaria, quando sono installate due schede SIM China Telecom.</string>
      <string name="enable_video_calling_dialog_close">Chiudi</string>
      <string name="enable_video_calling_dialog_msg">Per attivare la videochiamata, devi aver abilitato il 4G nelle impostazioni di sistema.</string>
      <string name="enable_video_calling_dialog_settings">Impostazioni di rete</string>
@@ -1120,7 +1125,6 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
      <string name="path_auto_retry_mode_title">App di sistema/Telefono/Impostazioni avanzate/Riprova automaticamente</string>
      <string name="path_autoip">Applicazioni di sistema/Chiamate/Impostazioni avanzate/Ricomposizione automatica</string>
      <string name="path_call_advanced_settings_title">App di sistema/Telefono/Impostazioni avanzate</string>
-     <string name="path_call_background_setting_name">Applicazioni di sistema/Chiamate/Impostazioni avanzate/Sfondo chiamata</string>
      <string name="path_call_forwarding_settings">Applicazioni di sistema/Chiamate/Impostazioni inoltro chiamate</string>
      <string name="path_call_record_auto_title">Chiamate/Registra automaticamente</string>
      <string name="path_call_record_setting">Applicazioni di sistema/Chiamate/Registrazione chiamate</string>
@@ -1274,13 +1278,14 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
      <string name="preferred_network_type_title">Tipologia di rete preferita</string>
      <string name="preferred_phone_account">Account chiamata preferito</string>
+     <string name="preferred_wificall_title">Preferenze di rete</string>
      <string name="private_num">Numero privato</string>
      <string name="progress_dialog_exiting_ecm">Uscita dalla modalità di richiamata di emergenza</string>
      <string name="prompt_to_turnoff_volte_when_failed">I servizi VoLTE non sono disponibili. Disattiva VoLTE per effettuare una chiamata.</string>
      <string name="prompt_to_turnoff_volte_when_supp_service">Servizi non disponibile. Disattiva VoLTE nelle Impostazioni.</string>
      <string name="prompt_when_turnon_volte_on_3g_prefered">Seleziona LTE come rete preferita prima di attivare VoLTE.</string>
      <string name="prompt_when_turnon_volte_without_lte">Le reti LTE non sono disponibili in questo momento. Attivare VoLTE potrebbe impedirti di effettuare le chiamate normali.</string>
-     <string name="proxy_address">ProxyAddress</string>
+     <string name="proxy_address">Indirizzo Proxy</string>
      <string name="proxy_address_title">"Indirizzo proxy verso l'esterno"</string>
      <string name="pstn_connection_service_label">SIM implementata</string>
      <string name="pstn_phone">Chiamate via telefono cellulare</string>
@@ -1589,7 +1594,6 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="tty_mode_entries_hco">TTY HCO</string>
      <string name="tty_mode_entries_off">TTY Off</string>
      <string name="tty_mode_entries_vco">TTY VCO</string>
-     <string name="tty_mode_key">button_tty_mode_key</string>
      <string name="tty_mode_not_allowed_video_call">La modifica della modalità TTY non è consentita durante una videochiamata</string>
      <string name="tty_mode_option_summary">Imposta modalità TTY</string>
      <string name="tty_mode_option_title">Modalità TTY</string>
@@ -1638,6 +1642,19 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="voice_privacy_summary">Abilità modalità privacy avanzata</string>
      <string name="voice_report_incoming_call">Chiamata in corso</string>
      <string name="voice_report_unknown_num">Numero sconosciuto</string>
+     <string name="voice_service_cannot_call_notification_content">È possibile che si verifichino problemi di connettività durante il tentativo di effettuare chiamate.</string>
+     <string name="voice_service_cannot_call_notification_title">Impossibile effettuare chiamate sulla rete attuale</string>
+     <string name="voice_service_switch_summary">Attiva per poter utilizzare la funzionalità di chiamata VoLTE nelle reti VoLTE</string>
+     <string name="voice_service_switch_title">Utilizza servizi di chiamata VoLTE</string>
+     <string name="voice_service_warning_dialog_body">"Questo tablet supporta le chiamate VoLTE sulle reti 4G. Assicurati che le reti a cui è collegato il dispositivo supportino questa funzionalità. I servizi VoLTE sono forniti dal tuo operatore. Contatta il tuo operatore locale per sapere se VoLTE è supportato nella tua zona.
+     
+Se nella barra di stato viene visualizzato _, allora le chiamate VoLTE non sono disponibili. Se non è possibile effettuare o ricevere chiamate o le chiamate vengono interrotte, assicurati che la rete sia compatibile con VoLTE.
+
+Questo tablet non ha un auricolare. È possibile passare alla modalità vivavoce o utilizzare gli auricolari per effettuare chiamate."</string>
+     <string name="voice_service_warning_dialog_cancel">Annulla</string>
+     <string name="voice_service_warning_dialog_ok">Fatto</string>
+     <string name="voice_service_warning_dialog_ok_timer">Fatto (%d)</string>
+     <string name="voice_service_warning_dialog_title">Chiamate VoLTE</string>
      <string name="voicemail">Segreteria telefonica</string>
      <string name="voicemail_abbreviated">Segr:</string>
      <string name="voicemail_change_pin_dialog_title">Cambia PIN</string>
@@ -1687,16 +1704,20 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="wapi_password_length_is_max">Password can not exceed 64 characters in length</string>
      <string name="wapi_password_length_is_min">Password can not less than 8 characters in length</string>
      <string name="wapi_password_length_is_min_to_max">The password must be: 8-64 characters</string>
-     <string name="wapi_yes">yes</string>
+     <string name="wapi_yes">Si</string>
+     <string name="wfcmode_mobile_preferred">Preferita Cellulare</string>
+     <string name="wfcmode_wifi_only">Solo Wi-Fi</string>
+     <string name="wfcmode_wifi_preferred">Preferita Wi-Fi</string>
      <string name="wifi_aggressive_handover">Handover Wi-Fi aggressivo su rete cellulare</string>
      <string name="wifi_aggressive_handover_summary">Quando abilitato, il Wi-Fi sarà più aggressivo nella gestione della connessione dati cellulare, quando il segnale Wi-Fi sarà basso</string>
      <string name="wifi_allow_scan_with_traffic">Consenti sempre Roam Scan Wi-Fi</string>
      <string name="wifi_allow_scan_with_traffic_summary">"Consenti/Non consentire Roam Scan Wi-Fi basati sui dati presenti nell'interfaccia"</string>
      <string name="wifi_auth_password_wrong">La password potrebbe essere sbagliata</string>
-     <string name="wifi_auto_sel_wapi_cert">Select automatically</string>
+     <string name="wifi_auto_sel_wapi_cert">Seleziona automaticamente</string>
+     <string name="wifi_call_setting">Chiamate Wi-Fi</string>
      <string name="wifi_calling">Chiamate Wi-Fi</string>
      <string name="wifi_connected_no_internet">Connesso, internet assente</string>
-     <string name="wifi_disabled_by_recommendation_provider">Not connected due to low quality network</string>
+     <string name="wifi_disabled_by_recommendation_provider">Non connesso a causa di scarsa qualità della rete</string>
      <string name="wifi_disabled_generic">Disattivato</string>
      <string name="wifi_disabled_network_failure">Configurazione IP fallita</string>
      <string name="wifi_disabled_password_failure">Problema di autenticazione</string>
@@ -1738,6 +1759,8 @@ Controlla la validità dei certificati"</string>
 L'archivio credenziali potrebbe non essere attivato"</string>
      <string name="wifi_wapi_psk_type">Tipo di password</string>
      <string name="wifi_wapi_user_certificate">User certificate</string>
+     <string name="wificall_switch_summary">Il dispositivo può passare dalla rete Wi-Fi a quella VoLTE quando la qualità della connessione risulterà scarsa</string>
+     <string name="wificall_switch_title">Effettua chiamate utilizzando la rete Wi-Fi</string>
      <string name="wild_prompt_str">Sostituire carattere con</string>
      <string name="window_animation_scale_title">Scala animazione finestre</string>
      <string name="wrong_password">Password errata</string>
