@@ -9,7 +9,7 @@
      <string name="accessibility_button_clear">Cancella</string>
      <string name="account_prifix">Account:</string>
      <string name="action">Accedi</string>
-     <string name="action_imme_open">Immediately open</string>
+     <string name="action_imme_open">Apertura immediata</string>
      <string name="action_menu_account_not_login">Non accedere</string>
      <string name="action_menu_account_not_login_hint">Utilizza le impostazioni cloud quando accedi</string>
      <string name="action_menu_bookshelf">Libreria</string>
@@ -131,8 +131,8 @@
      <string name="browserFrameFormResubmitLabel" />
      <string name="browserFrameFormResubmitMessage">La pagina che stai tentando di visualizzare contiene dati già inviati (\"POSTDATA\"). Se invii di nuovo i dati, ogni azione effettuata dal modulo nella pagina (come una ricerca o un acquisto online) verrà ripetuta.</string>
      <string name="browserFrameNetworkErrorLabel">Problema di connessione</string>
-     <string name="bubble_guide_logined_text">Sign in for lucky draw</string>
-     <string name="bubble_guide_unlogined_text">Login in to enjoy privileges</string>
+     <string name="bubble_guide_logined_text">Accedi per il disegno fortunato</string>
+     <string name="bubble_guide_unlogined_text">Accedi per godere dei privilegi</string>
      <string name="cancel">Annulla</string>
      <string name="cancle_sync_cloud_tabs">Annulla sincronizzazione</string>
      <string name="cannot_download">È possibile scaricare soltanto URL \"http\" o \"https\".</string>
@@ -201,15 +201,15 @@
      <string name="current_version_phone">Telefono</string>
      <string name="custom_head_card_text">"Pensa sempre che qualcosa di stupendo
 stia per accadere"</string>
-     <string name="custom_head_pull_down_text">Enter infoFlow</string>
+     <string name="custom_head_pull_down_text">Entra nel flusso di informazioni</string>
      <string name="data_monitor">Monitor dati</string>
      <string name="data_monitor_dialog_message">Sembra che qualcosa stia consumando il traffico dati. Apri la pagina iniziale per interrompere.</string>
-     <string name="data_traffic_continue">Continue</string>
-     <string name="data_traffic_goto">Free data traffic</string>
-     <string name="data_traffic_prompt_free_data">Using your mobile data connection to browse videos will increase your data usage. Please get free data traffic.</string>
-     <string name="data_traffic_prompt_message">"L'utilizzo della rete dati mobile per la navigazione aumenterà il consumo dei dati. Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
+     <string name="data_traffic_continue">Continua</string>
+     <string name="data_traffic_goto">Traffico dati gratuito</string>
+     <string name="data_traffic_prompt_free_data">"L'utilizzo della rete mobile per la navigazione fra i video aumenterà il consumo di dati. Prego assicurati di ottenere prima del traffico dati gratuito."</string>
+     <string name="data_traffic_prompt_message">"L'utilizzo della rete mobile per la navigazione aumenterà il consumo di dati. Se superi il limite del tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
      <string name="data_traffic_prompt_title">Avviso utilizzo dati</string>
-     <string name="data_traffic_stop">Stop</string>
+     <string name="data_traffic_stop">Ferma</string>
      <string name="delete">Elimina</string>
      <string name="delete_bookmark">Elimina</string>
      <string name="delete_bookmark_action_warning">Eliminare segnalibri?</string>
@@ -820,7 +820,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="navigationbar_rightbutton_actiontext_cancle">Annulla</string>
      <string name="navigationbar_rightbutton_actiontext_go">Vai</string>
      <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
-     <string name="network_not_available_comment">No internet connection, unable to comment</string>
+     <string name="network_not_available_comment">Nessuna connessione internet, impossibile commentare</string>
      <string name="network_show_wifi_setting_tip_dialog_description">Connetti a questa rete</string>
      <string name="network_show_wifi_setting_tip_dialog_title">Reti Wi-Fi aperta disponibile</string>
      <string name="next_button_label">Avanti</string>
@@ -1035,7 +1035,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="save_to_camera_success">Salvato in Fotocamera</string>
      <string name="scanner_uninstalled_text">Continua ad utilizzare, installa lo scanner</string>
      <string name="scanner_uninstalled_title">Lo scanner è stato disinstallato</string>
-     <string name="screenshot_loading_dialog_title">Capturing</string>
+     <string name="screenshot_loading_dialog_title">Cattura...</string>
      <string name="sdcard_error">Verifica la tua scheda SD</string>
      <string name="search">Cerca</string>
      <string name="search_baidu">Baidu</string>
@@ -1132,7 +1132,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="suggest_access_item_singer_albums">%d album</string>
      <string name="suggest_access_item_singer_pop">%d brani popolari</string>
      <string name="suggest_access_item_site_mark">SITI</string>
-     <string name="suggest_access_item_topic_mark">TOPIC</string>
+     <string name="suggest_access_item_topic_mark">ARGOMENTO</string>
      <string name="suggest_access_item_video_mark">VIDEO</string>
      <string name="suggest_access_item_weather_mark">METEO</string>
      <string name="suggest_access_item_yellow_mark">PAGINE GIALLE</string>
@@ -1153,10 +1153,10 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="suggestion_lottery_detail_price">OGNI NOTA%sYUAN</string>
      <string name="suggestion_lottery_detail_text">QUESTO%s</string>
      <string name="suggestion_lottery_period">NO.%s</string>
-     <string name="suggestion_more_button_text">SEE MORE</string>
-     <string name="suggestion_more_news">MORE NEWS</string>
-     <string name="suggestion_more_news_start_title_text">Related News</string>
-     <string name="suggestion_topic_subtitle_hyphen">Focus</string>
+     <string name="suggestion_more_button_text">MOSTRA DI PIÙ</string>
+     <string name="suggestion_more_news">PIÙ NOTIZIE</string>
+     <string name="suggestion_more_news_start_title_text">Notizie Correlate</string>
+     <string name="suggestion_topic_subtitle_hyphen">Focalizzazione</string>
      <string name="suggestion_translation_more">PIÙ TRADUZIONI</string>
      <string name="switchText">SI</string>
      <string name="switch_proxy_dialog_msg">"Rilevato tentativo di deviazione di rete. Utilizza l'app Sicurezza di MIUI o segnala al tuo operatore."</string>
