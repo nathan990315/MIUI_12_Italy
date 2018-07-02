@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="allow">Allow</string>
      <string name="altitude">%.1f</string>
      <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\"</string>
      <string name="altitude_title">Altitudine</string>
@@ -19,6 +20,7 @@
      <string name="calibrate_success">Calibrazione completata</string>
      <string name="calibrate_tip">Inclina il dispositivo per ruotare la sfera intorno al cerchio</string>
      <string name="calibrate_title">Calibrazione bussola</string>
+     <string name="cancel">Annulla</string>
      <string name="cannot_get_location">--</string>
      <string name="dialog_body_no_network">Impossibile connettersi alla rete</string>
      <string name="dialog_calibrat_altitude">Calibrazione…</string>
@@ -51,6 +53,8 @@
      <string name="longitude">LON</string>
      <string name="mobiledata_alert_dialog_message">"Vuoi connetterti a internet per calibrare l'altitudine?"</string>
      <string name="mobiledata_alert_dialog_title">Avvertimento utilizzo dei dati</string>
+     <string name="open_perm_msg">"La bussola richiede gli accessi alle info della posizione ed alla camera. Queste sono necessarie per determinare le coordinate e per fornire previsioni in tempo reale. Procedere?"</string>
+     <string name="open_perm_title">Permessi richiesti</string>
      <string name="pressure">%.1f</string>
      <string name="pressure_title">Pressione</string>
      <string name="pressure_unit">hPa</string>
