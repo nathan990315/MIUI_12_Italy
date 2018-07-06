@@ -4,8 +4,8 @@
      <string name="action_mode_switcher_grid_description">Griglia</string>
      <string name="action_mode_switcher_list_description">Lista</string>
      <string name="action_settings_description">Apri le Impostazioni</string>
-     <string name="actionbar_close_description">Close</string>
-     <string name="actionbar_home_description">Back</string>
+     <string name="actionbar_close_description">Chiudi</string>
+     <string name="actionbar_home_description">Indietro</string>
      <string name="add_account_desc">Sincronizzare le note con il tuo Mi Account?</string>
      <string name="alarm_bar_title">Promemoria</string>
      <string name="alert_action_edit_anyway">Continua la modifica</string>
@@ -95,7 +95,7 @@
      <string name="menu_delete_forever">Elimina per sempre</string>
      <string name="menu_folders">Cartelle</string>
      <string name="menu_hide">Nascondi</string>
-     <string name="menu_more_description">More</string>
+     <string name="menu_more_description">Altro</string>
      <string name="menu_move_parent_folder">Cartella precedente</string>
      <string name="menu_move_to">Sposta in</string>
      <string name="menu_new_folder">Nuova cartella</string>
@@ -200,7 +200,7 @@
      <string name="toast_reach_text_limit_checkbox">Impossibile aggiungere checkbox di spunta perché la nota è troppo lunga</string>
      <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perché troppo lungo.</string>
      <string name="toast_refuse_to_record_when_in_call">Impossibile utilizzare questa funzionalità durante le chiamate</string>
-     <string name="toast_refuse_to_record_when_in_multi_window">"Can't use this feature with Split screen"</string>
+     <string name="toast_refuse_to_record_when_in_multi_window">Impossibile utilizzare questa funzionalità in modalità multi-finestra</string>
      <string name="toolbar_check_description">Aggiungi checkbox</string>
      <string name="toolbar_delete_description">Elimina questa nota</string>
      <string name="toolbar_gallery_description">Aggiungi immagine</string>

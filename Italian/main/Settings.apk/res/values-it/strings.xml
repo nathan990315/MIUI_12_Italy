@@ -173,7 +173,7 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="add_device_admin_msg">Attivare amministratore dispositivo?</string>
      <string name="add_facerecoginition_text">Aggiungi dati viso</string>
      <string name="add_fingerprint_cancel_button_text">Indietro</string>
-     <string name="add_fingerprint_dirty_fingerprint">Make sure the surface of the screen is clean. Try recording your fingerprint again.</string>
+     <string name="add_fingerprint_dirty_fingerprint">"Assicurati che la superficie dello schermo sia pulita. Prova a registrare nuovamente l'impronta digitale."</string>
      <string name="add_fingerprint_done_msg">Adesso puoi sbloccare il dispositivo con le impronte digitali.</string>
      <string name="add_fingerprint_done_title">Finito.</string>
      <string name="add_fingerprint_edge_instruction_msg">Sposta il dito sul sensore così che possa leggere i dettagli della tua impronta digitale.</string>
@@ -182,7 +182,7 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="add_fingerprint_finished_button_text">Fatto</string>
      <string name="add_fingerprint_instruction_msg">"Sblocca il dispositivo o verifica il pagamento con l'impronta digitale"</string>
      <string name="add_fingerprint_instruction_title">Appoggia il dito sul lettore di impronte</string>
-     <string name="add_fingerprint_move_fast">Keep your finger on the screen a bit longer</string>
+     <string name="add_fingerprint_move_fast">Tieni il dito sullo schermo un pó più a lungo</string>
      <string name="add_fingerprint_name_suggest_text">Nome impronta</string>
      <string name="add_fingerprint_put_finger_edge_msg">Dopo il tocco del sensore solleva il dito e ripeti.</string>
      <string name="add_fingerprint_put_finger_msg">Dopo il tocco del sensore, solleva il dito e ripeti.</string>
@@ -2468,7 +2468,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="lockpassword_choose_your_pin_header">Scegli il tuo PIN</string>
      <string name="lockpassword_choose_your_pin_header_second_space">"Imposta PIN 
  per lo Spazio Secondario"</string>
-     <string name="lockpassword_choose_your_pin_title">Enter 4-16 digits</string>
+     <string name="lockpassword_choose_your_pin_title">Immetti dalle 4 alle 16 cifre</string>
      <string name="lockpassword_confirm_for_second_user">Conferma la password per lo Spazio Secondario</string>
      <string name="lockpassword_confirm_passwords_dont_match">Password non corrispondente</string>
      <string name="lockpassword_confirm_pins_dont_match">I PIN non corrispondono</string>
@@ -4322,7 +4322,7 @@ Il PIN potrebbe essere errato."</string>
      <string name="sim_lock_settings_summary_on">Bloccato</string>
      <string name="sim_lock_settings_title">Blocco della SIM</string>
      <string name="sim_management_title">SIM e reti mobili</string>
-     <string name="sim_management_title_singlesim">SIM card &amp; mobile networks</string>
+     <string name="sim_management_title_singlesim">Scheda SIM e reti mobili</string>
      <string name="sim_multi_sims_summary">Scegli la SIM preferita per connettersi alla rete dati.</string>
      <string name="sim_multi_sims_title">Trovate SIM multiple</string>
      <string name="sim_name_hint">Inserisci nome SIM</string>
