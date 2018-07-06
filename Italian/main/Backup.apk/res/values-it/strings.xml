@@ -393,11 +393,15 @@ Libera almeno %s"</string>
      <string name="trans_backingup">Backup in corso…</string>
      <string name="trans_backingup_no_items">Sincronizzazione…</string>
      <string name="trans_button_cancel">Annulla</string>
+     <string name="trans_button_exit">Exit</string>
+     <string name="trans_button_stay">Stay</string>
      <string name="trans_calculating">Calcolo in corso…</string>
      <string name="trans_calculating_app_sd_description">Dati su scheda SD</string>
      <string name="trans_calculating_media_description">File multimediali</string>
      <string name="trans_calculating_tip">Calcolo %s…</string>
      <string name="trans_cancel_confirm">Trasferimento in corso, annullare adesso?</string>
+     <string name="trans_cancel_selection_message">If you exit Mi Mover, the ongoing transfer will be interrupted. Wait until the transfer is complete.</string>
+     <string name="trans_cancel_selection_title">Stay in Mi Mover</string>
      <string name="trans_cancelling">Annullamento</string>
      <string name="trans_connect_failed_device_incompatible">Dispositivo non compatibile. Annulla il processo di trasferimento e prova di nuovo.</string>
      <string name="trans_connect_failed_message">"Connessione fallita, riprova o riavvia. Sull'altro dispositivo, vai in Impostazioni > Impostazioni aggiuntive > Mi Mover, tocca [I'm a sender] o lancia di nuovo Mi Mover dopo il riavvio"</string>
@@ -542,6 +546,8 @@ I file già esistenti sul nuovo dispositivo verranno sovrascritti"</string>
 Seleziona solo gli elementi importanti per rendere il trasferimento più veloce."</string>
      <string name="trans_select_device_receive">Seleziona un dispositivo per la ricezione dei dati.</string>
      <string name="trans_select_device_send">Seleziona il dispositivo su cui trasferire i dati.</string>
+     <string name="trans_select_notification_message">Tap to view</string>
+     <string name="trans_select_notification_title">Mi Mover is working…</string>
      <string name="trans_sender">Sono il mittente</string>
      <string name="trans_sender_connectting">Conferma sul nuovo dispositivo</string>
      <string name="trans_sender_searching">In cerca di nuovi dispositivi</string>

@@ -4,10 +4,6 @@
         <item quantity="other">Sospensione per %d minuti.</item>
         <item quantity="one">Sospensione per %d minuto.</item>
      </plurals>
-     <plurals name="auto_silence_summary">
-        <item quantity="other">La sveglia verrà silenziata dopo %d minuti</item>
-        <item quantity="one">La sveglia verrà silenziata dopo %d minuto</item>
-     </plurals>
      <plurals name="delete_alarm_confirm">
         <item quantity="other">Eliminare le sveglie selezionate?</item>
         <item quantity="one">Eliminare questa sveglia?</item>
@@ -23,14 +19,6 @@
      <plurals name="snooze_message">
         <item quantity="other">Sospendi per %d minuti</item>
         <item quantity="one">Sospendi per %d minuto</item>
-     </plurals>
-     <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d minuti</item>
-        <item quantity="one">1 minuto</item>
-     </plurals>
-     <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d secondi</item>
-        <item quantity="one">1 secondo</item>
      </plurals>
      <plurals name="timer_message_hour">
         <item quantity="other">"%1$d ore "</item>

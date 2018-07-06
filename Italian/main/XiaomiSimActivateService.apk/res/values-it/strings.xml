@@ -16,6 +16,7 @@
      <string name="activate_feature_register_xiaomi_account">Impostazione Mi Account</string>
      <string name="activate_feature_remote_assist">Assistente remoto</string>
      <string name="activate_feature_verify_mx_token">Verifica Mi Account</string>
+     <string name="activate_feature_voip">Mi Message Voice</string>
      <string name="activate_history_canceled_overview">Attivazione SIM annullata. Attivazione eseguita da \"%1$s\".</string>
      <string name="activate_history_multisim_canceled_overview">Attivazione SIM %2$d annullata. Attivazione eseguita da \"%1$s\".</string>
      <string name="activate_history_multisim_success_overview">Attivazione SIM %2$d riuscita. Attivazione eseguita da \"%1$s\".</string>
@@ -106,6 +107,11 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
      <string name="activate_status_title_activating_msim">Attivazione SIM %d…</string>
      <string name="agree">Agree</string>
      <string name="app_name">Servizio attivazione SIM Xiaomi</string>
+     <string name="checking_client">checking client env</string>
+     <string name="error_checking_client">client env error</string>
+     <string name="error_network_io">network error</string>
+     <string name="error_no_send_sms_permission">no send sms permission</string>
+     <string name="error_sim_not_in_service">sim not in service</string>
      <string name="explain_send_sms_permission_button">Verifica</string>
      <string name="explain_send_sms_permission_msg">"Per attivare %s, Xiaomi Service Framework invierà un SMS per verificare il tuo numero di telefono. Il costo dell'SMS sarà quello previsto dal tuo piano tariffario."</string>
      <string name="explain_send_sms_permission_title">Verifica il tuo numero di telefono</string>
@@ -118,4 +124,5 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
      <string name="privacy_revoke_failed_msg">revoca privacy，impossibile acquisire il numero di telefono，attivazione fallita</string>
      <string name="privacy_revoke_tips">"Se revochi, non potrai usare la sincronizzazione SMS"</string>
      <string name="sim_unactivated_title">La tua SIM non è stata attivata</string>
+     <string name="waiting_sim_in_service">waiting sim in service</string>
 </resources>
