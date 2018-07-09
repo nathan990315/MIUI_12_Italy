@@ -24,18 +24,18 @@
         <item>32 bit/campione</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Usa Selezione di Sistema (Predefinito</item>
+        <item>Usa Selezione di Sistema (Predefinito)</item>
         <item>16 bit/campione</item>
         <item>24 bit/campione</item>
         <item>32 bit/campione</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Usa Selezione di Sistema (Predefinito</item>
+        <item>Usa Selezione di Sistema (Predefinito)</item>
         <item>Mono</item>
         <item>Stereo</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Usa Selezione di Sistema (Predefinito</item>
+        <item>Usa Selezione di Sistema (Predefinito)</item>
         <item>Mono</item>
         <item>Stereo</item>
      </string-array>
@@ -52,21 +52,21 @@
         <item>Miglior rapporto (Bit Rate Adattivo)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Usa Selezione di Sistema (Predefinito</item>
+        <item>Usa Selezione di Sistema (Predefinito)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Usa Selezione di Sistema (Predefinito</item>
+        <item>Usa Selezione di Sistema (Predefinito)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Usa Selezione di Sistema (Predefinito</item>
+        <item>Usa Selezione di Sistema (Predefinito)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>aptX</item>
@@ -86,7 +86,7 @@
         <item>Disattiva Codec Opzionali</item>
      </string-array>
      <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Default)</item>
+        <item>AVRCP 1.4 (Predefinito)</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
      </string-array>
@@ -110,10 +110,10 @@
         <item>OpenGL (Skia)</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>Nessuno</item>
         <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
+        <item>Systrace (Grafico)</item>
+        <item>Stack su glGetError</item>
      </string-array>
      <string-array name="hdcp_checking_summaries">
         <item>Non usare mai il controllo HDCP</item>
@@ -122,7 +122,7 @@
      </string-array>
      <string-array name="hdcp_checking_titles">
         <item>Non controllare mai</item>
-        <item>COntrolla solo per contenuti DRM</item>
+        <item>Controlla solo per contenuti DRM</item>
         <item>Controlla sempre</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
@@ -215,7 +215,7 @@
         <item>In carica</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
+        <item>RNDIS (USB LAN)</item>
         <item>Fonte audio</item>
         <item>MIDI</item>
      </string-array>
