@@ -116,7 +116,7 @@
         <item>Mostra aree per Deuteranomalia</item>
      </string-array>
      <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (Default)</item>
+        <item>OpenGL (Predefinito)</item>
         <item>OpenGL (Skia)</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
@@ -144,7 +144,7 @@
      </string-array>
      <string-array name="nav_bar_buttons">
         <item>Appunti</item>
-        <item>Keycode</item>
+        <item>Chiave</item>
         <item>Cambio tastiera</item>
         <item>Nessuno</item>
      </string-array>
@@ -252,7 +252,7 @@
         <item>Ricarica</item>
         <item>MTP (Media Transfer Protocol)</item>
         <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
+        <item>RNDIS (USB LAN)</item>
         <item>Sorgente audio</item>
         <item>MIDI</item>
      </string-array>
