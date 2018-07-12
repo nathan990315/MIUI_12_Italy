@@ -12,7 +12,7 @@
      <string name="alert_miasist_occupy_backup">Backup degli elementi tramite Mi PC Suite… Attendi fino al completamento del backup e prova di nuovo.</string>
      <string name="alert_miasist_occupy_restore">Ripristino degli elementi tramite Mi PC Suite… Attendi fino al completamento del ripristino e prova di nuovo.</string>
      <string name="alert_phone_occupy_backup">"Impossibile utilizzare Mi PC Suite adesso. Termina il backup o il ripristino sul tuo telefono e riprova."</string>
-     <string name="alert_second_space_not_support_miasist">"Impossibile utilizzare Mi PC Suite sullo spazio Secondario. Passare allo spazio secondario."</string>
+     <string name="alert_second_space_not_support_miasist">"Impossibile utilizzare Mi PC Suite sul Secondo Spazio. Passare al Primo Spazio."</string>
      <string name="alert_title_backup_to_miasist">Eseguire il backup utilizzando Mi PC Suite?</string>
      <string name="alert_title_restore_from_miasist">Ripristinare gli elementi sul tuo telefono?</string>
      <string name="already_enable_encrypt">Crittografia abilitata</string>
@@ -466,7 +466,7 @@ per scaricare ed installare Mi Mover."</string>
      <string name="trans_intro_desc_9_method_3_title">3. Segnala problemi con QQ</string>
      <string name="trans_intro_desc_account">"Devi eseguire di nuovo l'accesso ai tuoi account (e.g., Mi Account, Exchange, Google, etc.) su di un nuovo dispositivo per ragioni di sicurezza."</string>
      <string name="trans_intro_desc_multiapp">"Mi Mover non trasferisce i dati delle app clonate per evitare conflitti tra i file"</string>
-     <string name="trans_intro_desc_multiuser">"Mi Mover non ha accesso agli elementi presenti nello spazio Secondario. Sposta gli elementi nello spazio Primario e lancia Mi Mover."</string>
+     <string name="trans_intro_desc_multiuser">"Mi Mover non ha accesso agli elementi presenti nello Secondo Spazio. Sposta gli elementi nel Primo Spazio e lancia Mi Mover."</string>
      <string name="trans_intro_desc_new">"Tap \"Sono il ricevente\". Verrà generato un codice QR."</string>
      <string name="trans_intro_desc_old">"Tap \"sono il mittente\". Scansiona il codice QR sul nuovo telefono, aspetta finché Mi Mover rileva i file da trasferire, quindi tocca \"Invia\"."</string>
      <string name="trans_intro_desc_old_market">Tocca \"Inizia\". Scansione il codice QR sul nuovo telefono, attendi che Mi Mover capisca quali file inviare, e tocca \"Invia\".</string>
@@ -483,8 +483,8 @@ per scaricare ed installare Mi Mover."</string>
      <string name="trans_intro_question_9_market">%d. Segnalazione.</string>
      <string name="trans_intro_title">FAQ</string>
      <string name="trans_intro_title_account">Account e password:</string>
-     <string name="trans_intro_title_multiapp">Dati app clonate:</string>
-     <string name="trans_intro_title_multiuser">Dato spazio Secondario:</string>
+     <string name="trans_intro_title_multiapp">Dati App clonate:</string>
+     <string name="trans_intro_title_multiuser">Dati Secondo Spazio:</string>
      <string name="trans_intro_title_new">Su nuovo dispositivo:</string>
      <string name="trans_intro_title_old">Su vecchio dispositivo:</string>
      <string name="trans_intro_title_private">Album nascosto:</string>

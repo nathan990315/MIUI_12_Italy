@@ -8,8 +8,8 @@
      <string name="abc_action_mode_done">Fatto</string>
      <string name="abc_activity_chooser_view_see_all">Vedi tutto</string>
      <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
-     <string name="abc_capital_off">OFF</string>
-     <string name="abc_capital_on">ON</string>
+     <string name="abc_capital_off">DISATTIVA</string>
+     <string name="abc_capital_on">ATTIVA</string>
      <string name="abc_search_hint">Ricerca...</string>
      <string name="abc_searchview_description_clear">Cancella campo</string>
      <string name="abc_searchview_description_query">Cerca termine</string>
@@ -21,11 +21,11 @@
      <string name="abc_toolbar_collapse_description">Chiudi</string>
      <string name="activity_create_shortcut_failed">Impossibile creare collegamento, controllare le impostazioni di rete.</string>
      <string name="activity_launch_checkbox_from_web">Non ricordare di nuovo</string>
-     <string name="activity_launch_message_from_web">Caricamento più rapido e migliore esperienza</string>
+     <string name="activity_launch_message_from_web">Caricamento pi? rapido e migliore esperienza</string>
      <string name="activity_launch_title_from_web">Passa a Direct Service %1$s</string>
      <string name="activity_shortcut_message_from_web">Trovato Direct service %1$s,vuoi creare un collegamento?</string>
      <string name="activity_shortcut_title_from_web">Crea collegamento per Direct Service</string>
-     <string name="app_name">HybridPlatform</string>
+     <string name="app_name">Piattaforma Ibrida</string>
      <string name="app_settings_disable_notification">Notifiche nascoste</string>
      <string name="app_settings_enable_notification">Mostra notifiche</string>
      <string name="audio_paused_label">In pausa</string>
@@ -43,15 +43,15 @@
      <string name="dlg_btn_continue">Continua</string>
      <string name="dlg_btn_quit">Esci</string>
      <string name="dlg_page_error_message">Mostra dettagli errore</string>
-     <string name="dlg_page_error_title">Spiacenti, si è verificato un errore con %1$s.</string>
+     <string name="dlg_page_error_title">Spiacenti, si ? verificato un errore con %1$s.</string>
      <string name="dlg_permission_accept">Accetta</string>
      <string name="dlg_permission_reject">Rifiuta</string>
      <string name="dlg_shortcut_cancel">No</string>
-     <string name="dlg_shortcut_message_on_count">Lo hai utilizzato più di 3 volte oggi，vuoi creare un collegamento per %1$s?</string>
+     <string name="dlg_shortcut_message_on_count">Lo hai utilizzato pi? di 3 volte oggi, vuoi creare un collegamento per %1$s?</string>
      <string name="dlg_shortcut_message_on_exit">Vuoi creare un collegamento per %1$s?</string>
-     <string name="dlg_shortcut_message_on_timing">Lo stai utilizzando da più di 5 minuti，vuoi creare un collegamento per %1$s?</string>
-     <string name="dlg_shortcut_ok">Sì</string>
-     <string name="dlg_shortcut_silent">Non chiedere più</string>
+     <string name="dlg_shortcut_message_on_timing">Lo stai utilizzando da pi? di 5 minuti, vuoi creare un collegamento per %1$s?</string>
+     <string name="dlg_shortcut_ok">Si</string>
+     <string name="dlg_shortcut_silent">Non chiedere pi?</string>
      <string name="dlg_shortcut_title">Crea collegamento</string>
      <string name="exception_activity_label">Dettagli errore</string>
      <string name="exception_btn_close">Chiudi</string>
@@ -64,9 +64,9 @@
      <string name="media_contorls_restart">Riproduci ancora</string>
      <string name="media_contorls_retry">Riprova</string>
      <string name="msg_camera_framework_bug">Spiacenti, la fotocamera Android ha riscontrato un problema. Potrebbe essere necessario riavviare il dispositivo.</string>
-     <string name="msg_default_status">Posiziona un codice a barre nel riquadro viewfinder per leggerlo.</string>
+     <string name="msg_default_status">Posiziona un codice a barre nel riquadro per leggerlo.</string>
      <string name="notification_creating_shortcut_for">Installazione scorciatoia per %s</string>
-     <string name="password_toggle_content_description">Visibilità comando password</string>
+     <string name="password_toggle_content_description">Visibilit? comando password</string>
      <string name="permission_desc_install_shortcut">installa collegamento</string>
      <string name="permission_desc_location">"utilizza la posizione del tuo dispositivo"</string>
      <string name="permission_desc_read_phone_state">leggi lo stato del telefono</string>
@@ -75,7 +75,7 @@
      <string name="permission_dialog_block">BLOCCA</string>
      <string name="permission_dialog_message">%1$s vuole %2$s.</string>
      <string name="pick_image_intent_chooser_title">Seleziona sorgente</string>
-     <string name="platform_incompatible">La piattaforma è troppo vecchia per eseguire %1$s, aggiorna la piattaforma.</string>
+     <string name="platform_incompatible">La piattaforma ? troppo vecchia per eseguire %1$s, aggiorna la piattaforma.</string>
      <string name="platform_notification_name">Messaggi istantanei</string>
      <string name="platform_notification_summary">Usa app compatibili senza installarle</string>
      <string name="platform_notification_title">Notifiche</string>
@@ -99,7 +99,7 @@ Dimensione: %2$s"</string>
      <string name="xiaomi_update_sdk_dialog_message_diff">"Introduzione versione %1$s
 Dimensione aggiornamento Delta: %2$s"</string>
      <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
-     <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+     <string name="xiaomi_update_sdk_external_storage_unavailable">Memoria non disponibile, prego verifica la scheda SD.</string>
      <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
      <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
 </resources>

@@ -637,9 +637,9 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="fingerprint_add_text">"L'interfaccia dell'impronta è stata aggiornata. Aggiungi nuovamente l'impronta."</string>
      <string name="fingerprint_add_title">Aggiungi impronta</string>
      <string name="fingerprint_again_identified_msg">La tua impronta è ora attiva. Utilizzala per sbloccare il dispositivo o inserire la password.</string>
-     <string name="fingerprint_enter_second_psw_msg">Immettere la password dello spazio Secondario dopo il riavvio del dispositivo, per poter utilizzare il riconoscimento delle impronte</string>
-     <string name="fingerprint_enter_second_psw_msg_oldman">"Impossibile entrare nello spazio Secondario durante l'utilizzo della Modalità Lite"</string>
-     <string name="fingerprint_enter_second_psw_title">Immetti password spazio Secondario</string>
+     <string name="fingerprint_enter_second_psw_msg">Immettere la password del Secondo Spazio dopo il riavvio del dispositivo, per poter utilizzare il riconoscimento delle impronte</string>
+     <string name="fingerprint_enter_second_psw_msg_oldman">"Impossibile entrare nel Secondo Spazio durante l'utilizzo della Modalità Lite"</string>
+     <string name="fingerprint_enter_second_psw_title">Immetti password Secondo Spazio</string>
      <string name="fingerprint_not_identified_msg">"Troppi tentativi non riusciti. Inserisci la password ora o prova ad utilizzare l'impronta in pochi secondi."</string>
      <string name="fingerprint_not_identified_msg_lock">Troppi tentativi non riusciti. Immetti password ora.</string>
      <string name="fingerprint_not_identified_title">Immetti password</string>
@@ -725,8 +725,8 @@ Una volta raffreddato, funzionerà normalmente."</string>
      <string name="incorrect_pukcode">PUK non corretto</string>
      <string name="input_password_after_boot_msg">Inserisci la password per sbloccare il dispositivo</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
-     <string name="input_password_after_boot_msg_must_enter_owner_space">Devi inserire lo spazio primario dopo che il dispositivo è stato riavviato</string>
-     <string name="input_password_handle_sdcard_fs">Impossibile accedere allo spazio secondario dalla lockscreen. Inserisci dallo spazio Primario.</string>
+     <string name="input_password_after_boot_msg_must_enter_owner_space">Bisogna riavviare il dispositivo prima di poter inserire il Primo Spazio</string>
+     <string name="input_password_handle_sdcard_fs">"Impossibile accedere al Secondo Spazio dalla lockscreen. Effettua l'inserimento dal Primo Spazio."</string>
      <string name="input_password_hint_text">Inserisci password</string>
      <string name="input_pattern_hint_text">Disegna la sequenza di sblocco</string>
      <string name="input_pin_code">Inserisci PIN</string>
@@ -1367,7 +1367,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="quick_settings_wifi_off_label">Wi-Fi disattivato</string>
      <string name="quick_settings_wifi_on_label">WLAN attivato</string>
      <string name="quick_settings_work_mode_label">Modalità lavoro</string>
-     <string name="recent_cannot_dock">"impossibile entrare in modalità multi-schermo nello spazio Secondario"</string>
+     <string name="recent_cannot_dock">"impossibile entrare in modalità multi-schermo nel Secondo Spazio"</string>
      <string name="recent_dock_tip">"Clicca per scegliere l'applicazione"</string>
      <string name="recent_menu_item_info">Info</string>
      <string name="recent_menu_item_lock">Blocca</string>
