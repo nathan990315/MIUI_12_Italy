@@ -10,7 +10,7 @@
      <string name="Settings_title_network_assistants">Impostazioni assistente di rete</string>
      <string name="Settings_title_power_center">Impostazioni batteria</string>
      <string name="about_autostart">Info su avvio automatico</string>
-     <string name="ac_enter_applock">Apri blocco applicazioni</string>
+     <string name="ac_enter_applock">Apri Blocco app</string>
      <string name="ac_firstUseApplock_subTitle">Utilizza per proteggere la tua privacy</string>
      <string name="ac_firstUseApplock_title">Richiedi una password per accedere alle app.</string>
      <string name="ac_mask_all_apps">Nascondi tutte le app</string>
@@ -244,7 +244,7 @@
      <string name="app_managere_not_have_app">Vuoto</string>
      <string name="app_manger_des_separator">", "</string>
      <string name="app_mobile">Mobili</string>
-     <string name="app_name">Blocco applicazioni</string>
+     <string name="app_name">Blocco app</string>
      <string name="app_name_na">Utilizzo dati</string>
      <string name="app_name_securitycenter">Sicurezza</string>
      <string name="app_not_installed_toast">"L'applicazione non è installata sul tuo dispositivo."</string>
@@ -260,8 +260,8 @@
 se se dimenticata"</string>
      <string name="applock_add_account_setting">Account e privacy</string>
      <string name="applock_bind_account_title">Ripristino della password</string>
-     <string name="applock_close_dialog_summary">Le app non saranno più protette e la tua password verrà eliminata dopo la disattivazione del Blocco applicazioni.</string>
-     <string name="applock_close_dialog_title">Disattivare Il Blocco applicazioni?</string>
+     <string name="applock_close_dialog_summary">Le app non saranno più protette e la tua password verrà eliminata dopo la disattivazione del Blocco app.</string>
+     <string name="applock_close_dialog_title">Disattivare Il Blocco app?</string>
      <string name="applock_exit_account_info">"L'account verrà rimosso automaticamente quando esegui il logout"</string>
      <string name="applock_header_text_less_than_half">Spazio insufficiente per questa app. Sposta il separatore.</string>
      <string name="applock_login_and_add_account">Accedi e aggiungi</string>
@@ -325,8 +325,8 @@ se se dimenticata"</string>
      <string name="auto_task_notify_task_cancel_do">Annulla operazione</string>
      <string name="auto_task_notify_task_canceled_summary">Puoi effettuare e ricevere chiamate</string>
      <string name="auto_task_notify_task_canceled_summary2">Sembra che tu stia giocando in questo momento.</string>
-     <string name="auto_task_notify_task_canceled_summary3">Annullato da spazio Secondario</string>
-     <string name="auto_task_notify_task_canceled_summary4">Annullato da spazio Primario</string>
+     <string name="auto_task_notify_task_canceled_summary3">Annullato da Secondo Spazio</string>
+     <string name="auto_task_notify_task_canceled_summary4">Annullato da Primo Spazio</string>
      <string name="auto_task_notify_task_canceled_title">Azione annullata</string>
      <string name="auto_task_notify_task_continue_do">Avvia operazione</string>
      <string name="auto_task_notify_task_count_down">"L'operazione automatica inizierà tra 5 secondi"</string>
@@ -351,7 +351,7 @@ se se dimenticata"</string>
      <string name="auto_task_operation_sync">Sincronizzazione</string>
      <string name="auto_task_operation_vibration">Vibrazione</string>
      <string name="auto_task_operation_wifi">Wi-Fi</string>
-     <string name="back_app_name">Torna al blocco App</string>
+     <string name="back_app_name">Torna al Blocco app</string>
      <string name="back_description_securitycenter">Indietro</string>
      <string name="back_modifypassword">Torna alla modifica password</string>
      <string name="back_sound_data">Richiede rete dati mobile, prova di nuovo!</string>
@@ -477,7 +477,7 @@ se se dimenticata"</string>
      <string name="cancel">Annulla</string>
      <string name="cancel_button">Annulla</string>
      <string name="card_main_applock_action">Attiva</string>
-     <string name="card_main_applock_summary">Proteggi la tua privacy con Blocco Applicazioni</string>
+     <string name="card_main_applock_summary">Proteggi la tua privacy con il Blocco App</string>
      <string name="card_main_applock_title">Blocco app</string>
      <string name="card_main_deepclean_action">Pulisci</string>
      <string name="card_main_deepclean_qq_title">Pulizia QQ</string>
@@ -1313,8 +1313,8 @@ Questa attività riduce la durata della batteria."</string>
      <string name="om_other_processes_cpu_usage_summary">Utilizzo medio CPU inferiore al %s%%</string>
      <string name="om_settings_cpu_over_load_notify">Utilizzo CPU</string>
      <string name="om_settings_cpu_over_load_summary">"Notifica quando l'utilizzo della CPU è troppo elevato"</string>
-     <string name="om_settings_lock_app">Blocca app</string>
-     <string name="om_settings_lock_app_manage">Blocca app</string>
+     <string name="om_settings_lock_app">Blocco app</string>
+     <string name="om_settings_lock_app_manage">Blocco app</string>
      <string name="om_settings_memocy_occupy_too_large_summary">Notifica quando la dimensione della cache è troppo grande</string>
      <string name="om_settings_memory_clean_lock_screen">Cancella la cache quando lo schermo è disattivato</string>
      <string name="om_settings_memory_occupy_notify">Cache di grandi dimensioni</string>
@@ -1691,7 +1691,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="screenrecord_not_find">"Installa l'ultima versione di Registrazione schermo e riprova."</string>
      <string name="search_result_text">Nessuna app trovata</string>
      <string name="section_clear_acc_item_title">Liberato %s. Se non hai ancora abbastanza spazio, prova ad utilizzare Pulizia.</string>
-     <string name="section_security_defend_item_title">Proteggi i tuoi dati con Blocco Applicazioni</string>
+     <string name="section_security_defend_item_title">Proteggi i tuoi dati con Blocco App</string>
      <string name="section_system_item_fixed">Ottimizzato</string>
      <string name="section_title_clear_acc">Pulizia cache</string>
      <string name="section_title_security_defend">Sicurezza</string>
@@ -2071,7 +2071,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="tips_message">"Per conoscere i dettagli del tuo piano dati digita %2$s (%1$s)."</string>
      <string name="tips_of_app_manage">Elimina le app poco utilizzate per liberare spazio</string>
      <string name="tips_of_auto_launch_manage">Impedisci alle app poco utilizzate di avviarsi automaticamente</string>
-     <string name="title_app_lock_disable">Blocca app</string>
+     <string name="title_app_lock_disable">Blocco app</string>
      <string name="title_app_update">Aggiornamento disponibile</string>
      <string name="title_auto_update">Aggiorna automaticamente</string>
      <string name="title_background_connection">Non puoi utilizzare %s in background?</string>

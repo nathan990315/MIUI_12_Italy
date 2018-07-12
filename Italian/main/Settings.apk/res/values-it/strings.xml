@@ -26,7 +26,7 @@
      <string name="about_settings_summary">Visualizza informazioni legali, stato, versione del software</string>
      <string name="about_summary">Android %1$s</string>
      <string name="ac_enable_summary">Verrà richiesta una password per accedere alle app</string>
-     <string name="ac_enable_title">Blocco applicazioni</string>
+     <string name="ac_enable_title">Blocco app</string>
      <string name="ac_privacy_mode_sum">Richiedi una password per disabilitare la modalità Ospite</string>
      <string name="ac_privacy_mode_title">Password</string>
      <string name="ac_set_apps_title">Scegli le app da bloccare</string>
@@ -377,7 +377,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="application_item_already_permission">Consentito</string>
      <string name="application_item_disable">Nega</string>
      <string name="application_item_permission">Consenti</string>
-     <string name="application_lock_name">Blocco applicazioni</string>
+     <string name="application_lock_name">Blocco app</string>
      <string name="application_manager_section_title">Applicazioni</string>
      <string name="application_permission_manager">Permessi app</string>
      <string name="application_permissions">Permessi di applicazioni</string>
@@ -978,7 +978,7 @@ Frequenza Campione"</string>
      <string name="call_manager_enable_summary">Consenti questo servizio per gestire come sono state fatte le vostre chiamate.</string>
      <string name="call_manager_enable_title">Attiva il Manager chiamate</string>
      <string name="call_manager_title">Manager chiamate</string>
-     <string name="call_settings_primary_user_only">Modifica le impostazioni di chiamata nello spazio Primario</string>
+     <string name="call_settings_primary_user_only">Modifica le impostazioni di chiamata nel Primo Spazio</string>
      <string name="call_settings_summary">Imposta segreteria, deviazione chiamate, avviso di chiamata, ID chiamante</string>
      <string name="call_settings_title">Chiamate</string>
      <string name="calls_title">Chiamate</string>
@@ -1875,8 +1875,8 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="fingerprint_last_delete_message_profile_challenge">Non sarai in grado di utilizzare le tue impronte per sbloccare il tuo profilo di lavoro, autorizzare gli acquisti o accedere alle app di lavoro."</string>
      <string name="fingerprint_last_delete_title">Rimuovi tutte le impronte?</string>
      <string name="fingerprint_list_title">Impronta</string>
-     <string name="fingerprint_lock_first">Sblocca Spazio Primario</string>
-     <string name="fingerprint_lock_second">Sblocca Spazio Secondario</string>
+     <string name="fingerprint_lock_first">Sblocca Primo Spazio</string>
+     <string name="fingerprint_lock_second">Sblocca Secondo Spazio</string>
      <string name="fingerprint_manage">Gestisci impronte</string>
      <string name="fingerprint_manage_category_title">Gestisci impronta digitale</string>
      <string name="fingerprint_manage_tittle">Impronta digitale</string>
@@ -2459,17 +2459,17 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="lock_setup">Impostazione completata.</string>
      <string name="lock_sounds_enable_title">Suono di blocco schermo</string>
      <string name="lockpassword_cancel_label">Annulla</string>
-     <string name="lockpassword_choose_for_second_user">Imposta password per lo Spazio Secondario</string>
+     <string name="lockpassword_choose_for_second_user">Imposta password per il Secondo Spazio</string>
      <string name="lockpassword_choose_lock_generic_header">Selezione metodo di sblocco</string>
      <string name="lockpassword_choose_your_password_header">Scegli la tua password</string>
      <string name="lockpassword_choose_your_password_second_space">"Imposta password 
- per lo Spazio Secondario"</string>
+ per il Secondo Spazio"</string>
      <string name="lockpassword_choose_your_pattern_header">Scegli la tua sequenza</string>
      <string name="lockpassword_choose_your_pin_header">Scegli il tuo PIN</string>
      <string name="lockpassword_choose_your_pin_header_second_space">"Imposta PIN 
- per lo Spazio Secondario"</string>
+ per il Secondo Spazio"</string>
      <string name="lockpassword_choose_your_pin_title">Immetti dalle 4 alle 16 cifre</string>
-     <string name="lockpassword_confirm_for_second_user">Conferma la password per lo Spazio Secondario</string>
+     <string name="lockpassword_confirm_for_second_user">Conferma la password per il Secondo Spazio</string>
      <string name="lockpassword_confirm_passwords_dont_match">Password non corrispondente</string>
      <string name="lockpassword_confirm_pins_dont_match">I PIN non corrispondono</string>
      <string name="lockpassword_confirm_workspace_password">Verifica la Password dello spazio di lavoro</string>
@@ -2521,12 +2521,12 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="lockpattern_pattern_entered_header">Sequenza registrata</string>
      <string name="lockpattern_pattern_same_with_others">"Deve essere diversa dalla password dell'altro spazio"</string>
      <string name="lockpattern_pattern_same_with_owner">Dovrebbe essere diversa da quella dello spazio predefinito</string>
-     <string name="lockpattern_pattern_same_with_security_space">Dovrebbe essere diversa da quella dello Spazio Secondario</string>
+     <string name="lockpattern_pattern_same_with_security_space">Dovrebbe essere diversa da quella del Secondo Spazio</string>
      <string name="lockpattern_recording_incorrect_too_short">Collega almeno %d punti. Riprova.</string>
      <string name="lockpattern_recording_inprogress">Solleva il dito al termine</string>
      <string name="lockpattern_recording_intro_footer">Premi Menu per visualizzare la guida.</string>
      <string name="lockpattern_recording_intro_header">Inserisci una sequenza di sblocco</string>
-     <string name="lockpattern_recording_intro_header_second_space">Disegna una sequenza di sblocco per lo Spazio Secondario:</string>
+     <string name="lockpattern_recording_intro_header_second_space">Disegna una sequenza di sblocco per il Secondo Spazio:</string>
      <string name="lockpattern_restart_button_text">Ricrea</string>
      <string name="lockpattern_retry_button_text">Riprova</string>
      <string name="lockpattern_settings_change_lock_pattern">Cambia sequenza di sblocco</string>
@@ -3157,7 +3157,7 @@ ed esegui il software."</string>
      <string name="owner_info_settings_edit_text_hint">Testo da visualizzare sulla Schermata di blocco</string>
      <string name="owner_info_settings_summary" />
      <string name="owner_info_settings_title">Info proprietario</string>
-     <string name="owner_space">Spazio primario</string>
+     <string name="owner_space">Primo Spazio</string>
      <string name="packages_subtitle">Pacchetti inclusi</string>
      <string name="page_layout_1">Dom 28/12</string>
      <string name="page_layout_10">Impostazioni</string>
@@ -3410,7 +3410,7 @@ ed esegui il software."</string>
      <string name="privacy_close_dlg_button_ok">Disattiva</string>
      <string name="privacy_close_dlg_msg">Quando la password di protezione è disattivata, i tuoi elementi non saranno più protetti.</string>
      <string name="privacy_close_dlg_title">Attenzione</string>
-     <string name="privacy_delete_space_dlg_message">Per cambiare la password del tuo Spazio secondario, dovresti eliminare il tuo attuale Spazio secondario e crearne uno nuovo.</string>
+     <string name="privacy_delete_space_dlg_message">Per cambiare la password del tuo Secondo Spazio, dovresti eliminare il tuo attuale Secondo Spazio e crearne uno nuovo.</string>
      <string name="privacy_dlg_button_cancel">Annulla</string>
      <string name="privacy_factory_reset_dlg_button_text">Esegui il Backup dei tuoi dati</string>
      <string name="privacy_factory_reset_dlg_message">Esegui un backup in locale dei tuoi dati, e successivamente un reset di fabbrica. Dopo ciò, sarai in grado di cambiare la tua password</string>
@@ -3430,7 +3430,7 @@ ed esegui il software."</string>
      <string name="privacy_password_add_account_setting">Account e privacy</string>
      <string name="privacy_password_bind_account">Aggiungi Mi Account</string>
      <string name="privacy_password_bind_account_immediate">Aggiungi</string>
-     <string name="privacy_password_confirm_SecondSpace_Password">Conferma la password dello Spazio Secondario</string>
+     <string name="privacy_password_confirm_SecondSpace_Password">Conferma la password del Secondo Spazio</string>
      <string name="privacy_password_confirm_use_finger">Sblocca con impronta</string>
      <string name="privacy_password_enter_privacy">Inserisci la password di protezione Privacy</string>
      <string name="privacy_password_exit_account_info">"L'account verrà rimosso automaticamente quando uscirai"</string>
@@ -3652,13 +3652,13 @@ Interfaccia UT: %5$s"</string>
      <string name="reset_network_final_desc">"Ripristinare le impostazioni di rete? Quest'azione è irreversibile!"</string>
      <string name="reset_network_title">Ripristino impostazioni di rete</string>
      <string name="reset_network_wifi">Wi-Fi</string>
-     <string name="reset_second_space_passwd">Reimpostazione password spazio Secondario</string>
+     <string name="reset_second_space_passwd">Reimpostazione password Secondo Spazio</string>
      <string name="reset_second_space_passwd_cancel">Annulla</string>
      <string name="reset_second_space_passwd_confirm">Continua</string>
-     <string name="reset_second_space_passwd_detail">Inserisci la password del Mi Account utilizzata nello spazio Primario</string>
+     <string name="reset_second_space_passwd_detail">Inserisci la password del Mi Account utilizzata nel Primo Spazio</string>
      <string name="reset_shortcut_manager_throttling">Azzera contatori limite frequenza ShortcutManager</string>
      <string name="reset_shortcut_manager_throttling_complete">Il limite di conteggio ShortcutManager è stato ripristinato</string>
-     <string name="resetting_second_space_passwd">Reimpostazione password spazio Secondario</string>
+     <string name="resetting_second_space_passwd">Reimpostazione password Secondo Spazio</string>
      <string name="resolver_settings_label">Ordina</string>
      <string name="restore_default_apn">Ripristino delle impostazioni APN predefinite…</string>
      <string name="restore_default_apn_completed">Ripristino delle impostazioni APN predefinite completato.</string>
@@ -4011,7 +4011,7 @@ Come usare Mantieni su schermo:
      <string name="search_screen_saver_settings">Screensaver</string>
      <string name="search_screen_timeout">Disattivazione schermo</string>
      <string name="search_screenshot">Screenshot</string>
-     <string name="search_second_space">Spazio Secondario</string>
+     <string name="search_second_space">Secondo Spazio</string>
      <string name="search_security_encryption_title">Critta il dispositivo con la password della Schermata di blocco</string>
      <string name="search_security_passwords_title">Password</string>
      <string name="search_security_privacy_settings_title">Privacy;Sicurezza;Fonti sconosciute;Mostra password;Firma app;Firme app;Elimina credenziali;Elimina credenziale</string>
@@ -4078,9 +4078,9 @@ Come usare Mantieni su schermo:
      <string name="search_wps_connect_title">Tasto WPS</string>
      <string name="search_xiaomi_account">Mi Account; Mi Account ID;Account;Account ID</string>
      <string name="search_xspace">XSpace</string>
-     <string name="second_space">Spazio Secondario</string>
-     <string name="secondspace_category">Spazio Secondario</string>
-     <string name="secondspace_delete_space_title">Elimina lo spazio Secondario</string>
+     <string name="second_space">Secondo Spazio</string>
+     <string name="secondspace_category">Secondo Spazio</string>
+     <string name="secondspace_delete_space_title">Elimina il Secondo Spazio</string>
      <string name="secure_keyguard_business_title">Password Schermata di blocco</string>
      <string name="secure_lock_encryption_warning">Poiché hai attivato un servizio di accessibilità, non verrà usata la password della Schermata di blocco per migliorare la crittografia dei dati."</string>
      <string name="security_dashboard_summary">Blocco schermo, impronta digitale</string>
@@ -5176,7 +5176,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="user_restrictions_controlled_by">Controllate da %1$s</string>
      <string name="user_restrictions_title">Limitazioni per app e contenuti</string>
      <string name="user_set_lock_button">Imposta blocco</string>
-     <string name="user_settings_forbidden">Impossibile cambiare impostazioni di amministratore dallo spazio corrente. Torna allo spazio Primario.</string>
+     <string name="user_settings_forbidden">Impossibile cambiare impostazioni di amministratore dallo spazio corrente. Torna al Primo Spazio.</string>
      <string name="user_settings_title">Utenti</string>
      <string name="user_setup_button_setup_later">Non ora</string>
      <string name="user_setup_button_setup_now">Configura ora</string>
@@ -5896,7 +5896,7 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="xiaomi_router_available_notif_title">Un router Xiaomi è disponibile</string>
      <string name="xiaomi_router_notif_summary">Avvisa quando un router Xiaomi è disponibile</string>
      <string name="xiaomi_router_notif_title">Notifica router Xiaomi</string>
-     <string name="xspace">Clona applicazioni</string>
+     <string name="xspace">Clona app</string>
      <string name="yes">Sì</string>
      <string name="zen_access_disabled_package_warning">"Deve essere attivato per consentire l'accesso alle notifiche"</string>
      <string name="zen_access_empty_text">"Nessuna delle app installate ha richiesto l'accesso Non disturbare"</string>

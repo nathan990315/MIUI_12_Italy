@@ -65,9 +65,9 @@
      <string name="fingerprint_add_text">"L'interfaccia per le impronte digitali è stato aggiornata. Aggiungi di nuovo la tua impronta."</string>
      <string name="fingerprint_add_title">Aggiungi impronta</string>
      <string name="fingerprint_again_identified_msg">La tua impronta adesso è attiva. Usala per sbloccare il dispositivo o inserisci la password.</string>
-     <string name="fingerprint_enter_second_psw_msg">Inserisci la password per lo spazio Secondario dopo il riavvio per poter utilizzare il riconoscimento delle impronte</string>
-     <string name="fingerprint_enter_second_psw_msg_oldman">"Impossibile aggiungere lo spazio Secondario finché in modalità Lite"</string>
-     <string name="fingerprint_enter_second_psw_title">Inserisci la password dello spazio Secondario</string>
+     <string name="fingerprint_enter_second_psw_msg">Inserisci la password per il Secondo Spazio dopo il riavvio per poter utilizzare il riconoscimento delle impronte</string>
+     <string name="fingerprint_enter_second_psw_msg_oldman">"Impossibile aggiungere il Secondo Spazio finché in modalità Lite"</string>
+     <string name="fingerprint_enter_second_psw_title">Inserisci la password del Secondo Spazio</string>
      <string name="fingerprint_not_identified_msg">"Troppi tentativi falliti. Inserisci adesso la password o prova ad utilizzare l'impronta in pochi secondi."</string>
      <string name="fingerprint_not_identified_msg_lock">Troppi tentativi falliti. Inserisci la password.</string>
      <string name="fingerprint_not_identified_title">Inserisci password</string>
@@ -82,8 +82,8 @@
      <string name="input_password_after_boot_msg">Inserisci la password per sbloccare il dispositivo</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Impossibile passare ad altri spazi quando la guardia verde è attiva</string>
-     <string name="input_password_after_boot_msg_must_enter_owner_space">Devi inserire lo spazio primario dopo che il dispositivo è stato riavviato</string>
-     <string name="input_password_handle_sdcard_fs">Impossibile accedere allo spazio secondario dalla lockscreen. Inserisci dallo spazio Primario.</string>
+     <string name="input_password_after_boot_msg_must_enter_owner_space">Bisogna riavviare il dispositivo prima di poter inserire il Primo Spazio</string>
+     <string name="input_password_handle_sdcard_fs">"Impossibile accedere al Secondo Spazio dalla lockscreen. Effettua l'inserimento dal Primo Spazio."</string>
      <string name="input_password_hint_text">Inserisci password</string>
      <string name="input_pattern_hint_text">Disegna la sequenza di sblocco</string>
      <string name="input_pin_code">Inserisci PIN</string>

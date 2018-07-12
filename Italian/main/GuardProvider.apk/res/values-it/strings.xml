@@ -17,7 +17,7 @@
      <string name="avast_virus_type_adware_description">Questo virus è un adware. Visualizza automaticamente le pubblicità.</string>
      <string name="avast_virus_type_cryportor_description">"Questo virus è un cryptor. È un software pericoloso trasmesso con lo scopo di danneggiare i dati, duplicarsi all'interno dello spazio di archiviazione e diffondersi."</string>
      <string name="avast_virus_type_dropper_description">"Questo virus è un dropper. Contiene il codice che consente l'installazione di altri virus pericolosi."</string>
-     <string name="avast_virus_type_exploit_description">Questo virus è un  exploit. Sfrutta bug o vulnerabilità del sistema per forzare azioni senza autorizzazioni.</string>
+     <string name="avast_virus_type_exploit_description">Questo virus è un exploit. Sfrutta bug o vulnerabilità del sistema per forzare azioni senza autorizzazioni.</string>
      <string name="avast_virus_type_heuristic_description">"L'infezione è stata rilevata utilizzando un metodo euristico specifico. Dall'analisi euristica specifica risulta come virus."</string>
      <string name="avast_virus_type_joke_description">Questo virus è un joke. Crea effetti o scherzi fastidiosi. Di solito ha un impatto minimo sul sistema.</string>
      <string name="avast_virus_type_pup_description">"Questo virus è un programma potenzialmente indesiderato (PUP). È un programma che potrebbe essere indesiderato (come spyware, adware, etc), nonostante l'utente abbia acconsentito a scaricarlo."</string>
@@ -41,5 +41,5 @@
      <string name="tencent_dialog_header">"Questa funzionalità critta ed invia l'ID del tuo dispositivo ai server di Tencent (%s)."</string>
      <string name="tencent_dialog_policy">"leggi l'Informativa sulla Privacy"</string>
      <string name="tencent_dialog_title">Informativa sulla Privacy di Tencent</string>
-     <string name="title_activity_main">MainActivity</string>
+     <string name="title_activity_main">Attività principale</string>
 </resources>

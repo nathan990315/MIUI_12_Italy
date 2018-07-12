@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="abc_action_bar_home_description">Naviga nella Home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -8,8 +8,8 @@
      <string name="abc_action_mode_done">Fatto</string>
      <string name="abc_activity_chooser_view_see_all">Vedi tutto</string>
      <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
-     <string name="abc_capital_off">OFF</string>
-     <string name="abc_capital_on">ON</string>
+     <string name="abc_capital_off">DISATTIVA</string>
+     <string name="abc_capital_on">ATTIVA</string>
      <string name="abc_search_hint">Ricerca...</string>
      <string name="abc_searchview_description_clear">Cancella campo</string>
      <string name="abc_searchview_description_query">Cerca termine</string>
@@ -25,7 +25,7 @@
      <string name="activity_launch_title_from_web">Passa a Direct Service %1$s</string>
      <string name="activity_shortcut_message_from_web">Trovato Direct service %1$s,vuoi creare un collegamento?</string>
      <string name="activity_shortcut_title_from_web">Crea collegamento per Direct Service</string>
-     <string name="app_name">HybridPlatform</string>
+     <string name="app_name">Piattaforma Ibrida</string>
      <string name="app_settings_disable_notification">Notifiche nascoste</string>
      <string name="app_settings_enable_notification">Mostra notifiche</string>
      <string name="audio_paused_label">In pausa</string>
@@ -50,7 +50,7 @@
      <string name="dlg_shortcut_message_on_count">Lo hai utilizzato più di 3 volte oggi，vuoi creare un collegamento per %1$s?</string>
      <string name="dlg_shortcut_message_on_exit">Vuoi creare un collegamento per %1$s?</string>
      <string name="dlg_shortcut_message_on_timing">Lo stai utilizzando da più di 5 minuti，vuoi creare un collegamento per %1$s?</string>
-     <string name="dlg_shortcut_ok">Sì</string>
+     <string name="dlg_shortcut_ok">Si</string>
      <string name="dlg_shortcut_silent">Non chiedere più</string>
      <string name="dlg_shortcut_title">Crea collegamento</string>
      <string name="exception_activity_label">Dettagli errore</string>
