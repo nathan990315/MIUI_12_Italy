@@ -755,6 +755,12 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="firewall_wifi">Wi-Fi</string>
      <string name="firewall_wifi_dialog_message">"L'app installata non potrà collegarsi a internet utilizzando la rete Wi-Fi quanto questa funzionalità è disattivata.​"</string>
      <string name="five_percent_total_pkg">%s (5%% di dati mensili)</string>
+     <string name="fod_authentication_shift_button">Cancel</string>
+     <string name="fod_button_finger">Use fingerprint</string>
+     <string name="fod_button_password">Enter password</string>
+     <string name="fod_finger_notice_title">Place your finger on the screen</string>
+     <string name="fod_finger_windows_tips">Verify your fingerprint</string>
+     <string name="fod_tips_split_screen_more_than_half">Enter password</string>
      <string name="forbid_autobright_summary">La luminosità dello schermo rimarrà costante durante il gioco</string>
      <string name="forbid_autobright_title">Correggi luminosità schermo</string>
      <string name="foreground_traffic">Primo piano %s</string>
@@ -832,7 +838,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gb_xunyou_gift_type_one">Incremento Xunyou 1-giorno</string>
      <string name="gb_xunyou_gift_type_three">Incremento Xunyou 3-giorni</string>
      <string name="gb_xunyou_gift_type_two">Incremento Xunyou 2-giorni</string>
-     <string name="gdpr_msg">Per utilizzare le funzionalità di base dell\'app Sicurezza, dovrai accettare il raccoglimento e l\'elaborazione dei tuoi dati da parte di Xiaomi, incluse le informazioni sulle modalità di utilizzo delle funzionalità di Sicurezza (ad esempio, statistiche sull\'utilizzo dei dati mobili, informazioni sui malware, nonché informazioni di base sul dispositivo) e altri tipi di informazioni specificate nella nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a>.</string>
+     <string name="gdpr_msg">"Per utilizzare le funzionalità di base dell\'app Sicurezza, dovrai accettare il raccoglimento e l\'elaborazione dei tuoi dati da parte di Xiaomi, incluse le informazioni sulle modalità di utilizzo delle funzionalità di Sicurezza (ad esempio, statistiche sull\'utilizzo dei dati mobili, informazioni sui malware, nonché informazioni di base sul dispositivo) e altri tipi di informazioni specificate nella nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a>."</string>
      <string name="ge">Uno</string>
      <string name="get_sys_info">Recupero informazioni…</string>
      <string name="gigabyteShort">GB</string>
@@ -1229,6 +1235,8 @@ dall'operatore"</string>
      <string name="network_speed_for_apps_title">Connessione</string>
      <string name="network_speed_for_apps_total">Velocità di connessione</string>
      <string name="network_test_speed">Prova la velocità Wi-Fi</string>
+     <string name="network_traffic_warning_text">"MIUI can't calculate data usage stats for individual system apps here.You will be able to see the data usage related info in the app details in case this app is using mobile data actively."</string>
+     <string name="network_traffic_warning_title">Data usage for system apps</string>
      <string name="networkchanged_exception_summary">La connessione è cambiata. Riprova.</string>
      <string name="networkchanged_exception_title">Connessione cambiata</string>
      <string name="never">Solo una volta</string>
@@ -2287,5 +2295,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="xunyou_net_booster_detail">Usa i servizi di accelerazione Xunyou per i tuoi giochi</string>
      <string name="xunyou_pay_webview">Servizi Xunyou</string>
      <string name="xunyou_server_expired">Sessione scaduta.</string>
+     <string name="yuan">CNY</string>
      <string name="zhifubao_not_found">Applicazione non installata o versione troppo vecchia</string>
 </resources>

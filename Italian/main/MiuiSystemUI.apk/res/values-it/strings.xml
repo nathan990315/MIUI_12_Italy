@@ -985,6 +985,7 @@ Riprova tra %2$d secondi."</string>
      <string name="lockscreen_shortcut_left">Collegamento sinistro</string>
      <string name="lockscreen_shortcut_right">RCollegamento destro</string>
      <string name="lockscreen_sim_error_message_short">Scheda non valida</string>
+     <string name="lockscreen_storage_locked">Unlock for all features and data</string>
      <string name="lockscreen_unlock_left">Collegamento sinistro e sblocco</string>
      <string name="lockscreen_unlock_right">Collegamento destro e sblocco</string>
      <string name="long_screenshot_not_support_msg">Questa app non supporta lo screenshot lungo.</string>
@@ -1013,6 +1014,9 @@ Riprova tra %2$d secondi."</string>
      <string name="memory_clear_result_giga">%1$sGB puliti</string>
      <string name="memory_clear_result_mega">%1$sMB puliti</string>
      <string name="menu_ime">Cambio tastiera</string>
+     <string name="miui_guide_dialog_button_negative_text">Settings</string>
+     <string name="miui_guide_dialog_button_positive_text">Got it</string>
+     <string name="miui_guide_dialog_message">Media sounds (music, videos, etc.) will still be played in Silent mode. You can change this in the Settings.</string>
      <string name="miui_keyguard_ble_unlock_succeed_msg">Sbloccato da dispositivo Bluetooth</string>
      <string name="miui_ringer_count_down">Conto alla rovescia</string>
      <string name="miui_ringer_count_down_time">Conto alla rovescia: %s</string>
@@ -1022,8 +1026,10 @@ Riprova tra %2$d secondi."</string>
      <string name="miui_ringer_total_description">Silenzia i suoni e disattiva la vibrazione per tutti gli elementi tranne le sveglie</string>
      <string name="miui_toast_zen_dnd_to_off">Suoni e vibrazione ripristinati alla normalità</string>
      <string name="miui_toast_zen_standard_to_off">Suonerie ripristinate alla normalità</string>
+     <string name="miui_toast_zen_standard_to_off_when_shield_media">Ringtones, as well as notification and media sounds, will be played.</string>
      <string name="miui_toast_zen_to_dnd">Suoni silenziati e vibrazione disattivata</string>
      <string name="miui_toast_zen_to_standard">Suonerie per le chiamate e notifiche silenziate</string>
+     <string name="miui_toast_zen_to_standard_when_shield_media">Ringtones, as well as notification and media sounds, will be silenced.</string>
      <string name="mland">Suolo Marshmallow</string>
      <string name="mobile_data">Dati</string>
      <string name="mobile_data_always_on">Dati cellulare sempre attivi</string>
@@ -1780,6 +1786,13 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
      <string name="wifi_verbose_logging">Abilita Wi‑Fi Verbose Logging</string>
      <string name="wifi_verbose_logging_summary">Incrementa il livello di logging del Wi‑Fi logging, e mostra SSID RSSI nel raccoglitore Wi‑Fi</string>
      <string name="window_animation_scale_title">Scala animazioni finestra</string>
+     <string name="wireless_change_to_ac_charging">Switched to wired charging</string>
+     <string name="wireless_charge_current">Charging</string>
+     <string name="wireless_charge_dialog_cancel">Got it</string>
+     <string name="wireless_charge_dialog_title">Place your device on the center of the charging base</string>
+     <string name="wireless_charge_reset_device">Charging is slow. Adjust your device.</string>
+     <string name="wireless_charge_reset_device_detail">Make sure the position of your device on the charging base is correct</string>
+     <string name="wireless_charge_stop">Stopped wireless charging</string>
      <string name="wrong_password">Password non corretta</string>
      <string name="zen_alarm_warning">Non sentirai la tua prossima sveglia %1$s</string>
      <string name="zen_alarm_warning_indef">Non sentirai la tua prossima sveglia %1$s a meno che non venga disattivata prima di allora</string>
