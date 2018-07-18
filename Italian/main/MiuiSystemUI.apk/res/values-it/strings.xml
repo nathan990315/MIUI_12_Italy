@@ -594,6 +594,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="face_data_input_ok_msg_angle">"Sblocca il dispositivo con il tuo viso quando lo schermo è acceso.
 (Registra i dati del tuo viso inclusi gli angoli richiesti.)"</string>
      <string name="face_data_input_ok_title">Aggiunta riuscita</string>
+     <string name="face_data_input_structure_title">3D face data</string>
      <string name="face_data_input_title">Aggiungi dati volto</string>
      <string name="face_data_introduction_msg">I dati del viso possono essere utilizzati per sbloccare il dispositivo o verificare la tua identità. Aggiungi la password della schermata di blocco prima di aggiungere i dati del tuo viso.</string>
      <string name="face_data_introduction_next">Prossimo</string>
@@ -1413,6 +1414,8 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="retail_demo_reset_next">Avanti</string>
      <string name="retail_demo_reset_title">Password richiesta</string>
      <string name="return_to_incall_screen">Premi per tornare alla chiamata</string>
+     <string name="rgb_face_data_introduction_title">Add 2D face data</string>
+     <string name="rgb_face_data_manage_delete_msg">Delete 2D face data</string>
      <string name="right_icon">Icona destra</string>
      <string name="right_keycode">Codice pulsante destro</string>
      <string name="right_nav_bar_button_type">Tipologia di pulsante destro extra</string>
@@ -1567,6 +1570,27 @@ scorri in basso per bloccare"</string>
      <string name="stream_voice_call">Chiamata</string>
      <string name="strict_mode">Abilita modalità rigorosa</string>
      <string name="strict_mode_summary">"Fai lampeggiare lo schermo quando un'applicazione esegue un'operazione lunga sul thread principale"</string>
+     <string name="structure_face_data_input_timeout_msg">"Couldn't record. Try again."</string>
+     <string name="structure_face_data_input_timeout_title">Try again</string>
+     <string name="structure_face_data_manage_delete_msg">Delete 3D face data</string>
+     <string name="structure_face_hardware_abnormal_btn">Got it</string>
+     <string name="structure_face_hardware_abnormal_msg">"Can't record face data due to a laser error. Contact customer service to get help."</string>
+     <string name="structure_face_hardware_abnormal_title">Laser error</string>
+     <string name="structure_face_modules_abnormal_btn">Reboot</string>
+     <string name="structure_face_modules_abnormal_msg">"Can't record face data due to an optical module error. Reboot your device and try again."</string>
+     <string name="structure_face_modules_abnormal_title">Optical module error</string>
+     <string name="structure_face_unlock_model2d_dialog_msg">"3D recognition will be turned off. Your 3D face data will be deleted. You'll also have to add your 2D face data. Turn on 2D recognition?"</string>
+     <string name="structure_face_unlock_model2d_dialog_title">Turning on 2D recognition</string>
+     <string name="structure_face_unlock_model3d_dialog_msg">"2D recognition will be turned off. Your 2D face data will be deleted. You'll also have to add your 3D face data. Turn on 3D recognition?"</string>
+     <string name="structure_face_unlock_model3d_dialog_title">Turning on 3D recognition</string>
+     <string name="structure_face_unlock_model_dialog_enable">Turn on</string>
+     <string name="structure_face_unlock_model_dialog_notenable">No thanks</string>
+     <string name="structure_face_unlock_model_other">Other</string>
+     <string name="structure_face_unlock_model_other_msg_2d">2D recognition</string>
+     <string name="structure_face_unlock_model_other_msg_3d">3D recognition</string>
+     <string name="structure_face_unlock_model_other_suggestion_2d">2D face recognition is less secure than a pattern, PIN, or password. Whenthis feature is on, your device might be unlocked by your photo, as well as people or objects that look like you.</string>
+     <string name="structure_face_unlock_model_other_suggestion_3d">"3D face recognition is relatively secure. It's highly unlikely that your device can be unlocked with your photo when this feature is on. However, it might be unlocked by people or objects that look like you."</string>
+     <string name="structure_face_unlock_model_other_title">Face recognition</string>
      <string name="switch_bar_off">Disattiva</string>
      <string name="switch_bar_on">Attiva</string>
      <string name="symbol_colon">:</string>
