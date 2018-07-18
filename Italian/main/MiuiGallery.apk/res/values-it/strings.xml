@@ -54,6 +54,7 @@
      <string name="album_name_people">Persone</string>
      <string name="album_name_recent_discovery">Recenti</string>
      <string name="album_name_tags">Tag</string>
+     <string name="album_notes">Note</string>
      <string name="album_others_share_baby_info_format">Album bambino da %s</string>
      <string name="album_others_share_info_format">Da %s</string>
      <string name="album_owner_share">Le mie condivisioni</string>
@@ -748,7 +749,6 @@
      <string name="enable_cloud_for_sharing">"Abilita l'album per vedere le immagini condivise."</string>
      <string name="enable_face_album_summary">Ordina automaticamente le foto in base alle persone ritratte</string>
      <string name="enable_face_album_title">Ordina per contatti</string>
-     <string name="enabling_face_feature">Attivazione…</string>
      <string name="enter_choice_mode">Sei entrato nella finestra di dialogo Condivisione</string>
      <string name="enter_email_hint">Inserisci indirizzo email</string>
      <string name="error_album_not_exist">Album inesistente.</string>
@@ -821,7 +821,6 @@
      <string name="exit_video_play">Esci</string>
      <string name="expand_desc">Altro</string>
      <string name="expand_people">Espandi altre persone</string>
-     <string name="face_album_detecting_tip">Solo un attimo…</string>
      <string name="face_album_empty">"Foto non sufficienti per il riconoscimento.
 Scatta più foto ai tuoi amici!"</string>
      <string name="face_album_empty_syncing">Sincronizzazione dati</string>
@@ -829,7 +828,6 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="face_album_long_tap_tip">"Tieni premuta un'immagine profilo per selezionare più persone o modificare le impostazioni di gruppo"</string>
      <string name="face_album_new_name_hint">Nuovo nome</string>
      <string name="face_album_not_named">Senza nome</string>
-     <string name="face_album_pending_enable_tip">Le foto verranno ordinate quando connesso a rete Wi-Fi</string>
      <string name="face_album_rename_hint">Inserisci il nome</string>
      <string name="face_album_use_tip">Ordina automaticamente in base alle persone ritratte.</string>
      <string name="face_albumset_loading_data">Caricamento…</string>
@@ -847,6 +845,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="fast_share_auto_render">Filtro bellezza</string>
      <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
      <string name="feature_guidance_photo_effects">Effetti foto</string>
+     <string name="feature_guidance_video_editor_smart_effects">Sono disponibili nuovi effetti</string>
      <string name="filter_bi_memory">Memoria</string>
      <string name="filter_bi_mono">Mono</string>
      <string name="filter_bi_pink">Rosa</string>
@@ -1183,7 +1182,13 @@ per personalizzare la Galleria"</string>
      <string name="photo_print_package_installing">Caricamento plug-in…</string>
      <string name="photo_save_to_msg">Salvato in %s</string>
      <string name="photomovie_audio_custom">Locale</string>
+     <string name="photomovie_audio_default">Memoria</string>
+     <string name="photomovie_audio_kawaii">Romantico</string>
+     <string name="photomovie_audio_light">Ballata</string>
+     <string name="photomovie_audio_linear">Rock</string>
      <string name="photomovie_audio_none">Nessuno</string>
+     <string name="photomovie_audio_soft">Ukulele</string>
+     <string name="photomovie_audio_sport">Techno</string>
      <string name="photomovie_cancel_download">Annulla il download</string>
      <string name="photomovie_delete_disable">Ti servono almeno 3 foto epr creare un video.</string>
      <string name="photomovie_download">Download</string>
@@ -1205,6 +1210,11 @@ per personalizzare la Galleria"</string>
      <string name="photomovie_tab_music">Musica</string>
      <string name="photomovie_tab_template">Modello</string>
      <string name="photomovie_template_default">Lento</string>
+     <string name="photomovie_template_kawaii">Fascino</string>
+     <string name="photomovie_template_light">Brezza</string>
+     <string name="photomovie_template_linear">Viaggio</string>
+     <string name="photomovie_template_soft">Gioventù</string>
+     <string name="photomovie_template_sport">Vigore</string>
      <string name="pick_from_contact">Scegli dai contatti</string>
      <string name="pick_too_many_recipients">Troppi destinatari</string>
      <string name="picker_cancel_download">Annulla download</string>
@@ -1217,6 +1227,7 @@ per personalizzare la Galleria"</string>
      <string name="picker_image_will_download">%d delle foto selezionate non sono sul dispositivo, download in corso</string>
      <string name="picker_no_network_message">Rete non disponibile, collegati alla rete e procedi con il download</string>
      <string name="picker_origin_need_download">%1$d delle foto selezionate non sono sul dispositivo (%2$d MB). Scaricare utilizzando la rete dati cellulare?</string>
+     <string name="picker_origin_request_progress_message">Preparazione file originali (%1$d/%2$d)…</string>
      <string name="picker_title_format">Seleziona da %1$d a %2$d foto</string>
      <string name="picker_title_selection_format">%d selezionate</string>
      <string name="picker_title_selection_format_multiple">Seleziona da %1$d a %2$d foto (%3$d selezionate)</string>
@@ -1329,12 +1340,12 @@ per personalizzare la Galleria"</string>
      <string name="search_net_error">Errore della rete. Connettiti ad una rete differente e riprova.</string>
      <string name="search_request_applied">Applicato</string>
      <string name="search_request_open">Unisciti al team di test</string>
+     <string name="search_request_requesting">"Applicato. Attendi un po' prima dell'avvio."</string>
      <string name="search_result_empty">Nessun risultato</string>
      <string name="search_retry">Prova di nuovo</string>
      <string name="search_select_network">Seleziona rete</string>
      <string name="search_set_network_connection">Impostazioni di rete</string>
      <string name="search_setting_sub_title">Ricerca immagine migliorata</string>
-     <string name="search_setting_sub_title_open">Approvata. Attendi un momento prima di iniziare.</string>
      <string name="search_setting_title">Trova foto nella Galleria</string>
      <string name="search_syncing">Sincronizzazione dati, torna fra un momento</string>
      <string name="search_title_album">Album</string>
@@ -1364,6 +1375,7 @@ per personalizzare la Galleria"</string>
      <string name="secret_reason_too_large">File troppo grande</string>
      <string name="secret_reason_type_not_support">Tipo di file non supportato</string>
      <string name="secret_reason_unknow_reasons">Errore sconosciuto</string>
+     <string name="secret_reason_video_not_support">Impossibile aggiungere video ad un album nascosto</string>
      <string name="see_ignore_faces">Mostra le persone ignorate</string>
      <string name="select_item_face">"Le foto potrebbero essere '%s'"</string>
      <string name="select_origin_tip">File originale (%s)</string>
@@ -1605,6 +1617,7 @@ per personalizzare la Galleria"</string>
      <string name="video_editor_unsupport_audio_file">File audio non supportato</string>
      <string name="video_editor_unzip_file_fail">Impossibile estrarre video.</string>
      <string name="video_editor_video_is_short">Impossibile modificare video.</string>
+     <string name="video_editor_video_loading">Preparazione video. Attendi un secondo o due e riprova.</string>
      <string name="video_editor_watermark">Filigrana</string>
      <string name="video_err">Impossibile riprodurre il video.</string>
      <string name="video_not_exist">Video inesistente</string>
@@ -1613,7 +1626,6 @@ per personalizzare la Galleria"</string>
      <string name="view_by_gallery_tip">Galleria</string>
      <string name="view_face_album">Mostra album</string>
      <string name="view_more_face_desc">Visualizza piú persone</string>
-     <string name="view_queuing_status">Verifica stato</string>
      <string name="voice_assistant">Input vocale</string>
      <string name="welcome_to_micloud">Benvenuto in Mi Cloud</string>
      <string name="where_is_barcode">"Dov'è il Codice QR?"</string>

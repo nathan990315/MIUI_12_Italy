@@ -236,6 +236,10 @@
         <item quantity="other">Ti mancano %1$d tocchi per avviare una segnalazione bug</item>
         <item quantity="one">Ti manca %1$d tocco per avviare una segnalazione bug</item>
      </plurals>
+     <plurals name="show_reset_countdown">
+        <item quantity="other">Completa %1$d passaggi per eseguire un ripristino di fabbrica</item>
+        <item quantity="one">Completa %1$d passaggio per eseguire un ripristino di fabbrica</item>
+     </plurals>
      <plurals name="special_access_summary">
         <item quantity="other">%d app possono utilizzare dati senza restrizioni</item>
         <item quantity="one">Una app può utilizzare dati senza restrizioni</item>

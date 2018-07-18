@@ -112,7 +112,7 @@
         <item>Attiva schermo</item>
         <item>Recupera account</item>
         <item>Esegui in background</item>
-		<item>Accessibilità volume</item>
+        <item>Accessibilità volume</item>
      </string-array>
      <string-array name="app_ops_summaries">
         <item>posizione approssimativa</item>
@@ -179,7 +179,7 @@
         <item>attiva schermo</item>
         <item>recupera account</item>
         <item>esegui in background</item>
-		<item>accessibilità volume</item>
+        <item>accessibilità volume</item>
      </string-array>
      <string-array name="app_process_limit_entries">
         <item>Limite predefinito</item>
@@ -1160,6 +1160,10 @@
         <item>La rete è lenta a causa del segnale debole</item>
         <item>In movimento…</item>
      </string-array>
+     <string-array name="notch_battery_indicator_style_entries">
+        <item>Grafico</item>
+        <item>Percentuale</item>
+     </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Nessuno</item>
         <item>480p</item>
@@ -1536,7 +1540,7 @@
      </string-array>
      <string-array name="wifi_signal">
         <item>Scadente</item>
-		<item>Scadente</item>
+        <item>Scadente</item>
         <item>Discreta</item>
         <item>Buona</item>
         <item>Eccellente</item>

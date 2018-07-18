@@ -945,6 +945,17 @@ Frequenza Campione"</string>
      <string name="bssid_label">BSSID:</string>
      <string name="bt_hci_snoop_log">Attiva log di esame HCI Bluetooth</string>
      <string name="bt_hci_snoop_log_summary">Acquisisci tutti i pacchetti HCI Bluetooth in un file</string>
+     <string name="bt_ldac_declaration">"Quando il dispositivo Bluetooth supporta la funzionalità LDAC, questo verrà connesso per impostazione predefinita. LDAC offre un'esperienza audio di alta qualità ma a discapito del consumo energetico. La riproduzione potrebbe non verificarsi a causa delle limitazioni dell'hardware Bluetooth"</string>
+     <string name="bt_ldac_dialog_summary">"LDAC offre un'esperienza audio di alta qualità ma a discapito del consumo energetico
+Questa funzione può essere disattivata in [Settings]"</string>
+     <string name="bt_ldac_dialog_title">Il dispositivo attuale collegato per impostazione predefinita, che supporta la funzionalità LDAC:</string>
+     <string name="bt_ldac_open_dialog_summary">"LDAC fornisce un'esperienza audio di alta qualità ma a discapito del consumo energetico. La riproduzione potrebbe non verificarsi a causa delle limitazioni dell'hardware Bluetooth"</string>
+     <string name="bt_ldac_open_dialog_title">Sei sicuro di voler attivare la funzionalità LDAC?</string>
+     <string name="bt_ldac_pre_summary">"Fornisce un'esperienza audio di alta qualità"</string>
+     <string name="bt_ldac_pre_title">LDAC</string>
+     <string name="bt_ldac_property">Attributi</string>
+     <string name="bt_ldac_remember_choice">Ricorda scelta</string>
+     <string name="bt_ldac_settings">Impostazioni</string>
      <string name="bt_rarely_used_device_title">Dispositivi utilizzati raramente (%d)</string>
      <string name="bt_trace_log">Abilita trace log del Bluetooth</string>
      <string name="bt_trace_log_summary">Abilita trace log del Bluetooth</string>
@@ -1918,6 +1929,8 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="firewall_wifi">Wi-Fi</string>
      <string name="firewall_wifi_dialog_message">"L'app installata non sarà in grado di connettersi ad Internet tramite Wi-Fi se questo interruttore sarà spento."</string>
      <string name="firmware_version">Versione di Android</string>
+     <string name="flash_drive_backup_restore">Esegui backup o ripristina da USB</string>
+     <string name="flash_drive_backup_restore_summary">Connetti a memoria USB</string>
      <string name="floating_window_switch_label">Mostra finestre popup</string>
      <string name="floating_window_switch_label_disable">Nascondi finestre popup</string>
      <string name="fluency_mode">Ottimizza le prestazioni di sistema</string>
@@ -2766,8 +2779,8 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="mock_location_app">Seleziona app posizioni fittizie</string>
      <string name="mock_location_app_not_set">Nessuna app per le posizioni fittizie impostata</string>
      <string name="mock_location_app_set">App posizioni fittizie: %1$s</string>
-     <string name="mode_disable">disattivato</string>
-     <string name="mode_enable">attivato</string>
+     <string name="mode_disable">Disattivato</string>
+     <string name="mode_enable">Attivato</string>
      <string name="model_info">Model</string>
      <string name="model_name">Modello</string>
      <string name="model_number">Modello</string>
@@ -3682,6 +3695,7 @@ Interfaccia UT: %5$s"</string>
      <string name="retail_demo_reset_next">Avanti</string>
      <string name="retail_demo_reset_title">Password richiesta</string>
      <string name="retry">Riprova</string>
+     <string name="rgb_manage_facerecoginition_text">Gestisci dati volto 2D</string>
      <string name="ring_volume_option_title">Volume suoneria</string>
      <string name="ring_volume_title">Volume suoneria</string>
      <string name="ringtone_slot_setting_title">Impostazioni scheda singola</string>
@@ -4081,6 +4095,9 @@ Come usare Mantieni su schermo:
      <string name="second_space">Secondo Spazio</string>
      <string name="secondspace_category">Secondo Spazio</string>
      <string name="secondspace_delete_space_title">Elimina il Secondo Spazio</string>
+     <string name="secspace_fod_finger_tips">Impossibile verificare. Riprova.</string>
+     <string name="secspace_fod_finger_title">Verifica la tua impronta</string>
+     <string name="secspace_fod_use_password">Immetti password</string>
      <string name="secure_keyguard_business_title">Password Schermata di blocco</string>
      <string name="secure_lock_encryption_warning">Poiché hai attivato un servizio di accessibilità, non verrà usata la password della Schermata di blocco per migliorare la crittografia dei dati."</string>
      <string name="security_dashboard_summary">Blocco schermo, impronta digitale</string>
@@ -4389,6 +4406,8 @@ Il PIN potrebbe essere errato."</string>
      <string name="sound_settings_summary">Volume suoneria al %1$s</string>
      <string name="sound_settings_summary_silent">Suoneria impostata su Silenzioso</string>
      <string name="sound_settings_summary_vibrate">Suoneria impostata su Vibrazione</string>
+     <string name="sound_stereo_mode_summary">Disponibile solo durante riproduzione da altoparlante</string>
+     <string name="sound_stereo_mode_title">Suono stereo</string>
      <string name="sound_vibrate_settings">Suoni e vibrazione</string>
      <string name="sound_work_settings">Suoni di profilo lavoro</string>
      <string name="special_access">Accesso speciale</string>
@@ -4398,7 +4417,7 @@ Il PIN potrebbe essere errato."</string>
      <string name="spellchecker_security_warning">"Questa funzionalità di controllo ortografico potrebbe riuscire a raccogliere tutto il testo digitato, compresi i dati personali come password e numeri di carte di credito. Deriva dall'applicazione %1$s. Utilizzare questa funzionalità di controllo ortografico?"</string>
      <string name="spellchecker_switch_title">Attiva Controllo Ortografico</string>
      <string name="spellcheckers_settings_title">Controllo ortografico</string>
-     <string name="split_screen">Attiva split screen</string>
+     <string name="split_screen">Attiva Schermo diviso</string>
      <string name="ssid_label">SSID:</string>
      <string name="ssl_ca_cert_warning">La rete potrebbe essere monitorata</string>
      <string name="ssl_ca_cert_warning_message">"Una terza parte può monitorare la tua attività di rete, inclusi siti web protetti, email e applicazioni.
@@ -4450,6 +4469,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_show_flow_info">Mostra dettagli trasmissione</string>
      <string name="status_bar_settings_show_home_message">Badge icona app</string>
      <string name="status_bar_settings_show_keyguard_notification">Notifiche sulla Schermata di blocco</string>
+     <string name="status_bar_settings_show_keyguard_notification_summary">Consenti notifiche importanti sulla schermata di Blocco</string>
      <string name="status_bar_settings_show_network_speed">Mostra velocità di connessione</string>
      <string name="status_bar_settings_show_notification_icon">Mostra icona di notifica</string>
      <string name="status_bar_settings_show_wifi_name">Mostra Wi-Fi</string>
@@ -4648,6 +4668,7 @@ Considera l'utilizzo di un ^1 più veloce per prestazioni migliori."</string>
      <string name="strict_mode">Attiva Modalità Strict</string>
      <string name="strict_mode_summary">Flash dello schermo in caso di lunghe operazioni sul thread principale</string>
      <string name="structure_add_facerecoginition_text">Aggiungi dati volto 3D</string>
+     <string name="structure_manage_facerecoginition_text">Gestisci dati volto 3D face</string>
      <string name="suggest_unrestrict_max_aspect_ratio_title">Suggeriamo di attivare la dimensione massima</string>
      <string name="suggested_fingerprint_lock_settings_summary">"Sblocca con l'impronta"</string>
      <string name="suggested_fingerprint_lock_settings_title">Usa impronta</string>
@@ -4810,7 +4831,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>
      <string name="total">Non disturbare</string>
-     <string name="total_info">Silenzia i suoni %1$s eccetto per le sveglie</string>
+     <string name="total_info">Silenzia i suoni e %1$s, eccetto per le sveglie</string>
      <string name="total_info_sub">e disattiva la vibrazione</string>
      <string name="total_memory">Memoria totale</string>
      <string name="total_size">%s totale</string>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="access_denied">Accesso negato</string>
      <string name="account_related">Il dispositivo è associato ad un Mi Account esistente (%s). Collegati alla rete per verificare il dispositivo.</string>
@@ -43,6 +43,12 @@
      <string name="find_device_send_sms_alert">Se cambi SIM, potrebbe essere inviato automaticamente un altro SMS per attivare questa funzione.</string>
      <string name="find_device_service_title">Trova dispositivo</string>
      <string name="forget_password"><u>Password dimenticata</u></string>
+     <string name="hybrid_check_network">Impostazioni di rete</string>
+     <string name="hybrid_data_error">Si è verificato un errore</string>
+     <string name="hybrid_network_access_denied">Accesso alla rete negato</string>
+     <string name="hybrid_network_unavaliable">Impossibile connettersi alla rete</string>
+     <string name="hybrid_service_unavailiable">Servizio non disponibile</string>
+     <string name="hybrid_try_again">Riprova</string>
      <string name="i_know">OK</string>
      <string name="input_password_hint">Inserisci password</string>
      <string name="internet_access_dspt">Questo servizio deve accedere ad internet per funzionare correttamente.</string>
@@ -68,6 +74,10 @@
      <string name="loading">Caricamento\u2026</string>
      <string name="master_alert_notif_content">Impossibile sincronizzare</string>
      <string name="master_alert_notif_title">Attiva la sincronizzazione con Mi Cloud</string>
+     <string name="member_menu_vipname_free">Gratuito</string>
+     <string name="member_menu_vipname_mega">Mega</string>
+     <string name="member_menu_vipname_premium">Premium</string>
+     <string name="member_menu_vipname_ultra">Ultra</string>
      <string name="micloud_alert_dialog_positive">OK</string>
      <string name="micloud_all_sub_1_intl_sms">Verrà inviato un SMS internazionale per attivare la tua SIM.</string>
      <string name="micloud_all_sub_1_sms">Verrà inviato un SMS per attivare la tua SIM.</string>

@@ -2,8 +2,8 @@
 <resources>
      <string name="access_sd_fail">"Impossibile accedere alla scheda SD"</string>
      <string name="accessibility_shutter_button">Scatta</string>
-     <string name="action_search">Cerca</string>
      <string name="address">Indirizzo:</string>
+     <string name="amazon_assistant_shopping_title">Cerca su Amazon</string>
      <string name="app_description_content">"Scanner può scansionare codici QR, biglietti da visita, e documenti. Assicurati di poter fare ciò che ti occorre senza quest'app prima di rimuoverla."</string>
      <string name="app_description_title">Info su Scanner</string>
      <string name="app_details">App:</string>
@@ -21,7 +21,6 @@
      <string name="com_taobao_tae_sdk_network_not_available_message">Impossibile connettersi alla rete</string>
      <string name="com_taobao_tae_sdk_system_exception">Eccezione di sistema</string>
      <string name="common_retake_picture">Riprendi</string>
-     <string name="common_retry">Riprova</string>
      <string name="common_save">Salva</string>
      <string name="company">Compagnia:</string>
      <string name="connect_wifi">Connetti a questa rete</string>
@@ -32,7 +31,6 @@
      <string name="copy_text_success">Testo copiato</string>
      <string name="crop_cancel_description">Annulla</string>
      <string name="crop_done_description">Eseguito</string>
-     <string name="crop_title_study">Taglia la foto</string>
      <string name="crop_title_translation">Seleziona il testo da tradurre</string>
      <string name="document_color_picture">Colore</string>
      <string name="document_color_picture_tip">Conversione colore…</string>
@@ -56,16 +54,9 @@
      <string name="email">Email:</string>
      <string name="error_camera_disabled">"L'accesso alla fotocamera è stato negato per motivi di sicurezza"</string>
      <string name="error_cannot_connect_camera">Impossibile accedere alla fotocamera</string>
-     <string name="error_day_limit">Troppi tentativi in 1 giorno</string>
-     <string name="error_empty_result">Impossibile trovare risultati</string>
      <string name="error_get_image">"Errore nell'acquisizione dell'immagine"</string>
-     <string name="error_hour_limit">Troppi tentativi in 1 ora</string>
-     <string name="error_image_error">Impossibile riconoscere foto</string>
-     <string name="error_invalid_request">Errore di autenticazione</string>
      <string name="error_media_storage_failure">Impossibile salvare la foto</string>
-     <string name="error_minute_limit">Troppi tentativi in 1 minuto</string>
      <string name="error_permissions">Scanner non ha i permessi richiesti per funzionare normalmente. Per continuare controlla i permessi sulle Impostazioni.</string>
-     <string name="error_server_error">Errore del server</string>
      <string name="feed_search_fail">Nessun risultato, riprova</string>
      <string name="feedback_description_camera_access">Scanner non può connettersi alla fotocamera</string>
      <string name="feedback_description_save_photo">Impossibile salvare foto o video</string>
@@ -79,7 +70,6 @@
      <string name="keywords_search_document">Scanner;Scansiona documento;Scansiona documenti;OCR;Scansiona testo;Scansiona</string>
      <string name="keywords_search_settings">Scanner;Impostazioni di rete Scanner</string>
      <string name="keywords_search_shopping">Shopping;Scanner;Scansiona prodotti;Scansiona prodotto;Controlla prezzo;Prodotti;Taobao;Tmall;Prezzi;Shopping online</string>
-     <string name="keywords_search_study">Scanner;Problemi;Risolvi problemi;Compiti;Scuola;Fisica;Chimica;Matematica;Algebra;Inglese;Storia;Cinese</string>
      <string name="keywords_search_translation">Scanner;Traduci;Dizionario;Inglese;Lingua straniera;Lingua;Lingue;Inglese a Cinese;Italiano;Tedesco;Giapponese;Coreano;Spagbolo;Francese;Traduzione Baidu;Dizionario Youdao;Dizionario Baidu;Dizionario Google</string>
      <string name="label_choose_picture">Scegli immagine</string>
      <string name="label_flash_light">Torcia</string>
@@ -101,7 +91,6 @@
      <string name="module_title_code">Codice QR</string>
      <string name="module_title_document">Documento</string>
      <string name="module_title_shopping">Shopping</string>
-     <string name="module_title_study">Studio</string>
      <string name="module_title_translation">Traduci</string>
      <string name="name">Nome:</string>
      <string name="nickname">Nickname:</string>
@@ -140,12 +129,6 @@
      <string name="shopping_title">Acquisisci foto del prodotto</string>
      <string name="shopping_vendor_info">Offerto da Taobao</string>
      <string name="spaceIsLow_content">Spazio su memoria interna insufficiente. Liberane un pò.</string>
-     <string name="study_report_title">Segnala</string>
-     <string name="study_rotate_picture">Elaborazione foto</string>
-     <string name="study_scan_result">Risultato</string>
-     <string name="study_searching">Ricerca risultati</string>
-     <string name="study_title">Acquisisci foto del problema</string>
-     <string name="study_vendor_info">Offerto da Master Learner</string>
      <string name="switch_open">Attiva</string>
      <string name="title">Titolo:</string>
      <string name="translation_language_chinese">Cinese</string>
@@ -168,7 +151,6 @@
      <string name="url_is_unknown">Impossibile verificare se il sito web è sicuro</string>
      <string name="url_is_unsafety">Questo sito web non è sicuro</string>
      <string name="vender_info_translation_kingsoft">Offerto da Kingsoft</string>
-     <string name="view_study_report">Visualizza resoconto</string>
      <string name="web">Sito web:</string>
      <string name="website_details">Sito web:</string>
      <string name="weixin_code_tip">Prego usa WeChat per scansionare questo codice QR</string>

@@ -283,6 +283,7 @@ se se dimenticata"</string>
      <string name="apps_item_virus_summary_uninstalled">Apk</string>
      <string name="apps_list_header_title_sms">Controlla app messaggi</string>
      <string name="apps_list_header_title_sms_access">Limita accesso ai codici di verifica</string>
+     <string name="ask_create_shortcut">Vuoi creare un collegamento sulla schermata Home?</string>
      <string name="auto_atsk_condition_battery_level_text_down">Quando la batteria raggiunge il %s</string>
      <string name="auto_atsk_condition_battery_level_text_up">Quando al batteria è carica al %s</string>
      <string name="auto_back_booster">Interrompo il potenziamento</string>
@@ -486,6 +487,7 @@ se se dimenticata"</string>
      <string name="card_main_deepclean_wechat_action">Cancella</string>
      <string name="card_main_deepclean_wechat_summary">Cancella cache WeChat per liberare spazio di archiviazione</string>
      <string name="card_main_deepclean_wechat_title">Cache WeChat</string>
+     <string name="card_main_gamebooster_summary">Migliora la stabilità della connessione per i giochi</string>
      <string name="card_main_gamebooster_title">Turbo videogiochi</string>
      <string name="card_main_hbassistant_summary">Utilizza questo strumento per ottimizzare la velocità dei giochi</string>
      <string name="card_main_hbassistant_title">Turbo videogiochi</string>
@@ -622,7 +624,6 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="dialog_roaming_warning_checkbox">Non mostrare di nuovo</string>
      <string name="dialog_roaming_warning_message">"L'operatore ti addebiterà il costo dell'operazione dopo aver abilitato i dati roaming internazionali. Attivare comunque?"</string>
      <string name="dialog_roaming_warning_ok">Attiva</string>
-     <string name="dialog_text">Crea un collegamento in Home per Turbo videogiochi</string>
      <string name="dialog_title_attention">Attenzione</string>
      <string name="dialog_title_auto_start_declare">"Info sull'avvio automatico"</string>
      <string name="dialog_title_stop_virus_scan">Ferma scansione antivirus</string>
@@ -682,8 +683,6 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="do_clean">Pulizia…</string>
      <string name="domestic_roaming_setting">Roaming nazionale</string>
      <string name="dont_bore">Non permettere chetasti e notifiche di distraggano</string>
-     <string name="dont_bore_text">Silenzia le notifiche e disattiva i tasti per evitare distrazioni</string>
-     <string name="dont_bore_title">Modalità non disturbare</string>
      <string name="download">Scaricate</string>
      <string name="downloading">Scaricamento</string>
      <string name="dual_setting_simcard1">SIM 1</string>
@@ -755,6 +754,12 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="firewall_wifi">Wi-Fi</string>
      <string name="firewall_wifi_dialog_message">"L'app installata non potrà collegarsi a internet utilizzando la rete Wi-Fi quanto questa funzionalità è disattivata.​"</string>
      <string name="five_percent_total_pkg">%s (5%% di dati mensili)</string>
+     <string name="fod_authentication_shift_button">Annulla</string>
+     <string name="fod_button_finger">Utilizza impronta</string>
+     <string name="fod_button_password">Immetti password</string>
+     <string name="fod_finger_notice_title">Piazza il tuo dito sullo schermo</string>
+     <string name="fod_finger_windows_tips">Verifica la tua impronta</string>
+     <string name="fod_tips_split_screen_more_than_half">Immetti password</string>
      <string name="forbid_autobright_summary">La luminosità dello schermo rimarrà costante durante il gioco</string>
      <string name="forbid_autobright_title">Correggi luminosità schermo</string>
      <string name="foreground_traffic">Primo piano %s</string>
@@ -785,13 +790,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="game_booster_tab_top">In cima</string>
      <string name="game_booster_title">Accelera</string>
      <string name="game_bootser_tab_settings">Impostazioni di accelerazione</string>
-     <string name="game_improve_text1">Cancella la cache in background e libera memoria per il gioco</string>
-     <string name="game_improve_text2">Cancella la cache in background e libera memoria per il gioco migliorando le prestazioni della CPU</string>
-     <string name="game_improve_title">Ottimizza le prestazioni</string>
      <string name="game_more_improve">Limita le attività in background e la velocità di download per risparmiare batteria e banda per il gioco</string>
-     <string name="game_net_text1">Limita la velocità di download in background per diminuire la latenza</string>
-     <string name="game_net_text2">"Migliora la velocità di connessione di gioco mentre limita la velocità di download in background per diminuire la latenza</string>
-     <string name="game_net_title">Ottimizza velocità di connessione</string>
      <string name="game_setting">Impostazioni di gioco</string>
      <string name="gamebooster_lowbattery_notification_summary">Carica il dispositivo prima che si spenga.</string>
      <string name="gamebooster_lowbattery_notification_title">Batteria inferiore al 5%%</string>
@@ -807,10 +806,21 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gateway_exception_summary2">"Impossibile connettersi al server"</string>
      <string name="gateway_exception_title">Test router</string>
      <string name="gb_ad_game_size">MB</string>
+     <string name="gb_create_icon_summary">Crea collegamento su schermata Home</string>
      <string name="gb_cutoff">|</string>
      <string name="gb_description_image_button_answer">Rispondi</string>
      <string name="gb_description_image_button_reject">Rifiuta</string>
      <string name="gb_description_image_button_video_answer">Video chiamata</string>
+     <string name="gb_first_window_antimsg_summary_quick_answer">Utilizza risposte rapide</string>
+     <string name="gb_first_window_antimsg_summary_transparent_show">Visualizza testo su sfondo trasparente</string>
+     <string name="gb_first_window_antimsg_title">Notifiche importanti</string>
+     <string name="gb_first_window_gamebox_summary_four">Pulisci cache, salva schermate e registrazioni dello schermo</string>
+     <string name="gb_first_window_gamebox_summary_six">Utilizza risposte rapide, salva schermate e registrazioni</string>
+     <string name="gb_first_window_handsfree_summary">Attiva altoparlanti automaticamente</string>
+     <string name="gb_first_window_handsfree_title">Chiamate a mani libere</string>
+     <string name="gb_first_window_start">Inizia a giocare</string>
+     <string name="gb_first_window_summary">Migliora la velocità e le prestazioni a livello di sistema</string>
+     <string name="gb_first_window_title">Turbo videogiochi</string>
      <string name="gb_get_gift_right_now">Registrati ora</string>
      <string name="gb_have_signed">Registrato oggi</string>
      <string name="gb_msg_completely_shielded">Nascondi messaggi</string>
@@ -832,7 +842,7 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="gb_xunyou_gift_type_one">Incremento Xunyou 1-giorno</string>
      <string name="gb_xunyou_gift_type_three">Incremento Xunyou 3-giorni</string>
      <string name="gb_xunyou_gift_type_two">Incremento Xunyou 2-giorni</string>
-     <string name="gdpr_msg"><Data>Per utilizzare le funzionalità di base dell'app Sicurezza, dovrai accettare il raccoglimento e l\'elaborazione dei tuoi dati da parte di Xiaomi, incluse le informazioni sulle modalità di utilizzo delle funzionalità di Sicurezza (ad esempio, statistiche sull'utilizzo dei dati mobili, informazioni sui malware, nonché informazioni di base sul dispositivo) e altri tipi di informazioni specificate nella nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a>.</Data></string>
+     <string name="gdpr_msg">"Per utilizzare le funzionalità di base dell\'app Sicurezza, dovrai accettare il raccoglimento e l\'elaborazione dei tuoi dati da parte di Xiaomi, incluse le informazioni sulle modalità di utilizzo delle funzionalità di Sicurezza (ad esempio, statistiche sull\'utilizzo dei dati mobili, informazioni sui malware, nonché informazioni di base sul dispositivo) e altri tipi di informazioni specificate nella nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a>."</string>
      <string name="ge">Uno</string>
      <string name="get_sys_info">Recupero informazioni…</string>
      <string name="gigabyteShort">GB</string>
@@ -922,8 +932,6 @@ Il tuo operatore potrebbe addebitarti costi aggiuntivi se attivi di nuovo la ret
      <string name="installing">Installazione</string>
      <string name="international_Ad">Ad</string>
      <string name="international_roaming_setting">Roaming dati</string>
-     <string name="intro_improve">Ottimizza la tua esperienza di gioco a livello di sistema</string>
-     <string name="intro_skip">Salta</string>
      <string name="ip_address_exception_summary">"Impossibile ottenere l'indirizzo IP. Se questo succede di nuovo considera l'uso di un indirizzo IP statico."</string>
      <string name="item_app_permission">Permessi app</string>
      <string name="item_dev_mode">Opzioni sviluppatore</string>
@@ -1051,6 +1059,7 @@ dall'operatore"</string>
      <string name="main_toolbar_statistic">Statistiche utilizzo dati</string>
      <string name="main_used_bill">%s CNY</string>
      <string name="man_add_application">Aggiungi manualmente app in avvio automatico</string>
+     <string name="manage_hybrid_permissions">Gestisci i permessi delle app</string>
      <string name="managed_user_title">Tutte le app di lavoro</string>
      <string name="manual_input_free_traffic">Imposta utilizzo dati fuori soglia</string>
      <string name="manual_input_traffic">Imposta utilizzo dati</string>
@@ -1131,10 +1140,28 @@ dall'operatore"</string>
      <string name="menu_report">Segnala errore</string>
      <string name="menu_setting_traffic">Imposta manualmente</string>
      <string name="menu_sms">Invia messaggio</string>
+     <string name="menu_summary_antispam">Blocca chiamate e messaggi</string>
+     <string name="menu_summary_antispam_2">Chiamate e messaggi bloccati</string>
+     <string name="menu_summary_antivirus">Cerca virus sul tuo dispositivo</string>
+     <string name="menu_summary_antivirus_2">Trovati potenziali rischi</string>
+     <string name="menu_summary_antivirus_3">Dispositivo non ancora scansionato</string>
+     <string name="menu_summary_app_manager">Aggiorna o disinstalla le app</string>
+     <string name="menu_summary_app_manager_2">Aggiornamenti disponibili</string>
+     <string name="menu_summary_garbage_cleanup">Nessun file trovato</string>
+     <string name="menu_summary_garbage_cleanup_2">Dimensione pulizia</string>
+     <string name="menu_summary_garbage_cleanup_3">Pulisci ora</string>
+     <string name="menu_summary_networkassistants">Gestisci il tuo piano dati</string>
+     <string name="menu_summary_networkassistants_2">Hai superato il limite</string>
+     <string name="menu_summary_networkassistants_3">Hai abbastanza traffico dati</string>
+     <string name="menu_summary_networkassistants_4">Sei a corto di traffico dati</string>
+     <string name="menu_summary_power_manager">"Il risparmio batteria ti fornirà più tempo tra una ricarica e l'altra"</string>
+     <string name="menu_summary_power_manager_1">La batteria è pienamente carica</string>
+     <string name="menu_summary_power_manager_2">%s rimanengi</string>
+     <string name="menu_summary_power_manager_3">Connetti caricatore</string>
+     <string name="menu_summary_power_manager_4">%s al termine</string>
      <string name="menu_text_antispam">Blacklist</string>
      <string name="menu_text_antivirus">Antivirus</string>
      <string name="menu_text_garbage_cleanup">Pulizia</string>
-     <string name="menu_text_garbage_cleanup_danger">%s oltre</string>
      <string name="menu_text_license_manager">Permessi</string>
      <string name="menu_text_networkassistants">Utilizzo dati</string>
      <string name="menu_text_networkassistants_danger">%s oltre soglia</string>
@@ -1146,8 +1173,6 @@ dall'operatore"</string>
      <string name="menu_text_optimize_manage">Aumenta velocità</string>
      <string name="menu_text_power_manager">Gestione energetica</string>
      <string name="menu_text_power_percent">%s</string>
-     <string name="menu_text_power_percent_title">Batteria %s</string>
-     <string name="menu_text_power_percent_title_default">Batteria</string>
      <string name="menu_wh_remove">Rimuovi dalle eccezioni</string>
      <string name="menu_white">Eccezione</string>
      <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
@@ -1229,6 +1254,8 @@ dall'operatore"</string>
      <string name="network_speed_for_apps_title">Connessione</string>
      <string name="network_speed_for_apps_total">Velocità di connessione</string>
      <string name="network_test_speed">Prova la velocità Wi-Fi</string>
+     <string name="network_traffic_warning_text">"La MIUI non è in grado di calcolare qui le statistiche sull'utilizzo dei dati per le singole app di sistema. Sarai in grado di visualizzare le informazioni relative all'utilizzo dei dati nei dettagli dell'app nel caso in cui quest'app utilizzi attivamente i dati mobili."</string>
+     <string name="network_traffic_warning_title">Utilizzo dati per app di sistema</string>
      <string name="networkchanged_exception_summary">La connessione è cambiata. Riprova.</string>
      <string name="networkchanged_exception_title">Connessione cambiata</string>
      <string name="never">Solo una volta</string>
@@ -1679,8 +1706,6 @@ Questa attività riduce la durata della batteria."</string>
      <string name="safe_result_item_info_system_version">"Sistema aggiornato all'ultima versione"</string>
      <string name="safepay_alert_dialog_button_continue">Procedi</string>
      <string name="safepay_alert_dialog_button_fix">Correggi</string>
-     <string name="save_energy_text">"Limita l'avvio automatico e sincronizza per le app in background per ottenere il massimo dalla batteria"</string>
-     <string name="save_energy_title">Ottimizza batteria</string>
      <string name="sc_allow_network_dialog_message">Questa applicazione deve utilizzare la connessione internet per funzionare correttamente.</string>
      <string name="sc_allow_network_dialog_tiltle">Impossibile utilizzare questa funzionalità</string>
      <string name="sc_system_risk_fix_info_xspace">Il rischio non può essere eliminato in questo spazio, passa allo spazio del proprietario per risolvere.</string>
@@ -2287,5 +2312,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="xunyou_net_booster_detail">Usa i servizi di accelerazione Xunyou per i tuoi giochi</string>
      <string name="xunyou_pay_webview">Servizi Xunyou</string>
      <string name="xunyou_server_expired">Sessione scaduta.</string>
+     <string name="yuan">CNY</string>
      <string name="zhifubao_not_found">Applicazione non installata o versione troppo vecchia</string>
 </resources>
