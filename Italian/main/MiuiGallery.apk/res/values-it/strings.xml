@@ -54,7 +54,7 @@
      <string name="album_name_people">Persone</string>
      <string name="album_name_recent_discovery">Recenti</string>
      <string name="album_name_tags">Tag</string>
-     <string name="album_notes">Notes</string>
+     <string name="album_notes">Note</string>
      <string name="album_others_share_baby_info_format">Album bambino da %s</string>
      <string name="album_others_share_info_format">Da %s</string>
      <string name="album_owner_share">Le mie condivisioni</string>
@@ -845,7 +845,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="fast_share_auto_render">Filtro bellezza</string>
      <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
      <string name="feature_guidance_photo_effects">Effetti foto</string>
-     <string name="feature_guidance_video_editor_smart_effects">New effects are available</string>
+     <string name="feature_guidance_video_editor_smart_effects">Sono disponibili nuovi effetti</string>
      <string name="filter_bi_memory">Memoria</string>
      <string name="filter_bi_mono">Mono</string>
      <string name="filter_bi_pink">Rosa</string>
@@ -1182,9 +1182,9 @@ per personalizzare la Galleria"</string>
      <string name="photo_print_package_installing">Caricamento plug-in…</string>
      <string name="photo_save_to_msg">Salvato in %s</string>
      <string name="photomovie_audio_custom">Locale</string>
-     <string name="photomovie_audio_default">Memory</string>
-     <string name="photomovie_audio_kawaii">Romantic</string>
-     <string name="photomovie_audio_light">Ballad</string>
+     <string name="photomovie_audio_default">Memoria</string>
+     <string name="photomovie_audio_kawaii">Romantico</string>
+     <string name="photomovie_audio_light">Ballata</string>
      <string name="photomovie_audio_linear">Rock</string>
      <string name="photomovie_audio_none">Nessuno</string>
      <string name="photomovie_audio_soft">Ukulele</string>
@@ -1210,11 +1210,11 @@ per personalizzare la Galleria"</string>
      <string name="photomovie_tab_music">Musica</string>
      <string name="photomovie_tab_template">Modello</string>
      <string name="photomovie_template_default">Lento</string>
-     <string name="photomovie_template_kawaii">Charms</string>
-     <string name="photomovie_template_light">Breeze</string>
-     <string name="photomovie_template_linear">Roadtrip</string>
-     <string name="photomovie_template_soft">Youth</string>
-     <string name="photomovie_template_sport">Vigor</string>
+     <string name="photomovie_template_kawaii">Fascino</string>
+     <string name="photomovie_template_light">Brezza</string>
+     <string name="photomovie_template_linear">Viaggio</string>
+     <string name="photomovie_template_soft">Gioventù</string>
+     <string name="photomovie_template_sport">Vigore</string>
      <string name="pick_from_contact">Scegli dai contatti</string>
      <string name="pick_too_many_recipients">Troppi destinatari</string>
      <string name="picker_cancel_download">Annulla download</string>
@@ -1227,7 +1227,7 @@ per personalizzare la Galleria"</string>
      <string name="picker_image_will_download">%d delle foto selezionate non sono sul dispositivo, download in corso</string>
      <string name="picker_no_network_message">Rete non disponibile, collegati alla rete e procedi con il download</string>
      <string name="picker_origin_need_download">%1$d delle foto selezionate non sono sul dispositivo (%2$d MB). Scaricare utilizzando la rete dati cellulare?</string>
-     <string name="picker_origin_request_progress_message">Preparing original files (%1$d/%2$d)…</string>
+     <string name="picker_origin_request_progress_message">Preparazione file originali (%1$d/%2$d)…</string>
      <string name="picker_title_format">Seleziona da %1$d a %2$d foto</string>
      <string name="picker_title_selection_format">%d selezionate</string>
      <string name="picker_title_selection_format_multiple">Seleziona da %1$d a %2$d foto (%3$d selezionate)</string>
@@ -1340,7 +1340,7 @@ per personalizzare la Galleria"</string>
      <string name="search_net_error">Errore della rete. Connettiti ad una rete differente e riprova.</string>
      <string name="search_request_applied">Applicato</string>
      <string name="search_request_open">Unisciti al team di test</string>
-     <string name="search_request_requesting">Applied. Wait a while before you start.</string>
+     <string name="search_request_requesting">"Applicato. Attendi un po' prima dell'avvio."</string>
      <string name="search_result_empty">Nessun risultato</string>
      <string name="search_retry">Prova di nuovo</string>
      <string name="search_select_network">Seleziona rete</string>
@@ -1375,7 +1375,7 @@ per personalizzare la Galleria"</string>
      <string name="secret_reason_too_large">File troppo grande</string>
      <string name="secret_reason_type_not_support">Tipo di file non supportato</string>
      <string name="secret_reason_unknow_reasons">Errore sconosciuto</string>
-     <string name="secret_reason_video_not_support">"Can't add videos to hidden album"</string>
+     <string name="secret_reason_video_not_support">Impossibile aggiungere video ad un album nascosto</string>
      <string name="see_ignore_faces">Mostra le persone ignorate</string>
      <string name="select_item_face">"Le foto potrebbero essere '%s'"</string>
      <string name="select_origin_tip">File originale (%s)</string>
@@ -1617,7 +1617,7 @@ per personalizzare la Galleria"</string>
      <string name="video_editor_unsupport_audio_file">File audio non supportato</string>
      <string name="video_editor_unzip_file_fail">Impossibile estrarre video.</string>
      <string name="video_editor_video_is_short">Impossibile modificare video.</string>
-     <string name="video_editor_video_loading">Preparing video,Wait a second or two and try again.</string>
+     <string name="video_editor_video_loading">Preparazione video. Attendi un secondo o due e riprova.</string>
      <string name="video_editor_watermark">Filigrana</string>
      <string name="video_err">Impossibile riprodurre il video.</string>
      <string name="video_not_exist">Video inesistente</string>
