@@ -167,7 +167,7 @@
      <string name="app_manager_details_electric_title">Batteria</string>
      <string name="app_manager_details_storage_title">Archivio</string>
      <string name="app_manager_details_title">Info app</string>
-     <string name="app_manager_details_traffic_title">Utilizzo dati mobile</string>
+     <string name="app_manager_details_traffic_title">Utilizzo dati mobili</string>
      <string name="app_manager_disable">Non consentire</string>
      <string name="app_manager_disable_dlg_text">Se disattivi questa app, altre app potrebbero non funzionare correttamente.</string>
      <string name="app_manager_disable_dlg_title">"Disattivare l'app di sistema?"</string>
@@ -197,7 +197,7 @@
      <string name="app_manager_mobile_slot1">Mobile data (SIM 1)</string>
      <string name="app_manager_mobile_slot2">Mobile data (SIM 2)</string>
      <string name="app_manager_net_control_title">Utilizzo dati</string>
-     <string name="app_manager_net_mobile">Mobili</string>
+     <string name="app_manager_net_mobile">Mobile</string>
      <string name="app_manager_net_wifi">Wi-Fi</string>
      <string name="app_manager_not_allow">No</string>
      <string name="app_manager_notify_bar">Badge</string>
@@ -1056,7 +1056,7 @@ dall'operatore"</string>
      <string name="main_toolbar_internet_by_pc_brige">Internet USB</string>
      <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
      <string name="main_toolbar_purchase">Ricarica</string>
-     <string name="main_toolbar_statistic">Statistiche su utilizzo di dati</string>
+     <string name="main_toolbar_statistic">Statistiche di utilizzo dati</string>
      <string name="main_used_bill">%s CNY</string>
      <string name="man_add_application">Aggiungi manualmente app in avvio automatico</string>
      <string name="manage_hybrid_permissions">Gestisci i permessi delle app</string>
@@ -1589,8 +1589,8 @@ Questa attività riduce la durata della batteria."</string>
      <string name="pref_title_over_traffic_limit_warning">Quando superato</string>
      <string name="pref_title_traffic_limit_number">Dimensione</string>
      <string name="pref_title_traffic_speed_state">Mostra velocità di rete</string>
-     <string name="pref_title_update_notification">Mostra utilizzo di dati tra le notifiche</string>
-     <string name="pref_title_upload_data_usage">Invia statistiche su utilizzo di dati</string>
+     <string name="pref_title_update_notification">Mostra utilizzo di dati nell'area notifiche</string>
+     <string name="pref_title_upload_data_usage">Invia statistiche di utilizzo dati</string>
      <string name="pref_traffic_manage_title">Utilizzo piano dati</string>
      <string name="pref_warning_values">Livello per avviso utilizzo dati</string>
      <string name="pref_whitelist_setting">Eccezioni roaming dati</string>
@@ -1766,7 +1766,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="sms_contact_block">Filtro contatti</string>
      <string name="sms_delete_hint">Eliminare tutti i messaggi bloccati inviati dai numeri selezionati?</string>
      <string name="sms_delete_title">Rimuovi Messaggio</string>
-     <string name="sms_detail_correct_success_text">"Ecco le statistiche sull'utilizzo dati della precedente calibrazione (%1$s):"</string>
+     <string name="sms_detail_correct_success_text">"Ecco le statistiche sull'utilizzo dei dati della precedente calibrazione (%1$s):"</string>
      <string name="sms_detail_fragment_title_bill">Saldo telefono</string>
      <string name="sms_detail_fragment_title_traffic">Dati rimanenti</string>
      <string name="sms_filter">Blacklist Parole</string>
@@ -2059,7 +2059,7 @@ Questa attività riduce la durata della batteria."</string>
      <string name="tc_sms_report_notify_get_failure_title">"Impossibile ricevere SMS con informazioni sull'utilizzo dei dati"</string>
      <string name="tc_sms_report_notify_get_timeout_body">Processo scaduto. Conferma con il tuo operatore che il codice di richiesta SMS sia corretto.</string>
      <string name="tc_sms_report_notify_get_timeout_title">Impossibile ricevere SMS utilizzo dati"</string>
-     <string name="tc_sms_report_receive_content">Contenuti rapporto utilizzo dati SMS (Conferma statistiche utilizzo dati)</string>
+     <string name="tc_sms_report_receive_content">Contenuti rapporto utilizzo dati SMS (Conferma statistiche di utilizzo dati)</string>
      <string name="tc_sms_report_receive_content_null">"​Aiutaci a migliorare questa funzionalità!<br/>Ecco come:<br/>1. Vai in \"Controlla il comando SMS\" e \"Numero destinatario\"<br/>2. Tocca \"Usa modello SMS\"<br/>3. Attendi per ricevere SMS dal tuo operatore <br/>4. Tocca \"Invia a MIUI\"​"</string>
      <string name="tc_sms_report_receive_num">numero destinatario</string>
      <string name="tc_sms_report_send_num">Numero operatore #</string>
