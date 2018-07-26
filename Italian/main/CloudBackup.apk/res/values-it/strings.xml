@@ -19,10 +19,10 @@
      <string name="backup_to_cloud">Backup applicazioni</string>
      <string name="btn_back">Indietro</string>
      <string name="btn_continue">Avanti</string>
-     <string name="btn_restore_abort">Cancel</string>
-     <string name="btn_restore_cancel">Cancel</string>
-     <string name="btn_restore_resume">Resume</string>
-     <string name="btn_restore_retry">Retry</string>
+     <string name="btn_restore_abort">Interrompi</string>
+     <string name="btn_restore_cancel">Annulla</string>
+     <string name="btn_restore_resume">Riprendi</string>
+     <string name="btn_restore_retry">Riprova</string>
      <string name="btn_retry">Controlla di nuovo</string>
      <string name="btn_skip">Salta questo passaggio</string>
      <string name="button_cancel">Annulla</string>
@@ -122,8 +122,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="menu_item_sort_name">Nome</string>
      <string name="menu_item_sort_size">Dimensione</string>
      <string name="miui_device_name">Android</string>
-     <string name="msg_alert_cancel_restore">Cloud backup is restoring, stop it?</string>
-     <string name="msg_alert_restore_error">Restore cloud backup failed, try again please.</string>
+     <string name="msg_alert_cancel_restore">Il backup da Cloud è in fase di ripristino, interrompere?</string>
+     <string name="msg_alert_restore_error">Ripristino backup da Cloud non riuscito, prego riprova.</string>
      <string name="name_model">%2$s di %1$s</string>
      <string name="network_error">Collegato alla rete</string>
      <string name="no_account">Accesso al Mi Account non eseguito.</string>
@@ -167,8 +167,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="start_backup_to_micloud">Esegui backup su Mi Cloud</string>
      <string name="start_recover">Ripristino %s</string>
      <string name="success_open_cloudbackup">Backup applicazioni Schermata Home attivato</string>
-     <string name="title_alert_cancel_restore">Stop restoring</string>
-     <string name="title_alert_restore_error">Restore failed</string>
+     <string name="title_alert_cancel_restore">Interrompi ripristino</string>
+     <string name="title_alert_restore_error">Ripristino non riuscito</string>
      <string name="total_space">Spazio totale: %s</string>
      <string name="try_again">Tocca per provare di nuovo</string>
      <string name="wait_icon_download">Download icona applicazione</string>
