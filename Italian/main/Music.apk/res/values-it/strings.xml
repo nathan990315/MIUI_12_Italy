@@ -35,6 +35,7 @@
      <string name="ad_mark">AD</string>
      <string name="ad_recommend">Suggerimenti AD</string>
      <string name="ad_setting">Impostazioni AD</string>
+     <string name="add_cannot_gif_list">Cannot add to playlist</string>
      <string name="add_music">Aggiungi brani</string>
      <string name="add_to_last_of_playlist">Aggiungi alla fine della playlist.</string>
      <string name="add_to_playlist_successful">Aggiunto correttamente</string>
@@ -43,6 +44,7 @@
      <string name="album_label">Album</string>
      <string name="album_name">Album</string>
      <string name="album_search_title">Album</string>
+     <string name="albun_publish_time">Publish time:%1$s</string>
      <string name="all_artist">Tutti gli artisti</string>
      <string name="all_downloads">Tutti i download</string>
      <string name="all_fileter">Tutti</string>
@@ -117,6 +119,7 @@
      <string name="can_not_find_resource">Nessuna risorsa trovata</string>
      <string name="cancel">Annulla</string>
      <string name="cancel_running_download">Annulla</string>
+     <string name="cannot_comment_try_scroll">This song can not be commented，try to scroll</string>
      <string name="cannot_reply">Questo commento non può ricevere risposte</string>
      <string name="change_download_quality">Modifica qualità download</string>
      <string name="channel_list_fragment_title">Radio</string>
@@ -139,6 +142,7 @@
      <string name="cloud_state_storage_full">Memoria telefono in esaurimento, backup in pausa</string>
      <string name="cloud_welcome_message">Backup brani</string>
      <string name="cloud_welcome_summary">Esegui il backup dei tuoi brani su Mi Cloud e ascoltali su altri dispositivi</string>
+     <string name="comment">comment</string>
      <string name="comment_action_title">"commento di %s"</string>
      <string name="comment_delete_hint">Il commento è stato eliminato</string>
      <string name="comment_format" formatted="false">%s: %s</string>
@@ -559,6 +563,7 @@ attendere o selezionare Musica Online."</string>
      <string name="more_settings_summary">Impostazioni Download, timer spegnimento, dati cellulare, filtri file, etc.</string>
      <string name="more_share">Condividi</string>
      <string name="multichoice">Seleziona</string>
+     <string name="multiple_select">Multiple choice</string>
      <string name="music_browser_label">Musica</string>
      <string name="music_filter">Filtra file audio</string>
      <string name="music_service">Servizio Musica</string>
@@ -632,6 +637,7 @@ attendere o selezionare Musica Online."</string>
      <string name="nowplaying_circle_style_rainbow">Arcobaleno</string>
      <string name="nowplaying_circle_style_wave">Onda</string>
      <string name="nowplaying_dialog_title_delete_tracks">Rimuovere dalla playlist?</string>
+     <string name="nowplaying_find_more">Find More</string>
      <string name="nowplaying_menu_item_delete">Elimina</string>
      <string name="nowplaying_scroll_try">Prova scrolling</string>
      <string name="ok">OK</string>
@@ -681,7 +687,11 @@ attendere o selezionare Musica Online."</string>
      <string name="permission_declaration_negative_text">Più tardi</string>
      <string name="permission_declaration_positive_text">Vai in Sicurezza</string>
      <string name="permission_declaration_title">Concedi accesso</string>
+     <string name="play_all"><Data>Play all&lt;font color=#999999>（%1$d）&lt;/font></Data></string>
      <string name="play_all_song">Riproduci tutti</string>
+     <string name="play_mode_circle">Circle Mode</string>
+     <string name="play_mode_shuffle">Shuffle Mode</string>
+     <string name="play_mode_single">Single Mode</string>
      <string name="play_next">Riproduci dopo.</string>
      <string name="playback_failed_no_title_by_bad_file">Il brano non può essere riprodotto, formato non supportato.</string>
      <string name="playlist_deleted_message">Playlist eliminata</string>
@@ -850,8 +860,10 @@ attendere o selezionare Musica Online."</string>
      <string name="sleep_mode_canceled">Timer spegnimento annullato</string>
      <string name="sleep_mode_summary">Termina la riproduzione dopo un certo periodo</string>
      <string name="sleep_mode_title">Timer spegnimento</string>
-     <string name="sleep_quit_warning">Minuti rimanenti</string>
      <string name="song_exist_in_playlist">Operazione fallita. Il brano è già nella playlist.</string>
+     <string name="song_group_float_save_picture">Save picture</string>
+     <string name="song_group_float_save_picture_success">Saved successfully</string>
+     <string name="song_group_float_to_save_picture">Saved to %1$s</string>
      <string name="song_is_empty">Il nome del brano non può essere vuoto.</string>
      <string name="song_name">Brano</string>
      <string name="song_not_find">"Nessun brano trovato. Verifica la connessione di rete e riprova."</string>
@@ -911,12 +923,14 @@ attendere o selezionare Musica Online."</string>
      <string name="talkback_mode_repeat_shuffle">Modalità riproduzione randomica</string>
      <string name="talkback_more">Altri menù</string>
      <string name="talkback_next">Prossimo brano</string>
+     <string name="talkback_next_play">Play Next</string>
      <string name="talkback_nowplaying_bar">Barra riproduzione</string>
      <string name="talkback_nowplaying_circle">Cerchio riproduzione</string>
      <string name="talkback_play">Riproduci/Pausa</string>
      <string name="talkback_pre">Brano precedente</string>
      <string name="talkback_progress">Barra di progresso</string>
      <string name="talkback_radar">Riconoscimento musica</string>
+     <string name="talkback_remove_list">Remove From List</string>
      <string name="talkback_search">Cerca</string>
      <string name="talkback_share">Condividi</string>
      <string name="talkback_unlike">Non Mi Piace</string>
@@ -925,6 +939,7 @@ attendere o selezionare Musica Online."</string>
      <string name="ticket_summary">Compra i biglietti per spettacoli, concerti, opere ed altri eventi</string>
      <string name="ticket_title">Mostra biglietti</string>
      <string name="time_to_upgrade">"Aggiorna all'ultima versione di Mi Music"</string>
+     <string name="title_album_list">Album</string>
      <string name="title_online_artist">Artisti del momento</string>
      <string name="title_online_billboard">Classifiche</string>
      <string name="title_online_fm">Radio</string>
@@ -933,6 +948,7 @@ attendere o selezionare Musica Online."</string>
      <string name="title_online_release">Novità</string>
      <string name="title_online_song">Brani più richiesti</string>
      <string name="title_online_suggest">Potrebbe piacerti</string>
+     <string name="title_play_list">Playlist</string>
      <string name="title_search_history">Cronologia</string>
      <string name="title_search_hot">Più richiesti</string>
      <string name="to_be_downloaded">IN SOSPESO</string>
