@@ -9,5 +9,5 @@
     <string name="bluetooth_ask_enablement_and_lasting_discovery">Un app vuole attivare il Bluetooth e rendere visibile agli altri dispositivi. Puoi modificare nelle impostazioni Bluetooth.</string>
     <string name="bluetooth_ask_lasting_discovery">Un app vuole rendere il tuo telefono visibile ad altri dispositivi Bluetooth. Puoi modificare nelle impostazioni Bluetooth.</string>
 	<string name="battery_summary">"%1$d%%  utilizzo dall'ultima ricarica completa"</string>
-	<string name="app_permissions_summary">%d di %d app consentono un accesso aggiuntivo</string>
+	<string name="app_permissions_summary" formatted="false">%d di %d app consentono un accesso aggiuntivo</string>
 </resources>
