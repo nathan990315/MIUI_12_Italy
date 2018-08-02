@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about_hide_mode">Informazioni su Risparmio Batteria MIUI</string>
+     <string name="active_classify">classify by active state</string>
      <string name="app_list_title">Scegli applicazioni</string>
      <string name="app_name">Risparmio batteria</string>
      <string name="app_preload_policies_summary">"Usa l'apprendimento macchina per predirre quali app avranno maggiore probabilità di essere utilizzate, e carica le risorse in anticipo."</string>
      <string name="app_preload_policies_title">Pre-caricamento AI</string>
+     <string name="appconfig_active_app_dialog_title">Active app config management</string>
      <string name="base_info">Info base</string>
      <string name="cloud_addr_info">Modalità oscuramento info cloud</string>
      <string name="cloud_china_addr">Aggiorna dati server cinese</string>
      <string name="cloud_international_addr">Aggiorna dati server internazionale</string>
      <string name="cloud_staging_addr">Aggiorna dati server</string>
+     <string name="config_classify">classify by configure</string>
      <string name="config_description">MIUI è in grado di identificare app con specifici processi in background (es. app messaggi e navigazione, lettori musicali) ed utilizzare il risparmio batteria in modo che non interferisca con importanti processi in background.</string>
      <string name="config_mode_title">Impostazioni background</string>
      <string name="config_no_restrict_description">"Il risparmio batteria non limiterà l'attività dell'app"</string>

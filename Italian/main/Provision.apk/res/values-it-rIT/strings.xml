@@ -3,6 +3,8 @@
      <string name="accessibility_enabled">Accessibilità attivata.</string>
      <string name="agree">OK</string>
      <string name="agree_terms">Ho letto e accetto i Termini e le Condizioni</string>
+     <string name="agree_terms_input_method_facemoji">"I've read and agreed to Facemoji Privacy Policy."</string>
+     <string name="agree_terms_input_method_kika">"I've read and agreed to Kika Privacy Policy."</string>
      <string name="app_name">Introduzione</string>
      <string name="application_permissions">Permessi Applicazioni</string>
      <string name="back">Indietro</string>
@@ -84,9 +86,19 @@ Devi accettare le Condizioni del Servizio e i Termini sulla Privacy prima di uti
      <string name="terms_of_use_label_gms">"La tua privacy è molto importante per noi. Leggi i nostri Termini di Servizio e l'Informativasulla Privacy per capire quali informazioni raccogliamo, come le utilizziamo e quali sono le tue opzioni in merito.
 
 Devi accettare i Termini di Servizio e l'Informativa sulla Privacy per utilizzare MIUI. I servizi Mi, i servizi di attivazione della Mi SIM, Mi Cloud, Trova telefono, schermata Home, Game center, MAB ,MiuiDaemon ed i componenti di sistema MSA, app web, schede rapide, statistiche, schede smart, Mi Link, Mi Account ed i componenti dei servizi Google Play si collegheranno ad Internet e individueranno la tua posizione."</string>
+     <string name="terms_of_use_label_systemhelper">Self-registered service</string>
+     <string name="terms_of_use_lable_default_input_method_facemoji">"
+
+You must agree to Facemoji Privacy Policy before using this feature."</string>
+     <string name="terms_of_use_lable_default_input_method_kika">"
+
+You must agree to Kika Privacy Policy before using this feature."</string>
+     <string name="terms_privacy_policy_input_method_facemoji">Facemoji Privacy Policy</string>
+     <string name="terms_privacy_policy_input_method_kika">Kika Privacy Policy</string>
      <string name="title_fingerprint">Aggiungi la tua impronta</string>
      <string name="user_agreement">Condizioni del Servizio</string>
      <string name="voice_assist_desp">Pronuncia \"Mi AI\" davanti al telefono. Mi AI riconoscerà la tua voce e sarà in grado di controllare il tuo dispositivo.</string>
+     <string name="voice_assist_desp_screen_light">After the screen lights up, say \"Mi AI\" into your phone. Mi AI will recognize your voice and will be able to control your device.</string>
      <string name="voice_assist_title">Attiva con la voce</string>
      <string name="welcome">Benvenuto</string>
 </resources>

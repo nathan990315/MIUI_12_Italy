@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-    <plurals name="app_settings_disabled_header_title">
+     <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">Allowed %d permissions</item>
+        <item quantity="one">Allowed %d permission</item>
+     </plurals>
+     <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Ask for %d permissions</item>
+        <item quantity="one">Ask for %d permission</item>
+     </plurals>
+     <plurals name="app_settings_disabled_header_title">
         <item quantity="other">%s app non possono mostrare notifiche</item>
         <item quantity="one">1 app non può mostrare notifiche</item>
-    </plurals>
-    <plurals name="app_settings_enabled_header_title">
+     </plurals>
+     <plurals name="app_settings_enabled_header_title">
         <item quantity="other">%s app possono mostrare notifiche</item>
         <item quantity="one">1 app può mostrare notifiche</item>
-    </plurals>
+     </plurals>
+     <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d permissions</item>
+        <item quantity="one">%d permission</item>
+     </plurals>
 </resources>

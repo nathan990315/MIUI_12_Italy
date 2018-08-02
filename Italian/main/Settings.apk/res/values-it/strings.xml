@@ -1013,7 +1013,6 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="cancel_action">Annulla</string>
      <string name="cancel_alert">Annullare le modifiche?</string>
      <string name="cancel_button">Annulla</string>
-     <string name="cancel_description">Annulla</string>
      <string name="cancel_download_buton_text">Annulla</string>
      <string name="cant_sync_dialog_message">Al momento la sincronizzazione di questo elemento non è attiva. Per modificare questa impostazione, attiva temporaneamente i dati in background e la sincronizzazione automatica.</string>
      <string name="cant_sync_dialog_title">Impossibile sincronizzare manualmente</string>
@@ -1148,7 +1147,6 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="confirm_action">OK</string>
      <string name="confirm_bind_xiaomi_account_dialog_title">Aggiungi</string>
      <string name="confirm_convert_to_fbe_warning">Vuoi veramente cancellare i dati utente e convertire in crittografia file?</string>
-     <string name="confirm_description">Conferma</string>
      <string name="confirm_download_cancelation_dialog_message">Annullare il download?</string>
      <string name="confirm_enable_oem_unlock_text">ATTENZIONE: La protezione del dispositivo non funzionalitàrà mentre questa opzione è attiva.</string>
      <string name="confirm_enable_oem_unlock_title">Consentire sblocco OEM?</string>
@@ -2759,6 +2757,9 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_lab_features">Funzionalità MIUI lab</string>
      <string name="miui_lab_gallery_search_desc">Ricerca immagini migliorata</string>
      <string name="miui_lab_gallery_search_title">Trova foto in Galleria Gallery</string>
+     <string name="miui_lab_install_drive_mode_error">"Couldn't install, try again."</string>
+     <string name="miui_lab_install_drive_mode_summary">"Car mode is a system app. Installation doesn't require internet connection."</string>
+     <string name="miui_lab_install_drive_mode_title">Install Car mode</string>
      <string name="miui_lab_settings">MIUI Lab</string>
      <string name="miui_lab_slogan">Impara. Esplora. Scopri.</string>
      <string name="miui_lab_super_resolution_desc">Rendi le immagini nitide</string>
@@ -2896,8 +2897,6 @@ ed esegui il software."</string>
      <string name="navigation_guide_app_title">"Azione per l'app"</string>
      <string name="navigation_guide_appswitch_summary">Scorri verso sinistra o verso destra dai bordi dello schermo e mantieni il tocco per un pò</string>
      <string name="navigation_guide_appswitch_title">"Passa all'app precedente"</string>
-     <string name="navigation_guide_back_anim_summary">Gesture indietro con animazione</string>
-     <string name="navigation_guide_back_anim_title">Animazione gesture indietro</string>
      <string name="navigation_guide_back_summary">Scorri a destra o sinistra sullo schermo</string>
      <string name="navigation_guide_back_title">"Ritorna all'ultima pagina"</string>
      <string name="navigation_guide_dialog_dont_show_again">Non mostrare più</string>
@@ -3280,6 +3279,7 @@ ed esegui il software."</string>
      <string name="picture_in_picture_title">Picture-in-picture</string>
      <string name="pin_failed">Operazione con PIN della SIM non riuscita.</string>
      <string name="ping_test_label">Esegui test ping</string>
+     <string name="play_pause_description">Play Pause Button</string>
      <string name="please_select_phase2">Fase 2 di autenticazione</string>
      <string name="please_type_passphrase">Password</string>
      <string name="pointer_location">Posizione puntatore</string>
@@ -4834,8 +4834,8 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>
      <string name="total">Non disturbare</string>
-     <string name="total_info">Silenzia i suoni e %1$s, eccetto per le sveglie</string>
-     <string name="total_info_sub">e disattiva la vibrazione</string>
+     <string name="total_info">Silenzia i suoni e disattiva la vibrazione, eccetto per le sveglie</string>
+     <string name="total_info_no_vibrator">Silence sounds except for the alarms</string>
      <string name="total_memory">Memoria totale</string>
      <string name="total_size">%s totale</string>
      <string name="total_size_label">Totale</string>
