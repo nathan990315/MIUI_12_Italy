@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="access_select">%s selezionati</string>
      <string name="access_unselect">%s deselezionati</string>
@@ -44,6 +44,7 @@
      <string name="alipay_sdk_tiemout">Collegamento pagamento (nessuna app richiesta)</string>
      <string name="already">Completato:</string>
      <string name="app_label">Assistente</string>
+     <string name="app_name">miot-device-lib</string>
      <string name="apps">App consigliate</string>
      <string name="apps_label">App</string>
      <string name="arrive">Arrivato</string>
@@ -58,12 +59,12 @@
      <string name="ball_basketball_rank_gb">Risultati</string>
      <string name="ball_basketball_rank_state">Stato</string>
      <string name="ball_basketball_title">Pallacanestro</string>
-     <string name="ball_basketball_total_rank">Statistiche</string>
      <string name="ball_dialog_confirm">Installa</string>
      <string name="ball_dialog_content">Installa %s per utilizzare questa funzionalità. Installare ora?</string>
      <string name="ball_dialog_tip">Non mostrare nuovamente</string>
      <string name="ball_dialog_title">"Installa prima l'app."</string>
      <string name="ball_football_news">Notizie</string>
+     <string name="ball_football_news_worldcup">More News</string>
      <string name="ball_football_rank_flat">D</string>
      <string name="ball_football_rank_lose">L</string>
      <string name="ball_football_rank_num">P</string>
@@ -74,10 +75,15 @@
      <string name="ball_football_recent">VS</string>
      <string name="ball_football_recent_end">Terminato</string>
      <string name="ball_football_recent_end_tip">Risultati</string>
+     <string name="ball_football_recent_end_worldcup">Click to see the results ></string>
      <string name="ball_football_recent_ing">In corso</string>
+     <string name="ball_football_recent_ing_worldcup">Click to watch live ></string>
      <string name="ball_football_recent_text_show">Telecronaca testuale</string>
+     <string name="ball_football_recent_text_show_youku">Live broadcast</string>
      <string name="ball_football_title">Calcio</string>
      <string name="ball_football_total_rank">Statistiche</string>
+     <string name="ball_football_total_rank_worldcup">Schedule</string>
+     <string name="ball_football_world_cup">World Cup</string>
      <string name="ball_hupu">Sport HuPu</string>
      <string name="ball_net_errot">Impossibile connettersi alla rete.</string>
      <string name="ball_recent_no_data">"Nessuna informazione sui prossimi eventi."</string>
@@ -227,7 +233,6 @@
      <string name="edit_category_dialog_title">Seleziona la categoria di pagamento</string>
      <string name="edit_comment_hint">Segna</string>
      <string name="edit_delete_dialog_message">Eliminare questa cronologia?</string>
-     <string name="edit_record_category">"Categoria: "</string>
      <string name="edit_record_label">Dettagli</string>
      <string name="empty_card_btn">Apri app</string>
      <string name="empty_card_tip">"Sembra che tu non abbia ancora eseguito l'accesso o impostato questa scheda."</string>
@@ -400,7 +405,6 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="express_setting_brief_detail">"Tieni traccia di tutti i tuoi pacchetti utilizzando il tuo numero di telefono e le informazioni sull'ordine."</string>
      <string name="express_setting_code_invalid">Assicurati di aver immesso correttamente il codice</string>
      <string name="express_setting_count_down_time">Riprova in %ds</string>
-     <string name="express_setting_dialog_authority_description">"La verifica del numero di telefono é fornita dalle pagine gialle. Le pagine gialle devono connettersi alla rete per funzionare normalmente. Sei d'accordo?"</string>
      <string name="express_setting_dialog_delete_cancel">Indietro</string>
      <string name="express_setting_dialog_delete_description">Le pagine gialle non saranno in grado di tracciare automaticamente le informazioni di consegna dopo aver eliminato il numero di telefono. Eliminare comunque?</string>
      <string name="express_setting_dialog_delete_failed">Impossibile eliminare numero di telefono</string>
@@ -412,6 +416,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="express_setting_number_invalid">Assicurati di aver inserito un numero di telefono valido</string>
      <string name="express_setting_number_save">Verifica e salva</string>
      <string name="express_setting_number_title">Aggiungi numero di telefono</string>
+     <string name="express_setting_other">Other</string>
      <string name="express_setting_phone">Permetti la richiesta di informazioni utilizzando il numero di telefono</string>
      <string name="express_setting_request_failed">Impossibile inviare la richiesta, codice di errore: %s.</string>
      <string name="express_setting_service_provider">Fornitore servizio</string>
@@ -621,6 +626,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="mi_sport">Spostamenti Xiaomi</string>
      <string name="mi_sport_go_install">Download</string>
      <string name="mi_wallet">Mi Wallet</string>
+     <string name="miot_device_card_title">mi home</string>
      <string name="miuishare_account_activate_confirmation">Attivazione richiesta</string>
      <string name="miuishare_account_activate_ok">Attiva</string>
      <string name="miuishare_account_login_cancel">Annulla</string>
@@ -665,6 +671,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="navigation_search_no_city_list">Nessuna città qui</string>
      <string name="navigation_search_positioning">Ottenimento info posizione…</string>
      <string name="navigation_search_positioning_failed">Impossibile ottenere la posizione, selezionare la città manualmente</string>
+     <string name="net_unavailable">"Couldn't connect to the network."</string>
      <string name="network_access_denied">"Impossibile connettersi alla rete, accetta prima i termini e le condizioni</string>
      <string name="network_error">Errore di rete</string>
      <string name="network_tip">Impossibile connettersi alla rete.</string>
@@ -748,13 +755,9 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="payment_record_add">Aggiungi pagamento</string>
      <string name="payment_record_delete">Elimina dai pagamenti</string>
      <string name="payment_record_empty">Ancora nessun pagamento</string>
-     <string name="payment_record_label">Dettagli</string>
      <string name="payment_record_list">Dettagli</string>
      <string name="payment_record_menu_delete">Elimina</string>
      <string name="payment_record_menu_select">Seleziona</string>
-     <string name="payment_record_new_lable">Aggiungi registrazione alla cronologia</string>
-     <string name="payment_record_recent_title">Pagamenti recenti</string>
-     <string name="payment_record_show_more">Visualizza altro</string>
      <string name="payment_report_failed_record_dialog_cancel">Indietro</string>
      <string name="payment_report_failed_record_dialog_message">"Segnala le fatture non elaborate per aiutarci a rendere il calcolo dei pagamenti più preciso.
 &lt;b&gt;Gli elementi che condividerai verranno utilizzati solo per migliorare App vault.&lt;/b&gt;"</string>
@@ -836,6 +839,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="setting_authorization_canceled_dialog_message">La MIUI non registrerà più i tuoi pagamenti e questa scheda verrà rimossa.</string>
      <string name="setting_authorization_canceled_dialog_ok">Rimuovi scheda</string>
      <string name="setting_authorization_canceled_dialog_title">Rimuovi scheda</string>
+     <string name="setting_ball_recent">Recently Added</string>
      <string name="setting_basketball_brief_detail">Guarda le informazioni, impara i risultati e segui fino a 4 squadre di pallacanestro.</string>
      <string name="setting_booking">Prenotazioni</string>
      <string name="setting_booking_brief">Treni, biglietti aerei, biglietti per il cinema e prenotazioni alberghiere</string>
