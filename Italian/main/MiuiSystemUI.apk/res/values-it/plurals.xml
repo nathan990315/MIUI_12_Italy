@@ -28,18 +28,6 @@
         <item quantity="other">Codice PUK non corretto, %d tentativi rimanenti</item>
         <item quantity="one">Codice PUK non corretto, %d tentativo rimanente</item>
      </plurals>
-     <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">Circa %d ore per fine carica</item>
-        <item quantity="one">Circa %d ora per fine carica</item>
-     </plurals>
-     <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">Circa %d minuti per fine carica</item>
-        <item quantity="one">Circa %d minuto per fine carica</item>
-     </plurals>
-     <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">Circa %1$d o %2$d m per fine carica</item>
-        <item quantity="one">Circa %1$d o %2$d m per fine carica</item>
-     </plurals>
      <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">Circa %d ore rimanenti</item>
         <item quantity="one">Circa %d ora rimanente</item>

@@ -731,6 +731,7 @@ Una volta raffreddato, funzionerà normalmente."</string>
      <string name="incorrect_pukcode">PUK non corretto</string>
      <string name="input_password_after_boot_msg">Inserisci la password per sbloccare il dispositivo</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
+     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Can't switch between spaces when parental controls are on"</string>
      <string name="input_password_after_boot_msg_must_enter_owner_space">Bisogna riavviare il dispositivo prima di poter inserire il Primo Spazio</string>
      <string name="input_password_handle_sdcard_fs">"Impossibile accedere al Secondo Spazio dalla lockscreen. Effettua l'inserimento dal Primo Spazio."</string>
      <string name="input_password_hint_text">Inserisci password</string>
@@ -950,7 +951,6 @@ Riprova tra %2$d secondi."</string>
      <string name="lockscreen_shortcut_left">Collegamento sinistro</string>
      <string name="lockscreen_shortcut_right">RCollegamento destro</string>
      <string name="lockscreen_sim_error_message_short">Scheda non valida</string>
-     <string name="lockscreen_storage_locked">Sblocca tutte le funzionalità ed i dati</string>
      <string name="lockscreen_unlock_left">Collegamento sinistro e sblocco</string>
      <string name="lockscreen_unlock_right">Collegamento destro e sblocco</string>
      <string name="long_screenshot_not_support_msg">Questa app non supporta la schermata estesa.</string>
