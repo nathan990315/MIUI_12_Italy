@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="autofill_picker_some_suggestions">
-        <item quantity="other">%1$s autofill suggestions</item>
-        <item quantity="one">One autofill suggestion</item>
+        <item quantity="other">%1$s suggerimenti di riempimento automatico</item>
+        <item quantity="one">Un suggerimento di riempimento automatico</item>
      </plurals>
      <plurals name="bugreport_countdown">
-        <item quantity="other">Cattura schermata per segnalazione bug in %d secondi.</item>
-        <item quantity="one">Cattura schermata per segnalazione bug in %d secondo.</item>
+        <item quantity="other">Cattura screenshot per segnalazione bug in %d secondi.</item>
+        <item quantity="one">Cattura screenshot per segnalazione bug in %d secondo.</item>
      </plurals>
      <plurals name="duration_days_relative">
         <item quantity="other">%d giorni fà</item>
@@ -17,12 +17,12 @@
         <item quantity="one">in %d giorno</item>
      </plurals>
      <plurals name="duration_days_shortest">
-        <item quantity="other">%dd</item>
-        <item quantity="one">%dd</item>
+        <item quantity="other">%dg</item>
+        <item quantity="one">%dg</item>
      </plurals>
      <plurals name="duration_days_shortest_future">
-        <item quantity="other">in %dd</item>
-        <item quantity="one">in %dd</item>
+        <item quantity="other">in %dg</item>
+        <item quantity="one">in %dg</item>
      </plurals>
      <plurals name="duration_hours_relative">
         <item quantity="other">%d ore fà</item>
@@ -33,12 +33,12 @@
         <item quantity="one">in %d ora</item>
      </plurals>
      <plurals name="duration_hours_shortest">
-        <item quantity="other">%dh</item>
-        <item quantity="one">%dh</item>
+        <item quantity="other">%do</item>
+        <item quantity="one">%do</item>
      </plurals>
      <plurals name="duration_hours_shortest_future">
-        <item quantity="other">in %dh</item>
-        <item quantity="one">in %dh</item>
+        <item quantity="other">in %do</item>
+        <item quantity="one">in %do</item>
      </plurals>
      <plurals name="duration_minutes_relative">
         <item quantity="other">%d minuti fà</item>
@@ -65,12 +65,12 @@
         <item quantity="one">in %d anno</item>
      </plurals>
      <plurals name="duration_years_shortest">
-        <item quantity="other">%dy</item>
-        <item quantity="one">%dy</item>
+        <item quantity="other">%da</item>
+        <item quantity="one">%da</item>
      </plurals>
      <plurals name="duration_years_shortest_future">
-        <item quantity="other">in %dy</item>
-        <item quantity="one">in %dy</item>
+        <item quantity="other">in %da</item>
+        <item quantity="one">in %da</item>
      </plurals>
      <plurals name="last_num_days">
         <item quantity="other">Ultimi %d giorni</item>
