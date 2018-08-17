@@ -135,6 +135,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
      <string name="micloud_dialog_sync_now_title">Sincronizza dati adesso usando il flusso di trasferimento</string>
      <string name="micloud_dspt">Usa Mi Cloud per sincronizzare dati, rintracciare il tuo dispositivo</string>
      <string name="micloud_dspt_provision">Usa Mi Cloud per sincronizzare dati, rintracciare il tuo dispositivo e condividere file con gli amici.</string>
+     <string name="micloud_dspt_provision_xms">Use Mi Cloud to sync data.</string>
      <string name="micloud_find_device_close_alert_content">Se disabiliterai questa funzionalità, non sarai in grado di localizzare il tuo dispositivo in caso di smarrimento.</string>
      <string name="micloud_find_device_close_alert_negtive">Disattiva non presente</string>
      <string name="micloud_find_device_close_alert_positive">Mantieni attiva</string>
@@ -173,6 +174,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
      <string name="micloud_main_button_authorize">Autorizza</string>
      <string name="micloud_main_button_set_internet">Impostazioni</string>
      <string name="micloud_main_cancel_sync">Annulla sincronizzazione</string>
+     <string name="micloud_main_cancel_sync_now">Canceling…</string>
      <string name="micloud_main_clear_now">Elimina</string>
      <string name="micloud_main_detail">Mostra dettagli</string>
      <string name="micloud_main_error_activated_fail">Attiva la SIM.</string>
@@ -200,6 +202,11 @@ Utilizza un account diverso."</string>
      <string name="micloud_main_resume_sync_soon">Ripristina sincronizzazione quanto prima</string>
      <string name="micloud_main_see_unsynced_data">Verifica i dati da sincronizzare</string>
      <string name="micloud_main_set_internet">Rete</string>
+     <string name="micloud_main_simple_last_sync_time">Last sync time： %s</string>
+     <string name="micloud_main_simple_off">Sync Off</string>
+     <string name="micloud_main_simple_pending">Pending</string>
+     <string name="micloud_main_simple_synced">Synced</string>
+     <string name="micloud_main_simple_syncing">Syncing</string>
      <string name="micloud_main_space_full_message">Aggiornando con un abbonamento riceverai più spazio</string>
      <string name="micloud_main_space_full_title">Spazio cloud esaurito</string>
      <string name="micloud_main_space_low">Spazio quasi esaurito…</string>
@@ -270,6 +277,8 @@ Utilizza un account diverso."</string>
      <string name="micloud_storage_expires_soon_title">Lo spazio Mi Cloud scadrà a breve</string>
      <string name="micloud_storage_expires_very_soon_title">Lo spazio Mi Cloud scadrà a breve</string>
      <string name="micloud_storage_full">Spazio Mi Cloud esaurito</string>
+     <string name="micloud_storage_unit_gb">%sGB</string>
+     <string name="micloud_storage_unit_mb">%sMB</string>
      <string name="micloud_sync_alert_dialog_message">Sincronizza le tue foto, i contatti, le note ed altro sui tuoi dispositivi.</string>
      <string name="micloud_sync_alert_dialog_negative">Annulla</string>
      <string name="micloud_sync_alert_dialog_positive">OK</string>

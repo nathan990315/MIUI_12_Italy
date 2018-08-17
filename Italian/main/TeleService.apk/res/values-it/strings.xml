@@ -484,6 +484,7 @@ Frequenza Campione"</string>
      <string name="cfnry_title">Inoltra se non hai risposto</string>
      <string name="cfu_title">Inoltra tutte le chiamate</string>
      <string name="change_data_preference_4g_only_prompt">Sembra che tu abbia una SIM che supporta solo il 4G. Vuoi impostarla come predefinita per la rete dati mobile?</string>
+     <string name="change_data_sim_4g_only_prompt">"SIM %1$s only supports 4G. When SIM %2$s isn't your default SIM for mobile data, SIM card might not work normally. Switch now?"</string>
      <string name="change_default_data_card">SIM dati predefinita</string>
      <string name="change_default_data_card_summary">Sembra che tu abbia cambiato SIM. Imposta questa SIM come predefinita per la connessione dati?</string>
      <string name="change_num">Aggiorna</string>
@@ -568,6 +569,8 @@ Frequenza Campione"</string>
      <string name="data_usage_uninstalled_apps_users">App e utenti rimossi</string>
      <string name="dc_alert_dialog_message">Alcune app richiedono una connessione dati mobile. Puoi contattare il tuo operatore per sapere quali %s sono disponibili per te.</string>
      <string name="dc_alert_dialog_title">Avviso utilizzo dati</string>
+     <string name="dds_switch_warning_message_data_off">"Couldn't find SIM %1$s. SIM %2$s is set as your default mobile data card now. Mobile data is now turned off."</string>
+     <string name="dds_switch_warning_message_data_on">"Couldn't find SIM %1$s. SIM %2$s is set as your default mobile data card now. Mobile data is turned off to avoid unnecessary carrier fees."</string>
      <string name="deactivate_all">Disattiva tutto</string>
      <string name="debug_app">Seleziona app di debug</string>
      <string name="debug_app_not_set">Nessuna app di debug impostata</string>
@@ -1084,6 +1087,8 @@ Sarà usata al suo posto la rete preferita."</string>
      <string name="onscreenSwapCallsText">Scambia</string>
      <string name="onscreenVideoCallText">Videochiamata</string>
      <string name="open_miui">Apri</string>
+     <string name="opened_dual_4g_confirm_prompt">Looks like you have a 4G only SIM card. Dual 4G was turned on automatically.</string>
+     <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s only supports 4G. To make sure your SIM card works normally, dual 4G was turned on.</string>
      <string name="optional_summary">Opzionale</string>
      <string name="ota_activate">Attivato</string>
      <string name="ota_call_end">Indietro</string>

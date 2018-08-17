@@ -850,7 +850,7 @@ Il tuo operatore potrebbe effettuare degli addebiti se deciderai di attivare di 
      <string name="gmscore_support_service">Servizi Google</string>
      <string name="go_to">Procedi</string>
      <string name="go_to_setting_fingerprint">Vai nelle impostazioni</string>
-     <string name="google_base_app_install_choice">\"%s\" richiede il Framework dei Servizi Google per funzionare correttamente. Vuoi scaricarlo ed installarlo?</string>
+     <string name="google_base_app_install_choice">The application requires Google Services Framework to work normally, download and install it?</string>
      <string name="gs_anto_clean_memory_whitelist">Eccezioni</string>
      <string name="gs_app_back_self_start">Risparmio batteria</string>
      <string name="gs_auto_clean_memory">Cancella cache</string>
@@ -1568,7 +1568,7 @@ Quest'attività riduce la durata della batteria."</string>
      <string name="pref_key_tethering_setting">Limite dati ad uso singolo</string>
      <string name="pref_key_tethering_title">Limite dati ad uso singolo</string>
      <string name="pref_manual_adjust">Imposta utilizzo dati manualmente</string>
-     <string name="pref_mi_sim_settings">Impostazioni Mi SIM</string>
+     <string name="pref_mi_sim_settings">%spackage settings</string>
      <string name="pref_more_settings">Impostazioni aggiuntive</string>
      <string name="pref_new_installed_preconfig_title">Impostazioni predefinite per le nuove app</string>
      <string name="pref_normal_traffic_limit">Utilizzo dati giornalieri</string>
@@ -1651,6 +1651,9 @@ Quest'attività riduce la durata della batteria."</string>
      <string name="report_success">Messaggio segnalato</string>
      <string name="report_warning">"Segnalare %1$s SMS a Xiaomi? I messaggi ed i numeri telefonici associati verranno inviati ai server Xiaomi per l'analisi. Ogni informazione personale resterà comunque anonima."</string>
      <string name="report_warning_title">Segnala SMS</string>
+     <string name="reset_data_dialog_message">"This device isn't associated with your Mi Account. Can't restore or reset password. Back up all imporant items and perform a facory reset. All data will be permanently deleted and your SD card will be formatted during the factory reset."</string>
+     <string name="reset_data_dialog_ok">Factory reset</string>
+     <string name="reset_data_title">"Can't restore password"</string>
      <string name="resource_antispam">Blacklist</string>
      <string name="resource_antivirus">Scansione virus</string>
      <string name="resource_app_permissions">Permessi app</string>

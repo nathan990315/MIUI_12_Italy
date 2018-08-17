@@ -255,6 +255,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Risolti %d problemi batteria</item>
         <item quantity="one">Risolto %d problema batteria</item>
      </plurals>
+     <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Factory reset(%ds)</item>
+        <item quantity="one">Factory reset(%ds)</item>
+     </plurals>
      <plurals name="result_sign_header">
         <item quantity="other">Trovate %d app non ufficiali</item>
         <item quantity="one">Trovata %d app non ufficiale</item>
