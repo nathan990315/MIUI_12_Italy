@@ -917,8 +917,8 @@ Frequenza Campione"</string>
      <string name="bootloader_locked_answer_1">"Blocchiamo i dispositivi per garantire la sicurezza e la protezione delle tue informazioni personali da terze parti. Se devi entrare in modalità Fastboot e flashare il tuo telefono, puoi sbloccarlo."</string>
      <string name="bootloader_locked_answer_1_warning">"Ricorda: non sarai in grado di utilizzare \"Trova telefono\" dopo aver sbloccato il telefono."</string>
      <string name="bootloader_locked_answer_2">"Tocca il tasto seguente per associare il tuo Mi Account a questo dispositivo. Poi accedi al sito MIUI per scaricare lo strumento di sblocco ed installalo sul tuo computer. Questo è l'indirizzo:"</string>
-     <string name="bootloader_locked_answer_2_no_sim">"1. Tap \"Add account\" below to associate your Mi Account with this device.
-2. Download the unlock tool from our website. Note that you should unlock devices using a computer. Download here:"</string>
+     <string name="bootloader_locked_answer_2_no_sim">"1. Tocca \"Aggiungi account\" qua sotto per associare il tuo Mi Account con questo dispositivo.
+2. Scarica dal nostro sito il tool per lo sblocco. Ricorda che per lo sblocco dovrai usare un computer. Scarica qui:"</string>
      <string name="bootloader_locked_check_status">Aggiungi account e dispositivo</string>
      <string name="bootloader_locked_question_1">Perché i dispositivi sono bloccati?</string>
      <string name="bootloader_locked_question_2">Ho capito i rischi e voglio sbloccare il mio dispositivo.</string>
@@ -1983,12 +1983,12 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
      <string name="foreground_traffic">Primo piano %s</string>
      <string name="forget">DIMENTICA</string>
      <string name="forget_password_button_text"><u>Password dimenticata</u></string>
-     <string name="forget_password_dialog_button_text">Back</string>
-     <string name="forget_password_dialog_content_four"><Data>2. Select &lt;font color=#e6e6e6>[Wipe data]&lt;/font>, and wait until your device reboots.</Data></string>
-     <string name="forget_password_dialog_content_one"><Data>"If you forget your password, you won't be able to restore it. However, you can reset your password after you &lt;font color=#ec2700>erase all data on your device&lt;/font> (including photos, contacts, etc.). Back up all important data before this."</Data></string>
-     <string name="forget_password_dialog_content_three"><Data>"1. Turn off your device. Press the &lt;font color=#e6e6e6>[Power]&lt;/font> button and the &lt;font color=#e6e6e6>[Volume+]&lt;/font> button simultaneously, and hold them until you see the &lt;img src=''> icon."</Data></string>
-     <string name="forget_password_dialog_content_two">Follow these steps to erase data:</string>
-     <string name="forget_password_dialog_title">Reset your password</string>
+     <string name="forget_password_dialog_button_text">Indietro</string>
+     <string name="forget_password_dialog_content_four"><Data>2. Seleziona &lt;font color=#e6e6e6>[Wipe data]&lt;/font>, e aspetta che il dispositivo si riavvii.</Data></string>
+     <string name="forget_password_dialog_content_one"><Data>"Se dimentichi la password non sarai in grado di ripristinare. In ogni caso puoi ripristinare la password dopo &lt;font color=#ec2700>aver eliminato tutti i dati sul dispositivo&lt;/font> (incluse foto, contatti, etc.). Esegui un backup prima di questa operazione."</Data></string>
+     <string name="forget_password_dialog_content_three"><Data>"1. Spegni il dispositivo. Premi i tasti &lt;font color=#e6e6e6>[Power]&lt;/font> e &lt;font color=#e6e6e6>[Volume+]&lt;/font> contemporaneamente e mantienili premuti finché non vedi questa icona &lt;img src=''>."</Data></string>
+     <string name="forget_password_dialog_content_two">Segui questi passaggi per eliminare i dati:</string>
+     <string name="forget_password_dialog_title">Ripristina la password</string>
      <string name="forget_pattern"><u>Sequenza dimenticata?</u></string>
      <string name="forget_privacy_password_setting">Aggiungi Mi Account</string>
      <string name="forget_privacy_password_summary">Usa il Mi Account per ripristinare la password</string>
@@ -3660,7 +3660,7 @@ Interfaccia UT: %5$s"</string>
      <string name="reset_legacy_password_settings_preface_text">Devi ripristinare la tua password della Schermata di blocco.</string>
      <string name="reset_network_bluetooth">Bluetooth</string>
      <string name="reset_network_button_text">Ripristina impostazioni</string>
-     <string name="reset_network_category">Questo reimposterà tutti i settaggi, inclusi:</string>
+     <string name="reset_network_category">Questo ripristinerà tutte le impostazioni, inclusi:</string>
      <string name="reset_network_complete_toast">Impostazioni di rete ripristinate correttamente</string>
      <string name="reset_network_confirm_title">Ripristinare?</string>
      <string name="reset_network_data">Dati mobili</string>
@@ -4128,8 +4128,8 @@ Come usare Mantieni su schermo:
      <string name="security_encryption_progress_dialog_open">Crittografia…</string>
      <string name="security_encryption_rejected_via_home_manager">"Questa funzionalità non è supportata nella versione demo."</string>
      <string name="security_encryption_title">Critta il dispositivo usando la password della Schermata di blocco</string>
-     <string name="security_input">Security input</string>
-     <string name="security_input_hint">Using security keyboard enter password</string>
+     <string name="security_input">Tastiera sicura</string>
+     <string name="security_input_hint">Inserisci la password per usare la tastiera di sicura</string>
      <string name="security_keyguard_category_name">Blocco schermo</string>
      <string name="security_password_category_name">Password</string>
      <string name="security_passwords_title">Password</string>

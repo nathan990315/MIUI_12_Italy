@@ -119,7 +119,7 @@
      <string name="clean_content_three">3 file</string>
      <string name="clean_content_two">2 file</string>
      <string name="clean_content_zero">Non pulire niente</string>
-     <string name="clean_summary">Cleaned %1$s files</string>
+     <string name="clean_summary">%1$s file puliti</string>
      <string name="clear_bigfiles">Elimina file di grosse dimensioni, foto duplicate ed altri file inutili</string>
      <string name="clear_immediately">Ottimizza adesso</string>
      <string name="clear_safe_notify">Barra per le notifiche di sicurezza</string>
@@ -309,8 +309,8 @@
      <string name="mainbtn_text_quick_cleanup_default">Pulisci</string>
      <string name="megabyteShort">MB</string>
      <string name="memeory_check_content">%1$d app, memoria %2$s</string>
-     <string name="memory_clean_icon_text">Clear memory</string>
-     <string name="memory_clean_no_trash_tip">Everything looks good</string>
+     <string name="memory_clean_icon_text">Pulisci la memoria</string>
+     <string name="memory_clean_no_trash_tip">Sembra tutto OK</string>
      <string name="menu_add_to_white_list">Aggiungi alle eccezioni</string>
      <string name="menu_clear">Cancella</string>
      <string name="menu_install">"Installa con quest'app"</string>
@@ -336,12 +336,12 @@
      <string name="notification_title_of_garbage_cleanup">%s di file da eliminare</string>
      <string name="notify_when">Ricevi una notifica quando il cestino raggiunge 100 MB</string>
      <string name="ok">OK</string>
-     <string name="onekeyclean_boost_available">%s available</string>
-     <string name="onekeyclean_boost_cleaned">%s Cleared</string>
-     <string name="onekeyclean_boosted_title">Cleared successfully</string>
-     <string name="onekeyclean_boosting_title">Boosting speed</string>
-     <string name="onekeyclean_card_btn">Clean now</string>
-     <string name="onekeyclean_card_summery">Clear trash to free up space</string>
+     <string name="onekeyclean_boost_available">%s disponibile</string>
+     <string name="onekeyclean_boost_cleaned">%s eliminati</string>
+     <string name="onekeyclean_boosted_title">Eliminati correttamente</string>
+     <string name="onekeyclean_boosting_title">Aumento velocità</string>
+     <string name="onekeyclean_card_btn">Elimina adesso</string>
+     <string name="onekeyclean_card_summery">Elimina file inutili per liberare spazio</string>
      <string name="open">Attiva</string>
      <string name="open_app">Apri</string>
      <string name="open_browser">Apri nel browser</string>
@@ -378,7 +378,7 @@
      <string name="pref_title_choose_engine">Definizioni</string>
      <string name="pref_title_clean_alert">Ottimizza automaticamente</string>
      <string name="pref_title_cleanup_white_list">Lista eccezioni</string>
-     <string name="pref_title_create_onekeyclean_shortcut">Show Home screen shortcut</string>
+     <string name="pref_title_create_onekeyclean_shortcut">Mostra collegamento Home</string>
      <string name="pref_title_expand_cache_group">Espandi i gruppi della cache</string>
      <string name="pref_title_garbage_cleanup_check_size">Dimensione per allarme cestino</string>
      <string name="pref_title_garbage_cleanup_check_time">Controlla cestino</string>
