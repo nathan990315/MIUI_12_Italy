@@ -187,7 +187,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
      <string name="micloud_main_head_menu_state_close">Disattivato</string>
      <string name="micloud_main_head_menu_state_open">Attivato</string>
      <string name="micloud_main_head_menu_state_unavailable">Non disponibile</string>
-     <string name="micloud_main_master_sync_on">Sincronizzazione attiva</string>
+     <string name="micloud_main_master_sync_on">Attiva</string>
      <string name="micloud_main_memory_low_message">Per poter sincronizzare, elimina alcuni elementi in Mi Cloud.</string>
      <string name="micloud_main_memory_low_title">Spazio di archiviazione insufficiente</string>
      <string name="micloud_main_message_master_sync_off">Impostazioni di sincronizzazione automatica nella barra delle notifiche.</string>
@@ -203,7 +203,7 @@ Utilizza un account diverso."</string>
      <string name="micloud_main_see_unsynced_data">Verifica i dati da sincronizzare</string>
      <string name="micloud_main_set_internet">Rete</string>
      <string name="micloud_main_simple_last_sync_time">Ultima sincronizzazione： %s</string>
-     <string name="micloud_main_simple_off">Sincronizzazione disattivata</string>
+     <string name="micloud_main_simple_off">Disattivata</string>
      <string name="micloud_main_simple_pending">In attesa</string>
      <string name="micloud_main_simple_synced">Sincronizzato</string>
      <string name="micloud_main_simple_syncing">Sincronizzazione in corso</string>
@@ -212,13 +212,13 @@ Utilizza un account diverso."</string>
      <string name="micloud_main_space_low">Spazio quasi esaurito…</string>
      <string name="micloud_main_sync_init">Recupero informazioni</string>
      <string name="micloud_main_sync_now">Sincronizza adesso</string>
-     <string name="micloud_main_sync_on">Sincronizzazione attivata</string>
+     <string name="micloud_main_sync_on">Attivata</string>
      <string name="micloud_main_sync_pause">Sincronizzazione in pausa</string>
      <string name="micloud_main_sync_pending">In attesa di sincronizzazione</string>
      <string name="micloud_main_syncing">Sincronizzazione…</string>
      <string name="micloud_main_title_master_sync_off">Auto-sinc. disattivata</string>
      <string name="micloud_main_title_sync_fail">Impossibile sincronizzare</string>
-     <string name="micloud_main_title_sync_off">Sincronizzazione disattivata</string>
+     <string name="micloud_main_title_sync_off">Disattivata</string>
      <string name="micloud_main_update_space">Aggiornamento spazio</string>
      <string name="micloud_main_wait_charge">In attesa di connessione del carica batteria</string>
      <string name="micloud_main_wait_charge_sleep">In attesa del collegamento del carica batteria e disattivazione dello schermo</string>
@@ -245,7 +245,7 @@ Utilizza un account diverso."</string>
      <string name="micloud_notif_title_multi_user_error">Impossibile sincronizzare con Mi Cloud</string>
      <string name="micloud_notif_title_privacy_reopen_failed">Impossibile avviare il servizio cloud</string>
      <string name="micloud_notif_title_sync_with_off">Sincronizza con Mi Cloud</string>
-     <string name="micloud_privacy_cloud_off">SIncronizzazione disattivata</string>
+     <string name="micloud_privacy_cloud_off">Disattivata</string>
      <string name="micloud_privacy_cloud_sync">Attiva Mi Cloud</string>
      <string name="micloud_privacy_explanation">"Attiva Mi Cloud dopo aver concesso l'autorizzazione"</string>
      <string name="micloud_privacy_licence_agreed">"Accetta l'Informativa sull Privacy di Mi Cloud."</string>
@@ -349,7 +349,7 @@ Questa funziona critta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="soundrecorder_sync_only_in_wifi_summary">Non verrà utilizzata la rete dati mobile per download e upload delle registrazioni</string>
      <string name="soundrecorder_sync_records">Sincronizza con Mi Cloud</string>
      <string name="sub_alert_notif_content">Attiva Mi Cloud</string>
-     <string name="sub_alert_notif_title">Sincronizzazione disabilitata</string>
+     <string name="sub_alert_notif_title">Disattivata</string>
      <string name="sub_sync_item_sms_summary">Non utilizzare la rete dati cellulare per sincronizzare i messaggi multimediali</string>
      <string name="sub_sync_item_sms_title_wifi_only">Sincronizza MMS solo con Wi-Fi</string>
      <string name="sync_dspt">Abilita sincronizzazione</string>
