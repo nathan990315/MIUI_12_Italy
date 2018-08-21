@@ -62,9 +62,9 @@
         <item quantity="one">%d minuto</item>
      </plurals>
      <plurals name="steps">
-        <item quantity="other">%d passi</item>
-        <item quantity="zero">%d passi</item>
-        <item quantity="one">%d passo</item>
+        <item quantity="other">%d|passi</item>
+        <item quantity="zero">%d|passi</item>
+        <item quantity="one">%d|passo</item>
      </plurals>
      <plurals name="time_hour_ago">
         <item quantity="other">%d ore fa</item>
