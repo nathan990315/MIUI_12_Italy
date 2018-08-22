@@ -3417,7 +3417,7 @@ ed esegui il software."</string>
      <string name="privacy_authorize_dialog_exit">Esci</string>
      <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Per poter utilizzare le funzionalità base dei servizi Mi Cloud, devi accettare che Xiaomi raccolga, elabori ed utilizzi i tuoi dati personali. Leggi la nostra Informativa sulla Privacy per scoprire come raccogliamo ed elaboriamo i dati. Selezionando \"Accetto\" dichiari di aver letto la nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt; ed il nostro &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Accordo Utente&amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data&gt;</string>
      <string name="privacy_authorize_network_error">Connettiti alla rete e prova di nuovo.</string>
-     <string name="privacy_authorize_privacy_policy">Informativa Privacy</string>
+     <string name="privacy_authorize_privacy_policy">Informativa sulla Privacy</string>
      <string name="privacy_authorize_revoke">Revoca</string>
      <string name="privacy_authorize_revoke_dialog_msg">"Dopo la revoca dell'autorizzazione, l'app smetterà di raccogliere dati e tutti i relativi dati verranno eliminati dai server. Questo potrebbe rendere l'app virtualmente instabile. Revocare comunque l'autorizzazione?"</string>
      <string name="privacy_authorize_revoke_dialog_title">Revoca autorizzazione</string>
@@ -6030,4 +6030,5 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="zone_auto_summaryOn">Utilizza il fuso orario fornito dalla rete</string>
      <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
      <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
+	 <string name="master_clear_summary">Cancella tutti i dati sul dispositivo</string>
 </resources>
