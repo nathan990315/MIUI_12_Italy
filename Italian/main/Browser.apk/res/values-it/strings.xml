@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <resources>
      <string name="abc_action_bar_home_description">Vai alla home</string>
      <string name="abc_action_bar_up_description">Vai in alto</string>
      <string name="abc_action_menu_overflow_description">Altro</string>
      <string name="abc_action_mode_done">Fatto</string>
      <string name="abc_action_mode_select_all">Seleziona tutto</string>
+     <string name="abc_activity_chooser_view_see_all">See all</string>
+     <string name="abc_activitychooserview_choose_application">Choose an app</string>
+     <string name="abc_capital_off">OFF</string>
+     <string name="abc_capital_on">ON</string>
+     <string name="abc_font_family_menu_material">sans-serif</string>
+     <string name="abc_search_hint">Search…</string>
+     <string name="abc_searchview_description_clear">Clear query</string>
+     <string name="abc_searchview_description_query">Search query</string>
+     <string name="abc_searchview_description_search">Search</string>
+     <string name="abc_searchview_description_submit">Submit query</string>
+     <string name="abc_searchview_description_voice">Voice search</string>
+     <string name="abc_shareactionprovider_share_with">Share with</string>
+     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+     <string name="abc_toolbar_collapse_description">Collapse</string>
      <string name="accept_cookies_confirm_message">La disattivazione di questa funzione potrebbe influire sulla visualizzazione dei siti web.</string>
      <string name="accessibility_button_clear">Cancella</string>
      <string name="account_prifix">Account:</string>
@@ -141,7 +156,6 @@
      <string name="check_security_tip_user_agreement">Accordo Utente</string>
      <string name="choosertitle_sharevia">Condividi tramite</string>
      <string name="clear_history">Cancella cronologia</string>
-     <string name="clear_most_visited">Mantieni cronologia</string>
      <string name="clear_search_history">Cancella cronologia</string>
      <string name="clear_video_download">Cancella i video</string>
      <string name="clip_dialog_title">"Aprire l'URL copiato?"</string>
@@ -168,8 +182,6 @@
      <string name="comment_max_length">Spiacente, la casella di input è piena.</string>
      <string name="comment_menu">Commenti</string>
      <string name="comment_num_description">Numero commento</string>
-     <string name="common_use_phrase_bottom_bar_text_next">Avanti</string>
-     <string name="common_use_phrase_bottom_bar_text_previous">Indietro</string>
      <string name="context_menu_add_to_desk_id">Aggiungi alla Home</string>
      <string name="context_menu_orientation_portrait_swap_id">V/H</string>
      <string name="contextmenu_add_contact">Aggiungi contatto</string>
@@ -307,6 +319,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="exit">Esci</string>
      <string name="exit_browser_warning">Esci dal browser?</string>
      <string name="exit_fullscreen">Esci da schermo intero</string>
+     <string name="expand_button_title">Advanced</string>
      <string name="favorite">Preferito</string>
      <string name="file_dir">Cartella</string>
      <string name="file_name">File:</string>
@@ -343,6 +356,25 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="gold_medals">"Medaglie d'oro"</string>
      <string name="google_bookmarks">"Google: "</string>
      <string name="green_kid_block_request">Il sito è stato bloccato dai genitori.</string>
+     <string name="guide_chosen_type_main_title">Tell us what you like</string>
+     <string name="guide_chosen_type_subtitle">Tag your interests to get relevant recommendations</string>
+     <string name="guide_entertainment_text">amusement</string>
+     <string name="guide_fashion_text">fashion</string>
+     <string name="guide_finance_text">finance</string>
+     <string name="guide_games_text">games</string>
+     <string name="guide_history_text">history</string>
+     <string name="guide_human_type_main_title">The browser that understands you</string>
+     <string name="guide_human_type_subtitle">Get amazing recommendations</string>
+     <string name="guide_label_chosen_hint">You can choose at most %d categories</string>
+     <string name="guide_military_text">military</string>
+     <string name="guide_motor_text">motor</string>
+     <string name="guide_politics_text">politics</string>
+     <string name="guide_rocket_type_main_title">Lightning fast</string>
+     <string name="guide_rocket_type_subtitle">Amazing speed, smooth UI</string>
+     <string name="guide_skip">Skip</string>
+     <string name="guide_sports_text">sports</string>
+     <string name="guide_start_experience">Start</string>
+     <string name="guide_tech_text">technology</string>
      <string name="have_sent_bookmark_to_home_screen">Posizionato in home</string>
      <string name="hint">Suggerimenti</string>
      <string name="history">Cronologia</string>
@@ -860,8 +892,6 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="positive_confirm_message">Disattiva comunque</string>
      <string name="pref_accept_quicklink_push">Avvia push pagina</string>
      <string name="pref_accessibility_title">Accessibilità</string>
-     <string name="pref_accessibility_url_shortcut_enter_summary">Combinazioni comuni di lettere possono essere inserite in un colpo solo nella barra degli indirizzi</string>
-     <string name="pref_accessibility_url_shortcut_enter_title">Immissione rapida URL</string>
      <string name="pref_adblock_counts">%d bloccati</string>
      <string name="pref_adblock_title">Ad blocker</string>
      <string name="pref_advert_null">"Pubblicità non segnalata, puoi toccare l'etichetta sulla pagina"</string>
@@ -1047,6 +1077,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="search_hint">Cerca o digita un URL</string>
      <string name="search_keyword_browser">Browser</string>
      <string name="search_label">Browser</string>
+     <string name="search_menu_title">Search</string>
      <string name="search_path_browser">Impostazioni/Applicazioni di sistema/Browser</string>
      <string name="search_settings_description">Segnalibri e cronologia web</string>
      <string name="search_shipin">Video</string>
@@ -1137,8 +1168,8 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="suggest_access_item_weather_mark">METEO</string>
      <string name="suggest_access_item_yellow_mark">PAGINE GIALLE</string>
      <string name="suggest_access_music">Mi Music</string>
-     <string name="suggest_item_delete_text">Elimina</string>
      <string name="suggest_open_app_failed">Non è stato possibile aprire questa app</string>
+     <string name="suggestion_clear_item_message">Do you confirm clear this input record item?</string>
      <string name="suggestion_clear_record_message">"Confermi di voler cancellare i messaggi salvatati?"</string>
      <string name="suggestion_express_button_query_more">VEDI ALTRO</string>
      <string name="suggestion_express_button_text_query">QUERY</string>
@@ -1149,6 +1180,10 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="suggestion_express_input_hint_inside">Prego inserisci il numero di tracciamento</string>
      <string name="suggestion_express_input_hint_out">Numero di tracciamento:</string>
      <string name="suggestion_express_title">Query a singolo numero espresso</string>
+     <string name="suggestion_hotwords_title_change_button_text">CHANGE MORE</string>
+     <string name="suggestion_hotwords_title_text">Hot search</string>
+     <string name="suggestion_input_history_title_text">INPUT HISTORY</string>
+     <string name="suggestion_input_hitory_clear_text">CLEAR</string>
      <string name="suggestion_lottery_detail_pour">%sNOTA</string>
      <string name="suggestion_lottery_detail_price">OGNI NOTA%sYUAN</string>
      <string name="suggestion_lottery_detail_text">QUESTO%s</string>
@@ -1196,6 +1231,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="url_find_on_page_result_item">Mostra tutto il testo di \"%s\"</string>
      <string name="url_hint">Cerca o digita un URL</string>
      <string name="url_hint_from_search">Inserisci una parola</string>
+     <string name="url_hint_head">Everyone is searching：</string>
      <string name="url_opened_in_background">Apri in una scheda in background</string>
      <string name="url_suggest_indicator_bookmark">Segnalibri/Cronologia</string>
      <string name="url_suggest_indicator_hoturl">Popolare</string>
@@ -1208,6 +1244,8 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="v5_deselect_all">Deseleziona tutti</string>
      <string name="v5_edit_mode_title_empty">0 selezionati</string>
      <string name="v5_select_all">Seleziona tutti</string>
+     <string name="v7_preference_off">OFF</string>
+     <string name="v7_preference_on">ON</string>
      <string name="version_check_button_checking">Verifica</string>
      <string name="version_check_button_default">Ricerca aggiornamenti</string>
      <string name="version_check_button_download_failed">Riprendi il download</string>

@@ -1740,6 +1740,7 @@ Questa funzionalità aiuta a proteggere i propri dati su dispositivi persi o rub
      <string name="enter_password">"Digita la password per decrittare l'archivio"</string>
      <string name="enter_pattern">Inizia ad usare Android, esegui la sequenza di sblocco</string>
      <string name="enter_pin">Inizia ad usare Android, inserisci il tuo PIN</string>
+     <string name="enterprise_mode">Enterprise mode</string>
      <string name="enterprise_privacy_always_on_vpn_device">VPN sempre attiva, impostata</string>
      <string name="enterprise_privacy_always_on_vpn_personal">VPN sempre-attiva impostata sul tuo profilo personale</string>
      <string name="enterprise_privacy_always_on_vpn_work">VPN sempre-attiva impostata nel tuo profilo di lavoro</string>
@@ -1986,7 +1987,7 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
      <string name="forget_password_dialog_button_text">Indietro</string>
      <string name="forget_password_dialog_content_four"><Data>2. Seleziona &lt;font color=#e6e6e6>[Wipe data]&lt;/font>, e aspetta che il dispositivo si riavvii.</Data></string>
      <string name="forget_password_dialog_content_one"><Data>"Se dimentichi la password non sarai in grado di ripristinare. In ogni caso puoi ripristinare la password dopo &lt;font color=#ec2700>aver eliminato tutti i dati sul dispositivo&lt;/font> (incluse foto, contatti, etc.). Esegui un backup prima di questa operazione."</Data></string>
-     <string name="forget_password_dialog_content_three"><Data>"1. Spegni il dispositivo. Premi i tasti &lt;font color=#e6e6e6>[Power]&lt;/font> e &lt;font color=#e6e6e6>[Volume+]&lt;/font> contemporaneamente e mantienili premuti finché non vedi questa icona &lt;img src=''>."</Data></string>
+     <string name="forget_password_dialog_content_three">"<Data>"1. Spegni il dispositivo. Premi i tasti &lt;font color=#e6e6e6>[Power]&lt;/font> e &lt;font color=#e6e6e6>[Volume+]&lt;/font> contemporaneamente e mantienili premuti finché non vedi questa icona &lt;img src=''>."</Data>"</string>
      <string name="forget_password_dialog_content_two">Segui questi passaggi per eliminare i dati:</string>
      <string name="forget_password_dialog_title">Ripristina la password</string>
      <string name="forget_pattern"><u>Sequenza dimenticata?</u></string>
@@ -2658,6 +2659,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="master_clear_personal_data_sdcard">"Vuoi eliminare i tuoi dati ed i contenuti? Quest'azione è irreversibile!"</string>
      <string name="master_clear_progress_text">Attendere prego…</string>
      <string name="master_clear_progress_title">Cancellazione</string>
+     <string name="master_clear_summary">Cancella tutti i dati sul dispositivo</string>
      <string name="master_clear_title">Ripristino dati di fabbrica</string>
      <string name="max_aspect_settings_all_app_display_loading">Solo un secondo…</string>
      <string name="max_cpu10_info">"Deca-core Max "</string>
@@ -6030,5 +6032,4 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="zone_auto_summaryOn">Utilizza il fuso orario fornito dalla rete</string>
      <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
      <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
-	 <string name="master_clear_summary">Cancella tutti i dati sul dispositivo</string>
 </resources>
