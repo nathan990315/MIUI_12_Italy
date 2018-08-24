@@ -102,9 +102,9 @@
      <string name="accessibility_enter_lock_wallpaper">Tocca per aprire lo sfondo Carousel</string>
      <string name="accessibility_ethernet_connected">LAN connesso.</string>
      <string name="accessibility_ethernet_disconnected">LAN disconnesso.</string>
-     <string name="accessibility_fingerprint_dialog_app_icon">Application icon</string>
-     <string name="accessibility_fingerprint_dialog_fingerprint_icon">Fingerprint icon</string>
-     <string name="accessibility_fingerprint_dialog_help_area">Help message area</string>
+     <string name="accessibility_fingerprint_dialog_app_icon">Icona applicazione</string>
+     <string name="accessibility_fingerprint_dialog_fingerprint_icon">Icona impronta</string>
+     <string name="accessibility_fingerprint_dialog_help_area">Area messaggio di aiuto</string>
      <string name="accessibility_gps_acquiring">GPS acquisito.</string>
      <string name="accessibility_gps_enabled">GPS attivato.</string>
      <string name="accessibility_home">Home</string>
@@ -646,7 +646,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="fingerprint_add_text">"L'interfaccia dell'impronta è stata aggiornata. Aggiungi nuovamente l'impronta."</string>
      <string name="fingerprint_add_title">Aggiungi impronta</string>
      <string name="fingerprint_again_identified_msg">La tua impronta è ora attiva. Utilizzala per sbloccare il dispositivo o inserire la password.</string>
-     <string name="fingerprint_dialog_touch_sensor">Touch the fingerprint sensor</string>
+     <string name="fingerprint_dialog_touch_sensor">Tocca il sensore di impronte</string>
      <string name="fingerprint_enter_second_psw_msg">Immettere la password del Secondo Spazio dopo il riavvio del dispositivo, per poter utilizzare il riconoscimento delle impronte</string>
      <string name="fingerprint_enter_second_psw_msg_oldman">"Impossibile entrare nel Secondo Spazio durante l'utilizzo della Modalità Lite"</string>
      <string name="fingerprint_enter_second_psw_title">Immetti password Secondo Spazio</string>
