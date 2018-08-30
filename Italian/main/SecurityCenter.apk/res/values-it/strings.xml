@@ -742,7 +742,6 @@ Il tuo operatore potrebbe effettuare degli addebiti se deciderai di attivare di 
      <string name="exo_download_failed">Download non riuscito</string>
      <string name="exo_download_notification_channel_name">Download</string>
      <string name="exo_download_removing">Rimuovi download</string>
-     <string name="exo_track_bitrate">%1$.2f Mbps</string>
      <string name="exo_track_mono">Mono</string>
      <string name="exo_track_selection_auto">Auto</string>
      <string name="exo_track_selection_none">Nessuno</string>
@@ -760,7 +759,7 @@ Il tuo operatore potrebbe effettuare degli addebiti se deciderai di attivare di 
 "<li>Se desideri eseguire un'app in background, bloccala nella schermata Recenti o aggiungila alle eccezioni di esecuzione in background. Sarà possibile eseguire in background fino a 4 app quando il Risparmio energetico estremo risulterà attivo.</li>"
 "<li>Il Risparmio energetico estremo disattiverà l'NFC per impostazione predefinita. Potrai modificare questa scelta dalle Impostazioni.</li>"
 "<li>Per assicurarti di poter utilizzare normalmente tutte le funzionalità del tuo dispositivo, il risparmio energetico estremo si spegnerà automaticamente quando la batteria risulterà carica al 30%."</li></string>
-     <string name="extreme_power_save_mode_summary">Il risparmio energetico estremo limiterà l'attività in background, fermerà la sincronizzazione e renderà meno vividi i colori dello schermo.</string>
+     <string name="extreme_power_save_mode_summary">"Il risparmio energetico estremo limiterà l'attività in background, fermerà la sincronizzazione e renderà meno vividi i colori dello schermo."</string>
      <string name="extreme_power_save_mode_title">Risparmio energetico estremo</string>
      <string name="finger_remind_message">Supporta lo sblocco con impronta digitale. Aggiungere impronta?</string>
      <string name="fingerprint_identify_msg">Scansione impronta…</string>
