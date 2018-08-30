@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="about_privacy">Privacy Policy</string>
      <string name="about_smart_antispam_summary">Informazioni sul rilevamento di numeri sconosciuti da parte di Smart Antispam</string>
      <string name="about_telephone_fraud">Informazioni sulle truffe telefoniche</string>
      <string name="account_address">Indirizzi</string>
@@ -95,6 +96,7 @@
      <string name="general_recent_title">Recenti</string>
      <string name="general_unfollow_hint">Sicuro di non voler seguire %1$s?</string>
      <string name="general_yellow_page_title">Generale</string>
+     <string name="global_user_notice_yp_detail_summary_format">Some of your Caller ID info is outdated. Do you want to update it? By using this service, you agree to our %1$s and %2$s.</string>
      <string name="group_name_banner" />
      <string name="group_name_basic" />
      <string name="group_name_data_source">Sorgente</string>

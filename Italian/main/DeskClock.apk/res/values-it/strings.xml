@@ -62,6 +62,7 @@
      <string name="edit_alarm">Modifica sveglia</string>
      <string name="edit_systemtime">"Modifica l'orario di sistema"</string>
      <string name="every_day">tutti i giorni</string>
+     <string name="expired_timers_dismissed">Timer dismissed</string>
      <string name="force_touch_add_alarm">Aggiungi sveglia</string>
      <string name="force_touch_enter_stopwatch">Cronom.</string>
      <string name="force_touch_enter_timer">Timer</string>
@@ -73,6 +74,7 @@
      <string name="install_weather_app_error">"Impossibile caricare l'app"</string>
      <string name="install_weather_app_loading">Solo un secondo…</string>
      <string name="invalid_time">Orario non valido: %3$s %1$d: %2$d</string>
+     <string name="invalid_timer_length">Invalid timer length</string>
      <string name="keep_screen_on">Mantieni schermo attivo</string>
      <string name="label">Nome</string>
      <string name="label_pref_summary">Etichetta</string>
@@ -129,7 +131,9 @@
      <string name="never">Mai</string>
      <string name="oneshot_alarm">Elimina dopo che ha suonato</string>
      <string name="open_keep_screen">La schermata sarà mantenuta attiva</string>
+     <string name="other_category_title">Other</string>
      <string name="pause">Pausa</string>
+     <string name="privacy_policy">Privacy Policy</string>
      <string name="remind_ringtone">Suoneria</string>
      <string name="reset">Azzera</string>
      <string name="revert">Ripristina</string>
@@ -186,6 +190,7 @@
      <string name="timer_clock_alert_text">Imposta timer</string>
      <string name="timer_continue">Continua</string>
      <string name="timer_continue_timer">Riprendi esecuzione timer</string>
+     <string name="timer_created">Timer created</string>
      <string name="timer_end_time">Il Timer si fermerà a %s</string>
      <string name="timer_end_time_format">HH:mm dd MMM</string>
      <string name="timer_end_time_format_today">HH:mm</string>

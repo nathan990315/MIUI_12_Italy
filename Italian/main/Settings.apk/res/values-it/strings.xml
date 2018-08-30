@@ -1432,6 +1432,7 @@ avviso"</string>
      <string name="delete_or_keep_legacy_passwords_confirm_msg">"Eliminare i dati sull'impronta?"</string>
      <string name="delete_rule">Rimuovi regole</string>
      <string name="delete_saved_network">Eliminazione reti salvate</string>
+     <string name="delete_sound_effect">\"Delete\" sound</string>
      <string name="deleted_apps">App rimosse</string>
      <string name="deletion_helper_automatic_title">Automatico</string>
      <string name="deletion_helper_manual_title">Manuale</string>
@@ -1835,6 +1836,8 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="factory_reset_summary">Elimina tutti i dati dalla memoria interna del tuo dispositivo</string>
      <string name="failed_to_check_find_device_status_content">Impossibile verificare lo stato di Trova dispositivo, riprova più tardi.</string>
      <string name="failed_to_check_find_device_status_title">Impossibile verificare lo stato di Trova dispositivo</string>
+     <string name="failed_to_erase_text">Please turn off lock screen password before performing 1217 operation.</string>
+     <string name="failed_to_erase_title">Forbidden operation</string>
      <string name="failed_to_open_app_settings_toast">Impossibile aprire le impostazioni di %1$s</string>
      <string name="failed_to_shut_down_find_device_content">Impossibile disattivare Trova dispositivo. Riprova più tardi.</string>
      <string name="failed_to_shut_down_find_device_title">Impossibile disattivare Trova dispositivo</string>
@@ -2244,6 +2247,8 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="keyboard_shortcuts_helper">Assistente scorciatoie tastiera</string>
      <string name="keyboard_shortcuts_helper_summary">Mostra scorciatoie disponibili</string>
      <string name="keyguard_advance_setting_title">Impostazioni avanzate</string>
+     <string name="keyguard_security_setting_others">Others</string>
+     <string name="keyguard_security_setting_privacy_policy">Privacy Policy</string>
      <string name="keywords_accounts">account</string>
      <string name="keywords_airplane">Aereo;Modalità aereo;Aeroplano;Modalità aeroplano;Volo;Modalità volo</string>
      <string name="keywords_all_apps">app download applicazioni sistema</string>
@@ -2905,6 +2910,9 @@ ed esegui il software."</string>
      <string name="nature_color">Predefinito</string>
      <string name="navigation_guide_app_summary">Scorri a sinistra o destra dal bordo superiore dello schermo</string>
      <string name="navigation_guide_app_title">"Azione per l'app"</string>
+     <string name="navigation_guide_appswitch_anim_summary">Swipe across the screen starting from the edge to go back to previous app</string>
+     <string name="navigation_guide_appswitch_anim_title">Switch to previous app</string>
+     <string name="navigation_guide_appswitch_click">Turn on \"Go back to previous app\" first</string>
      <string name="navigation_guide_appswitch_summary">Scorri verso sinistra o verso destra dai bordi dello schermo e mantieni il tocco per un pò</string>
      <string name="navigation_guide_appswitch_title">"Passa all'app precedente"</string>
      <string name="navigation_guide_back_summary">Scorri a destra o sinistra sullo schermo</string>
@@ -3757,6 +3765,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="saved_wifi">Reti salvate</string>
      <string name="saved_wifi_delete">Elimina</string>
      <string name="scan_list_label">Risultati scansione:</string>
+     <string name="sccret_code_error">The code you entered is incorrect.</string>
      <string name="screen">Schermo</string>
      <string name="screen_button">Tasti sullo schermo</string>
      <string name="screen_button_tips">Scorri in basso per nascondere i tasti sullo schermo</string>
@@ -4526,6 +4535,9 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_wimax_mac_address">Indirizzo MAC 4G</string>
      <string name="status_write_success">Con successo!</string>
      <string name="statusbar_permission_desc">I permessi sono disponibili solo perle notifiche importanti</string>
+     <string name="stop_upload_audio_log">Finish getting audio log</string>
+     <string name="stop_upload_gps_log">Finish getting GPS log</string>
+     <string name="stop_upload_modem_log">Finish getting modem log</string>
      <string name="storage_detail_apps">App</string>
      <string name="storage_detail_audio">Audio</string>
      <string name="storage_detail_cached">Dati cache</string>
@@ -5034,8 +5046,11 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="untitled_apn">Senza titolo</string>
      <string name="update_new_version">Aggiornamento disponibile</string>
      <string name="update_progress_for_updates">Aggiornamento (%s)</string>
+     <string name="upload_audio_log">Start getting audio log</string>
      <string name="upload_debug_log_summary">"I dati diagnostici possono contenere informazioni sul tuo utilizzo di hardware, sistema operativo e app. I dati verranno utilizzati per localizzare ed analizzare i problemi nel sistema e non verranno utilizzati per identificare l'utente."</string>
      <string name="upload_debug_log_title">Invia automaticamente dati diagnostici</string>
+     <string name="upload_gps_log">Start getting GPS log</string>
+     <string name="upload_modem_log">Start getting modem log</string>
      <string name="usage">Utilizzo</string>
      <string name="usage_access">Accesso ai dati di utilizzo</string>
      <string name="usage_access_description">"L'accesso ai dati di utilizzo consente ad un'app di tracciare le altre app che stai usando e la frequenza con cui le utilizzi, così come il tuo operatore, le impostazioni sulla lingua e altri dettagli."</string>

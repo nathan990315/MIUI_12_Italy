@@ -60,6 +60,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Cerca tra %d app</item>
         <item quantity="one">Cerca tra %d app</item>
      </plurals>
+     <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d issues require optimization</item>
+        <item quantity="one">%1$d issue requires optimization</item>
+     </plurals>
      <plurals name="found_apps_title">
         <item quantity="other">%d app trovate</item>
         <item quantity="zero">0 app trovate</item>
@@ -88,6 +92,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      <plurals name="gb_signed_days_sum">
         <item quantity="other">Registrato %d giorni di seguito</item>
         <item quantity="one">Registrato %d volta</item>
+     </plurals>
+     <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d more characters</item>
+        <item quantity="one">    +%1$d more character</item>
      </plurals>
      <plurals name="hints_apps_perm_count">
         <item quantity="other">%d permessi</item>
@@ -238,6 +246,14 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      <plurals name="power_center_battery_volume">
         <item quantity="other">%d mAh</item>
         <item quantity="one">%d mAh</item>
+     </plurals>
+     <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d apps are hidden</item>
+        <item quantity="one">%d app is hidden</item>
+     </plurals>
+     <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Can hide %d apps</item>
+        <item quantity="one">Can hide %d app</item>
      </plurals>
      <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d problemi batteria</item>

@@ -220,6 +220,10 @@
         <item quantity="other">%1$d comandi sopra sono attivi</item>
         <item quantity="one">%1$d comando sopra è attivo</item>
      </plurals>
+     <plurals name="show_audio_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get audio log</item>
+        <item quantity="one">%1$d step left before you can get audio log</item>
+     </plurals>
      <plurals name="show_cit_countdown">
         <item quantity="other">Ti mancano %1$d tocchi per avviare la diagnostica</item>
         <item quantity="one">Ti manca %1$d tocco per avviare la diagnostica</item>
@@ -227,6 +231,14 @@
      <plurals name="show_dev_countdown">
         <item quantity="other">Ti mancano %1$d tocchi per diventare uno sviluppatore</item>
         <item quantity="one">Ti manca %1$d tocco per diventare uno sviluppatore</item>
+     </plurals>
+     <plurals name="show_gps_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get GPS log</item>
+        <item quantity="one">%1$d step left before you can get GPS log</item>
+     </plurals>
+     <plurals name="show_modem_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get modem log</item>
+        <item quantity="one">%1$d step left before you can get modem log</item>
      </plurals>
      <plurals name="show_pho_countdown">
         <item quantity="other">Ti mancano %1$d tocchi per visualizzare le info sul dispositivo</item>

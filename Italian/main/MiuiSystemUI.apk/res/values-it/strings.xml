@@ -295,6 +295,7 @@
      <string name="available_via_passpoint">Disponibile tramite %1$s</string>
      <string name="back">Indietro</string>
      <string name="battery">Batteria</string>
+     <string name="battery_can_use_time">Approximately %s remaining</string>
      <string name="battery_detail_charging_summary">Il risparmio della batteria non è disponibile durante la ricarica</string>
      <string name="battery_detail_switch_summary">Riduci prestazioni e dati in background</string>
      <string name="battery_detail_switch_title">Risparmio batteria</string>
@@ -532,10 +533,17 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="divider_menu_close">Chiudi</string>
      <string name="divider_menu_select_apps">Seleziona</string>
      <string name="divider_menu_swap_task">Cambia</string>
+     <string name="dlg_cancel">Cancel</string>
+     <string name="dlg_confirm">Turn on</string>
      <string name="dlg_confirm_kill_storage_users_text">"Se attivi l'archivio USB alcune applicazioni potrebbero bloccarsi finché non lo disattivi."</string>
      <string name="dlg_confirm_kill_storage_users_title">Attiva archivio USB</string>
      <string name="dlg_error_title">Operazione USB fallita</string>
      <string name="dlg_ok">OK</string>
+     <string name="dlg_summary_close_app">Restrict background activity and notifications</string>
+     <string name="dlg_summary_close_theme">Restrict animated themes</string>
+     <string name="dlg_summary_close_wifi">Turn off WLAN, Bluetooth, and portable hotspot</string>
+     <string name="dlg_summary_nfc">Turn off NFC</string>
+     <string name="dlg_summary_title">Extreme battery saver stops all background activity after you leave an app and go back to the Home screen. If you want an app to be running in the background, add it to background exceptions.</string>
      <string name="dnd_is_off">Modalità DND disattivata</string>
      <string name="do_disclosure_generic">Questo dispositivo è gestito dalla tua organizzazione</string>
      <string name="do_disclosure_with_name">Questo dispositivo è gestito da %s</string>
@@ -560,6 +568,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="enable_bluetooth_message">Per collegare la tastiera al tablet, attiva prima il Bluetooth.</string>
      <string name="enable_bluetooth_title">Attivare Bluetooth?</string>
      <string name="enable_demo_mode">Attiva modalità demo</string>
+     <string name="enable_extreme_power_save_mode">Extreme battery saver</string>
      <string name="enable_freeform_support">Abilita finestre a forma libera</string>
      <string name="enable_freeform_support_summary">Abilita supporto sperimentale per finestre a forma libera.</string>
      <string name="enable_opengl_traces_title">Abilita tracce OpenGL</string>
@@ -1137,6 +1146,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="oldman_airplane_mode_text">aereo</string>
      <string name="oldman_incall_text">in chiamata</string>
      <string name="open_camera_hint_text">Scorri a sinistra per avviare la Fotocamera</string>
+     <string name="open_extreme_power_save_mode_title">Turn on Extreme battery saver</string>
      <string name="open_remote_center_hint_text">Scorri a destra per avviare Mi Remote</string>
      <string name="other">Altro</string>
      <string name="overlay_display_devices_title">Simula schermi secondari</string>
@@ -1269,6 +1279,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="quick_settings_drivemode_label">Automobile</string>
      <string name="quick_settings_dual_location_label">GPS</string>
      <string name="quick_settings_edit_label">Modifica</string>
+     <string name="quick_settings_extreme_batterysaver_label">Extreme battery saver</string>
      <string name="quick_settings_flashlight_label">Torcia</string>
      <string name="quick_settings_gps_label">GPS</string>
      <string name="quick_settings_hotspot_label">Hotspot</string>
@@ -1541,6 +1552,7 @@ scorri in basso per bloccare"</string>
      <string name="structure_face_unlock_really_person">Sembra che tu abbia sostituito il tuo volto con un oggetto in fase di scansione.</string>
      <string name="switch_bar_off">Disattiva</string>
      <string name="switch_bar_on">Attiva</string>
+     <string name="switch_system_user">Open First space</string>
      <string name="symbol_colon">:</string>
      <string name="system_ui_tuner">Messa a punto UI di Sistema</string>
      <string name="task_access_locked_app_msg">"Il contenuto dell'applicazione è nascosto."</string>

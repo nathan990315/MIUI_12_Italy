@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Vai alla pagina principale</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -20,6 +19,15 @@
      <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Riduci</string>
+     <string name="accessibiliy_description_content_account">Profile</string>
+     <string name="accessibiliy_description_content_ad">Ad</string>
+     <string name="accessibiliy_description_content_add_resource">Add items</string>
+     <string name="accessibiliy_description_content_back">Back</string>
+     <string name="accessibiliy_description_content_comment">Comment</string>
+     <string name="accessibiliy_description_content_favorite">Add to favorites</string>
+     <string name="accessibiliy_description_content_more">More</string>
+     <string name="accessibiliy_description_content_search">Search</string>
+     <string name="accessibiliy_description_content_share">Share</string>
      <string name="account_info">Mi Account</string>
      <string name="account_name_not_login">Accedi</string>
      <string name="account_unactivated">Account non attivato.</string>
@@ -74,6 +82,7 @@
      <string name="description_version">Versione: </string>
      <string name="description_version_szie">Versione: %1$s Dimensione: %2$s</string>
      <string name="desktop_wallpaper">Schermata Home</string>
+     <string name="detail_recommend_title">Recommended</string>
      <string name="dev_options">OPZIONI SVILUPPATORE</string>
      <string name="dev_options_summary">Risorse web</string>
      <string name="download_failed">Download fallito</string>
@@ -178,6 +187,27 @@
      <string name="lockscreen_wallpaper">Schermata di blocco</string>
      <string name="lockstyle_personal_settings">Personalizza</string>
      <string name="mi_wallpaper">Sfondo MIUI</string>
+     <string name="miuishare_account_activate_confirmation">Activate Mi Account</string>
+     <string name="miuishare_account_activate_ok">Activate</string>
+     <string name="miuishare_account_login_cancel">Cancel</string>
+     <string name="miuishare_account_login_confirmation">Sign in to Mi Account</string>
+     <string name="miuishare_account_login_ok">Sign in</string>
+     <string name="miuishare_account_need_activate">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Activate your Mi Account to continue.</string>
+     <string name="miuishare_account_need_login">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Sign in to your Mi Account to continue.</string>
+     <string name="miuishare_app_name">MIUI Share</string>
+     <string name="miuishare_mini_program_title">Check out the wallpaper I found!</string>
+     <string name="miuishare_no_network">"Couldn't connect to the network."</string>
+     <string name="miuishare_please_retry">"Couldn't get info. Check your network settings and try again."</string>
+     <string name="miuishare_publish">Send</string>
+     <string name="miuishare_qzone_title">Qzone</string>
+     <string name="miuishare_share_done">Shared successfully</string>
+     <string name="miuishare_share_editor_title">Share</string>
+     <string name="miuishare_share_fail">"Couldn't share"</string>
+     <string name="miuishare_timeline_title">Find your next wallpaper</string>
+     <string name="miuishare_title_more">More</string>
+     <string name="miuishare_title_share">Share</string>
+     <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
+     <string name="miuishare_weibo_title">Weibo</string>
      <string name="multi_sim_ringtone_settings_dialog_message">La suoneria viene applicata alla SIM 1 e alla SIM 2 allo stesso tempo.</string>
      <string name="multi_sim_ringtone_settings_dialog_ok">Ho capito</string>
      <string name="multi_sim_ringtone_settings_dialog_remind_never">Non mostrare più</string>
@@ -198,6 +228,7 @@
      <string name="online_precust_scenery">Scenari</string>
      <string name="online_search_hint">Cerca risorse online</string>
      <string name="password_toggle_content_description">Attiva visibilità password</string>
+     <string name="pref_privacy_policy">Privacy Policy</string>
      <string name="present_local_themes">Scaricati</string>
      <string name="present_local_themes_subtitle">Personalizza il tuo dispositivo</string>
      <string name="present_official_themes">Selezione ufficiale</string>
@@ -244,23 +275,28 @@
      <string name="resource_comment_bad_comments">Negativi</string>
      <string name="resource_comment_current_version">Versione attuale</string>
      <string name="resource_comment_date">%1$02d-%2$02d</string>
+     <string name="resource_comment_detainment_fail">Discard</string>
+     <string name="resource_comment_detainment_msg">"You haven't sent your comment yet. Discard changes?"</string>
+     <string name="resource_comment_detainment_success">Stay</string>
      <string name="resource_comment_edit_comment">Aggiungi commento</string>
      <string name="resource_comment_edit_comment_waiting">Verifica cronologia utente…</string>
      <string name="resource_comment_edit_text_default">Aggiungi un commento</string>
+     <string name="resource_comment_edit_text_second_hint">Your feedback is extremely important to us.</string>
      <string name="resource_comment_edit_title">Modifica commento: %1$s</string>
      <string name="resource_comment_entry_tips">Commenti (%1$s)</string>
      <string name="resource_comment_expand_full_text">Mostra tutto il testo ▼</string>
      <string name="resource_comment_footer">I messaggi vuoti non verranno mostrati.</string>
      <string name="resource_comment_good_comments">Positivi</string>
      <string name="resource_comment_invalid">Tocca le stelle per dare una valutazione</string>
+     <string name="resource_comment_limit">Not so fast! Come back after you use this theme a bit longer.</string>
      <string name="resource_comment_loading_list">Caricamento commenti…</string>
-     <string name="resource_comment_name_default">Utente %1$s</string>
+     <string name="resource_comment_name_default">Utente</string>
      <string name="resource_comment_no_average_score">Media non disponibile</string>
      <string name="resource_comment_no_comment">Nessun commento</string>
+     <string name="resource_comment_over_limit">Your comment is too long. Shorten it and try again.</string>
      <string name="resource_comment_publish">Invia</string>
      <string name="resource_comment_rate">Valutazione:</string>
      <string name="resource_comment_rating_star_tips">Tocca le stelle per votare:</string>
-     <string name="resource_comment_score_count">%1$s utenti</string>
      <string name="resource_comment_sending">Inserimento…</string>
      <string name="resource_comment_title">Commenti: %1$s</string>
      <string name="resource_comment_upload_data_invalid">Commento non valido.</string>
@@ -269,6 +305,7 @@
      <string name="resource_comment_upload_not_bought">Scarica questo tema prima di lasciare un commento.</string>
      <string name="resource_comment_upload_not_logined">"Effettua prima l'accesso"</string>
      <string name="resource_comment_upload_success">"Commento inviato. Il tuo commento verrà visualizzato dopo l'approvazione."</string>
+     <string name="resource_comment_wonderful_comments">Popular comments</string>
      <string name="resource_continue">Avanti</string>
      <string name="resource_current_using_title">Current resources</string>
      <string name="resource_data_empty">Nessun contenuto.</string>
@@ -316,6 +353,7 @@
      <string name="resource_exchange_wrong_format_by_server">Il codice non può essere validato. Verificalo e riprova.</string>
      <string name="resource_expand_full_text">Espandi</string>
      <string name="resource_failed_to_load_list">Impossibile caricare la lista</string>
+     <string name="resource_free_download">Download for free</string>
      <string name="resource_free_trial_15_days">Prova gratis per 15 giorni</string>
      <string name="resource_free_use_last_one_day">Il periodo di prova scadrà domani.</string>
      <string name="resource_get_auth_checking">Ricerca autorizzazioni…</string>
@@ -437,6 +475,7 @@
      <string name="show_free">Mostra gratuiti %1$s</string>
      <string name="show_incompatible">Mostra non compatibili %1$s</string>
      <string name="system_precust">Sfondi di sistema</string>
+     <string name="tag_ad">Ad</string>
      <string name="the_picture_is_not_support">"L'immagine non è supportata"</string>
      <string name="the_picture_is_too_small">"L'immagine è troppo piccola"</string>
      <string name="theme_apply_audio_dialog_item_alarm">Sveglia</string>
@@ -510,6 +549,7 @@
      <string name="theme_user_agreement_title">Termini di utilizzo</string>
      <string name="theme_yes">Sì</string>
      <string name="third_party_pickers_activity_title">Aggiungi %1$s</string>
+     <string name="tips_theme_gate_transfer_fail">"Couldn't open this page. Wait a minute or two and try again."</string>
      <string name="title_component">Personalizza temi</string>
      <string name="title_my_audio_resource">Le mie suonerie</string>
      <string name="title_my_miwallpaper_resource">I miei sfondi Live</string>
