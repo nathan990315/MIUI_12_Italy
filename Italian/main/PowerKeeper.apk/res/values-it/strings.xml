@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="about_extreme_mode">Risparmio energetico estremo</string>
      <string name="about_hide_mode">Informazioni su Risparmio Batteria MIUI</string>
      <string name="active_classify">Classifica per stato attivo</string>
      <string name="app_list_title">Scegli applicazioni</string>
@@ -30,16 +31,18 @@
      <string name="empty_title_apps_container_list">Nessuna app</string>
      <string name="enable_sleep_mode">Abilita la modalità riposo per ottimizzare i consumi notturni</string>
      <string name="error_filename_too_long">Il nome del file è troppo lungo.</string>
+     <string name="extreme_mode_max_item_alert">Solo 4 app possono essere selezionate per essere eseguite in background durante la modalità di risparmio energetico estremo</string>
      <string name="extreme_power_config_mode_category">Risparmio Batteria Estremo</string>
      <string name="extreme_power_config_mode_desc">"L'attivazione di questa funzionalità disattiverà sincronizzazione, bluetooth, GPS, NFC, doppio tocco, tasti luminosi, attivazione schermo su notifica, luce di notifica pulsante etc, ed il risparmio batteria verrà impostato su ultimate"</string>
      <string name="extreme_power_config_mode_title">Modalità Risparmio Batteria Estremo</string>
      <string name="failure">fallito</string>
-     <string name="hide_mode_desc">"Quando un'app è in background, la sua attività verrà monitorata per controllarne il consumo di batteria."</string>
+     <string name="hide_mode_desc"> <font color="#000000">"Quando un'app viene eseguita in background, le sue attività verranno monitorate per ridurre l'utilizzo della batteria. Questa funzionalità otterrà ed utilizzerà i dati dell'utente in base alla %s"</font></string>
      <string name="hide_system_app">Nascondi app di sistema</string>
      <string name="hints_loading_text">Solo un attimo…</string>
      <string name="important_warning">Attenzione</string>
      <string name="lasttime_applist_cloud">Ultimo aggiornamento lista app：</string>
      <string name="lasttime_feature_cloud">U</string>
+     <string name="message_i_know">Ho capito</string>
      <string name="nonui_mode_config_description">"Non attivare lo schermo al ricevimento delle notifiche, disattiva la luce per le notifiche, impronte e tasti touch quando il dispositivo è in tasca."</string>
      <string name="nonui_mode_config_title">Modalità non interattiva</string>
      <string name="performance_category">Prestazioni</string>
@@ -67,6 +70,7 @@
      <string name="power_mode">Impostazioni consumo</string>
      <string name="power_usage">Utilizzo batteria</string>
      <string name="pref_config_title">Ottimizzazione Prestazioni</string>
+     <string name="privacy">Informativa sulla Privacy</string>
      <string name="scenario_policies_summary">Risparmio in base agli scenari</string>
      <string name="scenario_policies_title">Modalità di risparmio</string>
      <string name="scenario_policies_warmcontrol">Controllo riscaldamento</string>

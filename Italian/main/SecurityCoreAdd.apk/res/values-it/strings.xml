@@ -6,6 +6,8 @@
 I messaggi compariranno solo nel Secondo Spazio."</string>
      <string name="PrivacyContactDes2">"Se hai utilizzato i messaggi nel Primo Spazio,
 questa funzionalità verrà aggiunta automaticamente al Secondo Spazio."</string>
+     <string name="about_ent_mode">A proposito della modalità Aziendale</string>
+     <string name="activate_ent_mode">Attiva modalità Aziendale</string>
      <string name="add_finger_print">Aggiungi impronta</string>
      <string name="air_space_created">Spazio di lavoro creato correttamente</string>
      <string name="air_space_deleted">Spazio di lavoro eliminato correttamente</string>
@@ -84,7 +86,36 @@ per essere in grado di vederli sempre"</string>
      <string name="encrypt_space_delete_dialog_title">Attenzione</string>
      <string name="encrypt_space_delete_notification_message">Elimina il tuo Secondo Spazio e creane uno nuovo per aggiornare il tuo dispositivo senza intoppi.</string>
      <string name="encrypt_space_delete_notification_title">Secondo Spazio</string>
+     <string name="ent_activating">Attivazione…</string>
+     <string name="ent_activation">Attiva</string>
+     <string name="ent_activation_hint">Inserisci il tuo codice aziendale insieme al codice di licenza di attivazione della modalità Aziendale. Dopo aver effettuato questo passaggio, i servizi aziendali personalizzati verranno abilitati.</string>
+     <string name="ent_activation_hint_whit_licence">"Attiva la modalità Aziendale per abilitare i servizi aziendali personalizzati.
+Assicurati che il nome della tua azienda sia corretto. Leggi e accetta le relative politiche sulla privacy prima di eseguire l'attivazione".</string>
+     <string name="ent_agency_code">Codice aziendale</string>
+     <string name="ent_agency_code_hint">Inserisci codice aziendale</string>
+     <string name="ent_agency_code_invalid">Il codice aziendale inserito non è valido</string>
+     <string name="ent_agree_privacy_policy">"Ho letto e accettato l'informativa sulla Privacy"</string>
+     <string name="ent_app_verified">Sembra che sul dispositivo siano installate applicazioni aziendali. Attivare la modalità Aziendale?</string>
+     <string name="ent_confirm_dialog_content">Non potrai tornare allo stato attuale del tuo sistema dopo aver attivato la modalità Aziendale. Tuttavia, tutti i tuoi dati verranno comunque memorizzati su questo dispositivo. Dovrai riavviare il dispositivo per attivare la modalità Aziendale. Attivare ora?</string>
+     <string name="ent_disallow_running">"L'avvio dell'app è stato limitato"</string>
+     <string name="ent_download_install_dialog_content">Dovrai installare delle app aziendali per poter attivare la modalità Aziendale. Installarle ora?</string>
+     <string name="ent_download_install_dialog_title">Scarica app aziendali</string>
+     <string name="ent_downloading_message">Download in corso %d%%</string>
+     <string name="ent_error_dialog_content">Almeno uno dei codici inseriti non è corretto. Verifica i codici aziendali e di licenza e inseriscili nuovamente.</string>
+     <string name="ent_get_code_hint">È possibile ottenere codici aziendali e di licenza dal proprio supervisore</string>
+     <string name="ent_install_dialog_content">Installare le app e riavviare il dispositivo ora?</string>
+     <string name="ent_installing">Installazione…</string>
+     <string name="ent_invalid_agency">Codice aziendale non valido.</string>
+     <string name="ent_invalid_qr">Codice QR non valido.</string>
+     <string name="ent_licence_code">Codice di licenza</string>
+     <string name="ent_licence_code_hint">Inserisci codice di licenza</string>
+     <string name="ent_licence_code_invalid">Il codice di licenza immesso non è valido.</string>
+     <string name="ent_mode_activated">Modalità aziendale attivata</string>
+     <string name="ent_network_error">Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova.</string>
+     <string name="ent_next_step">Successivo</string>
+     <string name="ent_privacy_policy_notice">"* I dati personali durante questa modalità verranno raccolti in base alle politiche stabilite dalla tua azienda. Xiaomi non raccoglierà dati personali durante l'utilizzo di questa modalità."</string>
      <string name="enter_air_space">Passa allo spazio di lavoro</string>
+     <string name="enterprise_mode">Modalità Aziendale</string>
      <string name="entrance_reopen_toast_msg">É stata creata una scorciatoia per il Secondo Spazio a causa di differenti tipi di password</string>
      <string name="err_copy_contacts">Impossibile copiare i contatti</string>
      <string name="err_copy_files">Impossibile copiare i file</string>
@@ -111,7 +142,7 @@ per essere in grado di vederli sempre"</string>
      <string name="goToSecondSpacce">Vai al Secondo Spazio</string>
      <string name="go_on_import">Continua importazione</string>
      <string name="gpg_message">"La creazione di app clonate per i giochi richiede Google Play Games. Creare un'app clonata per Google Play Games?"</string>
-     <string name="gpg_title">App clonata per Google Play Games</string>
+     <string name="gpg_title">App clonata per Google Play Giochi</string>
      <string name="green_guard">Controlli genitori</string>
      <string name="green_guard_des1">Aggiungi i dispositivi da gestire in remoto</string>
      <string name="green_guard_des2">Scopri dove sono tutti i dispositivi gestiti</string>
@@ -145,6 +176,8 @@ Puoi anche scaricarli separatamente"</string>
      <string name="import_photo_suc">Foto importate</string>
      <string name="input_space_finger">Imposta</string>
      <string name="input_space_password">Imposta</string>
+     <string name="install">Installa</string>
+     <string name="install_error">Impossibile installare. Riprova.</string>
      <string name="invalid_qr_code">Codice QR non valido</string>
      <string name="list_empty_text">Vuoto</string>
      <string name="list_empty_text_xspace">Installa WeChat/QQ/Weibo, crea app clonate e prova di nuovo.</string>
@@ -153,6 +186,7 @@ Puoi anche scaricarli separatamente"</string>
      <string name="loading_space">Solo un secondo</string>
      <string name="loading_success">Caricato correttamente</string>
      <string name="lock_screen_open_second_space">Entra nel Secondo Spazio dalla schermata di blocco</string>
+     <string name="menu_item_about_privacy_title">Informativa sulla Privacy</string>
      <string name="messageData">Messaggi</string>
      <string name="msg_switch_file">Eliminare questi file dal Primo Spazio dopo lo spostamento?</string>
      <string name="msg_switch_file_second">Eliminare questi file dal Secondo Spazio dopo lo spostamento?</string>

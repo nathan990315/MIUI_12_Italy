@@ -3,6 +3,11 @@
      <string name="activity_not_found">Non è stata trovata nessuna app per eseguire questa operazione</string>
      <string name="back_to_message_list">Indietro alla lista messaggi</string>
      <string name="button_close">Chiudi</string>
+     <string name="cm_privacy_dialog_allow">Consenti</string>
+     <string name="cm_privacy_dialog_cancel">Annulla</string>
+     <string name="cm_privacy_dialog_spannable_tips">"Protocollo di privacy dell'operatore mobile"</string>
+     <string name="cm_privacy_dialog_tips">"Il servizio degli SMS intelligenti è personalizzato dall'operatore. Se leggerai e accetterai il %1s, concorderai con l'esecuzione del servizio. Dovrai quindi connetterti ed individuare il servizio durante la fase di utilizzo. Proseguire?"</string>
+     <string name="cm_privacy_dialog_title">Attenzione</string>
      <string name="confirm_delete_conversation">Eliminare questo intero thread?</string>
      <string name="confirm_delete_group_message">Eliminare i messaggi di gruppo?</string>
      <string name="confirm_delete_locked_message">Eliminare questo messaggio bloccato?</string>
@@ -43,6 +48,8 @@
      <string name="sim2">SIM 2</string>
      <string name="smart_messages_network_allow_message">Mi Message ha bisogno di una connessione a internet per funzionare correttamente. Consentire adesso?</string>
      <string name="smart_messages_network_allow_title">Connessione internet richiesta</string>
+     <string name="summary_pref_cm_smart_sms">Fornisci modelli di scheda, numeri di servizio SMS, etc.</string>
      <string name="text_message">Testo messaggio</string>
+     <string name="title_pref_cm_smart_sms">SMS Intelligenti Cina Mobile</string>
      <string name="view_message_details">Visualizza dettagli</string>
 </resources>

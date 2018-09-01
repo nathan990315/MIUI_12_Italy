@@ -75,6 +75,7 @@
      <string name="artist_name">Artista</string>
      <string name="artist_news">Novità</string>
      <string name="artist_search_title">Artista</string>
+     <string name="artist_video">Videos</string>
      <string name="artist_view">Artista</string>
      <string name="asset_sync_alert_not_now">Non adesso</string>
      <string name="asset_sync_network_data_alert_message">Il backup dei brani utilizzando la rete dati mobile potrebbe comportare costi aggiuntivi. Proseguire con il backup?</string>
@@ -168,6 +169,7 @@
      <string name="data_usage_warning">Utilizzo dati</string>
      <string name="data_usage_warning_summary">Lo streaming in alta qualità tramite rete cellulare può aumentare il traffico dati.</string>
      <string name="date_format_str">dd-MM-yyyy</string>
+     <string name="default_songtab_name">Categorie playlist</string>
      <string name="delete">Elimina</string>
      <string name="delete_comment_failed">Impossibile eliminare il commento</string>
      <string name="delete_comment_successfully">Eliminazione commento riuscita</string>
@@ -288,6 +290,7 @@
      <string name="download_speed_null" />
      <string name="download_start">Avvio download…</string>
      <string name="download_start_apk">Avvio download...Controlla il progresso nel pannello delle notifiche</string>
+     <string name="download_start_apk_black_shark">Inizio download… Visualizza i progressi nei file.</string>
      <string name="download_start_btn">Download gratis</string>
      <string name="download_success">Completo</string>
      <string name="download_times">Download rimanenti: %d</string>
@@ -314,6 +317,7 @@
      <string name="download_while_playing_title">Memorizza durante lo streaming</string>
      <string name="downloaded_empty">Vuoto</string>
      <string name="downloading_apk">Già nel download manager...Controlla il progresso nella barra delle notifiche</string>
+     <string name="downloading_apk_black_shark">Downloading… View progress in the Files.</string>
      <string name="downloading_empty">Vuoto</string>
      <string name="downloading_pause_apk">Pausa...Continua a scaricare nella barra delle notifiche o sul desktop</string>
      <string name="downloads_operating">In corso…</string>
@@ -425,6 +429,10 @@
      <string name="global_search_title_prenatal">Musica prenatale</string>
      <string name="global_search_title_radar">Riconoscimento musica</string>
      <string name="go_to_settings">Vai nelle Impostazioni</string>
+     <string name="guide_playlist_content">Visualizza la nostra categorizzazione playlists</string>
+     <string name="guide_video_tab_content1">Visualizza video qui</string>
+     <string name="guide_video_tab_content2">Goditi ore di contenuto di qualità</string>
+     <string name="guide_video_tab_content3">Le colonne sono state spostate su \"Primo Piano\"</string>
      <string name="handle_later">Non adesso</string>
      <string name="hide_album">Nascondi Album</string>
      <string name="hide_lyric">Nascondi testi</string>
@@ -695,6 +703,8 @@ attendere o selezionare Musica Online."</string>
      <string name="permission_declaration_negative_text">Più tardi</string>
      <string name="permission_declaration_positive_text">Vai in Sicurezza</string>
      <string name="permission_declaration_title">Concedi accesso</string>
+     <string name="personal_radio_dislike">Riduci canzoni similari</string>
+     <string name="personal_radio_favorite">Inserito fra i preferiti, consiglia una canzone similare</string>
      <string name="play_all"><Data>Riproduci tutto&lt;font color=#999999>（%1$d）&lt;/font></Data></string>
      <string name="play_all_shuffle"><Data>Riproduci tutto casualmente&lt;font color=#999999>(%1$d)&lt;/font></Data></string>
      <string name="play_all_song">Riproduci tutti</string>
@@ -732,8 +742,10 @@ attendere o selezionare Musica Online."</string>
      <string name="price">Prezzo:</string>
      <string name="priority_storage">Usa scheda SD</string>
      <string name="priority_storage_summary">Scarica automaticamente su scheda SD, se disponibile</string>
+     <string name="privacy_category">Dettagli privacy</string>
      <string name="privacy_notif_content">Tocca per vedere i dettagli.</string>
      <string name="privacy_notif_title">"L'Acceleratore Download Xunlei è attivo"</string>
+     <string name="privacy_preference">Informativa sulla Privacy</string>
      <string name="privacy_tip_cancel">Annulla</string>
      <string name="privacy_tip_content">"Utilizzare l'Acceleratore Xunlei per velocizzare i download? L'URL del file verrà inviato ai server Xunlei. Anche i dettagli del tuo Mi Account verranno inviati per verificare lo stato del tuo abbonamento a questo servizio."</string>
      <string name="privacy_tip_ok">OK</string>
@@ -915,6 +927,7 @@ attendere o selezionare Musica Online."</string>
      <string name="tab_local_track_list">Brani</string>
      <string name="tab_track">Brani</string>
      <string name="tab_track_list">Brani</string>
+     <string name="tab_video_list">Video</string>
      <string name="take_effect_afater_restart">"Devi riavviare l'app Musica affinché questa impostazione abbia effetto."</string>
      <string name="talkback_back">Indietro</string>
      <string name="talkback_cloud_setting">Impostazioni</string>
@@ -955,6 +968,7 @@ attendere o selezionare Musica Online."</string>
      <string name="title_online_fm">Radio</string>
      <string name="title_online_fm_recommend">FM in evidenza</string>
      <string name="title_online_recommend">Playlist in evidenza</string>
+     <string name="title_online_recommend_type">Seleziona una categoria</string>
      <string name="title_online_release">Novità</string>
      <string name="title_online_song">Brani più richiesti</string>
      <string name="title_online_special">Tutte le pubblicazioni</string>

@@ -363,7 +363,6 @@ Le schede contatti sono disattivate"</string>
      <string name="device_import_progress_begin_message">Importazione…</string>
      <string name="device_import_progress_end_message">Importazione completata</string>
      <string name="device_import_progress_message">Importazione…</string>
-     <string name="device_import_progress_toast">%1$d contatti importati</string>
      <string name="device_import_title">Importa</string>
      <string name="device_list_title">Scegli un dispositivo</string>
      <string name="device_other_guide">Se il tuo dispositivo non è nella lista, segui i passi seguenti</string>
@@ -904,6 +903,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="preference_others">Altro</string>
      <string name="preference_phone">Telefono</string>
      <string name="preference_phone_more_title">Chiamate</string>
+     <string name="preference_privacy_policy_title">Privacy Policy</string>
      <string name="preference_remove_duplicate">Unisci contatti duplicati</string>
      <string name="preference_show_firewall_calllog">Mostra le chiamate bloccate nella cronologia delle chiamate</string>
      <string name="preference_show_yellowpage_tab_description">Se chiudi la scheda delle Pagine Gialle, la funzionalità Pagine Gialle non funzionerà correttamente</string>
@@ -948,6 +948,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="quickcontact_missing_app">Nessuna applicazione trovata per gestire questa azione.</string>
      <string name="quit_dialog_confirm_message">Non hai unito nessun contatto</string>
      <string name="quit_dialog_confirm_title">Nessun contatto unito</string>
+     <string name="rcs_app_name">Mini app</string>
      <string name="readOnlyContactDeleteConfirmation">Il contatto contiene informazioni da più account. Le informazioni provenienti da account di sola lettura verranno nascoste nei tuoi elenchi di contatti, non eliminate.</string>
      <string name="readOnlyContactWarning">"Non puoi eliminare i contatti da un account di sola lettura, ma puoi nasconderli dall'elenco contatti."</string>
      <string name="readingSimContacts">Lettura SIM…</string>

@@ -9,7 +9,7 @@
      <string name="app_search">Cerca app</string>
      <string name="btn_send">Invia</string>
      <string name="bugreport_dialog_not_show_again">Non mostrare più</string>
-     <string name="bugreport_dialog_submit_content">La tua segnalazione potrebbe contenere informazioni personali.</string>
+     <string name="bugreport_dialog_submit_content"><Data>"Stai attualmente salvando i log del software su questo dispositivo. I log potrebbero contenere informazioni personali ed i tuoi dati di posizione. Non condividere i log con nessun altro se non vuoi che queste informazioni diventino pubbliche. Cliccando su \"Accetto\" avrai letto e concordato con la nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Informativa sulla Privacy &lt;/a> e &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Accordo Utente&lt;/a>."</Data></string>
      <string name="bugreport_dump_complete_notification_summary">Tocca per leggere.</string>
      <string name="bugreport_dump_complete_notification_title">Segnalazione bug creata</string>
      <string name="bugreport_dump_start_notification_summary">Richiede circa un minuto.</string>
@@ -257,6 +257,7 @@
      <string name="plus_one_submit_dialog_content">La tua segnalazione, insieme al log di errore, verrà inviata ai server Xiaomi.</string>
      <string name="plus_one_submit_dialog_not_show_again">Ricorda la scelta</string>
      <string name="post_miui_bbs_failed">Impossibile postare sul Forum</string>
+     <string name="privacy_category_title">Privacy</string>
      <string name="privacy_policy_title">Informativa sulla Privacy</string>
      <string name="pull_to_refresh_pull_label">Trascina per aggiornare</string>
      <string name="pull_to_refresh_refreshing_label">Aggiornamento</string>
@@ -278,8 +279,8 @@
      <string name="select_system_app_tag">Seleziona tag</string>
      <string name="submit_dialog_cancel">Annulla</string>
      <string name="submit_dialog_confirm">Invia</string>
-     <string name="submit_dialog_content">La tua segnalazione, insieme al log di errore e alle immagini allegate, verrà inviata ai server Xiaomi.</string>
-     <string name="submit_dialog_content_global">"Il tuo feedback, con allegati e log, verrà inviato ai server MIUI. I log possono contenere informazioni personali e dati sulla tua posizione. Puoi decidere di non inviare i log non spuntando la relativa casella.</string>
+     <string name="submit_dialog_content"><Data>"La tua segnalazione, comprensiva di allegati e log, verrà inviata ai server MIUI. Questa potrebbe contenere informazioni personali ed i tuoi dati di posizione. Cliccando su \"Accetto\" avrai letto e concordato con la nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"> Informativa sulla Privacy&lt;/a> e &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"> Informativa Utente&lt;/a>."</Data></string>
+     <string name="submit_dialog_content_global"><Data>"La tua segnalazione, comprensiva di allegati (se presenti) e di log (potrai deselezionare le caselle corrispondenti agli elementi che non intendi caricare) verrà inviata ai server MIUI e ad una sezione con accesso limitato del Forum MIUI indirizzata agli sviluppatori. Le informazioni sui tuoi thread e sulle attività del forum verranno raccolte per analisi ed ulteriori comunicazioni. I log potrebbero contenere informazioni personali ed i tuoi dati di posizione. Selezionando \"Accetto\" avrai letto e concordato con la nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Informativa sulla Privacy&lt;/a> e &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\Accordo Utente&lt;/a>."</Data></string>
      <string name="submit_dialog_title">Invia segnalazione</string>
      <string name="submit_feedback_info_failed">Impossibile inviare segnalazione</string>
      <string name="suggestion_description">Scrivi qui i suggerimenti</string>
