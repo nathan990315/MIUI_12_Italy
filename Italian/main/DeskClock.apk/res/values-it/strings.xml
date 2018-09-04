@@ -147,9 +147,9 @@
      <string name="setting_alarm_arriving_title">Notifica prima di suonare</string>
      <string name="settings">Impostazioni</string>
      <string name="shut_down_keep_screen">La schermata non sarà mantenuta attiva</string>
-     <string name="shutdown_alarm_disable_summary">Spegnimento disattivato</string>
-     <string name="shutdown_alarm_enable_summary">Spegnimento abilitato</string>
-     <string name="shutdown_alarm_title">Spegnimento sveglia</string>
+     <string name="shutdown_alarm_disable_summary">La sveglia non si attiverà con dispositivo spento</string>
+     <string name="shutdown_alarm_enable_summary">La sveglia si attiverà con dispositivo spento</string>
+     <string name="shutdown_alarm_title">Sveglia dopo spegnimento</string>
      <string name="silent_alarm_summary">Silenziosa</string>
      <string name="skip_alarm_once_hint">Disattiva una volta il %s</string>
      <string name="slider_text">Scorri per silenziare</string>
