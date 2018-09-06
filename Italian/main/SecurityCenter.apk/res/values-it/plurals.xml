@@ -247,6 +247,14 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d mAh</item>
         <item quantity="one">%d mAh</item>
      </plurals>
+     <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Add %d minutes</item>
+        <item quantity="one">Add %d minute</item>
+     </plurals>
+     <plurals name="power_center_menu_text">
+        <item quantity="other">items</item>
+        <item quantity="one">item</item>
+     </plurals>
      <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d app sono nascoste</item>
         <item quantity="one">%d app è nascosta</item>
