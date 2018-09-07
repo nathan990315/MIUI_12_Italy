@@ -1061,7 +1061,7 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="charging_sounds_title">Suono di ricarica</string>
      <string name="check_find_device_status_failure_confirm">OK</string>
      <string name="check_importance">Controlla importanza</string>
-     <string name="check_importance_dialog_cancel">Cancel</string>
+     <string name="check_importance_dialog_cancel">Annulla</string>
      <string name="check_update">Verifica aggiornamenti</string>
      <string name="checkbox_notification_same_as_incoming_call">Usa volume chiamate in entrata per le notifiche</string>
      <string name="checking_decryption">Verifica…</string>
@@ -1087,11 +1087,11 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="clear_instant_app_data">Cancella app</string>
      <string name="clear_uri_btn_text">Annulla accesso</string>
      <string name="clear_user_data_text">Elimina dati</string>
-     <string name="close_aod">"This feature can't be combined with \"Always on mode\". Turn off \"Always on mode\" first."</string>
+     <string name="close_aod">"Questa funzionalità non può essere combinata con \"Modalità sempre attivo\". Disattiva prima \"Modalità sempre acceso\"."</string>
      <string name="close_app">Chiudi app in uso</string>
      <string name="close_demo_mode">Annulla</string>
-     <string name="close_fod">"You won't be able to unlock your device using your fingerprint when the screen is off. Fingerprint unlock will only work when the screen is on."</string>
-     <string name="close_fod_aod">"You won't be able to unlock your device using your fingerprint when the screen is off. \"Always on mode\" won't be available as well. Fingerprint unlock will only work when the screen is on."</string>
+     <string name="close_fod">Non sarai in grado di sbloccare il dispositivo utilizzando le impronte, quando lo schermo risulterà spento. Lo sblocco con impronta funziona solo a schermo attivo.</string>
+     <string name="close_fod_aod">"Non sarai in grado di sbloccare il dispositivo utilizzando le impronte, quando lo schermo risulterà spento. \"Sempre attivo\" non sarà disponibile. Lo sblocco con l'impronta funziona solo a schermo acceso."</string>
      <string name="close_gesture">Chiudi gesture in uso</string>
      <string name="close_miui_optimization_title">Disattiva ottimizzazione MIUI</string>
      <string name="close_optimization_message">"La disposizione del testo, dell'account e di altre parti esterne alla MIUI potrebbero risultare compromesse dopo aver disattivato questa funzionalità."</string>
@@ -2091,7 +2091,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="handy_mode_enable">Modalità mano singola</string>
      <string name="handy_mode_size">Dimensione schermo</string>
      <string name="handy_mode_tips">Scorri dal tasto Home verso sinistra o verso destra per ridurre le dimensioni dello schermo e portarlo da un lato.</string>
-     <string name="handy_mode_tips_full_screen">"When you're using full screen gestures, you can turn on one-handed mode using Quick ball. You can also switch to using buttons instead of full screen gestures."</string>
+     <string name="handy_mode_tips_full_screen">"Quando si utilizzano i gesti a schermo intero, è possibile attivare la modalità ad una mano utilizzando l'Assistente tocco. Puoi anche utilizzare i pulsanti anziché i gesti a schermo intero."</string>
      <string name="haptic_feedback_enable_title">Vibra alla pressione</string>
      <string name="haptic_feedback_level">Livello vibrazione</string>
      <string name="hardkeyboard_category">Impostazioni tastiera fisica</string>
@@ -4860,7 +4860,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="title_hdmi_color_calibration">Impostazione predefinita correzione colore</string>
      <string name="title_layout_current">Seleziona dimensione carattere</string>
      <string name="title_layout_current2">Dimensione carattere</string>
-     <string name="to_close">Turn off</string>
+     <string name="to_close">Disattiva</string>
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>
      <string name="total">Non disturbare</string>
