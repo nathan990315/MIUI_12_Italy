@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="action_cancel">Annulla</string>
      <string name="action_submit">Invia</string>
@@ -252,7 +252,6 @@
      <string name="non_system_app_select">App scaricate</string>
      <string name="open_feedback_main">Altro</string>
      <string name="packaging_dialog_content">Generazione segnalazione bug, si prega di attendere...</string>
-     <string name="permission_granted">%1$s permessi concessi</string>
      <string name="pic_not_exist">Questa immagine non esiste</string>
      <string name="plus_one_submit_dialog_content">La tua segnalazione, insieme al log di errore, verrà inviata ai server Xiaomi.</string>
      <string name="plus_one_submit_dialog_not_show_again">Ricorda la scelta</string>
@@ -290,9 +289,7 @@
      <string name="tab_title_my_reports">Le mie segnalazioni</string>
      <string name="tab_title_preferences">Impostazioni</string>
      <string name="tab_title_report">Segnalazione</string>
-     <string name="time_in_justnow">Poco fa</string>
      <string name="title_answer_feedback_main">Abbiamo trovato risposte!</string>
-     <string name="title_bbs_feedback_main">Maggiori informazioni sui telefoni Mi</string>
      <string name="title_customer_service">Servizio clienti</string>
      <string name="title_frequent_question_feedback_main">FAQ</string>
      <string name="title_mi_family">Negozi Mi Home vicini</string>

@@ -636,6 +636,9 @@
      <string name="cloudfolder_name_reserved">Il nome della cartella è riservato.</string>
      <string name="collage__talkback_effect">effetto %d</string>
      <string name="collage_choose">Scegli</string>
+     <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
+     <string name="collage_drawable_rect_date_month_day">dd MMM</string>
+     <string name="collage_drawable_rect_date_year">yyyy</string>
      <string name="collage_margin_text">Margine</string>
      <string name="collage_mirror">Specchio</string>
      <string name="collage_poster_global_cat_text">Cuccioli</string>
@@ -1239,6 +1242,10 @@ per personalizzare la Galleria"</string>
      <string name="play_gif_desc">Riproduci GIF</string>
      <string name="play_video_desc">Riproduci video</string>
      <string name="preparing_data">Preparazione…</string>
+     <string name="privacy_permission_request_message">Gallery needs access to %3$s. The information we collect will be used in accordance with our %1$s and %2$s. Allow?</string>
+     <string name="privacy_permission_request_negative">Restrict</string>
+     <string name="privacy_permission_request_positive">Allow</string>
+     <string name="privacy_permission_request_title">Permissions required</string>
      <string name="projection_cancel">Annulla</string>
      <string name="projection_checkbox_text">Ricorda questo schermo</string>
      <string name="projection_device_connection_failed">Impossibile collegare il proiettore</string>
@@ -1541,10 +1548,15 @@ per personalizzare la Galleria"</string>
      <string name="video_editor_auto_trim">Ritaglia autom.</string>
      <string name="video_editor_auto_trim_tip">Ritaglio automatico…</string>
      <string name="video_editor_cancel">Annulla</string>
+     <string name="video_editor_cancel_download">Cancel</string>
      <string name="video_editor_done">Fatto</string>
      <string name="video_editor_down_load_later">Più tardi</string>
      <string name="video_editor_down_load_no_wifi_tips">Collega al Wi-Fi per scaricare</string>
      <string name="video_editor_down_load_now">Scarica</string>
+     <string name="video_editor_download">Download</string>
+     <string name="video_editor_download_failed_for_notwork">"Couldn't download. Connect to the network and try again."</string>
+     <string name="video_editor_download_without_wifi_msg">"Using mobile data connection to download files will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
+     <string name="video_editor_download_without_wifi_title">Data usage warning</string>
      <string name="video_editor_encode_video">Codifica video…</string>
      <string name="video_editor_encode_video_error">Impossibile codificare il video</string>
      <string name="video_editor_fatal_error">Errore sconosciuto</string>
@@ -1583,6 +1595,8 @@ per personalizzare la Galleria"</string>
      <string name="video_editor_res_download_mobil_network_confirm_msg">Scaricare tramite rete dati cellulare?</string>
      <string name="video_editor_res_download_mobil_network_confirm_title">Utilizza rete dati cellulare</string>
      <string name="video_editor_res_not_load_dialog_msg">Scarica il plugin per poter utilizzare questa funzionalità.</string>
+     <string name="video_editor_return">Back</string>
+     <string name="video_editor_save">Save</string>
      <string name="video_editor_smart_effect_beat">Battito</string>
      <string name="video_editor_smart_effect_big_film">Epicità</string>
      <string name="video_editor_smart_effect_cadence">Ritmo</string>

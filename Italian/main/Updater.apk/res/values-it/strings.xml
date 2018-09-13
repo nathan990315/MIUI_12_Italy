@@ -50,6 +50,9 @@
      <string name="button_text_update">Aggiorna</string>
      <string name="cancel">Annulla</string>
      <string name="cancel_download">Interrompere il download di questo aggiornamento?</string>
+     <string name="check_local_package_suggest_wipe_checkbox">Wipe data</string>
+     <string name="check_local_package_suggest_wipe_msg">"The update package you selected (%s) is older than the current version. Using this package directly may lead to errors. It's best to wipe data before proceeding to the next step"</string>
+     <string name="check_local_package_suggest_wipe_title">Wipe data to update</string>
      <string name="check_local_package_update_btn">Riavvia e aggiorna</string>
      <string name="check_local_package_update_btn_ab">Aggiorna</string>
      <string name="check_local_package_update_msg">"Stai per aggiornare MIUI alla versione %s. Il dispositivo si riavvierà automaticamente durante l'aggiornamento."</string>
@@ -197,6 +200,7 @@ I dati non verranno cancellati."</string>
      <string name="menu_title_apply_for_alpha">Accedi al programma di beta test</string>
      <string name="menu_title_current_version_log">Riepilogo aggiornamento</string>
      <string name="menu_title_download_current_rom">Scarica pacchetto di aggiornamento</string>
+     <string name="menu_title_express_update">Request stable ROM update​</string>
      <string name="menu_title_feedback">Segnalazione</string>
      <string name="menu_title_pick_rom_file">Seleziona pacchetto di aggiornamento</string>
      <string name="menu_title_privacy">Informativa sulla Privacy</string>
@@ -333,6 +337,8 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="set_auto_msg">Quando viene rilevata una nuova versione non devi aggiornare manualmente, il sistema sceglierà il momento migliore per aggiornare, sotto copertura rete Wi-Fi.</string>
      <string name="set_auto_update_msg">La MIUI installerà gli aggiornamenti quando non utilizzerai il dispositivo</string>
      <string name="set_auto_update_title">Lancia aggiornamenti automaticamente</string>
+     <string name="set_connect_error_msg">"Check your network settings and try again. If you still can't download updates after that, report this issue using the \"Feedback\" app."</string>
+     <string name="set_connect_error_title">"Couldn't connect to the server"</string>
      <string name="set_installfail_full_msg">Impossibile aggiornare in questo momento. Tocca \"OK\" per segnalare questo errore ai nostri sviluppatori."</string>
      <string name="set_installfail_msg">Il download di questo aggiornamento tramite rete dati cellulare influirà sul tuo traffico dati.</string>
      <string name="set_installfail_title">"Provare a scaricare di nuovo l'aggiornamento?"</string>

@@ -1004,6 +1004,7 @@ Riprova tra %2$d secondi."</string>
      <string name="miui_ringer_standard_description">Silenzia le suonerie per le chiamate in arrivo e le notifiche</string>
      <string name="miui_ringer_total">NON DIST.</string>
      <string name="miui_ringer_total_description">Silenzia i suoni e disattiva la vibrazione per tutti gli elementi tranne le sveglie</string>
+     <string name="miui_screen_rotation_freeze_message">Auto-rotate disabled.</string>
      <string name="miui_toast_zen_dnd_to_off">Suoni e vibrazione ripristinati alla normalità</string>
      <string name="miui_toast_zen_standard_to_off">Suonerie ripristinate alla normalità</string>
      <string name="miui_toast_zen_standard_to_off_when_shield_media">Le suonerie, così come suoni di notifica e multimediali, verranno riprodotti.</string>
@@ -1472,7 +1473,9 @@ essere monitorata"</string>
      <string name="status_bar_alarm">Sveglia</string>
      <string name="status_bar_clear_all_button">Pulisci</string>
      <string name="status_bar_clock_date_format">EEEE, dd MMMM</string>
-     <string name="status_bar_clock_date_format_12">EEEE, MMMM d</string>
+     <string name="status_bar_clock_date_format_12">EEEE, d MMMM</string>
+     <string name="status_bar_clock_date_time_format">H:mm d MMMM</string>
+     <string name="status_bar_clock_date_time_format_12">aah:mm d MMMM</string>
      <string name="status_bar_date_format">EEEE, dd MMMM</string>
      <string name="status_bar_date_format_12">EEEE, dd MMMM</string>
      <string name="status_bar_ethernet">LAN</string>
