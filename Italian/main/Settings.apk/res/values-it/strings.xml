@@ -260,12 +260,15 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="animator_duration_scale_title">Scala durata animatore</string>
      <string name="another_migration_already_in_progress">"E' già in corso un'altra migrazione."</string>
      <string name="anti_spam">Antispam</string>
+     <string name="aod_close_color_inversion">"Questa funzionalità non può essere combinata con l'inversione del colore. Disattiva prima l'inversione del colore."</string>
+     <string name="aod_got_it">Fatto</string>
      <string name="aod_mode_summary">Mostra ora, data e messaggi a schermo spento.</string>
      <string name="aod_mode_time_summary">"Pianifica l'ora in cui il dispositivo dovrà passare alla modalità Sempre attivo"</string>
      <string name="aod_mode_time_title">Pianifica</string>
      <string name="aod_mode_title">Modalità Sempre attivo</string>
      <string name="aod_mode_turn_off">Disattiva</string>
      <string name="aod_mode_turn_on">Attiva</string>
+     <string name="aod_to_close">Disattiva</string>
      <string name="apn_apn">APN</string>
      <string name="apn_auth_type">Tipo di autenticazione</string>
      <string name="apn_auth_type_chap">CHAP</string>
@@ -1061,6 +1064,7 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="charging_sounds_title">Suono di ricarica</string>
      <string name="check_find_device_status_failure_confirm">OK</string>
      <string name="check_importance">Controlla importanza</string>
+     <string name="check_importance_dialog_cancel">Annulla</string>
      <string name="check_update">Verifica aggiornamenti</string>
      <string name="checkbox_notification_same_as_incoming_call">Usa volume chiamate in entrata per le notifiche</string>
      <string name="checking_decryption">Verifica…</string>
@@ -1086,8 +1090,11 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="clear_instant_app_data">Cancella app</string>
      <string name="clear_uri_btn_text">Annulla accesso</string>
      <string name="clear_user_data_text">Elimina dati</string>
+     <string name="close_aod">"Questa funzionalità non può essere combinata con \"Modalità sempre attivo\". Disattiva prima \"Modalità sempre acceso\"."</string>
      <string name="close_app">Chiudi app in uso</string>
      <string name="close_demo_mode">Annulla</string>
+     <string name="close_fod">Non sarai in grado di sbloccare il dispositivo utilizzando le impronte, quando lo schermo risulterà spento. Lo sblocco con impronta funziona solo a schermo attivo.</string>
+     <string name="close_fod_aod">"Non sarai in grado di sbloccare il dispositivo utilizzando le impronte, quando lo schermo risulterà spento. \"Sempre attivo\" non sarà disponibile. Lo sblocco con l'impronta funziona solo a schermo acceso."</string>
      <string name="close_gesture">Chiudi gesture in uso</string>
      <string name="close_miui_optimization_title">Disattiva ottimizzazione MIUI</string>
      <string name="close_optimization_message">"La disposizione del testo, dell'account e di altre parti esterne alla MIUI potrebbero risultare compromesse dopo aver disattivato questa funzionalità."</string>
@@ -1939,6 +1946,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="floating_window_switch_label_disable">Nascondi finestre popup</string>
      <string name="fluency_mode">Ottimizza le prestazioni di sistema</string>
      <string name="fluency_mode_confirm_and_reboot">Riavvia adesso</string>
+     <string name="following_us_title">Seguici</string>
      <string name="font_size_exhuge">Enorme</string>
      <string name="font_size_huge">Molto grande</string>
      <string name="font_size_large">Grande</string>
@@ -2087,6 +2095,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="handy_mode_enable">Modalità mano singola</string>
      <string name="handy_mode_size">Dimensione schermo</string>
      <string name="handy_mode_tips">Scorri dal tasto Home verso sinistra o verso destra per ridurre le dimensioni dello schermo e portarlo da un lato.</string>
+     <string name="handy_mode_tips_full_screen">"Quando si utilizzano i gesti a schermo intero, è possibile attivare la modalità ad una mano utilizzando l'Assistente tocco. Puoi anche utilizzare i pulsanti anziché i gesti a schermo intero."</string>
      <string name="haptic_feedback_enable_title">Vibra alla pressione</string>
      <string name="haptic_feedback_level">Livello vibrazione</string>
      <string name="hardkeyboard_category">Impostazioni tastiera fisica</string>
@@ -2912,7 +2921,7 @@ ed esegui il software."</string>
      <string name="navigation_guide_app_title">"Azione per l'app"</string>
      <string name="navigation_guide_appswitch_anim_summary">"Scorri sullo schermo partendo dal bordo per tornare all'app precedente"</string>
      <string name="navigation_guide_appswitch_anim_title">"Passa all'app precedente"</string>
-     <string name="navigation_guide_appswitch_click">Attiva prima \"Torna all\'app precedente\"</string>
+     <string name="navigation_guide_appswitch_click">"Attiva prima \"Torna all\'app precedente\""</string>
      <string name="navigation_guide_appswitch_summary">Scorri verso sinistra o verso destra dai bordi dello schermo e mantieni il tocco per un pò</string>
      <string name="navigation_guide_appswitch_title">"Passa all'app precedente"</string>
      <string name="navigation_guide_back_summary">Scorri a destra o sinistra sullo schermo</string>
@@ -3783,7 +3792,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="screen_key_press">Pressione semplice tasti</string>
      <string name="screen_key_press_action">Attivazione</string>
      <string name="screen_locking_sounds_title">Suoni blocco schermo</string>
-     <string name="screen_max_aspect_ratio_desc">"L'app Meteo può funzionare a tutto schermo"</string>
+     <string name="screen_max_aspect_ratio_desc">Consente alle app selezionate di funzionare a tutto schermo</string>
      <string name="screen_max_aspect_ratio_title">Impostazioni proporzioni massime</string>
      <string name="screen_monochrome_mode_apps_loading">Solo un attimo...</string>
      <string name="screen_monochrome_mode_apps_title">Usa la modalità Monocromatica</string>
@@ -4472,7 +4481,9 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_basic_settings">Impostazioni base</string>
      <string name="status_bar_settings_custom_carrier">"Modifica il nome dell'operatore"</string>
      <string name="status_bar_settings_custom_wifi_name">Modifica nome rete Wi-Fi</string>
+     <string name="status_bar_settings_customer_feedback">Segnalazione bug</string>
      <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
+     <string name="status_bar_settings_function_description">Info su questa funzionalità</string>
      <string name="status_bar_settings_long_click_sort">Tieni premuto per ordinare</string>
      <string name="status_bar_settings_manage_notification">Gestisci notifiche</string>
      <string name="status_bar_settings_no_carrier">Nessuna</string>
@@ -4500,6 +4511,11 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_toggle_collapse_after_clicked">Chiudi dopo il tocco</string>
      <string name="status_bar_settings_toggle_position">Posizione comandi</string>
      <string name="status_bar_settings_user_fold">Notifiche cartelle</string>
+     <string name="status_bar_settings_user_fold_description1">La cartella delle notifiche è stata introdotta sulla MIUI 9. Questa funzionalità filtra le notifiche non importanti, spostandole in una cartella separata.</string>
+     <string name="status_bar_settings_user_fold_description2">La MIUI ricorderà quali notifiche verranno aperte, ed utilizzerà criteri multipli per determinarne il grado di importanza.</string>
+     <string name="status_bar_settings_user_fold_description3">"Se le notifiche che ritieni importanti si trovano ancora nella cartella delle notifiche, assicurati di segnalarci tale problema. Apprezzeremmo la tua segnalazione."</string>
+     <string name="status_bar_settings_user_fold_disable">Disattiva</string>
+     <string name="status_bar_settings_user_fold_enable">Attiva</string>
      <string name="status_bar_settings_user_fold_summary">Tutte le notifiche non importanti verranno visualizzate in una cartella separata</string>
      <string name="status_bar_style_list">Singola pagina</string>
      <string name="status_bar_style_page">Doppia pagina</string>
@@ -4853,8 +4869,10 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="title_font_current2">Carattere di sistema</string>
      <string name="title_font_size">Dimensioni carattere</string>
      <string name="title_hdmi_color_calibration">Impostazione predefinita correzione colore</string>
+     <string name="title_jeejen">Schermata Home Jeejen</string>
      <string name="title_layout_current">Seleziona dimensione carattere</string>
      <string name="title_layout_current2">Dimensione carattere</string>
+     <string name="to_close">Disattiva</string>
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>
      <string name="total">Non disturbare</string>

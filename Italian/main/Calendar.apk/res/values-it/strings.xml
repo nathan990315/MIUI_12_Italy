@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="abc_action_bar_home_description">Naviga alla home</string>
+     <string name="abc_action_bar_up_description">Naviga in alto</string>
+     <string name="abc_action_menu_overflow_description">Piú opzioni</string>
+     <string name="abc_action_mode_done">Fatto</string>
+     <string name="abc_activity_chooser_view_see_all">Vedi tutto</string>
+     <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
+     <string name="abc_capital_off">DISATTIVA</string>
+     <string name="abc_capital_on">ATTIVA</string>
+     <string name="abc_search_hint">Cerca…</string>
+     <string name="abc_searchview_description_clear">Pulisci query</string>
+     <string name="abc_searchview_description_query">Cerca query</string>
+     <string name="abc_searchview_description_search">Cerca</string>
+     <string name="abc_searchview_description_submit">Invia query</string>
+     <string name="abc_searchview_description_voice">Ricerca vocale</string>
+     <string name="abc_shareactionprovider_share_with">Condividi con</string>
+     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+     <string name="abc_toolbar_collapse_description">Raggruppa</string>
      <string name="accessibility_add_attendee">Aggiungi partecipante</string>
      <string name="accessibility_all_day">Tutto il giorno</string>
      <string name="accessibility_pick_start_date">Inizio data</string>
@@ -133,7 +150,7 @@
      <string name="edit_event_birthday_import_from_contact">Importa compleanno dai contatti</string>
      <string name="edit_event_birthday_name_empty_hint">Inserisci un nome</string>
      <string name="edit_event_birthday_name_hint">Nome</string>
-     <string name="edit_event_birthday_reminder_3_days_before">Ricorda 3 giorni in anticipo</string>
+     <string name="edit_event_birthday_reminder_3_days_before">Ricorda 3 giorni prima</string>
      <string name="edit_event_birthday_reminder_time">Orario promemoria</string>
      <string name="edit_event_calendar_label">Calendario</string>
      <string name="edit_event_choose_date">Scegli data</string>
@@ -144,9 +161,9 @@
      <string name="edit_event_input_year">Inserisci anno</string>
      <string name="edit_event_label">Modifica evento</string>
      <string name="edit_event_no_reminder_value">Non ricordare</string>
-     <string name="edit_event_reminder_3_days_before">Ricorda con 3 giorni prima</string>
+     <string name="edit_event_reminder_3_days_before">Ricorda 3 giorni prima</string>
      <string name="edit_event_reminder_summary">In quel giorno a %1$s</string>
-     <string name="edit_event_reminder_summary_3_days_before">3 giorni di anticipo rispetto al giorno alle ore %1$s</string>
+     <string name="edit_event_reminder_summary_3_days_before">3 giorni prima dell\'evento alle ore %1$s</string>
      <string name="edit_event_reminder_text">Il %1$s ore %2$s</string>
      <string name="edit_event_reminder_time">Orario promemoria</string>
      <string name="edit_event_reminder_with_another_day_text">dal %1$s,al %2$s ore %3$s</string>

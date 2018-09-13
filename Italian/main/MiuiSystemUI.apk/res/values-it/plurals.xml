@@ -52,6 +52,18 @@
         <item quantity="other">%1$d o %2$d m</item>
         <item quantity="one">%1$d o %2$d m</item>
      </plurals>
+     <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">%d ore rimanenti</item>
+        <item quantity="one">%d ora rimanente</item>
+     </plurals>
+     <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">%d minuti rimanenti</item>
+        <item quantity="one">%d minuto rimanente</item>
+     </plurals>
+     <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">%1$d o e %2$d m rimanenti</item>
+        <item quantity="one">%1$d o %2$d m rimanenti</item>
+     </plurals>
      <plurals name="kg_password_default_pin_message">
         <item quantity="other">Immetti PIN SIM, hai %d tentativi rimasti.</item>
         <item quantity="one">Immetti PIN SIM, hai %d tentativo rimanente prima di contattare il tuo operatore per sbloccare il dispositivo.</item>

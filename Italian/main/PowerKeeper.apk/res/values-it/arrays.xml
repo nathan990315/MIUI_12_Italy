@@ -25,7 +25,8 @@
         <item>Modalità prestazioni</item>
      </string-array>
      <string-array name="thermal_summaries">
-        <item>Questa modalità darà precedenza alla regolazione della temperatura</item>
-        <item>Questa modalità darà precedenza alle prestazioni. La temperatura potrebbe aumentare significativamente</item>
+        <item>Priorità alla regolazione della temperatura</item>
+        <item>Priorità alle prestazioni</item>
+		<item>Configurazione disabilitata in modalità potenza estrema</item>
      </string-array>
 </resources>
