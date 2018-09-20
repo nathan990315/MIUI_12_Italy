@@ -60,6 +60,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Cerca tra %d app</item>
         <item quantity="one">Cerca tra %d app</item>
      </plurals>
+     <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d apps may be displayed incorrectly. Restrict floating notifications.</item>
+        <item quantity="one">%d app may be displayed incorrectly. Restrict floating notifications.</item>
+     </plurals>
      <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problemi richiedono ottimizzazione</item>
         <item quantity="one">%1$d problema richiede ottimizzazione</item>

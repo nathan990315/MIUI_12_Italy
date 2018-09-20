@@ -114,6 +114,7 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="accessibility_shortcut_service_on_lock_screen_title">Consenti da lockscreen</string>
      <string name="accessibility_shortcut_service_title">Servizio collegamento</string>
      <string name="accessibility_summary_default_combination">%1$s / %2$s</string>
+     <string name="accessibility_summary_source">Provided by %s</string>
      <string name="accessibility_summary_state_disabled">Disattivato</string>
      <string name="accessibility_summary_state_enabled">Attivato</string>
      <string name="accessibility_sync_disabled">Sincronizzazione disabilitata</string>
@@ -913,9 +914,12 @@ Frequenza Campione"</string>
      <string name="bootloader_device_bind_fail">Impossibile verificare, attendi un minuto o due e riprova</string>
      <string name="bootloader_device_bind_msg">"Preparazione all'aggiunta di account e dispositivo…"</string>
      <string name="bootloader_device_bind_no_account">Accedi prima al tuo Mi Account</string>
+     <string name="bootloader_device_bind_no_data_network">Turn off WLAN and add your account and device using mobile data.</string>
      <string name="bootloader_device_bind_no_network">Connettiti alla rete e riprova</string>
      <string name="bootloader_device_bind_no_sim">Inserisci scheda SIM e riprova.</string>
      <string name="bootloader_device_bind_server_code">Impossibile aggiungere. Codice di errore:</string>
+     <string name="bootloader_device_bind_server_token_expired_1">"Couldn't verify. Try adding your account and device again."</string>
+     <string name="bootloader_device_bind_server_token_expired_2">"Couldn't verify. Sign in to your account again and start over."</string>
      <string name="bootloader_device_bind_sim_invalid">Scheda SIM non valida. Sostituisci e riprova.</string>
      <string name="bootloader_locked_answer_1">"Blocchiamo i dispositivi per garantire la sicurezza e la protezione delle tue informazioni personali da terze parti. Se devi entrare in modalità Fastboot e flashare il tuo telefono, puoi sbloccarlo."</string>
      <string name="bootloader_locked_answer_1_warning">"Ricorda: non sarai in grado di utilizzare \"Trova telefono\" dopo aver sbloccato il telefono."</string>
@@ -1216,6 +1220,7 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="credentials_reset_warning_plural">"Password non corretta. Hai altre %1$d possibilità prima che l'archivio credenziali venga eliminato."</string>
      <string name="credentials_settings_not_available">Credenziali non disponibili per questo utente</string>
      <string name="credentials_title">Archivio credenziali</string>
+     <string name="credentials_title_verification">Verification</string>
      <string name="credentials_unlock" />
      <string name="credentials_unlock_hint">"Digita la password per l'archivio credenziali."</string>
      <string name="credentials_wrong_password">Password errata.</string>
@@ -2761,6 +2766,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
      <string name="mi_shopping_mall">Mi Store</string>
      <string name="mi_upi_settings">Mi Pay Account</string>
+     <string name="mipush_fake_channel_group_name">Mi Push</string>
      <string name="misc_files">File vari</string>
      <string name="misc_files_selected_count">selezionati %1$d di %2$d</string>
      <string name="misc_files_selected_count_bytes">%1$s su %2$s</string>

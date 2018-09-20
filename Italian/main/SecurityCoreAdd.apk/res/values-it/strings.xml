@@ -45,6 +45,8 @@ questa funzionalità verrà aggiunta automaticamente al Secondo Spazio."</string
      <string name="confirmDelete">Elimina</string>
      <string name="confirmSecondSpacePassword">Conferma la password del Secondo Spazio</string>
      <string name="confirm_airspace_password">Conferma password %s</string>
+     <string name="confirm_close_password_desc">"You won't be able to enter Second space from the Lock screen after you turn the password off. Turn off anyway?"</string>
+     <string name="confirm_close_password_title">Turning off password</string>
      <string name="confirm_main_space_password">Conferma la password del Primo Spazio</string>
      <string name="confirm_restore">Non mostrare</string>
      <string name="contactData">Contatti</string>
@@ -89,8 +91,8 @@ per essere in grado di vederli sempre"</string>
      <string name="ent_activating">Attivazione…</string>
      <string name="ent_activation">Attiva</string>
      <string name="ent_activation_hint">Inserisci il tuo codice aziendale insieme al codice di licenza di attivazione della modalità Aziendale. Dopo aver effettuato questo passaggio, i servizi aziendali personalizzati verranno abilitati.</string>
-     <string name="ent_activation_hint_whit_licence">"Attiva la modalità Aziendale per abilitare i servizi aziendali personalizzati.
-Assicurati che il nome della tua azienda sia corretto. Leggi e accetta le relative politiche sulla privacy prima di eseguire l'attivazione".</string>
+     <string name="ent_activation_hint_whit_licence">""Attiva la modalità Aziendale per abilitare i servizi aziendali personalizzati.
+Assicurati che il nome della tua azienda sia corretto. Leggi e accetta le relative politiche sulla privacy prima di eseguire l'attivazione"."</string>
      <string name="ent_agency_code">Codice aziendale</string>
      <string name="ent_agency_code_hint">Inserisci codice aziendale</string>
      <string name="ent_agency_code_invalid">Il codice aziendale inserito non è valido</string>

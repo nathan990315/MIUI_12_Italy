@@ -3,8 +3,6 @@
      <string name="SMTP_independent_verification_text">Verifica SMTP indipendente</string>
      <string name="SMTP_password_text">Password</string>
      <string name="SMTP_username_text">Nome utente</string>
-     <string name="accessibility_guide_first">Nella prossima schermata, seleziona il tab \"Servizi\" per attivare il 139 Email Configurazione Automatica</string>
-     <string name="accessibility_guide_second">"Poi tocca il comando nell'angolo in alto a destra, tocca \"Conferma\" per continuare."</string>
      <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
      <string name="account_duplicate_dlg_title">Account duplicato</string>
      <string name="account_failure">Errore account</string>
@@ -46,6 +44,7 @@
      <string name="account_settings_notify_summary">"Notifica sulla barra di sistema l'arrivo di una email"</string>
      <string name="account_settings_param">Impostazioni account</string>
      <string name="account_settings_policies">Condizioni di sicurezza</string>
+     <string name="account_settings_preference_add_account">Add email account</string>
      <string name="account_settings_preference_att_save_path">Posizione predefinita per gli allegati</string>
      <string name="account_settings_preference_head_icon">Cambio intestazione verticale</string>
      <string name="account_settings_preference_notify">Nota</string>
@@ -213,10 +212,7 @@
      <string name="auto_advance_summary">"Scegli quale schermata visualizzare dopo l'eliminazione di un messaggio"</string>
      <string name="auto_login_fail">Accesso automatico fallito</string>
      <string name="auto_login_fail_to_retry">Accesso automatico fallito, prova di nuovo.</string>
-     <string name="auto_mail_describe">139 Email è un servizio di configurazione automatica che può aiutare a compilare le informazioni di login sulla casella di posta. Desideri attivare questa funzionalità?</string>
-     <string name="auto_mail_disable_txt">Disattivato</string>
      <string name="auto_mail_enable_txt">Inizia impostazioni</string>
-     <string name="auto_mail_go_email">Casella di posta</string>
      <string name="auto_mail_name">AutoMail</string>
      <string name="auto_mail_title_note">"Trova l'opzione 139 Email Configurazione Automatica, tocca per iniziare."</string>
      <string name="auto_mail_window_description">Servizio 139 Email Configurazione Automatica</string>
@@ -260,6 +256,7 @@
      <string name="chat_item_msg_people_unit">persone</string>
      <string name="chat_item_msg_user_etc">…</string>
      <string name="check_setup_data">Validazione impostazioni server…</string>
+     <string name="chinese">Chinese</string>
      <string name="choosertitle_sharevia">Condividi tramite</string>
      <string name="clear">Cancella</string>
      <string name="clear_display_images_whitelist_dialog_message">Non visualizza più le immagini in linea nei messaggi da mittenti precedentemente approvati.</string>
@@ -267,7 +264,6 @@
      <string name="clear_display_images_whitelist_title">Revoca consenso immagini</string>
      <string name="click_download_all_content">[Tocca per scaricare]</string>
      <string name="click_to_reload">Tocca lo schermo per ricaricare</string>
-     <string name="close">Chiudi</string>
      <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
      <string name="compose">Scrivi</string>
      <string name="compose_attachment_number_limit">Non puoi inserire più di 10 allegati</string>
@@ -409,7 +405,6 @@
      <string name="edit_quick_response_dialog">Risposta veloce</string>
      <string name="edit_signature">Modifica firma</string>
      <string name="elided_padding_token"> </string>
-     <string name="email_address">Indirizzo email</string>
      <string name="email_feedback_uri" />
      <string name="email_netease">NetEase Mail</string>
      <string name="email_qq">QQ Mail</string>
@@ -455,7 +450,6 @@
      <string name="file_save_term">File salvataggio termine</string>
      <string name="filtered_tag">" [%1$s]%2$s"</string>
      <string name="first_quick_default_reply">Tocca questo collegamento, \"%s\" verrà inviato a tutti i destinatari.</string>
-     <string name="float_window_content">"Rilevato che si sta utilizzando la casella di posta, premi su Conferma per impostare automaticamente l'account e password di 139 Email."</string>
      <string name="float_window_info">Quando stai configurando la 139 email, non puoi operare con il telefono,altrimenti la configurazione fallirà.</string>
      <string name="float_window_title">Configurazione………</string>
      <string name="folder_drafts_name_cn0">草稿</string>
@@ -528,7 +522,6 @@
      <string name="header_category_other">Segnalazione bug</string>
      <string name="header_label_general_preferences">Generali</string>
      <string name="help_and_info">Guida</string>
-     <string name="help_config">Auto configurazione</string>
      <string name="hide_elided">▼ Nascondi testo citato</string>
      <string name="hide_password">hide password</string>
      <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -570,8 +563,10 @@
      <string name="mail_description_content">"E-mail è un client email capace di gestire più account, supporta l'invio e la ricezione, tag email e fornisce funzionalità quali la Modalità Sessione, mail di fatturazione, ordinamento email ed altri servizi. Dopo la cancellazione di questa app tutti i dati delle email verranno persi."</string>
      <string name="mail_description_title">Presentazione Email</string>
      <string name="mail_header_network_not_available">Non hai una connessione di rete.</string>
+     <string name="mail_search_lab">search label</string>
      <string name="mailbox_list_account_selector_combined_view">Visualizzazione combinata</string>
      <string name="mailbox_name_display_ad">Pubblicità e notifiche</string>
+     <string name="mailbox_name_display_add_account">Add email account</string>
      <string name="mailbox_name_display_circular">Notifiche</string>
      <string name="mailbox_name_display_drafts">Bozze</string>
      <string name="mailbox_name_display_inbox">In arrivo</string>
@@ -680,7 +675,6 @@ Prova a passare ad un diverso account email."</string>
      <string name="no_matched_attachment">Nessun allegato corrispondente.</string>
      <string name="no_recognize_describe">"Impossibile trovare email contenenti biglietti o prenotazioni.
 Prova con una diverso account."</string>
-     <string name="no_remind">Non ricordare</string>
      <string name="not_subject">(Nessun oggetto)</string>
      <string name="not_synced_title">Account non sincronizzato</string>
      <string name="note_text">Possibile tramite la rete di China Mobile o verifica SMS, potrebbero generare costi aggiuntivi per traffico o SMS.</string>
@@ -694,6 +688,9 @@ Prova con una diverso account."</string>
      <string name="notification_action_undo_delete">Eliminata</string>
      <string name="notification_action_undo_remove_label">Etichetta rimossa</string>
      <string name="notification_exchange_calendar_added">Calendario Exchange aggiunto</string>
+     <string name="notify_channel_new_mail">Notify about new messages</string>
+     <string name="notify_channel_permission_notice">Permission Notice reminder</string>
+     <string name="notify_channel_send_fail">Notify about failed delivery</string>
      <string name="oauth_error_description">Impossibile autenticare</string>
      <string name="oauth_gmail_login_notify">Secondo le procedure richieste da Google, dovresti inserire la tua password nella pagina di autorizzazione Google</string>
      <string name="oauth_login_continue">Continua</string>
@@ -741,6 +738,7 @@ Prova con una diverso account."</string>
      <string name="overlays_fail_tip">Siamo spiacenti mala la tua casella email non è configurata correttamente, apri la finestra a comparsa con richiesta dei permessi e prova di nuovo</string>
      <string name="overlays_ok">Apri permessi</string>
      <string name="overlays_tip">Apri le finestre dei permessi e goditi subito la casella 139 per configurare automaticamente la grande esperienza.</string>
+     <string name="overlays_tip_23">Open floating Windows permissions, and immediately enjoy 139 mailbox to automatically configure the extreme experience.</string>
      <string name="overlays_title">Apri le finestre dei permessi</string>
      <string name="parase_setup_data">Recupero dati di configurazione…</string>
      <string name="parse_bill_discribe">Bollette con carta di credito …</string>
@@ -926,6 +924,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="refreshing_done">Sincronizzazione completata</string>
      <string name="release_to_refresh">Rilascia per aggiornare</string>
      <string name="remind_attachment_size_limit">La dimensione delle email deve essere inferiore a %sMB</string>
+     <string name="remote_no_mail">remote_no_mail</string>
      <string name="remove_account">Rimuovi account</string>
      <string name="remove_folder">Rimuovi da %1$s</string>
      <string name="remove_star">Non preferito</string>
@@ -1002,6 +1001,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="shortcut_name_title">Abbreviazione nome cartella</string>
      <string name="show_elided">▶ Mostra testo citato</string>
      <string name="show_images">Mostra immagini</string>
+     <string name="show_more_attachment">More attachments</string>
      <string name="show_password">show password</string>
      <string name="signature">"
 
@@ -1027,7 +1027,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="subject_hint">Oggetto</string>
      <string name="sync_contacts_fail_per_content">Concedi permessi contatti, tocca per concedere</string>
      <string name="sync_contacts_fail_per_title">Sincronizzazione Contatti fallita</string>
-     <string name="sync_contacts_fail_permission">Sincronizzazione Contatti fallita, l\'accesso ai contatti non è abilitata, vai nelle Impostazioni - gestione permessi</string>
+     <string name="sync_contacts_fail_permission">"Sincronizzazione Contatti fallita, l\'accesso ai contatti non è abilitata, vai nelle Impostazioni - gestione permessi"</string>
      <string name="sync_contacts_req_per_ignored">Il contatto non è aperto e non può sincronizzare i contatti</string>
      <string name="sync_error">Impossibile sincronizzare</string>
      <string name="sync_error_message">Spazio insufficiente per la sincronizzazione</string>
@@ -1090,6 +1090,7 @@ Interrompere adesso?"</string>
      <string name="unread_string">Conversazione non letta</string>
      <string name="unzip_file_failed">Impossibile decomprimere il file</string>
      <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
+     <string name="update_to_wps_mail">Enjoy more features with WPS Mail</string>
      <string name="updated_at">Ultimo aggiornamento %1$s</string>
      <string name="upload_log">Carica log</string>
      <string name="upload_log_failed">Caricamento log fallito</string>

@@ -50,6 +50,10 @@
         <item quantity="other">La SIM può contenere %1$d contatti.</item>
         <item quantity="one">La SIM può contenere %1$d contatti.</item>
      </plurals>
+     <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Found more than %d contacts.</item>
+        <item quantity="one">Found more than %d contact.</item>
+     </plurals>
      <plurals name="group_add_success_toast">
         <item quantity="other">"%1$d contatti aggiunti"</item>
         <item quantity="one">%1$d contatto aggiunto</item>
@@ -78,6 +82,10 @@
         <item quantity="other">%1$d numeri</item>
         <item quantity="one">%1$d numero</item>
      </plurals>
+     <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+     </plurals>
      <plurals name="listFoundAllContacts">
         <item quantity="other">%d trovati</item>
         <item quantity="one">1 trovato</item>
@@ -89,6 +97,10 @@
      <plurals name="listTotalPhoneContacts">
         <item quantity="other">%d contatti con numeri di telefono</item>
         <item quantity="one">1 contatto con numero di telefono</item>
+     </plurals>
+     <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d contacts with partially identical info</item>
+        <item quantity="one">%1$d contacts with partially identical info</item>
      </plurals>
      <plurals name="merge_info">
         <item quantity="other">uniti da %0$d origini</item>
@@ -138,6 +150,14 @@
      <plurals name="searchFoundContacts">
         <item quantity="other">%d trovati</item>
         <item quantity="one">1 trovato</item>
+     </plurals>
+     <plurals name="select_all_exceed_plurals">
+        <item quantity="other">"Select no more than %1$d, can't select all"</item>
+        <item quantity="one">"Select no more than %1$d, can't select all"</item>
+     </plurals>
+     <plurals name="select_exceed_plurals">
+        <item quantity="other">Select no more than %1$d</item>
+        <item quantity="one">Select no more than %1$d</item>
      </plurals>
      <plurals name="smart_group_member_count">
         <item quantity="other">%d persone</item>
