@@ -55,7 +55,6 @@
      <string name="btn_split_contact">Separa</string>
      <string name="button_cancel_scan">Ferma</string>
      <string name="button_join_service_number">Aggiungi numero di servizio</string>
-     <string name="button_my_center">Profilo</string>
      <string name="button_scan">Esegui di nuovo la scansione</string>
      <string name="caching_vcard_message">"Memorizzazione delle vCard nella cache di archiviazione temporanea locale. L'importazione reale inizierà a breve."</string>
      <string name="caching_vcard_title">Memorizzazione nella cache</string>
@@ -191,6 +190,7 @@
      <string name="composer_failed_to_get_database_infomation">Recupero informazioni database non riuscito.</string>
      <string name="composer_has_no_exportable_contact">"Non sono presenti contatti esportabili. Se hai contatti sul dispositivo, è possibile che alcuni fornitori di dati non consentano l'esportazione dei contatti."</string>
      <string name="composer_not_initialized">Il compositore di vCard non si è avviato correttamente.</string>
+     <string name="conference_call_disable_tip">Impossibile effettuare chiamate. Assicurati che il tuo dispositivo sia connesso ad una rete 4G con supporto VoLTE.</string>
      <string name="confirm_delete_contact_all_call_logs">Eliminare cronologia %s?</string>
      <string name="confirm_delete_selected_all_call_logs">Cancellare il registro chiamate?</string>
      <string name="confirm_delete_sim_entry_miui_title">Elimina</string>
@@ -490,7 +490,6 @@ Motivo: \"%s\"</string>
      <string name="firewall_setting">Blacklist</string>
      <string name="force_touch_miprofile">Scheda contatto</string>
      <string name="force_touch_new_contact">Nuovo contatto</string>
-     <string name="foundTooManyContacts">Più di %d trovati.</string>
      <string name="frequentList">Frequenti</string>
      <string name="full_name">Nome</string>
      <string name="gallery">Galleria</string>
@@ -603,7 +602,6 @@ Motivo: \"%s\"</string>
      <string name="lunarBirthdayLabelsGroup">Compleanno lunare</string>
      <string name="lunar_calendar">Lunare</string>
      <string name="lunar_leap" />
-     <string name="lunar_yue" />
      <string name="make_primary">Ricorda questa scelta</string>
      <string name="map_custom">Visualizza indirizzo %s</string>
      <string name="map_home">Visualizza indirizzo casa</string>
@@ -664,7 +662,6 @@ Motivo: \"%s\"</string>
      <string name="menu_splitAggregate">Separa</string>
      <string name="menu_sync_remove">Rimuovi gruppo sincronizzazione</string>
      <string name="menu_viewContact">Visualizza contatto</string>
-     <string name="merge_contact_message">%1$d contatti con info parzialmente identiche</string>
      <string name="messageShortcutActivityTitle">Scegli un numero a cui inviare il messaggio</string>
      <string name="miprofile_account_type">Mi Account</string>
      <string name="miprofile_alertdialog_edit">Inserisci nome</string>
@@ -903,7 +900,7 @@ Per aggiungere un contatto alla lista dei Preferiti:
      <string name="preference_others">Altro</string>
      <string name="preference_phone">Telefono</string>
      <string name="preference_phone_more_title">Chiamate</string>
-     <string name="preference_privacy_policy_title">Privacy Policy</string>
+     <string name="preference_privacy_policy_title">Informativa sulla Privacy</string>
      <string name="preference_remove_duplicate">Unisci contatti duplicati</string>
      <string name="preference_show_firewall_calllog">Mostra le chiamate bloccate nella cronologia delle chiamate</string>
      <string name="preference_show_yellowpage_tab_description">Se chiudi la scheda delle Pagine Gialle, la funzionalità Pagine Gialle non funzionerà correttamente</string>
@@ -1027,8 +1024,6 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="search_wipe_data">Organizza;Contatti</string>
      <string name="searching_vcard_message">"Ricerca dati vCard nell'archivio…"</string>
      <string name="select_all">Seleziona tutto</string>
-     <string name="select_all_exceed">Non selezionare più di %1$d, impossibile selezionare tutto"</string>
-     <string name="select_exceed">Non selezionare più di %1$d</string>
      <string name="select_groups">Seleziona gruppi</string>
      <string name="select_none">Nessuna selezione</string>
      <string name="select_show_contacts">Lista contatti</string>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_name">MIUI Bluetooth</string>
      <string name="ble_device_address">Dispositivi smart MAC bluetooth</string>
@@ -17,6 +17,20 @@
      <string name="bluetooth_search_for_devices">Cerca dispositivi</string>
      <string name="device_picker">Impostazioni dispositivo bluetooth</string>
      <string name="disconnect">Dissocia</string>
+     <string name="fast_connect_device_box">Box</string>
+     <string name="fast_connect_device_box_name">%1$s Box</string>
+     <string name="fast_connect_device_connect_cancel">Annulla</string>
+     <string name="fast_connect_device_connect_ok">Connettit</string>
+     <string name="fast_connect_device_connect_retry">Riprova</string>
+     <string name="fast_connect_device_connect_setup">Impostazioni</string>
+     <string name="fast_connect_device_connect_success">Fatto</string>
+     <string name="fast_connect_device_headset_l">Sinistro</string>
+     <string name="fast_connect_device_headset_r">Destro</string>
+     <string name="fast_connect_device_headset_reset">Premi e tieni premuto il pulsante sul box</string>
+     <string name="fast_connect_device_title_connect_fail">Impossibile connettersi a %1$s</string>
+     <string name="fast_connect_device_title_connecting">Connessione…</string>
+     <string name="fast_connect_device_title_find_headset">Trovato %1$s auricolare</string>
+     <string name="fast_connect_device_title_find_headset_others">Trovati altri %1$s auricolari</string>
      <string name="goto_package">Apri %1$s</string>
      <string name="install_package">Installa %1$s per altre funzionalità</string>
      <string name="mi_band_vibrate_alarm">Vibra quando suona la sveglia</string>

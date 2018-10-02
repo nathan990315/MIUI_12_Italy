@@ -5,6 +5,14 @@
      <string name="agree_terms">Ho letto e accetto i Termini e le Condizioni</string>
      <string name="agree_terms_input_method_facemoji">Ho letto ed accetto la Normativa sulla Privacy di Facemoji.</string>
      <string name="agree_terms_input_method_kika">Ho letto ed accetto la Normativa sulla Privacy di Kika.</string>
+     <string name="ai_button_desc">Usa questo pulsante per attivare Mi AI e completare le attività sul tuo telefono utilizzando solo la tua voce</string>
+     <string name="ai_button_double_press">Doppia pressione</string>
+     <string name="ai_button_double_press_desc">Configura le funzionalità di Mi AI</string>
+     <string name="ai_button_long_press">Premi e tieni premuto</string>
+     <string name="ai_button_long_press_desc">Vocalizza il tuo comando e rilascia il pulsante</string>
+     <string name="ai_button_single_press">Premi</string>
+     <string name="ai_button_single_press_desc">Attivazione Mi AI</string>
+     <string name="ai_button_title">A proposito del pulsante AI</string>
      <string name="app_name">Introduzione</string>
      <string name="application_permissions">Permessi Applicazioni</string>
      <string name="back">Indietro</string>
@@ -57,6 +65,7 @@
      <string name="other_settings_user_experience">Programma Esperienza Utente</string>
      <string name="other_settings_user_experience_summary">"Contribuirai al miglioramento di MIUI con l'invio di dati anonimi di utilizzo"</string>
      <string name="other_settings_user_experience_summary_index">Dettagli</string>
+     <string name="poco_agree_terms_other">(Including POCO Launcher Privacy Policy and User Agreement)</string>
      <string name="pref_title_data_slot">SIM Dati</string>
      <string name="pref_title_voice_slot">SIM Voce</string>
      <string name="privacy_policy">Informativa sulla Privacy</string>
@@ -95,7 +104,7 @@ Devi accettare la Normativa sulla Privacy di Kika prima di utilizzare questa fun
      <string name="terms_of_use_lable_smart_cards">, Schede intelligenti</string>
      <string name="terms_privacy_policy_input_method_facemoji">Normativa sulla Privacy di Facemoji</string>
      <string name="terms_privacy_policy_input_method_kika">Normativa sulla Privacy di Kika</string>
-     <string name="title_fingerprint">"Aggiungi l'impronta"</string>
+     <string name="title_fingerprint">Aggiungi impronta</string>
      <string name="user_agreement">Condizioni del Servizio</string>
      <string name="voice_assist_advice">Mi AI ti consente di utilizzare i comandi vocali, ma ciò comporterà un maggior consumo energia (+1% ogni ora).</string>
      <string name="voice_assist_condition">"Sarai in grado di utilizzare Mi AI in questi casi:

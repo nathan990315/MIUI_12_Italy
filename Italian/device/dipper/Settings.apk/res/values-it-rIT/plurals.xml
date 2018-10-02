@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d days ago</item>
+        <item quantity="one">%d day ago</item>
+     </plurals>
+     <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d min ago</item>
+        <item quantity="one">%d min ago</item>
+     </plurals>
+     <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d yr ago</item>
+        <item quantity="one">%d yr ago</item>
+     </plurals>
+     <plurals name="battery_manager_app_restricted">
+        <item quantity="other">%1$d apps restricted</item>
+        <item quantity="one">%1$d app restricted</item>
+     </plurals>
+     <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">Restrict %1$d apps?</item>
+        <item quantity="one">Restrict app?</item>
+     </plurals>
+     <plurals name="battery_tip_restrict_handled_summary">
+        <item quantity="other">"These apps can't run in the background"</item>
+        <item quantity="one">"This app can't run in the background"</item>
+     </plurals>
+     <plurals name="battery_tip_restrict_handled_title">
+        <item quantity="other">%2$d apps recently restricted</item>
+        <item quantity="one">%1$s recently restricted</item>
+     </plurals>
+     <plurals name="battery_tip_restrict_summary">
+        <item quantity="other">%2$d apps have high background battery usage</item>
+        <item quantity="one">%1$s has high background battery usage</item>
+     </plurals>
+     <plurals name="battery_tip_restrict_title">
+        <item quantity="other">Restrict %1$d apps</item>
+        <item quantity="one">Restrict %1$d app</item>
+     </plurals>
+     <plurals name="billing_cycle_days_left">
+        <item quantity="other">%d days left</item>
+        <item quantity="one">%d day left</item>
+     </plurals>
+     <plurals name="notification_group_summary">
+        <item quantity="other">%d categories</item>
+        <item quantity="one">%d category</item>
+     </plurals>
+     <plurals name="notifications_categories_off">
+        <item quantity="other">%d categories turned off</item>
+        <item quantity="one">%d category turned off</item>
+     </plurals>
+     <plurals name="power_high_usage_summary">
+        <item quantity="other">%2$d apps behaving abnormally</item>
+        <item quantity="one">%1$s behaving abnormally</item>
+     </plurals>
+     <plurals name="power_high_usage_title">
+        <item quantity="other">Apps draining battery</item>
+        <item quantity="one">%1$s draining battery</item>
+     </plurals>
+     <plurals name="restricted_app_summary">
+        <item quantity="other">Limiting battery usage for %1$d apps</item>
+        <item quantity="one">Limiting battery usage for %1$d app</item>
+     </plurals>
+     <plurals name="show_number_hearingaid_count">
+        <item quantity="other">%1$d saved hearing aids</item>
+        <item quantity="one">%1$d saved hearing aid</item>
+     </plurals>
+     <plurals name="suggestions_collapsed_summary">
+        <item quantity="other">+%1$d suggestions</item>
+        <item quantity="one">+1 suggestion</item>
+     </plurals>
+     <plurals name="suggestions_collapsed_title">
+        <item quantity="other">%1$d suggestions</item>
+        <item quantity="one">1 suggestion</item>
+     </plurals>
+     <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d devices connected</item>
+        <item quantity="one">%1$d device connected</item>
+     </plurals>
+     <plurals name="zen_mode_duration_summary_time_hours">
+        <item quantity="other">%d hours (unless turned on automatically)</item>
+        <item quantity="one">1 hour (unless turned on automatically)</item>
+     </plurals>
+     <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item quantity="other">%d rules can turn on automatically</item>
+        <item quantity="one">1 rule can turn on automatically</item>
+     </plurals>
+     <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item quantity="other">%d others</item>
+        <item quantity="one">1 other</item>
+     </plurals>
+</resources>

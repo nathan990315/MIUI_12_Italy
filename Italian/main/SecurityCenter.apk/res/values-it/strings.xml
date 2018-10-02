@@ -613,6 +613,10 @@ Il tuo operatore potrebbe effettuare degli addebiti se deciderai di attivare di 
      <string name="descx_quick_scan_preparation">Attendi un secondo…</string>
      <string name="detail_app_button">Info app</string>
      <string name="details_subtitle">Dettagli di utilizzo</string>
+     <string name="device_manager_apply_step_1">"Attivare amministratore dispositivo per quest'app?"</string>
+     <string name="device_manager_apply_step_2">"L'attivazione dell'amministratore dispositivo per quest'app potrebbe comportare l'esposizione dei tuoi dati personali.
+Tutti i dati sul dispositivo potrebbero essere cancellati e la password della schermata di blocco potrebbe essere reimpostata."</string>
+     <string name="device_manager_apply_step_3">"Assicurati di aver compreso tutti i possibili rischi prima di procedere. Attivare l'amministratore dispositivo per questa'app ora?"</string>
      <string name="diagnostic_attention_dialog_message">"Diagnostica per %1$s in corso. Attendi il termine e riprova."</string>
      <string name="dialog_app_roaming_message">"%1$s non può usare la connessione dati roaming. Quando usi il roaming all'estero, solo le app che hai aggiunto alle eccezioni potranno usare la connessione dati."</string>
      <string name="dialog_app_roaming_title">Il Roaming estero non è attivo per %1$s</string>
@@ -806,15 +810,10 @@ Il tuo operatore potrebbe effettuare degli addebiti se deciderai di attivare di 
      <string name="first_aid_card_apn_title">Impossibile connettersi alla rete</string>
      <string name="first_aid_card_consume_power_button1">Limita</string>
      <string name="first_aid_card_consume_power_button2">Disattiva</string>
-     <string name="first_aid_card_consume_power_button3">Disattiva</string>
-     <string name="first_aid_card_consume_power_button4">Disattiva</string>
      <string name="first_aid_card_consume_power_summary1">"Più di 5 app sono state autorizzate per l'esecuzione automatico. Limitare per risparmiare batteria."</string>
      <string name="first_aid_card_consume_power_summary2">Disattiva hotspot portatile per risparmiare batteria</string>
-     <string name="first_aid_card_consume_power_summary3">Disattiva Bluetooth per risparmiare batteria</string>
-     <string name="first_aid_card_consume_power_summary4">Disattiva GPS per risparmiare batteria</string>
      <string name="first_aid_card_consume_power_title">Utilizzo batteria</string>
      <string name="first_aid_card_float_window_button">Limita</string>
-     <string name="first_aid_card_float_window_summary">%s potrebbe non essere visualizzato correttamente. Limita le notifiche flottanti.</string>
      <string name="first_aid_card_float_window_title">Hai consentito le notiche flottanti</string>
      <string name="first_aid_card_kadun_button1">Libera spazio</string>
      <string name="first_aid_card_kadun_button2">Limita</string>
@@ -843,6 +842,7 @@ Il tuo operatore potrebbe effettuare degli addebiti se deciderai di attivare di 
      <string name="first_aid_result_feedback_summary">Non sono riuscito a risolvere questo problema sul mio dispositivo.</string>
      <string name="first_aid_result_feedback_title">Segnalazione bug</string>
      <string name="first_aid_result_summary_normal">Tutto appare perfetto!</string>
+     <string name="first_aid_result_summary_not_finished">La scansione non è stata completata. Alcuni rischi potrebbero non essere stati rilevati.</string>
      <string name="first_aid_scanning_item1">Verifico problemi prestazionali…</string>
      <string name="first_aid_scanning_item2">Verifico problemi di rete…</string>
      <string name="first_aid_scanning_item3">Verifico impostazioni non corrette…</string>
@@ -1581,7 +1581,7 @@ Quest'attività riduce la durata della batteria."</string>
      <string name="power_bluetooth">Bluetooth</string>
      <string name="power_btn_analyze">Analizza utilizzo batteria</string>
      <string name="power_cell">Cellulare in standby</string>
-     <string name="power_center_auto_shutdown">Comando</string>
+     <string name="power_center_auto_shutdown">Operazioni automatiche</string>
      <string name="power_center_back">Ritorna al centro</string>
      <string name="power_center_charge_time">Carica completata tra %1$s</string>
      <string name="power_center_hints_scan_danger_result">Puoi correggere i problemi di batteria ora</string>

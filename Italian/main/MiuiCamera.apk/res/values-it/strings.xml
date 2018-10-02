@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="access_sd_fail">Impossibile accedere alla scheda SD.</string>
+     <string name="access_sd_fail">Impossibile accedere alla scheda SD.</string>
      <string name="accessibility_ai_scene_off">AI disattivata</string>
      <string name="accessibility_ai_scene_on">AI attiva</string>
      <string name="accessibility_audio_shutter_bg">Sfondo scatto vocale</string>
@@ -162,6 +162,7 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="face_beauty_intelligent_level_3">Alto</string>
      <string name="face_beauty_smart">Intelligente</string>
      <string name="face_score_info">Punto: %.1f</string>
+     <string name="fps960_toast">"L'acquisizione dello slow motion inizierà quando il timer raggiungerà il punto bianco"</string>
      <string name="front_camera_hint_text_place">"Fare un selfie sarà più facile se ruoti il telefono"</string>
      <string name="front_camera_hint_text_rotate">Ruota il tuo telefono</string>
      <string name="groupshot_mode_use_hint">La fotocamera scatterà più foto per creare uno scatto con il risultato migliore.</string>
@@ -199,6 +200,7 @@ in modalità Portrait"</string>
      <string name="module_name_capture">Foto</string>
      <string name="module_name_fun">Video breve</string>
      <string name="module_name_manual">Manuale</string>
+     <string name="module_name_new_slow_motion">Slow motion</string>
      <string name="module_name_panorama">Panorama</string>
      <string name="module_name_portrait">Ritratto</string>
      <string name="module_name_square">Quadrato</string>
@@ -232,6 +234,8 @@ in modalità Portrait"</string>
      <string name="portrait_mode_too_far_hint">"Posiziona l'oggetto entro 2.5"</string>
      <string name="portrait_mode_use_hint">"La modalità verticale ti aiuta a sfocare lo sfondo
 per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
+     <string name="portrait_mode_use_hint_for_bokeh">"Prova la modalità Ritratto.
+Mantieni il soggetto nitido ed offusca lo sfondo."</string>
      <string name="pref_advance_settings">Impostazioni aggiuntive</string>
      <string name="pref_ai_detect">Rilevamento AI</string>
      <string name="pref_audio_focus_entry_front">Frontale</string>
@@ -477,6 +481,9 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
      <string name="pref_google_lens">Google Lens</string>
      <string name="pref_groupshot_with_primitive_title">Salva la prima immagine nella modalità Foto di Gruppo</string>
      <string name="pref_manual_exposure_title">Esp. manuale</string>
+     <string name="pref_new_slow_motion_video_quality_240_720only">Puoi solo registrare video in 720p a 240fps</string>
+     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
+     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
      <string name="pref_priority_storage_title">Salva su scheda SD</string>
      <string name="pref_qc_focus_position_title">Messa a fuoco</string>
      <string name="pref_retain_camera_mode_summary">"Passa alla modalità utilizzata precedentemente quando apri l'app."</string>

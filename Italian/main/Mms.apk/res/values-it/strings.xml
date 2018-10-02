@@ -249,6 +249,7 @@
      <string name="loading_conversations">Caricamento conversazioni…</string>
      <string name="loading_mms">Caricamento MMS…</string>
      <string name="manage_permission_app_label">Permessi gestione dispositivo</string>
+     <string name="mark_number_by_own_dialog_subtitle">Contrassegnato come %1$s</string>
      <string name="me">Io</string>
      <string name="menu_add_black">Blocca questo numero</string>
      <string name="menu_add_contact">Aggiungi a contatti esistenti</string>
@@ -499,6 +500,7 @@
      <string name="rcs_auto_resume">Riprendi automaticamente gli upload interrotti</string>
      <string name="rcs_auto_resume_only_by_wifi">Riprendi gli upload solo quando connesso al Wi-Fi</string>
      <string name="rcs_dspt">Dopo aver avuto accesso agli utenti Cina Mobile, potrai inviare messaggi in maniera predefinita tramite Wi-Fi o rete mobile.</string>
+     <string name="rcs_dspt_unavailable">"Non puoi utilizzare questa funzionalità ora. La scheda SIM Cina Mobile non è impostata come scheda dati predefinita."</string>
      <string name="rcs_forward_faild">Impossibile inoltrare</string>
      <string name="rcs_forward_successful">Inoltro riuscito</string>
      <string name="rcs_message">Messaggistica Cina Mobile</string>
@@ -513,6 +515,7 @@
      <string name="rcs_send_rms_remind_change">Impostazioni</string>
      <string name="rcs_send_rms_remind_desp">Il servizio di messaggistica di Cina Mobile viene fornito da China Mobile, ed il suo funzionamento è istantaneo. Potrai disattivare questa funzionalità dalle Impostazioni.</string>
      <string name="rcs_send_rms_remind_title">Invia messaggio utilizzando il servizio di messaggistica di Cina Mobile</string>
+     <string name="rcs_service_agreement">Condizioni di servizio</string>
      <string name="rcs_setting">Impostazioni Messagistica Cina Mobile</string>
      <string name="rcs_silence_message">Silenzia le notifiche dei messaggi</string>
      <string name="rcs_summary_auto_resend_mms">Converti i messaggi multimediali Cina Mobile in SMS dopo che il messaggio originale non potrà essere inviato. Il tuo operatore ti addebiterà il costo di questo messaggio.</string>
