@@ -287,11 +287,7 @@ utilizzando %s"</string>
      <string name="data_usage_rapid_title">Elevato utilizzo di dati mobili</string>
      <string name="data_usage_restricted_body">Tocca per rimuovere restrizione.</string>
      <string name="data_usage_restricted_title">Dati in background limitati</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: "You've used %s of data" -->
-     <string name="data_usage_warning_body">Mostra utilizzo e impostazioni.</string>
+     <string name="data_usage_warning_body">Tu hai usato %s dei dati</string>
      <string name="data_usage_warning_title">"Avviso sull'utilizzo dei dati"</string>
      <string name="data_usage_wifi_limit_snoozed_title">Limite dati Wi-Fi superato</string>
      <string name="data_usage_wifi_limit_title">Limite di dati Wi-Fi raggiunto</string>
@@ -386,11 +382,7 @@ utilizzando %s"</string>
      <string name="expand_button_content_description_collapsed">Espandi</string>
      <string name="expand_button_content_description_expanded">Raggruppa</string>
      <string name="expires_on">Scade il:</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Eject media before removing to avoid losing content -->
-     <string name="ext_media_badremoval_notification_message">Smonta %s prima della rimozione per evitare perdite di dati</string>
+     <string name="ext_media_badremoval_notification_message">Smonta i media prima della rimozione per evitare perdite di dati</string>
      <string name="ext_media_badremoval_notification_title">%s rimozione inaspettata</string>
      <string name="ext_media_browse_action">Apri</string>
      <string name="ext_media_checking_notification_message">Ricerca errori.</string>
@@ -404,17 +396,9 @@ utilizzando %s"</string>
      <string name="ext_media_move_success_message">Dati spostati sulla %s</string>
      <string name="ext_media_move_success_title">Spostamento completato</string>
      <string name="ext_media_move_title">Spostamento dei dati in corso</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Tap to set up -->
-     <string name="ext_media_new_notification_message">Nuova %s rilevata</string>
+     <string name="ext_media_new_notification_message">Tocca per impostare</string>
      <string name="ext_media_new_notification_title">Nuova %s</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Some functionality may not work properly. Insert new storage. -->
-     <string name="ext_media_nomedia_notification_message">%s rimosso; inseriscine uno nuovo</string>
+     <string name="ext_media_nomedia_notification_message">Alcune funzionalità non funzioneranno adeguatamente. Inserisci una nuova memoria</string>
      <string name="ext_media_nomedia_notification_title">Rimosso %s</string>
      <string name="ext_media_ready_notification_message">Per trasferire foto e altri file</string>
      <string name="ext_media_status_bad_removal">Rimosso in modo non sicuro</string>
@@ -429,11 +413,7 @@ utilizzando %s"</string>
      <string name="ext_media_status_unmounted">Espulso</string>
      <string name="ext_media_status_unsupported">Non supportato</string>
      <string name="ext_media_unmount_action">Espelli</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Tap to fix -->
-     <string name="ext_media_unmountable_notification_message">%s è corrotto. Premi per aggiustare.</string>
+     <string name="ext_media_unmountable_notification_message">Premi per aggiustare</string>
      <string name="ext_media_unmountable_notification_title">Corrotto %s</string>
      <string name="ext_media_unmounting_notification_message">"Non rimuovere"</string>
      <string name="ext_media_unmounting_notification_title">Espulsione di %s ancora in corso…</string>
@@ -913,11 +893,7 @@ Riprova tra %d secondi."</string>
      <string name="network_switch_metered_toast">Passato da %1$s a %2$s</string>
      <string name="network_switch_type_name_unknown">Tipo di rete sconosciuta</string>
      <string name="new_app_action">Avvia %1$s</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: %1$s will close without saving -->
-     <string name="new_app_description">Interrompi la vecchia applicazione senza salvare.</string>
+     <string name="new_app_description">%1$s chiuderà applicazione senza salvare.</string>
      <string name="new_sms_notification_content">"Apri l'app SMS per visualizzare"</string>
      <string name="new_sms_notification_title">Hai nuovi messaggi</string>
      <string name="next_button_label">Avanti</string>
