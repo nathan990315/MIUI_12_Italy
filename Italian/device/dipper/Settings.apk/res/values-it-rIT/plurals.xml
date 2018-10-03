@@ -1,91 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="abc_slice_duration_days">
-        <item quantity="other">%d days ago</item>
-        <item quantity="one">%d day ago</item>
+        <item quantity="other">%d giorni fa</item>
+        <item quantity="one">%d giorno fa</item>
      </plurals>
      <plurals name="abc_slice_duration_min">
-        <item quantity="other">%d min ago</item>
-        <item quantity="one">%d min ago</item>
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">%d minuto fa</item>
      </plurals>
      <plurals name="abc_slice_duration_years">
-        <item quantity="other">%d yr ago</item>
-        <item quantity="one">%d yr ago</item>
+        <item quantity="other">%d anni fa</item>
+        <item quantity="one">%d anno fa</item>
      </plurals>
      <plurals name="battery_manager_app_restricted">
-        <item quantity="other">%1$d apps restricted</item>
-        <item quantity="one">%1$d app restricted</item>
+        <item quantity="other">%1$d app limitate</item>
+        <item quantity="one">%1$d app limitata</item>
      </plurals>
      <plurals name="battery_tip_restrict_app_dialog_title">
-        <item quantity="other">Restrict %1$d apps?</item>
-        <item quantity="one">Restrict app?</item>
+        <item quantity="other">Limitare %1$d app?</item>
+        <item quantity="one">Limitare app?</item>
      </plurals>
      <plurals name="battery_tip_restrict_handled_summary">
-        <item quantity="other">"These apps can't run in the background"</item>
-        <item quantity="one">"This app can't run in the background"</item>
+        <item quantity="other">Queste app non possono essere eseguite in background</item>
+        <item quantity="one">Questa app non può essere eseguita in background</item>
      </plurals>
      <plurals name="battery_tip_restrict_handled_title">
-        <item quantity="other">%2$d apps recently restricted</item>
-        <item quantity="one">%1$s recently restricted</item>
+        <item quantity="other">%2$d app limitate di recente</item>
+        <item quantity="one">%1$s limitata di recente</item>
      </plurals>
      <plurals name="battery_tip_restrict_summary">
-        <item quantity="other">%2$d apps have high background battery usage</item>
-        <item quantity="one">%1$s has high background battery usage</item>
+        <item quantity="other">%2$d app consumano molta batteria in background</item>
+        <item quantity="one">%1$s app consuma molta batteria in background</item>
      </plurals>
      <plurals name="battery_tip_restrict_title">
-        <item quantity="other">Restrict %1$d apps</item>
-        <item quantity="one">Restrict %1$d app</item>
+        <item quantity="other">Limita %1$d app</item>
+        <item quantity="one">Limita %1$d app</item>
      </plurals>
      <plurals name="billing_cycle_days_left">
-        <item quantity="other">%d days left</item>
-        <item quantity="one">%d day left</item>
+        <item quantity="other">%d giorni rimanenti</item>
+        <item quantity="one">%d giorno rimanente</item>
      </plurals>
      <plurals name="notification_group_summary">
-        <item quantity="other">%d categories</item>
-        <item quantity="one">%d category</item>
+        <item quantity="other">%d categorie</item>
+        <item quantity="one">%d categoria</item>
      </plurals>
      <plurals name="notifications_categories_off">
-        <item quantity="other">%d categories turned off</item>
-        <item quantity="one">%d category turned off</item>
+        <item quantity="other">%d categorie disattivate</item>
+        <item quantity="one">%d categoria disattivata</item>
      </plurals>
      <plurals name="power_high_usage_summary">
-        <item quantity="other">%2$d apps behaving abnormally</item>
-        <item quantity="one">%1$s behaving abnormally</item>
+        <item quantity="other">%2$d app si comportano in modo anomalo</item>
+        <item quantity="one">%1$s app si comporta in modo anomalo</item>
      </plurals>
      <plurals name="power_high_usage_title">
-        <item quantity="other">Apps draining battery</item>
-        <item quantity="one">%1$s draining battery</item>
+        <item quantity="other">App consumano molta batteria</item>
+        <item quantity="one">%1$s app consuma molta batteria</item>
      </plurals>
      <plurals name="restricted_app_summary">
-        <item quantity="other">Limiting battery usage for %1$d apps</item>
-        <item quantity="one">Limiting battery usage for %1$d app</item>
+        <item quantity="other">Limita uso della batteria per %1$d app</item>
+        <item quantity="one">Limita uso della batteria per %1$d app</item>
      </plurals>
      <plurals name="show_number_hearingaid_count">
-        <item quantity="other">%1$d saved hearing aids</item>
-        <item quantity="one">%1$d saved hearing aid</item>
+        <item quantity="other">%1$d apparecchi acustici salvati</item>
+        <item quantity="one">%1$d apparecchio acustico salvato</item>
      </plurals>
      <plurals name="suggestions_collapsed_summary">
-        <item quantity="other">+%1$d suggestions</item>
-        <item quantity="one">+1 suggestion</item>
+        <item quantity="other">+%1$d suggerimenti</item>
+        <item quantity="one">+1 suggerimento</item>
      </plurals>
      <plurals name="suggestions_collapsed_title">
-        <item quantity="other">%1$d suggestions</item>
-        <item quantity="one">1 suggestion</item>
+        <item quantity="other">%1$d suggerimenti</item>
+        <item quantity="one">1 suggerimento</item>
      </plurals>
      <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d devices connected</item>
-        <item quantity="one">%1$d device connected</item>
+        <item quantity="other">%1$d dispositivi connessi</item>
+        <item quantity="one">%1$d dispositivo connesso</item>
      </plurals>
      <plurals name="zen_mode_duration_summary_time_hours">
-        <item quantity="other">%d hours (unless turned on automatically)</item>
-        <item quantity="one">1 hour (unless turned on automatically)</item>
+        <item quantity="other">%d ore (se non attivato automaticamente)</item>
+        <item quantity="one">1 ora (se non attivato automaticamente)</item>
      </plurals>
      <plurals name="zen_mode_sound_summary_summary_off_info">
-        <item quantity="other">%d rules can turn on automatically</item>
-        <item quantity="one">1 rule can turn on automatically</item>
+        <item quantity="other">%d regole possono attivarsi automaticamente</item>
+        <item quantity="one">1 regola può attivarsi automaticamente</item>
      </plurals>
      <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
-        <item quantity="other">%d others</item>
-        <item quantity="one">1 other</item>
+        <item quantity="other">altri %d</item>
+        <item quantity="one">1 altro</item>
      </plurals>
 </resources>
