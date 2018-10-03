@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Eliminare %d playlist?</item>
+        <item quantity="one">Eliminare %d playlist?</item>
+     </plurals>
      <plurals name="Nalbum_total_songs">
         <item quantity="other">%d brani totale</item>
+        <item quantity="zero">%d brani totale</item>
         <item quantity="one">%d brano totale</item>
+     </plurals>
+     <plurals name="Nartists_count">
+        <item quantity="other">%d artisti</item>
+        <item quantity="one">%d artista</item>
      </plurals>
      <plurals name="Nassociate_songs">
         <item quantity="other">Associazione album e testi (%1$d/%2$d brani)</item>
@@ -12,31 +21,49 @@
         <item quantity="other">Backup dei brani, %1$d rimanenti (%2$.1fMB)</item>
         <item quantity="one">Backup del brano, %1$d rimanente (%2$.1fMB)</item>
      </plurals>
-     <plurals name="Ndialog_renew_content">
-        <item quantity="other">"Your subscription is expiring in %d days.
-Do you want us to help renew it?"</item>
-        <item quantity="one">"Your subscription is expiring in %d day.
-Do you want us to help renew it?"</item>
+     <plurals name="Ndownload_fee_alert_message">
+        <item quantity="other">"Su richiesta del proprietario dei diritti, %d canzoni selezionate non possono essere scaricate gratuitamente. Queste canzoni erano state aggiunte ai download."</item>
+        <item quantity="one">"Su richiesta del proprietario dei diritti, %d canzone selezionata non può essere scaricate gratuitamente. Questa canzone era stata aggiunta ai download."</item>
      </plurals>
-     <plurals name="Nhungama_free_download_summary">
-        <item quantity="other">You can download %1$d free songs. Download %2$s now?</item>
-        <item quantity="one">You can download %1$d free song. Download %2$s now?</item>
+     <plurals name="Nexpired_remind">
+        <item quantity="other">%d giorni in scadenza</item>
+        <item quantity="one">%d giorno in scadenza</item>
+     </plurals>
+     <plurals name="Ngroups_count">
+        <item quantity="other">%d gruppi</item>
+        <item quantity="one">%d gruppo</item>
+     </plurals>
+     <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d nuovi brani</item>
+     </plurals>
+     <plurals name="Nnowplaying_songs">
+        <item quantity="other">(%d)</item>
+        <item quantity="one">(%d)</item>
      </plurals>
      <plurals name="Nquit_warning">
         <item quantity="other">La riproduzione terminerà tra %d minuti</item>
         <item quantity="one">La riproduzione terminerà tra %d minuto</item>
      </plurals>
+     <plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">"Associazione album e testi interrotta. Vuoi annullare l'ottimizzazione delle informazioni album e testi per %d brani?"</item>
+        <item quantity="one">"Associazione album e testi interrotta. Vuoi annullare l'ottimizzazione delle informazioni album e testi per %d brano?"</item>
+     </plurals>
+     <plurals name="Nsleep_quit_warning">
+        <item quantity="other">%d minuti rimanenti</item>
+        <item quantity="one">%d minuto rimanente</item>
+     </plurals>
      <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">Creato il %1$s sul totale %2$d brani</item>
+        <item quantity="zero">Creato il %1$s sul totale %2$d brani</item>
         <item quantity="one">Creato il %1$s sul totale %2$d brano</item>
      </plurals>
      <plurals name="Nstop_backup_songs_message">
         <item quantity="other">Non è stato eseguito il backup di %d brani su Mi Cloud. Interrompere?</item>
-        <item quantity="one">on è stato eseguito il backup di %d un brano su Mi Cloud. Interrompere?</item>
+        <item quantity="one">on è stato eseguito il backup di %d un brano su Mi Cloud. Interrompere?"</item>
      </plurals>
      <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d brani aggiunti alla playlist</item>
-        <item quantity="one">%d brano aggiunto alla playlist</item>
+        <item quantity="one">%d  brano aggiunto alla playlist</item>
      </plurals>
      <plurals name="Ntracks_count">
         <item quantity="other">%d brani</item>
@@ -45,6 +72,10 @@ Do you want us to help renew it?"</item>
      <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d brani rimossi dalla playlist</item>
         <item quantity="one">%d brano rimosso dalla playlist</item>
+     </plurals>
+     <plurals name="Ntracks_search_result">
+        <item quantity="other">%d brani trovati</item>
+        <item quantity="one">%d brano trovato</item>
      </plurals>
      <plurals name="Ntracks_similar_count">
         <item quantity="other">%d brani simili</item>
@@ -62,15 +93,13 @@ Do you want us to help renew it?"</item>
         <item quantity="other">%d commenti</item>
         <item quantity="one">%d commento</item>
      </plurals>
+     <plurals name="comment_input_length_invalid">
+        <item quantity="other">Puoi immettere fino a %1$d caratteri.</item>
+        <item quantity="one">Puoi immettere fino a %1$d carattere.</item>
+     </plurals>
      <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Eliminare %d elementi?</item>
         <item quantity="one">Eliminare %d elemento?</item>
-     </plurals>
-     <plurals name="dialog_confirm_delete_downloads_message_with_file">
-        <item quantity="other">"Delete %d items?
-Note: Files will be deleted from this device as well."</item>
-        <item quantity="one">"Delete %d item?
-Note: File will be deleted from this device as well."</item>
      </plurals>
      <plurals name="dialog_delete_descript">
         <item quantity="other">Eliminare %d brani?</item>
@@ -96,9 +125,25 @@ Note: File will be deleted from this device as well."</item>
         <item quantity="other">&lt;font color=\"red\">%d brani&lt;/font> scaricati</item>
         <item quantity="one">&lt;font color==\"red\">%d brano&lt;/font> scaricato</item>
      </plurals>
+     <plurals name="folder_songs_count">
+        <item quantity="other">%d brani</item>
+        <item quantity="one">%d brano</item>
+     </plurals>
      <plurals name="multichoice_title">
         <item quantity="other">%d elementi selezionati</item>
         <item quantity="one">%d elemento selezionato</item>
+     </plurals>
+     <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">%1$d canzoni in download</item>
+        <item quantity="one">%1$d canzone in download</item>
+     </plurals>
+     <plurals name="notification_download_failed_more">
+        <item quantity="other">Impossibile scaricare %1$d canzoni"</item>
+        <item quantity="one">"Impossibile scaricare %1$d canzone"</item>
+     </plurals>
+     <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d canzoni</item>
+        <item quantity="one">%1$d canzone</item>
      </plurals>
      <plurals name="reader_count">
         <item quantity="other">%d follower</item>
@@ -120,8 +165,8 @@ Note: File will be deleted from this device as well."</item>
         <item quantity="other">%d brani</item>
         <item quantity="one">%d brano</item>
      </plurals>
-     <plurals name="video_play_count">
-        <item quantity="other">%1$s views</item>
-        <item quantity="one">%1$s view</item>
+     <plurals name="swipe_to_load_head_complete_success">
+        <item quantity="other">Ci sono %1$d aggiornamenti per te:</item>
+        <item quantity="one">"C'è %1$d aggiornamento per te:"</item>
      </plurals>
 </resources>
