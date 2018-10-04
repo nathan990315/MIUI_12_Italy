@@ -5,7 +5,7 @@
      <string name="abc_action_menu_overflow_description">Altre opzioni</string>
      <string name="abc_action_mode_done">Fatto</string>
      <string name="abc_activity_chooser_view_see_all">Vedi tutto</string>
-     <string name="abc_activitychooserview_choose_application">Scegli un'app</string>
+     <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
      <string name="abc_capital_off">DISATTIVA</string>
      <string name="abc_capital_on">ATTIVA</string>
      <string name="abc_search_hint">Cerca…</string>
@@ -97,8 +97,6 @@
      <string name="button_sort_by_date">Ordina per data</string>
      <string name="button_sort_by_size">Ordina per dimensione</string>
      <string name="button_wait_for_wifi">Attendi</string>
-     <string name="campaign_refresh_period">600000</string>
-     <string name="campaign_server_refresh_period">600000</string>
      <string name="cancel">Annulla</string>
      <string name="cancel_running_download">Annulla</string>
      <string name="change_download_quality">Modifica qualità download</string>
@@ -174,7 +172,7 @@
      <string name="device_connected">Connesso</string>
      <string name="device_not_connected">Non connesso</string>
      <string name="dialog_cannot_resume">Download interrotto. Non può essere ripreso.</string>
-     <string name="dialog_clear_history">Cancellare l'elenco delle canzoni riprodotte di recente?</string>
+     <string name="dialog_clear_history">"Cancellare l'elenco delle canzoni riprodotte di recente?"</string>
      <string name="dialog_confirm_delete_checkbox_message">Elimina anche i file locali</string>
      <string name="dialog_failed_body">Vuoi provare a scaricare il file più tardi o vuoi rimuoverlo dalla coda?</string>
      <string name="dialog_file_already_exists">Impossibile scaricare. Il file di destinazione esiste già.</string>
@@ -416,7 +414,7 @@
      <string name="hungama_category_video">Video</string>
      <string name="hungama_free_download_out_summary">Non è possibile scaricare altre canzoni gratuitamente. Acquistare un abbonamento PRO ora?</string>
      <string name="hungama_pro">Hungama Pro</string>
-     <string name="hungama_subscribe_message">Acquista l'abbonamento PRO per scaricare musica in alta qualità.</string>
+     <string name="hungama_subscribe_message">"Acquista l'abbonamento PRO per scaricare musica in alta qualità."</string>
      <string name="hungama_subscribe_positive_button">Acquista abbonamento PRO</string>
      <string name="hungama_subscribe_title">Abbonamento PRO</string>
      <string name="i_know">Ho capito</string>
@@ -429,7 +427,6 @@
      <string name="impunity_declaration_summary">"Mostra l'avviso delle Condizioni d'uso di Baidu Online Music Service ad ogni apertura"</string>
      <string name="impunity_declaration_title">"Condizioni d'uso"</string>
      <string name="in_searching_please_wait">Ricerca in corso, attendere…</string>
-     <string name="include_sensitive_extra">false</string>
      <string name="individuation_card_login_button">Accedi</string>
      <string name="individuation_card_login_message">Accedi per trovare altre canzoni che amerai</string>
      <string name="individuation_card_title">Per te</string>
@@ -440,7 +437,7 @@
      <string name="input_hint_prefix">Inserisci %1$s</string>
      <string name="installing_apk">Installazione..</string>
      <string name="insufficient_space">Spazio insufficiente sulla memoria interna</string>
-     <string name="is_latest_version">L'app musica è aggiornata.</string>
+     <string name="is_latest_version">"L'app musica è aggiornata."</string>
      <string name="is_scanning">Scansione, attendere…</string>
      <string name="is_scanning_support_online">"Scansione, 
 attendere o selezionare Musica Online."</string>
@@ -471,7 +468,6 @@ attendere o selezionare Musica Online."</string>
      <string name="local_page_custom_title">Per te</string>
      <string name="local_page_playlist">Le mie playlist</string>
      <string name="local_page_song_download_history">Download</string>
-     <string name="location_fetching_on">true</string>
      <string name="long_press_to_select_lyric">Premi e tieni premuto per selezionare il file dei testi locali</string>
      <string name="lrc_search_failed">Testi non trovati</string>
      <string name="lrc_searching">Ricerca testi…</string>
@@ -526,7 +522,7 @@ attendere o selezionare Musica Online."</string>
      <string name="music_filter">Filtra file audio</string>
      <string name="music_service">Servizio Musica</string>
      <string name="music_settings">Musica</string>
-     <string name="mv_metered_play_summary">Non mostrare avvisi sull'utilizzo dei dati</string>
+     <string name="mv_metered_play_summary">"Non mostrare avvisi sull'utilizzo dei dati"</string>
      <string name="mv_metered_play_title">Riproduci video online utilizzando i dati mobili</string>
      <string name="my_account">Mi Account</string>
      <string name="my_music_empty">Playlist vuota</string>
@@ -576,7 +572,6 @@ attendere o selezionare Musica Online."</string>
      <string name="nowplaying_circle_style_wave">Onda</string>
      <string name="nowplaying_dialog_title_delete_tracks">Rimuovere dalla playlist?</string>
      <string name="nowplaying_menu_item_delete">Elimina</string>
-     <string name="ntp_host_address">pool.ntp.org</string>
      <string name="ok">OK</string>
      <string name="online_list_delete_message">Tutti i brani scaricati in questa playlist verranno eliminati dal dispositivo.</string>
      <string name="online_recommend">Consigliati</string>
@@ -588,7 +583,6 @@ attendere o selezionare Musica Online."</string>
      <string name="open_online_service">Devi attivare i servizi online per poter utilizzare questa funzionalità. Attivare adesso?</string>
      <string name="open_service">Attiva</string>
      <string name="other_song_in_album">Altri brani nello stesso Album.</string>
-     <string name="partner_id">3041</string>
      <string name="paused_by_app">In pausa</string>
      <string name="paused_in_power_save_mode">In pausa in modalità risparmio energetico</string>
      <string name="paused_insufficient_space">In attesa</string>
@@ -668,7 +662,7 @@ E gioiscine"</string>
      <string name="ringtone_not_support">Il formato del brano non è supportato.</string>
      <string name="root_downloads">Download</string>
      <string name="s1">Salva immagine</string>
-     <string name="s2">Consentire annuncio per memorizzare l'immagine nella galleria?</string>
+     <string name="s2">"Consentire annuncio per memorizzare l'immagine nella galleria?"</string>
      <string name="s3">Accetta</string>
      <string name="s4">Rifiuta</string>
      <string name="s5">Crea un evento del calendario</string>
