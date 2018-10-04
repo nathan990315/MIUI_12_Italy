@@ -470,7 +470,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="auto_sync_account_title">Sincronizza automaticamente i dati</string>
      <string name="auto_sync_personal_account_title">Sincronizza automaticamente i dati personali</string>
      <string name="auto_sync_work_account_title">Sincronizza automaticamente i dati di lavoro</string>
-     <string name="autofill_app">Servizio completamento automatico</string>
+     <string name="autofill_app">Servizio di completamento automatico</string>
      <string name="autofill_confirmation_message">"&lt;b&gt;Assicurati che questa app sia sicura&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; usa ciòche compare sullo schermo per determinare cosa può essere completato automaticamente."</string>
      <string name="autofill_keywords">auto, completamento, completamento automatico</string>
      <string name="automatic_brightness">Luminosità automatica</string>
@@ -1694,7 +1694,7 @@ avviso"</string>
      <string name="empty_list_msg">Nessuna applicazione di terze parti installata.</string>
      <string name="enableNetwork">Attiva rete</string>
      <string name="enable_adb">Debug USB</string>
-     <string name="enable_adb_summary">Modalità debug quando è connesso USB</string>
+     <string name="enable_adb_summary">Modalità debug con connessione USB</string>
      <string name="enable_compatibility">Scala applicazione</string>
      <string name="enable_freeform_support">Attiva forma libera finestre</string>
      <string name="enable_freeform_support_summary">Attiva il supporto sperimentale per le finestre a forma libera.</string>
@@ -2665,7 +2665,7 @@ Al momento sei collegato ai seguenti account:
 
 Per rimuovere musica, foto e altri dati dell'utente è necessario eliminare i dati dell'"<b>archivio USB</b>."</string>
      <string name="master_clear_erase_application_progress">Eliminazione app\u2026</string>
-     <string name="master_clear_failed">Nessun ripristino eseguito perché il servizio System Clear non è disponibile.</string>
+     <string name="master_clear_failed">Nessun ripristino eseguito perché il servizio 'Pulizia di Sistema' non è disponibile.</string>
      <string name="master_clear_final_button_text">Elimina tutto</string>
      <string name="master_clear_final_desc">"Eliminare tutti i dati personali e le applicazioni scaricate? Quest'azione è irreversibile."</string>
      <string name="master_clear_not_available">"Il ripristino di fabbrica non è disponibile per l'utente"</string>
