@@ -809,4 +809,13 @@ Aggiorna le impostazioni a:
      <string name="zone_menu_by_region">Seleziona per regione</string>
      <string name="zone_time_type_dst">Ora legale</string>
      <string name="zone_time_type_standard">Orario standard</string>
+	 <string name="location_on_summary">Attivo</string>
+	 <string name="battery_saver_off_summary">Disattivo</string>
+	 <string name="battery_saver_on_summary">Attivo</string>
+	 <string name="bluetooth_connected">Connesso %1$s</string>
+	 <string name="bluetooth_connected_no_a2dp">Collegato (nessun media) %1$s</string>
+	 <string name="bluetooth_connected_no_headset">Collegato (dispositivo escluso) %1$s</string>
+	 <string name="bluetooth_connected_no_headset_no_a2dp">Collegato (telef. o conten. mult. esclusi) %1$s </string>
+	 <string name="bluetooth_connected_no_map">Collegato (nessun accesso ai messaggi) %1$s </string>
+	 <string name="condition_zen_title">Modalità Anti-disturbo attivata</string>
 </resources>
