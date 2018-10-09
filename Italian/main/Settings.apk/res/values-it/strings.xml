@@ -1534,7 +1534,6 @@ avviso"</string>
      <string name="dialog_title_hdmi_color_calibration">Preimpostazione correzione colore</string>
      <string name="dialog_title_login">Accedi al tuo Mi Account</string>
      <string name="dialog_yes">Sì</string>
-     <string name="digital_clock_dot">:</string>
      <string name="direct_boot_unaware_dialog_message">"Nota: dopo un riavvio, questa app non potrà avviarsi finché non sblocchi il telefono"</string>
      <string name="disableNetwork">Disattiva rete</string>
      <string name="disable_overlays">Disabilita overlay HW</string>
@@ -2523,7 +2522,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="lockpassword_choose_your_pin_header">Scegli il tuo PIN</string>
      <string name="lockpassword_choose_your_pin_header_second_space">"Imposta PIN 
  per il Secondo Spazio"</string>
-     <string name="lockpassword_choose_your_pin_title">Enter %d-%d digits</string>
+     <string name="lockpassword_choose_your_pin_title" formatted="false">Enter %d-%d digits</string>
      <string name="lockpassword_confirm_for_second_user">Conferma la password per il Secondo Spazio</string>
      <string name="lockpassword_confirm_passwords_dont_match">Password non corrispondente</string>
      <string name="lockpassword_confirm_pins_dont_match">I PIN non corrispondono</string>
@@ -5133,7 +5132,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="unlock_set_unlock_password_title">Password</string>
      <string name="unlock_set_unlock_pattern_summary">Sicurezza media</string>
      <string name="unlock_set_unlock_pattern_title">Sequenza</string>
-     <string name="unlock_set_unlock_pin_summary">Enter %d-%d numbers to unlock device</string>
+     <string name="unlock_set_unlock_pin_summary" formatted="false">Enter %d-%d numbers to unlock device</string>
      <string name="unlock_set_unlock_pin_title">PIN</string>
      <string name="unlock_set_unlock_summary">Imposta un blocco schermo</string>
      <string name="unlock_setup_wizard_fingerprint_details">Una volta impostato il blocco dello schermo, è possibile impostare anche la propria impronta digitale in Impostazioni > Schermata di blocco e password.</string>
