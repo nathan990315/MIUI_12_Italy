@@ -109,17 +109,17 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="download_meta_failed">Impossibile caricare i dati.</string>
      <string name="download_settings">Download impostazioni Home: %s%%</string>
      <string name="download_settings_fail">Download impostazioni Home fallito</string>
-     <string name="error_retry_later">Failed, retry later please.</string>
+     <string name="error_retry_later">Errore, riprova più tardi per favore.</string>
      <string name="error_unknown">Si è verificato un errore</string>
      <string name="get_device_id_error">Impossibile ottenere ID dispositivo</string>
      <string name="home_hint_global_launcher">Schermata Home Poco</string>
-     <string name="home_hint_other_launcher">Other Home screen</string>
+     <string name="home_hint_other_launcher">Altre schermate Home</string>
      <string name="home_restore_error">Impossibile ripristinare schermata Home</string>
      <string name="lack_of_storage">Spazio di archiviazione insufficiente</string>
      <string name="latest_backup_time_loading">Caricamento…</string>
-     <string name="load_backup_failed">Load backups failed</string>
-     <string name="loading_user_backup">Loading user backups…</string>
-     <string name="main_space">Main space</string>
+     <string name="load_backup_failed">Caricamento backup non riuscito</string>
+     <string name="loading_user_backup">Caricamento backup utente…</string>
+     <string name="main_space">Spazio principale</string>
      <string name="managespace_delete_backup">Elimina backup</string>
      <string name="menu_item_managespace">Gestisci spazio</string>
      <string name="menu_item_sort">Ordina per</string>
@@ -163,8 +163,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="restore_task_in_process">Ripristino…</string>
      <string name="restore_unfinished">Ripristino incompleto, riprova più tardi</string>
      <string name="retry">Riprova</string>
-     <string name="second_space">Second space</string>
-     <string name="self_device">"This phone's "</string>
+     <string name="second_space">Secondo Spazio</string>
+     <string name="self_device">"Questo telefono "</string>
      <string name="settings_backup">Backup impostazioni</string>
      <string name="size_unknown">Dimensione sconosciuta</string>
      <string name="start_backup_to_micloud">Esegui backup su Mi Cloud</string>
@@ -174,7 +174,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="title_alert_restore_error">Ripristino non riuscito</string>
      <string name="total_space">Spazio totale: %s</string>
      <string name="try_again">Tocca per provare di nuovo</string>
-     <string name="try_continue">Tap to continue</string>
-     <string name="unsupported_home">Please update to latest OS.</string>
+     <string name="try_continue">Tocca per continuare</string>
+     <string name="unsupported_home">"Prego aggiorna all'OS più recente."</string>
      <string name="wait_icon_download">Download icona applicazione</string>
 </resources>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="add">Aggiungi</string>
-     <string name="add_manual_printer">Add manual printer</string>
+     <string name="add_manual_printer">Aggiungi stampante manualmente</string>
      <string name="app_name">Servizio Predefinito di Stampa</string>
-     <string name="forget_printer">Forget printer</string>
+     <string name="forget_printer">Elimina stampante</string>
      <string name="hostname_or_ip">Nome host o indirizzo IP</string>
      <string name="media_size_4x6in">4x6 in</string>
      <string name="media_size_54x86mm">54x86 mm</string>
@@ -25,5 +25,5 @@
      <string name="title_activity_add_printer">Aggiungi stampante</string>
      <string name="unreadable_input">Impossibile leggere il documento</string>
      <string name="waiting_to_send">In attesa di invio</string>
-     <string name="wifi_not_connected">WLAN not connected</string>
+     <string name="wifi_not_connected">Wi-Fi non connesso</string>
 </resources>

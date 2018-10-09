@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Delete %d downloads?</item>
-        <item quantity="one">Delete %d download?</item>
+        <item quantity="other">Eliminare %d download?</item>
+        <item quantity="one">Eliminare %d download?</item>
      </plurals>
      <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">Deleted %s downloads successfully</item>
-        <item quantity="one">Deleted %s download successfully</item>
+        <item quantity="other">Eliminazione di %s download riuscita</item>
+        <item quantity="one">Eliminazione di %s download riuscita</item>
      </plurals>
      <plurals name="numberOfItemsAvailable">
         <item quantity="other">Eliminare %d elementi?</item>

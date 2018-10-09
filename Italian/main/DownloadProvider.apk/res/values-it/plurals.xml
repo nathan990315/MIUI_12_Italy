@@ -9,7 +9,7 @@
         <item quantity="one">1 file in attesa</item>
      </plurals>
      <plurals name="notification_download_failed_more">
-        <item quantity="other">"Couldn't download %1$d items"</item>
-        <item quantity="one">"Couldn't download %1$d item"</item>
+        <item quantity="other">Impossibile scaricare %1$d elementi</item>
+        <item quantity="one">Impossibile scaricare %1$d elemento</item>
      </plurals>
 </resources>
