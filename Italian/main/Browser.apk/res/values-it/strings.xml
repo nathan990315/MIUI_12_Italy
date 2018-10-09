@@ -37,7 +37,7 @@
      <string name="action_menu_text_bandwidth_off">Risparmio dati</string>
      <string name="action_menu_text_bandwidth_on">Risparmio dati</string>
      <string name="action_menu_text_bookmark_add_off">Non può essere aggiunta nessuna pagina.</string>
-     <string name="action_menu_text_bookmark_added">Segnalibro aggiunto</string>
+     <string name="action_menu_text_bookmark_removed">Delete bookmark</string>
      <string name="action_menu_text_copy_url">Copia URL</string>
      <string name="action_menu_text_create_qr_code">Codice QR</string>
      <string name="action_menu_text_download">Download</string>
@@ -45,6 +45,8 @@
      <string name="action_menu_text_exit">Esci</string>
      <string name="action_menu_text_find_in_page">Trova nella pagina</string>
      <string name="action_menu_text_fullscreen">Schermo intero</string>
+     <string name="action_menu_text_fullscreen_enter">Enter fullscreen</string>
+     <string name="action_menu_text_fullscreen_exit">Exit fullscreen</string>
      <string name="action_menu_text_history">Segnalibri e cronologia</string>
      <string name="action_menu_text_nightmode">Modalità Notte</string>
      <string name="action_menu_text_nightmode_off">Modalità Notte</string>
@@ -62,6 +64,17 @@
      <string name="action_modify_bookmark">Modifica segnalibro</string>
      <string name="action_put_in_search_box">Inserisci %s nel campo di ricerca</string>
      <string name="action_skip">Salta</string>
+     <string name="action_text_all_select_bookmark">Select all</string>
+     <string name="action_text_all_select_bookmark_cancel">Deselect all</string>
+     <string name="action_text_change_textsize_bigger">Enlarge fonts</string>
+     <string name="action_text_change_textsize_smaller">Smaller fonts</string>
+     <string name="action_text_edit_bookmark_exit">Exit edit bookmark</string>
+     <string name="action_text_nightmode_change">Switching night mode</string>
+     <string name="action_text_readmode_bookmark_add">Add reading mode bookmark</string>
+     <string name="action_text_readmode_exit">Exit reading mode</string>
+     <string name="action_text_readmode_more">More</string>
+     <string name="action_text_readmode_theme_head">Set the background</string>
+     <string name="action_text_theme_and_textsize_change">Font size and theme adjustment</string>
      <string name="adblock_force_updating_rules_toast">Aggiornamento Ad blocker</string>
      <string name="adblock_notification">%d pubblicità bloccate</string>
      <string name="adblock_rules_not_updated_toast">Fallito</string>
@@ -119,11 +132,13 @@
      <string name="bookmark_btn_select_all">Seleziona tutto</string>
      <string name="bookmark_btn_select_none">Deseleziona tutto</string>
      <string name="bookmark_cannot_save_url">"L'URL non può essere aggiunto ai segnalibri."</string>
+     <string name="bookmark_deleted">Delete bookmark</string>
      <string name="bookmark_folder_needs_title">Inserisci il nome della cartella</string>
      <string name="bookmark_group_lable">Gruppo</string>
      <string name="bookmark_move_to">Sposta in</string>
      <string name="bookmark_needs_title">Inserisci un nome per il segnalibro.</string>
      <string name="bookmark_needs_url">Il segnalibro deve avere una posizione.</string>
+     <string name="bookmark_not_deleted">"Couldn't delete bookmark"</string>
      <string name="bookmark_not_saved">Impossibile salvare il segnalibro.</string>
      <string name="bookmark_rename_group">Rinomina gruppo</string>
      <string name="bookmark_saved">Salvato nei segnalibri.</string>
@@ -133,6 +148,7 @@
      <string name="bookmark_url_already_exisit">Hai già salvato questo URL</string>
      <string name="bookmark_url_can_not_null">Inserisci URL.</string>
      <string name="bookmark_url_lable">URL</string>
+     <string name="bookmark_url_not_exisit">"You've already deleted this URL"</string>
      <string name="bookmark_url_not_valid">Questo URL non è valido.</string>
      <string name="bookmarks_content_is_null">Nessun segnalibro</string>
      <string name="bookmarks_management">Segnalibri</string>
@@ -145,7 +161,9 @@
      <string name="browserFrameFormResubmitLabel" />
      <string name="browserFrameFormResubmitMessage">La pagina che stai tentando di visualizzare contiene dati già inviati (\"POSTDATA\"). Se invii di nuovo i dati, ogni azione effettuata dal modulo nella pagina (come una ricerca o un acquisto online) verrà ripetuta.</string>
      <string name="browserFrameNetworkErrorLabel">Problema di connessione</string>
+     <string name="bubble_guide_bottom_message_text">You have %d unread messages</string>
      <string name="bubble_guide_logined_text">Accedi per il disegno fortunato</string>
+     <string name="bubble_guide_portrait_message_text">Click to view</string>
      <string name="bubble_guide_unlogined_text">Accedi per godere dei privilegi</string>
      <string name="cancel">Annulla</string>
      <string name="cancle_sync_cloud_tabs">Annulla sincronizzazione</string>
@@ -181,6 +199,8 @@
      <string name="comment_max_length">Spiacente, la casella di input è piena.</string>
      <string name="comment_menu">Commenti</string>
      <string name="comment_num_description">Numero commento</string>
+     <string name="common_use_phrase_bottom_bar_text_next">Next</string>
+     <string name="common_use_phrase_bottom_bar_text_previous">Prev</string>
      <string name="context_menu_add_to_desk_id">Aggiungi alla Home</string>
      <string name="context_menu_orientation_portrait_swap_id">V/H</string>
      <string name="contextmenu_add_contact">Aggiungi contatto</string>
@@ -242,6 +262,8 @@ stia per accadere"</string>
      <string name="dialog_insufficient_space_on_external">Spazio insufficiente sulla memoria removibile</string>
      <string name="dialog_media_not_found">Impossibile scaricare: memoria rimovibile non rilevata</string>
      <string name="dialog_queued_body">Questo file è in coda essere scaricato in futuro.</string>
+     <string name="dialog_recovery_tabs_disc">Detection of unclosed pages requires full recovery.</string>
+     <string name="dialog_recovery_tabs_title">Open the page before recovery</string>
      <string name="dialog_title_not_available">Impossibile scaricare</string>
      <string name="dialog_title_queued_body">File ancora non disponibile</string>
      <string name="document_download_background_btn">Scarica in background</string>
@@ -319,6 +341,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="error_title">Impossibile sincronizzare</string>
      <string name="error_unauthorized">Sincronizzazione disattivata a causa di un numero eccessivo di tentativi di accesso.</string>
      <string name="exit">Esci</string>
+     <string name="exit_browser_confirmation">Press again to return to the desktop</string>
      <string name="exit_browser_warning">Esci dal browser?</string>
      <string name="exit_fullscreen">Esci da schermo intero</string>
      <string name="expand_button_title">Avanzate</string>
@@ -362,17 +385,18 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="guide_chosen_type_subtitle">Tagga i tuoi interessi per ottenere consigli rilevanti</string>
      <string name="guide_entertainment_text">Svago</string>
      <string name="guide_fashion_text">Moda</string>
+     <string name="guide_fiction_text">fiction</string>
      <string name="guide_finance_text">Finanza</string>
+     <string name="guide_flash_type_main_title">Lightning fast</string>
+     <string name="guide_flash_type_subtitle">Amazing speed, smooth UI</string>
      <string name="guide_games_text">Giochi</string>
      <string name="guide_history_text">Storia</string>
-     <string name="guide_human_type_main_title">Il browser che ti comprende</string>
-     <string name="guide_human_type_subtitle">Ottieni consigli sbalorditivi</string>
+     <string name="guide_know_type_main_title">The browser that understands you</string>
+     <string name="guide_know_type_subtitle">Get amazing recommendations</string>
      <string name="guide_label_chosen_hint">Puoi scegliere al massimo %d categorie</string>
      <string name="guide_military_text">Militare</string>
      <string name="guide_motor_text">Motori</string>
      <string name="guide_politics_text">Politica</string>
-     <string name="guide_rocket_type_main_title">Velocità fulminea</string>
-     <string name="guide_rocket_type_subtitle">Incredibile velocità ed UI fluida</string>
      <string name="guide_skip">Salta</string>
      <string name="guide_sports_text">Sport</string>
      <string name="guide_start_experience">Inizia</string>
@@ -845,11 +869,14 @@ Sei scuro di voler uscire da questa pagina?"</string>
      <string name="nav_bottom_bar_close_all">Chiudi tutto</string>
      <string name="nav_bottom_bar_close_description">Chiudi</string>
      <string name="nav_bottom_bar_new_tab">Nuova scheda</string>
+     <string name="nav_close_index_tab">Delete item %d</string>
      <string name="nav_screen_container_tab_incognito">Scheda incognito</string>
      <string name="nav_screen_container_tab_normal">Scheda normale</string>
      <string name="nav_screen_incognito_message">"La cronologia di navigazione e ricerca non verrà salvata in modalità Incognito.
 Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunque."</string>
      <string name="nav_screen_incognito_title">Modalità incognito</string>
+     <string name="nav_screen_tab_incognito_enter">Enter incognito tab</string>
+     <string name="nav_screen_tab_incognito_exit">Exit incognito tab</string>
      <string name="navigation_delete_all">scorri a sinistra e destra per chiudere tutte le schede</string>
      <string name="navigationbar_rightbutton_actiontext_cancle">Annulla</string>
      <string name="navigationbar_rightbutton_actiontext_go">Vai</string>
@@ -874,6 +901,8 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="open_cloud_sync_desc">Segnalibro aggiunto. Attiva la sincronizzazione cloud e i segnalibri aggiunti su altri dispositivi verranno sincronizzati con questa macchina. Accedere ed aprire adesso?</string>
      <string name="open_file_explorer_failed">Impossibile aprire File Explorer"</string>
      <string name="open_voice_permission">Apertura permessi rete voce</string>
+     <string name="page_hang_message">The current page is stuck and you need to restart your browser.</string>
+     <string name="page_hang_title">Page stuck</string>
      <string name="page_info">Info pagina</string>
      <string name="page_info_address">Indirizzo:</string>
      <string name="page_info_view">Visualizza info pagina</string>
@@ -885,7 +914,9 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="paused_waiting_to_retry">in attesa di nuovo tentativo…</string>
      <string name="pay_failed_toast">Pagamento fallito</string>
      <string name="pay_success_toast">Pagamento eseguito</string>
+     <string name="permission_alert_window">To use the feature, please open system option Diplay pop-up window.</string>
      <string name="permission_notification">Invia notifiche</string>
+     <string name="permission_unknown">Unknown Option</string>
      <string name="permissions_prompt_message">"%s vuole "</string>
      <string name="play_pause_video">Riproduci o metti in pausa video</string>
      <string name="play_video">Riproduci video</string>
@@ -894,6 +925,8 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="positive_confirm_message">Disattiva comunque</string>
      <string name="pref_accept_quicklink_push">Avvia push pagina</string>
      <string name="pref_accessibility_title">Accessibilità</string>
+     <string name="pref_accessibility_url_shortcut_enter_summary">Common letter combinations can be entered in one tap in the address bar</string>
+     <string name="pref_accessibility_url_shortcut_enter_title">Quick URL input</string>
      <string name="pref_adblock_counts">%d bloccati</string>
      <string name="pref_adblock_title">Ad blocker</string>
      <string name="pref_advert_null">"Pubblicità non segnalata, puoi toccare l'etichetta sulla pagina"</string>
@@ -905,6 +938,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_check_security_url_summary_international">Per fornire un servizio migliore, consenti al browser di accedere ai tuoi URL</string>
      <string name="pref_check_security_url_title">Verifica sicurezza URL</string>
      <string name="pref_check_security_url_title_international">Ottieni gli URL</string>
+     <string name="pref_checkbox_tab_restore">Remember this option (can go to Advanced Settings to modify)</string>
      <string name="pref_clear_adblock_statistics">Svuota cronologia Ad blocker</string>
      <string name="pref_clear_adblock_statistics_dlg">Azzerare il conteggio pubblicità bloccate?</string>
      <string name="pref_clear_all_data_dlg">Cancellare tutti i dati di navigazione?</string>
@@ -920,6 +954,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_content_night_read_mode">Modalità notte</string>
      <string name="pref_content_search_engine">Imposta motore di ricerca preferito</string>
      <string name="pref_content_search_engine_summary">Scegli un motore di ricerca</string>
+     <string name="pref_download_setting">Download setting</string>
      <string name="pref_enable_adblock_notification">Notifiche Ad blocker</string>
      <string name="pref_enable_news">Nuovi avvisi</string>
      <string name="pref_enable_novels">Libri</string>
@@ -935,7 +970,6 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_file_downlaod_save_reset_default_settings">Ripristina impostazioni predefinite</string>
      <string name="pref_file_download_default_path_prefix">Percorso predefinito: %s</string>
      <string name="pref_file_download_save_modify_default_path">Percorso file scaricati</string>
-     <string name="pref_file_download_save_title">Download</string>
      <string name="pref_fling_on_border">Scorri dal bordo</string>
      <string name="pref_fling_on_border_title_summary">Scorri dal bordo sinistro dello schermo a quello destro</string>
      <string name="pref_font_size_category">Dimensioni testo</string>
@@ -990,7 +1024,8 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_security_show_security_warning">Mostra avvisi sicurezza</string>
      <string name="pref_security_show_security_warning_summary">Mostra un avviso se esiste un problema di sicurezza con un sito</string>
      <string name="pref_set_homepage_to">Imposta come</string>
-     <string name="pref_setting_title">Impostazioni pagina</string>
+     <string name="pref_slide_back_forward">Slide back or forward</string>
+     <string name="pref_tab_restore">Recover the last open page at startup</string>
      <string name="pref_ua_string">Stringa user agent</string>
      <string name="pref_version_info">Info versione</string>
      <string name="pref_volume_key_action">Scorri con i tasti volume</string>
@@ -1124,6 +1159,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="signed_in">Registrato</string>
      <string name="skip_button_label">Salta</string>
      <string name="skip_current_version">Salta questa versione</string>
+     <string name="slide_guide">Slide to return</string>
      <string name="snapshot">Locale</string>
      <string name="snapshot_failed">Salvataggio per lettura offline non riuscito.</string>
      <string name="snapshot_successed">Salvataggio per lettura offline riuscito.</string>
@@ -1194,6 +1230,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="suggestion_more_button_text">MOSTRA DI PIÙ</string>
      <string name="suggestion_more_news">PIÙ NOTIZIE</string>
      <string name="suggestion_more_news_start_title_text">Notizie Correlate</string>
+     <string name="suggestion_sliding_ads_info_mark_text">ADS</string>
      <string name="suggestion_topic_subtitle_hyphen">Focalizzazione</string>
      <string name="suggestion_translation_more">PIÙ TRADUZIONI</string>
      <string name="switchText">SI</string>

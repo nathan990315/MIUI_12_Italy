@@ -945,9 +945,11 @@ Riprova tra %2$d secondi."</string>
      <string name="local_backup_password_toast_confirmation_mismatch">La nuova password e la relativa conferma non corrispondono</string>
      <string name="local_backup_password_toast_success">Imposta nuova password di backup</string>
      <string name="local_backup_password_toast_validation_failure">Impostazione password di backup fallita</string>
+     <string name="lock_screen_carrier_airplane_mode_on">Airplane mode</string>
      <string name="lock_screen_date">EEEE, d MMMM</string>
      <string name="lock_screen_date_12">EEEE, d MMMM</string>
-     <string name="lock_screen_no_sim_card">Nessuna SIM</string>
+     <string name="lock_screen_no_sim_card_emergency_only">Emergency call only</string>
+     <string name="lock_screen_no_sim_card_no_service">No service</string>
      <string name="lock_wallpaper_enter">Inserisci</string>
      <string name="lock_wallpaper_learn_more">Altro</string>
      <string name="lockscreen_access_pattern_area">Area sequenza</string>
@@ -1323,6 +1325,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="quick_settings_sync_label">Sincr.</string>
      <string name="quick_settings_tethering_label">Tethering</string>
      <string name="quick_settings_time_label">Tempo</string>
+     <string name="quick_settings_toast_drag_to_enable_custom_tile">To add an item, press and hold it, and then drag it to the upper part of the panel.</string>
      <string name="quick_settings_user_label">Me</string>
      <string name="quick_settings_user_new_user">Nuovo utente</string>
      <string name="quick_settings_user_title">Utente</string>
@@ -1586,6 +1589,7 @@ Il tuo telefono potrebbe diventare troppo caldo se:
      <string name="torch_activity_hint">Puoi accedere velocemente alla torcia tenendo premuto il tasto [icon] nella Schermata di blocco</string>
      <string name="torch_activity_name">Torcia</string>
      <string name="torch_closed">Torcia disattivata</string>
+     <string name="torch_high_temperature_warning">"Your device is overheated. Can't use torch now."</string>
      <string name="torch_opened">Torcia attivata</string>
      <string name="track_frame_time">Profilo rendering GPU</string>
      <string name="transition_animation_scale_title">Transizione scala animazione</string>

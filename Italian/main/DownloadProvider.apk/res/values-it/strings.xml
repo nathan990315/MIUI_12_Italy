@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_label">Gestore Download</string>
      <string name="auto_restart_under_wifi">Questo file verrà scaricato automaticamente quando connesso al Wi-Fi</string>
@@ -43,7 +43,6 @@
      <string name="notif_title_single_downloading">Download in corso %1$s</string>
      <string name="notification_download_complete">Download completato.</string>
      <string name="notification_download_failed">Download non riuscito.</string>
-     <string name="notification_download_failed_more">%1$d file non scaricati</string>
      <string name="notification_download_success_more">%1$d file scaricati</string>
      <string name="notification_need_wifi_for_size">Wi-Fi richiesto per download</string>
      <string name="notification_paused_in_background">In pausa in background.</string>

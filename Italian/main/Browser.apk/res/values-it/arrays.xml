@@ -17,6 +17,11 @@
         <item>Visualizzazione verticale</item>
         <item>Visualizzazione orizzontale</item>
      </string-array>
+     <string-array name="pref_tab_restore_array">
+        <item>Always asking</item>
+        <item>Open</item>
+        <item>Close</item>
+     </string-array>
      <string-array name="pref_text_zoom_choices">
         <item>Molto piccolo</item>
         <item>Piccolo</item>
@@ -29,6 +34,14 @@
         <item>Desktop</item>
         <item>iPhone</item>
         <item>iPad</item>
+     </string-array>
+     <string-array name="readmode_theme_background_color">
+        <item>white</item>
+        <item>beige</item>
+        <item>brown</item>
+        <item>green</item>
+        <item>gray</item>
+        <item>black</item>
      </string-array>
      <string-array name="shortcut_dialog_delete">
         <item>Cancella</item>

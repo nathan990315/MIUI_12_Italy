@@ -157,13 +157,14 @@
      <string name="edit_event_confirm_message">Ignorare le modifiche di questo evento?</string>
      <string name="edit_event_countdown_name_empty_hint">Inserisci nome promemoria</string>
      <string name="edit_event_countdown_name_hint">Evento</string>
+     <string name="edit_event_dislike_title">Why did you cancel?</string>
      <string name="edit_event_from_label">Da</string>
      <string name="edit_event_input_year">Inserisci anno</string>
      <string name="edit_event_label">Modifica evento</string>
      <string name="edit_event_no_reminder_value">Non ricordare</string>
      <string name="edit_event_reminder_3_days_before">Ricorda 3 giorni prima</string>
      <string name="edit_event_reminder_summary">In quel giorno a %1$s</string>
-     <string name="edit_event_reminder_summary_3_days_before">3 giorni prima dell\'evento alle ore %1$s</string>
+     <string name="edit_event_reminder_summary_3_days_before">"3 giorni prima dell\'evento alle ore %1$s"</string>
      <string name="edit_event_reminder_text">Il %1$s ore %2$s</string>
      <string name="edit_event_reminder_time">Orario promemoria</string>
      <string name="edit_event_reminder_with_another_day_text">dal %1$s,al %2$s ore %3$s</string>
@@ -198,7 +199,6 @@
      <string name="event_lunar_month" />
      <string name="event_reminder_allday_day_zero">Quel giorno alle %2$s</string>
      <string name="event_reminder_value_zero">"Prima dell'evento"</string>
-     <string name="event_reminders_to_max">Numero massimo promemoria: %d</string>
      <string name="event_title">Titolo</string>
      <string name="event_view">Mostra evento</string>
      <string name="every_weekday">Ogni settimana (Lun–Ven)</string>

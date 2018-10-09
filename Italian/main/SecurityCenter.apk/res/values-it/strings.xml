@@ -514,19 +514,11 @@ se dimenticata"</string>
      <string name="card_main_xspace_action">Crea</string>
      <string name="card_main_xspace_summary">Crea un doppio account per le applicazioni</string>
      <string name="card_main_xspace_title">Clona app</string>
-     <string name="card_sms_report">Rapporto SMS</string>
      <string name="card_tc_failed">Impossibile calibrare</string>
-     <string name="card_tc_failed_content">"Ragioni possibili:
- 1. Gli operatori rispondono lentamente all'inizio e alla fine del mese. Riprova fra un paio di giorni.
- 2. E' necessario un modello di richiesta di rete quando esegui la calibrazione per la prima volta. Connettiti alla rete e prova di nuovo.
- 3. Il tuo operatore potrebbe non supportare l'invio di messaggi di testo con i dati e il saldo rimanenti. Contatta il tuo operatore per maggiori informazioni.
- 4. Potrebbe essersi verificato un errore nei dati dell'operatore. Prova ad eseguire una diagnostica per risolvere il problema.
- 5. Niente ti è stato di aiuto? Tocca \"Segnala tramite SMS\" per inviare la tua segnalazione bug a Xiaomi con un messaggio di testo."</string>
      <string name="celcius_symbol">°C</string>
      <string name="charging_text_battery_full_time">Ultima carica\u0020</string>
      <string name="charging_text_battery_nearly_full">Quasi carico</string>
      <string name="charging_text_battery_perfect">Carica completata\u0020</string>
-     <string name="check_network_state">Test rete</string>
      <string name="choose">Scegli</string>
      <string name="clean_immediately">Pulisci</string>
      <string name="cleaned">Puliti</string>
@@ -1064,7 +1056,6 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="label_callwait">Chiamata in attesa</string>
      <string name="label_mi_stats">Statistiche Mi</string>
      <string name="last_check_canceled">La scansione precedente è stata annullata</string>
-     <string name="later">Più tardi</string>
      <string name="left_precent">60%</string>
      <string name="legal_workday">Festivi</string>
      <string name="legal_workday_invalidate">Dati scaduti (Attualmente attivo da Lunedì a Venerdì)</string>
@@ -1156,12 +1147,8 @@ dall'operatore"</string>
      <string name="main_tobe_added_desc">Dati su rete mobile da ¥0.03/MB</string>
      <string name="main_today_used">Oggi</string>
      <string name="main_toolbar_firewall">Limita utilizzo dati</string>
-     <string name="main_toolbar_internet_by_mobiledata">Connessione dati</string>
-     <string name="main_toolbar_internet_by_pc_brige">Internet USB</string>
-     <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
      <string name="main_toolbar_purchase">Ricarica</string>
      <string name="main_toolbar_statistic">Statistiche di utilizzo dati</string>
-     <string name="main_used_bill">%s CNY</string>
      <string name="man_add_application">Aggiungi manualmente app in avvio automatico</string>
      <string name="manage_hybrid_permissions">Gestisci i permessi delle app</string>
      <string name="managed_user_title">Tutte le app di lavoro</string>
@@ -1468,7 +1455,6 @@ Quest'attività riduce la durata della batteria."</string>
      <string name="open_lucky">Avvia Assistente</string>
      <string name="open_now">Consenti alle app di usare la connessione dati</string>
      <string name="operator_diagnostic">Diagnostica operatore</string>
-     <string name="operator_mi_sim">Mi SIM</string>
      <string name="operator_name_cmcc">Cina Mobile</string>
      <string name="operator_name_telcom">Cina Telecom</string>
      <string name="operator_name_unicom">Cina Unicom</string>
@@ -2079,7 +2065,6 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="status_bar_network_flow_phone_balance">"   Saldo:%1$s "</string>
      <string name="status_bar_network_flow_purchase">"   Acquista &gt;"</string>
      <string name="status_bar_network_flow_setup_data_plan">"   Imposta piano dati &gt;"</string>
-     <string name="status_bar_network_flow_today">Oggi: %1$s</string>
      <string name="still_retain_btn">Mantieni</string>
      <string name="suggest_app_tolock">Suggerimenti</string>
      <string name="suggest_app_tolock_masked">Nascoste</string>
@@ -2374,7 +2359,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="traffic_setting_fragment_button2_text">Salva</string>
      <string name="traffic_setting_fragment_city">Città</string>
      <string name="traffic_setting_fragment_default">Seleziona</string>
-     <string name="traffic_setting_fragment_find_brand">Non conosci il brand?</string>
      <string name="traffic_setting_fragment_loacation_alert_nomore">Non mostrare più</string>
      <string name="traffic_setting_fragment_operator">Operatore</string>
      <string name="traffic_setting_fragment_operator_setting">Impostazioni operatore</string>

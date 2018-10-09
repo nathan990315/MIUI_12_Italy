@@ -63,7 +63,6 @@
      <string name="dialog_btn_ok_disabled_net">Impostazioni di rete</string>
      <string name="dialog_cannot_resume">Download interrotto. Impossibile riprendere.</string>
      <string name="dialog_confirm_delete_checkbox_message">Mantieni i file locali</string>
-     <string name="dialog_confirm_delete_downloads_message">Eliminare i %d elementi selezionati?</string>
      <string name="dialog_confirm_delete_the_download_item_message">"Eliminare l'elemento selezionato?"</string>
      <string name="dialog_content_limit0">Limita download</string>
      <string name="dialog_content_limit_max">Illimitati</string>
@@ -99,7 +98,6 @@
      <string name="download_filesize_unknown">Sconosciuto</string>
      <string name="download_from">Fonte:</string>
      <string name="download_in_process">In corso</string>
-     <string name="download_info_count_deleted_tasks">%s download rimossi</string>
      <string name="download_info_start_deleted_tasks">Elimina i download</string>
      <string name="download_list_get_free_vip">Prova Xunlei</string>
      <string name="download_list_get_hightspeed_flow_auto_open">Accelerazione download Xunlei attivato</string>
@@ -361,9 +359,7 @@ su tutti i tuoi dispositivi grazie a Xunlei"</string>
      <string name="sniff_no_result_text">Nessun risultato</string>
      <string name="sniff_result_empty_prompt">Nessun risultato</string>
      <string name="sniff_result_num_prefix">Trovati</string>
-     <string name="sniff_result_num_video_suffix">elementi</string>
      <string name="sniff_result_num_website_suffix">siti web</string>
-     <string name="sniff_result_website_intro">Totale &lt;font color=\"#6699ff\">%1$d&lt;/font> elementi | Fonte: %2$s</string>
      <string name="sniff_search_assoicate_sizeinfo">Dimensione: %1$s</string>
      <string name="sniff_search_install">Installa</string>
      <string name="sniff_shortcut_cloudconfig_btn">Ho capito</string>

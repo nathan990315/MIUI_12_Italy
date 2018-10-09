@@ -93,7 +93,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="desktop_wait_wifi">In attesa di rete Wi-Fi</string>
      <string name="desktop_waiting">In attesa</string>
      <string name="device_delete_prompt">Eliminare il backup di %s?</string>
-     <string name="device_xiaomi">Dispositivo Mi</string>
      <string name="dialog_btn_next">Next</string>
      <string name="dialog_btn_restore_skip">Restore later</string>
      <string name="dialog_cancel_backup_cancel">Annulla</string>
@@ -110,12 +109,17 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="download_meta_failed">Impossibile caricare i dati.</string>
      <string name="download_settings">Download impostazioni Home: %s%%</string>
      <string name="download_settings_fail">Download impostazioni Home fallito</string>
+     <string name="error_retry_later">Failed, retry later please.</string>
      <string name="error_unknown">Si è verificato un errore</string>
      <string name="get_device_id_error">Impossibile ottenere ID dispositivo</string>
      <string name="home_hint_global_launcher">Schermata Home Poco</string>
+     <string name="home_hint_other_launcher">Other Home screen</string>
      <string name="home_restore_error">Impossibile ripristinare schermata Home</string>
      <string name="lack_of_storage">Spazio di archiviazione insufficiente</string>
      <string name="latest_backup_time_loading">Caricamento…</string>
+     <string name="load_backup_failed">Load backups failed</string>
+     <string name="loading_user_backup">Loading user backups…</string>
+     <string name="main_space">Main space</string>
      <string name="managespace_delete_backup">Elimina backup</string>
      <string name="menu_item_managespace">Gestisci spazio</string>
      <string name="menu_item_sort">Ordina per</string>
@@ -124,7 +128,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="miui_device_name">Android</string>
      <string name="msg_alert_cancel_restore">Il backup da Cloud è in fase di ripristino, interrompere?</string>
      <string name="msg_alert_restore_error">Ripristino backup da Cloud non riuscito, prego riprova.</string>
-     <string name="name_model">%2$s di %1$s</string>
      <string name="network_error">Collegato alla rete</string>
      <string name="no_account">Accesso al Mi Account non eseguito.</string>
      <string name="no_backup">Nessun backup su Mi Cloud.</string>
@@ -160,8 +163,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="restore_task_in_process">Ripristino…</string>
      <string name="restore_unfinished">Ripristino incompleto, riprova più tardi</string>
      <string name="retry">Riprova</string>
-     <string name="self_phone">Questo dispositivo</string>
-     <string name="self_phone_home">Questo telefono: %s</string>
+     <string name="second_space">Second space</string>
+     <string name="self_device">"This phone's "</string>
      <string name="settings_backup">Backup impostazioni</string>
      <string name="size_unknown">Dimensione sconosciuta</string>
      <string name="start_backup_to_micloud">Esegui backup su Mi Cloud</string>
@@ -171,5 +174,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="title_alert_restore_error">Ripristino non riuscito</string>
      <string name="total_space">Spazio totale: %s</string>
      <string name="try_again">Tocca per provare di nuovo</string>
+     <string name="try_continue">Tap to continue</string>
+     <string name="unsupported_home">Please update to latest OS.</string>
      <string name="wait_icon_download">Download icona applicazione</string>
 </resources>
