@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="sniff_find_resource">
-        <item quantity="other">Trovati %d elementi</item>
-        <item quantity="one">Trovato 1 elemento</item>
-    </plurals>
-    <plurals name="numberOfItemsAvailable">
+     <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Eliminare %d download?</item>
+        <item quantity="one">Eliminare %d download?</item>
+     </plurals>
+     <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Eliminazione di %s download riuscita</item>
+        <item quantity="one">Eliminazione di %s download riuscita</item>
+     </plurals>
+     <plurals name="numberOfItemsAvailable">
         <item quantity="other">Eliminare %d elementi?</item>
         <item quantity="one">Eliminare questo elemento?</item>
-    </plurals>
-    <plurals name="sniff_find_result">
+     </plurals>
+     <plurals name="sniff_find_resource">
+        <item quantity="other">Trovati %d elementi</item>
+        <item quantity="one">Trovato 1 elemento</item>
+     </plurals>
+     <plurals name="sniff_find_result">
         <item quantity="other">Trovati %d risultati</item>
         <item quantity="one">Trovato 1 risultato</item>
-    </plurals>
+     </plurals>
 </resources>

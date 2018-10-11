@@ -84,6 +84,10 @@
         <item quantity="other">Puoi inserire fino a %1$d giorni</item>
         <item quantity="one">Puoi inserire fino a %1$d giorno</item>
      </plurals>
+     <plurals name="event_reminders_to_max">
+        <item quantity="other">Puoi impostare fino a %d promemoria</item>
+        <item quantity="one">Puoi impostare fino a %d promemoria</item>
+     </plurals>
      <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
