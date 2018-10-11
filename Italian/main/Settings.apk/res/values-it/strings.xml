@@ -1982,7 +1982,7 @@ Sembrava che ci fosse né cavalli né animali di qualsiasi genere; gli uomini po
 Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
      <string name="font_size_summary2">Modalità semplificata</string>
      <string name="forbidden_switch_apn_string">"Le impostazioni APN selezionate non coincidono con il tipo di rete in uso"</string>
-     <string name="force_allow_on_external">Forza ammissione app da esterno</string>
+     <string name="force_allow_on_external">Forza app da memoria esterna</string>
      <string name="force_allow_on_external_summary">Rendi tutte le app idonee per la scrittura su memoria esterna, senza considerare i valori del manifest.</string>
      <string name="force_hw_ui">Forza render GPU</string>
      <string name="force_hw_ui_summary">"Forza l'uso della GPU per i disegni 2D"</string>
@@ -1992,7 +1992,7 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
      <string name="force_immersive_compatibility_hint_title">Problemi di compatibilità</string>
      <string name="force_msaa">Forza MSAA 4x</string>
      <string name="force_msaa_summary">Attiva MSAA 4x in applicazioni OpenGL ES 2.0</string>
-     <string name="force_resizable_activities">Forza le attività per renderle ridimensionabili</string>
+     <string name="force_resizable_activities">Forza ridimensionamento attività</string>
      <string name="force_resizable_activities_summary">Rendi tutte le attività ridimensionabili per il multi-finestra, senza considerare i valori del manifest.</string>
      <string name="force_rtl_layout_all_locales">Forza direzione disposizione RTL</string>
      <string name="force_rtl_layout_all_locales_summary">Direzione disposizione schermo RTL per tutte le lingue</string>
@@ -3767,7 +3767,7 @@ Interfaccia UT: %5$s"</string>
      <string name="reset_second_space_passwd_cancel">Annulla</string>
      <string name="reset_second_space_passwd_confirm">Continua</string>
      <string name="reset_second_space_passwd_detail">Inserisci la password del Mi Account utilizzata nel Primo Spazio</string>
-     <string name="reset_shortcut_manager_throttling">Azzera contatori limite frequenza ShortcutManager</string>
+     <string name="reset_shortcut_manager_throttling">Azzera contatori di limitaz frequenza ShortcutManager</string>
      <string name="reset_shortcut_manager_throttling_complete">Il limite di conteggio ShortcutManager è stato ripristinato</string>
      <string name="resetting_second_space_passwd">Reimpostazione password Secondo Spazio</string>
      <string name="resolver_settings_label">Ordina</string>
@@ -4355,7 +4355,7 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
      <string name="share_remote_bugreport_dialog_title">Condividere segnalazione bug?</string>
      <string name="sharing_remote_bugreport_dialog_message">Questo segnalazione bug è stato condiviso con il tuo amministratore IT. Contattalo per maggiori dettagli.</string>
      <string name="short_summary_font_size">Rendi il testo più grande e più piccolo</string>
-     <string name="show_all_anrs">Mostra tutti errori ANR</string>
+     <string name="show_all_anrs">Mostra tutti gli errori ANR</string>
      <string name="show_all_anrs_summary">Mostra finestra ANR per applicazioni in background</string>
      <string name="show_all_apps">Mostra utilizzo totale del dispositivo</string>
      <string name="show_background_processes">Mostra processi nella cache</string>
