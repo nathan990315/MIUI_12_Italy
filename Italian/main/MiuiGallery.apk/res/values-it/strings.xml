@@ -667,6 +667,7 @@
      <string name="collage_poster_global_summer_flower_text">FIORI ESTIVI</string>
      <string name="collage_poster_global_tea_text">TÉ POMERIDIANO</string>
      <string name="collage_rotate">Ruota</string>
+     <string name="collage_select_image_range">Collages can contain 1-4 photos</string>
      <string name="collage_title_layout">Layout</string>
      <string name="collage_title_poster">Poster</string>
      <string name="collaps_people">Chiudi altre persone</string>
@@ -929,6 +930,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="finish_fill_baby">Crea</string>
      <string name="flash_off">Niente flash</string>
      <string name="flash_on">Usa flash</string>
+     <string name="frame_not_support_image_ratio">"This aspect ratio isn't supported"</string>
      <string name="free_view_desc">Visuale 3D</string>
      <string name="gallery_setting">Impostazioni</string>
      <string name="gallery_sync_disable_toast">La funzionalità di sincronizzazione della galleria non è attiva</string>
@@ -1101,6 +1103,7 @@ per personalizzare la Galleria"</string>
      <string name="operation_in_process">Elaborazione…</string>
      <string name="operation_move_to_other_albums">Sposta in Altri album</string>
      <string name="operation_not_show_in_photos_tab">Non visualizzare in home</string>
+     <string name="operation_produce">Creativity</string>
      <string name="operation_projection">Proietta</string>
      <string name="operation_remove_face">Rimuovi</string>
      <string name="operation_remove_from_face_album">Rimuovi copertina</string>
@@ -1143,9 +1146,11 @@ per personalizzare la Galleria"</string>
      <string name="photo_editor_beauty_compare">Originale</string>
      <string name="photo_editor_crop_and_rotate">Taglia e ruota</string>
      <string name="photo_editor_crop_auto">Auto</string>
+     <string name="photo_editor_crop_auto_tips">Cropped automatically</string>
      <string name="photo_editor_crop_reset">Ripristina</string>
      <string name="photo_editor_doodle">Disegna</string>
      <string name="photo_editor_filter">Filtro</string>
+     <string name="photo_editor_frame">Frame</string>
      <string name="photo_editor_label">Modifica</string>
      <string name="photo_editor_long_crop">Taglia</string>
      <string name="photo_editor_miui_beauty">Bellezza</string>
@@ -1200,6 +1205,7 @@ per personalizzare la Galleria"</string>
      <string name="photo_editor_talkback_redo">Riaggiungi</string>
      <string name="photo_editor_talkback_undo">Annulla</string>
      <string name="photo_editor_text">Testo</string>
+     <string name="photo_movie_select_image_range">Clips can contain 3-6 photos</string>
      <string name="photo_page_save_uri_image_fail">Impossibile salvare la foto.</string>
      <string name="photo_page_save_uri_image_ok">La foto è stata salvata nella cartella Fotocamera.</string>
      <string name="photo_print_menu_loading">Caricamento plug-in…</string>
@@ -1409,6 +1415,7 @@ per personalizzare la Galleria"</string>
      <string name="secret_reason_unknow_reasons">Errore sconosciuto</string>
      <string name="secret_reason_video_not_support">Impossibile aggiungere video ad un album nascosto</string>
      <string name="see_ignore_faces">Mostra le persone ignorate</string>
+     <string name="select_image_operation">Adding photos</string>
      <string name="select_item_face">"Le foto potrebbero essere '%s'"</string>
      <string name="select_origin_tip">File originale (%s)</string>
      <string name="send_file_beautify_failed">Impossibile condividere</string>
@@ -1557,6 +1564,7 @@ per personalizzare la Galleria"</string>
      <string name="unpublish_failed">Impossibile annullare la pubblicazione</string>
      <string name="unpublish_succeeded">Album rimosso</string>
      <string name="unpublishing">Annullo la pubblicazione, attendere…</string>
+     <string name="unsupport_video">"%s doesn't work with videos"</string>
      <string name="user_agree">Accetto</string>
      <string name="user_agreement2">" Termini del Servizio"</string>
      <string name="user_agreement4">Informativa sulla Privacy</string>

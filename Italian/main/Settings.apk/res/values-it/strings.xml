@@ -1004,6 +1004,7 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="calls_title">Chiamate</string>
      <string name="camera_double_tap_power_gesture_desc">Apri velocemente la fotocamera senza sbloccare lo schermo</string>
      <string name="camera_double_tap_power_gesture_title">Premi due volte il tasto accensione per aprire la Fotocamera</string>
+     <string name="camera_front">Front %s</string>
      <string name="camera_gesture_desc">Apri la Fotocamera ruotando due volte il polso</string>
      <string name="camera_gesture_title">Doppia rotazione per Fotocamera</string>
      <string name="camera_key_action_app_title">Apri app</string>
@@ -1018,6 +1019,7 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="camera_key_action_shortcut_wake">Blocca dispositivo</string>
      <string name="camera_key_action_title">Mi Button</string>
      <string name="camera_key_action_toggle_title">Comando di attivazione</string>
+     <string name="camera_rear">Rear %s</string>
      <string name="cancel">Annulla</string>
      <string name="cancel_action">Annulla</string>
      <string name="cancel_alert">Annullare le modifiche?</string>
@@ -1479,6 +1481,7 @@ avviso"</string>
      <string name="device_available_memory">Memoria disponibile</string>
      <string name="device_battery">Batteria</string>
      <string name="device_build_id">Numero versione</string>
+     <string name="device_camera">Camera</string>
      <string name="device_cellular_network">Scansione rete mobile</string>
      <string name="device_complete_parameters">Completo</string>
      <string name="device_cpu">CPU</string>
@@ -2831,7 +2834,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) ha già accettato</string>
      <string name="miui_sos_emergency_delivered_sms_noname">%1s ha già accettato</string>
      <string name="miui_sos_emergency_failed_sms" formatted="false">%1s (%2s) invio messaggio sos non riuscito.</string>
-     <string name="miui_sos_emergency_failed_sms_noname">%1s invio messaggio sos non riuscito.</string>
+     <string name="miui_sos_emergency_failed_sms_noname">%1sinvio messaggio sos non riuscito.</string>
      <string name="miui_sos_enable_switch_summary">Premi rapidamente il pulsante di accensione 5 volte, per inviare un messaggio di testo SOS con la tua posizione ai tuoi contatti di emergenza</string>
      <string name="miui_sos_enable_switch_title">SOS di Emergenza</string>
      <string name="miui_sos_exit_dialog_cancel">Annulla</string>
@@ -2937,11 +2940,15 @@ ed esegui il software."</string>
      <string name="music_dirac_mode_general">Generale</string>
      <string name="music_dirac_mode_general_earbuds">Generali</string>
      <string name="music_dirac_mode_general_inear">In-ear normale</string>
+     <string name="music_dirac_mode_half_in_ear">Mi Half in Ear</string>
      <string name="music_dirac_mode_headset">Cuffie Mi</string>
      <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
      <string name="music_dirac_mode_in_ear">Cuffie Mi In-ear</string>
+     <string name="music_dirac_mode_in_ear2">Mi In-Ear 2</string>
      <string name="music_dirac_mode_in_ear_2013">Mi In-Ear (2013)</string>
      <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
+     <string name="music_dirac_mode_india_earphones">Mi Earphones</string>
+     <string name="music_dirac_mode_india_earphones_basic">Mi Earphones Basic</string>
      <string name="music_dirac_mode_off">Dirac disattivato</string>
      <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
      <string name="music_dirac_mode_piston_100">Mi Piston</string>
