@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="stock_color_schema">
+    <string-array name="express_status_all">
+        <item>In arrivo</item>
+        <item>In spedizione</item>
+        <item>Consegnato</item>
+        <item>Sconosciuto</item>
+        <item>Ricevuto</item>
+        <item>Rifiutato</item>
+        <item>Rientrato</item>
+        <item>Sconosciuto</item>
+    </string-array>
+    <string-array name="express_status_detail">
+        <item>In arrivo</item>
+        <item>In spedizione</item>
+    </string-array>
+    <string-array name="stock_color_schema">
         <item>Rosso - in alto, verde - in basso</item>
         <item>Verde - in alto, rosso - in basso</item>
-     </string-array>
+    </string-array>
 </resources>
