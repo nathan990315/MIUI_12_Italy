@@ -1286,7 +1286,7 @@ Per continuare a usare il dispositivo devi effettuare un ripristino dei dati di 
      <string name="dangerous_option">Opzioni sviluppatore ad alto rischio</string>
      <string name="dangerous_option_hint">%1$s è abilitato. Tocca per modificare le impostazioni.</string>
      <string name="dangerous_option_hint_title">Funzionalità ad alto rischio abilitata</string>
-	 <string name="dangerous_option_switch_title">Notifica funzionalità ad alto rischio</string>
+     <string name="dangerous_option_switch_title">Notifica funzionalità ad alto rischio</string>
      <string name="dashboard_title">Impostazioni</string>
      <string name="data_limit">Limite dati</string>
      <string name="data_saver_off">Disattivato</string>
@@ -4580,6 +4580,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_notification_shade_shortcut">Collegamento area notifiche</string>
      <string name="status_bar_settings_notification_sound">Audio</string>
      <string name="status_bar_settings_notification_vibrate">Vibrazione</string>
+     <string name="status_bar_settings_peek_notification_icon">Show icons for incoming notifications</string>
      <string name="status_bar_settings_show_carrier">Mostra operatore</string>
      <string name="status_bar_settings_show_carrier_summary">Mostra solo nella Schermata di blocco</string>
      <string name="status_bar_settings_show_carrier_under_keyguard">Mostra operatore quando il dispositivo è bloccato</string>
