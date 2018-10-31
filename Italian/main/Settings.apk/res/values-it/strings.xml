@@ -236,7 +236,6 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="allow_bind_app_widget_activity_allow_bind_title">"Creare il widget e consentire l'accesso?"</string>
      <string name="allow_bind_app_widget_activity_always_allow_bind">Consenti sempre a %1$s di creare widget e accedere ai relativi dati</string>
      <string name="allow_data_usage_title">"Consenti l'utilizzo di dati cellulare quando sei in roaming"</string>
-     <string name="allow_device_id_access">Apps with device identification</string>
      <string name="allow_mock_location">Posizioni fittizie</string>
      <string name="allow_mock_location_summary">Consenti posizioni fittizie</string>
      <string name="allow_overlay_description">"Questo permesso consente ad un app di visualizzare dei contenuti sopra ad altre app che stai usando e potrebbero così interferire con l'uso dell'interfaccia delle altre app, o modificare quelli che pensi di visualizzare in altre applicazioni."</string>
@@ -1495,7 +1494,6 @@ avviso"</string>
      <string name="device_display_layout_title">funzionalità</string>
      <string name="device_edit_title">Rinomina dispositivo</string>
      <string name="device_feedback">Invia una segnalazione con le informazioni di questo dispositivo</string>
-     <string name="device_id">Device identification</string>
      <string name="device_info_default">Sconosciuto</string>
      <string name="device_info_label">Info dispositivo</string>
      <string name="device_info_not_available">Non disponibile</string>
@@ -1706,8 +1704,6 @@ avviso"</string>
      <string name="enableNetwork">Attiva rete</string>
      <string name="enable_adb">Debug USB</string>
      <string name="enable_adb_summary">Modalità debug con connessione USB</string>
-     <string name="enable_atrace">Turn on ATrace</string>
-     <string name="enable_atrace_summary">Capture kernel events using ATrace</string>
      <string name="enable_compatibility">Scala applicazione</string>
      <string name="enable_freeform_support">Attiva forma libera finestre</string>
      <string name="enable_freeform_support_summary">Attiva il supporto sperimentale per le finestre a forma libera.</string>
@@ -2286,7 +2282,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="keyguard_advance_setting_title">Impostazioni avanzate</string>
      <string name="keyguard_security_setting_others">Altri</string>
      <string name="keyguard_security_setting_privacy_policy">Informativa sulla Privacy</string>
-     <string name="keyguard_vertical_clock_title">Orologio verticale</string>
      <string name="keywords_accounts">account</string>
      <string name="keywords_airplane">Aereo;Modalità aereo;Aeroplano;Modalità aeroplano;Volo;Modalità volo</string>
      <string name="keywords_all_apps">app download applicazioni sistema</string>
@@ -3450,7 +3445,6 @@ ed esegui il software."</string>
      <string name="pref_manage_bg_network">Gestisci connessione di rete app in background</string>
      <string name="pref_new_installed_preconfig_title">Impostazioni predefinite nuove app</string>
      <string name="pref_operational_key">Tasti di navigazione</string>
-     <string name="pref_show_lunar_calendar_title">Show traditional Chinese calendar on Lock screen</string>
      <string name="pref_title_lang_selection">Preferenze lingua</string>
      <string name="pref_title_update_notification">Notifiche utilizzo dati</string>
      <string name="pref_volume_launch_camera_summary">Premi due volte il volume verso il basso per lanciare la fotocamera</string>
@@ -3787,11 +3781,6 @@ Interfaccia UT: %5$s"</string>
      <string name="resolver_settings_label">Ordina</string>
      <string name="restore_default_apn">Ripristino delle impostazioni APN predefinite…</string>
      <string name="restore_default_apn_completed">Ripristino delle impostazioni APN predefinite completato.</string>
-     <string name="restore_device_id_content">Reset personalized recommendation</string>
-     <string name="restore_device_id_title">Restore device identification</string>
-     <string name="restore_dialog_content">Restoring device identification will reset your personalized recommendation.</string>
-     <string name="restore_dialog_positive">Restore</string>
-     <string name="restore_dialog_title">Reminder</string>
      <string name="restr_pin_enter_admin_pin">Inserisci PIN amministratore</string>
      <string name="restrict_background_blacklisted">I dati in background sono disattivati</string>
      <string name="restrict_bg_app">Limita</string>
@@ -4580,8 +4569,6 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_custom_wifi_name">Modifica nome rete Wi-Fi</string>
      <string name="status_bar_settings_customer_feedback">Segnalazione bug</string>
      <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
-     <string name="status_bar_settings_expand_top_notification">Espandi in alto le notifiche</string>
-     <string name="status_bar_settings_expandable_under_keyguard">Mostra in sicurezza sulla schermata di blocco</string>
      <string name="status_bar_settings_function_description">Info su questa funzionalità</string>
      <string name="status_bar_settings_long_click_sort">Tieni premuto per ordinare</string>
      <string name="status_bar_settings_manage_notification">Gestisci notifiche</string>
@@ -4592,7 +4579,6 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_notification_priority_summary">Mostra le notifiche in cima alla lista</string>
      <string name="status_bar_settings_notification_shade_shortcut">Collegamento area notifiche</string>
      <string name="status_bar_settings_notification_sound">Audio</string>
-     <string name="status_bar_settings_notification_style">Stile notifiche</string>
      <string name="status_bar_settings_notification_vibrate">Vibrazione</string>
      <string name="status_bar_settings_peek_notification_icon">Mostra icone per notifiche in arrivo</string>
      <string name="status_bar_settings_show_carrier">Mostra operatore</string>
@@ -5260,7 +5246,6 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="use_personalized_ad_service_summary">Quando la funzionalità dei suggerimenti è disattivata, vedrai la stessa quantità di pubblicità di quando è attivata, ma non basati sulle tue abitudini e le tue informazioni personali.</string>
      <string name="use_privacy_password_immediate">Utilizza</string>
      <string name="use_system_language_to_select_input_method_subtypes">Usa lingua di sistema</string>
-     <string name="use_theme_screen_cells_title">Consenti al tema di sovrascrivere il layout dello schermo</string>
      <string name="use_this_wlan">Usa questa rete Wi-Fi</string>
      <string name="user_account_title">Account per i contenuti</string>
      <string name="user_add_max_count">Puoi aggiungere fino a %1$d utenti</string>
@@ -6169,4 +6154,9 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="zone_auto_summaryOn">Utilizza il fuso orario fornito dalla rete</string>
      <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
      <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
+	 <string name="keyguard_vertical_clock_title">Orologio verticale</string>
+	 <string name="use_theme_screen_cells_title">Consenti al tema di sovrascrivere il layout dello schermo</string>
+	 <string name="status_bar_settings_expand_top_notification">Espandi in alto le notifiche</string>
+     <string name="status_bar_settings_expandable_under_keyguard">Mostra in sicurezza sulla schermata di blocco</string>
+	 <string name="status_bar_settings_notification_style">Stile notifiche</string>
 </resources>

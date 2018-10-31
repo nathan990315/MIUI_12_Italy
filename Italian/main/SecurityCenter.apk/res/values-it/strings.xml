@@ -56,7 +56,6 @@
      <string name="activity_title_virus_settings">Impostazioni</string>
      <string name="activity_title_white_list">Eccezioni</string>
      <string name="ad_btn_default_text">Scopri di più</string>
-     <string name="ad_split_screen_title">Please switch to full screen mode to unlock</string>
      <string name="ad_update_time">Ultimo aggiornamento: %s</string>
      <string name="ad_update_time_unKnown">Ultimo aggiornamento: Sconosciuto</string>
      <string name="adb_install_no_network">Collegati alla rete e riprova</string>
@@ -798,6 +797,9 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="first_aid_card_airplane_button">Disattiva</string>
      <string name="first_aid_card_airplane_summary">Disattiva la modalità aereo per poter effettuare chiamate e connettersi alla rete</string>
      <string name="first_aid_card_airplane_title">Impossibile effettuare chiamate o connettersi alla rete</string>
+     <string name="first_aid_card_apn_button">Correggi</string>
+     <string name="first_aid_card_apn_summary">"L'APN è cambiato. Esegui una correzione per poterti connettere alla rete."</string>
+     <string name="first_aid_card_apn_title">Impossibile connettersi alla rete</string>
      <string name="first_aid_card_consume_power_button1">Limita</string>
      <string name="first_aid_card_consume_power_button2">Disattiva</string>
      <string name="first_aid_card_consume_power_summary1">"Più di 5 app sono state autorizzate per l'esecuzione automatico. Limitare per risparmiare batteria."</string>
@@ -1359,6 +1361,7 @@ dall'operatore"</string>
      <string name="note_call_none">Nessun dato da modificare</string>
      <string name="note_list_none">Nessuna lista da modificare</string>
      <string name="note_sms_none">Nessun messaggio da modificare</string>
+     <string name="notification_battery_consume_abnormal_summary">%2$s di consumo della batteria negli ultimi %1$d minuti</string>
      <string name="notification_battery_consume_abnormal_title">La batteria sta scendendo molto velocemente</string>
      <string name="notification_exit_extreme_mode_text">La batteria è più carica del %s</string>
      <string name="notification_exit_extreme_mode_title">Disattivazione Risparmio energetico estremo</string>

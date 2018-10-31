@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="activity_not_found">Non è stata trovata nessuna app per eseguire questa operazione</string>
-     <string name="allow_network_hint">Please turn on network access</string>
-     <string name="already_updated">It is up to date</string>
      <string name="back_to_message_list">Indietro alla lista messaggi</string>
      <string name="button_close">Chiudi</string>
-     <string name="click_to_update">Click to check update</string>
      <string name="cm_privacy_dialog_allow">Consenti</string>
      <string name="cm_privacy_dialog_cancel">Annulla</string>
      <string name="cm_privacy_dialog_spannable_tips">"Protocollo di privacy dell'operatore mobile"</string>
@@ -19,7 +16,6 @@
      <string name="confirm_dialog_title">Eliminare?</string>
      <string name="copy_message_text">Copia</string>
      <string name="copy_message_text_success">Testo copiato</string>
-     <string name="current_data_version">Current data version</string>
      <string name="delete">Elimina</string>
      <string name="delete_message">Elimina</string>
      <string name="from_label">"Da: "</string>
@@ -57,6 +53,5 @@
      <string name="summary_pref_cm_smart_sms">Fornisci modelli di scheda, numeri di servizio SMS, etc.</string>
      <string name="text_message">Testo messaggio</string>
      <string name="title_pref_cm_smart_sms">SMS Intelligenti Cina Mobile</string>
-     <string name="updating">Updating</string>
      <string name="view_message_details">Visualizza dettagli</string>
 </resources>

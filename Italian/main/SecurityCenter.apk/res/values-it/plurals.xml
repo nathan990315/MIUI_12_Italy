@@ -193,10 +193,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">"L'accesso alla rete è limitato per %d app"</item>
         <item quantity="one">"L'accesso alla rete è limitato per %d app"</item>
      </plurals>
-     <plurals name="notification_battery_consume_abnormal_summary">
-        <item quantity="other">Drained %2$d%% of the battery during last %1$d minutes</item>
-        <item quantity="one">Drained %2$d%% of the battery during last %1$d minute</item>
-     </plurals>
      <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">"%d giorni dall'ultimo controllo"</item>
         <item quantity="one">"%d giorno dall'ultimo controllo"</item>
