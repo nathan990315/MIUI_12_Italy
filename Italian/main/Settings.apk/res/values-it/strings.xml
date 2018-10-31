@@ -236,7 +236,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="allow_bind_app_widget_activity_allow_bind_title">"Creare il widget e consentire l'accesso?"</string>
      <string name="allow_bind_app_widget_activity_always_allow_bind">Consenti sempre a %1$s di creare widget e accedere ai relativi dati</string>
      <string name="allow_data_usage_title">"Consenti l'utilizzo di dati cellulare quando sei in roaming"</string>
-     <string name="allow_device_id_access">Apps with device identification</string>
+     <string name="allow_device_id_access">App con identificazione del dispositivo</string>
      <string name="allow_mock_location">Posizioni fittizie</string>
      <string name="allow_mock_location_summary">Consenti posizioni fittizie</string>
      <string name="allow_overlay_description">"Questo permesso consente ad un app di visualizzare dei contenuti sopra ad altre app che stai usando e potrebbero così interferire con l'uso dell'interfaccia delle altre app, o modificare quelli che pensi di visualizzare in altre applicazioni."</string>
@@ -1495,7 +1495,7 @@ avviso"</string>
      <string name="device_display_layout_title">funzionalità</string>
      <string name="device_edit_title">Rinomina dispositivo</string>
      <string name="device_feedback">Invia una segnalazione con le informazioni di questo dispositivo</string>
-     <string name="device_id">Device identification</string>
+     <string name="device_id">Identificazione del dispositivo</string>
      <string name="device_info_default">Sconosciuto</string>
      <string name="device_info_label">Info dispositivo</string>
      <string name="device_info_not_available">Non disponibile</string>
@@ -1706,8 +1706,8 @@ avviso"</string>
      <string name="enableNetwork">Attiva rete</string>
      <string name="enable_adb">Debug USB</string>
      <string name="enable_adb_summary">Modalità debug con connessione USB</string>
-     <string name="enable_atrace">Turn on ATrace</string>
-     <string name="enable_atrace_summary">Capture kernel events using ATrace</string>
+     <string name="enable_atrace">Attiva ATrace</string>
+     <string name="enable_atrace_summary">Acquisisci gli eventi kernel usando ATrace</string>
      <string name="enable_compatibility">Scala applicazione</string>
      <string name="enable_freeform_support">Attiva forma libera finestre</string>
      <string name="enable_freeform_support_summary">Attiva il supporto sperimentale per le finestre a forma libera.</string>
@@ -3450,7 +3450,7 @@ ed esegui il software."</string>
      <string name="pref_manage_bg_network">Gestisci connessione di rete app in background</string>
      <string name="pref_new_installed_preconfig_title">Impostazioni predefinite nuove app</string>
      <string name="pref_operational_key">Tasti di navigazione</string>
-     <string name="pref_show_lunar_calendar_title">Show traditional Chinese calendar on Lock screen</string>
+     <string name="pref_show_lunar_calendar_title">Mostra il calendario cinese tradizionale sulla schermata di blocco</string>
      <string name="pref_title_lang_selection">Preferenze lingua</string>
      <string name="pref_title_update_notification">Notifiche utilizzo dati</string>
      <string name="pref_volume_launch_camera_summary">Premi due volte il volume verso il basso per lanciare la fotocamera</string>
@@ -3787,11 +3787,11 @@ Interfaccia UT: %5$s"</string>
      <string name="resolver_settings_label">Ordina</string>
      <string name="restore_default_apn">Ripristino delle impostazioni APN predefinite…</string>
      <string name="restore_default_apn_completed">Ripristino delle impostazioni APN predefinite completato.</string>
-     <string name="restore_device_id_content">Reset personalized recommendation</string>
-     <string name="restore_device_id_title">Restore device identification</string>
-     <string name="restore_dialog_content">Restoring device identification will reset your personalized recommendation.</string>
-     <string name="restore_dialog_positive">Restore</string>
-     <string name="restore_dialog_title">Reminder</string>
+     <string name="restore_device_id_content">Reimposta consigli personalizzati</string>
+     <string name="restore_device_id_title">"Ripristina l'identificazione del dispositivo"</string>
+     <string name="restore_dialog_content">"Il ripristino dell'identificazione del dispositivo resetterà i tuoi consigli personalizzati."</string>
+     <string name="restore_dialog_positive">Ripristina</string>
+     <string name="restore_dialog_title">Promemoria</string>
      <string name="restr_pin_enter_admin_pin">Inserisci PIN amministratore</string>
      <string name="restrict_background_blacklisted">I dati in background sono disattivati</string>
      <string name="restrict_bg_app">Limita</string>
