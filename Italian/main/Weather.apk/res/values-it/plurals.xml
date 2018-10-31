@@ -1,39 +1,43 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="daily_forcast_drawer_on_top">
-        <item quantity="other">Previsione a %1$s giorni</item>
-        <item quantity="one">Previsione a %1$s giorno</item>
-    </plurals>
-    <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">%d minuti fa</item>
-        <item quantity="one">%d minuto fa</item>
-    </plurals>
-    <plurals name="activity_main_update_time_in_one_day">
+     <plurals name="activity_main_update_time_in_one_day">
         <item quantity="other">%d ore fa</item>
         <item quantity="one">%d ora fa</item>
-    </plurals>
-    <plurals name="activity_main_update_time_one_day_ago">
+     </plurals>
+     <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">%d minuto fa</item>
+     </plurals>
+     <plurals name="activity_main_update_time_one_day_ago">
         <item quantity="other">%d giorni fa</item>
         <item quantity="one">%d giorno fa</item>
-    </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Sereno</item>
-        <item quantity="one">Sereno</item>
-    </plurals>
-    <plurals name="total_voted_num_text">
-        <item quantity="other">"<font color='#20a7ff'>%1$s</font> persone hanno votato"</item>
-        <item quantity="one">"<font color='#20a7ff'>%1$s</font> persona ha votato"</item>
-    </plurals>
-    <plurals name="yes_vote_num">
-        <item quantity="other"> | %1$s persone</item>
-        <item quantity="one"> | %1$s persona</item>
-    </plurals>
-    <plurals name="no_vote_num">
-        <item quantity="other">%1$s persone | </item>
-        <item quantity="one">%1$s persona | </item>
-    </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
+     </plurals>
+     <plurals name="aqi_all_city_cur_num">
+        <item quantity="other">Average of %1$s stations</item>
+        <item quantity="one">Average of %1$s station</item>
+     </plurals>
+     <plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">Previsione a %1$s giorni</item>
+        <item quantity="one">Previsione a %1$s giorno</item>
+     </plurals>
+     <plurals name="feedback_result_interval_time_too_short">
         <item quantity="other">%1$s secondi dopo la segnalazione</item>
         <item quantity="one">%1$s secondo dopo il segnalazione</item>
-    </plurals>
+     </plurals>
+     <plurals name="no_vote_num">
+        <item quantity="other">%1$s persone | </item>
+        <item quantity="one">%1$s persona | </item>
+     </plurals>
+     <plurals name="total_voted_num_text">
+        <item quantity="other">"<font color='#20a7ff'>%1$s</font> persone hanno votato"</item>
+        <item quantity="one">"<font color='#20a7ff'>%1$s</font> persona ha votato"</item>
+     </plurals>
+     <plurals name="view_realtime_clear">
+        <item quantity="other">Sereno</item>
+        <item quantity="one">Sereno</item>
+     </plurals>
+     <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s persone</item>
+        <item quantity="one"> | %1$s persona</item>
+     </plurals>
 </resources>

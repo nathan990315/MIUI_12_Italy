@@ -25,7 +25,6 @@
      <string name="action_item_add_to_new_playlist">Nuova playlist</string>
      <string name="action_item_delete">Elimina</string>
      <string name="action_item_download">Scarica</string>
-     <string name="action_item_download_all_cloud">Scarica tutte le canzoni</string>
      <string name="action_item_favorite">Preferiti</string>
      <string name="action_item_hide">Nascondi</string>
      <string name="action_item_hifi">Effetti</string>
@@ -55,13 +54,11 @@
      <string name="always_use_metered">Utilizza sempre i dati mobili</string>
      <string name="app_label">Download</string>
      <string name="artist">Artisti</string>
-     <string name="artist_album">Album</string>
      <string name="artist_area_all">Tutti</string>
      <string name="artist_area_china">Cina</string>
      <string name="artist_area_europe_usa">Europa/USA</string>
      <string name="artist_area_japan">Giappone</string>
      <string name="artist_area_korea">Corea</string>
-     <string name="artist_favor">In evidenza</string>
      <string name="artist_gender_all">Tutti</string>
      <string name="artist_gender_female">Femmina</string>
      <string name="artist_gender_group">Gruppo</string>
@@ -69,14 +66,6 @@
      <string name="artist_home_search_hint">Cerca artisti</string>
      <string name="artist_is_empty">"Il nome dell'artista non può essere vuoto."</string>
      <string name="artist_name">Artista</string>
-     <string name="artist_news">Novità</string>
-     <string name="asset_sync_alert_not_now">Non adesso</string>
-     <string name="asset_sync_network_data_alert_message">Il backup dei brani utilizzando la rete dati mobile potrebbe comportare costi aggiuntivi. Proseguire con il backup?</string>
-     <string name="asset_sync_network_data_alert_title">Stai utilizzando i dati mobili</string>
-     <string name="asset_sync_network_unavailable_alert_message">Collegati ad internet per eseguire il backup dei brani</string>
-     <string name="asset_sync_network_unavailable_alert_title">Impossibile collegarsi alla rete</string>
-     <string name="asset_sync_power_alert_message">Collega al carica batteria per proseguire il backup.</string>
-     <string name="asset_sync_power_alert_title">Batteria in esaurimento</string>
      <string name="audio_picker_title">Scegli un brano</string>
      <string name="auto_update">Aggiorna automaticamente</string>
      <string name="auto_update_tip">Puoi aggiornare le app di sistema utilizzando i dati mobili. Ciò potrebbe comportare costi aggiuntivi per i dati.</string>
@@ -84,10 +73,6 @@
      <string name="avoid_to_use_traffic_summary">Non utilizzare la rete mobile per riprodurre musica in streaming</string>
      <string name="avoid_to_use_traffic_title">Mostra un avviso nel caso vengano utilizzati i dati mobili per riprodurre i brani</string>
      <string name="back_confirm">Tocca ancora per uscire</string>
-     <string name="backup_complete">"E' stato eseguito il backup di tutti i brani su Mi Cloud"</string>
-     <string name="backup_empty_button">0 brani selezionati</string>
-     <string name="backup_immediate">Backup</string>
-     <string name="backup_song_title">Scegli i brani di cui fare il backup</string>
      <string name="bluetooth_device">Dispositivo Bluetooth</string>
      <string name="browser_error">Temporaneamente non disponibile, riprova più tardi</string>
      <string name="buffering">Buffer in corso…</string>
@@ -105,20 +90,6 @@
      <string name="choose_stream_quality">Seleziona la qualità dello streaming</string>
      <string name="click_to_shuffle">Riproduzione casuale</string>
      <string name="close_music_time">"Tempo rimanente: "</string>
-     <string name="cloud_empty_local_empty_button">Nessun brano su questo dispositivo</string>
-     <string name="cloud_empty_message">Nessun brano su Mi Cloud</string>
-     <string name="cloud_empty_summary">"Esegui il backup dei brani su Mi Cloud per consentirne l'accesso anche da altri dispositivi"</string>
-     <string name="cloud_enable">Sincronizza la musica con Mi Cloud</string>
-     <string name="cloud_loading_message">Ricerca brani...</string>
-     <string name="cloud_music">Musica cloud</string>
-     <string name="cloud_settings">Impostazioni di sincronizzazione</string>
-     <string name="cloud_state_cloud_space_full">Spazio Mi Cloud in esaurimento, backup in pausa</string>
-     <string name="cloud_state_low_power">Metti incarica per riprendere il backup</string>
-     <string name="cloud_state_network_data">Impossibile trovare rete Wi-Fi, backup in pausa</string>
-     <string name="cloud_state_network_unavailable">Impossibile collegarsi alla rete, backup in pausa</string>
-     <string name="cloud_state_storage_full">Memoria telefono in esaurimento, backup in pausa</string>
-     <string name="cloud_welcome_message">Backup brani</string>
-     <string name="cloud_welcome_summary">Esegui il backup dei tuoi brani su Mi Cloud e ascoltali su altri dispositivi</string>
      <string name="comment_format" formatted="false">%s: %s</string>
      <string name="common_google_play_services_enable_button">Attiva</string>
      <string name="common_google_play_services_enable_text">%1$s non funzionerà se non attiverai i servizi di Google Play.</string>
@@ -142,9 +113,6 @@
      <string name="confirm_exit">Salvare i cambiamenti?</string>
      <string name="connect_now">Connetti</string>
      <string name="connecting_apk">Connessione...</string>
-     <string name="continue_backup">Continua</string>
-     <string name="cp_info_first">Il servizio di streaming è offerto da Ultimate Inc.</string>
-     <string name="create_order_fail">"Impossibile creare l'ordine, prova di nuovo."</string>
      <string name="create_playlist">Crea playlist</string>
      <string name="create_playlist_failure">Impossibile creare la playlist</string>
      <string name="current_album">Album attuale</string>
@@ -201,7 +169,6 @@
      <string name="dialog_title_queued_body">File non ancora disponibile</string>
      <string name="dialog_title_remove_tracks">Rimuovi</string>
      <string name="disallow_add_to_fm">Impossibile aggiungere brani alla radio FM</string>
-     <string name="disallow_add_to_personal_radio">La radio personale funziona solo in lettura</string>
      <string name="do_not_remind_this_version">Non ricordarmi di questa versione</string>
      <string name="download">Download</string>
      <string name="download_added_to_list">Aggiunto alla lista download</string>
@@ -216,9 +183,6 @@
      <string name="download_auto_message">I brani contrassegnati come \"Preferiti\" saranno scaricati automaticamente via Wi-Fi. Puoi cambiare questa impostazione nelle impostazioni Account nella scheda Locale</string>
      <string name="download_auto_when_free_network">Download dei brani solo in Wi-Fi</string>
      <string name="download_auto_when_free_network_summary">Impostazioni aggiuntive per i brani preferiti</string>
-     <string name="download_cloud_error_not_auth">Accedi al tuo Mi Account e riprova.</string>
-     <string name="download_cloud_error_retryable">Errore del server Mi Cloud, riprova più tardi.</string>
-     <string name="download_cloud_error_unknow">Non è stato possibile scaricare file da Mi Cloud.</string>
      <string name="download_complete">Download completato</string>
      <string name="download_complete_btn">Scaricati</string>
      <string name="download_complete_start_install">Installazione…</string>
@@ -301,10 +265,6 @@
      <string name="eq_preset_select">Scegli una preimpostazione</string>
      <string name="eq_rock">Rock</string>
      <string name="equalizer">Equalizzatore</string>
-     <string name="error_forbidden">Sincronizzazione disattivata a causa di un problema con il tuo Mi Account.</string>
-     <string name="error_not_acceptable">Sincronizzazione disattivata.</string>
-     <string name="error_title">Impossibile sincronizzare</string>
-     <string name="error_unauthorized">Sincronizzazione disattivata a causa di un numero eccessivo di tentativi di accesso.</string>
      <string name="exo_controls_fastforward_description">Avanti veloce</string>
      <string name="exo_controls_fullscreen_description">Modalità a schermo intero</string>
      <string name="exo_controls_next_description">Prossima traccia</string>
@@ -334,6 +294,7 @@
      <string name="exo_track_surround_5_point_1">Suono sorround 5.1 canali</string>
      <string name="exo_track_surround_7_point_1">Suono sorround 7.1 canali</string>
      <string name="exo_track_unknown">Sconosciuto</string>
+     <string name="expand_button_title">Advanced</string>
      <string name="expired">Scaduto</string>
      <string name="facebook_not_installed">Installa prima Facebook.</string>
      <string name="fail_to_fetch_payment_page_url">Impossibile ottenere info pagamento</string>
@@ -366,35 +327,6 @@
      <string name="format_not_support">Formato non valido, impossibile salvare.</string>
      <string name="format_unsupported_or_corrupted">Formato non supportato o file corrotto</string>
      <string name="fragment_title_artist_album">ALBUM</string>
-     <string name="garbage_cleanup">Pulizia</string>
-     <string name="global_search_app_name">Musica</string>
-     <string name="global_search_description_entry">Goditi la tua musica</string>
-     <string name="global_search_description_hot">Aggiorna settimanalmente</string>
-     <string name="global_search_description_radar">Riconosci belle canzoni</string>
-     <string name="global_search_key_absolute">musica pura;musica soft</string>
-     <string name="global_search_key_buddha">musica buddhista</string>
-     <string name="global_search_key_cantonese">lista canzoni cantonesi</string>
-     <string name="global_search_key_child">canzoni per bambini</string>
-     <string name="global_search_key_classics">lista canzoni classiche</string>
-     <string name="global_search_key_entry">musica;brano;traccia</string>
-     <string name="global_search_key_fm">radio online</string>
-     <string name="global_search_key_hot">canzoni migliori</string>
-     <string name="global_search_key_internet">lista canzoni di rete</string>
-     <string name="global_search_key_movie">lista canzoni da film</string>
-     <string name="global_search_key_prenatal">musica prenatale</string>
-     <string name="global_search_key_radar">riconosci musica</string>
-     <string name="global_search_title_absolute">Musica pura</string>
-     <string name="global_search_title_buddha">Musica buddhista</string>
-     <string name="global_search_title_cantonese">Lista canzoni cantonesi</string>
-     <string name="global_search_title_child">Canzoni per bambini</string>
-     <string name="global_search_title_classics">Lista canzoni classiche</string>
-     <string name="global_search_title_entry">Musica</string>
-     <string name="global_search_title_fm">FM online</string>
-     <string name="global_search_title_hot">Lista migliori canzoni</string>
-     <string name="global_search_title_internet">lista canzoni di rete</string>
-     <string name="global_search_title_movie">lista canzoni da film</string>
-     <string name="global_search_title_prenatal">Musica prenatale</string>
-     <string name="global_search_title_radar">Riconoscimento musica</string>
      <string name="handle_later">Non adesso</string>
      <string name="hd_quality_audio">Qualità audio HD</string>
      <string name="headset_and_audio_effect_category">Auricolari ed effetti audio</string>
@@ -431,7 +363,6 @@
      <string name="individuation_card_login_message">Accedi per trovare altre canzoni che amerai</string>
      <string name="individuation_card_title">Per te</string>
      <string name="individuation_cart_login_title">Vuoi visualizzare più consigli?</string>
-     <string name="individuation_recommend_message">Assicurati di attivare i suggerimenti personalizzati, Xiaomi Music ti fornirà un servizio personalizzato</string>
      <string name="individuation_recommend_switch_message">La disattivazione di questo servizio influenzerà il normale funzionamento della radio personale e dei suggerimenti. Disattivare comunque?</string>
      <string name="individuation_recommend_title">Individuazione consigli</string>
      <string name="input_hint_prefix">Inserisci %1$s</string>
@@ -441,11 +372,6 @@
      <string name="is_scanning">Scansione, attendere…</string>
      <string name="is_scanning_support_online">"Scansione, 
 attendere o selezionare Musica Online."</string>
-     <string name="karaoke_message">Devi scaricare e aggiornare il plugin Karaoke per attivare questa funzionalità.</string>
-     <string name="karaoke_my_studio">Il mio Studio Karaoke</string>
-     <string name="karaoke_negative_text">Più tardi</string>
-     <string name="karaoke_positive_text">OK</string>
-     <string name="karaoke_title">Presentazione Karaoke</string>
      <string name="keep_queued_download">Mantieni</string>
      <string name="ktv_playlist">Il mio KTV</string>
      <string name="language_page_confirm">Conferma</string>
@@ -464,8 +390,6 @@ attendere o selezionare Musica Online."</string>
      <string name="local_music_is_not_available">Musica in locale non disponibile.</string>
      <string name="local_page_album_more">Mostra tutto</string>
      <string name="local_page_artist_more">Altri lavori di %s</string>
-     <string name="local_page_custom_subtitle">Nuovi brani ogni giorno</string>
-     <string name="local_page_custom_title">Per te</string>
      <string name="local_page_playlist">Le mie playlist</string>
      <string name="local_page_song_download_history">Download</string>
      <string name="long_press_to_select_lyric">Premi e tieni premuto per selezionare il file dei testi locali</string>
@@ -475,7 +399,6 @@ attendere o selezionare Musica Online."</string>
      <string name="lyric_label">Testo</string>
      <string name="lyric_open_other_connect">Scarica testi utilizzando la connessione dati cellulare</string>
      <string name="lyric_setting">Impostazioni testi</string>
-     <string name="manager_cloud_space">Gestisci spazio Mi Cloud</string>
      <string name="max_sleep_time">%d</string>
      <string name="menu_title_pause_all">Tutto in pausa</string>
      <string name="menu_title_resume_all">Riprendi tutti</string>
@@ -501,7 +424,6 @@ attendere o selezionare Musica Online."</string>
      <string name="miuishare_account_login_ok">Accedi</string>
      <string name="miuishare_no_network">Nessuna rete disponibile</string>
      <string name="miuishare_publish">Invia</string>
-     <string name="miuishare_share_done">Contenuto inviato.</string>
      <string name="miuishare_share_editor_title">Condividi</string>
      <string name="miuishare_title_more">Altro</string>
      <string name="miuishare_title_share">Condividi</string>
@@ -514,7 +436,7 @@ attendere o selezionare Musica Online."</string>
      <string name="modify_song_info_success">Le informazioni del brano sono state aggiornate</string>
      <string name="more">Altro</string>
      <string name="more_add_song_list">Aggiungi</string>
-     <string name="more_milink">Mi Link</string>
+     <string name="more_milink_and_bluetooth">Mi Link &amp; Bluetooth</string>
      <string name="more_settings">Impostazioni avanzate</string>
      <string name="more_settings_summary">Impostazioni Download, timer spegnimento, dati cellulare, filtri file, etc.</string>
      <string name="more_share">Condividi</string>
@@ -527,9 +449,7 @@ attendere o selezionare Musica Online."</string>
      <string name="my_account">Mi Account</string>
      <string name="my_music_empty">Playlist vuota</string>
      <string name="my_music_empty_goto_online">Nessun brano trovato</string>
-     <string name="nav_online_playlist">Playlist</string>
      <string name="network_error_and_retry">Impossibile collegare, tocca per provare di nuovo</string>
-     <string name="network_failure">Errore di rete, riprova.</string>
      <string name="network_request_error">Impossibile collegarsi alla rete</string>
      <string name="network_settings_error">Impossibile collegarsi alla rete</string>
      <string name="network_traffic">Traffico di rete</string>
@@ -542,7 +462,6 @@ attendere o selezionare Musica Online."</string>
      <string name="no_local_songs">Vuoto</string>
      <string name="no_local_songs_selected">Impossibile inviare i brani perché non sono stati scaricati</string>
      <string name="no_local_source_find">Brano non trovato</string>
-     <string name="no_online_song_selected">Nessun brano selezionato</string>
      <string name="no_results_return">Nessun risultato trovato</string>
      <string name="no_scanned_songs">Vuoto</string>
      <string name="no_song_downloaded">Impossibile connettersi al server</string>
@@ -553,7 +472,6 @@ attendere o selezionare Musica Online."</string>
      <string name="not_login">Accesso non effettuato</string>
      <string name="not_now">Non ora</string>
      <string name="not_selected">Scegli un brano</string>
-     <string name="nothing_changed_toast">Non hai ancora cambiato nulla.</string>
      <string name="notif_title_file_size">%1$d totale</string>
      <string name="notif_title_multiple_downloading">Download di %1$d file</string>
      <string name="notif_title_single_downloading">Download %1$s</string>
@@ -634,15 +552,6 @@ attendere o selezionare Musica Online."</string>
      <string name="pulluprefreshrecyclerview_loading_finished">Caricamento riuscito</string>
      <string name="pulluprefreshrecyclerview_loading_running">Caricamento…</string>
      <string name="queue_is_empty">La coda di riproduzione è vuota.</string>
-     <string name="radar">ACRCloud</string>
-     <string name="radar_click_to_retry">Tocca per riprovare</string>
-     <string name="radar_fail">Nessun risultato</string>
-     <string name="radar_fail_by_noise">Potrebbe essere troppo rumoroso</string>
-     <string name="radar_listening_state">Riconoscimento in corso…</string>
-     <string name="radar_possible_result">Possibile brano</string>
-     <string name="radar_retry">Riprova</string>
-     <string name="radar_searching_state">Ricerca in corso…</string>
-     <string name="radar_support_by">Fornito da ACRCloud</string>
      <string name="recently_played">Riprodotti di recente</string>
      <string name="recently_played_songs">Recenti</string>
      <string name="recommended_file_size_download_in_mobile">Utilizzare %s di dati su rete cellulare per scaricare questo file?</string>
@@ -678,8 +587,6 @@ E gioiscine"</string>
      <string name="search_instant_online_music">Online</string>
      <string name="search_menu_title">Cerca</string>
      <string name="search_songs_count">Canzone: %d</string>
-     <string name="search_title">Ricerca</string>
-     <string name="second_symbol">sec</string>
      <string name="select">Seleziona</string>
      <string name="select_all">Seleziona tutto</string>
      <string name="select_desc_sub">È possibile selezionare fino a 3 lingue</string>
@@ -692,7 +599,6 @@ E gioiscine"</string>
      <string name="select_three_languages">È possibile selezionare fino a 3 lingue</string>
      <string name="selected_count">Selezionati %1$d di %2$d</string>
      <string name="send_to_title">Invia a (%1$s)</string>
-     <string name="server_error">Errore del server. Riprova più tardi</string>
      <string name="service_and_settings">Servizio e impostazioni</string>
      <string name="session_create_error">Il server ha restituito un codice SESSION CREATE ERROR, contatta gli sviluppatori del SDK!</string>
      <string name="set_as_ring">Suoneria</string>
@@ -700,21 +606,11 @@ E gioiscine"</string>
      <string name="set_ringtones_successful">%s impostato come suoneria.</string>
      <string name="setting_feature_setting">Impostazioni funzione</string>
      <string name="settings">Impostazioni</string>
-     <string name="settings_search_key_desktop_lyric">Testi nella Home;Testi;Musica;Brani</string>
-     <string name="settings_search_key_download_quality">Qualità download;Qualità;Musica;Download;Canzoni</string>
-     <string name="settings_search_key_download_when_favorite">Download preferiti;Download;Preferiti;Musica;Canzoni</string>
-     <string name="settings_search_key_main">Musica;Brani;Brano</string>
      <string name="settings_search_key_notification">Notifiche musica;Musica;Notifiche;canzoni</string>
-     <string name="settings_search_key_vip_service">Canzoni premium;VIP;Pack canzoni;Pack canzoni Premium;Membro;Abbonamento;Musica;Canzoni</string>
      <string name="settings_search_path_advance">Applicazioni di sistema/Musica/Servizi e impostazioni/Impostazioni avanzate</string>
      <string name="settings_search_path_main">Applicazioni di sistema/Musica</string>
      <string name="settings_search_path_normal">Applicazioni di sistema/Musica/Servizi e impostazioni</string>
-     <string name="settings_search_title_desktop_lyric">Testi nella Home</string>
-     <string name="settings_search_title_download_quality">Qualità download</string>
-     <string name="settings_search_title_download_when_favorite">Download preferiti</string>
-     <string name="settings_search_title_main">Musica</string>
      <string name="settings_search_title_notification">Notifiche musica</string>
-     <string name="settings_search_title_vip_service">Canzoni premium</string>
      <string name="share_append_text">Da @MIUI</string>
      <string name="share_chooser_title">Condividi usando</string>
      <string name="share_description">Da Mi Music</string>
@@ -729,6 +625,8 @@ E gioiscine"</string>
      <string name="shuffle_on_notif">Riproduzione casuale attivata.</string>
      <string name="signup_type_silent_default">silenzioso</string>
      <string name="signup_type_user_default">Accesso SDK consumer</string>
+     <string name="similar_albums">Similar Albums</string>
+     <string name="similar_playlists">Similar Playlists</string>
      <string name="similar_songs">Brani simili</string>
      <string name="similar_videos">Video simili</string>
      <string name="sleep_mode">Timer</string>
@@ -749,13 +647,11 @@ E gioiscine"</string>
      <string name="start_to_check_new_version">Ricerca aggiornamenti…</string>
      <string name="start_to_download">Avvio download</string>
      <string name="start_to_play">Avvia</string>
-     <string name="stop">Arresta</string>
-     <string name="stop_backup">Arresta</string>
      <string name="storage_internal">Memoria interna</string>
      <string name="storage_sd_card">Scheda SD</string>
      <string name="storage_usb">Archivio USB</string>
-     <string name="stream_quality">Qualità streaming</string>
      <string name="streamloadingtext">Connessione a %s</string>
+     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="tab_album">Album</string>
      <string name="tab_album_list">Album</string>
      <string name="tab_artist">Artisti</string>
@@ -781,7 +677,6 @@ E gioiscine"</string>
      <string name="talkback_nowplaying_circle">Cerchio riproduzione</string>
      <string name="talkback_play">Riproduci/Pausa</string>
      <string name="talkback_pre">Brano precedente</string>
-     <string name="talkback_radar">Riconoscimento musica</string>
      <string name="talkback_search">Cerca</string>
      <string name="talkback_show_navigation_draw">Mostra drawer</string>
      <string name="terms_of_service">Termini di Servizio</string>
@@ -797,10 +692,12 @@ E gioiscine"</string>
      <string name="toast_download_error_by_not_login">Accedi al Mi Account e prova di nuovo.</string>
      <string name="toast_download_error_by_vip_required">"Effettua l'iscrizione a Premium per scaricare questo brano."</string>
      <string name="toast_download_in_process">Download in corso</string>
+     <string name="toast_is_pro">"You're already a PRO member."</string>
      <string name="toast_new_playlist_name_no_enter">"il tasto 'Avvia' è stato eliminato'"</string>
      <string name="toast_new_playlist_name_too_long">Nome playlist troppo lungo</string>
      <string name="toast_normal_songs_for_download">Qualità download impostata su Normale</string>
      <string name="toast_normal_songs_for_stream">Qualità streaming impostata su Normale</string>
+     <string name="toast_not_pro">This feature is available only to PRO members.</string>
      <string name="toast_uhd_songs_for_download">Qualità download impostata su Alta</string>
      <string name="toast_uhd_songs_for_stream">Qualità streaming impostata su Alta</string>
      <string name="ultra_high_quality">Migliore</string>
@@ -813,6 +710,8 @@ E gioiscine"</string>
      <string name="upgrade_music_message">Pacchetto pronto. Riavvia per aggiornare.</string>
      <string name="upgrading_in_backstage">Aggiornamento in background…</string>
      <string name="user_agreement">Accordo utente</string>
+     <string name="v7_preference_off">OFF</string>
+     <string name="v7_preference_on">ON</string>
      <string name="version_info">Informazioni</string>
      <string name="video_play_cellular">Il tuo dispositivo non è connesso al Wi-Fi. Utilizzare i dati mobili?</string>
      <string name="video_replay_btn">Riproduci nuovamente</string>
@@ -820,6 +719,7 @@ E gioiscine"</string>
      <string name="view_album">Visualizza album</string>
      <string name="vip_required">Spiacenti, è richiesto lo status VIP</string>
      <string name="vip_required_with_song">"Effettua l'iscrizione a Premium per ascoltare “%s”."</string>
+     <string name="widget_small_text_separator">-</string>
      <string name="wifi_required_body" formatted="false">"Devi utilizzare la rete Wi-Fi per scaricare %s file. 
 
 Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</string>

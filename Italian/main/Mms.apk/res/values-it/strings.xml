@@ -142,7 +142,6 @@
      <string name="delete_wild_sims_title">Elimina numeri selezionati</string>
      <string name="delivery_report_activity">Conferma di recapito</string>
      <string name="delivery_toast_body">Messaggio correttamente inviato a %s</string>
-     <string name="delivery_toast_body_more">Messaggio ricevuto da %1$s, ed altre %2$d persone</string>
      <string name="dialog_message_fake_cell_detect_error">Correggere le informazioni su questo messaggio? Per fare ciò, MIUI dovrà caricare il numero di telefono (%1$s), i contenuti del messaggio e le informazioni sulla posizione vicina ai suoi server.</string>
      <string name="dialog_message_mx">Mi Message consente di inviare messaggi ad altri dispositivi MIUI senza incorrere in addebiti. Per attivare Mi Message sarà necessario inviare un messaggio SMS. Il tuo operatore ti addebiterà il costo di questo messaggio. Dovrai inoltre accettare i nostri \"%1$s\" e \"%2$s\" prima di utilizzare Mi Message.</string>
      <string name="dialog_message_networking">Messaging needs to connect to the internet and access your location in order to provide Smart Messaging, Sender ID recognition, and other services. Agree?</string>
@@ -521,6 +520,7 @@
      <string name="rcs_summary_auto_resend_mms">Converti i messaggi multimediali Cina Mobile in SMS dopo che il messaggio originale non potrà essere inviato. Il tuo operatore ti addebiterà il costo di questo messaggio.</string>
      <string name="rcs_summary_auto_resend_sms">Converti i messaggi multimediali Cina Mobile in SMS dopo che il messaggio originale non potrà essere inviato. Il tuo operatore ti addebiterà il costo di questo messaggio.</string>
      <string name="rcs_summary_silence_message">"Silenzia i messaggi di notifica quando l'applicazione desktop risulta funzionante"</string>
+     <string name="rcs_unavailable">"Can't use China Mobile Messaging now. China Mobile SIM card isn't your default data card."</string>
      <string name="rcs_wait_for_retry_text">In attesa…</string>
      <string name="received_at_time">Ricevuto alle: %1s</string>
      <string name="received_label">"Ricevuto: "</string>
