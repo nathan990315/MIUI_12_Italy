@@ -626,7 +626,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="face_data_manage_unlock_title">Sblocca utilizzando i dati del volto</string>
      <string name="face_data_siggesstion_next">Prossimo</string>
      <string name="face_data_siggesstion_next_time">Prossimo (%ds)</string>
-     <string name="face_data_suggesstion_first">Problema di sicurezza: Lo sblocco con il volto è meno sicuro di un PIN, una password o un pattern. Il tuo dispositivo potrebbe essere sbloccato con la tua foto, così come da persone o oggetti con aspetto simile.</string>
+     <string name="face_data_suggesstion_first">Problema di sicurezza: Lo sblocco con il volto è meno sicuro di un PIN, una password o una sequenza. Il tuo dispositivo potrebbe essere sbloccato con la tua foto, così come da persone o oggetti con aspetto simile.</string>
      <string name="face_data_suggesstion_second">"Assicurati che tutte le parti del tuo viso non siano coperte da oggetti e siano chiaramente visibili. Anche il tuo volto dovrebbe essere ben illuminato."</string>
      <string name="face_unlock_adjust_distance">Assicurati che la distanza tra il tuo viso e lo schermo sia ottimale.</string>
      <string name="face_unlock_be_on_the_screen">Tieni il fermo il dispositivo davanti al tuo volto</string>
@@ -1559,7 +1559,7 @@ scorri in basso per bloccare"</string>
      <string name="structure_face_unlock_model_other">Altro</string>
      <string name="structure_face_unlock_model_other_msg_2d">Riconoscimento 2D</string>
      <string name="structure_face_unlock_model_other_msg_3d">Riconoscimento 3D</string>
-     <string name="structure_face_unlock_model_other_suggestion_2d">Il riconoscimento del volto in 2D è meno sicuro di un pattern, PIN o password. Quando questa funzionalità è attiva, il tuo dispositivo potrebbe essere sbloccato dalla tua foto, o da persone ed oggetti ad essa somiglianti.</string>
+     <string name="structure_face_unlock_model_other_suggestion_2d">Il riconoscimento del volto in 2D è meno sicuro di una sequenza, PIN o password. Quando questa funzionalità è attiva, il tuo dispositivo potrebbe essere sbloccato dalla tua foto, o da persone ed oggetti ad essa somiglianti.</string>
      <string name="structure_face_unlock_model_other_suggestion_3d">Il riconoscimento del volto in 3D è relativamente sicuro. È altamente improbabile che il tuo dispositivo possa essere sbloccato con una tua foto quando questa funzionalità è attiva. Tuttavia, il dispositivo potrebbe sbloccarsi con persone o oggetti a te somiglianti.</string>
      <string name="structure_face_unlock_model_other_title">Riconoscimento del volto</string>
      <string name="structure_face_unlock_not_same_person">Dovrai completare tutti i passaggi da solo. Non sostituirti a nessuno durante la scansione.</string>
