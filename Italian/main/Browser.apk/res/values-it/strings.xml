@@ -262,8 +262,8 @@ stia per accadere"</string>
      <string name="dialog_insufficient_space_on_external">Spazio insufficiente sulla memoria removibile</string>
      <string name="dialog_media_not_found">Impossibile scaricare: memoria rimovibile non rilevata</string>
      <string name="dialog_queued_body">Questo file è in coda essere scaricato in futuro.</string>
-     <string name="dialog_recovery_tabs_disc">Il rilevamento di pagine non chiuse richiede il recupero completo.</string>
-     <string name="dialog_recovery_tabs_title">Apri la pagina prima del recupero</string>
+     <string name="dialog_recovery_tabs_disc">Il rilevamento delle pagine non chiuse richiede il recupero completo.</string>
+     <string name="dialog_recovery_tabs_title">Recupero pagine</string>
      <string name="dialog_title_not_available">Impossibile scaricare</string>
      <string name="dialog_title_queued_body">File ancora non disponibile</string>
      <string name="document_download_background_btn">Scarica in background</string>
@@ -940,7 +940,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_check_security_url_summary_international">Per fornire un servizio migliore, consenti al browser di accedere ai tuoi URL</string>
      <string name="pref_check_security_url_title">Verifica sicurezza URL</string>
      <string name="pref_check_security_url_title_international">Ottieni gli URL</string>
-     <string name="pref_checkbox_tab_restore">Ricorda questa opzione (potrai andare in Impostazioni Avanzate per modificare)</string>
+     <string name="pref_checkbox_tab_restore">"Ricorda questa opzione (potrai modificarla dalla scheda 'Avanzate' in Impostazioni)"</string>
      <string name="pref_clear_adblock_statistics">Svuota cronologia Blocco pubblicitario</string>
      <string name="pref_clear_adblock_statistics_dlg">Azzerare il conteggio pubblicità bloccate?</string>
      <string name="pref_clear_all_data_dlg">Cancellare tutti i dati di navigazione?</string>
