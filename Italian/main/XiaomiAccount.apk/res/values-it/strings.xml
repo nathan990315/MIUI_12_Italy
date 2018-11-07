@@ -272,11 +272,11 @@ Per attivare il tuo account, segui il
      <string name="passport_input_password_for_login">Questo numero è associato ad un account esistente, inserisci la tua password</string>
      <string name="passport_input_password_hint">Inserisci la password</string>
      <string name="passport_input_phone_hint">Inserisci il numero di telefono</string>
-     <string name="passport_input_phone_password">Please enter the password for the mobile number%s</string>
+     <string name="passport_input_phone_password">Prego immetti la password per il numero di cellulare %s</string>
      <string name="passport_input_vcode_hint">Inserisci il codice di verifica</string>
      <string name="passport_input_voice_captcha_hint">Inserisci il codice di verifica vocale</string>
      <string name="passport_input_voice_hint">Immetti codice vocale</string>
-     <string name="passport_international_register_by_email">Create an account using email address</string>
+     <string name="passport_international_register_by_email">"Crea un account utilizzando l'indirizzo email"</string>
      <string name="passport_license_host_unreachable">"Impossibile connettersi alla rete. Puoi vedere questa pagina a %s."</string>
      <string name="passport_license_info_collapse">Raggruppa</string>
      <string name="passport_license_info_open">Dettagli</string>
@@ -369,7 +369,7 @@ Per attivare il tuo account, segui il
      <string name="passport_skip_setup_account_title">Salta configurazione</string>
      <string name="passport_sms_send_success">Invio</string>
      <string name="passport_sms_verification_code_login">Accesso codice verifica SMS</string>
-     <string name="passport_sms_verification_code_login_or_register">Sign or register in using SMS</string>
+     <string name="passport_sms_verification_code_login_or_register">Accedi o registrati tramite SMS</string>
      <string name="passport_sync_account_data">Informazioni di sincronizzazione account…</string>
      <string name="passport_sync_account_data_failed_warning">Le informazioni del tuo account sono in fase di sincronizzazione, puoi accedere con il tuo ID Mi Account. Se vuoi accedere utilizzando il tuo numero di telefono o la tua email or email, attendi fino alla completa sincronizzazione.</string>
      <string name="passport_talkback_image_captcha">Codice di verifica con immagine</string>

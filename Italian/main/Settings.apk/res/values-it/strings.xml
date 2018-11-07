@@ -943,8 +943,8 @@ Frequenza Campione"</string>
      <string name="bootloader_status_unlocked">Sbloccato</string>
      <string name="bootloader_status_unlocked_info">Questo dispositivo è sbloccato</string>
      <string name="bootloader_summary">Esegui il flash del tuo dispositivo tramite USB</string>
-     <string name="bootloader_tips">"After you add your Mi Account, don't sign out of it, perform a factory reset, or clear system apps' data. If you do any of the above, add your account again or you won't be able to unlock your device."</string>
-     <string name="bootloader_tips_ok">Got it</string>
+     <string name="bootloader_tips">Dopo aver aggiunto il tuo Mi Account, non disconnetterti da esso, esegui un ripristino dei dati di fabbrica o cancella i dati delle app di sistema. Se deciderai di eseguire una delle operazioni precedenti, assicurati di riaggiungi nuovamente il tuo account o non sarai in grado di sbloccare il dispositivo.</string>
+     <string name="bootloader_tips_ok">Fatto</string>
      <string name="breathing_light_color_menu_title">Colore LED</string>
      <string name="breathing_light_color_summary">Colore LED quando si ricevono nuove notifiche</string>
      <string name="breathing_light_freq_summary">Illumina quando ricevi nuove notifiche</string>
@@ -1004,9 +1004,9 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="call_records_name_1">Debbie Smith</string>
      <string name="call_records_name_2">Jason Lee</string>
      <string name="call_records_name_3">Tom Fowles</string>
-     <string name="call_records_summary_1">9:35 AM | 26 seconds | China Unicom</string>
-     <string name="call_records_summary_2">August 16 | 1m 16s | China Mobile</string>
-     <string name="call_records_summary_3">August 16 | 2m 24s | China Unicom</string>
+     <string name="call_records_summary_1">9:35 | 26 secondi | Cina Unicom</string>
+     <string name="call_records_summary_2">Agosto 16 | 1m 16s | Cina Mobile</string>
+     <string name="call_records_summary_3">Agosto 16 | 2m 24s | Cina Unicom</string>
      <string name="call_settings_primary_user_only">Modifica le impostazioni di chiamata nel Primo Spazio</string>
      <string name="call_settings_summary">Imposta segreteria, deviazione chiamate, avviso di chiamata, ID chiamante</string>
      <string name="call_settings_title">Chiamate</string>
@@ -2292,7 +2292,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="keyboard_shortcuts_helper">Assistente scorciatoie tastiera</string>
      <string name="keyboard_shortcuts_helper_summary">Mostra scorciatoie disponibili</string>
      <string name="keyguard_advance_setting_title">Impostazioni avanzate</string>
-     <string name="keyguard_notification_status_title">Notifications</string>
+     <string name="keyguard_notification_status_title">Notifiche</string>
      <string name="keyguard_security_setting_others">Altri</string>
      <string name="keyguard_security_setting_privacy_policy">Informativa sulla Privacy</string>
      <string name="keyguard_vertical_clock_title">Orologio verticale</string>
@@ -2373,7 +2373,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="launch_google_search">Apri Ricerca Google</string>
      <string name="launch_recents">Apri Recenti</string>
      <string name="launch_voice_assistant">Lancia Assistente Vocale</string>
-     <string name="launcher_icon">Icons</string>
+     <string name="launcher_icon">Icone</string>
      <string name="launcher_title">Launcher</string>
      <string name="launching_cit">Avvio Rilevamento Hardware, attendere\u2026</string>
      <string name="launching_pho">Caricamento informazioni dispositivo, attendere\u2026</string>
@@ -3315,8 +3315,8 @@ ed esegui il software."</string>
      <string name="page_layout_31">Jack Tang</string>
      <string name="page_layout_32">Play Store</string>
      <string name="page_layout_33">Google</string>
-     <string name="page_layout_34">Phone</string>
-     <string name="page_layout_35">Notes</string>
+     <string name="page_layout_34">Telefono</string>
+     <string name="page_layout_35">Note</string>
      <string name="page_layout_4">Musica</string>
      <string name="page_layout_5">Video</string>
      <string name="page_layout_6">App</string>
@@ -6039,7 +6039,7 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="wizard_back">Indietro</string>
      <string name="wizard_finish">Fine</string>
      <string name="wizard_next">Avanti</string>
-     <string name="words_title">Text</string>
+     <string name="words_title">Testo</string>
      <string name="work_alarm_ringtone_title">Suono predefinito della sveglia lavoro</string>
      <string name="work_mode_label">Modalità operativa</string>
      <string name="work_mode_summary">"Consenti l'attività al profilo di lavoro, incluse le app, sincronizzazione in background e relative funzionalità "</string>
