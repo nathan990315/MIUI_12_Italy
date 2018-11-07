@@ -1056,6 +1056,11 @@
         <item>Controlla solo contenuti DRM</item>
         <item>Controlla sempre</item>
      </string-array>
+     <string-array name="keyguard_notification_status_entries">
+        <item>Wake screen</item>
+        <item>Show animation</item>
+        <item>"Don't wake screen"</item>
+     </string-array>
      <string-array name="led_color_entries">
         <item>Blu</item>
         <item>Rosso</item>

@@ -333,8 +333,8 @@ Le schede contatti sono disattivate"</string>
      <string name="description_image_button_plus">Più</string>
      <string name="description_image_button_pound">cancelletto</string>
      <string name="description_image_button_seven">sette</string>
-     <string name="description_image_button_sim1_dial">Chiama con SIM1</string>
-     <string name="description_image_button_sim2_dial">Chiama con SIM2</string>
+     <string name="description_image_button_sim1_named_dial">Dial using SIM1 %s</string>
+     <string name="description_image_button_sim2_named_dial">Dial using SIM2 %s</string>
      <string name="description_image_button_six">sei</string>
      <string name="description_image_button_star">asterisco</string>
      <string name="description_image_button_three">tre</string>
@@ -986,6 +986,8 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="savingContact">Salvataggio contatto…</string>
      <string name="savingDisplayGroups">Salvataggio opzioni di visualizzazione…</string>
      <string name="scan">Scansiona</string>
+     <string name="scan_business_card">Scan business card</string>
+     <string name="scan_bussiness_card_merge_tip">Conflicting data has been replaced</string>
      <string name="scan_duplicate_message">%1$d contatti con info identiche</string>
      <string name="scan_merge">Ricerca contatti duplicati…</string>
      <string name="scan_qrcode_card_hint1">Scansiona codice QR</string>
