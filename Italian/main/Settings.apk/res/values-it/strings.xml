@@ -2220,6 +2220,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="input_methods_and_subtype_enabler_title">Scegli metodi di immissione attivi</string>
      <string name="input_methods_settings_label_format">Impostazioni di %1$s</string>
      <string name="input_methods_settings_title">Inserimento testo</string>
+     <string name="input_pattern_hint_text">Draw your unlock pattern</string>
      <string name="input_settings">Impostazioni immissione</string>
      <string name="install_all_warning">"Il dispositivo e i dati personali sono più vulnerabili agli attacchi da parte di app provenienti da fonti sconosciute. L'utente accetta di essere il solo responsabile degli eventuali danni al dispositivo o della perdita di dati che potrebbero derivare dall'utilizzo di queste applicazioni."</string>
      <string name="install_applications">Origini sconosciute</string>
@@ -2834,11 +2835,10 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_sos_audio_summary">Riproduci messaggio SOS durante comunicazione con contatto di emergenza</string>
      <string name="miui_sos_audio_title">Messaggio vocale SOS</string>
      <string name="miui_sos_call_log_duration">Durata</string>
-     <string name="miui_sos_call_log_min">min</string>
      <string name="miui_sos_call_log_none">"Non ho una cronologia delle chiamate dell'ultima ora."</string>
-     <string name="miui_sos_call_log_sec">s</string>
      <string name="miui_sos_call_log_stranger">Sconosciuto</string>
      <string name="miui_sos_call_log_summary">"Invia cronologia chiamate dell'ultima ora al tuo contatto di emergenza"</string>
+     <string name="miui_sos_call_log_time_unit">%1$dm %2$ds</string>
      <string name="miui_sos_call_log_title">Invia cronologia chiamate</string>
      <string name="miui_sos_call_warning_sim_unable">Nessun segnale. Impossibile inviare SMS.</string>
      <string name="miui_sos_calling_summary">Il dispositivo effettuerà chiamate automatiche ai contatti di emergenza, riproducendo il messaggio vocale SOS registrato. La chiamata terminerà al completamento della riproduzione del messaggio. La chiamata automatica si interromperà dopo il primo tentativo riuscito.</string>

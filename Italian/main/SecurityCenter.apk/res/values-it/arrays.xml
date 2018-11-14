@@ -16,17 +16,17 @@
      <string-array name="date_of_app_all">
         <item>Dati (ieri)\u0020</item>
         <item>Dati (oggi)\u0020</item>
-		<item>Dati (ultimo mese)\u0020</item>
+        <item>Dati (ultimo mese)\u0020</item>
         <item>Dati (questo mese)\u0020</item>
         <item>Wi-Fi (ieri)\u0020</item>
         <item>Wi-Fi (oggi)\u0020</item>
-		<item>Wi-Fi (ultimo mese)\u0020</item>
+        <item>Wi-Fi (ultimo mese)\u0020</item>
         <item>Wi-Fi (questo mese)\u0020</item>
      </string-array>
      <string-array name="date_of_traffic">
         <item>"Ieri "</item>
         <item>"Oggi "</item>
-		<item>"Ultimo mese "</item>
+        <item>"Ultimo mese "</item>
         <item>"Questo mese "</item>
      </string-array>
      <string-array name="date_of_traffic_cmcc">
@@ -37,7 +37,7 @@
      <string-array name="date_of_traffic_prefix">
         <item>"Ieri: "</item>
         <item>"Oggi: "</item>
-		<item>"Ultimo mese: "</item>
+        <item>"Ultimo mese: "</item>
         <item>"Questo mese: "</item>
      </string-array>
      <string-array name="date_of_traffic_prefix_cmcc">
@@ -90,6 +90,11 @@
         <item>Orario installazione</item>
         <item>Ultima fonte aggiornamento</item>
         <item>Ultimo orario aggiornamento</item>
+     </string-array>
+     <string-array name="traffic_package_type">
+        <item>Monthly data plan</item>
+        <item>Daily data plan</item>
+        <item>Unlimited data plan</item>
      </string-array>
      <string-array name="traffic_type">
         <item>"Utilizzo dati "</item>

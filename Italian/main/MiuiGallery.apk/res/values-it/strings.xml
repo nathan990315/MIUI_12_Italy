@@ -98,7 +98,6 @@
      <string name="app_name">Galleria</string>
      <string name="app_name_view_picture">Mostra immagine</string>
      <string name="app_name_view_video">Mostra video</string>
-     <string name="apply">Applica</string>
      <string name="assistant_page_label">Assistente</string>
      <string name="associate_face_album">Scegli un album</string>
      <string name="auto_backup_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
@@ -124,10 +123,6 @@
      <string name="baby_album_sharers_page_title">Condividi con i familiari</string>
      <string name="baby_birthday">Compleanno</string>
      <string name="baby_face_desc">Album bambino</string>
-     <string name="baby_lock_wallpaper">Sfondo Blocco schermo</string>
-     <string name="baby_lock_wallpaper_cancelled">Riattivato lo sfondo predefinito della Schermata di blocco</string>
-     <string name="baby_lock_wallpaper_save_settings_msg">Applicare queste impostazioni?</string>
-     <string name="baby_lock_wallpaper_title">Usa le foto del bambino come sfondo per la Schermata di blocco</string>
      <string name="baby_name_cannot_empty">Inserisci nome</string>
      <string name="baby_name_cannot_start_with">"Il nome non può iniziare con '%s'"</string>
      <string name="baby_name_contain_invalidate_char">"Il nome non può contenere '%s'"</string>
@@ -197,7 +192,6 @@
      <string name="byteShort">B</string>
      <string name="camera_needs_auto_backup_tip">Backup album fotocamera eseguito</string>
      <string name="cancel">Annulla</string>
-     <string name="cancel_baby_lock_wallpaper_confirm_msg">Annullare lo sfondo del bambino e ripristinare lo sfondo predefinito della Schermata di blocco?</string>
      <string name="cancel_download_btn_text">Interrompi</string>
      <string name="cancel_hint">Operazione annullata</string>
      <string name="cannot_remove_creator">Impossibile rimuovere il proprietario</string>
@@ -740,6 +734,11 @@
      <string name="disable_auto_upload_tip">"Le foto nuove e quelle eliminate non verranno sincronizzate con Mi Cloud. Questo album verrà spostato in \"Altri album\"."</string>
      <string name="disable_auto_upload_title">Disattiva sincronizzazione con Mi Cloud</string>
      <string name="do_not_remind_me">"Non mostrare più"</string>
+     <string name="document_provider_guide_step_1">1. Tap the \"More\" button.</string>
+     <string name="document_provider_guide_step_2">2. Tap \"Show internal storage\".</string>
+     <string name="document_provider_guide_step_3">3. Tap the side menu button.</string>
+     <string name="document_provider_guide_step_4">4. Select \"SD card\".</string>
+     <string name="document_provider_guide_step_5">5. Tap \"Select\".</string>
      <string name="double_tap_to_higher_definition">"Fai di nuovo doppio tap per l'anteprima HD"</string>
      <string name="download_canceled">Download annullato</string>
      <string name="download_error_format">Impossibile scaricare %s</string>
@@ -844,6 +843,18 @@
      <string name="exit_video_play">Esci</string>
      <string name="expand_desc">Altro</string>
      <string name="expand_people">Espandi altre persone</string>
+     <string name="ext_sdcard_first_entrance_request_failed_text">Gallery will save items to internal storage instead. You can change this in Settings > Storage > Storage settings.</string>
+     <string name="ext_sdcard_first_entrance_request_failed_title">"Couldn't give permissions."</string>
+     <string name="ext_sdcard_guide_first_page_button_text">Next</string>
+     <string name="ext_sdcard_guide_last_page_button_text">Give permissions</string>
+     <string name="ext_sdcard_guide_text">"Gallery needs your permission to access SD card. Here's what you can do:"</string>
+     <string name="ext_sdcard_operation_failed_text">Gallery needs permissions to access SD card.</string>
+     <string name="ext_sdcard_operation_failed_title">"Couldn't complete this action"</string>
+     <string name="ext_sdcard_permission_request_button_text">Got it</string>
+     <string name="ext_sdcard_permission_request_reason">Gallery needs your permission to access SD card. It will allow you to delete and edit photos and videos that are stored on your SD card.</string>
+     <string name="ext_sdcard_permission_request_title">Allow Gallery to access SD card</string>
+     <string name="ext_sdcard_request_failed_button_text">OK</string>
+     <string name="ext_sdcard_request_succeed_toast_text">"You're ready to rock!"</string>
      <string name="face_album_empty">"Foto non sufficienti per il riconoscimento.
 Scatta più foto ai tuoi amici!"</string>
      <string name="face_album_empty_syncing">Sincronizzazione dati</string>
@@ -1426,7 +1437,6 @@ per personalizzare la Galleria"</string>
      <string name="send_secret_file_failed">Impossibile condividere</string>
      <string name="send_secret_file_space_low">Spazio libero non sufficiente</string>
      <string name="send_too_many_files_error">Impossibile inviare tutti gli elementi (massimo %d elementi).</string>
-     <string name="set_as_baby_lock_wallpaper">Imposta come sfondo Schermata di blocco</string>
      <string name="set_as_slide_wallpaper_description">"Questa immagine è una miniatura, scarica l'originale?"</string>
      <string name="set_as_slide_wallpaper_title">Imposta come sfondo della presentazione</string>
      <string name="set_as_wallpaper_description">"Questa immagine è un'anteprima, vuoi scaricare l'originale?"</string>

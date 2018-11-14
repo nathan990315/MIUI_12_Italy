@@ -221,9 +221,9 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d notifiche sono visibili</item>
         <item quantity="one">%d notifica è visibile</item>
      </plurals>
-     <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">"%d app non funzionano correttamente e consumano eccessivamente batteria"</item>
-        <item quantity="one">"%d app non funziona correttamente e consuma eccessivamente batteria"</item>
+     <plurals name="om_locked_apps_title">
+        <item quantity="other">%d locked apps</item>
+        <item quantity="one">%d locked app</item>
      </plurals>
      <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d punti</item>

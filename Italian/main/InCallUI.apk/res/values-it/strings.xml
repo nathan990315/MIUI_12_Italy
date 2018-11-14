@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="antispam_local_marked">Segnalato localmente</string>
-     <string name="antispam_marked_count">Segnalato da %1$d utenti MIUI</string>
      <string name="antispam_notification_title">Numero sconosciuto</string>
      <string name="antispam_provider">Identificato da %s</string>
      <string name="callFailed_cb_enabled">Impossibile effettuare chiamate in uscita con il blocco chiamate attivo.</string>
@@ -46,7 +45,6 @@
      <string name="call_recording_notification_message_sd_unmounted">La scheda SD è stata rimossa</string>
      <string name="call_recording_notification_title">Chiamata registrata</string>
      <string name="call_recording_notification_title_error">Non è stato possibile registrare la chiamata</string>
-     <string name="call_title_redialing_with_times">Ricomposto %d volte</string>
      <string name="caller_manage_header">Audioconferenza %s</string>
      <string name="can_not_use">Impossibile utilizzare</string>
      <string name="cancel">Annulla</string>
@@ -77,7 +75,6 @@
      <string name="close_camera_failed">Impossibile disattivare la fotocamera…</string>
      <string name="close_camera_requesting">Disattivazione fotocamera...</string>
      <string name="conference_call_description" formatted="false">%s,%s ecc. totale %s</string>
-     <string name="conference_call_number">%s persone</string>
      <string name="conference_call_recorder_title">Conferenza telefonica</string>
      <string name="conference_call_single_description" formatted="false">%s etc. totali %s</string>
      <string name="conference_caller_info_name">Audio conferenza di %1$s</string>
