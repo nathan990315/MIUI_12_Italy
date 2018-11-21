@@ -1410,6 +1410,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="sim_service_setting">Mi SIM e Mi Roaming</string>
      <string name="simulate_color_space">Simula spazio colore</string>
      <string name="singleContactImportedMsg">Contatto importato</string>
+     <string name="sip_account_disable">"The account isn't active. Can't accept calls."</string>
      <string name="sip_account_list">Account SIP</string>
      <string name="sip_accounts">Account chiamate via internet (SIP)</string>
      <string name="sip_accounts_title">Account SIP</string>
@@ -1427,6 +1428,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="sip_menu_discard">Ignora</string>
      <string name="sip_menu_save">Salva</string>
      <string name="sip_profile_create_error">Impossibile creare un nuovo profilo SIP</string>
+     <string name="sip_receive_call_disable">"Can't accept calls. Allow accepting calls first."</string>
      <string name="sip_receive_calls">Ricezione chiamate entranti</string>
      <string name="sip_receive_calls_summary">Riduce la durata della batteria</string>
      <string name="sip_save_register_error">Non è possibile registrare e salvare un profilo SIP</string>

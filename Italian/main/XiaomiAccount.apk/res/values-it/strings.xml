@@ -83,6 +83,7 @@
      <string name="change_password">Cambia password</string>
      <string name="change_phone_number">Modifica numero di telefono</string>
      <string name="cloud_service">Mi Cloud</string>
+     <string name="collect_diagnosis_log">Collect diagnosis log</string>
      <string name="completed">Completato</string>
      <string name="confirm_activate_email">Verificato</string>
      <string name="confirm_bundled_phone_dialog_title">Conferma numero di telefono collegato</string>
@@ -111,6 +112,10 @@
      <string name="device_list_title">Lista dispositivi</string>
      <string name="device_name">Nome dispositivo</string>
      <string name="device_trust_info">Dispositivi sicuri</string>
+     <string name="diagnosis_log_send_failed">Diagnosis log sent failed.</string>
+     <string name="diagnosis_log_sent_format">"Diagnosis log has been sent.
+ID:%s
+Please send this code to the technician."</string>
      <string name="empty_device_list_notice">Nessun dispositivo</string>
      <string name="error_dup_binded_email">Questo indirizzo email è già associato ad un altro Mi Account.</string>
      <string name="error_invalid_bind_address">"L'email inserita non è valida."</string>
@@ -138,6 +143,7 @@
      <string name="find_device_request_prepare_error">Impossibile recuperare lo stato, riprova più tardi</string>
      <string name="find_device_unknown_error">Impossibile recuperare lo stato, riprova più tardi</string>
      <string name="first_login_time">Primo tentativo di accesso: %s</string>
+     <string name="for_diagnosis_usage_only">Use this info for diagnosis only.</string>
      <string name="get_back_pwd">Ripristino password</string>
      <string name="get_device_list_failed">Impossibile recuperare la lista dispositivi</string>
      <string name="get_phone_bind_exceed_limit">"Il numero di telefono collegato all'account ha raggiunto il massimo di account collegati(3), non può essere collegato ad altri account"</string>
@@ -185,6 +191,7 @@
      <string name="oauth_getting_scopes">Verifica account…</string>
      <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; otterrà i seguenti permessi:&lt;br&gt; &lt;br&gt; %3$s</string>
      <string name="oauth_title">Accedi con il Mi Account</string>
+     <string name="ok">OK</string>
      <string name="other_devices_title">Altri dispositivi</string>
      <string name="passport_Resend">Reinvia</string>
      <string name="passport_access_denied">Accesso negato</string>
@@ -443,7 +450,9 @@ Per attivare il tuo account, segui il
      <string name="search_user_detail_path">Mi Account/Informazioni personali</string>
      <string name="search_user_detail_top_key_words">Informazioni personali,Modifica immagine profilo,Cambia nome utente,Cambia Nick,Modifica compleanno,Modifica genere</string>
      <string name="select_location_title">Seleziona la tua località</string>
+     <string name="send_diagnosis_log">Send diagnosis log</string>
      <string name="send_email_activate_message">Email di verifica inviata</string>
+     <string name="sending">Sending...</string>
      <string name="service_error">Errore di servizio</string>
      <string name="set_success">Modificato correttamente</string>
      <string name="sign_in">Accesso in corso</string>
@@ -453,6 +462,7 @@ Per attivare il tuo account, segui il
      <string name="sms_send_success">Inviato</string>
      <string name="sns_access_token_expired_warning">La sessione è scaduta. Accedi di nuovo per aggiungere questo account.</string>
      <string name="talkback_scan_barcode">Scansiona il codice QR</string>
+     <string name="temporary_not_available">temporary not available</string>
      <string name="trusted_browsers">Browser sicuri</string>
      <string name="trusted_browsers_prompt">Il browser non sarà più sicuro se elimini i cookies.</string>
      <string name="turn_off_find_device_failed_title">Impossibile disattivare Trova dispositivo</string>
