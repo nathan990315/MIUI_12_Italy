@@ -241,7 +241,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="allow_mock_location_summary">Consenti posizioni fittizie</string>
      <string name="allow_overlay_description">"Questo permesso consente ad un app di visualizzare dei contenuti sopra ad altre app che stai usando e potrebbero così interferire con l'uso dell'interfaccia delle altre app, o modificare quelli che pensi di visualizzare in altre applicazioni."</string>
      <string name="allow_sound">Consenti suono</string>
-     <string name="alpha_build">\u0020Alpha</string>
+     <string name="alpha_build">Alfa</string>
      <string name="always">Sempre</string>
      <string name="always_allow_bind_appwidgets_text">Hai scelto di consentire a questa applicazione di creare widget e di accedere ai relativi dati.</string>
      <string name="always_running">Sempre in esecuzione (%s)</string>
@@ -1474,7 +1474,7 @@ avviso"</string>
      <string name="dev_logpersist_clear_warning_title">"Cancellare l'archivio del log persistente?"</string>
      <string name="dev_settings_warning_message">"Queste impostazioni sono utilizzabili solo a scopo di sviluppo. Possono causare l'arresto o il comportamento anomalo del dispositivo e delle applicazioni su di esso."</string>
      <string name="dev_settings_warning_title">Consentire impostazioni di sviluppo?</string>
-     <string name="developer_build">\u0020Sviluppatore</string>
+     <string name="developer_build">Sviluppatore</string>
      <string name="developer_density_summary">%d dp</string>
      <string name="developer_smallest_width">Larghezza minima</string>
      <string name="development_enable">Opzioni sviluppatore</string>
@@ -4562,7 +4562,7 @@ Il PIN potrebbe essere errato."</string>
      <string name="ssl_ca_cert_warning_message">"Una terza parte può monitorare la tua attività di rete, inclusi siti web protetti, email e applicazioni.
 
 Questo è reso possibile da credenziali attendibili installate sul tuo dispositivo."</string>
-     <string name="stable_build">\u0020Stabile</string>
+     <string name="stable_build">Stabile</string>
      <string name="standard">Silenzioso</string>
      <string name="standard_info">Le chiamate e le notifiche verranno silenziate, mentre i suoni delle sveglie e della musica continueranno a funzionare</string>
      <string name="start_silent_mode">Attiva modalità silenziosa</string>
