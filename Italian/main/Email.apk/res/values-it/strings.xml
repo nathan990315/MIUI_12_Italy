@@ -366,7 +366,9 @@
      <string name="device_not_activiey_lint1">Il gestore del dispositivo non è attivato</string>
      <string name="device_not_activiey_lint2">Il servizio exchange non funziona correttamente</string>
      <string name="dialog_account_auto_sync_setting_no_open">Sincronizzazione mail disattivata, impossibile ricevere nuovi messaggi.</string>
+     <string name="dialog_agree">Agree</string>
      <string name="dialog_change_sync_lookback">La mail ricevuta %s verrà eliminata automaticamente. Tocca per modificare.</string>
+     <string name="dialog_disagree">Disagree</string>
      <string name="dialog_insufficient_space_on_external">"Impossibile scaricare allegato. Spazio insufficiente sulla memoria esterna."</string>
      <string name="dialog_insufficient_space_on_internal">Spazio di archiviazione interna non sufficiente</string>
      <string name="dialog_system_auto_sync_account_no_open">La sincronizzazione account non è attivata e i messaggi non possono essere sincronizzati automaticamente</string>
@@ -544,6 +546,7 @@
      <string name="invalid_recipient">"L'indirizzo %s non è valido."</string>
      <string name="invalid_recipient_title">Destinatario non valido</string>
      <string name="kilobytes">%s KB</string>
+     <string name="list_empty_to_fresh">No mail, please try pull-down refresh.</string>
      <string name="load_from_remote">Continua a cercare sul server</string>
      <string name="load_more">Carica altro</string>
      <string name="loading_conversation">Caricamento…</string>
@@ -690,6 +693,7 @@ Prova con una diverso account."</string>
      <string name="notification_action_undo_remove_label">Etichetta rimossa</string>
      <string name="notification_exchange_calendar_added">Calendario Exchange aggiunto</string>
      <string name="notify_channel_new_mail">Notifica nuovi messaggi</string>
+     <string name="notify_channel_no_disterb">No disturb mode</string>
      <string name="notify_channel_permission_notice">Promemoria Avviso di autorizzazione</string>
      <string name="notify_channel_send_fail">Notifica in caso di mancata consegna</string>
      <string name="oauth_error_description">Impossibile autenticare</string>
@@ -819,6 +823,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="preview_attachment">Anteprima</string>
      <string name="previous_action">Indietro</string>
      <string name="print">Stampa</string>
+     <string name="privacy_des">日志信息包含电子邮件应用打印的调试信息及您的设备信息，用于定位您所反馈的问题。选择下方的“%1$s”表示您已阅读并同意小米的《%2$s》</string>
      <string name="privacy_policy">Informativa sulla Privacy</string>
      <string name="prompt_title">Avviso</string>
      <string name="protocol_setting_toast">"Tocca l'angolo in alto a destra per entrare nelle impostazioni dopo aver accettato"</string>

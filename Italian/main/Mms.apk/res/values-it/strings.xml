@@ -81,6 +81,16 @@
      <string name="cloud_state_sync_finished">Sincronizzato con Mi Cloud</string>
      <string name="cloud_state_syncing">Sincronizzazione con Mi Cloud…</string>
      <string name="cmcc_privacy">Accordo Privacy Operatore Cina Mobile</string>
+     <string name="complain_input_number">Enter your phone number</string>
+     <string name="complain_jump">Skip</string>
+     <string name="complain_message_title">Complain</string>
+     <string name="complain_ok">OK</string>
+     <string name="complain_phone_number">phone number</string>
+     <string name="complain_reason">Why are you reporting this message?</string>
+     <string name="complain_success">Thanks for your feedback. It helps us make Messaging better!</string>
+     <string name="complain_tips">"The content of the most recent message you report will be uploaded to our servers along with the phone number you provide. Our service providers will review the reported message.
+"</string>
+     <string name="complain_upload">Complaint has been submitted</string>
      <string name="compressing">Immagine troppo grande. Compressione in corso…</string>
      <string name="confirm">Conferma</string>
      <string name="confirm_add_blacklist_dialog_dspt">Aggiungere numero alla blacklist?</string>
@@ -146,7 +156,6 @@
      <string name="dialog_message_mx">Mi Message consente di inviare messaggi ad altri dispositivi MIUI senza incorrere in addebiti. Per attivare Mi Message sarà necessario inviare un messaggio SMS. Il tuo operatore ti addebiterà il costo di questo messaggio. Dovrai inoltre accettare i nostri \"%1$s\" e \"%2$s\" prima di utilizzare Mi Message.</string>
      <string name="dialog_message_networking">Messaging needs to connect to the internet and access your location in order to provide Smart Messaging, Sender ID recognition, and other services. Agree?</string>
      <string name="dialog_message_rcs">China Mobile Messaging allows you to send messages to other China Mobile users without incurring charges. You must agree to \"%1$s\" before using China Mobile Messaging.</string>
-     <string name="dialog_message_sms_report">"I messaggi spam e le informazioni sui loro mittenti verranno segnalati a MIUI con il tuo report. Verranno utilizzati unicamente per migliorare i filtri spam MIUI."</string>
      <string name="dialog_title_fake_cell_detect_error">Correzione</string>
      <string name="dialog_title_mx_rcs">Mi Message</string>
      <string name="dialog_title_networking">Termini e Condizioni</string>
@@ -427,7 +436,6 @@
      <string name="pref_sms_storage_title">Archiviazione</string>
      <string name="pref_sms_theme_title">Impostazioni tema</string>
      <string name="pref_summary_allow_si_sl_push">Consenti ricezione e notifica messaggi push WAP (SI/SL)</string>
-     <string name="pref_summary_allow_upload_message_info">I messaggi spam e le informazioni sui loro mittenti verranno segnalati a MIUI con il tuo report.</string>
      <string name="pref_summary_auto_delete">Elimina i vecchi messaggi quando viene raggiunto il limite</string>
      <string name="pref_summary_delete_limit">%1$s messaggi per conversazione</string>
      <string name="pref_summary_delivery_reports">Ricezione del rapporto di consegna SMS</string>
@@ -444,7 +452,6 @@
      <string name="pref_switch_sdk_setting">Cambia servizio provider smart SMS</string>
      <string name="pref_system_title">Sistema</string>
      <string name="pref_title_allow_si_sl_push">Consenti push WAP</string>
-     <string name="pref_title_allow_upload_message_info">Carica messaggi spam</string>
      <string name="pref_title_auto_delete">Elimina i vecchi messaggi</string>
      <string name="pref_title_card_format">Formato condivisione scheda</string>
      <string name="pref_title_delivery_reports">Rapporti consegna</string>
@@ -643,7 +650,6 @@
      <string name="sms_full_title">Memoria SMS piena</string>
      <string name="sms_rejected_body">SMS in entrata rifiutato per cause sconosciute.</string>
      <string name="sms_rejected_title">SMS rifiutato</string>
-     <string name="sms_report">Segnala messaggi spam</string>
      <string name="sms_report_dialog_content">Impossibile inviare il rapporto, prova di nuovo.</string>
      <string name="sms_report_dialog_retry">Prova di nuovo</string>
      <string name="sms_report_dialog_title">Prova di nuovo</string>

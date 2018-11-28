@@ -110,7 +110,8 @@
      <string name="accessibility_home">Home</string>
      <string name="accessibility_ime_switch_button">Cambia pulsante tastiera.</string>
      <string name="accessibility_key">Pulsante di navigazione personalizzato</string>
-     <string name="accessibility_left_button">collegamento</string>
+     <string name="accessibility_left_control_center_button">Shortcut</string>
+     <string name="accessibility_left_lock_screen_magazine_button">Wallpaper Carousel</string>
      <string name="accessibility_location_active">Richieste posizione attivate</string>
      <string name="accessibility_managed_profile">Profilo di lavoro</string>
      <string name="accessibility_menu">Menù</string>
@@ -438,6 +439,7 @@ Frequenza Campione"</string>
      <string name="clock">Orologio</string>
      <string name="clock_12hr_format">hm</string>
      <string name="clock_24hr_format">Hm</string>
+     <string name="clock_city_name_local">Local</string>
      <string name="clock_seconds">Mostra secondi orologio</string>
      <string name="clock_seconds_desc">"Mostra i secondi dell'orologio nella barra di stato. Può influire sulla durata della batteria."</string>
      <string name="compat_mode_off">Allunga per riempire lo schermo</string>
@@ -624,6 +626,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="face_data_manage_delete_sure">Non potrai sbloccare il dispositivo utilizzando i dati del tuo viso dopo averlo eliminati.</string>
      <string name="face_data_manage_delete_title">Dati volto</string>
      <string name="face_data_manage_unlock_msg">Sblocca il dispositivo usando i dati del tuo viso</string>
+     <string name="face_data_manage_unlock_slide_msg">Replace slider shortcuts with face unlock</string>
      <string name="face_data_manage_unlock_title">Sblocca utilizzando i dati del volto</string>
      <string name="face_data_siggesstion_next">Prossimo</string>
      <string name="face_data_siggesstion_next_time">Prossimo (%ds)</string>
@@ -950,6 +953,9 @@ Riprova tra %2$d secondi."</string>
      <string name="lock_screen_carrier_airplane_mode_on">Modalità aereo</string>
      <string name="lock_screen_date">EEEE, d MMMM</string>
      <string name="lock_screen_date_12">EEEE, d MMMM</string>
+     <string name="lock_screen_magazine_default_content">Daily portion of fresh images</string>
+     <string name="lock_screen_magazine_default_entry_title">Wallpaper details</string>
+     <string name="lock_screen_magazine_default_title">Wallpaper Carousel</string>
      <string name="lock_screen_no_sim_card_emergency_only">Solo chiamata di emergenza</string>
      <string name="lock_screen_no_sim_card_no_service">Nessun servizio</string>
      <string name="lock_wallpaper_enter">Inserisci</string>
@@ -1156,6 +1162,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="oldman_incall_text">in chiamata</string>
      <string name="open_camera_hint_text">Scorri a sinistra per avviare la Fotocamera</string>
      <string name="open_extreme_power_save_mode_title">Attiva Risparmio energetico estremo</string>
+     <string name="open_lock_screen_magazine_hint_text">Swipe right for more options</string>
      <string name="open_remote_center_hint_text">Scorri a destra per avviare Mi Remote</string>
      <string name="other">Altro</string>
      <string name="overlay_display_devices_title">Simula schermi secondari</string>
@@ -1371,6 +1378,12 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
      <string name="recents_multistack_add_stack_dialog_split_vertical">Divisione verticale</string>
      <string name="recents_search_bar_label">cerca</string>
      <string name="recents_stack_action_button_label">Cancella tutto</string>
+     <string name="recents_title_app_manager">Manage apps</string>
+     <string name="recents_title_game">Games</string>
+     <string name="recents_title_garbage_cleanup">Cleaner</string>
+     <string name="recents_title_garbage_deepclean">Deep clean</string>
+     <string name="recents_title_market">Find apps</string>
+     <string name="recents_title_security_scan">Security scan</string>
      <string name="reject_call">Rifiuta la chiamata</string>
      <string name="remaining_length_format">%1$s rimanenti</string>
      <string name="remove_from_settings">Rimuovi dalle Impostazioni</string>

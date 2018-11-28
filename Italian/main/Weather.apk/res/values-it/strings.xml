@@ -21,6 +21,7 @@
      <string name="activity_find_city_dialog_title">Servizio di localizzazione</string>
      <string name="activity_main_clickable">></string>
      <string name="activity_main_one_alert" />
+     <string name="activity_main_pub_time">Published at %1$s</string>
      <string name="activity_main_time_format">E</string>
      <string name="activity_main_update_time">Aggiornato %1$s</string>
      <string name="activity_main_update_time_expire">Dati scaduti</string>
@@ -136,7 +137,6 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="information_settings_title">Informazioni meteo</string>
      <string name="install">Installa</string>
      <string name="international_details_pressure_title">PRESSIONE</string>
-     <string name="international_details_real_feel_title">REAL FEEL®</string>
      <string name="international_details_title">Dettagli</string>
      <string name="international_details_uv_index_title">INDICE UV</string>
      <string name="international_details_wind_title">VENTO</string>
@@ -192,6 +192,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="pull_fresh_updated">Aggiornato con successo</string>
      <string name="pull_fresh_updating">Aggiornamento…</string>
      <string name="radar_cloud_image_title">Mappa Radar</string>
+     <string name="radar_cloud_update_time">Before %1$s</string>
      <string name="rainfall_settings_summary">Impostazioni piovosità</string>
      <string name="rainfall_settings_title">Avvisi piovosità</string>
      <string name="real_time_sunrise">Alba %1$s</string>

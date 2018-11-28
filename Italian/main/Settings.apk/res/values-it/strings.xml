@@ -1973,7 +1973,11 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="floating_window_switch_label_disable">Nascondi finestre popup</string>
      <string name="fluency_mode">Ottimizza le prestazioni di sistema</string>
      <string name="fluency_mode_confirm_and_reboot">Riavvia adesso</string>
+     <string name="following_us_facebook">facebook</string>
+     <string name="following_us_instagram">instagram</string>
+     <string name="following_us_linkedin">linkedin</string>
      <string name="following_us_title">Seguici</string>
+     <string name="following_us_twitter">twitter</string>
      <string name="font_size_exhuge">Enorme</string>
      <string name="font_size_huge">Molto grande</string>
      <string name="font_size_large">Grande</string>
@@ -2638,6 +2642,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="long_press_home_key">Tieni premuto il tasto Home</string>
      <string name="long_press_menu_key">Tieni premuto il tasto Menu</string>
      <string name="long_press_menu_key_when_lock">Tieni premuto il tasto Menu quando bloccato</string>
+     <string name="long_press_power_key_half_of_second">Press and hold the Power button for 0.5s to turn on Google Assistant</string>
      <string name="long_press_volume_down">Tieni premuto il tasto volume basso</string>
      <string name="lost_internet_access_cancel">Rimani in Wi-Fi</string>
      <string name="lost_internet_access_persist">Non mostrare più</string>
@@ -3428,6 +3433,14 @@ ed esegui il software."</string>
      <string name="power_hide_mode_summary">"Consente di risparmiare batteria controllando l'attività in background, le connessioni Wi-Fi e dati e l'uso del GPS di ciascuna app"</string>
      <string name="power_hide_mode_title">Gestisci il consumo da parte delle app</string>
      <string name="power_idle">Dispositivo inattivo</string>
+     <string name="power_key_how_power_force_off">How to force reboot your device</string>
+     <string name="power_key_how_power_force_off_detail">Press and hold the Power button until your device reboots</string>
+     <string name="power_key_how_power_off">How to open the shutdown page</string>
+     <string name="power_key_how_power_off_detail">Press and hold the Power button for 3s</string>
+     <string name="power_key_how_start">How to wake Google Assistant</string>
+     <string name="power_key_how_start_detail">Press and hold the Power button for 0.5s. Release to talk.</string>
+     <string name="power_key_start_enjoy">Learn more about Google Assistant</string>
+     <string name="power_key_start_guide">Waking Google Assistant using the Power button on full display devices</string>
      <string name="power_last_full_charge_summary">^1 fa</string>
      <string name="power_mgr">Batteria</string>
      <string name="power_mode">Impostazioni alimentazione</string>
@@ -4839,6 +4852,7 @@ Considera l'utilizzo di un ^1 più veloce per prestazioni migliori."</string>
      <string name="suggestions_title">Suggerimenti</string>
      <string name="sum_carrier_select">Scegli un operatore di rete</string>
      <string name="summary_divider_text">", "</string>
+     <string name="summary_font_size_v2">Adjust size for text, images, and icons</string>
      <string name="summary_range_verbal_combination">%1$s di %2$s</string>
      <string name="super_resolution_access_title">App accessibili</string>
      <string name="super_resolution_desc">Rendi le immagini più nitide utilizzando un algoritmo AI</string>
@@ -4970,6 +4984,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="tethering_footer_info">Usa hotspot e tethering per fornire connessione Internet ad altri dispositivi through tramite la tua connessione dati su rete mobile.</string>
      <string name="tethering_help_button_text">Guida</string>
      <string name="tethering_settings_not_available">Le impostazioni Tethering non sono disponibili per questo utente</string>
+     <string name="the_way_of_wakeup_voice_assistant_summary">Wake up voice assistant in full screen mode (no virtual buttons)</string>
      <string name="theme_settings_title">Temi</string>
      <string name="thememanager_not_found">"Impossibile aprire l'app Temi. Assicurati che l'app sia installata."</string>
      <string name="three_gesture_down">Scorri con tre dita</string>
@@ -4985,10 +5000,12 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="title_font_current">Seleziona carattere di sistema</string>
      <string name="title_font_current2">Carattere di sistema</string>
      <string name="title_font_size">Dimensioni carattere</string>
+     <string name="title_font_v2">Text &amp; UI elements</string>
      <string name="title_hdmi_color_calibration">Impostazione predefinita correzione colore</string>
      <string name="title_jeejen">Schermata Home Jeejen</string>
      <string name="title_layout_current">Seleziona dimensione carattere</string>
      <string name="title_layout_current2">Dimensione carattere</string>
+     <string name="title_layout_v2">Text size &amp; scaling</string>
      <string name="to_close">Disattiva</string>
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>

@@ -16,6 +16,10 @@
         <item quantity="other">%d secondi</item>
         <item quantity="one">%d secondo</item>
      </plurals>
+     <plurals name="snooze_duration_summary">
+        <item quantity="other">Alarm will go off %2$s times (%1$s min. each)</item>
+        <item quantity="one">Alarm will go off %2$s time (%1$s min.)</item>
+     </plurals>
      <plurals name="snooze_message">
         <item quantity="other">Sospendi per %d minuti</item>
         <item quantity="one">Sospendi per %d minuto</item>
