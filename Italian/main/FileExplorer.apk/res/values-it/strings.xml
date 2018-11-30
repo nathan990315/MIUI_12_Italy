@@ -200,8 +200,8 @@
      <string name="extended_storage_file_can_not_open">Impossibile aprire il file. Copia il file nella memoria interna."</string>
      <string name="extract">Estrai</string>
      <string name="fail_to_create_folder_unknown">Impossibile creare: errore sconosciuto.</string>
-     <string name="failed_not_access_sd_card">Allow access to SD card first</string>
-     <string name="failed_obtain_permissions">"Couldn't get permissions"</string>
+     <string name="failed_not_access_sd_card">"Prima concedi l'accesso alla scheda SD"</string>
+     <string name="failed_obtain_permissions">Impossibile ottenere i permessi</string>
      <string name="favorite_photo">Foto</string>
      <string name="favorite_ringtone">Suoneria</string>
      <string name="favorite_screen_cap">Screenshot MIUI</string>
@@ -366,7 +366,7 @@
      <string name="no_wifi">Nessuna rete Wi-Fi</string>
      <string name="no_wifi_hint">Nessuna rete Wi-Fi</string>
      <string name="not_installed_documentsui">DocumentsUI non installato</string>
-     <string name="not_support_documentui">"DocumentUI isn't supported on this device"</string>
+     <string name="not_support_documentui">DocumentUI non è supportato su questo dispositivo</string>
      <string name="notif_server_starting">Avviato server FTP</string>
      <string name="notif_title">Server FTP in esecuzione</string>
      <string name="notification_dialog_confirm">OK</string>
@@ -505,8 +505,8 @@
      <string name="report_politics">Politicamente scorretto</string>
      <string name="report_porn">Porno</string>
      <string name="report_violence">Violenza</string>
-     <string name="request_document_permission">To manage files on your SD card, give File Manager the required permissions.</string>
-     <string name="request_document_permission_title">Permissions required</string>
+     <string name="request_document_permission">Per gestire il file sulla scheda SD, concedi a File Manager i permessi richiesti.</string>
+     <string name="request_document_permission_title">Permessi richiesti</string>
      <string name="request_timeout">Richiesta di rete scaduta</string>
      <string name="reset_password">Ripristina password</string>
      <string name="restoring">Ripristino…</string>

@@ -19,7 +19,7 @@
      <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Chiudi</string>
-     <string name="hybrid_provider">Provided by %1$s</string>
+     <string name="hybrid_provider">Fornito da %1$s</string>
      <string name="mibi_all_license_message">Stai per utilizzare del Mi Credit, un servizio fornito da Xiaomi Inc. Prima che tu possa utilizzare questo servizio, dovrai concordare con i Termini di Servizio. Tocca OK se hai concordato con i termini e le condizioni descritte in %1$s e %2$s. Dovrai connetterti ad Internet, localizzare il tuo dispositivo ed utilizzare i Mi Credit."</string>
      <string name="mibi_app_name">Mi Credit</string>
      <string name="mibi_applock_config">Impossibile impostare App lock quando è in uso lo Split Screen.</string>
@@ -256,7 +256,7 @@ Controlla la tua data locale e riprova."</string>
      <string name="mibi_prepaid_picker_title_default">Seleziona ammontare</string>
      <string name="mibi_prepaid_picker_title_selected">Ammontare</string>
      <string name="mibi_privacy_license_name">Informativa sulla Privacy</string>
-     <string name="mibi_privacy_policy">Privacy Policy</string>
+     <string name="mibi_privacy_policy">Informativa sulla Privacy</string>
      <string name="mibi_privacy_tip_message">"Non puoi utilizzare i Mi Credits dopo aver revocato l'autorizzazione."</string>
      <string name="mibi_privacy_tip_title">Concedi prima le autorizzazioni</string>
      <string name="mibi_process_expired">Dove stai andando? Questa operazione è scaduta</string>
@@ -343,7 +343,7 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="mibi_web_login_description">Accedi</string>
      <string name="mibi_web_login_waiting">Attendere prego…</string>
      <string name="mibi_web_sso_login_fail">"Devi eseguire nuovamente l'accesso"</string>
-     <string name="no_network">"Can't connect to the network"</string>
+     <string name="no_network">Impossibile collegarsi alla rete</string>
      <string name="passport_access_denied">Accesso non riuscito</string>
      <string name="passport_account_hint_text">Indirizzo Email su ID Mi Account</string>
      <string name="passport_account_identity_title">Verifica la tua identità</string>
@@ -537,8 +537,8 @@ Centro servizio clienti:400-100-5678"</string>
      <string name="passport_wrong_captcha">Il codice immesso non è corretto</string>
      <string name="passport_wrong_phone_number_format">Il formato del numero di telefono immesso non è valido</string>
      <string name="passport_wrong_vcode">Il codice immesso non è corretto</string>
-     <string name="passport_yes">Yes</string>
-     <string name="web_sso_login_fail">You need to sign in again</string>
-     <string name="web_sso_login_message">Signing in…</string>
-     <string name="webview_reload">Try again</string>
+     <string name="passport_yes">Sì</string>
+     <string name="web_sso_login_fail">Devi accedere di nuovo</string>
+     <string name="web_sso_login_message">Accesso in corso…</string>
+     <string name="webview_reload">Prova di nuovo</string>
 </resources>
