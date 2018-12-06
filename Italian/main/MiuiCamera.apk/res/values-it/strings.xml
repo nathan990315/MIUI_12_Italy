@@ -450,10 +450,11 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
      <string name="pref_camera_video_duration_entry_120">2 ore</string>
      <string name="pref_camera_video_duration_entry_30">30 minuti</string>
      <string name="pref_camera_video_duration_entry_mms">30 secondi (MMS)</string>
-     <string name="pref_camera_volumekey_function_entry_exposure">Esposizione</string>
      <string name="pref_camera_volumekey_function_entry_shutter">Scatta foto</string>
+     <string name="pref_camera_volumekey_function_entry_timer">Shutter countdown</string>
      <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
      <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
+     <string name="pref_camera_volumekey_function_entryvalue_timer">timer</string>
      <string name="pref_camera_volumekey_function_title">Comportamento tasti volume</string>
      <string name="pref_camera_watermark_title">Aggiungi data</string>
      <string name="pref_camera_whitebalance_entry_auto">Auto</string>
@@ -540,6 +541,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
      <string name="pref_video_time_lapse_frame_interval_entry_90">Intervallo di 3 secondi (90x)</string>
      <string name="pref_video_time_lapse_frame_interval_entry_900">Intervallo di 30 secondi (900x)</string>
      <string name="pref_video_time_lapse_frame_interval_title">Intervallo Time-lapse</string>
+     <string name="pref_video_volumekey_function_default">shutter</string>
      <string name="preparing_sd">Preparo scheda SD...</string>
      <string name="record_back_pressed_hint">Premi di nuovo per interrompere la registrazione</string>
      <string name="screen_on_proximity_sensor_hint">Per disabilitare questa funzionalità, premi contemporaneamente i pulsanti volume su e indietro.</string>
@@ -578,7 +580,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
      <string name="text_ai_scene_selector_text_on">SILHOUETTE</string>
      <string name="time_lapse_error">Dimensione video non valida per il Time-lapse.</string>
      <string name="title_snap_double_confirm">Conferma di nuovo</string>
-     <string name="toast_burst_snap_finished_summary">Scatto multiplo completato, %1$s foto scattate</string>
      <string name="toast_burst_snap_forbidden_when_audio_capture_open">Impossibile acquisire scatti multipli durante la registrazione audio</string>
      <string name="toast_saving">Salvataggio foto...</string>
      <string name="toast_start_audio_capture">Riproduci un suono al momento dello scatto</string>

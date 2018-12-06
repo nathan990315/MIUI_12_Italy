@@ -594,6 +594,12 @@ Il tuo operatore potrebbe effettuare degli addebiti se deciderai di attivare di 
      <string name="deep_clean_disconnect_data_title">Disattiva la connessione dati dopo aver bloccato il dispositivo</string>
      <string name="deep_clean_memory_clean_title">Pulisci la cache dopo aver bloccato il dispositivo</string>
      <string name="deep_clean_never_memory_clean">Mai</string>
+     <string name="deep_power_save_item_summary_auto_brightness">Adjust screen brightness automatically to save battery</string>
+     <string name="deep_power_save_item_summary_bluetooth">Turn off Bluetooth to save battery</string>
+     <string name="deep_power_save_item_summary_lock_screen_time">Put screen to sleep after 30 seconds of inactivity to save battery</string>
+     <string name="deep_power_save_item_title_auto_brightness">Turn on auto brightness</string>
+     <string name="deep_power_save_item_title_bluetooth">Turn off Bluetooth</string>
+     <string name="deep_power_save_item_title_lock_screen_time">Put screen to sleep</string>
      <string name="deep_save_memory_clean_summary">"Svuota la cache quando il tuo dispositivo è bloccato per evitare che le app consumino batteria."</string>
      <string name="deep_save_ontime_boot_shutdown_summary">Orari in cui il dispositivo sarà attivo e disattivo</string>
      <string name="delete">Elimina</string>
@@ -1081,7 +1087,6 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continuerai ad utilizzare l
      <string name="lockpattern_need_to_unlock_wrong">Riprova</string>
      <string name="lockpattern_pattern_confirmed_header">La tua nuova sequenza di sblocco</string>
      <string name="lockpattern_pattern_entered_header">Sequenza aggiunta</string>
-     <string name="lockpattern_recording_incorrect_too_short">Collega almeno %d punti</string>
      <string name="lockpattern_recording_inprogress">Togli il dito quando hai completato al sequenza</string>
      <string name="lockpattern_recording_intro_header">Collega almeno 4 punti per creare una sequenza</string>
      <string name="lockpattern_retry_button_text">Disegna nuovamente</string>
@@ -1267,7 +1272,6 @@ dall'operatore"</string>
      <string name="mixed_password_confirmed_header_confirm">Impostato correttamente. Tocca per confermare.</string>
      <string name="mixed_password_confirmed_header_continue">Impostato correttamente. Tocca \"Avanti\".</string>
      <string name="mixed_pattern_entered_header">Password impostata correttamente</string>
-     <string name="mixed_recording_incorrect_too_short">Inserisci almeno %d caratteri.</string>
      <string name="mixed_recording_intro_header">Inserisci almeno 4 caratteri</string>
      <string name="mixed_retry_button_text">Annulla</string>
      <string name="mixed_settings_help_how_to_record">Come impostare la password</string>
@@ -1374,7 +1378,6 @@ dall'operatore"</string>
      <string name="numeric_password_confirmed_header_confirm">Impostato correttamente. Tocca per confermare.</string>
      <string name="numeric_password_confirmed_header_continue">Impostato correttamente. Tocca \"Avanti\".</string>
      <string name="numeric_pattern_entered_header">Imposta PIN correttamente</string>
-     <string name="numeric_recording_incorrect_too_short">Inserisci almeno %d numeri.</string>
      <string name="numeric_recording_intro_header">Inserisci password</string>
      <string name="numeric_retry_button_text">Annulla</string>
      <string name="numeric_settings_help_how_to_record">Come impostare il PIN</string>

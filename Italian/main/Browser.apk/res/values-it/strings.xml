@@ -57,6 +57,8 @@
      <string name="action_menu_text_share">Condividi</string>
      <string name="action_menu_text_snapshot">Salva pagina</string>
      <string name="action_menu_text_video">Video</string>
+     <string name="action_menu_toast_incognito_off">Turn off incognito mode</string>
+     <string name="action_menu_toast_incognito_on">Turn on incognito mode</string>
      <string name="action_menu_toolbox">Strumenti</string>
      <string name="action_menu_useful_page">Aggiungi utilità</string>
      <string name="action_menu_useful_page_added">Utilità aggiunta</string>
@@ -104,6 +106,7 @@
      <string name="agree_permissions_request">OK</string>
      <string name="alert_tips">Questo sito potrebbe essere un rischio per la sicurezza</string>
      <string name="allow">Consenti</string>
+     <string name="app_download_market_text">Use Mi Market to download, faster and safer</string>
      <string name="app_new_version">"Hai già l'ultima versione"</string>
      <string name="app_update_install">"Nuova versione scaricata e pronta per l'installazione"</string>
      <string name="application_name">Browser</string>
@@ -209,6 +212,7 @@
      <string name="contextmenu_dial_dot">Componi…</string>
      <string name="contextmenu_download_image">Salva immagine</string>
      <string name="contextmenu_download_image_as">Salva immagine</string>
+     <string name="contextmenu_incognito">Incognito mode</string>
      <string name="contextmenu_manually_block_ad">Segna come pubblicità</string>
      <string name="contextmenu_map">Mappa</string>
      <string name="contextmenu_openlink">Apri</string>
@@ -269,8 +273,11 @@ stia per accadere"</string>
      <string name="document_download_background_btn">Scarica in background</string>
      <string name="document_download_cancel_btn">Annulla</string>
      <string name="document_download_failed">Download fallito</string>
+     <string name="document_download_immediate">Download immediately</string>
+     <string name="document_download_normal">Normal download</string>
      <string name="document_download_official">Download ufficiale</string>
      <string name="document_download_open_direct">Apri direttamente</string>
+     <string name="document_download_recommending">Safe download(Recommending)</string>
      <string name="document_download_title">Download in corso</string>
      <string name="document_open_file">Apri %s</string>
      <string name="document_open_message">"Per migliorare la tua esperienza di lettura e garantire la sicurezza, si consiglia l'utilizzo di versioni WPS personalizzate ufficialmente"</string>
@@ -283,10 +290,9 @@ stia per accadere"</string>
      <string name="download_completed">Scaricati</string>
      <string name="download_default_path_txt">Ricorda la mia scelta</string>
      <string name="download_dialog_default_path_invalid">Il percorso per i download non è valido. Verrà usato invece il percorso predefinito per i file scaricati.</string>
-     <string name="download_dialog_file_length_hint_txt">Dimens.:</string>
+     <string name="download_dialog_file_length_default_txt">Just a sec…</string>
      <string name="download_dialog_file_length_lessthan1kb">Meno di 1K</string>
      <string name="download_dialog_file_length_nolength_error_txt">Impossibile scaricare</string>
-     <string name="download_dialog_file_length_nolength_txt">In download…</string>
      <string name="download_failed">Download fallito</string>
      <string name="download_filter_all">Tutto</string>
      <string name="download_filter_apk">Apk</string>
@@ -899,6 +905,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="not_now">Non ora</string>
      <string name="not_remind_again">Ricorda la mia scelta</string>
      <string name="notif_install_successful">Download completato</string>
+     <string name="novel_toast_hint">This website has been added to the bookshelf</string>
      <string name="ok">OK</string>
      <string name="open_app_confirm_message">Consentire a questa pagina di aprire %s?</string>
      <string name="open_cloud_sync">Apri sincronizzazione cloud</string>
@@ -974,8 +981,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_file_downlaod_save_reset_default_settings">Ripristina impostazioni predefinite</string>
      <string name="pref_file_download_default_path_prefix">Percorso predefinito: %s</string>
      <string name="pref_file_download_save_modify_default_path">Percorso file scaricati</string>
-     <string name="pref_fling_on_border">Scorri dal bordo</string>
-     <string name="pref_fling_on_border_title_summary">Scorri dal bordo sinistro dello schermo a quello destro</string>
+     <string name="pref_fling_gesture">Swipe gesture</string>
      <string name="pref_font_size_category">Dimensioni testo</string>
      <string name="pref_force_userscalable">Attivazione forzata zoom</string>
      <string name="pref_force_userscalable_summary">Ignora richieste dei siti di controllare lo zoom</string>
@@ -1028,12 +1034,12 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_security_show_security_warning">Mostra avvisi sicurezza</string>
      <string name="pref_security_show_security_warning_summary">Mostra un avviso se esiste un problema di sicurezza con un sito</string>
      <string name="pref_set_homepage_to">Imposta come</string>
-     <string name="pref_slide_back_forward">Scorri indietro o avanti</string>
      <string name="pref_tab_restore">"Ripristina l'ultima pagina aperta all'avvio"</string>
      <string name="pref_ua_string">Stringa user agent</string>
      <string name="pref_version_info">Info versione</string>
      <string name="pref_volume_key_action">Scorri con i tasti volume</string>
      <string name="progress_dialog_setting_wallpaper">Impostazione sfondo…</string>
+     <string name="publish_to_topic">publish to topic</string>
      <string name="pull_to_refresh_pull_label">Trascina per aggiornare…</string>
      <string name="pull_to_refresh_release_label">Rilascia per andare ai Suggeriti ed aggiornare</string>
      <string name="pwa_app_name">Web App</string>
@@ -1235,6 +1241,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="suggestion_more_news">PIÙ NOTIZIE</string>
      <string name="suggestion_more_news_start_title_text">Notizie Correlate</string>
      <string name="suggestion_sliding_ads_info_mark_text">ADS</string>
+     <string name="suggestion_sliding_item_more_text">SEE MORE</string>
      <string name="suggestion_topic_subtitle_hyphen">Focalizzazione</string>
      <string name="suggestion_translation_more">PIÙ TRADUZIONI</string>
      <string name="switchText">SI</string>

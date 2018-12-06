@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="pref_fling_on_border_gesture_entries">
-        <item>Pagina avanti indietro</item>
-        <item>Cambia scheda</item>
-        <item>Nessuno</item>
+     <string-array name="pref_fling_gesture_entries">
+        <item>Page back forward</item>
+        <item>Switch tabs</item>
+        <item>None</item>
      </string-array>
      <string-array name="pref_homepage_choices">
         <item>Predefinita</item>

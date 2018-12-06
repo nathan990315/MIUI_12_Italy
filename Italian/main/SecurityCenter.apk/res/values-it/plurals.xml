@@ -157,6 +157,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d giochi aggiunti</item>
         <item quantity="one">%d gioco aggiunto</item>
      </plurals>
+     <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Connect at least %d dots</item>
+        <item quantity="one">Connect at least %d dot</item>
+     </plurals>
      <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Attendi %d secondi e prova di nuovo. "</item>
         <item quantity="one">"Attendi %d secondo e prova di nuovo. "</item>
@@ -184,6 +188,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      <plurals name="menu_text_app_manager_2">
         <item quantity="other">%d app</item>
         <item quantity="one">%d app</item>
+     </plurals>
+     <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Enter at least %d characters</item>
+        <item quantity="one">Enter at least %d character</item>
      </plurals>
      <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">%d d rimanenti prima del termine della sessione a velocità di rete accelerata. Rinnova la sessione per evitare rallentamenti nella velocità di rete.</item>
@@ -220,6 +228,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
      <plurals name="number_to_mask_text">
         <item quantity="other">%d notifiche sono visibili</item>
         <item quantity="one">%d notifica è visibile</item>
+     </plurals>
+     <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Enter at least %d digits</item>
+        <item quantity="one">Enter at least %d digit</item>
      </plurals>
      <plurals name="om_locked_apps_title">
         <item quantity="other">%d app bloccate</item>

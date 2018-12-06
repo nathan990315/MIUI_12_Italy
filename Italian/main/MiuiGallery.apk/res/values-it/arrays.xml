@@ -43,6 +43,34 @@
         <item>Festa nazionale nel corso gli anni</item>
         <item>Natale nel corso degli anni</item>
      </string-array>
+     <string-array name="last_month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+     </string-array>
+     <string-array name="month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+     </string-array>
      <string-array name="month_last_year">
         <item>Lo scorso Gennaio</item>
         <item>Lo scorso Febbraio</item>
@@ -56,20 +84,6 @@
         <item>Lo scorso Ottobre</item>
         <item>Lo scorso Novembre</item>
         <item>Lo scorso Dicembre</item>
-     </string-array>
-     <string-array name="month_past_year">
-        <item>Ricordi di Gennaio</item>
-        <item>Ricordi di Febbraio</item>
-        <item>Ricordi di Marzo</item>
-        <item>Ricordi di Aprile</item>
-        <item>Ricordi di Maggio</item>
-        <item>Ricordi di Giugno</item>
-        <item>Ricordi di Luglio</item>
-        <item>Ricordi di Agosto</item>
-        <item>Ricordi di Settembre</item>
-        <item>Ricordi di Ottobre</item>
-        <item>Ricordi di Novembre</item>
-        <item>Ricordi di Dicembre</item>
      </string-array>
      <string-array name="owner_relation">
         <item>Padre</item>
@@ -88,23 +102,17 @@
         <item>Amico</item>
         <item>Sconosciuto</item>
      </string-array>
+     <string-array name="season">
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Autumn</item>
+        <item>Winter</item>
+     </string-array>
      <string-array name="season_last_year">
         <item>La scorsa Primavera</item>
         <item>La scorsa Estate</item>
         <item>Lo scorso Autunno</item>
         <item>Lo scorso Inverno</item>
-     </string-array>
-     <string-array name="season_past_year">
-        <item>Ricordi primaverili</item>
-        <item>Ricordi estivi</item>
-        <item>Ricordi autunnali</item>
-        <item>Ricordi invernali</item>
-     </string-array>
-     <string-array name="season_recap">
-        <item>Riassunto primaverile</item>
-        <item>Riassunto estivo</item>
-        <item>Riepilogo autunnale</item>
-        <item>Riassunto invernale</item>
      </string-array>
      <string-array name="sharer_relation_addressive">
         <item>Padre</item>
