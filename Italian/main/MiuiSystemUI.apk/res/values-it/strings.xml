@@ -401,7 +401,7 @@ Frequenza Campione"</string>
      <string name="bt_hci_snoop_log">Attiva Bluetooth HCI snoop log</string>
      <string name="bt_hci_snoop_log_summary">Cattura tutti i pacchetti Bluetooth HCI in un file</string>
      <string name="bt_is_off">Bluetooth disattivato</string>
-     <string name="btn_camera">Inserisci il tuo viso</string>
+     <string name="btn_camera">Inserisci il tuo volto</string>
      <string name="bugreport_in_power">Collegamento segnalazione bug</string>
      <string name="bugreport_in_power_summary">Mostra il pulsante per generare una segnalazione bug nel power menù</string>
      <string name="button_convert_fbe">Pulisci e converti…</string>
@@ -613,29 +613,29 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="face_data_input_msg">"Piazza il tuo volto all'interno della cornice"</string>
      <string name="face_data_input_ok">Fatto</string>
      <string name="face_data_input_ok_msg">Ora puoi eseguire sblocchi con il volto.</string>
-     <string name="face_data_input_ok_msg_angle">"Sblocca il dispositivo con il tuo viso quando lo schermo è acceso.
-(Registra i dati del tuo viso inclusi gli angoli richiesti.)"</string>
+     <string name="face_data_input_ok_msg_angle">"Sblocca il dispositivo con il tuo volto quando lo schermo è acceso.
+(Registra i dati del tuo volto inclusi gli angoli richiesti.)"</string>
      <string name="face_data_input_ok_title">Aggiunta riuscita</string>
      <string name="face_data_input_structure_title">Dati volto 3D</string>
      <string name="face_data_input_title">Aggiungi dati volto</string>
-     <string name="face_data_introduction_msg">I dati del viso possono essere utilizzati per sbloccare il dispositivo o verificare la tua identità. Aggiungi la password della schermata di blocco prima di aggiungere i dati del tuo viso.</string>
+     <string name="face_data_introduction_msg">I dati del volto possono essere utilizzati per sbloccare il dispositivo o verificare la tua identità. Aggiungi la password della schermata di blocco prima di aggiungere i dati del tuo volto.</string>
      <string name="face_data_introduction_next">Prossimo</string>
      <string name="face_data_introduction_title">Riconoscimento del volto</string>
      <string name="face_data_manage_delete">Eliminare dati del volto?</string>
      <string name="face_data_manage_delete_msg">Elimina dati del volto</string>
-     <string name="face_data_manage_delete_sure">Non potrai sbloccare il dispositivo utilizzando i dati del tuo viso dopo averlo eliminati.</string>
+     <string name="face_data_manage_delete_sure">Non potrai sbloccare il dispositivo utilizzando i dati del tuo volto dopo averlo eliminati.</string>
      <string name="face_data_manage_delete_title">Dati volto</string>
-     <string name="face_data_manage_unlock_msg">Sblocca il dispositivo usando i dati del tuo viso</string>
-     <string name="face_data_manage_unlock_slide_msg">Sostituisci i collegamenti dello slider con lo sblocco con il viso</string>
+     <string name="face_data_manage_unlock_msg">Sblocca il dispositivo usando i dati del tuo volto</string>
+     <string name="face_data_manage_unlock_slide_msg">Sostituisci i collegamenti dello slider con lo sblocco con il volto</string>
      <string name="face_data_manage_unlock_title">Sblocca utilizzando i dati del volto</string>
      <string name="face_data_siggesstion_next">Prossimo</string>
      <string name="face_data_siggesstion_next_time">Prossimo (%ds)</string>
      <string name="face_data_suggesstion_first">Problema di sicurezza: Lo sblocco con il volto è meno sicuro di un PIN, una password o una sequenza. Il tuo dispositivo potrebbe essere sbloccato con la tua foto, così come da persone o oggetti con aspetto simile.</string>
-     <string name="face_data_suggesstion_second">"Assicurati che tutte le parti del tuo viso non siano coperte da oggetti e siano chiaramente visibili. Anche il tuo volto dovrebbe essere ben illuminato."</string>
-     <string name="face_unlock_adjust_distance">Assicurati che la distanza tra il tuo viso e lo schermo sia ottimale.</string>
+     <string name="face_data_suggesstion_second">"Assicurati che tutte le parti del tuo volto non siano coperte da oggetti e siano chiaramente visibili. Anche il tuo volto dovrebbe essere ben illuminato."</string>
+     <string name="face_unlock_adjust_distance">Assicurati che la distanza tra il tuo volto e lo schermo sia ottimale.</string>
      <string name="face_unlock_be_on_the_screen">Tieni il fermo il dispositivo davanti al tuo volto</string>
-     <string name="face_unlock_by_notification_screen_on_msg">"È possibile sbloccare il dispositivo utilizzando i dati del viso ogni volta che lo schermo si illumina dopo l'arrivo di una notifica. Questo potrebbe velocizzare lo scaricamento della batteria."</string>
-     <string name="face_unlock_by_notification_screen_on_title">Consenti sblocco con il viso quando lo schermo si illumina</string>
+     <string name="face_unlock_by_notification_screen_on_msg">"È possibile sbloccare il dispositivo utilizzando i dati del volto ogni volta che lo schermo si illumina dopo l'arrivo di una notifica. Questo potrebbe velocizzare lo scaricamento della batteria."</string>
+     <string name="face_unlock_by_notification_screen_on_title">Consenti sblocco con il volto quando lo schermo si illumina</string>
      <string name="face_unlock_check_failed">Impossibile riconoscerti</string>
      <string name="face_unlock_close_screen">Mantieniti in prossimità dello schermo</string>
      <string name="face_unlock_down">Alza la testa</string>
@@ -1577,7 +1577,7 @@ scorri in basso per bloccare"</string>
      <string name="structure_face_unlock_model_other_title">Riconoscimento del volto</string>
      <string name="structure_face_unlock_not_same_person">Dovrai completare tutti i passaggi da solo. Non sostituirti a nessuno durante la scansione.</string>
      <string name="structure_face_unlock_really_person">Sembra che tu abbia sostituito il tuo volto con un oggetto in fase di scansione.</string>
-     <string name="structure_face_unlock_tof_covered">"Impossibile aggiungere i dati del viso. Allontanati un pó dallo schermo."</string>
+     <string name="structure_face_unlock_tof_covered">"Impossibile aggiungere i dati del volto. Allontanati un pó dallo schermo."</string>
      <string name="switch_bar_off">Disattiva</string>
      <string name="switch_bar_on">Attiva</string>
      <string name="switch_system_user">Apri Primo Spazio</string>

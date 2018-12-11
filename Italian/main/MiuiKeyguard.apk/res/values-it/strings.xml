@@ -2,7 +2,7 @@
 <resources>
      <string name="accessibility_enter_lock_wallpaper">Tocca per aprire lo sfondo Carousel</string>
      <string name="app_name">Gestione blocco tasti</string>
-     <string name="btn_camera">Inserisci il tuo viso</string>
+     <string name="btn_camera">Inserisci il tuo volto</string>
      <string name="change_to_ac_charging">Passato a carica senza fili</string>
      <string name="click_to_enter_text">Tocca per vedere</string>
      <string name="confirm_pin_msg">Inserisci di nuovo il PIN</string>
@@ -17,10 +17,10 @@
      <string name="face_data_input_camera_ok">Caricamento Fotocamera…</string>
      <string name="face_data_input_cancel">Annulla</string>
      <string name="face_data_input_cancel_msg">Impossibile aggiungere dati del volto</string>
-     <string name="face_data_input_msg">Posiziona il viso nella cornice</string>
+     <string name="face_data_input_msg">Posiziona il volto nella cornice</string>
      <string name="face_data_input_ok">Fatto</string>
      <string name="face_data_input_ok_msg">Attiva lo schermo per sbloccare utilizzando i tuoi dati del volto.</string>
-     <string name="face_data_input_ok_msg_angle">"Sblocca il dispositivo con il tuo viso quando lo schermo è attivo.
+     <string name="face_data_input_ok_msg_angle">"Sblocca il dispositivo con il tuo volto quando lo schermo è attivo.
 (Registra i tuoi dati del volto da tutti gli angoli richiesti.)​"</string>
      <string name="face_data_input_ok_title">Aggiunto correttamente</string>
      <string name="face_data_input_title">Aggiungi dati del volto</string>
@@ -36,9 +36,9 @@
      <string name="face_data_siggesstion_next">Avanti</string>
      <string name="face_data_siggesstion_next_time">Avanti(%ds)</string>
      <string name="face_data_suggesstion_first">"Problemi di sicurezza: lo sblocco con riconoscimento facciale è meno sicuro dell'uso di PIN, password o sequenza. Il dispositivo potrebbe essere sbloccato con una tua foto o da persone o oggetti che ti assomigliano."</string>
-     <string name="face_data_suggesstion_second">Assicurati che nessuna parte del tuo viso sia coperta da oggetti e sia chiaramente visibile. Il tuo viso deve essere anche ben illuminato.</string>
-     <string name="face_unlock_adjust_distance">Assicurati che la distanza tra il telefono ed il tuo viso sia ottimale.</string>
-     <string name="face_unlock_be_on_the_screen">Posiziona il dispositivo davanti al tuo viso</string>
+     <string name="face_data_suggesstion_second">Assicurati che nessuna parte del tuo volto sia coperta da oggetti e sia chiaramente visibile. Il tuo volto deve essere anche ben illuminato.</string>
+     <string name="face_unlock_adjust_distance">Assicurati che la distanza tra il telefono ed il tuo volto sia ottimale.</string>
+     <string name="face_unlock_be_on_the_screen">Posiziona il dispositivo davanti al tuo volto</string>
      <string name="face_unlock_by_notification_screen_on_msg">Puoi sbloccare il dispositivo usando i dati del volto ogni volta che lo schermo si attiva al ricevimento di notifiche. Questo potrebbe consumare maggiormente la batteria.</string>
      <string name="face_unlock_by_notification_screen_on_title">Consenti il riconoscimento facciale quando lo schermo si attiva</string>
      <string name="face_unlock_check_failed">Non è stato possibile riconoscerti</string>
@@ -53,7 +53,7 @@
      <string name="face_unlock_open_eye">"Apri un po' di più gli occhi"</string>
      <string name="face_unlock_passwork">Usa la password</string>
      <string name="face_unlock_passwork_and_fingerprint">Usa la password o i dati del volto</string>
-     <string name="face_unlock_quality">Impossibile vedere chiaramente il tuo viso</string>
+     <string name="face_unlock_quality">Impossibile vedere chiaramente il tuo volto</string>
      <string name="face_unlock_reenter_content">"L'algoritmo del Riconoscimento Facciale è stato aggiornato. Tocca per registrare di nuovo i dati del volto."</string>
      <string name="face_unlock_reenter_title">Registra di nuovo i tuoi dati del volto.</string>
      <string name="face_unlock_reveal_eye">Rendi gli occhi visibili</string>
