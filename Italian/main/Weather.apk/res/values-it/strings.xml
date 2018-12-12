@@ -6,6 +6,7 @@
      <string name="act_find_city_hint">Inserisci località</string>
      <string name="act_find_city_hot_attractions_title">Luoghi popolari</string>
      <string name="act_find_city_hot_city_title">Città frequenti</string>
+     <string name="act_location_error_to_find_city">Impossibile recuperare le informazioni sulla posizione. Puoi aggiungere manualmente la città"</string>
      <string name="act_set_city_find_side">Localizzazione in corso…</string>
      <string name="act_set_city_find_side_error">Impossibile trovare la località.</string>
      <string name="act_weather_find_city_added">Aggiunto</string>
@@ -105,6 +106,9 @@
 trascina verso il basso per aggiornare o verifica le impostazioni di rete"</string>
      <string name="data_provided_by">Fornito da</string>
      <string name="edit_city">Modifica</string>
+     <string name="empty_view_net_loading">Aggiornamento…</string>
+     <string name="empty_view_net_unavailable">Impossibile collegarsi alla rete</string>
+     <string name="empty_view_refresh">Prova di nuovo</string>
      <string name="eu_region_version_first_start_network_msg">"Utilizzando questo prodotto, l'utente accetta che Xiaomi raccoglierà, elaborerà e utilizzerà le informazioni personali dell'utente, comprese le coordinate delle città che si cercano e altri tipi di dati specificati nella nostra Informativa sulla Privacy. Fai riferimento alla nostra Informativa sulla Privacy per sapere come raccogliamo ed elaboriamo le informazioni. Toccando \"Accetto\", accetti che Xiaomi %1$s e %2$s."</string>
      <string name="feedback_cloudy">Nuvoloso</string>
      <string name="feedback_foggy">Nebbioso</string>
@@ -124,12 +128,14 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="hourly_forecast_date">d/M</string>
      <string name="hourly_forecast_title_24_hours_desc">Previsioni per 24 ore</string>
      <string name="hourly_forecast_title_hourly_desc">Previsioni orarie</string>
+     <string name="index_item_downloading">In download</string>
      <string name="index_item_experience_now">Installa adesso</string>
      <string name="index_item_install_dialog" />
      <string name="index_item_install_dialog_cancel" />
      <string name="index_item_install_dialog_open" />
      <string name="index_item_install_now">Installa adesso</string>
      <string name="index_item_installing">Installazione</string>
+     <string name="index_item_installing2">Installazione</string>
      <string name="indices_desc_humidity">Umidità %1$s%%</string>
      <string name="indices_desc_pressure">%1$s hPa</string>
      <string name="indices_title_feel">Percepita</string>
@@ -143,6 +149,7 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="it_is_going_to_rain">Sta iniziando a piovere</string>
      <string name="locate_fail_detail_err">"Impossibile localizzare il dispositivo
 Tocca lo schermo per aggiungere manualmente o riprovare"</string>
+     <string name="location_provider_btn_text">Attiva i servizi di localizzazione</string>
      <string name="location_tag">Individua</string>
      <string name="menu_location">Località</string>
      <string name="menu_speaker">Trasmissione voce</string>

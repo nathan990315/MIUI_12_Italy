@@ -124,7 +124,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="latest_backup_time_loading">Caricamento…</string>
      <string name="load_backup_failed">Caricamento backup non riuscito</string>
      <string name="loading_user_backup">Caricamento backup utente…</string>
-     <string name="main_space">Spazio principale</string>
      <string name="managespace_delete_backup">Elimina backup</string>
      <string name="menu_item_managespace">Gestisci spazio</string>
      <string name="menu_item_sort">Ordina per</string>
@@ -142,6 +141,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="open_wifi">Attiva Wi-Fi adesso</string>
      <string name="open_wifi_description">Collegato ad una rete Wi-Fi per ripristinare le applicazioni</string>
      <string name="open_wifi_setting">Impostazioni Wi-Fi</string>
+     <string name="other_device_main_space">First space</string>
+     <string name="other_device_second_space">Second space</string>
      <string name="process_whole_recovery">Ripristino di \"%s\"</string>
      <string name="provision_error_connect_msg">Puoi testare la rete e provare di nuovo. La funzionalità di backup non sarà disponibile senza una connessione valida.</string>
      <string name="provision_error_connect_title">Impossibile connettersi</string>
@@ -168,8 +169,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="restore_task_in_process">Ripristino…</string>
      <string name="restore_unfinished">Ripristino incompleto, riprova più tardi</string>
      <string name="retry">Riprova</string>
-     <string name="second_space">Secondo Spazio</string>
-     <string name="self_device">"Questo telefono "</string>
+     <string name="self_device_main_space">Lo Spazio Primario di questo telefono</string>
+     <string name="self_device_second_space">Lo Spazio Secondario di questo telefono</string>
      <string name="settings_backup">Backup impostazioni</string>
      <string name="size_unknown">Dimensione sconosciuta</string>
      <string name="start_backup_to_micloud">Esegui backup su Mi Cloud</string>

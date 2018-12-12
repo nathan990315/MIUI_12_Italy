@@ -1373,8 +1373,8 @@ Dato che l'utilizzo dei dati è misurato dal tuo dispositivo e che il tuo operat
      <string name="data_usage_other_apps">"Altre app incluse nell'utilizzo"</string>
      <string name="data_usage_pick_cycle_day">Giorno del mese in cui reimpostare ciclo di utilizzo dei dati:</string>
      <string name="data_usage_received_sent">%1$s ricevuti, %2$s inviati</string>
-     <string name="data_usage_restrict_background">Se limiti i dati cellulare in background alcuni servizi e app non funzionalitàranno senza connessione a una rete Wi-Fi.</string>
-     <string name="data_usage_restrict_background_multiuser">"Se limiti i dati cellulare in background alcuni servizi e app non funzionalitàranno senza una rete Wi-Fi. Questa impostazione influisce su tutti gli utenti di questo dispositivo."</string>
+     <string name="data_usage_restrict_background">Se limiti i dati cellulare in background alcuni servizi e app non funzionalità saranno senza connessione a una rete Wi-Fi.</string>
+     <string name="data_usage_restrict_background_multiuser">"Se limiti i dati cellulare in background alcuni servizi e app non funzionalità saranno senza una rete Wi-Fi. Questa impostazione influisce su tutti gli utenti di questo dispositivo."</string>
      <string name="data_usage_restrict_background_title">Limitare i dati in background?</string>
      <string name="data_usage_restrict_denied_dialog">La limitazione dei dati in background è possibile solo se hai impostato un limite per i dati cellulare.</string>
      <string name="data_usage_summary_format">%1$s di dati utilizzati</string>
@@ -1444,6 +1444,8 @@ avviso"</string>
      <string name="default_for_work">Predefinito per il lavoro</string>
      <string name="default_input_method">Scegli tastiera</string>
      <string name="default_keyboard_layout">Predefinito</string>
+     <string name="default_launcher_set_jeejen_message">Tocca il tasto Home per configurare Jeejen</string>
+     <string name="default_launcher_set_system_message">Tocca il tasto Home per ripristinare il launcher predefinito</string>
      <string name="default_launcher_title">Launcher predefinito</string>
      <string name="default_map_app_title">App Mappe</string>
      <string name="default_notification_assistant">Assistente notifiche</string>
@@ -1686,6 +1688,10 @@ avviso"</string>
      <string name="dtmf_tone_enable_title">Toni tastierino</string>
      <string name="dual_setting_simcard1">SIM 1</string>
      <string name="dual_setting_simcard2">SIM 2</string>
+     <string name="dump_log">Raccogli log basati sui problemi</string>
+     <string name="dump_log_summary">"Questa funzione è progettata per generare 284 log nelle verisoni Alpha e Beta di MIUI. Utilizzalo con attenzione.
+Puoi vedere i log generati in File Manager."</string>
+     <string name="dump_log_title">About this feature</string>
      <string name="edge_mode_back">Vai indietro</string>
      <string name="edge_mode_back_summary">Tocca due volte il bordo per tornare indietro</string>
      <string name="edge_mode_clean">Svuota la cache di sistema</string>
@@ -1826,7 +1832,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="eq_preset_create">Crea</string>
      <string name="eq_preset_format">Preselezione utente %d</string>
      <string name="eq_preset_hint">Nome effetto</string>
-     <string name="eq_preset_rename">Rinomima</string>
+     <string name="eq_preset_rename">Rinomina</string>
      <string name="eq_preset_select">Imposta una preselezione</string>
      <string name="eq_rock">Rock</string>
      <string name="equalizer">Equalizzatore</string>
@@ -2818,6 +2824,8 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_allow_vibrate">Vibrazione</string>
      <string name="miui_data_usage_menu_metered">Hotspot dati cellulare</string>
      <string name="miui_experience_optimization">Attiva ottimizzazione MIUI</string>
+     <string name="miui_ime_xiaoai_voice_hint">Faster, more convenient way to enter text</string>
+     <string name="miui_ime_xiaoai_voice_title">Mi AI voice input</string>
      <string name="miui_lab_ai_cloud_closed">Precaricamento AI non ancora disponibile.</string>
      <string name="miui_lab_ai_preload_desc">Il precaricamento AI aumenta la velocità di avvio delle app</string>
      <string name="miui_lab_ai_preload_title">Precaricamento AI</string>
@@ -3291,6 +3299,7 @@ ed esegui il software."</string>
      <string name="other_relative">Altri permessi</string>
      <string name="other_sound_category_preference_title">Altri suoni e vibrazioni</string>
      <string name="other_sound_settings">Altri suoni</string>
+     <string name="others">Other</string>
      <string name="overlay_display_devices_title">Simula schermi secondari</string>
      <string name="overlay_settings">Disegno su altre app</string>
      <string name="owner_info_settings_edit_text_hint">Testo da visualizzare sulla Schermata di blocco</string>
@@ -4984,7 +4993,7 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="tethering_footer_info">Usa hotspot e tethering per fornire connessione Internet ad altri dispositivi through tramite la tua connessione dati su rete mobile.</string>
      <string name="tethering_help_button_text">Guida</string>
      <string name="tethering_settings_not_available">Le impostazioni Tethering non sono disponibili per questo utente</string>
-     <string name="the_way_of_wakeup_voice_assistant_summary">Attivazione dell\'Assistente vocale in modalità a tutto schermo (senza tasti virtuali)</string>
+     <string name="the_way_of_wakeup_voice_assistant_summary">"Attivazione dell\'Assistente vocale in modalità a tutto schermo (senza tasti virtuali)"</string>
      <string name="theme_settings_title">Temi</string>
      <string name="thememanager_not_found">"Impossibile aprire l'app Temi. Assicurati che l'app sia installata."</string>
      <string name="three_gesture_down">Scorri con tre dita</string>
@@ -5975,7 +5984,7 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="wifi_status">Stato</string>
      <string name="wifi_status_test">Stato Wi-Fi</string>
      <string name="wifi_stopping">Disattivazione Wi-Fi…</string>
-     <string name="wifi_subnet_mask">Mashera di sottorete</string>
+     <string name="wifi_subnet_mask">Maschera di sottorete</string>
      <string name="wifi_suspend_efficiency_title">"Migliora l'efficienza"</string>
      <string name="wifi_suspend_optimizations">Ottimizzazione Wi-Fi</string>
      <string name="wifi_suspend_optimizations_summary">"Riduci al minimo l'utilizzo della batteria quando il Wi-Fi è attivo"</string>

@@ -884,7 +884,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="gamebooster_lowbattery_notification_title">Batteria inferiore al 5%</string>
      <string name="gamebooster_main_activity_back">Torna a Turbo videogiochi</string>
      <string name="gamebooster_network_dialog_message">"Consentire all'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzionalità di Turbo videogiochi?"</string>
-     <string name="gamebooster_network_dialog_title">Alcune funzionlità non sono disponibili</string>
+     <string name="gamebooster_network_dialog_title">Alcune funzionalità non sono disponibili</string>
      <string name="gamebox_app_not_find">"Installa prima l'app."</string>
      <string name="gamebox_qq_not_find">Installa QQ e riprova.</string>
      <string name="gamebox_type_close">Non mostrare</string>
@@ -1080,7 +1080,7 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continuerai ad utilizzare l
      <string name="lock_screen_warning_switch_title">Mostra avvisi sulla schermata di blocco</string>
      <string name="lock_screen_warning_value">Avviso utilizzo dati</string>
      <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Impossibile riconoscere impronta, riprova.</string>
-     <string name="lockpattern_access_need_to_unlock_wrong_pattern">Password non corretta, riprovae.</string>
+     <string name="lockpattern_access_need_to_unlock_wrong_pattern">Password non corretta, riprovare.</string>
      <string name="lockpattern_confirm_button_text">OK</string>
      <string name="lockpattern_continue_button_text">Avanti</string>
      <string name="lockpattern_need_to_confirm">Disegna nuovamente la sequenza per confermare</string>
@@ -1606,10 +1606,8 @@ dall'operatore"</string>
      <string name="pref_about_traffic_title">Impostazioni utilizzo dati</string>
      <string name="pref_adjust_data_usage">Modello messaggio operatore</string>
      <string name="pref_adjust_data_usage_summary">Dopo aver cambiato il modello di calibrazione, MIUI lo utilizzerà per recuperare statistiche dal tuo operatore</string>
-     <string name="pref_adjust_data_usage_value">Modificato</string>
      <string name="pref_adjust_traffic_data">Imposta consumo dati mobili</string>
      <string name="pref_allow_connect_network_title">Roaming dati estero</string>
-     <string name="pref_auto_adjust_settings">Impostazioni di sincronizzazione automatica di utilizzo dei dati</string>
      <string name="pref_auto_adjust_traffic">Sincronizza automaticamente le statistiche di utilizzo dati</string>
      <string name="pref_automatic_adjust">Sincronizza utilizzo dati</string>
      <string name="pref_avaible_traffic">Piano dati</string>
@@ -1621,7 +1619,6 @@ dall'operatore"</string>
      <string name="pref_category_title_module_settings">Impostazioni regole</string>
      <string name="pref_category_title_other">Impostazioni aggiuntive</string>
      <string name="pref_category_title_securitycenter_settings">Impostazioni Centro sicurezza</string>
-     <string name="pref_confirm_operator_setting">Assicurati che le informazioni siano corrette</string>
      <string name="pref_correction_setting">Impostazioni modello di calibrazione</string>
      <string name="pref_correction_setting_switch">Utilizza modello di calibrazione personalizzato</string>
      <string name="pref_correction_sms_content">Modello di calibrazione</string>
