@@ -18,8 +18,10 @@ questa funzionalità verrà aggiunta automaticamente al Secondo Spazio."</string
      <string name="app_name">Componente di Sicurezza di Sistema</string>
      <string name="back">Indietro</string>
      <string name="bind_device">Aggiungi dispositivi</string>
+     <string name="button_input_password">Enter password</string>
      <string name="button_text_next_step">Avanti</string>
      <string name="button_text_next_step_timer">Prossimo passaggio (%d)</string>
+     <string name="button_touch">Put your finger on the sensor</string>
      <string name="can_not_delete_when_calling">Impossibile eliminare gli spazi durante una chiamata</string>
      <string name="can_not_switch_when_calling">Impossibile cambiare spazio durante una chiamata</string>
      <string name="can_not_switch_when_green_kid_active">Il passaggio al Secondo Spazio è limitato dal controlli genitori</string>
@@ -84,6 +86,8 @@ per essere in grado di vederli sempre"</string>
      <string name="dialog_title">Attenzione</string>
      <string name="dialog_title_service_error">Errore de server</string>
      <string name="dialog_undo_negative">Non revocare</string>
+     <string name="dialog_verify">Verify your fingerprint</string>
+     <string name="dialog_verify_fingerprint_retry">"Couldn't verify fingerprint. Try again."</string>
      <string name="dir_switch_out_all_photos">Galleria Secondo Spazio</string>
      <string name="disable">Disattiva</string>
      <string name="do_not_ask">Non chiedere più</string>

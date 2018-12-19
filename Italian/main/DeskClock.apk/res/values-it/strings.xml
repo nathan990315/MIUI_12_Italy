@@ -34,6 +34,7 @@
      <string name="cancel">Ferma</string>
      <string name="channel_name_alarm">Sveglia</string>
      <string name="channel_name_timer">Timer</string>
+     <string name="check_theme_app_install">Make sure the Themes app is installed on your device.</string>
      <string name="close_alarm">Disattiva</string>
      <string name="common_settings">Impostazioni</string>
      <string name="confirm_abort">Annullare</string>
@@ -99,11 +100,8 @@
      <string name="life_post_wake_up_item_time_title">Orario di sveglia</string>
      <string name="life_post_wake_up_percentage_title">Mi Fan dietro di te</string>
      <string name="life_post_wake_up_time_title">Orario di sveglia</string>
-     <string name="life_post_weather_degree_invalid">--</string>
-     <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
-     <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
-     <string name="life_post_weather_description_third">%1$s, %2$s</string>
      <string name="life_post_weather_invalid">Impossibile recuperare informazioni meteo, tocca per riprovare</string>
+     <string name="life_post_weather_no_network">Connect to the network to update weather info</string>
      <string name="life_post_weather_temperature_centigrade">°</string>
      <string name="loading_ringtone">Caricamento suoneria…</string>
      <string name="menu_add_worldclock">Fuso orario</string>
@@ -171,7 +169,7 @@
      <string name="stopwatch_title">Cronometro</string>
      <string name="system_time_setting">Impostazioni</string>
      <string name="system_time_settings_category_title">Impostazioni sveglia</string>
-     <string name="temperature_unit">%1$s°</string>
+     <string name="temperature_unit">°C</string>
      <string name="time">Orario</string>
      <string name="time_picker_colon">:</string>
      <string name="time_picker_label_hour">H</string>
