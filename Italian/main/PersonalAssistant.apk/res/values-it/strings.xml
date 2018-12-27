@@ -198,7 +198,7 @@
      <string name="cta_dialog_miot_text_all">Per garantire il normale funzionamento, Mi Home potrebbe richiedere informazioni sula tua rete, posizione, autorizzazione per attivare il Bluetooth, utilizzare la rete cellulare, il microfono ed accedere ai contatti. Confermi?</string>
      <string name="cta_dialog_negative">Esci</string>
      <string name="cta_dialog_positive">"D'accordo"</string>
-     <string name="cta_dialog_text_all">"Per utilizzare App vault, devi leggere ed accettare %1$s\"Accordo utente\" %2$s e %3$s \"Informativa Privacy\" %4$s. Il servizio richiede una connessione Internet e l'accesso ai servizi di localizzazione. Sei d'accordo?"</string>
+     <string name="cta_dialog_text_all">"Per utilizzare Assistente App, devi leggere ed accettare %1$s\"Accordo utente\" %2$s e %3$s \"Informativa Privacy\" %4$s. Il servizio richiede una connessione Internet e l'accesso ai servizi di localizzazione. Sei d'accordo?"</string>
      <string name="cta_dialog_title">Termini e Condizioni</string>
      <string name="cta_negative">Chiudi</string>
      <string name="cta_positive">Dettagli</string>
@@ -770,7 +770,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="payment_pref_source_wechat_summary">Ottieni info pagamento da WeChat</string>
      <string name="payment_pref_source_wechat_title">WeChat</string>
      <string name="payment_privacy_dialog_cancel">Esci</string>
-     <string name="payment_privacy_dialog_message">"\"I miei pagamenti\" consente di raccogliere le fatturazioni dalle principali app di pagamento in un unico punto. Tutte le tue informazioni di pagamento saranno crittografate e archiviate in modo sicuro sul tuo dispositivo. Non verranno sincronizzate con Mi Cloud o caricate su qualsiasi altro server. Puoi disattivare \"I miei pagamenti\" dalle Impostazioni o semplicemente rimuovendo questa scheda da App Vault per interrompere l'utilizzo di questo servizio. Continuare?"</string>
+     <string name="payment_privacy_dialog_message">"\"I miei pagamenti\" consente di raccogliere le fatturazioni dalle principali app di pagamento in un unico punto. Tutte le tue informazioni di pagamento saranno crittografate e archiviate in modo sicuro sul tuo dispositivo. Non verranno sincronizzate con Mi Cloud o caricate su qualsiasi altro server. Puoi disattivare \"I miei pagamenti\" dalle Impostazioni o semplicemente rimuovendo questa scheda da Assistente App per interrompere l'utilizzo di questo servizio. Continuare?"</string>
      <string name="payment_privacy_dialog_ok">Concordo</string>
      <string name="payment_privacy_dialog_title">\"I miei pagamenti\" Privacy Policy</string>
      <string name="payment_record_add">Aggiungi pagamento</string>
@@ -781,7 +781,7 @@ Verifica il tuo numero di tracciabilità"</string>
      <string name="payment_record_menu_select">Seleziona</string>
      <string name="payment_report_failed_record_dialog_cancel">Indietro</string>
      <string name="payment_report_failed_record_dialog_message">"Segnala le fatture non elaborate per aiutarci a rendere il calcolo dei pagamenti più preciso.
-&lt;b>Gli elementi che condividerai verranno utilizzati solo per migliorare App vault.&lt;/b>"</string>
+&lt;b>Gli elementi che condividerai verranno utilizzati solo per migliorare Assistente App.&lt;/b>"</string>
      <string name="payment_report_failed_record_dialog_ok">Segnala</string>
      <string name="payment_setting">impostazione</string>
      <string name="payment_total_month_desc">Questo mese</string>
