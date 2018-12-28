@@ -38,6 +38,7 @@
      <string name="accessibility_action_divider_top_full">Schermo intero superiore</string>
      <string name="accessibility_airplane_mode">Modalità aereo.</string>
      <string name="accessibility_ambient_display_charging">Ricarica</string>
+     <string name="accessibility_aspect_button">Fullscreen mode</string>
      <string name="accessibility_assistant">Assistente Touch</string>
      <string name="accessibility_back">Indietro</string>
      <string name="accessibility_battery_details">Apri dettagli batteria</string>
@@ -288,6 +289,10 @@
      <string name="app_process_limit_title">Limitatore processi in background</string>
      <string name="as_important">Importante</string>
      <string name="as_unimportant">Non importante</string>
+     <string name="aspect_cancel">Cancel</string>
+     <string name="aspect_message">This app will be launched again in fullscreen mode. If you encounter any issues, you can turn off fullscreen mode for this app in Settings > Full screen display > Fullscreen mode.</string>
+     <string name="aspect_ok">OK</string>
+     <string name="aspect_title">Fullscreen mode</string>
      <string name="audio_effect_custom">Imposta</string>
      <string name="audio_effect_info">Ottimizza audio</string>
      <string name="audio_effect_settings">Imposta tipologia di cuffie</string>

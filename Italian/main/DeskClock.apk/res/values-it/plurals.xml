@@ -4,6 +4,10 @@
         <item quantity="other">Sospensione per %d minuti.</item>
         <item quantity="one">Sospensione per %d minuto.</item>
      </plurals>
+     <plurals name="day">
+        <item quantity="other">%d days</item>
+        <item quantity="one">%d day</item>
+     </plurals>
      <plurals name="delete_alarm_confirm">
         <item quantity="other">Eliminare le sveglie selezionate?</item>
         <item quantity="one">Eliminare questa sveglia?</item>
@@ -11,6 +15,18 @@
      <plurals name="delete_timezone_confirm">
         <item quantity="other">Eliminare i fusi orari selezionati?</item>
         <item quantity="one">Eliminare questo fuso orario?</item>
+     </plurals>
+     <plurals name="hour">
+        <item quantity="other">%d hours</item>
+        <item quantity="one">%d hour</item>
+     </plurals>
+     <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d days</item>
+        <item quantity="one">%1$d day</item>
+     </plurals>
+     <plurals name="minute">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d minute</item>
      </plurals>
      <plurals name="second">
         <item quantity="other">%d secondi</item>
