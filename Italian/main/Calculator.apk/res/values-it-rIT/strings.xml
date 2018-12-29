@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="allow">Agree</string>
+     <string name="allow">Consento</string>
      <string name="angle">grad</string>
      <string name="app_name">Calcolatrice</string>
      <string name="app_name_danfa">Calcolatrice Mi</string>
@@ -48,12 +48,12 @@
      <string name="description_content">"Oltre alle funzionalità base, l'app Calcolatrice funziona anche da multi convertitore, calcolo finanziamenti e tasse. Assicurati di non aver necessità di queste funzionalità prima di eliminare l'app"</string>
      <string name="description_title">Informazioni</string>
      <string name="devided_by_zero_reminder_message">Impossibile dividere per zero</string>
-     <string name="dialog_privacy_content">Besides the basic features of a calculator, our app also contains a scientific calculator and a multi-purpose converter. Some features need to connect to the internet to work normally. You must read and agree to our %1$s and %2$s before using Calculator.</string>
-     <string name="dialog_privacy_title">Terms and Conditions</string>
-     <string name="dialog_rating_desc_ask">How do you feel about Calculator?</string>
-     <string name="dialog_rating_desc_less">Could you give us your feedback as well?</string>
-     <string name="dialog_rating_desc_perfect">Nice! Rate Calculator in App Store as well?</string>
-     <string name="dialog_rating_title">Rate our app</string>
+     <string name="dialog_privacy_content">In aggiunte alle funzioni base di una calcolatrice, la nostra app contiene anche quelle di una calcolatrice scentifica ed un covertitore multifunzionale. Alcune funzioni necessitano di una connessione internet per funzionare correttamente. Devi l eggere ed accettare i nostri %1$s e %2$s prima di utilizzare la Calcolatrice.</string>
+     <string name="dialog_privacy_title">Termini e Condizioni</string>
+     <string name="dialog_rating_desc_ask">Cosa te ne are di questa CAlcolatrice?</string>
+     <string name="dialog_rating_desc_less">Puoi darci anche il tuo feedback?</string>
+     <string name="dialog_rating_desc_perfect">"Ottimo! Vuoi valutarla anche nell'App Store?"</string>
+     <string name="dialog_rating_title">Valuta la nostra app</string>
      <string name="digit0">0</string>
      <string name="digit1">1</string>
      <string name="digit2">2</string>
@@ -127,11 +127,11 @@
      <string name="lgDesc">logaritmo</string>
      <string name="ln">ln</string>
      <string name="lnDesc">logaritmo naturale</string>
-     <string name="loading_fail_message_no_network">"Couldn't connect to the network. Tap here to try again."</string>
-     <string name="loading_fail_refresh">Refresh</string>
-     <string name="loading_message">Loading app…</string>
-     <string name="loading_slogan">Use apps without installing them</string>
-     <string name="loading_tips">Downloaded settings successfully. Launch Calculator again to apply.</string>
+     <string name="loading_fail_message_no_network">"Impossibile collegarsi alla rete. Tocca qui per provare di nuovo."</string>
+     <string name="loading_fail_refresh">Aggiorna</string>
+     <string name="loading_message">Caricamento app…</string>
+     <string name="loading_slogan">Usa le app senza installarle</string>
+     <string name="loading_tips">Impostazioni scaricate correttamente. Riavvia la Calcolatrice per apllicare.</string>
      <string name="loan_edittext_hint_commercial">Mutui commerciali</string>
      <string name="loan_edittext_hint_commercial_combined">Mutui commerciali</string>
      <string name="loan_edittext_hint_fund">Mutui previdenziali</string>
@@ -216,14 +216,14 @@
      <string name="preference_follow_wechat_title">WeChat</string>
      <string name="preference_follow_weibo_summary">\@MIUI</string>
      <string name="preference_follow_weibo_title">Sina Weibo</string>
-     <string name="preference_help">Help &amp; feedback</string>
+     <string name="preference_help">Aiuto e feedback</string>
      <string name="preference_other">Altro</string>
      <string name="preference_privacy_title">Informativa sulla Privacy</string>
-     <string name="preference_rating_title">Rate our app</string>
+     <string name="preference_rating_title">Valuta la nostra app</string>
      <string name="preference_settings">Impostazioni</string>
      <string name="preference_use_degress_summary">Sostituisci i radianti con gli angoli nelle funzioni trigonometriche</string>
      <string name="preference_use_degress_title">Utilizza angoli</string>
-     <string name="privacy_policy">Privacy Policy</string>
+     <string name="privacy_policy">Informativa Privacy</string>
      <string name="radDesc">Radiali</string>
      <string name="radian">rad</string>
      <string name="rate_data_provider">Tassi di interesse forniti da HeXun</string>
@@ -285,7 +285,7 @@
      <string name="tax_location">Posizione</string>
      <string name="tax_medical">Medica</string>
      <string name="tax_param_error">Inserisci il tasso di interesse corretto</string>
-     <string name="tax_rate_provider">Data provided by hexun.com and East Money</string>
+     <string name="tax_rate_provider">Dati frniti da hexun.com e East Money</string>
      <string name="tax_result_real_get">Reale</string>
      <string name="tax_social_insurance">Assicurazione personale</string>
      <string name="tax_thershold_foreign">%s (straniero)</string>
@@ -301,7 +301,7 @@
      <string name="times" />
      <string name="title_bar">Convertitore di lunghezze</string>
      <string name="to_num">62.7</string>
-     <string name="unKnow_error">Unknown error</string>
+     <string name="unKnow_error">Errore sconosciuto</string>
      <string name="unit_data_default_area_0">sq.m</string>
      <string name="unit_data_default_area_1">sq.cm</string>
      <string name="unit_data_default_currency_0">CNY</string>
@@ -561,7 +561,7 @@
      <string name="unit_year">Y</string>
      <string name="unit_year_format">Anno %s</string>
      <string name="unit_yuan">CNY</string>
-     <string name="user_agreement">User Agreement</string>
+     <string name="user_agreement">Accordo utente</string>
      <string name="voiceDesc">Voice controls</string>
      <string name="wf_word_figure">Caratteristiche finanziarie</string>
      <string name="word_figure_guide_text">Premi e tieni premuto il testo per eseguire conversione tra i casi.</string>

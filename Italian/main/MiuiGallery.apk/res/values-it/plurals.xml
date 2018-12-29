@@ -57,8 +57,8 @@
         <item quantity="one">Ripristina backup tra %d ora</item>
      </plurals>
      <plurals name="backup_file_over_size_title">
-        <item quantity="other">%d items are too big to back up</item>
-        <item quantity="one">%d item is too big to back up</item>
+        <item quantity="other">%d elementi sono troppo grandi per eseguirne il backup</item>
+        <item quantity="one">%d elemento troppo grande per eseguirne il backup</item>
      </plurals>
      <plurals name="backup_pause_desc">
         <item quantity="other">%d foto e video | Pausa</item>
@@ -265,8 +265,8 @@
         <item quantity="one">Non è stato eseguito il backup di %d foto o video</item>
      </plurals>
      <plurals name="sync_oversized_count">
-        <item quantity="other">%d items are too big to back up</item>
-        <item quantity="one">%d item is too big to back up</item>
+        <item quantity="other">%d elementi sono troppo grandi per eseguirne il backup</item>
+        <item quantity="one">%d elemento troppo grande per eseguirne il backup</item>
      </plurals>
      <plurals name="sync_total_count">
         <item quantity="other">%d elementi</item>

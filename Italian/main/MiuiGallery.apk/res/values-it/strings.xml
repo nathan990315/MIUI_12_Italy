@@ -88,8 +88,8 @@
      <string name="alert_secret_album_message">"Puoi sfogliare l'album Mi Cloud nell'album privato."</string>
      <string name="alert_secret_album_message_lower_case">" scorri in basso nell'Album per vedere gli album nascosti."</string>
      <string name="alert_secret_album_title">Album Privato</string>
-     <string name="alert_selection_description">AI marks the best photo among similar images with a star.</string>
-     <string name="alert_selection_title">Selected by AI</string>
+     <string name="alert_selection_description">AI segnalerà con una stella la foto migliore tra quelle simili.</string>
+     <string name="alert_selection_title">Selezionate da AI</string>
      <string name="all_faces">Tutte le foto con persone</string>
      <string name="all_items_synced">"E' stato eseguito il backup di tutti gli album su Mi Cloud"</string>
      <string name="all_video_album_display_name">Tutti i video</string>
@@ -151,7 +151,7 @@
      <string name="backup_device_space_low_title">Spazio di archiviazione insufficiente</string>
      <string name="backup_dirty_num">Totale: %s</string>
      <string name="backup_dirty_tip">Backup di foto e video non eseguito</string>
-     <string name="backup_file_over_size_desc">"Photos bigger than %1$s and videos bigger than %2$s can't be backed up."</string>
+     <string name="backup_file_over_size_desc">Impossibile eseguire il backup per foto più grandi di %1$s e video più grandi di %2$s."</string>
      <string name="backup_immediately">Backup</string>
      <string name="backup_need_sync_desc">Premi il tasto per continuare il backup</string>
      <string name="backup_need_sync_title">Backup interrotto</string>
@@ -668,7 +668,7 @@
      <string name="collage_poster_global_green_plant_text">Natura</string>
      <string name="collage_poster_global_summer_flower_text">FIORI ESTIVI</string>
      <string name="collage_poster_global_tea_text">TÉ POMERIDIANO</string>
-     <string name="collage_ratio_text">Aspect ratio</string>
+     <string name="collage_ratio_text">Proporzioni</string>
      <string name="collage_rotate">Ruota</string>
      <string name="collage_select_image_range">I Collage possono contenere da 1 a 4 foto</string>
      <string name="collage_title_layout">Disposizione</string>
@@ -930,7 +930,7 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="filter_master_rise">Ascesa</string>
      <string name="filter_master_somber">Tetro</string>
      <string name="filter_original">Nessuno</string>
-     <string name="filter_people_bw">B&amp;W</string>
+     <string name="filter_people_bw">B/N</string>
      <string name="filter_people_fairytale">Bambini</string>
      <string name="filter_people_japanese">Fresco</string>
      <string name="filter_people_lilt">Lilt</string>
