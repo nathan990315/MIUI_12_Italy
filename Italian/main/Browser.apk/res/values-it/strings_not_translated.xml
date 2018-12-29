@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">InfoStream</string>
+     <string name="bookmark_error_page_title">An error occurred</string>
+     <string name="checking_now">Checking...</string>
+     <string name="comment_publish_to_topic">Comments sync to</string>
+     <string name="custom_head_content_pull_down_text">pull down</string>
+     <string name="dialog_recovery_tabs_action">Click to restore</string>
+     <string name="dialog_recovery_tabs_tip">Find webview not closed last time</string>
+     <string name="movie_player_3g_tip_retry">Continue</string>
+     <string name="movie_player_loading">Coming soon：%s</string>
+     <string name="network_error_tips">Netwrok error, retry</string>
+     <string name="play_retry">Replay</string>
+     <string name="player_3g_tip_sub_title">Play will generate traffic costs</string>
+     <string name="player_3g_tip_title">Currently using mobile network, continuing to play will consume traffic</string>
+     <string name="player_data_error_tip">The video is temporarily unavailable. Please try again later</string>
+     <string name="player_net_error">The network is not connected, please check the network settings</string>
+     <string name="player_no_data">Sorry! This video is gone.</string>
+     <string name="pref_accessibility_recommending_search_title">Recommending search</string>
+     <string name="pull_refresh_begin">Pull down to refresh</string>
+     <string name="pull_refresh_end">Release to refresh</string>
+     <string name="pull_refresh_refreshing">Refreshing</string>
+     <string name="recommending_close_toast_text">Set close this function in advanced settings</string>
+     <string name="refresh_text">Refresh</string>
+     <string name="small_video_boba_tab">Broadcast</string>
+     <string name="small_video_load_failed">Load failed</string>
+     <string name="small_video_loading">Loading...</string>
+     <string name="small_video_main_tab">Recommend</string>
+     <string name="small_video_native_tab">Small video</string>
+     <string name="small_video_net_error">Connection error</string>
+     <string name="small_video_no_more_date">No data</string>
+     <string name="topic_content_default">topic</string>
+</resources>

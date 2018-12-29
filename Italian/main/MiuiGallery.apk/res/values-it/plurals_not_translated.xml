@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d items are too big to back up</item>
+        <item quantity="one">%d item is too big to back up</item>
+     </plurals>
+     <plurals name="sync_oversized_count">
+        <item quantity="other">%d items are too big to back up</item>
+        <item quantity="one">%d item is too big to back up</item>
+     </plurals>
+</resources>
