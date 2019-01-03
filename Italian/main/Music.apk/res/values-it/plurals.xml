@@ -81,12 +81,12 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
         <item quantity="one">%d elemento selezionato</item>
      </plurals>
      <plurals name="notif_title_multiple_downloading">
-        <item quantity="other">Downloading %1$d files</item>
-        <item quantity="one">Downloading %1$d file</item>
+        <item quantity="other">%1$d file in download</item>
+        <item quantity="one">%1$d file in download</item>
      </plurals>
      <plurals name="notification_download_failed_more">
-        <item quantity="other">"Couldn't download %1$d items"</item>
-        <item quantity="one">"Couldn't download %1$d item"</item>
+        <item quantity="other">Impossibile scaricare %1$d file</item>
+        <item quantity="one">Impossibile scaricare %1$d file</item>
      </plurals>
      <plurals name="reader_count">
         <item quantity="other">%d follower</item>

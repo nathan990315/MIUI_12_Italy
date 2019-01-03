@@ -152,7 +152,7 @@
      <string name="dialog_media_not_found">Impossibile scaricare. Il supporto esterno non è disponibile.</string>
      <string name="dialog_queued_body">Questo file è in coda per essere scaricato successivamente.</string>
      <string name="dialog_renew_failure">Spiacente, questa azione non è riuscita</string>
-     <string name="dialog_renew_free_end">Your free trial is over. Subscribe to Hungama PRO?​</string>
+     <string name="dialog_renew_free_end">Il periodo di prova gratuita è scaduto. Vuoi iscriverti a Hungama PRO?​</string>
      <string name="dialog_renew_positive_text">SI! VOGLIO FARE ROCK DA PRO</string>
      <string name="dialog_renew_success">Grazie per la tua conferma</string>
      <string name="dialog_song_sort_type">Definisci ordinamento</string>
@@ -491,13 +491,13 @@ attendere o selezionare Musica Online."</string>
      <string name="nowplaying_dialog_title_delete_tracks">Rimuovere dalla playlist?</string>
      <string name="nowplaying_menu_item_delete">Elimina</string>
      <string name="ok">OK</string>
-     <string name="online_apk_download_error_no_enough_space">"Couldn't download due to insufficient storage space."</string>
-     <string name="online_apk_downloading">Downloading…%d%%</string>
-     <string name="online_apk_install_alert_confirm">Download</string>
-     <string name="online_apk_install_alert_message">You need to download Yandex.Music plug-in. Download now?</string>
-     <string name="online_apk_install_alert_note">This service is provided by Yandex.Music</string>
-     <string name="online_apk_install_error_no_enough_space">"Couldn't install due to insufficient storage space."</string>
-     <string name="online_apk_install_error_with_reason">"Couldn't install (Error %d)"</string>
+     <string name="online_apk_download_error_no_enough_space">Impossibile scaricare, spazio insufficiente.</string>
+     <string name="online_apk_downloading">Download in corso…%d%%</string>
+     <string name="online_apk_install_alert_confirm">Scarica</string>
+     <string name="online_apk_install_alert_message">Devi scaricare Yandex.Music plug-in. Scaricare adesso?</string>
+     <string name="online_apk_install_alert_note">Questo servizio è offerto da Yandex.Music</string>
+     <string name="online_apk_install_error_no_enough_space">Impossibile scaricare, spazio insufficiente.</string>
+     <string name="online_apk_install_error_with_reason">Installazione non riuscita (Errore %d)"</string>
      <string name="online_list_delete_message">Tutti i brani scaricati in questa playlist verranno eliminati dal dispositivo.</string>
      <string name="online_recommend">Consigliati</string>
      <string name="online_service_open_tip">Servizi musica online attivati</string>
@@ -731,11 +731,11 @@ E gioiscine"</string>
 
 Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</string>
      <string name="wifi_required_title">"File troppo grande per la rete dell'operatore"</string>
-     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-     <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
+     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connessione al Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni.</string>
+     <string name="xiaomi_update_sdk_dialog_message">"Presentazione versione %1$s
 Size: %2$s"</string>
      <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
 Delta update size: %2$s"</string>
-     <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
-     <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+     <string name="xiaomi_update_sdk_dialog_title">Aggiornamento %1$s !</string>
+     <string name="xiaomi_update_sdk_external_storage_unavailable">Spazio insufficientee, controlla la scheda SD.</string>
 </resources>
