@@ -33,8 +33,18 @@
      <string name="account_unactivated">Account non attivato.</string>
      <string name="ad_app_download_start">Avvio download...</string>
      <string name="ad_app_is_downloading">Download in corso...</string>
+     <string name="ad_begin_to_download_tip">Starting to download…</string>
+     <string name="ad_closed_tip">"You'll see fewer ads of this type"</string>
+     <string name="ad_download_download">Download</string>
+     <string name="ad_download_install">Install</string>
+     <string name="ad_download_open">Open</string>
+     <string name="ad_download_pause">Pause</string>
+     <string name="ad_download_pending">Pending</string>
+     <string name="ad_download_resume">Resume</string>
+     <string name="ad_downloading_tip">This item is being downloaded. You can view progress in the Notification shade.</string>
      <string name="add_resource_detail_fail">Impossibile aggiungere risorsa</string>
      <string name="all_resources">Tutto</string>
+     <string name="app_ad_title">Daily Recommendations</string>
      <string name="app_name">Temi</string>
      <string name="apply_default_font_tip">Vuoi continuare a utilizzare il font attuale del sistema?</string>
      <string name="apply_font_btn_exclude">Applica senza font</string>
@@ -82,6 +92,7 @@
      <string name="description_uploadtime">Data:</string>
      <string name="description_version">Versione: </string>
      <string name="description_version_szie">Versione: %1$s Dimensione: %2$s</string>
+     <string name="desktop_effects">Home screen effects</string>
      <string name="desktop_wallpaper">Schermata Home</string>
      <string name="detail_recommend_title">Consigliati</string>
      <string name="dev_options">OPZIONI SVILUPPATORE</string>
@@ -164,6 +175,9 @@
      <string name="gift_used">Inviato</string>
      <string name="hide_free">"Nascondi gratis %1$s "</string>
      <string name="hide_incompatible">"Nascondi incompatibili %1$s"</string>
+     <string name="hide_pull_down_message">Hide trinket?</string>
+     <string name="hide_pull_down_negative">"Don't hide"</string>
+     <string name="hide_pull_down_positive">Hide</string>
      <string name="home_apply_failured">Impossibile applicare lo sfondo Home</string>
      <string name="home_apply_success">Sfondo Home applicato</string>
      <string name="in_the_end">"Nient'altro"</string>
@@ -223,6 +237,7 @@
      <string name="my_gifts_purchased">Acquistati</string>
      <string name="my_gifts_received">Ricevuti</string>
      <string name="no_data">Impossibile collegarsi alla rete</string>
+     <string name="no_net_work_connection">Check your network settings and try again.</string>
      <string name="online_no_network">Impossibile connettere alla rete</string>
      <string name="online_precust_abstract">Astratti</string>
      <string name="online_precust_animal">Animali</string>
@@ -244,6 +259,9 @@
      <string name="provision_loading_tips">Solo un attimo…</string>
      <string name="provision_second_title">Seleziona uno dei 5 temi predefiniti</string>
      <string name="provision_title">Scegli un tema</string>
+     <string name="pull_down_view_error_message">Whoops! No internet connection found. Check your connection or try again.</string>
+     <string name="pull_down_view_refresh">Refresh</string>
+     <string name="pull_down_view_title">"What's new"</string>
      <string name="purchased_list">Temi acquistati</string>
      <string name="purchased_list_current">MIUI 9</string>
      <string name="purchased_list_legacy">Vecchie versioni</string>
@@ -256,6 +274,7 @@
      <string name="refresh_footer_release">Rilascia per caricare altro</string>
      <string name="region_not_support">Spiacenti, temi non supportati nel tuo Paese.</string>
      <string name="reload">Riprova</string>
+     <string name="request_time_out">Request timed out. Try again.</string>
      <string name="resource_account_abnormal_state">Errore account, riprovare più tardi.</string>
      <string name="resource_account_fail_to_add">Impossibile aggiungere account!</string>
      <string name="resource_account_login">Accedi</string>
@@ -361,8 +380,6 @@
      <string name="resource_expand_full_text">Espandi</string>
      <string name="resource_failed_to_load_list">Impossibile caricare la lista</string>
      <string name="resource_free_download">Scarica gratuitamente</string>
-     <string name="resource_free_trial_15_days">Prova gratis per 15 giorni</string>
-     <string name="resource_free_use_last_one_day">Il periodo di prova scadrà domani.</string>
      <string name="resource_get_auth_checking">Ricerca autorizzazioni…</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Il tema non può essere eseguito su questo dispositivo, hai raggiunto il limite massimo di 10 installazioni, si prega di usare il tema su un altro dispositivo</string>
      <string name="resource_get_auth_exceed_max_limit_title">Limite autorizzazioni superato</string>
@@ -386,7 +403,6 @@
      <string name="resource_no_result">Nessun risultato</string>
      <string name="resource_notification_default">Notifiche</string>
      <string name="resource_on_trial">Prova: %1$s</string>
-     <string name="resource_on_use">In uso: %1$s</string>
      <string name="resource_online">Online</string>
      <string name="resource_online_picker">Scegli una suoneria online</string>
      <string name="resource_pack_confirm">"Hai già acquistato %1$d oggetti, l'attuale prezzo di acquisto è migliore rispetto all'acquisto dei singoli oggetti. Vuoi continuare?"</string>
@@ -442,11 +458,8 @@
      <string name="resource_title_rank">Classifiche</string>
      <string name="resource_title_select_ringtone">Seleziona suoneria</string>
      <string name="resource_title_subject">In evidenza</string>
-     <string name="resource_trial_15_days_end_title">I 15 giorni di prova sono scaduti</string>
-     <string name="resource_trial_15_days_immediately">Prova subito per 15 giorni</string>
      <string name="resource_trial_days">(prova: %1$dd)</string>
      <string name="resource_trial_days_hours">(prova: %1$dd %2$dh)</string>
-     <string name="resource_trial_end_change">Cambia</string>
      <string name="resource_trial_end_message">La prova di %1$s è terminata. Se ti piace, ti preghiamo di acquistarlo.</string>
      <string name="resource_trial_end_purchase">Acquista</string>
      <string name="resource_trial_end_restore">Prova terminata</string>
@@ -472,7 +485,9 @@
      <string name="search_hint_header_text">Parole più ricercate</string>
      <string name="search_menu_title">Cerca</string>
      <string name="selected_resource_file_invalid">Impossibile utilizzare il file di risorsa selezionato</string>
+     <string name="server_internal_error">A server error occurred. Wait a minute or two and try again.</string>
      <string name="set_color_ring_back_tone">Imposta colore tono di risposta</string>
+     <string name="set_home_wallpaper_failed">"%s. Can't apply Home screen wallpaper."</string>
      <string name="settings">Impostazioni</string>
      <string name="shortcut_add">Aggiungi icona</string>
      <string name="shortcut_cancel">No grazie</string>
@@ -481,6 +496,7 @@
      <string name="shortcut_title">Ti sono piaciuti i nostri sfondi?</string>
      <string name="show_free">Mostra gratuiti %1$s</string>
      <string name="show_incompatible">Mostra non compatibili %1$s</string>
+     <string name="swipe_find_more">Swipe up to view more</string>
      <string name="system_precust">Sfondi di sistema</string>
      <string name="tag_ad">AD</string>
      <string name="the_picture_is_not_support">"L'immagine non è supportata"</string>
@@ -509,6 +525,7 @@
      <string name="theme_component_title_contact">Tastiera telefono</string>
      <string name="theme_component_title_font">Caratteri</string>
      <string name="theme_component_title_framework">Temi</string>
+     <string name="theme_component_title_homepage">Home</string>
      <string name="theme_component_title_icon">Icone</string>
      <string name="theme_component_title_launcher">Schermata Home</string>
      <string name="theme_component_title_lockstyle">Schermata di blocco</string>
@@ -562,6 +579,7 @@
      <string name="tips_theme_gate_transfer_fail">Impossibile aprire questa pagina. Attendi un minuto o due e riprova.</string>
      <string name="title_component">Personalizza temi</string>
      <string name="title_my_audio_resource">Le mie suonerie</string>
+     <string name="title_my_miwallpaper_desktop_effects">Home screen effects</string>
      <string name="title_my_miwallpaper_resource">I miei sfondi Live</string>
      <string name="title_my_miwallpaper_video_file_resource">I miei sfondi video</string>
      <string name="title_my_wallpaper_resource">I miei sfondi</string>
