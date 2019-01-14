@@ -13,7 +13,7 @@
      <string name="HIPS_Perm_Read_External_Storage">Leggi i file sulla memoria interna</string>
      <string name="HIPS_Perm_Read_External_Storage_Desc">Leggi i file sulla memoria interna del dispositivo</string>
      <string name="HIPS_Perm_Read_Steps">Accesso conteggio passi</string>
-     <string name="HIPS_Perm_Read_Steps_Desc">"Consenti ll'accesso al conteggio dei passi"</string>
+     <string name="HIPS_Perm_Read_Steps_Desc">"Consenti l'accesso al conteggio dei passi"</string>
      <string name="HIPS_Perm_SendSMS">Invia messaggi SMS</string>
      <string name="HIPS_Perm_SendSMS_Desc">Invio diretto messaggi SMS</string>
      <string name="HIPS_Perm_VideoRecorder">Accedi alla camera</string>
@@ -181,7 +181,7 @@ Tocca per riprovare."</string>
      <string name="media_contorls_retry">Riprova</string>
      <string name="msg_camera_framework_bug">Spiacenti, la fotocamera Android ha riscontrato un problema. Potrebbe essere necessario riavviare il dispositivo.</string>
      <string name="msg_default_status">Posiziona un codice a barre nel riquadro viewfinder per leggerlo.</string>
-     <string name="no_canvas">"Questo motore non supporta Canvas.</string>
+     <string name="no_canvas">Questo motore non supporta Canvas.</string>
      <string name="no_map">Mappe non supportate.</string>
      <string name="notification_creating_shortcut_for">Installazione scorciatoia per %s</string>
      <string name="password_toggle_content_description">Visibilità comando password</string>
@@ -229,13 +229,13 @@ Tocca per riprovare."</string>
      <string name="show_notifications">Mostra notifiche</string>
      <string name="text_cancel">Annulla</string>
      <string name="text_ok">OK</string>
-     <string name="toast_error_debug_core_not_install">"Core debug noninstallato"</string>
+     <string name="toast_error_debug_core_not_install">Core debug non installato</string>
      <string name="toast_error_debugger_too_old">La versione corrente di Debugger è troppo vecchia. Aggiornare prima Debugger.</string>
      <string name="toast_error_detail_copied">"I dettagli dell'errore sono stati copiati."</string>
      <string name="web_dialog_file_name">"Nome file: "</string>
      <string name="web_dialog_file_size">Dimensione file: %s</string>
      <string name="web_dialog_save_file">Salva file</string>
-     <string name="web_download_no_file_name">Il nome del file non può esse vuoto</string>
+     <string name="web_download_no_file_name">Il nome del file non può essere vuoto</string>
      <string name="web_download_no_permission">Impossibile scaricare. Controlla i permessi di archiviazione e riprova.</string>
      <string name="webview_loading" />
      <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>

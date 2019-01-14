@@ -287,7 +287,7 @@
      <string name="passport_account_label">Mi Account</string>
      <string name="passport_account_name">Account: %1$s</string>
      <string name="passport_account_not_activated">"L'account non è stato attivato"</string>
-     <string name="passport_account_not_actived">"YIl tuo account non è stato attivato"</string>
+     <string name="passport_account_not_actived">Il tuo account non è stato attivato</string>
      <string name="passport_active_email_visit">Controlla la tua casella di posta su %s</string>
      <string name="passport_activing_account">Attivazione…</string>
      <string name="passport_area_code_hot">FREQUENTI</string>
@@ -325,8 +325,8 @@ To activate your account, follow the
      <string name="passport_error_illegal_pwd">Password non valida</string>
      <string name="passport_error_invalid_dev_id">"L'ID del tuo dispositivo non è valido."</string>
      <string name="passport_error_invalid_phone_num">Numero di telefono non valido</string>
-     <string name="passport_error_login">"Impossibile accedere"</string>
-     <string name="passport_error_network">"Impossibile collegarsi alla rete"</string>
+     <string name="passport_error_login">Impossibile accedere</string>
+     <string name="passport_error_network">Impossibile collegarsi alla rete</string>
      <string name="passport_error_phone_error">Numero di telefono non valido</string>
      <string name="passport_error_server">Errore del server</string>
      <string name="passport_error_sim_not_ready">"Impossibile trovare SIM"</string>
@@ -365,7 +365,7 @@ To activate your account, follow the
      <string name="passport_phone_num_hint_text">Numero di telefono</string>
      <string name="passport_prev">Indietro</string>
      <string name="passport_privacy_policy">Informativa Privacy</string>
-     <string name="passport_pwd_generate_failure">"Impossibile generare la password"</string>
+     <string name="passport_pwd_generate_failure">Impossibile generare la password</string>
      <string name="passport_pwd_generating">Generazione…</string>
      <string name="passport_quick_login_dialog_step2_title">Verifica in due passi</string>
      <string name="passport_quick_login_dialog_title">Verifica password</string>
@@ -376,12 +376,12 @@ To activate your account, follow the
      <string name="passport_recycle_account_prompt">Questo è il tuo Mi Account?</string>
      <string name="passport_reg_btn_using_other_phone">Usa numero di telefono alternativo</string>
      <string name="passport_reg_failed">Impossibile impostare un account</string>
-     <string name="passport_reg_prompt">"Non hai un Mi Account? Creane uno gratuitamente."</string>
+     <string name="passport_reg_prompt">Non hai un Mi Account? Creane uno gratuitamente.</string>
      <string name="passport_reg_success">Account creato</string>
      <string name="passport_reg_success_summary">%1$s è stato collegato al tuo account. Puoi usarlo per accedere o reimpostare la tua password.</string>
      <string name="passport_reg_type_email">Usea indirizzo email</string>
      <string name="passport_reg_using_other_phone"><u>Usa numero di telefono alternativo</u></string>
-     <string name="passport_reg_using_other_phone_number_prompt">"Crea un nuovo account usando "</string>
+     <string name="passport_reg_using_other_phone_number_prompt">Crea un nuovo account usando</string>
      <string name="passport_reg_using_phone_number_prompt">Crea account usando il numero di telefono</string>
      <string name="passport_reg_via_sms_alert">Potrebbe essere necessario un SMS in uscita per attivare questo servizio. Il tuo operatore ti addebiterà il costo in base al tuo piano tariffario.</string>
      <string name="passport_reging">Creazione account…</string>
@@ -431,7 +431,7 @@ To activate your account, follow the
      <string name="passport_vcode_sms_send_prompt">Invia il codice di verifica a %s</string>
      <string name="passport_verification_failed">Autenticazione fallita</string>
      <string name="passport_verify">Verifica</string>
-     <string name="passport_wait_for_sms_prompt">"Ricominciare adesso? I messaggi di verifica possono impiegare fino a 10 minuti per essere ricevuti quando il telefono è sotto copertura di rete del tuo operatore."</string>
+     <string name="passport_wait_for_sms_prompt">Ricominciare adesso? I messaggi di verifica possono impiegare fino a 10 minuti per essere ricevuti quando il telefono è sotto copertura di rete del tuo operatore.</string>
      <string name="passport_wrong_captcha">Il codice inserito non è corretto</string>
      <string name="passport_wrong_phone_number_format">Il formato del numero di telefono inserito non è valido.</string>
      <string name="passport_wrong_vcode">Il codice inserito non è corretto</string>
