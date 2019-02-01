@@ -162,6 +162,7 @@
   <string name="idbct_opt_high_def_main_text">HD</string>
   <string name="idbct_title">Tipologia di rete</string>
   <string name="isornot_your_mi_account">È questo il tuo Mi Account?</string>
+  <string name="feed_article_entrance_about">A proposito di \"%s\"</string>
   <string name="like">Aggiungi ai preferiti</string>
   <string name="liked">Aggiunto ai preferiti</string>
   <string name="lks_left_net_deny">La connessione di rete è limitata</string>
@@ -206,6 +207,7 @@
   <string name="open_sub_title">Seleziona categorie</string>
   <string name="open_title">Sfondi Carousel</string>
   <string name="open_unable">Sfondi Carousel funziona solo con la Schermata di blocco predefinita della MIUI.</string>
+  <string name="more_article">Più articoli</string>
   <string name="pager_load_hd">"Visualizza l'immagine originale"</string>
   <string name="passport_activate_token_expired">Verifica scaduta, per favore riprova.</string>
   <string name="passport_bad_authentication">Nome utente o password non validi</string>
@@ -288,6 +290,8 @@
   <string name="sst_change_wallpaper_lock">Schemata di blocco</string>
   <string name="sst_change_wallpaper_lock_desk">Schermata di blocco e Home</string>
   <string name="sst_change_wallpaper_title">Applica sfondo</string>
+  <string name="save_to_album">Salvataggio in Galleria riuscito</string>
+  <string name="save_to_album_fail">Impossibile salvare</string>
   <string name="sst_close_wallpaper">Disattiva Sfondo Carousel</string>
   <string name="sst_cover_chg_enable_desc">Mostra Sfondo Carousel mentre il dispositivo è in carica</string>
   <string name="sst_cover_chg_enable_title">Mostra in fase di carica</string>
@@ -320,11 +324,14 @@
   <string name="sst_sti_title">Frequenza di aggiornamento</string>
   <string name="sst_subscribe_title">Sottoscrizioni</string>
   <string name="sst_subscrible_manager_title_bar_text">Gestione sottoscrizioni</string>
+  <string name="sst_effect_next_wallpaper">Imposta un nuovo sfondo per applicare i cambiamenti</string>
   <string name="sst_subscripted">Iscritto</string>
   <string name="sst_switch_wallpaper_order_desc">"Seleziona l'ordine di aggiornamento degli sfondi"</string>
   <string name="sst_switch_wallpaper_order_fixed">Sequenza</string>
   <string name="sst_switch_wallpaper_order_random">Casuale</string>
   <string name="sst_switch_wallpaper_order_title">Aggiorna ordine</string>
+  <string name="sst_lockscreen_show_headline_desc">"Mostra il titolo dello sfondo in basso all'orologio sulla schermata di Blocco"</string>
+  <string name="sst_lockscreen_show_headline_title">Mostra il titolo sulla schermata di Blocco</string>
   <string name="sst_wallpaper_define_desc">Gestisci</string>
   <string name="sst_wallpaper_define_title">La mia presentazione</string>
   <string name="sst_wallpaper_history_des">Visualizza consigli recenti</string>
@@ -363,4 +370,5 @@
   <string name="wallpaper_relations_title">Consigliato</string>
   <string name="wlan_download">Aggiorna solo tramite Wi-Fi</string>
   <string name="wlan_download_cn">Aggiorna solo tramite Wi-Fi</string>
+  <string name="time_current">Un momento fa</string>
 </resources>

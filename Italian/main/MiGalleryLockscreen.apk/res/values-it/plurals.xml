@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<plurals name="feed_article_entrance_title">
+        <item quantity="other">%d articoli su questo argomento</item>
+        <item quantity="one">%d articolo su questo argomento</item>
+    </plurals>
     <plurals name="lockscreen_magazine_subscribe">
         <item quantity="other">%1$s persone iscritte</item>
         <item quantity="one">%1$s persona iscritta</item>
@@ -7,5 +11,17 @@
     <plurals name="lockscreen_magazine_system_subscribe">
         <item quantity="other">%1$s sfondi</item>
         <item quantity="one">%1$s sfondo</item>
+    </plurals>
+    <plurals name="time_day_ago">
+        <item quantity="other">%d giorni fa</item>
+        <item quantity="one">%d giorno fa</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d ore fa</item>
+        <item quantity="one">%d ora fa</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d min fa</item>
+        <item quantity="one">%d min fa</item>
     </plurals>
 </resources>
