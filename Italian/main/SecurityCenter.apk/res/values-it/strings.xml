@@ -310,7 +310,7 @@ se dimenticata"</string>
      <string name="auto_task_condition_time_text">Alle %s</string>
      <string name="auto_task_dialog_button_close">Fatto</string>
      <string name="auto_task_edit_abandon_change">Rifiutare modifiche?</string>
-     <string name="auto_task_edit_activity_title">Operazioni automatiche</string>
+     <string name="auto_task_edit_activity_title">Pianifica</string>
      <string name="auto_task_edit_adandon_button_text">Rifiuta</string>
      <string name="auto_task_edit_choose_condition_title">Seleziona condizione</string>
      <string name="auto_task_edit_choose_new_operation">Aggiungi azione</string>
@@ -322,14 +322,14 @@ se dimenticata"</string>
      <string name="auto_task_edit_step1">1.</string>
      <string name="auto_task_edit_step2">2.</string>
      <string name="auto_task_edit_task_name">Nome</string>
-     <string name="auto_task_main_title">Operazioni automatiche</string>
+     <string name="auto_task_main_title">Pianifica</string>
      <string name="auto_task_mamange_activity_title">Impostazioni</string>
-     <string name="auto_task_manage_delete_prompt">Eliminare le operazioni selezionate?</string>
-     <string name="auto_task_manage_new_task">Nuove operazioni automatiche</string>
-     <string name="auto_task_manager_group_title">Operazioni automatiche</string>
-     <string name="auto_task_notify_do_task_title">Operazione automatica avviata</string>
-     <string name="auto_task_notify_exit_task_title">Operazione automatica terminata</string>
-     <string name="auto_task_notify_task_cancel_count_down">"L'operazione automatica verrà annullata tra 5 secondi"</string>
+     <string name="auto_task_manage_delete_prompt">Eliminare le operazioni pianificate?</string>
+     <string name="auto_task_manage_new_task">Nuove operazioni pianificate</string>
+     <string name="auto_task_manager_group_title">Pianifica</string>
+     <string name="auto_task_notify_do_task_title">Operazione pianificata avviata</string>
+     <string name="auto_task_notify_exit_task_title">Operazione pianificata terminata</string>
+     <string name="auto_task_notify_task_cancel_count_down">"L'operazione pianificata verrà annullata tra 5 secondi"</string>
      <string name="auto_task_notify_task_cancel_do">Annulla operazione</string>
      <string name="auto_task_notify_task_canceled_summary">Puoi effettuare e ricevere chiamate</string>
      <string name="auto_task_notify_task_canceled_summary2">Sembra che tu stia giocando in questo momento.</string>
@@ -337,7 +337,7 @@ se dimenticata"</string>
      <string name="auto_task_notify_task_canceled_summary4">Annullato da Primo Spazio</string>
      <string name="auto_task_notify_task_canceled_title">Azione annullata</string>
      <string name="auto_task_notify_task_continue_do">Avvia operazione</string>
-     <string name="auto_task_notify_task_count_down">"L'operazione automatica inizierà tra 5 secondi"</string>
+     <string name="auto_task_notify_task_count_down">"L'operazione pianificata inizierà tra 5 secondi"</string>
      <string name="auto_task_notify_task_exit_task">Chiudi processo</string>
      <string name="auto_task_operation_airplane_mode">Modalità Aereo</string>
      <string name="auto_task_operation_auto_brightness">Luminosità automatica</string>
@@ -359,7 +359,7 @@ se dimenticata"</string>
      <string name="auto_task_operation_sync">Sincronizzazione</string>
      <string name="auto_task_operation_vibration">Vibrazione</string>
      <string name="auto_task_operation_wifi">Wi-Fi</string>
-     <string name="auto_task_result_summary_text">Imposta compiti automatici per il Risparmio batteria</string>
+     <string name="auto_task_result_summary_text">Imposta operazioni pianificate per il Risparmio batteria</string>
      <string name="back_app_name">Torna al Blocco app</string>
      <string name="back_description_securitycenter">Indietro</string>
      <string name="back_modifypassword">Torna alla modifica password</string>
@@ -1549,7 +1549,7 @@ dall'operatore"</string>
      <string name="power_bluetooth">Bluetooth</string>
      <string name="power_btn_analyze">Analizza utilizzo batteria</string>
      <string name="power_cell">Cellulare in standby</string>
-     <string name="power_center_auto_shutdown">Operazioni automatiche</string>
+     <string name="power_center_auto_shutdown">Pianifica</string>
      <string name="power_center_back">Ritorna al centro</string>
      <string name="power_center_charge_time">Carica completata tra %1$s</string>
      <string name="power_center_hints_scan_danger_result">Puoi correggere i problemi di batteria ora</string>
