@@ -26,6 +26,7 @@
      <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
      <string name="cancel">Annulla</string>
      <string name="cannot_download">Puoi solo scaricare da URL \"http\" o \"https\"</string>
+     <string name="common_setting">Impostazioni generali</string>
      <string name="category_preference_activity_title">Categorie di ricerca</string>
      <string name="change_setting_engine">Seleziona motore di ricerca</string>
      <string name="choose_search_engine">Seleziona il motore di ricerca predefinito</string>
@@ -44,6 +45,7 @@
     Per cancellare la cronologia, usa le impostazioni del browser."</string>
      <string name="clear_shortcuts_summary">Rimuove i collegamenti ai suggerimenti di ricerca recenti</string>
      <string name="clear_view_history_confirm">Pulire cronologia di navigazione?</string>
+     <string name="entrance_setting">Apertura ricerca</string>
      <string name="clear_webview_history_dialog_content">Pulire le cache e la cronologia di navigazione ora?</string>
      <string name="clear_webview_history_dialog_title">Pulisci cache e cronologia di navigazione</string>
      <string name="close_webview_description">Chiudi questa pagina</string>
@@ -96,11 +98,13 @@
      <string name="default_download_path_dialog_title">Ripristinare la posizione di download predefinita?</string>
      <string name="default_download_path_prefix">Posizione predefinita:</string>
      <string name="default_hint">Cerca App, Musica, Video, Libri…</string>
+     <string name="search_suggestion">Suggerimenti</string>
      <string name="delete_description">Elimina</string>
      <string name="delete_history">Elimina questo elemento</string>
      <string name="distance_unit_kilometer">km</string>
      <string name="distance_unit_meter">m</string>
      <string name="document_download_open_direct">Apertura diretta</string>
+     <string name="setting_other">Altro</string>
      <string name="download_dialog_default_path_invalid">Il percorso di download che hai selezionato non è valido. Sto salvando nella posizione predefinita ...</string>
      <string name="download_dialog_file_length_hint_txt">"Dimensione file: "</string>
      <string name="download_dialog_file_length_lessthan1kb">Meno di 1KB</string>
