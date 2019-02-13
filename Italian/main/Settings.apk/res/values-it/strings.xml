@@ -264,12 +264,18 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="anti_spam">Antispam</string>
      <string name="aod_close_color_inversion">"Questa funzionalità non può essere combinata con l'inversione del colore. Disattiva prima l'inversione del colore."</string>
      <string name="aod_got_it">Fatto</string>
+     <string name="aod_lock_screen_date">EEEE, MMMM d</string>
+     <string name="aod_lock_screen_date_12">EEEE, MMMM d</string>
+     <string name="aod_mode_bg">Background</string>
+     <string name="aod_mode_clock">Clock</string>
+     <string name="aod_mode_style">Sfondo e stile orologio</string>
      <string name="aod_mode_summary">Mostra ora, data e messaggi a schermo spento.</string>
      <string name="aod_mode_time_summary">"Pianifica l'ora in cui il dispositivo dovrà passare alla modalità Sempre attivo"</string>
      <string name="aod_mode_time_title">Pianifica</string>
      <string name="aod_mode_title">Modalità Sempre attivo</string>
      <string name="aod_mode_turn_off">Disattiva</string>
      <string name="aod_mode_turn_on">Attiva</string>
+     <string name="aod_sample_date">May 10 Tuesday</string>
      <string name="aod_to_close">Disattiva</string>
      <string name="apn_apn">APN</string>
      <string name="apn_auth_type">Tipo di autenticazione</string>
@@ -1001,12 +1007,6 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="call_manager_enable_summary">Consenti questo servizio per gestire come sono state fatte le vostre chiamate.</string>
      <string name="call_manager_enable_title">Attiva il Manager chiamate</string>
      <string name="call_manager_title">Manager chiamate</string>
-     <string name="call_records_name_1">Debbie Smith</string>
-     <string name="call_records_name_2">Jason Lee</string>
-     <string name="call_records_name_3">Tom Fowles</string>
-     <string name="call_records_summary_1">9:35 | 26 secondi | Cina Unicom</string>
-     <string name="call_records_summary_2">Agosto 16 | 1m 16s | Cina Mobile</string>
-     <string name="call_records_summary_3">Agosto 16 | 2m 24s | Cina Unicom</string>
      <string name="call_settings_primary_user_only">Modifica le impostazioni di chiamata nel Primo Spazio</string>
      <string name="call_settings_summary">Imposta segreteria, deviazione chiamate, avviso di chiamata, ID chiamante</string>
      <string name="call_settings_title">Chiamate</string>
@@ -1296,6 +1296,8 @@ Per continuare a usare il dispositivo devi effettuare un ripristino dei dati di 
      <string name="dangerous_option_hint">%1$s è abilitato. Tocca per modificare le impostazioni.</string>
      <string name="dangerous_option_hint_title">Funzionalità ad alto rischio abilitata</string>
      <string name="dangerous_option_switch_title">Notifica funzionalità ad alto rischio</string>
+     <string name="dark_color_mode">Modalità scura</string>
+     <string name="dark_color_summary">Utilizza tavolozza di colori scuri per lo sfondo di sistema e le app compatibili</string>
      <string name="dashboard_title">Impostazioni</string>
      <string name="data_limit">Limite dati</string>
      <string name="data_saver_off">Disattivato</string>
@@ -1455,6 +1457,7 @@ avviso"</string>
      <string name="default_spell_checker">Controllo ortografico predefinito</string>
      <string name="default_theme">Predefinito</string>
      <string name="default_usb_mode">Connessione USB</string>
+     <string name="default_vol_stream_title">Flusso controllo predefinito volume</string>
      <string name="delete">Elimina</string>
      <string name="delete_fingerprint_confirm_msg">"Vuoi rimuovere l'impronta digitale?"</string>
      <string name="delete_fingerprint_text">Rimuovi impronta digitale</string>
@@ -1474,6 +1477,7 @@ avviso"</string>
      <string name="details_subtitle">Dettagli di utilizzo</string>
      <string name="dev_logpersist_clear_warning_message">Quando non monitoriamo più con il log persistente, ci viene richiesto di eliminare il log con i dati sul tuo dispositivo.</string>
      <string name="dev_logpersist_clear_warning_title">"Cancellare l'archivio del log persistente?"</string>
+     <string name="dev_settings_disabled_warning">Enable developer options first</string>
      <string name="dev_settings_warning_message">"Queste impostazioni sono utilizzabili solo a scopo di sviluppo. Possono causare l'arresto o il comportamento anomalo del dispositivo e delle applicazioni su di esso."</string>
      <string name="dev_settings_warning_title">Consentire impostazioni di sviluppo?</string>
      <string name="developer_build">Beta</string>
@@ -1502,6 +1506,12 @@ avviso"</string>
      <string name="device_cpu4_info">Quad-core</string>
      <string name="device_cpu6_info">Hexa-core</string>
      <string name="device_cpu8_info">Octa-core</string>
+     <string name="device_description_battery">Batteria</string>
+     <string name="device_description_camera">Fotocamera</string>
+     <string name="device_description_cpu">CPU</string>
+     <string name="device_description_ram">RAM</string>
+     <string name="device_description_resolution">Risoluzione</string>
+     <string name="device_description_screen">Schermo</string>
      <string name="device_display_layout_title">funzionalità</string>
      <string name="device_edit_title">Rinomina dispositivo</string>
      <string name="device_feedback">Invia una segnalazione con le informazioni di questo dispositivo</string>
@@ -2212,6 +2222,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="inactive_app_active_summary">Attivata. Tocca per disattivare.</string>
      <string name="inactive_app_inactive_summary">Disattivata. Tocca per attivare.</string>
      <string name="inactive_apps_title">App disattivate</string>
+     <string name="incall_show">Profile video for outgoing calls</string>
      <string name="include_app_data_title">Includi dati app</string>
      <string name="incoming_call_breathing_light_color_title">Colore LED chiamate</string>
      <string name="incoming_call_breathing_light_freq_title">Frequenza illuminazione LED chiamate</string>
@@ -2305,6 +2316,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="keyboard_shortcuts_helper">Assistente scorciatoie tastiera</string>
      <string name="keyboard_shortcuts_helper_summary">Mostra scorciatoie disponibili</string>
      <string name="keyguard_advance_setting_title">Impostazioni avanzate</string>
+     <string name="keyguard_double_tap_to_sleep_title">Doppio tocco per sospendere</string>
      <string name="keyguard_notification_status_title">Notifiche</string>
      <string name="keyguard_security_setting_others">Altri</string>
      <string name="keyguard_security_setting_privacy_policy">Informativa sulla Privacy</string>
@@ -2386,7 +2398,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="launch_google_search">Apri Ricerca Google</string>
      <string name="launch_recents">Apri Recenti</string>
      <string name="launch_voice_assistant">Lancia Assistente Vocale</string>
-     <string name="launcher_icon">Icone</string>
      <string name="launcher_title">Launcher</string>
      <string name="launching_cit">Avvio Rilevamento Hardware, attendere\u2026</string>
      <string name="launching_pho">Caricamento informazioni dispositivo, attendere\u2026</string>
@@ -2916,6 +2927,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="model_number">Modello</string>
      <string name="modify_instruction_password_settings">Imposta la password</string>
      <string name="modify_privacy_password">Modifica la password</string>
+     <string name="more_dangerous_option_hint">High-risk features including \"%1$s\" are enabled. Tap to change settings.</string>
      <string name="move_app">Sposta</string>
      <string name="move_app_failed_dlg_text">"Impossibile spostare l'applicazione. %1$s"</string>
      <string name="move_app_failed_dlg_title" />
@@ -3332,8 +3344,6 @@ ed esegui il software."</string>
      <string name="page_layout_31">Jack Tang</string>
      <string name="page_layout_32">Play Store</string>
      <string name="page_layout_33">Google</string>
-     <string name="page_layout_34">Telefono</string>
-     <string name="page_layout_35">Note</string>
      <string name="page_layout_4">Musica</string>
      <string name="page_layout_5">Video</string>
      <string name="page_layout_6">App</string>
@@ -3341,11 +3351,7 @@ ed esegui il software."</string>
      <string name="page_layout_8">Mi Life</string>
      <string name="page_layout_9">Temi</string>
      <string name="page_layout_confirm_message">Il dispositivo deve essere riavviato per applicare queste modifiche.</string>
-     <string name="page_layout_confirm_message_enlarge">Testo, immagini e icone verranno ingrandite. Alcune icone potrebbero cambiare posizione.</string>
-     <string name="page_layout_confirm_message_narrow">Testo, immagini e icone verranno rimpicciolite. Some icons might change their places.</string>
      <string name="page_layout_confirm_title">Cambia impostazioni di visualizzazione</string>
-     <string name="page_layout_confirm_title_enlarge">Elementi più grandi</string>
-     <string name="page_layout_confirm_title_narrow">Elementi più piccoli</string>
      <string name="page_layout_godzilla_title">XXL</string>
      <string name="page_layout_huge_title">Molto grande</string>
      <string name="page_layout_large_title">Grande</string>
@@ -4671,6 +4677,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_notification_use_app_icon">Utilizza le icone app per le notifiche</string>
      <string name="status_bar_settings_notification_vibrate">Vibrazione</string>
      <string name="status_bar_settings_peek_notification_icon">Mostra icone per le notifiche in arrivo</string>
+     <string name="status_bar_settings_qs_layout">Stile imposizioni veloci</string>
      <string name="status_bar_settings_show_carrier">Mostra operatore</string>
      <string name="status_bar_settings_show_carrier_summary">Mostra solo nella Schermata di blocco</string>
      <string name="status_bar_settings_show_carrier_under_keyguard">Mostra operatore quando il dispositivo è bloccato</string>
@@ -4680,6 +4687,7 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_bar_settings_show_home_message">Badge icona app</string>
      <string name="status_bar_settings_show_keyguard_notification">Notifiche sulla Schermata di blocco</string>
      <string name="status_bar_settings_show_keyguard_notification_summary">Consenti notifiche importanti sulla schermata di Blocco</string>
+     <string name="status_bar_settings_show_lte_for_4g">Mostra icona LTE anziché 4G</string>
      <string name="status_bar_settings_show_network_speed">Mostra velocità di connessione</string>
      <string name="status_bar_settings_show_notification_icon">Mostra icona di notifica</string>
      <string name="status_bar_settings_show_wifi_name">Mostra Wi-Fi</string>
@@ -4901,7 +4909,6 @@ Considera l'utilizzo di un ^1 più veloce per prestazioni migliori."</string>
      <string name="suggestions_title">Suggerimenti</string>
      <string name="sum_carrier_select">Scegli un operatore di rete</string>
      <string name="summary_divider_text">", "</string>
-     <string name="summary_font_size_v2">Regola la dimensione del testo, immagini ed icone</string>
      <string name="summary_range_verbal_combination">%1$s di %2$s</string>
      <string name="super_resolution_access_title">App accessibili</string>
      <string name="super_resolution_desc">Rendi le immagini più nitide utilizzando un algoritmo AI</string>
@@ -5050,12 +5057,10 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="title_font_current">Seleziona carattere di sistema</string>
      <string name="title_font_current2">Carattere di sistema</string>
      <string name="title_font_size">Dimensioni carattere</string>
-     <string name="title_font_v2">Testo ed elementi UI</string>
      <string name="title_hdmi_color_calibration">Impostazione predefinita correzione colore</string>
      <string name="title_jeejen">Schermata Home Jeejen</string>
      <string name="title_layout_current">Seleziona dimensione carattere</string>
      <string name="title_layout_current2">Dimensione carattere</string>
-     <string name="title_layout_v2">Dimensione testo</string>
      <string name="to_close">Disattiva</string>
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>
@@ -6109,7 +6114,6 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="wizard_back">Indietro</string>
      <string name="wizard_finish">Fine</string>
      <string name="wizard_next">Avanti</string>
-     <string name="words_title">Testo</string>
      <string name="work_alarm_ringtone_title">Suono predefinito della sveglia lavoro</string>
      <string name="work_mode_label">Modalità operativa</string>
      <string name="work_mode_summary">"Consenti l'attività al profilo di lavoro, incluse le app, sincronizzazione in background e relative funzionalità "</string>
@@ -6255,21 +6259,4 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="zone_auto_summaryOn">Utilizza il fuso orario fornito dalla rete</string>
      <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
      <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
-	 <string name="device_description_cpu">CPU</string>
-	 <string name="device_description_battery">Batteria</string>
-	 <string name="device_description_camera">Fotocamera</string>
-	 <string name="device_description_screen">Schermo</string>
-	 <string name="device_description_resolution">Risoluzione</string>
-	 <string name="device_description_ram">RAM</string>
-	 <string name="dark_color_mode">Modalità scura</string>
-	 <string name="dark_color_summary">Utilizza tavolozza di colori scuri per lo sfondo di sistema e le app compatibili</string>
-	<string name="open_dark_mode_dialog_summary">Alcune impostazioni dello schermo non sono compatibili con la Modalità scura. Tuttavia, queste verranno ripristinate una volta che tale modalità verrà disattivata. Disattivare la Modalità scura?</string>
-	<string name="open_dark_mode_dialog_title">Compatibilità Modalità scura</string>
-	<string name="screen_confirm">Attiva</string>
-         <string name="screen_cancel">Indietro</string>
-	 <string name="aod_mode_style">Sfondo e stile orologio</string>
-	 <string name="default_vol_stream_title">Flusso controllo predefinito volume</string>
-	 <string name="keyguard_double_tap_to_sleep_title">Doppio tocco per sospendere</string>
-	 <string name="status_bar_settings_show_lte_for_4g">Mostra icona LTE anziché 4G</string>
-	 <string name="status_bar_settings_qs_layout">Stile imposizioni veloci</string>
 </resources>

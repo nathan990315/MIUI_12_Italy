@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="abc_action_bar_home_description">Navigate home</string>
+     <string name="abc_action_bar_up_description">Navigate up</string>
+     <string name="abc_action_menu_overflow_description">More options</string>
+     <string name="abc_action_mode_done">Done</string>
+     <string name="abc_activity_chooser_view_see_all">See all</string>
+     <string name="abc_activitychooserview_choose_application">Choose an app</string>
+     <string name="abc_capital_off">OFF</string>
+     <string name="abc_capital_on">ON</string>
+     <string name="abc_search_hint">Search…</string>
+     <string name="abc_searchview_description_clear">Clear query</string>
+     <string name="abc_searchview_description_query">Search query</string>
+     <string name="abc_searchview_description_search">Search</string>
+     <string name="abc_searchview_description_submit">Submit query</string>
+     <string name="abc_searchview_description_voice">Voice search</string>
+     <string name="abc_shareactionprovider_share_with">Share with</string>
+     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+     <string name="abc_toolbar_collapse_description">Collapse</string>
      <string name="add_alarm">Aggiungi</string>
      <string name="add_clock">Aggiungi Orologio</string>
      <string name="add_timezone_title">Aggiungi fuso orario</string>
@@ -72,6 +89,12 @@
      <string name="invalid_time">Orario non valido: %3$s %1$d: %2$d</string>
      <string name="invalid_timer_length">Lunghezza timer non valida</string>
      <string name="keep_screen_on">Mantieni schermo attivo</string>
+     <string name="korea_permission_calendar">Calendar</string>
+     <string name="korea_permission_calendar_desc">For accessing event info and sending reminders</string>
+     <string name="korea_permission_phone">Phone</string>
+     <string name="korea_permission_phone_desc">For accessing device status and silencing reminders during calls</string>
+     <string name="korea_permission_storage">Storage</string>
+     <string name="korea_permission_storage_desc">For saving alarms</string>
      <string name="label">Nome</string>
      <string name="label_pref_summary">Etichetta</string>
      <string name="lap">Giro</string>
@@ -107,9 +130,11 @@
      <string name="module_download_cancel">Non ora</string>
      <string name="module_download_data_msg">"Per rendere disponibili le sveglie intelligenti, i suoni della natura e le sveglie di compleanno, l'orologio dovrà connettersi ad Internet e accedere ai tuoi contatti. Dovrai anche scaricare ulteriore audio. Utilizzare i dati mobili per scaricare altro audio? ""</string>
      <string name="module_download_data_msg_golbal">"Per rendere disponibili le sveglie intelligenti ed i suoni della natura, l'orologio dovrà scaricare ulteriore audio. Utilizzare i dati mobili per scaricare altro audio?"</string>
+     <string name="module_download_data_msg_replace">Updated audio for smart alarms (≈20MB) is available. Connect to the network and download using mobile data?</string>
      <string name="module_download_fail">Impossibile scaricare audio addizionale</string>
      <string name="module_download_msg">"Per rendere disponibili le sveglie intelligenti, i suoni della natura e le sveglie di compleanno, l'orologio dovrà connettersi ad Internet e accedere ai tuoi contatti. Dovrai anche scaricare ulteriore audio. Procedere?"</string>
      <string name="module_download_msg_golbal">"Per rendere disponibili le sveglie intelligenti ed i suoni della natura, l'orologio dovrà scaricare ulteriore audio. Procedere?"</string>
+     <string name="module_download_msg_replace">Updated audio for smart alarms is available. Connect to the network and download now?</string>
      <string name="module_download_no_network">Impossibile connettersi alla rete. Controlla le impostazioni di rete e riprova.</string>
      <string name="module_download_ok">Concorda e Scarica</string>
      <string name="module_download_success">Scaricamento audio addizionali riuscito</string>
@@ -129,6 +154,7 @@
      <string name="reset">Azzera</string>
      <string name="revert">Ripristina</string>
      <string name="search_alarm_clock_keywords">Sveglia;Sveglia;</string>
+     <string name="search_menu_title">Search</string>
      <string name="search_stopwatch_keywords">Cronometro</string>
      <string name="search_timer_keywords">Timer</string>
      <string name="search_worldclock_keywords">Orario;Fuso orario;Orologio</string>

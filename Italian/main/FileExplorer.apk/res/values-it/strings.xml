@@ -190,13 +190,6 @@
      <string name="error_invalid_path">Percorso non corretto</string>
      <string name="error_not_support">Non supportato</string>
      <string name="error_open_file_failed_no_app_found">"Nessuna applicazione trovata per l'apertura del file"</string>
-     <string name="exo_controls_fastforward_description">Avanti</string>
-     <string name="exo_controls_next_description">Prossima traccia</string>
-     <string name="exo_controls_pause_description">Pausa</string>
-     <string name="exo_controls_play_description">Riproduci</string>
-     <string name="exo_controls_previous_description">Traccia precedente</string>
-     <string name="exo_controls_rewind_description">Indietro</string>
-     <string name="exo_controls_stop_description">Stop</string>
      <string name="extended_storage_file_can_not_open">Impossibile aprire il file. Copia il file nella memoria interna."</string>
      <string name="extract">Estrai</string>
      <string name="fail_to_create_folder_unknown">Impossibile creare: errore sconosciuto.</string>
@@ -311,6 +304,7 @@
      <string name="menu_item_sort_name">Nome</string>
      <string name="menu_item_sort_type">Tipo</string>
      <string name="menu_item_usb">USB</string>
+     <string name="menu_set_wallpaper">Set as wallpaper</string>
      <string name="message_comment_prefix">Commento:</string>
      <string name="message_my_received_notification">Nuovo messaggio</string>
      <string name="message_my_received_praise">Mi piace ricevuti</string>
@@ -656,7 +650,6 @@
      <string name="topic_title">Argomenti</string>
      <string name="transfer_done">File spostati con successo.</string>
      <string name="transfer_private_data">Spostamento dei file nascosti dalla scheda SD…</string>
-     <string name="transition_image">immagine di transizione</string>
      <string name="type_not_support">Questo formato non è supportato. Scompatta questo file e riprova.</string>
      <string name="ui_main_toast_favorite_added">Aggiunto correttamente</string>
      <string name="ui_main_toast_favorite_removed">Preferito(i) rimosso(i)</string>

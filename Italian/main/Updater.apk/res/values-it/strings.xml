@@ -50,6 +50,8 @@
      <string name="button_text_update">Aggiorna</string>
      <string name="cancel">Annulla</string>
      <string name="cancel_download">Interrompere il download di questo aggiornamento?</string>
+     <string name="check_local_package_nonsupport_exfat_msg">"Android devices can't install ROM from exFAT SD cards. Copy the ROM package to internal storage and try again."</string>
+     <string name="check_local_package_nonsupport_exfat_title">"Can't install ROM from this SD card"</string>
      <string name="check_local_package_suggest_wipe_checkbox">Cancella dati</string>
      <string name="check_local_package_suggest_wipe_msg">"Il pacchetto di aggiornamento selezionato (%s) è di una versione precedente a quella attuale. L'installazione di questo pacchetto potrebbe generare errori. Si consiglia di eseguire una cancellazione dei dati prima di procedere al prossimo passaggio"</string>
      <string name="check_local_package_suggest_wipe_title">Cancella dati e aggiorna</string>
@@ -163,6 +165,9 @@
      <string name="file_path_error_msg">Assicurati che la destinazione del pacchetto di aggiornamento contenga solo lettere e numeri.</string>
      <string name="file_path_error_title">Destinazione non corretta</string>
      <string name="finish">Finito</string>
+     <string name="format_cache_msg">"There isn't enough free space for an update in the cache partition of your device's storage. Tap \"Reboot\" to clear the cache partition and reboot your device. Your data won't be affected by this action."</string>
+     <string name="format_cache_positive_button">Reboot</string>
+     <string name="format_cache_title">Not enough space in cache partition</string>
      <string name="fourgrid_hint_text">Grazie per aver scelto la versione Developer di MIUI! Raccontaci cosa ne pensi ed aiutaci a migliorare MIUI.</string>
      <string name="fourgrid_no_notificaiont">Non mostrare nella barra di stato</string>
      <string name="fourgrid_notificaiont">Mostra nella barra di stato</string>
@@ -189,6 +194,8 @@ I dati non verranno cancellati."</string>
      <string name="install_local">Installa localmente</string>
      <string name="install_title">Sei sicuro di voler continuare?</string>
      <string name="internal_build">Interna</string>
+     <string name="join_preview_plan_sum">Use this feature to receive updates earlier than other people</string>
+     <string name="join_preview_plan_title">Receive updates early</string>
      <string name="keywords_auto_setting">Aggiornamenti automatici;Scarica automaticamente;Installa automaticamente;aggiornamenti automatici;auto-aggiornamenti; aggiorna automaticamente</string>
      <string name="keywords_updater">"Aggiornamento MIUI;aggiornamento di sistema;aggiornamento software;ROM;aggiornamento ROM;aggiornamento;aggiornamenti;verifica aggiornamenti;verifica aggiornamenti;trova aggiornamenti;scarica aggiornamenti;upgrade;upgrade;upgrade software;nuova versione;versione software;testing;cosa c'è di nuovo;cosa c'è di nuovo;log;log aggiornamento;apk;pacchetto di aggiornamento;pacchetto ROM;aggiornamenti automatici;aggiornamenti automatici;aggiornamenti automatici;versione MIUI;versione;aggiornamenti"</string>
      <string name="keywords_updater_settings">"Aggiornamenti;aggiornamento MIUI;aggiornamento di sistema;aggiornamento software;ROM;aggiornamento ROM;aggiornamento;aggiornamenti;verifica aggiornamenti;verifica aggiornamenti;trova aggiornamenti;scarica aggiornamenti;upgrade;upgrade;upgrade software;nuova versione;versione software;testing;cosa c'è di nuovo;cosa c'è di nuovo;log;log aggiornamento;apk;pacchetto di aggiornamento;pacchetto ROM;aggiornamenti automatici;aggiornamenti automatici; aggiornamenti automatici;versione MIUI;versione;aggiornamenti;Aggiornamenti;Scarica automaticamente;Installa automaticamente;Programma di segnalazioni Beta;rom"</string>

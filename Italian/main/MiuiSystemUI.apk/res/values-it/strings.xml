@@ -647,6 +647,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="face_unlock_down">Alza la testa</string>
      <string name="face_unlock_identify_error">Si è verificato un errore di riconoscimento</string>
      <string name="face_unlock_not_found">Impossibile riconoscerti</string>
+     <string name="face_unlock_not_roi">Keep your face inside the frame</string>
      <string name="face_unlock_offset_bottom">"Abbassa un po\' il dispositivo"</string>
      <string name="face_unlock_offset_left">Muoviti verso destra</string>
      <string name="face_unlock_offset_right">Muoviti verso sinistra</string>
@@ -1819,9 +1820,4 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
      <string name="zen_priority_introduction">Non sarai disturbato da suoni e vibrazioni, ad eccezione di allarmi, promemoria, eventi e chiamate specifiche.</string>
      <string name="zen_silence_introduction">Questo bloccherà TUTTI i suoni e le vibrazioni, inclusi gli allarmi, la musica, i video e i giochi.</string>
      <string name="zen_silence_introduction_voice">Questo bloccherà TUTTI i suoni e le vibrazioni, inclusi gli allarmi, la musica, i video e i giochi. Sarai tuttavia in grado di effettuare chiamate telefoniche.</string>
-        <string name="keyguard_left_calculator">Calcolatrice</string>
-	<string name="keyguard_left_calendar">Calendario</string>
-	<string name="keyguard_left_contacts">Contatti</string>
-	<string name="keyguard_left_music">Musica</string>
-	<string name="keyguard_left_notes">Note</string>
 </resources>

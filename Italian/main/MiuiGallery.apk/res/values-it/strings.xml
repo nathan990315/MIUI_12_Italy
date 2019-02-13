@@ -766,8 +766,8 @@
      <string name="download_type_thumbnail">Alta qualità</string>
      <string name="download_type_thumbnail_desc">Alta qualità</string>
      <string name="download_type_title">Qualità download</string>
-     <string name="download_without_wifi_msg">Utilizzando la connessione dati cellulare per il download delle foto consumerai molti dati. Superando il limite previsto dal tuo piano dati, il tuo operatore potrebbe addebitarti costi aggiuntivi.</string>
-     <string name="download_without_wifi_title">Avviso utilizzo dati</string>
+     <string name="download_with_metered_network_msg">Downloading original files may generate additional carrier fees. Download anyway?</string>
+     <string name="download_with_metered_network_title">"You're connected to a paid network"</string>
      <string name="downloading_desc">%1$d/%2$d</string>
      <string name="downloading_dialog_message">Puoi scegliere la qualità delle immagini scaricate o disattivare i download automatici nelle Impostazioni.</string>
      <string name="downloading_title">Download foto da Mi Cloud</string>
@@ -1074,6 +1074,9 @@ per personalizzare la Galleria"</string>
      <string name="merge_album_title">Unisci album</string>
      <string name="messagelist_sender_self">Io</string>
      <string name="micloud_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
+     <string name="month_view_tip_button_text">Got it</string>
+     <string name="month_view_tip_sub_title">Pinch the screen to switch to month view</string>
+     <string name="month_view_tip_title">Month view</string>
      <string name="more">Altro</string>
      <string name="more_album_hint">, etc</string>
      <string name="more_face">Altre persone che assomigliano</string>
@@ -1101,8 +1104,8 @@ per personalizzare la Galleria"</string>
      <string name="movie_download_failed_for_notwork">Impossibile scaricare. Collegati alla rete e prova di nuovo.</string>
      <string name="movie_download_sdk_without_wifi_msg">Sembra che il tuo dispositivo non sia collegato ad una rete Wi-Fi. Scaricare i plug-in richiesti (3MB) tramite rete dati mobile?</string>
      <string name="movie_download_sdk_without_wifi_title">Scarica con rete dati mobile</string>
-     <string name="movie_download_without_wifi_msg">"L'utilizzo della rete dati mobile per il download di file aumenterà il consumo di dati. Se superi il limite previsto dal tuo piano, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
-     <string name="movie_download_without_wifi_title">Avviso utilizzo dati</string>
+     <string name="movie_download_with_metered_network_msg">Downloading original files may generate additional carrier fees. Download anyway?</string>
+     <string name="movie_download_with_metered_network_title">"You're connected to a paid network"</string>
      <string name="movie_edit">Modifica</string>
      <string name="movie_item_name">Video</string>
      <string name="movie_preview_btn">Anteprima</string>
@@ -1227,6 +1230,7 @@ per personalizzare la Galleria"</string>
      <string name="photo_editor_crop_reset">Ripristina</string>
      <string name="photo_editor_doodle">Disegna</string>
      <string name="photo_editor_filter">Filtro</string>
+     <string name="photo_editor_font_default">>Mi Lanting (Regular)</string>
      <string name="photo_editor_frame">Frame</string>
      <string name="photo_editor_label">Modifica</string>
      <string name="photo_editor_long_crop">Taglia</string>
@@ -1283,6 +1287,11 @@ per personalizzare la Galleria"</string>
      <string name="photo_editor_talkback_redo">Aggiungi di nuovo</string>
      <string name="photo_editor_talkback_undo">Annulla</string>
      <string name="photo_editor_text">Testo</string>
+     <string name="photo_font_cancel_download">Cancel</string>
+     <string name="photo_font_download">Download</string>
+     <string name="photo_font_download_failed_for_notwork">"Couldn't download. Connect to the network and try again."</string>
+     <string name="photo_font_download_without_wifi_msg">"Using mobile data connection to download files will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
+     <string name="photo_font_download_without_wifi_title">Data usage warning</string>
      <string name="photo_movie_module_finish">Video caricati correttamente</string>
      <string name="photo_movie_module_loading">Caricamento video…</string>
      <string name="photo_movie_select_image_range">Le clip possono contenere da 3 a 6 foto</string>
@@ -1542,8 +1551,6 @@ per personalizzare la Galleria"</string>
      <string name="story_cancel_download">Annulla</string>
      <string name="story_download">Download</string>
      <string name="story_download_failed_for_notwork">Impossibile scaricare. Collegato alla rete e prova di nuovo.</string>
-     <string name="story_download_without_wifi_msg">"Usando la connessione dati mobile per il download dei file aumenti il consumo dei dati. Se superi il limite del tuo piano dati, l'operatore potrebbe addebitarti costi aggiuntivi."</string>
-     <string name="story_download_without_wifi_title">Avviso utilizzo dati</string>
      <string name="story_option_menu_delete">Cancella cronologia</string>
      <string name="story_option_menu_rename">Rinomina</string>
      <string name="story_photo_downloading">Download in corso…</string>
@@ -1589,6 +1596,8 @@ per personalizzare la Galleria"</string>
      <string name="text_edit_dialog_style_shadow">Ombra</string>
      <string name="text_edit_dialog_style_transparent">Opacità</string>
      <string name="text_edit_sub_menu_text">Bolla</string>
+     <string name="text_tab_bubble">Bubbles</string>
+     <string name="text_tab_watermark">Watermarks</string>
      <string name="things_album_empty_title">Le foto non possono essere ordinate in base agli oggetti in esse</string>
      <string name="thumbnail_name">anteprima</string>
      <string name="tip_capture_location">Località:</string>
@@ -1651,8 +1660,8 @@ per personalizzare la Galleria"</string>
      <string name="video_editor_down_load_now">Scarica</string>
      <string name="video_editor_download">Download</string>
      <string name="video_editor_download_failed_for_notwork">Impossibile scaricare. Connettiti alla rete e riprova.</string>
-     <string name="video_editor_download_without_wifi_msg">"L'utilizzo della connessione dati mobile per scaricare file aumenterà il consumo dei dati. Se supererai il limite dati del tuo piano, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
-     <string name="video_editor_download_without_wifi_title">Avviso di utilizzo dati</string>
+     <string name="video_editor_download_with_metered_network_msg">Downloading original files may generate additional carrier fees. Download anyway?</string>
+     <string name="video_editor_download_with_metered_network_title">"You're connected to a paid network"</string>
      <string name="video_editor_encode_video">Codifica video…</string>
      <string name="video_editor_encode_video_error">Impossibile codificare il video</string>
      <string name="video_editor_fatal_error">Errore sconosciuto</string>

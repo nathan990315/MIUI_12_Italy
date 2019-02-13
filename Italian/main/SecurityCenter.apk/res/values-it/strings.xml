@@ -203,9 +203,6 @@
      <string name="app_manager_net_mobile">Mobile</string>
      <string name="app_manager_net_wifi">Wi-Fi</string>
      <string name="app_manager_not_allow">No</string>
-     <string name="app_manager_notify_bar">Badge</string>
-     <string name="app_manager_notify_floating">Notifiche flottanti</string>
-     <string name="app_manager_notify_keyguard">Blocco schermo</string>
      <string name="app_manager_open_show_all_apps_immediate">Mostra tutti i risultati</string>
      <string name="app_manager_perm">Permessi</string>
      <string name="app_manager_permission_manager_title">Permessi</string>
@@ -496,16 +493,19 @@ se dimenticata"</string>
      <string name="card_main_applock_summary">Proteggi la tua privacy con il Blocco App</string>
      <string name="card_main_applock_title">Blocco app</string>
      <string name="card_main_deepclean_action">Pulisci</string>
+     <string name="card_main_deepclean_facebook_title">Pulizia Facebook</string>
      <string name="card_main_deepclean_qq_title">Pulizia QQ</string>
      <string name="card_main_deepclean_summary">Elimina i file non necessari</string>
      <string name="card_main_deepclean_title">Pulizia</string>
      <string name="card_main_deepclean_wechat_action">Cancella</string>
      <string name="card_main_deepclean_wechat_summary">Cancella cache WeChat per liberare spazio di archiviazione</string>
      <string name="card_main_deepclean_wechat_title">Cache WeChat</string>
+     <string name="card_main_deepclean_whatsapp_title">Pulizia WhatsApp</string>
      <string name="card_main_gamebooster_summary">Migliora la stabilità della connessione per i giochi</string>
      <string name="card_main_gamebooster_title">Turbo videogiochi</string>
      <string name="card_main_hbassistant_summary">Utilizza questo strumento per ottimizzare la velocità dei giochi</string>
      <string name="card_main_hbassistant_title">Turbo videogiochi</string>
+     <string name="card_main_hwtest_title">Test hardware</string>
      <string name="card_main_monthreport_action">Visualizza</string>
      <string name="card_main_netcheck_action">Verifica</string>
      <string name="card_main_netcheck_summary">Verifica la connessione per risolvere i problemi di rete</string>
@@ -824,8 +824,6 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="first_aid_card_consume_power_summary1">"Più di 5 app sono state autorizzate per l'esecuzione automatico. Limitare per risparmiare batteria."</string>
      <string name="first_aid_card_consume_power_summary2">Disattiva hotspot portatile per risparmiare batteria</string>
      <string name="first_aid_card_consume_power_title">Utilizzo batteria</string>
-     <string name="first_aid_card_float_window_button">Limita</string>
-     <string name="first_aid_card_float_window_title">Hai consentito le notiche flottanti</string>
      <string name="first_aid_card_kadun_button1">Libera spazio</string>
      <string name="first_aid_card_kadun_button2">Limita</string>
      <string name="first_aid_card_kadun_button3">Disattiva</string>
@@ -2452,7 +2450,4 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="xunyou_server_expired">Sessione scaduta.</string>
      <string name="yuan">CNY</string>
      <string name="zhifubao_not_found">Applicazione non installata o versione troppo vecchia</string>
-	 <string name="card_main_hwtest_title">Test hardware</string>
-	 <string name="card_main_deepclean_facebook_title">Pulizia Facebook</string>
-	 <string name="card_main_deepclean_whatsapp_title">Pulizia WhatsApp</string>
 </resources>

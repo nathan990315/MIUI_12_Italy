@@ -20,6 +20,9 @@
         <item quantity="other">Ritardo molto breve (%1$d ms)</item>
         <item quantity="one">Ritardo molto breve (%1$d ms)</item>
      </plurals>
+     <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Hour %2$s"</item>
+     </plurals>
      <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Disattivato per %d app</item>
         <item quantity="one">Disattivato per %d app</item>
