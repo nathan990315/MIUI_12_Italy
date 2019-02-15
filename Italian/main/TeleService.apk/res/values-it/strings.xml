@@ -1649,16 +1649,16 @@ Questo tablet non ha un auricolare. È possibile passare alla modalità vivavoce
      <string name="volte_switch_title">VoLTE attivato</string>
      <string name="volte_switch_title_ct">VoLTE abilitato</string>
      <string name="volte_tips_when_turn_on">China Telecom VoLTE services are only provided in the areas with LTE network coverage.</string>
-     <string name="vowifi_emergency_notification_channel">WLAN Calling emergency warning</string>
-     <string name="vowifi_emergency_notification_content">Emergency calls are possible in areas with mobile network coverage</string>
-     <string name="vowifi_emergency_notification_title">Vodafone WLAN Calling</string>
-     <string name="vowifi_emergency_warning_check">"Don't show again"</string>
-     <string name="vowifi_emergency_warning_message">"WLAN Calling can't be used for emergency calls.
+     <string name="vowifi_emergency_notification_channel">Avviso di chimata di emergenza Wi-Fi</string>
+     <string name="vowifi_emergency_notification_content">Le chiamate di emergenza sono possibili nelle aree con copertura della rete mobile</string>
+     <string name="vowifi_emergency_notification_title">Chiamata Wi-Fi Vodafone</string>
+     <string name="vowifi_emergency_warning_check">Non mostrare più</string>
+     <string name="vowifi_emergency_warning_message">"Le chiamate Wi-Fi non possono essere utilizzate per le chiamate di emergenza.
 
 Your device will automatically switch to a mobile network (2G/3G) to place an emergency call.
 
 Emergency calls are only possible in areas with mobile network coverage."</string>
-     <string name="vowifi_emergency_warning_title">ECC calls via WLAN Calling</string>
+     <string name="vowifi_emergency_warning_title">Chiamate ECC tramite Chiamata Wi-Fi</string>
      <string name="vpn_settings_not_available">Impostazioni VPN non disponibili per questo utente</string>
      <string name="vvm_unsupported_message_format">Tipi di messaggi non supportati, chiama %s per ascoltare.</string>
      <string name="wait_for_debugger">Attendi il debugger</string>
@@ -1692,8 +1692,8 @@ Emergency calls are only possible in areas with mobile network coverage."</strin
      <string name="wifi_auth_password_wrong">La password potrebbe essere sbagliata</string>
      <string name="wifi_auto_sel_wapi_cert">Seleziona automaticamente</string>
      <string name="wifi_call_setting">Chiamate Wi-Fi</string>
-     <string name="wifi_call_setting_vodafone_de">WLAN calling</string>
-     <string name="wifi_call_setting_vodafone_uk">WLAN call</string>
+     <string name="wifi_call_setting_vodafone_de">Chiamata Wi-Fi</string>
+     <string name="wifi_call_setting_vodafone_uk">Chiamata Wi-Fi</string>
      <string name="wifi_calling">Chiamate Wi-Fi</string>
      <string name="wifi_connected_no_internet">Connesso, internet assente</string>
      <string name="wifi_disabled_by_recommendation_provider">Non connesso a causa di scarsa qualità della rete</string>

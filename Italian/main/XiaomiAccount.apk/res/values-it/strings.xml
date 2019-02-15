@@ -77,7 +77,7 @@
      <string name="completed">Completato</string>
      <string name="confirm_activate_email">Verificato</string>
      <string name="confirm_bundled_phone_dialog_title">Conferma numero di telefono collegato</string>
-     <string name="confirm_new_pwd">Confirm new password</string>
+     <string name="confirm_new_pwd">Conferma la nuova password</string>
      <string name="confirm_phone_number_dialog_message">Il codice di verifica verrà inviato a: %s.</string>
      <string name="confirm_phone_number_dialog_title">Conferma numero di telefono</string>
      <string name="confirm_unbind">Confermi?</string>
@@ -131,9 +131,9 @@ Invia questo codice ai tecnici."</string>
      <string name="get_phone_verifycode_exceed_limit">Sono stati inviati troppi codici di verifica su questo numero. Aspetta 24 ore e riprova.</string>
      <string name="guest_account_label">Account Ospite Mi</string>
      <string name="identity">Identificazione</string>
-     <string name="inconsistent_pwd">"Passwords don't match"</string>
+     <string name="inconsistent_pwd">Le password non corrispondono</string>
      <string name="input_email_address_notice">Useremo questa email per verificare il tuo account</string>
-     <string name="input_new_pwd">Enter new password</string>
+     <string name="input_new_pwd">Inserisci la nuova password</string>
      <string name="io_error_title">Conferma la tua rete</string>
      <string name="just_a_second">Attendi…</string>
      <string name="loading_micloud_sync_data">Caricamento…</string>
@@ -143,8 +143,8 @@ Invia questo codice ai tecnici."</string>
      <string name="logout_account">Esci</string>
      <string name="logout_failed">Impossibile uscire</string>
      <string name="mi_account_identity_title">Verifica la tua identità</string>
-     <string name="mi_finance">My finances</string>
-     <string name="mi_finance_info">Bonuses for new users</string>
+     <string name="mi_finance">Le mie finanze</string>
+     <string name="mi_finance_info">Bons er nuovi utenti</string>
      <string name="mi_vip_info">Mostra privilegi</string>
      <string name="mipay">Paga</string>
      <string name="mipay_balance">Saldo</string>
@@ -409,7 +409,7 @@ Per attivare il tuo account, segui il
      <string name="restart_action">Riavvia</string>
      <string name="restart_phone_bind_message">"È necessario un po' di tempo per la ricezione dell'SMS, sei sicuro di voler cambiare il recapito telefonico di ripristino?"</string>
      <string name="restart_phone_bind_title">Modifica il numero di telefono di ripristino</string>
-     <string name="same_new_and_old_pwd">"Can't be the same as current password"</string>
+     <string name="same_new_and_old_pwd">Non può essere la password corrente</string>
      <string name="scan_barcode_title">"Esegui l'accesso sicuro al Mi Account scansionando il codice QR dalla pagina web o dalla TV"</string>
      <string name="search_account_security">Sicurezza account</string>
      <string name="search_account_security_desc">Impostazioni account</string>
@@ -431,7 +431,7 @@ Per attivare il tuo account, segui il
      <string name="service_error">Errore di servizio</string>
      <string name="set_success">Modificato correttamente</string>
      <string name="sign_in">Accesso in corso</string>
-     <string name="sim_card">SIM card</string>
+     <string name="sim_card">SIM</string>
      <string name="sim_changed_notification_msg">Tocca per aggiornare la recovery del tuo telefono e mantieni il tuo account al sicuro.</string>
      <string name="sim_changed_notification_title">Hai cambiato numero di telefono?</string>
      <string name="sina_weibo">Sina Weibo</string>
@@ -450,7 +450,7 @@ Per attivare il tuo account, segui il
      <string name="update_email_address_dialog_title">Aggiorna Email</string>
      <string name="update_phone_notice">Modifica impostazioni di sicurezza</string>
      <string name="update_phone_number_notice_message">Devi verificare la tua identità prima di poter aggiornare il numero.</string>
-     <string name="used_cloud_storage_info">used storage space %s</string>
+     <string name="used_cloud_storage_info">spazio utilizzato %s</string>
      <string name="user_avatar_update_title">Aggiorna immagine profilo</string>
      <string name="user_avatar_uploading">Caricamento…</string>
      <string name="vip_account_settings">Impostazioni VIP</string>
