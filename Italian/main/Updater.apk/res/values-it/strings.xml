@@ -50,7 +50,7 @@
      <string name="button_text_update">Aggiorna</string>
      <string name="cancel">Annulla</string>
      <string name="cancel_download">Interrompere il download di questo aggiornamento?</string>
-     <string name="check_local_package_nonsupport_exfat_msg">"I dispositivi Android non possono instalalre ROM da schede SD exFAT. Copia il pacchetto della ROM nella memoria interna e prova di nuovo."</string>
+     <string name="check_local_package_nonsupport_exfat_msg">I dispositivi Android non possono installare ROM da schede SD exFAT. Copia il pacchetto della ROM nella memoria interna e prova di nuovo.</string>
      <string name="check_local_package_nonsupport_exfat_title">Impossibile installare la ROM da questa scheda SD</string>
      <string name="check_local_package_suggest_wipe_checkbox">Cancella dati</string>
      <string name="check_local_package_suggest_wipe_msg">"Il pacchetto di aggiornamento selezionato (%s) è di una versione precedente a quella attuale. L'installazione di questo pacchetto potrebbe generare errori. Si consiglia di eseguire una cancellazione dei dati prima di procedere al prossimo passaggio"</string>
@@ -165,7 +165,7 @@
      <string name="file_path_error_msg">Assicurati che la destinazione del pacchetto di aggiornamento contenga solo lettere e numeri.</string>
      <string name="file_path_error_title">Destinazione non corretta</string>
      <string name="finish">Finito</string>
-     <string name="format_cache_msg">"Sapzio insufficiente per un aggiornamento nella partizione cache della memoria del dispositivo. Tocca \"Riavvia\" per cancellare la partizione cache e riavviare il dispositivo. I tuoi dati non verranno modificati da questa azione."</string>
+     <string name="format_cache_msg">"Spazio insufficiente per un aggiornamento nella partizione cache della memoria del dispositivo. Tocca \"Riavvia\" per cancellare la partizione cache e riavviare il dispositivo. I tuoi dati non verranno modificati da questa azione."</string>
      <string name="format_cache_positive_button">Riavvia</string>
      <string name="format_cache_title">Spazio insufficiente nella partizione cache</string>
      <string name="fourgrid_hint_text">Grazie per aver scelto la versione Developer di MIUI! Raccontaci cosa ne pensi ed aiutaci a migliorare MIUI.</string>
