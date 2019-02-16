@@ -1613,4 +1613,12 @@
         <item>Scala animazione 5x</item>
         <item>Scala animazione 10x</item>
      </string-array>
+	 <string-array name="default_vol_stream_entries">
+	    <item>Suoneria</item>
+	    <item>Media</item>
+	 </string-array> 
+	 <string-array name="status_bar_settings_qs_layout_entries">
+	    <item>Predefinito</item> 
+	    <item>Compatto</item>
+    </string-array>
 </resources>
