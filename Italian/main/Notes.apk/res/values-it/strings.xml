@@ -214,6 +214,14 @@
      <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perché troppo lungo.</string>
      <string name="toast_refuse_to_record_when_in_call">Impossibile utilizzare questa funzionalità durante le chiamate</string>
      <string name="toast_refuse_to_record_when_in_multi_window">Impossibile utilizzare questa funzionalità in modalità multi-finestra</string>
+     <string name="toast_refuse_to_use_contact">"Contacts permissions are restricted.
+Allow Notes to read your contacts and find accounts on the device."</string>
+     <string name="toast_refuse_to_use_external_storage">"Storage permissions are restricted.
+Allow Notes to read the contents of your SD card."</string>
+     <string name="toast_refuse_to_use_phone_state">"Phone permissions are restricted.
+Allow Notes to read phone status and identity."</string>
+     <string name="toast_refuse_to_use_record_audio">"Microphone permissions are restricted.
+Allow Notes to record audio."</string>
      <string name="toolbar_check_description">Aggiungi checkbox</string>
      <string name="toolbar_delete_description">Elimina questa nota</string>
      <string name="toolbar_gallery_description">Aggiungi immagine</string>
