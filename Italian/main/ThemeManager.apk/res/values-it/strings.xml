@@ -34,8 +34,10 @@
      <string name="ad_app_download_start">Avvio download...</string>
      <string name="ad_app_is_downloading">Download in corso...</string>
      <string name="ad_begin_to_download_tip">Avvio download…</string>
+     <string name="ad_begin_to_install_tip">Installing…</string>
      <string name="ad_closed_tip">"Vedrai meno pubblicità di questo genere"</string>
      <string name="ad_download_download">Download</string>
+     <string name="ad_download_download_now">Download</string>
      <string name="ad_download_install">Installa</string>
      <string name="ad_download_open">Apri</string>
      <string name="ad_download_pause">Pausa</string>
@@ -100,6 +102,7 @@
      <string name="download_failed">Download fallito</string>
      <string name="download_preview_failed">Impossibile caricare anteprime</string>
      <string name="download_success">Scaricato correttamente</string>
+     <string name="dynamic_video_wallpaper">24H wallpaper</string>
      <string name="exit_extreme_mode_dialog_agree">Concordo</string>
      <string name="exit_extreme_mode_dialog_cancel">Annulla</string>
      <string name="exit_extreme_mode_dialog_title">Disattiva Modalità estrema</string>
@@ -139,8 +142,10 @@
      <string name="fail_to_add_account">Impossibile aggiungere account</string>
      <string name="favorite_list">Preferiti</string>
      <string name="favorite_list_format">%1$s preferiti</string>
+     <string name="find_more_font">Find more</string>
      <string name="find_more_theme">Trova altro</string>
      <string name="find_more_wallpapers">Cerca altri</string>
+     <string name="float_wallpaper_is_here">Transparent wallpaper</string>
      <string name="gift_anonymous">Anonimo</string>
      <string name="gift_operation_fail_dlg_abandon">Annulla</string>
      <string name="gift_operation_fail_dlg_retry">Riprova</string>
@@ -181,6 +186,16 @@
      <string name="home_apply_failured">Impossibile applicare lo sfondo Home</string>
      <string name="home_apply_success">Sfondo Home applicato</string>
      <string name="in_the_end">"Nient'altro"</string>
+     <string name="incall_show_apply">Profile video for outgoing calls</string>
+     <string name="incall_show_apply_fail">"Couldn't set"</string>
+     <string name="incall_show_apply_success">Set successfully</string>
+     <string name="incall_show_apply_success_without_ringtone">"Set profile video for outgoing calls successfully.
+This video has no sound. The other person will hear their ringtone while it's playing."</string>
+     <string name="incall_show_find_more">Find more</string>
+     <string name="incall_show_not_set">No profile videos</string>
+     <string name="incall_show_remove">Remove profile video</string>
+     <string name="incall_show_remove_dialog_message">"You've already set a profile video for outgoing calls. Remove the video now?"</string>
+     <string name="incall_show_remove_success">Removed profile video successfully</string>
      <string name="incompatible_dialog_cancel">Non applicare</string>
      <string name="incompatible_dialog_message">Questo tema non è pienamente compatibile con MIUI 10. Alcuni elementi potrebbero non essere visualizzati correttamente.</string>
      <string name="incompatible_dialog_ok">OK</string>
@@ -190,6 +205,7 @@
      <string name="item_resource_audio_optional_color_ring">colore</string>
      <string name="item_resource_audio_optional_notification_ring">suono notifica</string>
      <string name="item_resource_audio_optional_phone_ring">suono telefono</string>
+     <string name="lab">Beta features</string>
      <string name="live_wallpaper">Sfondi animati</string>
      <string name="loading">Caricamento…</string>
      <string name="loading_resource_detail_fail">Impossibile caricare la risorsa.</string>
@@ -229,6 +245,12 @@
      <string name="miuishare_title_share">Condividi</string>
      <string name="miuishare_wechat_timeline_title">Momenti WeChat</string>
      <string name="miuishare_weibo_title">Weibo</string>
+     <string name="mix_global_option">General</string>
+     <string name="mix_global_option_des">Notification shade, Phone, Messaging, and other system elements. Uncheck this box to use default options.</string>
+     <string name="mix_home_option_des">Wallpaper and clock. Uncheck this box to use default options.</string>
+     <string name="mix_icons_option_des">Home screen icons. Uncheck this box to use default options.</string>
+     <string name="mix_lockscreen_option_des">Wallpaper and clock. Uncheck this box to use default options.</string>
+     <string name="mix_tip">Theme components</string>
      <string name="multi_sim_ringtone_settings_dialog_message">La suoneria viene applicata alla SIM 1 e alla SIM 2 allo stesso tempo.</string>
      <string name="multi_sim_ringtone_settings_dialog_ok">Ho capito</string>
      <string name="multi_sim_ringtone_settings_dialog_remind_never">Non mostrare più</string>
@@ -251,6 +273,7 @@
      <string name="online_search_hint">Cerca risorse online</string>
      <string name="password_toggle_content_description">Attiva visibilità password</string>
      <string name="pref_privacy_policy">Informativa sulla Privacy</string>
+     <string name="present_local_fonts">My fonts</string>
      <string name="present_local_themes">Scaricati</string>
      <string name="present_local_themes_subtitle">Personalizza il tuo dispositivo</string>
      <string name="present_official_themes">Selezione ufficiale</string>
@@ -460,6 +483,9 @@
      <string name="resource_title_subject">In evidenza</string>
      <string name="resource_trial_days">(prova: %1$dd)</string>
      <string name="resource_trial_days_hours">(prova: %1$dd %2$dh)</string>
+     <string name="resource_trial_end_checkbox_hint">Receive Mi Credits first</string>
+     <string name="resource_trial_end_get_mibi">Receive Mi Credits</string>
+     <string name="resource_trial_end_jump_hint">Redirecting…</string>
      <string name="resource_trial_end_message">La prova di %1$s è terminata. Se ti piace, ti preghiamo di acquistarlo.</string>
      <string name="resource_trial_end_purchase">Acquista</string>
      <string name="resource_trial_end_restore">Prova terminata</string>
@@ -515,6 +541,8 @@
      <string name="theme_changed_failed_message">Cambio tema non riuscito</string>
      <string name="theme_changed_message">Applicato con successo</string>
      <string name="theme_changing_dialog_title">Installazione nuovo tema, attendere…</string>
+     <string name="theme_comment_dialog_message">Rate this app and tell us what you think.</string>
+     <string name="theme_comment_dialog_ok">Rate</string>
      <string name="theme_component_title_alarm">Suonerie sveglia</string>
      <string name="theme_component_title_alarmstyle">Stili sveglia</string>
      <string name="theme_component_title_all">Temi</string>
@@ -563,6 +591,8 @@
      <string name="theme_purchased_non_local">Online</string>
      <string name="theme_select_others">Sfoglia</string>
      <string name="theme_setting">Impostazioni</string>
+     <string name="theme_staggered_item_text">Receive Mi Credits</string>
+     <string name="theme_to_comment">Not bad!</string>
      <string name="theme_user_agreement_allow">"D'accordo"</string>
      <string name="theme_user_agreement_content1">"Premendo D'accordo, accetti i termini indicati nel nostro "</string>
      <string name="theme_user_agreement_content2">Accordo utente</string>
@@ -587,6 +617,15 @@
      <string name="title_system_audio_resource">Suonerie di sistema</string>
      <string name="title_system_wallpaper_resource">Sfondi di sistema</string>
      <string name="to_activate_the_account">Attiva il tuo Mi Account</string>
+     <string name="transparent_wallpaper">Transparent wallpaper</string>
+     <string name="transparent_wallpaper_apply_success">Set successfully. You can turn this feature off in Themes > Profile > Beta features.</string>
+     <string name="transparent_wallpaper_enable_success">Turned on successfully</string>
+     <string name="transparent_wallpaper_guide">Go to Themes</string>
+     <string name="transparent_wallpaper_guide_tip">You can select a transparent wallpaper in Themes now.</string>
+     <string name="transparent_wallpaper_white_wallpaper">Make background white</string>
+     <string name="transparent_wallpaper_white_wallpaper_failed">"Couldn't make background white"</string>
+     <string name="transparent_wallpaper_white_wallpaper_success">Background color is white now</string>
+     <string name="transparent_wallpaper_white_wallpaper_tip">Transparent wallpaper looks best on white background</string>
      <string name="uid_change_dialog_message">Hai eliminato gli aggiornamenti. Riavvia il dispositivo per poter utilizzare i temi.</string>
      <string name="uid_change_dialog_ok">Ho capito</string>
      <string name="uid_change_dialog_title">Riavvia dispositivo</string>
@@ -608,6 +647,7 @@
      <string name="video_data_tips_message">"L'utilizzo di dati mobili può comportare costi aggiuntivi. Continuare comunque?"</string>
      <string name="video_data_tips_title">Avviso utilizzo dati</string>
      <string name="video_silence_apply_success">Configurazione video senza suono riuscita</string>
+     <string name="video_wallpaper_import">Tap to add items</string>
      <string name="wallpaper_apply">Applica</string>
      <string name="wallpaper_crop">Taglia</string>
      <string name="wallpaper_decoded_error">Decodifica fallita</string>
@@ -615,6 +655,7 @@
      <string name="wallpaper_scroll_type_tips">Scorrimento sfondo</string>
      <string name="wallpaper_set_as_both">Imposta per entrambi</string>
      <string name="wallpaper_set_as_desktop">Imposta come schermata Home</string>
+     <string name="wallpaper_set_as_float_wallpaper">Transparent wallpaper (Beta)</string>
      <string name="wallpaper_set_as_lockscreen">Imposta come Schermata di blocco</string>
      <string name="wallpaper_settings">Impostazione sfondo</string>
      <string name="wallpaper_settings_loading_text">Caricamento</string>

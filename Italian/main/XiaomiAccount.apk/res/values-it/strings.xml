@@ -102,6 +102,7 @@ Invia questo codice ai tecnici."</string>
      <string name="error_dup_binded_email">Questo indirizzo email è già associato ad un altro Mi Account.</string>
      <string name="error_invalid_bind_address">"L'email inserita non è valida."</string>
      <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro Mi Account.</string>
+     <string name="exit">Exit</string>
      <string name="facebook">Facebook</string>
      <string name="failed_dup_secure_phone_number">Questo numero è già associato ad un Mi Account</string>
      <string name="find_device_access_denied">Impossibile recuperare lo stato, accesso negato</string>
@@ -130,12 +131,20 @@ Invia questo codice ai tecnici."</string>
      <string name="get_phone_bind_exceed_limit">"Il numero di telefono collegato all'account ha raggiunto il massimo di account collegati(3), non può essere collegato ad altri account"</string>
      <string name="get_phone_verifycode_exceed_limit">Sono stati inviati troppi codici di verifica su questo numero. Aspetta 24 ore e riprova.</string>
      <string name="guest_account_label">Account Ospite Mi</string>
+     <string name="i_agree">OK</string>
+     <string name="i_agree_continue">Continue</string>
      <string name="identity">Identificazione</string>
      <string name="inconsistent_pwd">Le password non corrispondono</string>
      <string name="input_email_address_notice">Useremo questa email per verificare il tuo account</string>
      <string name="input_new_pwd">Inserisci la nuova password</string>
      <string name="io_error_title">Conferma la tua rete</string>
      <string name="just_a_second">Attendi…</string>
+     <string name="kr_license_desc">Mi Account and MiCloud Service need you to agree user agreement and privacy policy.</string>
+     <string name="kr_permission_contacts_desc">Used to read contacts info</string>
+     <string name="kr_permission_desc">Please read the required permissions below</string>
+     <string name="kr_permission_phone_desc">Used for account safety</string>
+     <string name="kr_permission_sms_desc">Used for auto fill in verification code</string>
+     <string name="kr_permission_storage_desc">Used for store diagnosis info</string>
      <string name="loading_micloud_sync_data">Caricamento…</string>
      <string name="login_check_find_device">Recupero informazioni di sicurezza…</string>
      <string name="login_check_find_device_failed_title">"Impossibile verificare le informazioni di sicurezza del dispositivo"</string>
@@ -173,6 +182,7 @@ Invia questo codice ai tecnici."</string>
      <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; otterrà i seguenti permessi:&lt;br&gt; &lt;br&gt; %3$s</string>
      <string name="oauth_title">Accedi con il Mi Account</string>
      <string name="ok">OK</string>
+     <string name="optional_permissions">Optional permissions</string>
      <string name="passport_Resend">Reinvia</string>
      <string name="passport_access_denied">Accesso negato</string>
      <string name="passport_account_hint_text">Email o numero di telefono</string>
@@ -289,6 +299,7 @@ Per attivare il tuo account, segui il
      <string name="passport_phone_ticket_login">Accedi con numero di telefono</string>
      <string name="passport_prev">Indietro</string>
      <string name="passport_privacy_policy">Informativa sulla Privacy</string>
+     <string name="passport_privacy_policy_required">Privacy Policy (required)</string>
      <string name="passport_pwd_generate_failure">Impossibile generare la password</string>
      <string name="passport_pwd_generating">Creazione…</string>
      <string name="passport_querying_phone_info">Richiesta informazioni telefono utente…</string>
@@ -376,6 +387,7 @@ Per attivare il tuo account, segui il
      <string name="passport_user_agreement_p2">Accordo Utente</string>
      <string name="passport_user_agreement_p3"> e </string>
      <string name="passport_user_agreement_p4">Informativa sulla Privacy</string>
+     <string name="passport_user_agreement_required">User Agreement (required)</string>
      <string name="passport_user_id_notice">Il tuo ID Mi Account ID è %s.</string>
      <string name="passport_user_reg_region">Nazione/Regione</string>
      <string name="passport_user_reg_region_warning">"Non sarai in grado di modificare la Nazione/Regione una volta che avrai creato l'account"</string>
@@ -391,6 +403,10 @@ Per attivare il tuo account, segui il
      <string name="passport_wrong_vcode">Il codice inserito non è corretto</string>
      <string name="passport_wrong_voice">Il codice immesso non è corretto</string>
      <string name="passport_yes">Sì</string>
+     <string name="permission_group_contacts">Contacts</string>
+     <string name="permission_group_phone">Phone</string>
+     <string name="permission_group_sms">SMS</string>
+     <string name="permission_group_storage">Storage</string>
      <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
      <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
      <string name="push_notification_content">Premi per ricevere il codice di verifica</string>
@@ -425,6 +441,7 @@ Per attivare il tuo account, segui il
      <string name="search_user_detail_desc">Informazioni personali</string>
      <string name="search_user_detail_path">Mi Account/Informazioni personali</string>
      <string name="search_user_detail_top_key_words">Informazioni personali,Modifica immagine profilo,Cambia nome utente,Cambia Nick,Modifica compleanno,Modifica genere</string>
+     <string name="select_all">Select all</string>
      <string name="send_diagnosis_log">Invio log di diagnosi</string>
      <string name="send_email_activate_message">Email di verifica inviata</string>
      <string name="sending">Invio in corso...</string>
