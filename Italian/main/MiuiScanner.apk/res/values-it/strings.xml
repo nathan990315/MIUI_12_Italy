@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="abc_action_bar_home_description">Navigate home</string>
+     <string name="abc_action_bar_home_description">Vai alla home</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-     <string name="abc_action_bar_up_description">Navigate up</string>
-     <string name="abc_action_menu_overflow_description">More options</string>
-     <string name="abc_action_mode_done">Done</string>
-     <string name="abc_activity_chooser_view_see_all">See all</string>
-     <string name="abc_activitychooserview_choose_application">Choose an app</string>
+     <string name="abc_action_bar_up_description">Vai in alto</string>
+     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+     <string name="abc_action_mode_done">Fatto</string>
+     <string name="abc_activity_chooser_view_see_all">Vedi tutto</string>
+     <string name="abc_activitychooserview_choose_application">Secgli un'app</string>
      <string name="abc_capital_off">OFF</string>
      <string name="abc_capital_on">ON</string>
-     <string name="abc_search_hint">Search…</string>
-     <string name="abc_searchview_description_clear">Clear query</string>
-     <string name="abc_searchview_description_query">Search query</string>
+     <string name="abc_search_hint">Cerca…</string>
+     <string name="abc_searchview_description_clear">Cancella termine</string>
+     <string name="abc_searchview_description_query">Cerca termine</string>
      <string name="abc_searchview_description_search">Search</string>
-     <string name="abc_searchview_description_submit">Submit query</string>
-     <string name="abc_searchview_description_voice">Voice search</string>
-     <string name="abc_shareactionprovider_share_with">Share with</string>
-     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-     <string name="abc_toolbar_collapse_description">Collapse</string>
+     <string name="abc_searchview_description_submit">Avvia ricerca</string>
+     <string name="abc_searchview_description_voice">Ricerca vocale</string>
+     <string name="abc_shareactionprovider_share_with">Condividi con</string>
+     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+     <string name="abc_toolbar_collapse_description">Chiudi</string>
      <string name="about_title">Informazioni</string>
      <string name="access_sd_fail">Impossibile accedere alla scheda SD</string>
      <string name="accessibility_shutter_button">Scatta</string>
@@ -168,7 +168,7 @@
      <string name="scan_result">Risultato</string>
      <string name="scan_support_type">WeChat, Alipay, QR code, barcode</string>
      <string name="sdk_not_ready">Preparazione SDK. Riprova più tardi.</string>
-     <string name="search_menu_title">Search</string>
+     <string name="search_menu_title">Cerca</string>
      <string name="secure_access_web_url">Vai al sito web</string>
      <string name="see_app_details">Visualizza dettagli app</string>
      <string name="select_dialog_confirm">OK</string>

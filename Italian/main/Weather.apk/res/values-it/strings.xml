@@ -14,7 +14,6 @@
      <string name="act_weather_find_city_net_no_good">Impossibile connettersi alla rete.</string>
      <string name="act_weather_find_city_no_result">Nessun risultato</string>
      <string name="act_weather_find_city_searching">Ricerca…</string>
-     <string name="activity_alert_detail_title" />
      <string name="activity_find_city_dialog_cancel">Annulla</string>
      <string name="activity_find_city_dialog_message">Il servizio meteo utilizzerà il servizio di localizzazione</string>
      <string name="activity_find_city_dialog_message_global">Consenti a Meteo di accedere alla tua posizione e passa alla modalità di localizzazione ad alta precisione per ottenere informazioni pertinenti sulla posizione.</string>
@@ -22,7 +21,6 @@
      <string name="activity_find_city_dialog_set">Impostazioni</string>
      <string name="activity_find_city_dialog_title">Servizio di localizzazione</string>
      <string name="activity_main_clickable">></string>
-     <string name="activity_main_one_alert" />
      <string name="activity_main_pub_time">Pubblicato alle %1$s</string>
      <string name="activity_main_time_format">E</string>
      <string name="activity_main_update_time">Aggiornato %1$s</string>
@@ -103,6 +101,8 @@
      <string name="daily_forecast_add_city_message">Segui il meteo in %1$s per una previsione più dettagliata.</string>
      <string name="daily_forecast_add_city_title">Segui in metro in %1$s</string>
      <string name="daily_forecast_detail_date">d/M</string>
+     <string name="activity_alert_detail_title" />
+     <string name="activity_main_one_alert" />
      <string name="daily_forecast_no_data">"Impossibile recuperare i dati
 trascina verso il basso per aggiornare o verifica le impostazioni di rete"</string>
      <string name="data_provided_by">Fornito da</string>
@@ -131,9 +131,6 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="hourly_forecast_title_hourly_desc">Previsioni orarie</string>
      <string name="index_item_downloading">In download</string>
      <string name="index_item_experience_now">Installa adesso</string>
-     <string name="index_item_install_dialog" />
-     <string name="index_item_install_dialog_cancel" />
-     <string name="index_item_install_dialog_open" />
      <string name="index_item_install_now">Installa adesso</string>
      <string name="index_item_installing">Installazione</string>
      <string name="index_item_installing2">Installazione</string>
@@ -148,6 +145,9 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="international_details_uv_index_title">INDICE UV</string>
      <string name="international_details_wind_title">VENTO</string>
      <string name="it_is_going_to_rain">Sta iniziando a piovere</string>
+     <string name="index_item_install_dialog" />
+     <string name="index_item_install_dialog_cancel" />
+     <string name="index_item_install_dialog_open" />
      <string name="locate_fail_detail_err">"Impossibile localizzare il dispositivo
 Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="location_provider_btn_text">Attiva i servizi di localizzazione</string>
@@ -183,14 +183,14 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="particulate_matter_exceeded">Alto</string>
      <string name="particulate_matter_not_exceeded">Normale</string>
      <string name="particulate_matter_serious_exceeded">Troppo alto</string>
-     <string name="permission_device_info">Device info</string>
-     <string name="permission_device_introduce">For recognizing device ID based on device model and IMEI, and providing localized services based on language preferences</string>
-     <string name="permission_exit">Exit</string>
-     <string name="permission_privacy">Privacy Policy (mandatory)</string>
-     <string name="permission_select_all">Select all</string>
-     <string name="permission_storage">Storage</string>
-     <string name="permission_storage_introduce">For accessing items on device and saving files</string>
-     <string name="permission_user_protocol">User Agreement (mandatory)</string>
+     <string name="permission_device_info">Informazioni dispositivo</string>
+     <string name="permission_device_introduce">"Per il riconoscimento dell'ID dela dispositivo basato su modello e IMEI, e fornimento servizi basati sulle preferenze della lingua</string>
+     <string name="permission_exit">Esci</string>
+     <string name="permission_privacy">Informativa Privacy (obbligatorio)</string>
+     <string name="permission_select_all">Seleziona tutto</string>
+     <string name="permission_storage">Archiviazione</string>
+     <string name="permission_storage_introduce">Per accesso agli elementi sul dispositivo</string>
+     <string name="permission_user_protocol">Accordo utente (obbligatorio)</string>
      <string name="policy_settings">Termini e condizioni</string>
      <string name="precipitation_degree_five">temporale</string>
      <string name="precipitation_degree_four">forte</string>
@@ -248,16 +248,6 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="traffic_control_tomorrow_numbers">Domani: %1$s</string>
      <string name="traffic_controls">Razionalizzazione dello spazio stradale</string>
      <string name="translate_notification_info">Traduzione in background…</string>
-     <string name="tts_report_aqi" />
-     <string name="tts_report_defautl_head" />
-     <string name="tts_report_split" />
-     <string name="tts_report_temperature_high_centigrade" />
-     <string name="tts_report_temperature_high_fahrenheit" />
-     <string name="tts_report_temperature_low_centigrade" />
-     <string name="tts_report_temperature_low_fahrenheit" />
-     <string name="tts_report_weather_desc" />
-     <string name="tts_report_wind" />
-     <string name="twc_logo_title" />
      <string name="unit">Unità</string>
      <string name="unit_temperature">Unità temperatura</string>
      <string name="unit_wind">Unità forza vento</string>
@@ -268,16 +258,12 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="updated_a_moment_ago">Aggiornato poco fa</string>
      <string name="updating">Aggiornamento…</string>
      <string name="user_agreement">Termini di Servizio</string>
-     <string name="video_dialog_no_play" />
-     <string name="video_dialog_play" />
-     <string name="video_dialog_subtitle" />
-     <string name="video_dialog_title" />
      <string name="view_forecast_item_yesterday">Ieri</string>
      <string name="view_indexes_item_today">Oggi</string>
      <string name="view_indexes_item_tommorrow">Domani</string>
      <string name="weather_alert_channel_name">Avvisi</string>
-     <string name="weather_introduce">Always with you, rain or shine.</string>
-     <string name="weather_permission_agree">Accept</string>
+     <string name="weather_introduce">Sempre con te, con la pioggia o con il sole.</string>
+     <string name="weather_permission_agree">Accetta</string>
      <string name="weather_service_channel_name">Servizi in background</string>
      <string name="wind_direction_no_data">Vento</string>
      <string name="wind_unit">%1$s km/h</string>
@@ -285,4 +271,3 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="xiaomi_weather_description_title">Informazioni</string>
      <string name="yes_vote_ratio">Per %1$s%%</string>
      <string name="your_location">La tua posizione</string>
-</resources>

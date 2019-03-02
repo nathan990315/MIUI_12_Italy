@@ -359,7 +359,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
      <string name="pref_camera_beauty">Bellezza</string>
      <string name="pref_camera_beauty_deep">Bellezza profonda</string>
      <string name="pref_camera_bokeh_title">Verticale</string>
-     <string name="pref_camera_coloreffect_entry_aqua" />
      <string name="pref_camera_coloreffect_entry_big_face">Diffuso</string>
      <string name="pref_camera_coloreffect_entry_blackwhite">B/N</string>
      <string name="pref_camera_coloreffect_entry_fisheye">Fish-eye</string>
@@ -372,10 +371,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
      <string name="pref_camera_coloreffect_entry_mirror">Specchio</string>
      <string name="pref_camera_coloreffect_entry_mono">B/N</string>
      <string name="pref_camera_coloreffect_entry_mosaic">Mosaico</string>
-     <string name="pref_camera_coloreffect_entry_negative" />
      <string name="pref_camera_coloreffect_entry_none">Normale</string>
-     <string name="pref_camera_coloreffect_entry_posterize" />
-     <string name="pref_camera_coloreffect_entry_sepia" />
      <string name="pref_camera_coloreffect_entry_sketch">Fumetto</string>
      <string name="pref_camera_coloreffect_entry_small_face">Spremuto</string>
      <string name="pref_camera_coloreffect_entry_vivid">Vivido</string>
@@ -690,6 +686,10 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
      <string name="ultra_wide_bokeh_open_tip">Modalità corpo intero</string>
      <string name="ultra_wide_close_tip">Modalità randangol disattivata</string>
      <string name="ultra_wide_mode">Grandangolo</string>
+     <string name="pref_camera_coloreffect_entry_aqua" />
+     <string name="pref_camera_coloreffect_entry_negative" />
+     <string name="pref_camera_coloreffect_entry_posterize" />
+     <string name="pref_camera_coloreffect_entry_sepia" />
      <string name="ultra_wide_mode_use_hint_text">"Usa questa modalità per aumentare il campo della scena nella tua foto.
 Wide angle mode comes to help when you can't move farther from the scene."</string>
      <string name="ultra_wide_open_tip">Wide angle mode</string>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="korea_permission_groups_descriptions">
-        <item>For identifying synced items</item>
-        <item>For syncing messages</item>
-        <item>For syncing contacts</item>
-        <item>For syncing calendar events</item>
-        <item>For syncing items with services that use storage</item>
+        <item>Per identificare gli elementi sincronizzati</item>
+        <item>Per sincronizzare i messaggi</item>
+        <item>Per sincronizzare i contatti</item>
+        <item>Per sincronizzare gli eventi del calendario</item>
+        <item>Per sincronizzare gli elementi dei servizi che utilizzano lo spazio di archiviazione</item>
      </string-array>
      <string-array name="korea_permission_groups_names">
-        <item>Phone</item>
+        <item>Telefono</item>
         <item>SMS</item>
-        <item>Contacts</item>
-        <item>Calendar</item>
-        <item>Storage</item>
+        <item>Contatti</item>
+        <item>Calendario</item>
+        <item>Archiviazione</item>
      </string-array>
      <string-array name="micloud_entrance_subtitleArray">
         <item>Sincronizza i tuoi contatti, messaggi, note, calendario ed altro</item>
