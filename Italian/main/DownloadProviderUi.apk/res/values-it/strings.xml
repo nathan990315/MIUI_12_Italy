@@ -66,7 +66,7 @@
      <string name="dialog_confirm_delete_checkbox_message">Elimina i file locali</string>
      <string name="dialog_confirm_delete_the_download_item_message">"Eliminare l'elemento selezionato?"</string>
      <string name="dialog_content_limit0">Limita download</string>
-     <string name="dialog_content_limit_max">Illimitati</string>
+     <string name="dialog_content_limit_max">Illimitato</string>
      <string name="dialog_failed_body">Desideri riprovare a scaricare il file più tardi o vuoi rimuoverlo dalla coda?</string>
      <string name="dialog_file_already_exists">Impossibile scaricare. Il file di destinazione esiste già.</string>
      <string name="dialog_file_missing_body">Impossibile trovare il file scaricato.</string>
@@ -263,14 +263,14 @@ su tutti i tuoi dispositivi grazie a Xunlei"</string>
      <string name="period_of_validity">Validità:</string>
      <string name="petabyteShort">PB</string>
      <string name="pref_download_revert_default">Predefinito</string>
-     <string name="pref_download_settings_title">Autorizzazione utilizzo dati</string>
+     <string name="pref_download_settings_title">Limite utilizzo dati</string>
      <string name="pref_download_storage_path">Cartella download</string>
      <string name="pref_sniff_shortcut">Crea un collegamento in Home per la ricerca web</string>
      <string name="pref_summary_any_bytes_popup">Metti sempre in coda con rete Wi-Fi</string>
-     <string name="pref_summary_enable_max_bytes_popup">Sotto rete dati cellulare comparirà una richiesta di autorizzazione se le dimensioni del file superano il limite</string>
+     <string name="pref_summary_enable_max_bytes_popup">In caso di superamento del limite di dimensione dati con rete cellulare attiva, verrà mostrata una richiesta di autorizzazione</string>
      <string name="pref_summary_max_bytes_limit_format">Chiedi autorizzazione se il file supera i %s</string>
      <string name="pref_summary_no_limit_popup">Dimensione download illimitata</string>
-     <string name="pref_title_enable_max_bytes_popup">Autorizzazione download dati</string>
+     <string name="pref_title_enable_max_bytes_popup">Autorizzazione download</string>
      <string name="preferences_title">Impostazioni</string>
      <string name="privacy_policy">Informativa sulla Privacy</string>
      <string name="privacy_tip_cancel">Annulla</string>
