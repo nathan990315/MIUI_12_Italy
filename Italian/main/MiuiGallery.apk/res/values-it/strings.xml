@@ -218,7 +218,6 @@
      <string name="card_title_annual_foods">Delizie del %1$s</string>
      <string name="card_title_annual_pets">Zampe pelose nel %1$s</string>
      <string name="card_title_annual_travel">I miei viaggi nel %1$s</string>
-     <string name="card_title_last_week_end">Lo scorso fine settimana</string>
      <string name="card_title_monthly_foods">Delizie</string>
      <string name="card_title_monthly_pets">Zampe pelose</string>
      <string name="card_title_party">Feste</string>
@@ -967,6 +966,8 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="free_view_desc">Visuale 3D</string>
      <string name="gallery_setting">Impostazioni</string>
      <string name="gallery_sync_disable_toast">La funzionalità di sincronizzazione della galleria non è attiva</string>
+     <string name="generate_story_summary">MIUI will analyze your photos and create story albums. Turn this feature off to stop creating story albums.</string>
+     <string name="generate_story_title">Story albums</string>
      <string name="get_album_info_in_process">Richiesta informazioni album condiviso, attendere…</string>
      <string name="gif_tip">GIF</string>
      <string name="gigabyteShort">GB</string>
@@ -1005,6 +1006,8 @@ Scatta più foto ai tuoi amici!"</string>
      <string name="image_invalid_path">Percorso non valido</string>
      <string name="image_not_found">"Impossibile trovare l'immagine"</string>
      <string name="image_quota_fulfiled">"Impossibile creare l'immagine, è stato raggiunto il limite di spazio a disposizione."</string>
+     <string name="image_selection_summary">La MIUI analizzerà le foto similari e sceglierà gli scatti migliori. Disattiva questa funzionalità per rimuovere il contrassegno sulle foto.</string>
+     <string name="image_selection_title">Seleziona le foto migliori</string>
      <string name="image_with_time">Foto catturata da %s</string>
      <string name="image_with_time_and_location">Foto catturata da %1$s. Posizione: %2$s.</string>
      <string name="impunity_declaration_settings">Mostra gli avvisi di rete</string>
@@ -1198,6 +1201,7 @@ per personalizzare la Galleria"</string>
      <string name="operation_send">Invia</string>
      <string name="operation_set_contact_photo">Imposta come foto contatto</string>
      <string name="operation_set_slide_wallpaper">Imposta come sfondo della presentazione</string>
+     <string name="operation_set_video_wallpaper">Set video wallpaper</string>
      <string name="operation_set_wallpaper">Imposta come sfondo</string>
      <string name="operation_share">Condividi</string>
      <string name="operation_show_in_photos_tab">Mostra in home</string>
@@ -1363,6 +1367,7 @@ per personalizzare la Galleria"</string>
      <string name="recent_album_empty_title">"Non ha aggiunto foto recentemente"</string>
      <string name="recommanded_face_abandon_tip">Rimuovi dai suggerimenti</string>
      <string name="recommanded_face_added_tip">Aggiunto a \"%s\"</string>
+     <string name="recommend_category_title">Selezione galleria</string>
      <string name="recovery_merge">Unisci</string>
      <string name="recovery_merge_or_rename">Unisci album</string>
      <string name="recovery_merge_or_rename_message">Esiste già un album con questo nome. Unire adesso?</string>
@@ -1497,6 +1502,8 @@ per personalizzare la Galleria"</string>
      <string name="send_too_many_files_error">Impossibile inviare tutti gli elementi (massimo %d elementi).</string>
      <string name="set_as_slide_wallpaper_description">"Questa immagine è una miniatura, scarica l'originale?"</string>
      <string name="set_as_slide_wallpaper_title">Imposta come sfondo della presentazione</string>
+     <string name="set_as_video_wallpaper_description">Download this item and use it as a video wallpaper?</string>
+     <string name="set_as_video_wallpaper_title">Set video wallpaper</string>
      <string name="set_as_wallpaper_description">"Questa immagine è un'anteprima, vuoi scaricare l'originale?"</string>
      <string name="set_as_wallpaper_title">Imposta come sfondo</string>
      <string name="set_face_group_toast_msg_new_user">"Tieni premuto sul volto di copertina, i volti possono essere ."</string>
@@ -1505,6 +1512,7 @@ per personalizzare la Galleria"</string>
      <string name="set_face_group_toast_title_old_user">I volti possono essere organizzati in gruppi</string>
      <string name="set_face_image">Imposta un nuovo volto</string>
      <string name="set_group">Imposta gruppo</string>
+     <string name="set_video_wallpaper_failed">"Can't use this item as a video wallpaper"</string>
      <string name="set_wallpaper_get_image_failed">"Impossibile scaricare l'immagine, prova più tardi"</string>
      <string name="setup_network_connection">Impostazioni di rete</string>
      <string name="share">Condividi</string>
@@ -1769,7 +1777,4 @@ per personalizzare la Galleria"</string>
      <string name="yes">Sì</string>
      <string name="yesterday">Ieri</string>
      <string name="you_are" />
-	 <string name="image_selection_summary">La MIUI analizzerà le foto similari e sceglierà gli scatti migliori. Disattiva questa funzionalità per rimuovere il contrassegno sulle foto.</string>
-	 <string name="image_selection_title">Seleziona le foto migliori</string>
-	 <string name="recommend_category_title">Selezione galleria</string>
 </resources>

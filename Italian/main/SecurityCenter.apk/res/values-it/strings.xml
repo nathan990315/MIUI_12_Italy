@@ -29,6 +29,7 @@
      <string name="access_control_need_password">"%s blocco aggiunto con successo"</string>
      <string name="access_control_need_to_unlock_nofingerprint">Inserisci password di sblocco</string>
      <string name="accessibility_gameboosterservice_description">Attiva questa opzione per silenziare le chiamate WeChat durante le fasi di gioco</string>
+     <string name="accessibility_service_description" />
      <string name="action_button_text_100">Ottimizza</string>
      <string name="action_button_text_60">Ottimizza</string>
      <string name="action_button_text_60_80">Ottimizza</string>
@@ -82,6 +83,8 @@
      <string name="adjust_traffic_carrier_summary_yesterday">Aggiornato ieri alle %s</string>
      <string name="adjust_traffic_data">Imposta utilizzo dati</string>
      <string name="after_the_lock_screen">"L'app verrà bloccata dopo aver spento lo schermo, potrai modificare questa scelta nelle impostazioni"</string>
+     <string name="alert_back_diving_mode_summary">Turn off Immersive mode now?</string>
+     <string name="alert_back_diving_mode_title">Immersive mode</string>
      <string name="all_address_choose_hint">Tutte le posizioni</string>
      <string name="already_close_gamebooster">Turbo videogiochi è stata disattivata</string>
      <string name="anti_disturb_msg_detail">Disattiva tutte le notifiche tranne quelle per le chiamate in entrata</string>
@@ -216,7 +219,6 @@
      <string name="app_manager_pref_ads">Suggerimenti</string>
      <string name="app_manager_reset_app_preferences">"Ripristina le preferenze dell'app"</string>
      <string name="app_manager_reset_app_preferences_button">Ripristina app</string>
-     <string name="accessibility_service_description" />
      <string name="app_manager_reset_app_preferences_desc">"Questo riporterà i valori predefiniti delle preferenze per:
 
  <li>App disattivate</li>
@@ -310,11 +312,15 @@ se dimenticata"</string>
      <string name="apps_list_header_title_sms">"Controlla l'app messaggi"</string>
      <string name="apps_list_header_title_sms_access">"Limita l'accesso ai codici di verifica"</string>
      <string name="ask_create_shortcut">Vuoi creare un collegamento sulla schermata Home?</string>
+     <string name="audio_optimization_summary">Enhance audio and reduce ambient noise in conversations</string>
+     <string name="audio_optimization_title">Enhanced audio</string>
      <string name="auto_atsk_condition_battery_level_text_down">Quando la batteria raggiunge il %s</string>
      <string name="auto_atsk_condition_battery_level_text_up">Quando la batteria è carica al %s</string>
      <string name="auto_back_booster">Sto interrompendo il potenziamento</string>
      <string name="auto_booster_suc">Potenziamento completato</string>
      <string name="auto_clean_close">Pulizia automatica disattivata</string>
+     <string name="auto_data_back_booster">Game speed booster is off. Communication features are restored.</string>
+     <string name="auto_data_booster_suc">Game speed booster is on. Switched to Immersive mode.</string>
      <string name="auto_handle_title">Generale</string>
      <string name="auto_import_games">Raccogli tutti i giochi in un unico punto</string>
      <string name="auto_task_condition_choose_battery_level_down">Quando la batteria raggiunge un certo livello</string>
@@ -575,6 +581,7 @@ se dimenticata"</string>
      <string name="cpu_usage_android_system">Sistema Android</string>
      <string name="cpu_usage_process_run_time_little_time">Meno di 1 minuto</string>
      <string name="cpu_usage_view_action_btn_text">Tocca per visualizzare</string>
+     <string name="create_gamebooster_destop">Created Home screen shortcut successfully</string>
      <string name="create_shortcut">Crea un collegamento sulla schermata Home per Turbo videogiochi</string>
      <string name="cta_dialog_msg"><Data>You must agree to our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy policy&lt;/a> before using Security. Security also needs to connect to the internet and access your location to work normally and keep antivirus definitions up to date. Agree?</Data></string>
      <string name="cta_dialog_negative">Esci</string>
@@ -724,6 +731,8 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="dont_bore">Non permettere che tasti e notifiche di distraggano</string>
      <string name="download">Scaricate</string>
      <string name="downloading">Scaricamento</string>
+     <string name="doze_optimization_summary">Increase touch response and sensitivity</string>
+     <string name="doze_optimization_title">Optimized touch controls</string>
      <string name="dual_setting_simcard1">SIM 1</string>
      <string name="dual_setting_simcard2">SIM 2</string>
      <string name="email">Email</string>
@@ -895,6 +904,8 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="forget_password_button_text"><u>Password dimenticata</u></string>
      <string name="forget_password_button_text_normal">Password dimenticata</string>
      <string name="forget_pattern"><u>Sequenza dimenticata?</u></string>
+     <string name="forground_network_optimization_summary">Give more bandwidth to the games running in the foreground</string>
+     <string name="forground_network_optimization_title">Bandwidth priority</string>
      <string name="free_send_net_booster">Acceleratore velocità di rete gratuito</string>
      <string name="free_send_net_booster_busniess">Ricevi un incrementatore di velocità Xunlei gratuito</string>
      <string name="free_send_net_booster_busniess_tip">Tocca per ricevere</string>
@@ -905,6 +916,9 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="free_time_traffic_title">Inserisci limite dati fuori soglia</string>
      <string name="free_traffic_settings">Impostazioni utilizzo dati fuori soglia</string>
      <string name="function_close">Disattivato</string>
+     <string name="function_shield_summary">Restrict auto brightness, screenshot gestures, and Reading mode</string>
+     <string name="function_shield_summary_m">Restrict auto brightness and screenshot gestures</string>
+     <string name="function_shield_title">Enhanced experience</string>
      <string name="fw_blocked">Blacklist</string>
      <string name="fw_blocked_count">"Bloccati "</string>
      <string name="fw_blocked_join">" e "</string>
@@ -919,6 +933,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="game_booster_tab_top">In cima</string>
      <string name="game_booster_title">Accelera</string>
      <string name="game_bootser_tab_settings">Impostazioni di accelerazione</string>
+     <string name="game_else_function">Other</string>
      <string name="game_more_improve">Limita le attività in background e la velocità di download per risparmiare batteria e banda per il gioco</string>
      <string name="game_setting">Impostazioni di gioco</string>
      <string name="game_video_net_data">Dati mobili</string>
@@ -930,15 +945,57 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="gamebooster_network_dialog_message">"Consentire all'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzionalità di Turbo videogiochi?"</string>
      <string name="gamebooster_network_dialog_title">Alcune funzionalità non sono disponibili</string>
      <string name="gamebox_app_not_find">"Installa prima l'app."</string>
+     <string name="gamebox_browser_not_find">Install Mi Browser first</string>
+     <string name="gamebox_dnd">DND</string>
+     <string name="gamebox_func_antimsg_close">Floating notifications are allowed now</string>
+     <string name="gamebox_func_antimsg_open">Floating notifications are restricted now</string>
+     <string name="gamebox_func_immersion_close">Immersive mode is off now</string>
+     <string name="gamebox_func_immersion_open">Immersive mode is on now</string>
+     <string name="gamebox_func_switch_simcard">Switched to SIM card %1$d for data</string>
+     <string name="gamebox_func_switch_simcard_immersion">"Can't switch SIM cards in Immersive mode"</string>
+     <string name="gamebox_func_wlan_close">WLAN is off now</string>
+     <string name="gamebox_func_wlan_open">WLAN is on now</string>
+     <string name="gamebox_hangup">Turn off screen</string>
+     <string name="gamebox_hangup_tips_content">This feature allows you to turn off screen, but keep the game running in the background. It turns off automatically once you unlock your device.</string>
+     <string name="gamebox_hangup_tips_title">Turn off screen</string>
+     <string name="gamebox_immersion">Immersive mode</string>
+     <string name="gamebox_immersion_tips_content">Immersive mode restricts all SIM card functionality except for the mobile data connection. You will neither be interrupted by calls nor receive notifications about missed calls. All SIM card features will be restored when Immersive mode is turned off. Turn on Immersive mode?</string>
+     <string name="gamebox_immersion_tips_title">Attention</string>
+     <string name="gamebox_immerson_open">"Turning on Immersive mode, don't switch networks…"</string>
+     <string name="gamebox_positive_button_text">OK (%1$ds)</string>
      <string name="gamebox_qq_not_find">Installa QQ e riprova.</string>
+     <string name="gamebox_recent_task_expand_fail">"Apps that work with shortcuts aren't installed"</string>
+     <string name="gamebox_simcard">Switch SIM cards</string>
      <string name="gamebox_type_close">Non mostrare</string>
      <string name="gamebox_type_float">Collegamento fissato</string>
      <string name="gamebox_type_gesture">Scorri per mostrare</string>
      <string name="gamebox_wechat_not_find">Installa WeChat e riprova.</string>
+     <string name="gamebox_wifi">WLAN</string>
      <string name="gateway_exception_summary">Controlla il tuo router e riprova.</string>
      <string name="gateway_exception_summary2">"Impossibile connettersi al server"</string>
      <string name="gateway_exception_title">Test router</string>
      <string name="gb_ad_game_size">MB</string>
+     <string name="gb_advance_settings_edge_gear1">None</string>
+     <string name="gb_advance_settings_edge_gear2">Small</string>
+     <string name="gb_advance_settings_edge_gear3">Medium</string>
+     <string name="gb_advance_settings_edge_gear4">Large</string>
+     <string name="gb_advance_settings_edge_suppression">Touch-resistant area</string>
+     <string name="gb_advance_settings_edge_suppression_summary">Reduce touch sensitivity near the edges to avoid triggering touch controls. Hold your device by the highlighted areas to keep speakers uncovered.</string>
+     <string name="gb_advance_settings_finger_up">Sensitivity to repeated taps</string>
+     <string name="gb_advance_settings_follow_up">Touch response</string>
+     <string name="gb_advance_settings_reset">Restore default settings</string>
+     <string name="gb_advance_settings_reset_dialog_content">Restore default settings now?</string>
+     <string name="gb_advance_settings_reset_dialog_title">Default settings</string>
+     <string name="gb_advance_settings_screen_display">Display</string>
+     <string name="gb_advance_settings_screen_hdr">Enhanced visuals</string>
+     <string name="gb_advance_settings_screen_hdr_gear1">Original</string>
+     <string name="gb_advance_settings_screen_hdr_gear2">Moderate</string>
+     <string name="gb_advance_settings_screen_hdr_gear3">Strong</string>
+     <string name="gb_advance_settings_screen_hdr_gear4">Extreme</string>
+     <string name="gb_advance_settings_screen_hdr_summary">Increase contrast and enhance details for games</string>
+     <string name="gb_advance_settings_touch">Touch controls</string>
+     <string name="gb_advance_settings_vibration_4d">4D vibration</string>
+     <string name="gb_advance_settings_vibration_4d_summary">Illustrate in-game actions using vibration</string>
      <string name="gb_create_icon_summary">Crea collegamento su schermata Home</string>
      <string name="gb_cutoff">|</string>
      <string name="gb_description_image_button_answer">Rispondi</string>
@@ -984,6 +1041,8 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="go_to">Procedi</string>
      <string name="go_to_setting_fingerprint">Vai nelle impostazioni</string>
      <string name="google_base_app_install_choice">"L'applicazione richiede Google Service Framework per funzionare correttamente, scaricare ed installare?"</string>
+     <string name="gs_advanced_setting_summary">Settings for individual games</string>
+     <string name="gs_advanced_setting_title">Additional settings</string>
      <string name="gs_anto_clean_memory_whitelist">Eccezioni</string>
      <string name="gs_app_back_self_start">Risparmio energetico</string>
      <string name="gs_auto_clean_memory">Cancella cache</string>
@@ -1399,6 +1458,7 @@ dall'operatore"</string>
      <string name="note_call_none">Nessun dato da modificare</string>
      <string name="note_list_none">Nessuna lista da modificare</string>
      <string name="note_sms_none">Nessun messaggio da modificare</string>
+     <string name="noti_back_diving_mode_title">Turned on Immersive mode. Tap to turn off.</string>
      <string name="notification_battery_consume_abnormal_title">La batteria sta scendendo molto velocemente</string>
      <string name="notification_exit_power_save_mode">Disattiva il Risparmio energetico</string>
      <string name="notification_exit_power_save_mode_subtitle">Batteria ha %s di carica.</string>
@@ -1414,6 +1474,9 @@ dall'operatore"</string>
      <string name="notify_daily_limit_body">Tocca per impostare il limite dati.</string>
      <string name="notify_daily_limit_title">Usati %s oggi</string>
      <string name="notify_daily_limit_title_for_slotnum">%1$s usati %2$s oggi</string>
+     <string name="notify_diving_mode_exception_close">Turned off Immersive mode successfully</string>
+     <string name="notify_diving_mode_exception_close_fail">"A SIM card error occurred. Couldn't turn off Immersive mode."</string>
+     <string name="notify_diving_mode_exception_open_fail">"A SIM card error occurred. Couldn't turn on Immersive mode."</string>
      <string name="notify_month_traffic_body">Imposta un limite di utilizzo dati per evitare di sforare il tuo piano dati mensile.</string>
      <string name="notify_month_traffic_title">Usati %s questo mese</string>
      <string name="notify_month_traffic_title_for_slotnum">%1$s usati %2$s questo mese</string>
@@ -1542,6 +1605,8 @@ dall'operatore"</string>
      <string name="pc_settings_title">Impostazioni di utilizzo batteria</string>
      <string name="pc_to_phone_install">Installazione tramite USB di %s bloccata</string>
      <string name="per_month_pkg_traffic_settings">Imposta limite dati</string>
+     <string name="perfermance_optimization_summary">Avoid overheating and hardware-related issues</string>
+     <string name="perfermance_optimization_title">Performance optimization</string>
      <string name="permission_action_accept">Accetta</string>
      <string name="permission_action_prompt">Chiedi sempre</string>
      <string name="permission_action_reject">Nega</string>
@@ -1816,6 +1881,7 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="result_sms_title_auth">Presenti rischi di divulgazione SMS con informazioni finanziarie</string>
      <string name="result_wifi_header">Rilevati rischi Wi-Fi</string>
      <string name="right_precent">100%</string>
+     <string name="risk_count_suffix" />
      <string name="roaming_allow_network_dialog_title">Consentire il roaming?</string>
      <string name="roaming_limit_dialog_message">Limite di dati giornaliero in roaming raggiunto.</string>
      <string name="roaming_limit_network_notification_body">Tocca per visualizzare le reti disponibili</string>
@@ -1878,6 +1944,7 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="settings_choice_no_notification">Disattivo</string>
      <string name="settings_power_save_ontime_title">Programma</string>
      <string name="shield_keyboard_detail">Doppio tap per riattivarli</string>
+     <string name="shield_keyboard_summary">Restrict buttons and full screen gestures during games</string>
      <string name="shield_keyboard_title">Disattiva tasti</string>
      <string name="shoop_again_float">Effettua una chiamata</string>
      <string name="show_system_app">Mostra app di sistema</string>
@@ -1999,7 +2066,6 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="st_confirm_dialog_summary_oversea_call">Attiva per bloccare tutte le chiamate provenienti da numeri stranieri.</string>
      <string name="st_confirm_dialog_summary_stranger_call">Attenzione! Tutte le chiamate da sconosciuti verranno bloccate.</string>
      <string name="st_filter_keywords_setting_summary1">Messaggi da numeri sconosciuti che contengono le parole in questa lista verranno bloccati.</string>
-     <string name="risk_count_suffix" />
      <string name="st_filter_keywords_setting_summary2">"
 (Usa la virgola per separare le parole)."</string>
      <string name="st_filter_keywords_setting_summary3">I messaggi da numeri sconosciuti che conterranno le parole presenti in questa lista, non verranno bloccati.</string>
@@ -2226,6 +2292,7 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="tether_over_limit_warning_notify_title">Limite dati hotspot portatile raggiunto</string>
      <string name="text_button">OK</string>
      <string name="text_cycle_day">%s</string>
+     <string name="text_day" />
      <string name="thermal_tips_message">Giocando in modalità Prestazioni si potrebbero verificare fenomeni di surriscaldamento.</string>
      <string name="thermal_tips_title">Attenzione</string>
      <string name="third_application">App di terze parti</string>
@@ -2332,7 +2399,6 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="traffic_alert_auto_modify_notification_titile">Piano dati aggiornato</string>
      <string name="traffic_alert_auto_modify_package_summary">"Regola automaticamente il pacchetto dati in base alle informazioni dell'operatore"</string>
      <string name="traffic_config_alert_auto_modify">Aggiorna automaticamente piano dati</string>
-     <string name="text_day" />
      <string name="traffic_config_alert_body">"Il tuo operatore segna: %s.
 
 È corretto?"</string>
@@ -2467,6 +2533,8 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="wlan_booster">Acceleratore Wi-Fi</string>
      <string name="wlan_change_protection_detail">Non passare automaticamente alla rete Wi-Fi quando collegato alla rete dati mobile</string>
      <string name="wlan_change_protection_title">Impedisci cambiamenti di rete</string>
+     <string name="wlan_optimization_summary">Reduce WLAN network delay</string>
+     <string name="wlan_optimization_title">WLAN optimization</string>
      <string name="wrong_password">Password non corretta</string>
      <string name="xunyou_net_booster">Acceleratore velocità di rete</string>
      <string name="xunyou_net_booster_detail">Usa i servizi di accelerazione Xunyou per i tuoi giochi</string>
