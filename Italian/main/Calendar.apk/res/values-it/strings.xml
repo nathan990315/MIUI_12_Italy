@@ -17,8 +17,8 @@
      <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Raggruppa</string>
-     <string name="accessbility_suggestion_dropdown_closed">No suggestions available</string>
-     <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
+     <string name="accessbility_suggestion_dropdown_closed">Nessun suggerimento disponibile</string>
+     <string name="accessbility_suggestion_dropdown_opened">Aperti i suggerimenti contatti</string>
      <string name="accessibility_add_attendee">Aggiungi partecipante</string>
      <string name="accessibility_all_day">Tutto il giorno</string>
      <string name="accessibility_pick_start_date">Inizio data</string>
@@ -29,7 +29,7 @@
      <string name="account_and_calendar">Account e calendario</string>
      <string name="action_bar_date_button_title">Calcola data</string>
      <string name="action_bar_return">Invio</string>
-     <string name="action_label">Return</string>
+     <string name="action_label">Avvia</string>
      <string name="action_text_card_manager">Canale</string>
      <string name="add_anniversary">Aggiungi anniversario</string>
      <string name="add_countdown">Aggiungi conto alla rovescia</string>
@@ -77,9 +77,9 @@
      <string name="card_title_change">Altro</string>
      <string name="change_response_title">Cambia risultato</string>
      <string name="chinese_leap" />
-     <string name="chips_action_cancel">Cancel</string>
-     <string name="chips_action_copy">Copy</string>
-     <string name="chips_permission_text">Allow contacts suggestions</string>
+     <string name="chips_action_cancel">Annulla</string>
+     <string name="chips_action_copy">Copia</string>
+     <string name="chips_permission_text">Consenti i suggerimenti dei contatti</string>
      <string name="chongsha" />
      <string name="clear_net_mock_success">Eliminazione rete simulata completata</string>
      <string name="close_alarm">Disattiva</string>
@@ -127,7 +127,7 @@
      <string name="discard_label">Annulla</string>
      <string name="does_not_repeat">Evento singolo</string>
      <string name="download">Download</string>
-     <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
+     <string name="dropdown_delete_button_desc">Rumuovi %s dai destinatari</string>
      <string name="edit_date_calculate_days_backward_error_hint">Impossibile calcolare avanti</string>
      <string name="edit_date_calculate_days_empty_hint">Inserisci il numero dei giorni</string>
      <string name="edit_date_calculate_days_forward_error_hint">Impossibile calcolare indietro</string>
