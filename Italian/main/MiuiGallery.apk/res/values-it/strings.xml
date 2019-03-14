@@ -191,6 +191,7 @@
      <string name="backuping_title_normal">Backup in corso</string>
      <string name="begin_share">Creazione album bambino \"%s\" completata, condividi adesso</string>
      <string name="begin_share_toast">Il sistema creerà un album bambino basato su questo per la condivisione. Continuare?</string>
+     <string name="blank_app_name" />
      <string name="browse_category_title">Sfoglia</string>
      <string name="buy_member_tip">diventa un membro.</string>
      <string name="by_email">Email</string>
@@ -873,7 +874,6 @@
      <string name="ext_sdcard_permission_request_title">Consenti a Galleria di accedere alla scheda SD</string>
      <string name="ext_sdcard_request_failed_button_text">OK</string>
      <string name="ext_sdcard_request_succeed_toast_text">Sei pronto per il rock!</string>
-     <string name="blank_app_name" />
      <string name="face_album_empty">"Foto non sufficienti per il riconoscimento.
 Scatta più foto ai tuoi amici!"</string>
      <string name="face_album_empty_syncing">Sincronizzazione dati</string>
@@ -1776,4 +1776,5 @@ per personalizzare la Galleria"</string>
      <string name="xiaomi_account_not_exists_toast">Mi Account non esistente</string>
      <string name="yes">Sì</string>
      <string name="yesterday">Ieri</string>
+     <string name="you_are">"You're the baby's"</string>
 </resources>

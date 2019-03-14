@@ -17,6 +17,8 @@
      <string name="abc_shareactionprovider_share_with">Condividi con</string>
      <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
      <string name="abc_toolbar_collapse_description">Raggruppa</string>
+     <string name="accessbility_suggestion_dropdown_closed">No suggestions available</string>
+     <string name="accessbility_suggestion_dropdown_opened">Contact suggestions opened</string>
      <string name="accessibility_add_attendee">Aggiungi partecipante</string>
      <string name="accessibility_all_day">Tutto il giorno</string>
      <string name="accessibility_pick_start_date">Inizio data</string>
@@ -27,6 +29,7 @@
      <string name="account_and_calendar">Account e calendario</string>
      <string name="action_bar_date_button_title">Calcola data</string>
      <string name="action_bar_return">Invio</string>
+     <string name="action_label">Return</string>
      <string name="action_text_card_manager">Canale</string>
      <string name="add_anniversary">Aggiungi anniversario</string>
      <string name="add_countdown">Aggiungi conto alla rovescia</string>
@@ -57,6 +60,7 @@
      <string name="birthday_notification_text_today">Non dimenticare di fare gli auguri.</string>
      <string name="birthday_notification_title_days_later">Si avvicina il %2$s di %1$s</string>
      <string name="birthday_notification_title_today">%3$s di %1$s</string>
+     <string name="birthday_notification_type_term_lunar" />
      <string name="birthday_saved">Compleanno salvato</string>
      <string name="birthday_term">compleanno</string>
      <string name="can_not_create_long_event">Contenuto troppo lungo</string>
@@ -72,6 +76,11 @@
      <string name="card_manager_no_data">Ancora nessuna sottoscrizione</string>
      <string name="card_title_change">Altro</string>
      <string name="change_response_title">Cambia risultato</string>
+     <string name="chinese_leap" />
+     <string name="chips_action_cancel">Cancel</string>
+     <string name="chips_action_copy">Copy</string>
+     <string name="chips_permission_text">Allow contacts suggestions</string>
+     <string name="chongsha" />
      <string name="clear_net_mock_success">Eliminazione rete simulata completata</string>
      <string name="close_alarm">Disattiva</string>
      <string name="copy_email">Copia indirizzo email</string>
@@ -81,9 +90,6 @@
      <string name="countdown_notify_title">Promemoria: %1$s</string>
      <string name="countdown_secondary_tag">Conto alla rovescia</string>
      <string name="countdown_today">Oggi</string>
-     <string name="birthday_notification_type_term_lunar" />
-     <string name="chinese_leap" />
-     <string name="chongsha" />
      <string name="create_an_account_desc">"Il calendario funziona meglio con un Account Google.
 
 • Accedi da qualunque browser web
@@ -115,11 +121,13 @@
      <string name="delete_this_event_title">Questo evento sarà eliminato.</string>
      <string name="description_calendar">Applicazioni di sistema/Calendario</string>
      <string name="description_calendar_edit_event">Applicazioni di sistema/Calendario/Agenda</string>
+     <string name="description_calendar_huangli" />
+     <string name="description_calendar_subscribe_group" />
      <string name="directory_searching_fmt">Ricerca %s…</string>
      <string name="discard_label">Annulla</string>
      <string name="does_not_repeat">Evento singolo</string>
-     <string name="done">Ritorna</string>
      <string name="download">Download</string>
+     <string name="dropdown_delete_button_desc">Remove %s from recipients</string>
      <string name="edit_date_calculate_days_backward_error_hint">Impossibile calcolare avanti</string>
      <string name="edit_date_calculate_days_empty_hint">Inserisci il numero dei giorni</string>
      <string name="edit_date_calculate_days_forward_error_hint">Impossibile calcolare indietro</string>
@@ -177,6 +185,7 @@
      <string name="event_info_title_invite">Invito Incontro</string>
      <string name="event_info_when">Quando</string>
      <string name="event_info_where">Luogo</string>
+     <string name="event_lunar_month" />
      <string name="event_reminder_allday_day_zero">Quel giorno alle %2$s</string>
      <string name="event_reminder_value_zero">"Prima dell'evento"</string>
      <string name="event_title">Titolo</string>
@@ -205,6 +214,8 @@
      <string name="homepage_nowadays">questi giorni</string>
      <string name="homepage_today">oggi</string>
      <string name="horoscope_select_activity_label">Seleziona il segno zodiacale</string>
+     <string name="huangli_bad_type" />
+     <string name="huangli_good_type" />
      <string name="import_action">Importa</string>
      <string name="import_birthday">Importa compleanno</string>
      <string name="imported">Importato</string>
@@ -223,6 +234,8 @@
      <string name="local_owner_account_name">Account locale</string>
      <string name="login_failed_toast">Impossibile accedere, ricarica e riprova</string>
      <string name="lunar_date">Data lunare</string>
+     <string name="lunar_day" />
+     <string name="lunar_to_solar" />
      <string name="match_select_activity_label">Seleziona Affinità</string>
      <string name="menu_general_preferences">Preferenze generali</string>
      <string name="menu_reminder_preferences">Promemoria</string>
@@ -268,13 +281,6 @@
      <string name="new_event_description">Nuovo</string>
      <string name="no_contact_birthday_hint">Nessun compleanno importato</string>
      <string name="no_events_hint">Nessun evento</string>
-     <string name="description_calendar_huangli" />
-     <string name="description_calendar_subscribe_group" />
-     <string name="event_lunar_month" />
-     <string name="huangli_bad_type" />
-     <string name="huangli_good_type" />
-     <string name="lunar_day" />
-     <string name="lunar_to_solar" />
      <string name="no_network">"Impossibile collegarsi alla rete.
 Controlla le impostazioni di rete e riprova."</string>
      <string name="no_network_btn">Riprova</string>
@@ -282,6 +288,7 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="no_visiable_calendar_message">Devi selezionare un account del calendario, tocca Seleziona Account per il passo successivo.</string>
      <string name="no_visiable_calendar_select_account">Seleziona account</string>
      <string name="no_visiable_calendar_title">Seleziona Account Calendario</string>
+     <string name="notification_channel_description" />
      <string name="notification_channel_name">Promemoria calendario</string>
      <string name="notification_open_setting_button_exit">No grazie</string>
      <string name="notification_open_setting_button_ok">Consenti</string>
@@ -310,6 +317,7 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="panchang_yamaghanta">Yamaghanta</string>
      <string name="panchang_yog">Yog</string>
      <string name="path_calendar_settings">Applicazioni di sistema/Calendario/Impostazioni</string>
+     <string name="pengzu" />
      <string name="prefDialogTitle_vibrateWhen">Vibrazione</string>
      <string name="pref_reminder_time">Orario promemoria</string>
      <string name="pref_title_alarm_remind">Avviso sonoro</string>
@@ -335,7 +343,6 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="refreshing_hint">Aggiornamento</string>
      <string name="repeat_activity_label">Ripeti</string>
      <string name="repeat_custom_activity_label">Personalizza</string>
-     <string name="repeat_custom_prompt">ogni %1$s alle %2$s</string>
      <string name="repeat_custom_prompt_daily">ogni %1$s</string>
      <string name="repeat_custom_prompt_sentence">"L'evento si ripeterà %1$s"</string>
      <string name="repeat_custom_prompt_splitter">", "</string>
@@ -356,6 +363,7 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="repeat_label_frequency">Frequenza</string>
      <string name="repeat_label_interval">Ogni</string>
      <string name="repeat_label_week">Settimana</string>
+     <string name="repeat_lunar_yearly" />
      <string name="repeat_month_day_splitter">" "</string>
      <string name="repeat_week_info">" %1$s %2$s"</string>
      <string name="repeats_label">Ripetizione</string>
@@ -367,7 +375,9 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="saving_event_with_guest">Aggiornamenti inviati</string>
      <string name="search_calendar">Calendario;Agenda;Promemoria</string>
      <string name="search_calendar_edit_event">Riunione;Promemoria;Agenda</string>
+     <string name="search_calendar_huangli" />
      <string name="search_calendar_settings">Calendario;Agenda;Promemoria</string>
+     <string name="search_calendar_subscribe_group" />
      <string name="search_menu_title">Ricerca</string>
      <string name="select_date">Seleziona data</string>
      <string name="select_today_tip">Oggi</string>
@@ -384,6 +394,10 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="setting_title_holiday_display">Mostra festività</string>
      <string name="share_title">Condividi</string>
      <string name="show_day_view">Mostra giorno</string>
+     <string name="solar_lunar_convert_date" />
+     <string name="solar_lunar_convert_description" />
+     <string name="solar_lunar_convert_tab" />
+     <string name="solar_to_lunar" />
      <string name="start_date_calculate">Calcola</string>
      <string name="subscribe_card">Iscriviti adesso</string>
      <string name="subscribe_card_success">Iscritto correttamente! Verifica i dettagli sulla home.</string>
@@ -391,15 +405,6 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="subscribe_channel_bottom_hint">—— Mi Calendar ——</string>
      <string name="subscribe_channel_footer_desc">Controlla la tua sottoscrizione o annullala</string>
      <string name="subscribe_channel_footer_title">Sottoscritto</string>
-     <string name="notification_channel_description" />
-     <string name="pengzu" />
-     <string name="repeat_lunar_yearly" />
-     <string name="search_calendar_huangli" />
-     <string name="search_calendar_subscribe_group" />
-     <string name="solar_lunar_convert_date" />
-     <string name="solar_lunar_convert_description" />
-     <string name="solar_lunar_convert_tab" />
-     <string name="solar_to_lunar" />
      <string name="subscribe_channel_hint">"Iscriviti al servizio che preferisci e ricevi aggiornamenti quotidiani sulla tua home.
 Puoi anche aggiungere dei promemoria per non perdere niente di importante."</string>
      <string name="subscribe_channel_subscribe">Sottoscrivi</string>
@@ -444,7 +449,6 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="train_event_station_stay_time">%1$s minuti</string>
      <string name="travel_airport">Aeroporto</string>
      <string name="travel_carriage_number_text">Macchina</string>
-     <string name="travel_eta_advice">Guida per %2$s minuti fino a %1$s.</string>
      <string name="travel_ets_advice">Guida fino a %2$s prima %1$s.</string>
      <string name="travel_event_add_successfully">Evento creato</string>
      <string name="travel_event_title_flight">Volo: %1$s-%2$s %3$s</string>

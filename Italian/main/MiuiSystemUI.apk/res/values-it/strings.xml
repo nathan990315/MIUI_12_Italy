@@ -470,7 +470,6 @@ Frequenza Campione"</string>
      <string name="convert_to_file_encryption">Converti a file basato su crittografia</string>
      <string name="convert_to_file_encryption_done">File già crittografato</string>
      <string name="convert_to_file_encryption_enabled">Converti…</string>
-     <string name="custom_lock_wallpaper_enter">Inserisci</string>
      <string name="daltonizer_mode_deuteranomaly">Deuteronomalia (rosso-verde)</string>
      <string name="daltonizer_mode_disabled">Disabilitato</string>
      <string name="daltonizer_mode_monochromacy">Monocromia</string>
@@ -645,6 +644,8 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="face_unlock_check_failed">Impossibile riconoscerti</string>
      <string name="face_unlock_close_screen">Mantieniti in prossimità dello schermo</string>
      <string name="face_unlock_down">Alza la testa</string>
+     <string name="face_unlock_fail">Impossibile verificare il volto</string>
+     <string name="face_unlock_fail_retry">"Impossibile verificare il tuo volto. Tocca l'icona per riprovare."</string>
      <string name="face_unlock_identify_error">Si è verificato un errore di riconoscimento</string>
      <string name="face_unlock_not_found">Impossibile riconoscerti</string>
      <string name="face_unlock_not_roi">Mantieni il viso dentro la cornice</string>
@@ -665,6 +666,8 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="face_unlock_rotated_right">Muovi la tua testa verso sinistra</string>
      <string name="face_unlock_sc_status">Sposta la schermata verso il basso per aprire la camera</string>
      <string name="face_unlock_stay_away_screen">Stai almeno 25/40cm lontano dallo schermo</string>
+     <string name="face_unlock_success_stay_screen_msg">"Resta sulla schermata di Blocco dopo che il tuo volto verrà verificato. Dopodiché scorri verso l'alto per aprire la schermata Home."</string>
+     <string name="face_unlock_success_stay_screen_title">Resta sulla schermata di Blocco dopo lo sblocco</string>
      <string name="failed_to_open_app_settings_toast">Impossibile aprire le impostazioni per %1$s</string>
      <string name="fingerprint_add_text">"L'interfaccia dell'impronta è stata aggiornata. Aggiungi nuovamente l'impronta."</string>
      <string name="fingerprint_add_title">Aggiungi impronta</string>
@@ -857,7 +860,12 @@ Utilizza solo l'alimentatore in dotazione."</string>
      <string name="keyguard_indication_charging_time_slowly">Carica lenta (%s al completamento)</string>
      <string name="keyguard_indication_trust_disabled">Il dispositivo rimarrà bloccato finché non lo sbloccherai manualmente</string>
      <string name="keyguard_instructions_when_pattern_disabled">Premi Menu per sbloccare.</string>
+     <string name="keyguard_left_calculator">Calcolatrice</string>
+     <string name="keyguard_left_calendar">Calendario</string>
+     <string name="keyguard_left_contacts">Contatti</string>
      <string name="keyguard_left_mi_wallet">Mi Wallet</string>
+     <string name="keyguard_left_music">Musica</string>
+     <string name="keyguard_left_notes">Note</string>
      <string name="keyguard_left_remotecentral">Mi Remote</string>
      <string name="keyguard_left_smarthome">Mi Home</string>
      <string name="keyguard_left_torch">Torcia</string>
@@ -1820,13 +1828,4 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
      <string name="zen_priority_introduction">Non sarai disturbato da suoni e vibrazioni, ad eccezione di allarmi, promemoria, eventi e chiamate specifiche.</string>
      <string name="zen_silence_introduction">Questo bloccherà TUTTI i suoni e le vibrazioni, inclusi gli allarmi, la musica, i video e i giochi.</string>
      <string name="zen_silence_introduction_voice">Questo bloccherà TUTTI i suoni e le vibrazioni, inclusi gli allarmi, la musica, i video e i giochi. Sarai tuttavia in grado di effettuare chiamate telefoniche.</string>
-	 <string name="keyguard_left_calculator">Calcolatrice</string>
-	 <string name="keyguard_left_calendar">Calendario</string>
-	 <string name="keyguard_left_contacts">Contatti</string>
-	 <string name="keyguard_left_music">Musica</string>
-	 <string name="keyguard_left_notes">Note</string>
-	 <string name="face_unlock_fail">Impossibile verificare il volto</string>
-	 <string name="face_unlock_fail_retry">"Impossibile verificare il tuo volto. Tocca l'icona per riprovare."</string>
-	 <string name="face_unlock_success_stay_screen_msg">"Resta sulla schermata di Blocco dopo che il tuo volto verrà verificato. Dopodiché scorri verso l'alto per aprire la schermata Home."</string>
-	 <string name="face_unlock_success_stay_screen_title">Resta sulla schermata di Blocco dopo lo sblocco</string>
 </resources>

@@ -73,6 +73,7 @@
      <string name="cancel_moving_dialog_message">"Sicuro di voler interrompere l'importazione?"</string>
      <string name="cancel_moving_dialog_title">Interrompi importazione</string>
      <string name="cancel_restore">Annulla</string>
+     <string name="click_soft_ap_to_link">Select a hotspot to connect</string>
      <string name="click_to_view">Tocca per mostrare</string>
      <string name="close_twice_auth_btn">"Vicino all'autenticazione in due fasi"</string>
      <string name="close_twice_auth_note">"Nota:
@@ -99,6 +100,11 @@ https://appleid.apple.com/#!&amp;page=signin per chiudere"</string>
      <string name="comma_seperator">", "</string>
      <string name="compute_backup_info">Recupero info backup</string>
      <string name="compute_delete_contact_info">Ricerca contatti…</string>
+     <string name="confirm_exit_link">Leave</string>
+     <string name="confirm_exit_link_cancel">"Don't leave"</string>
+     <string name="confirm_exit_link_msg">"Leaving the app now will interrupt the ongoing transfer. You'll have to establish connection between the two devices again. Leave the app anyway?"</string>
+     <string name="confirm_exit_link_title">Interrupting the transfer</string>
+     <string name="connect_soft_ap_label">Connecting to new device…</string>
      <string name="connect_wifi">Connetti a Wi-Fi</string>
      <string name="connect_wifi_tip">"Rete disconnessa. L'importazione dei dati da iCloud richiede una connessione Wi-Fi."</string>
      <string name="contact_title">Contatti</string>
@@ -267,6 +273,8 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
      <string name="notif_trans_sending_completed">Dati inviati correttamente</string>
      <string name="notif_trans_sending_failed">Invio dati fallito</string>
      <string name="notif_trans_wait_for_reconnecting">Dispositivo remoto disconnesso. Connettere di nuovo.</string>
+     <string name="old_soft_name">Connect via QR code</string>
+     <string name="old_way">You can also connect using a QR code. Tap to generate the code.</string>
      <string name="page_loading">Solo un attimo…</string>
      <string name="password">password</string>
      <string name="password_null">La password non può essere vuota</string>
@@ -289,6 +297,7 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
      <string name="prompt_writing">Scrittura in corso…</string>
      <string name="read_encrypt_fail">Lettura crittografia fallita</string>
      <string name="reconnect">Riconnetti</string>
+     <string name="recreate_soft_ap_tips">Tap the button below to try again.</string>
      <string name="refresh">Aggiorna</string>
      <string name="remote_receive">Ricevi</string>
      <string name="restore">Ripristino</string>
@@ -324,6 +333,8 @@ Libera almeno %s"</string>
      <string name="sc_service_unavailable">Servizio non disponibile</string>
      <string name="sc_unaccess_password_file">Non salvare password Wi-Fi</string>
      <string name="sc_unauthorized">Certificato non valido</string>
+     <string name="scan_soft_ap">Searching for the new device…</string>
+     <string name="scan_soft_ap_label">Connect to the old device</string>
      <string name="sd_not_available">Nessuna scheda SD rilevata</string>
      <string name="sdcard_no_enough_space">Spazio su SD insufficiente</string>
      <string name="sdcard_no_enough_space_message">Spazio sulla scheda SD in esaurimento, il backup potrebbe non andare a buon fine. Libera spazio sulla scheda SD.</string>
@@ -347,6 +358,8 @@ Libera almeno %s"</string>
      <string name="size_kilo_byte">KB</string>
      <string name="size_mega_byte">MB</string>
      <string name="sms_title">Messaggi</string>
+     <string name="soft_ap_create_failed">"Couldn't create hotspot"</string>
+     <string name="soft_ap_creating">Creating hotspot…</string>
      <string name="software_backup_info">Backup applicazioni e dati app</string>
      <string name="start_backup">Esegui Backup</string>
      <string name="start_restore">Ripristina</string>
@@ -453,6 +466,7 @@ per scaricare ed installare Mi Mover."</string>
      <string name="trans_install_guide_step2_content">"Dopo aver completato l'installazione, tocca \"Inizia\" in basso."</string>
      <string name="trans_install_guide_step2_title">Fase 2</string>
      <string name="trans_intro_desc_1">"Collega il dispositivo Xiaomi alla rete Wi-Fi. Tocca \"Sono il destinatario\", poi seleziona \"Dispositivo Apple\". Accedi ad iCloud ed importa i dati."</string>
+     <string name="trans_intro_desc_10">Tap \"Connect via QR code\" on the new device and scan the QR code to establish connection.</string>
      <string name="trans_intro_desc_3">"Mi Mover usa la rete Wi-Fi per trasferire i file. Per questo non puoi connetterti ad internet tramite Wi-Fi durante il trasferimento. Puoi usare la rete dati mobile. Alcuni nuovi dispositivi (ad esempio Mi 6) potranno collegarsi comunque alla rete Wi-Fi, anche durante il collegamento."</string>
      <string name="trans_intro_desc_4">Lo spazio di archiviazione sui vecchi dispositivi viene utilizzato per la creazione dei pacchetti da trasferire. Assicurati di avere almeno 500MB - 1GB di spazio disponibile prima di iniziare il trasferimento.</string>
      <string name="trans_intro_desc_4_market">"Mi Mover utilizza la rete Wi-Fi per trasferire i file. Ecco perché non è possibile connettersi ad Internet tramite Wi-Fi su entrambi i dispositivi durante il trasferimento. Ma puoi ancora utilizzare i dati mobili."</string>
@@ -467,6 +481,7 @@ per scaricare ed installare Mi Mover."</string>
      <string name="trans_intro_desc_9_method_3_dec">"Gruppo QQ Mi Mover: 687338378"</string>
      <string name="trans_intro_desc_9_method_3_title">3. Segnala problemi con QQ</string>
      <string name="trans_intro_desc_account">"Devi eseguire di nuovo l'accesso ai tuoi account (e.g., Mi Account, Exchange, Google, etc.) su di un nuovo dispositivo per ragioni di sicurezza."</string>
+     <string name="trans_intro_desc_gms">"Due to high probability of unsuccessful transfers caused by compatibility issues, Mi Mover doesn't support transferring the data generated by Google apps."</string>
      <string name="trans_intro_desc_multiapp">"Mi Mover non trasferisce i dati delle app clonate per evitare conflitti tra i file"</string>
      <string name="trans_intro_desc_multiuser">"Mi Mover non ha accesso agli elementi presenti nello Secondo Spazio. Sposta gli elementi nel Primo Spazio e lancia Mi Mover."</string>
      <string name="trans_intro_desc_new">"Tap \"Sono il ricevente\". Verrà generato un codice QR."</string>
@@ -474,6 +489,7 @@ per scaricare ed installare Mi Mover."</string>
      <string name="trans_intro_desc_old_market">Tocca \"Inizia\". Scansione il codice QR sul nuovo telefono, attendi che Mi Mover capisca quali file inviare, e tocca \"Invia\".</string>
      <string name="trans_intro_desc_private">"Mi Mover non può accedere alle foto presenti nell'album nascosto perché sono crittografate. Puoi ripristinare queste foto da Mi Cloud su di un nuovo dispositivo."</string>
      <string name="trans_intro_question_1">%d. Come posso utilizzare Mi Mover per trasferire i dati da un dispositivo iOS?</string>
+     <string name="trans_intro_question_10">"%d. Can't find the hotspot on the old device?"</string>
      <string name="trans_intro_question_2">%d. Come posso utilizzare Mi Mover per trasferire i dati da un dispositivo Android?</string>
      <string name="trans_intro_question_3"> %d. Cosa devo fare se Mi Mover si blocca in uno dei passaggi?</string>
      <string name="trans_intro_question_4">"%d. Perché non posso usare la rete Wi-Fi durante il trasferimento?"</string>
@@ -485,6 +501,7 @@ per scaricare ed installare Mi Mover."</string>
      <string name="trans_intro_question_9_market">%d. Segnalazione.</string>
      <string name="trans_intro_title">FAQ</string>
      <string name="trans_intro_title_account">Account e password:</string>
+     <string name="trans_intro_title_gms">Data generated by Google apps:</string>
      <string name="trans_intro_title_multiapp">Dati App clonate:</string>
      <string name="trans_intro_title_multiuser">Dati Secondo Spazio:</string>
      <string name="trans_intro_title_new">Su nuovo dispositivo:</string>
@@ -599,6 +616,9 @@ Libera spazio o trasferisci solo gli elementi più importanti."</string>
      <string name="user_notice_message">Alcune funzionalità richiedono una connessione internet per funzionare correttamente.</string>
      <string name="user_notice_title">Notifiche utente</string>
      <string name="view_password_description">Mostra password</string>
+     <string name="wait_link">"Connect your old device to this hotspot.
+Don't leave this page until the connection is established."</string>
+     <string name="waiting">Just a sec…</string>
      <string name="wifi_title">Impostazioni Wi-Fi</string>
      <string name="xiaomi_connect_download_manager_fail">Connessione Download Manager fallita, controlla lo stato del Download Manager nella Gestione Applicazioni.</string>
      <string name="xiaomi_external_storage_unavailable">Memoria non disponibile, verifica la scheda SD.</string>
