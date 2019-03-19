@@ -144,7 +144,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_batterylight_green">Verde</string>
      <string name="cit_batterylight_red">Rosso</string>
      <string name="cit_batterylight_rgb">LED batteria</string>
-     <string name="cit_batterylight_white">White</string>
+     <string name="cit_batterylight_white">Bianco</string>
      <string name="cit_blue_tooth_address_check_summary">"L'indirizzo Bluetooth di questo dispositivo dovrebbe comparire di seguito."</string>
      <string name="cit_blue_tooth_address_check_title">Test Bluetooth</string>
      <string name="cit_blue_tooth_scan_check_summary">Le informazioni dei dispositivi Bluetooth nelle vicinanze dovrebbero comparire di seguito.</string>
@@ -180,7 +180,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_charger_plugout_check_title">Test Disconnessione caricabatteria</string>
      <string name="cit_charger_waiting_in">"Collega l'alimentatore"</string>
      <string name="cit_charger_waiting_out">"Scollega l'alimentatore"</string>
-     <string name="cit_dial_emergencycall">Dial 112</string>
+     <string name="cit_dial_emergencycall">Componi il 112</string>
      <string name="cit_display_check_summary">Verifica che il file .bmp richiesto sia sulla scheda SD. Verifica che i colori siano omogenei su tutto lo schermo. Assicurarti che non ci siano punti luminosi irregolari e macchie scure.</string>
      <string name="cit_display_check_title">Test Schermo</string>
      <string name="cit_display_continue">Tocca lo schermo per iniziare</string>
@@ -253,7 +253,7 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_headset_button_previous">Precedente</string>
      <string name="cit_headset_button_reverse">Prego inserisci il connettore delle cuffie USB nel verso opposto</string>
      <string name="cit_headset_button_rewind">Ricomincia</string>
-     <string name="cit_headset_button_stop">Stop</string>
+     <string name="cit_headset_button_stop">Interrompi</string>
      <string name="cit_headset_button_unknown">Sconosciuto</string>
      <string name="cit_headset_loopback_check_summary">"Collega le cuffie al dispositivo e indossale. Parla al microfono (solitamente posizionato lungo il cavo): dovresti sentire la tua voce nelle cuffie."</string>
      <string name="cit_headset_loopback_check_title">Test loopback cuffie</string>
@@ -363,8 +363,8 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_sim_state_unkown">Sconosciuto</string>
      <string name="cit_start_calibration">Calibra</string>
      <string name="cit_stop_calibration">Ferma calibrazione</string>
-     <string name="cit_tfcard_support_summary">Controlla che la TFCard sia supportata su questo dispositivo</string>
-     <string name="cit_tfcard_support_title">Supporto TFCard</string>
+     <string name="cit_tfcard_support_summary">Controlla che la scheda TF sia supportata su questo dispositivo</string>
+     <string name="cit_tfcard_support_title">Supporto scheda TF</string>
      <string name="cit_thermal_history_summary">Attendere prego... Sto ottenendo le informazioni termiche di questo dispositivo.</string>
      <string name="cit_thermal_history_title">Cronologia Temperature</string>
      <string name="cit_tool">Strumenti</string>
