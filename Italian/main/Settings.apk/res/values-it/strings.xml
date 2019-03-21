@@ -1288,12 +1288,12 @@ Per continuare a usare il dispositivo devi effettuare un ripristino dei dati di 
      <string name="current_use_uicc_se">Usando elemento di sicurezza sulla scheda SIM</string>
      <string name="current_use_uicc_wallet">Stai utilizzando il Portafogli della SIM %1$s</string>
      <string name="current_zone">(attuale)</string>
-     <string name="cutout_mode_always">Always show notch</string>
+     <string name="cutout_mode_always">Mostra sempre il notch</string>
      <string name="cutout_mode_default">Auto</string>
-     <string name="cutout_mode_settings_title">Some apps may be displayed incorrectly if you customize the way notch is displayed.</string>
-     <string name="cutout_mode_title">Notch in individual apps</string>
-     <string name="cutout_type_desc">Turn on to smoothen notch curves</string>
-     <string name="cutout_type_title">Adjust notch shape</string>
+     <string name="cutout_mode_settings_title">Alcune app potrebbero non essere visualizzate correttamente se modifichi la modalità di visualizzazione del notch.</string>
+     <string name="cutout_mode_title">Notch nelle app individuali</string>
+     <string name="cutout_type_desc">Attiva per smussare le curve del notch</string>
+     <string name="cutout_type_title">Regola la forma del notch</string>
      <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (rosso-verde)</string>
      <string name="daltonizer_mode_disabled">Disattivato</string>
      <string name="daltonizer_mode_monochromacy">Monocromia</string>
@@ -3318,12 +3318,12 @@ ed esegui il software."</string>
      <string name="optimization_cancel">Annulla</string>
      <string name="ota_disable_automatic_update">Aggiornamenti di sistema automatici</string>
      <string name="otg_button">OTG</string>
-     <string name="otg_closed">Off</string>
-     <string name="otg_opened">On</string>
+     <string name="otg_closed">Disattivato</string>
+     <string name="otg_opened">Attivato</string>
      <string name="otg_settings">OTG</string>
-     <string name="otg_tip">"USB On-The-Go allows USB drives and portable keyboards to connect to your mobile device and exchange data.
+     <string name="otg_tip">"USB On-The-Go consente ai drive USB e alle tastiere portatili di collegarsi al dispositivo mobile e scambiare dati.
 
-OTG turns off automatically after 10 minutes of inactivity."</string>
+OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
      <string name="other_advanced_settings">Impostazioni aggiuntive</string>
      <string name="other_device_info">Altro</string>
      <string name="other_personal_settings">Impostazioni aggiuntive</string>
