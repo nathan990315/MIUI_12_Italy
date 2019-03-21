@@ -14,6 +14,7 @@
      <string name="act_weather_find_city_net_no_good">Impossibile connettersi alla rete.</string>
      <string name="act_weather_find_city_no_result">Nessun risultato</string>
      <string name="act_weather_find_city_searching">Ricerca…</string>
+     <string name="activity_alert_detail_title" />
      <string name="activity_find_city_dialog_cancel">Annulla</string>
      <string name="activity_find_city_dialog_message">Il servizio meteo utilizzerà il servizio di localizzazione</string>
      <string name="activity_find_city_dialog_message_global">Consenti a Meteo di accedere alla tua posizione e passa alla modalità di localizzazione ad alta precisione per ottenere informazioni pertinenti sulla posizione.</string>
@@ -21,6 +22,7 @@
      <string name="activity_find_city_dialog_set">Impostazioni</string>
      <string name="activity_find_city_dialog_title">Servizio di localizzazione</string>
      <string name="activity_main_clickable">></string>
+     <string name="activity_main_one_alert" />
      <string name="activity_main_pub_time">Pubblicato alle %1$s</string>
      <string name="activity_main_time_format">E</string>
      <string name="activity_main_update_time">Aggiornato %1$s</string>
@@ -62,6 +64,8 @@
      <string name="aqi_quality_pm10_desc">Grandi particelle non inalabili</string>
      <string name="aqi_quality_pm25_desc">Polveri sottili</string>
      <string name="aqi_quality_so2_desc">Diossido solfuro</string>
+     <string name="aqi_settings_summary">AQI alerts</string>
+     <string name="aqi_settings_title">AQI</string>
      <string name="aqi_station_best_quality_station">La migliore più vicina</string>
      <string name="aqi_station_min_distance_station">Stazione più vicina</string>
      <string name="aqi_sub_desc">IQA</string>
@@ -101,8 +105,6 @@
      <string name="daily_forecast_add_city_message">Segui il meteo in %1$s per una previsione più dettagliata.</string>
      <string name="daily_forecast_add_city_title">Segui in metro in %1$s</string>
      <string name="daily_forecast_detail_date">d/M</string>
-     <string name="activity_alert_detail_title" />
-     <string name="activity_main_one_alert" />
      <string name="daily_forecast_no_data">"Impossibile recuperare i dati
 trascina verso il basso per aggiornare o verifica le impostazioni di rete"</string>
      <string name="data_provided_by">Fornito da</string>
@@ -131,6 +133,9 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="hourly_forecast_title_hourly_desc">Previsioni orarie</string>
      <string name="index_item_downloading">In download</string>
      <string name="index_item_experience_now">Installa adesso</string>
+     <string name="index_item_install_dialog" />
+     <string name="index_item_install_dialog_cancel" />
+     <string name="index_item_install_dialog_open" />
      <string name="index_item_install_now">Installa adesso</string>
      <string name="index_item_installing">Installazione</string>
      <string name="index_item_installing2">Installazione</string>
@@ -145,9 +150,6 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
      <string name="international_details_uv_index_title">INDICE UV</string>
      <string name="international_details_wind_title">VENTO</string>
      <string name="it_is_going_to_rain">Sta iniziando a piovere</string>
-     <string name="index_item_install_dialog" />
-     <string name="index_item_install_dialog_cancel" />
-     <string name="index_item_install_dialog_open" />
      <string name="locate_fail_detail_err">"Impossibile localizzare il dispositivo
 Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="location_provider_btn_text">Attiva i servizi di localizzazione</string>
@@ -184,7 +186,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
      <string name="particulate_matter_not_exceeded">Normale</string>
      <string name="particulate_matter_serious_exceeded">Troppo alto</string>
      <string name="permission_device_info">Informazioni dispositivo</string>
-     <string name="permission_device_introduce">"Per il riconoscimento dell'ID del dispositivo basato su modello e IMEI, e fornimento servizi basati sulle preferenze della lingua</string>
+     <string name="permission_device_introduce">""Per il riconoscimento dell'ID del dispositivo basato su modello e IMEI, e fornimento servizi basati sulle preferenze della lingua"</string>
      <string name="permission_exit">Esci</string>
      <string name="permission_privacy">Informativa Privacy (obbligatorio)</string>
      <string name="permission_select_all">Seleziona tutto</string>
