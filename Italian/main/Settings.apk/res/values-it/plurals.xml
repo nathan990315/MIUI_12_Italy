@@ -22,7 +22,7 @@
      </plurals>
      <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s ore %2$s"</item>
-		<item quantity="one">" %1$s ora %2$s"</item>
+        <item quantity="one">" %1$s ora %2$s"</item>
      </plurals>
      <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Disattivato per %d app</item>
@@ -222,10 +222,6 @@
      <plurals name="settings_suggestion_header_summary_hidden_items">
         <item quantity="other">Mostra %d elementi nascosti</item>
         <item quantity="one">Mostra %d elemento nascosto</item>
-     </plurals>
-     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d comandi sopra sono attivi</item>
-        <item quantity="one">%1$d comando sopra è attivo</item>
      </plurals>
      <plurals name="show_audio_logcat_countdown">
         <item quantity="other">%1$d passaggi prima di ottenere log audio</item>

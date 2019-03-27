@@ -276,6 +276,8 @@ in modalità Portrait"</string>
      <string name="live_sticker_fragment_tab_name">Adesivi</string>
      <string name="live_sticker_network_error_hint">Errore di rete</string>
      <string name="live_sticker_updating">Aggiornamento in corso…</string>
+     <string name="macro_mode">Macro</string>
+     <string name="macro_mode_tip">"Distance between the lens and the object shouldn't exceed 10cm"</string>
      <string name="message_snap_double_confirm">La funzionalità attuale associata alla pressione prolungata del tasto volume è la modalità NFC, confermare la sostituzione?</string>
      <string name="module_name_beauty">Bellezza</string>
      <string name="module_name_capture">Foto</string>
@@ -359,6 +361,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
      <string name="pref_camera_beauty">Bellezza</string>
      <string name="pref_camera_beauty_deep">Bellezza profonda</string>
      <string name="pref_camera_bokeh_title">Verticale</string>
+     <string name="pref_camera_coloreffect_entry_aqua" />
      <string name="pref_camera_coloreffect_entry_big_face">Diffuso</string>
      <string name="pref_camera_coloreffect_entry_blackwhite">B/N</string>
      <string name="pref_camera_coloreffect_entry_fisheye">Fish-eye</string>
@@ -371,7 +374,10 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
      <string name="pref_camera_coloreffect_entry_mirror">Specchio</string>
      <string name="pref_camera_coloreffect_entry_mono">B/N</string>
      <string name="pref_camera_coloreffect_entry_mosaic">Mosaico</string>
+     <string name="pref_camera_coloreffect_entry_negative" />
      <string name="pref_camera_coloreffect_entry_none">Normale</string>
+     <string name="pref_camera_coloreffect_entry_posterize" />
+     <string name="pref_camera_coloreffect_entry_sepia" />
      <string name="pref_camera_coloreffect_entry_sketch">Fumetto</string>
      <string name="pref_camera_coloreffect_entry_small_face">Spremuto</string>
      <string name="pref_camera_coloreffect_entry_vivid">Vivido</string>
@@ -534,6 +540,8 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
      <string name="pref_camera_ultra_wide_ldc_description">Correggi automaticamente gli oggetti distorti</string>
      <string name="pref_camera_ultra_wide_ldc_title">Correggi le distorsioni nelle foto grandangolo</string>
      <string name="pref_camera_ultra_wide_mode_title">Modalità grandangolo</string>
+     <string name="pref_camera_video_bokeh_off">Video bokeh is off</string>
+     <string name="pref_camera_video_bokeh_on">Video bokeh</string>
      <string name="pref_camera_video_duration_entry_10">10 minuti</string>
      <string name="pref_camera_video_duration_entry_120">2 ore</string>
      <string name="pref_camera_video_duration_entry_30">30 minuti</string>
@@ -686,10 +694,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
      <string name="ultra_wide_bokeh_open_tip">Modalità corpo intero</string>
      <string name="ultra_wide_close_tip">Modalità randangol disattivata</string>
      <string name="ultra_wide_mode">Grandangolo</string>
-     <string name="pref_camera_coloreffect_entry_aqua" />
-     <string name="pref_camera_coloreffect_entry_negative" />
-     <string name="pref_camera_coloreffect_entry_posterize" />
-     <string name="pref_camera_coloreffect_entry_sepia" />
      <string name="ultra_wide_mode_use_hint_text">"Usa questa modalità per aumentare il campo della scena nella tua foto.
 Wide angle mode comes to help when you can't move farther from the scene."</string>
      <string name="ultra_wide_open_tip">Wide angle mode</string>

@@ -43,6 +43,10 @@
         <item quantity="other">%1$s messaggi</item>
         <item quantity="one">%1$s messaggio</item>
      </plurals>
+     <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">You received %d group chat invitations</item>
+        <item quantity="one">You received %d group chat invitation</item>
+     </plurals>
      <plurals name="recipient_count">
         <item quantity="other">%1$s contatti</item>
         <item quantity="one">%1$s contatto</item>

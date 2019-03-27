@@ -628,6 +628,9 @@
      <string name="cleaner_screen_shot_action">Cancella</string>
      <string name="cleaner_screen_shot_description">Elimina gli screenshot che non ti servono più.</string>
      <string name="cleaner_screen_shot_title">Elimina screenshot</string>
+     <string name="cleaner_similar_action">Delete now</string>
+     <string name="cleaner_similar_description">Delete duplicate photos</string>
+     <string name="cleaner_similar_title">Duplicate photos</string>
      <string name="cleaner_slim_action">Avvio ottimizzazione…</string>
      <string name="cleaner_slim_description">Mantieni le foto ottimizzate sul dispositivo. I file originali verranno mantenuti su Mi Cloud.</string>
      <string name="cleaner_slim_start">Ottimizza</string>
@@ -635,6 +638,10 @@
      <string name="cleaner_space_description">possono essere liberati</string>
      <string name="cleaner_space_detail_description">Cancella alcune foto nella Galleria per liberare spazio</string>
      <string name="cleaner_stop_scan">Termina scansione</string>
+     <string name="cleaner_video_action">Delete now</string>
+     <string name="cleaner_video_description">Delete videos that take up storage space</string>
+     <string name="cleaner_video_pick_delete_selected">Delete selected videos</string>
+     <string name="cleaner_video_title">Delete videos</string>
      <string name="click_download_gif">Tocca per scaricare GIF</string>
      <string name="click_top_right">"Tocca l'icona in alto a destra"</string>
      <string name="close">Chiudi</string>
@@ -1343,6 +1350,7 @@ per personalizzare la Galleria"</string>
      <string name="play_gif_desc">Riproduci GIF</string>
      <string name="play_video_desc">Riproduci video</string>
      <string name="preparing_data">Preparazione…</string>
+     <string name="print_log">Print log</string>
      <string name="privacy_permission_request_message">"Galleria richiede l'accesso a %3$s. Le informazioni raccolte saranno utilizzate in conformità con la nostra %1$s e %2$s. Consentire?"</string>
      <string name="privacy_permission_request_negative">Limita</string>
      <string name="privacy_permission_request_positive">Consenti</string>
@@ -1418,6 +1426,11 @@ per personalizzare la Galleria"</string>
      <string name="scan_barcode_guide">"Per aprire un album con il Codice QR, tocca l'icona di condivisione nell'angolo in alto a destra."</string>
      <string name="scan_barcode_to_join">Scansiona il Codice QR per entrare in un album</string>
      <string name="scan_qr_code_buttom_text">Scansiona il Codice QR per vedere questo album.</string>
+     <string name="screen_doodle_talkback_size">Doodle line width</string>
+     <string name="screen_editor_finish">Done</string>
+     <string name="screen_save_dialog_btn_cancel">Cancel</string>
+     <string name="screen_save_dialog_btn_delete">Delete screenshot</string>
+     <string name="screen_save_dialog_btn_save">Save to Gallery</string>
      <string name="search_backup_full_screen">Attiva la sincronizzazione con Mi Cloud per trovare altri elementi e persone</string>
      <string name="search_backup_now">Attiva</string>
      <string name="search_backup_sub_title">Attiva per trovare altre immagini</string>
@@ -1527,6 +1540,7 @@ per personalizzare la Galleria"</string>
      <string name="show_hidden_album_title">Mostra gli album nascosti</string>
      <string name="show_in_other_albums_disable_toast_long_press_menu">Spostato correttamente, vai in Altri Album per vedere</string>
      <string name="show_in_other_albums_enable_toast_long_press_menu">Spostato correttamente, vai negli Album per vedere</string>
+     <string name="similar_keep_clear">Keep best shots</string>
      <string name="slideshow_interval_dialog_title">"L'intervallo dev'essere maggiore di 0 secondi"</string>
      <string name="slideshow_interval_invalid">"Intervallo non valido, deve essere 1~3600. Verrà ripristinato l'intervallo predefinito"</string>
      <string name="slideshow_interval_title">Mostra ogni diapositiva per</string>

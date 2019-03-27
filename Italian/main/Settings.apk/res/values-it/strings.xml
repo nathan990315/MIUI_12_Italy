@@ -162,6 +162,7 @@ Nota: il tocco triplo per ingrandire funziona ovunque tranne che per la tastiera
      <string name="activity_list_empty">Nessuna attività corrispondente.</string>
      <string name="activity_not_found">Applicazione non installata sul dispositivo.</string>
      <string name="activity_picker_label">Scegli attività</string>
+     <string name="activity_title_power_manager">Battery saver;Save battery</string>
      <string name="ad_service">Servizi pubblicitari (AD)</string>
      <string name="adb_keys_warning_message">"Revocare l'accesso al debug USB da tutti i computer precedentemente autorizzati?"</string>
      <string name="adb_warning_message">Il debug USB è solo a scopo di sviluppo. Utilizzalo per copiare dati tra il computer e il dispositivo, per installare applicazioni sul tuo dispositivo senza notifica e per leggere i dati dei log.</string>
@@ -237,10 +238,17 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="allow_bind_app_widget_activity_always_allow_bind">Consenti sempre a %1$s di creare widget e accedere ai relativi dati</string>
      <string name="allow_data_usage_title">"Consenti l'utilizzo di dati cellulare quando sei in roaming"</string>
      <string name="allow_device_id_access">App con identificazione del dispositivo</string>
+     <string name="allow_float_summary">Pop up notifications at the top of the screen</string>
+     <string name="allow_float_title">Floating notifications</string>
+     <string name="allow_keyguard_summary">Show notifications on the lock screen</string>
+     <string name="allow_keyguard_title">Lock screen notifications</string>
+     <string name="allow_lights_title">Allow breathing light tips</string>
      <string name="allow_mock_location">Posizioni fittizie</string>
      <string name="allow_mock_location_summary">Consenti posizioni fittizie</string>
      <string name="allow_overlay_description">"Questo permesso consente ad un app di visualizzare dei contenuti sopra ad altre app che stai usando e potrebbero così interferire con l'uso dell'interfaccia delle altre app, o modificare quelli che pensi di visualizzare in altre applicazioni."</string>
      <string name="allow_sound">Consenti suono</string>
+     <string name="allow_sound_title">Allow sound</string>
+     <string name="allow_vibrate_title">Allow vibration</string>
      <string name="alpha_build">Alfa</string>
      <string name="always">Sempre</string>
      <string name="always_allow_bind_appwidgets_text">Hai scelto di consentire a questa applicazione di creare widget e di accedere ai relativi dati.</string>
@@ -343,6 +351,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="app_link_open_always">Apri sempre con questa app</string>
      <string name="app_link_open_ask">Chiedi ogni volta</string>
      <string name="app_link_open_never">Non aprire mai con questa app</string>
+     <string name="app_link_title">Additional settings in the app</string>
      <string name="app_list_memory_use">"Utilizzo da parte dell'app"</string>
      <string name="app_list_preference_none">Nessuno</string>
      <string name="app_memory_use">Memoria usata</string>
@@ -525,6 +534,7 @@ Ultimo utilizzo il %2$s"</string>
      <string name="backup_pw_cancel_button_text">Annulla</string>
      <string name="backup_pw_set_button_text">Imposta password di backup</string>
      <string name="backup_section_title">Backup e ripristino</string>
+     <string name="badge_title">Show desktop app icon badge</string>
      <string name="band_mode_failed">Non riuscita</string>
      <string name="band_mode_loading">Caricamento lista bande…</string>
      <string name="band_mode_set">Imposta</string>
@@ -568,6 +578,7 @@ Ultimo utilizzo il %2$s"</string>
      <string name="battery_history_minutes_no_seconds">%1$d m</string>
      <string name="battery_history_seconds">%1$d s</string>
      <string name="battery_indicator_style">Indicatore batteria</string>
+     <string name="battery_indicator_title">Battery indicator</string>
      <string name="battery_info_awake_battery">Tempo di attività con batteria:</string>
      <string name="battery_info_awake_plugged">Tempo di attività in carica:</string>
      <string name="battery_info_health_cold">Minimo</string>
@@ -671,6 +682,7 @@ Ultimo utilizzo il %2$s"</string>
      <string name="block_list_remove_dialog_title">Rimuovi “%s” dalla lista dei dispositivi bloccati</string>
      <string name="block_list_summary">Visualizza quali sono i dispositivi non autorizzati a connettersi a questo hotspot</string>
      <string name="block_list_title">Lista dispositivi bloccati</string>
+     <string name="block_title">Show notifications</string>
      <string name="bluetooth">Bluetooth</string>
      <string name="bluetooth_a2dp_profile_summary_connected">Collegato ad audio media</string>
      <string name="bluetooth_a2dp_profile_summary_use_for">Usa per audio media</string>
@@ -1059,6 +1071,7 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="captioning_typeface">Stile carattere</string>
      <string name="captioning_window_color">Colore finestra sottotitoli</string>
      <string name="captioning_window_opacity">Opacità finestra sottotitoli</string>
+     <string name="card_main_hbassistant_title">Red envelope;Red packet;Money</string>
      <string name="carrier_enabled">Attivazione/disattivazione APN</string>
      <string name="carrier_enabled_summaryOff">APN non attivo</string>
      <string name="carrier_enabled_summaryOn">APN attivo</string>
@@ -1081,8 +1094,6 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="charge_length_format">%1$s ago</string>
      <string name="charging_sounds_title">Suono di ricarica</string>
      <string name="check_find_device_status_failure_confirm">OK</string>
-     <string name="check_importance">Controlla importanza</string>
-     <string name="check_importance_dialog_cancel">Annulla</string>
      <string name="check_update">Verifica aggiornamenti</string>
      <string name="checkbox_notification_same_as_incoming_call">Usa volume chiamate in entrata per le notifiche</string>
      <string name="checking_decryption">Verifica…</string>
@@ -1114,7 +1125,6 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="close_demo_mode">Annulla</string>
      <string name="close_fod">Non sarai in grado di sbloccare il dispositivo utilizzando le impronte, quando lo schermo risulterà spento. Lo sblocco con impronta funziona solo a schermo attivo.</string>
      <string name="close_fod_aod">"Non sarai in grado di sbloccare il dispositivo utilizzando le impronte, quando lo schermo risulterà spento. \"Sempre attivo\" non sarà disponibile. Lo sblocco con l'impronta funziona solo a schermo acceso."</string>
-     <string name="close_gesture">Chiudi gesture in uso</string>
      <string name="close_miui_optimization_title">Disattiva ottimizzazione MIUI</string>
      <string name="close_optimization_message">"La disposizione del testo, dell'account e di altre parti esterne alla MIUI potrebbero risultare compromesse dopo aver disattivato questa funzionalità."</string>
      <string name="close_optimization_option">Disattiva</string>
@@ -1288,6 +1298,8 @@ Per continuare a usare il dispositivo devi effettuare un ripristino dei dati di 
      <string name="current_use_uicc_se">Usando elemento di sicurezza sulla scheda SIM</string>
      <string name="current_use_uicc_wallet">Stai utilizzando il Portafogli della SIM %1$s</string>
      <string name="current_zone">(attuale)</string>
+     <string name="custom_carrier_title">Edit carrier name</string>
+     <string name="custom_wifi_name_title">Edit WLAN name</string>
      <string name="cutout_mode_always">Mostra sempre il notch</string>
      <string name="cutout_mode_default">Auto</string>
      <string name="cutout_mode_settings_title">Alcune app potrebbero non essere visualizzate correttamente se modifichi la modalità di visualizzazione del notch.</string>
@@ -1881,6 +1893,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="ethernet_data_template">^1 dati LAN</string>
      <string name="ethernet_data_usage">Utilizzo dati LAN</string>
      <string name="every_day">Tutti i giorni</string>
+     <string name="expandable_under_keyguard_title">Show on Lock screen</string>
      <string name="experimental_category_title">Sperimentale</string>
      <string name="experimental_preference">(Sperimentale)</string>
      <string name="extended_power_menu">Menù di riavvio esteso</string>
@@ -1903,6 +1916,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="failed_to_shut_down_find_device_title">Impossibile disattivare Trova dispositivo</string>
      <string name="fallback_home_title">Solo un secondo…</string>
      <string name="fcc_equipment_id">ID attrezzatura</string>
+     <string name="feedback">Feedback</string>
      <string name="file_privacy_password_role_instruction">I tuoi file privati verranno archiviati qui.</string>
      <string name="filter">Filtra</string>
      <string name="filter_all_apps">Tutte le app</string>
@@ -2000,6 +2014,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="floating_window_switch_label_disable">Nascondi finestre popup</string>
      <string name="fluency_mode">Ottimizza le prestazioni di sistema</string>
      <string name="fluency_mode_confirm_and_reboot">Riavvia adesso</string>
+     <string name="fold_title">Rules for grouped notifications</string>
      <string name="following_us_facebook">facebook</string>
      <string name="following_us_instagram">instagram</string>
      <string name="following_us_linkedin">linkedin</string>
@@ -2097,6 +2112,7 @@ Se il testo sul tuo dispositivo è troppo piccolo prova ad utilizzare "</string>
 
 Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni vengono periodicamente salvati in remoto. I dati delle applicazioni possono essere ogni tipo di dato salvato dalle app (basato sulle impostazioni sviluppatore), inclusi potenziali dati sensibili come contatti, messaggi e foto."</string>
      <string name="fullbackup_erase_dialog_message">"Interrompere il backup dei dati del dispositivo(come password Wi-Fi e registro chiamate) e dati applicazioni (come impostazioni e file memorizzati dalle app), ed eliminare tutte le copie su Google Drive?</string>
+     <string name="function_description">About this feature</string>
      <string name="gadget_bluetooth">Bluetooth</string>
      <string name="gadget_brightness_state_auto">auto</string>
      <string name="gadget_brightness_state_full">massima</string>
@@ -2115,6 +2131,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="gadget_toggle_wifi">Aggiornamento impostazione Wi-Fi</string>
      <string name="gadget_wifi">Wi-Fi</string>
      <string name="gallery_privacy_password_role_instruction">Le tue foto private verranno archiviate qui.</string>
+     <string name="game_booster">Game;Games;Turbo;Gaming;Gaming mode</string>
      <string name="game_controller_settings_category">Controller di gioco</string>
      <string name="game_mode_settings">Modalità gioco</string>
      <string name="game_storage_settings">Giochi</string>
@@ -2198,9 +2215,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="help_feedback_label">Aiuto e segnalazione bug</string>
      <string name="help_label">Guida</string>
      <string name="hidden_ssid_label">SSID nascosto:</string>
-     <string name="hide">Nascondi</string>
      <string name="hide_extra_apps">Mostra utilizzo app</string>
-     <string name="hide_screen_button">Nascondi tasti virtuali</string>
      <string name="high_performance_notif_summary">La modalità Performance è attiva.</string>
      <string name="high_performance_notif_title">"Avviso sull'utilizzo della batteria"</string>
      <string name="high_performance_title">Sembra tu stia eseguendo un test di benchmark. Imposta la modalità \"Performance\" per avere risultati migliori.</string>
@@ -2229,6 +2244,11 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="imei_information_title">IMEI</string>
      <string name="immediately_destroy_activities">Non conservare attività</string>
      <string name="immediately_destroy_activities_summary">"Elimina ogni attività appena l'utente la interrompe"</string>
+     <string name="importance_default">Default</string>
+     <string name="importance_high">High</string>
+     <string name="importance_low">Low</string>
+     <string name="importance_min">Min</string>
+     <string name="importance_title">Importance</string>
      <string name="inactive_app_active_summary">Attivata. Tocca per disattivare.</string>
      <string name="inactive_app_inactive_summary">Disattivata. Tocca per attivare.</string>
      <string name="inactive_apps_title">App disattivate</string>
@@ -2435,11 +2455,13 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="legal_workday_message">(Salta festività)</string>
      <string name="license_title">Licenza</string>
      <string name="lift_to_wake_title">Risveglia al sollevamento</string>
+     <string name="lights_title">Blink light</string>
      <string name="line_breaking_summary">Ottimizza testo a capo nei paragrafi</string>
      <string name="line_breaking_title">Ottimizza testo</string>
      <string name="link_speed_label">Velocità connessione:</string>
      <string name="list_bg_header_text">"Se si limita la connessione in background, le nuove app non saranno in grado di connettersi ad Internet in background dopo l'installazione. Potrebbero non essere in grado di ricevere messaggi o scaricare contenuti dopo questa operazione."</string>
      <string name="list_empty_text">Vuoto</string>
+     <string name="loading">Just a sec…</string>
      <string name="loading_notification_apps">Caricamento app…</string>
      <string name="local_auto_backup_off">Disattivato</string>
      <string name="local_auto_backup_on">Attivato</string>
@@ -2665,6 +2687,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="lockscreen_settings_title">Preferenze schermata di blocco</string>
      <string name="login_account_dialog_message">Accedi con il tuo Mi Account e attiva la sincronizzazione con Mi Cloud.</string>
      <string name="login_account_dialog_title">Accedi con Mi Account</string>
+     <string name="login_account_summary">Manage accounts, cloud services, payments, and more</string>
      <string name="login_action">Accedi</string>
      <string name="long_press_back_key">Tieni premuto il tasto Indietro</string>
      <string name="long_press_buttom_key">Tieni premuto il tasto Basso quando bloccato</string>
@@ -2693,6 +2716,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="manage_mobile_plan_title">Piano dati cellulare</string>
      <string name="manage_notification_access_summary_zero">Le app non possono leggere le notifiche</string>
      <string name="manage_notification_access_title">Accesso notifiche</string>
+     <string name="manage_notification_title">App notifications</string>
      <string name="manage_space_text">Gestisci spazio</string>
      <string name="manage_trust_agents">Agenti di attendibilità</string>
      <string name="manage_trust_agents_summary">Mostra o disattiva agenti di attendibilità</string>
@@ -2868,6 +2892,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_lab_super_resolution_desc">Rendi le immagini nitide</string>
      <string name="miui_lab_super_resolution_title">Super risoluzione</string>
      <string name="miui_master_clear_summary">Elimina tutti i dati sul telefono</string>
+     <string name="miui_more_special_feature">Esplora nuove funzionalità</string>
      <string name="miui_optimization_disabled">Disattiva ottimizzazione MIUI</string>
      <string name="miui_sos_audio_summary">Riproduci messaggio SOS durante comunicazione con contatto di emergenza</string>
      <string name="miui_sos_audio_title">Messaggio vocale SOS</string>
@@ -2915,6 +2940,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_sos_settings_category">Impostazioni SOS</string>
      <string name="miui_sos_statusbar_summary">Tocca per spegnere</string>
      <string name="miui_sos_statusbar_title">SOS di Emergenza è attivato</string>
+     <string name="miui_special_feature">Funzionalità speciali</string>
      <string name="miui_touch_filtered_warning">"Se un'app blocca una finestra di permessi, trascina via l'elemento sovrapposto o chiudi l'app."</string>
      <string name="miui_updater">Aggiornamenti</string>
      <string name="miui_userguide">Guida utente</string>
@@ -2938,6 +2964,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="modify_instruction_password_settings">Imposta la password</string>
      <string name="modify_privacy_password">Modifica la password</string>
      <string name="more_dangerous_option_hint">Sono attive funzioni ad alto rischio, incluso \"%1$s\". Tocca per modificare le impostazioni.</string>
+     <string name="more_installed_services_title">More downloaded services</string>
      <string name="move_app">Sposta</string>
      <string name="move_app_failed_dlg_text">"Impossibile spostare l'applicazione. %1$s"</string>
      <string name="move_app_failed_dlg_title" />
@@ -3182,6 +3209,7 @@ ed esegui il software."</string>
      <string name="no_updates_warning2">"Tranquillo, ti avviseremo se c'è un aggiornamento."</string>
      <string name="no_vr_listeners">"Nessuna delle app installate ha richiesto l'esecuzione come servizio di aiuto VR."</string>
      <string name="noise_suppression">Soppressione del rumore ambientale</string>
+     <string name="none">None</string>
      <string name="normal">Normale</string>
      <string name="normal_info">Tutto il volume è normalizzato</string>
      <string name="normal_smartcover_title">Copertura frontale opaca</string>
@@ -3190,6 +3218,15 @@ ed esegui il software."</string>
      <string name="notch_force_black_desc">"Scurisci l'area intorno al notch"</string>
      <string name="notch_force_black_title">"Nascondi notch"</string>
      <string name="notes_privacy_password_role_instruction">Le tue note private verranno archiviate qui.</string>
+     <string name="notifi_channels">Notification categories</string>
+     <string name="notifi_channels_other">Other</string>
+     <string name="notifi_importance_default">Shows everywhere, makes noise, but does not visually.</string>
+     <string name="notifi_importance_high">Shows everywhere, makes noise and peeks. May use full screen intents.</string>
+     <string name="notifi_importance_low">Shows everywhere, but is not intrusive.</string>
+     <string name="notifi_importance_min">Only shows in the shade</string>
+     <string name="notifi_importance_none">Off</string>
+     <string name="notifi_importance_unspecified">Let the app decide</string>
+     <string name="notifi_no_channels">This app has not posted any notifications</string>
      <string name="notification_app_settings_button">Impostazioni di notifica</string>
      <string name="notification_badge_title">Consenti il punto di notifica</string>
      <string name="notification_badging_title">Consenti i punti di notifica</string>
@@ -3202,6 +3239,11 @@ ed esegui il software."</string>
      <string name="notification_channels_other">Altro</string>
      <string name="notification_content_block_summary">Non mostrare mai le notifiche nel pannello o in periferiche</string>
      <string name="notification_content_block_title">Mostra notifiche</string>
+     <string name="notification_fold_description1">Notifications folder was introduced in MIUI 9. This feature filters unimportant notifications and places them into a separate folder.</string>
+     <string name="notification_fold_description2">MIUI will remember which notifications you tap, and then use multiple criteria to determine whether they are important.</string>
+     <string name="notification_fold_description3">"If the notifications you consider important still go into the Notifications folder, make sure that you report such issues to us. We'd appreciate your feedback."</string>
+     <string name="notification_fold_summary">All unimportant notifications will appear in a separate folder</string>
+     <string name="notification_fold_title">Notifications folder</string>
      <string name="notification_importance_blocked">Non mostrare mai le notifiche</string>
      <string name="notification_importance_default">Nessuna interruzione a tutto schermo o a comparsa.</string>
      <string name="notification_importance_default_title">Alto</string>
@@ -3255,10 +3297,12 @@ ed esegui il software."</string>
      <string name="notification_reboot_title">"Riavvia per applicare l'aggiornamento"</string>
      <string name="notification_reboot_title_hm">"Riavvia per applicare l'aggiornamento"</string>
      <string name="notification_ringtone_title">Suoneria notifiche predefinita</string>
+     <string name="notification_shade_shortcut_title">Notification shade shortcut</string>
      <string name="notification_show_lights_title">Luce lampeggiante</string>
      <string name="notification_sound_default">Suono di notifica predefinito</string>
      <string name="notification_sound_dialog_title">Suono di notifica predefinito</string>
      <string name="notification_sound_title">Suono di notifica predefinito</string>
+     <string name="notification_style_title">Notification style</string>
      <string name="notification_suggestion_summary">Mostra o nascondi il contenuto delle notifiche</string>
      <string name="notification_suggestion_title">Gestione notifiche schermata di blocco</string>
      <string name="notification_summary_level">Livello %d</string>
@@ -3290,6 +3334,7 @@ ed esegui il software."</string>
      <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Collegati ad Internet o contatta il tuo operatore</string>
      <string name="oem_unlock_enable_disabled_summary_sim_locked_device">"Non disponibile su dispositivi bloccati dall'operatore"</string>
      <string name="oem_unlock_enable_summary">Consenti al dispositivo lo sblocco OEM</string>
+     <string name="off">Off</string>
      <string name="ok_rules">finito</string>
      <string name="okay">OK</string>
      <string name="oldman_app_label">Modalità Lite</string>
@@ -3300,6 +3345,7 @@ ed esegui il software."</string>
      <string name="oldman_mode_entry_name">Modalità Lite</string>
      <string name="oldman_uninstalled_btn">Installa</string>
      <string name="oldman_uninstalled_des">"La modalità Lite elimina l'ingombro visivo e mantiene la schermata Home semplice e minimale."</string>
+     <string name="on">On</string>
      <string name="one_cacrt">un certificato CA</string>
      <string name="one_usercrt">un certificato utente</string>
      <string name="one_userkey">una chiave utente</string>
@@ -3321,13 +3367,14 @@ ed esegui il software."</string>
      <string name="otg_closed">Disattivato</string>
      <string name="otg_opened">Attivato</string>
      <string name="otg_settings">OTG</string>
-     <string name="otg_tip">USB On-The-Go consente ai drive USB e alle tastiere portatili di collegarsi al dispositivo mobile e scambiare dati.
+     <string name="otg_tip">"USB On-The-Go consente ai drive USB e alle tastiere portatili di collegarsi al dispositivo mobile e scambiare dati.
 
-OTG si disattiva automaticaemnte dopo 10 minuti di inattività.</string>
+OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
      <string name="other_advanced_settings">Impostazioni aggiuntive</string>
      <string name="other_device_info">Altro</string>
      <string name="other_personal_settings">Impostazioni aggiuntive</string>
      <string name="other_relative">Altri permessi</string>
+     <string name="other_settings_sync_settings">Sync</string>
      <string name="other_sound_category_preference_title">Altri suoni e vibrazioni</string>
      <string name="other_sound_settings">Altri suoni</string>
      <string name="others">Other</string>
@@ -3409,6 +3456,7 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività.</string>
      <string name="password_turned_off_text">La password è stata disattivata</string>
      <string name="password_turned_on_text">La password è stata attivata</string>
      <string name="payment_summary">%1$s è il predefinito</string>
+     <string name="peek_notification_icon_title">Show icons for incoming notifications</string>
      <string name="performance_category">Prestazioni</string>
      <string name="permission_detail_info">Dettagli permessi</string>
      <string name="permission_detail_info_summary">Permessi: Sicurezza %1$d，Privacy %2$d，Altri %3$d</string>
@@ -3580,6 +3628,8 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività.</string>
      <string name="priority_storage_settings_summary">Se la scheda SD non viene rilevata, i dati verranno salvati automaticamente nella memoria interna del dispositivo</string>
      <string name="priority_storage_summary">Scegli il percorso predefinito dove salvare i dati</string>
      <string name="priority_storage_title">Impostazioni di archiviazione</string>
+     <string name="priority_summary">Show notifications at the top of the list</string>
+     <string name="priority_title">Priority</string>
      <string name="privacy_authorize_cloud_msg">Per garantire la sicurezza del tuo account, accedi a i.mi.com se vuoi revocare le autorizzazioni per i servizi Mi Cloud (inclusi sincronizzazione e backup).</string>
      <string name="privacy_authorize_dialog_agree">Accetto</string>
      <string name="privacy_authorize_dialog_exit">Esci</string>
@@ -3930,8 +3980,6 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="scan_list_label">Risultati scansione:</string>
      <string name="sccret_code_error">Il codice immesso non è valido.</string>
      <string name="screen">Schermo</string>
-     <string name="screen_button">Tasti sullo schermo</string>
-     <string name="screen_button_tips">Scorri in basso per nascondere i tasti sullo schermo</string>
      <string name="screen_color_and_optimize">Colori e contrasto</string>
      <string name="screen_color_and_optimize_disabled">Impossibile regolare la temperatura del colore in modalità Lettura</string>
      <string name="screen_color_temperature">Temperatura colore</string>
@@ -4173,6 +4221,7 @@ Come usare Mantieni su schermo:
      <string name="search_music_headset_mode_settings">Tasti remoti cuffie</string>
      <string name="search_music_headset_settings">Cuffie e effetti audio</string>
      <string name="search_music_mi_effect_title">Ottimizzazione Mi Sound</string>
+     <string name="search_my_device">About phone;About device;My phone;My device;Phone;Device</string>
      <string name="search_networks_title">Reti cellulare</string>
      <string name="search_nfc_quick_toggle_title">NFC</string>
      <string name="search_nfc_se_route_title">Posizione elementi sicurezza</string>
@@ -4181,10 +4230,12 @@ Come usare Mantieni su schermo:
      <string name="search_oldman_mode_entry_name">Modalità lite;Modalità anziano;Modalità lite</string>
      <string name="search_onekey_migrate">Trasferisci;Mi Mover</string>
      <string name="search_other_advanced_settings">Impostazioni aggiuntive;Privacy Impostazioni;Data e ora;Lingua e tastiera;Modalità a una mano;Batteria e prestazioni;Memoria;Led Notifica;Led;Cuffie e effetti audio;Tasti;Tasti;Accessibilità;funzionalità beta;funzionalità Lab;Opzioni sviluppatori;Backup e reset;Trasferisci;Migrazione One key</string>
+     <string name="search_other_settings_sync_settings">Sync;Auto;WLAN only</string>
      <string name="search_owner_info_settings_title">Info proprietario</string>
      <string name="search_page_layout_settings">Grandezza testo</string>
      <string name="search_permission_manager">Permessi;Accessi root</string>
      <string name="search_permission_settings_title">Permessi app</string>
+     <string name="search_pick_up_gesture_wakeup_title">Pick up;Raise</string>
      <string name="search_pointer_speed">Velocità puntatore</string>
      <string name="search_power_checker">Controllo batteria</string>
      <string name="search_power_hide_mode_title">Gestisci consumo batteria app;Utilizzo batteria app;Utilizzo batteria;Informazioni batteria</string>
@@ -4205,8 +4256,8 @@ Come usare Mantieni su schermo:
      <string name="search_screen_on_proximity_sensor_title">Previeni chiamate accidentali</string>
      <string name="search_screen_paper_mode_title">Modalità lettura;Modalità lettura;Lettura;Luce blu;Luce gialla;Luce notturna</string>
      <string name="search_screen_saver_settings">Screensaver</string>
+     <string name="search_screen_shot">Screenshot;Screen capture;Capture</string>
      <string name="search_screen_timeout">Disattivazione schermo</string>
-     <string name="search_screenshot">Screenshot</string>
      <string name="search_second_space">Secondo Spazio</string>
      <string name="search_security_encryption_title">Critta il dispositivo con la password della Schermata di blocco</string>
      <string name="search_security_passwords_title">Password</string>
@@ -4243,6 +4294,7 @@ Come usare Mantieni su schermo:
      <string name="search_trusted_credentials">Credenziali sicure</string>
      <string name="search_tts_settings_title">Text-to-speech output</string>
      <string name="search_turn_on_security_lock">Cambia Blocco schermo</string>
+     <string name="search_unlogin_account_title">Mi Account; Mi Account ID;Account;Account ID</string>
      <string name="search_usb_tethering_button_text">USB tethering;Tethering;USB</string>
      <string name="search_user_agreement">Termini del servizio</string>
      <string name="search_user_dict_settings_title">Dizionario personale</string>
@@ -4413,7 +4465,6 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
      <string name="settings_safetylegal_activity_unreachable">Nessuna connessione disponibile. Per visualizzare le informazioni, visita il sito %s da qualsiasi computer collegato ad internet.</string>
      <string name="settings_safetylegal_title">Informazioni sulla sicurezza</string>
      <string name="settings_shortcut">Scorciatoia Impostazioni</string>
-     <string name="settings_toggle_position_divider_list">I comandi sopra la barra sono attivi</string>
      <string name="setup_choose_unlock_fingerprint_msg">"Imposta la schermata di blocco prima di impostare l'impronta digitale."</string>
      <string name="setup_choose_unlock_mixed_password">Password</string>
      <string name="setup_choose_unlock_mixpassword_title">Imposta password</string>
@@ -4445,6 +4496,7 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
      <string name="show_all_anrs_summary">Mostra finestra ANR per applicazioni in background</string>
      <string name="show_all_apps">Mostra utilizzo totale del dispositivo</string>
      <string name="show_background_processes">Mostra processi nella cache</string>
+     <string name="show_carrier_under_keyguard_title">Show carrier when device is locked</string>
      <string name="show_connected_devices_summary">Mostra dispositivi collegati</string>
      <string name="show_connected_devices_title">Dispositivi collegati</string>
      <string name="show_dev_already">Non è necessario, sei già uno sviluppatore.</string>
@@ -4459,9 +4511,11 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
      <string name="show_ime_summary">Tienilo sullo schermo mentre la tastiera fisica è attiva</string>
      <string name="show_magnifier_when_input">"Lente d'ingrandimento testo"</string>
      <string name="show_menu">Mostra menù</string>
+     <string name="show_network_speed_title">Show connection speed</string>
      <string name="show_non_rect_clip">Debug operazioni ritaglio non rettangolare</string>
      <string name="show_notification_channel_warnings">Mostra avvisi canale notifiche</string>
      <string name="show_notification_channel_warnings_summary">"Mostra avvisi a schermo quando un'app invia una notifica senza un valido canale"</string>
+     <string name="show_notification_icon_title">Show notification icons</string>
      <string name="show_owner_info_on_lockscreen_label">Mostra info proprietario sulla Schermata di blocco</string>
      <string name="show_password">Password visibili</string>
      <string name="show_password_summary">Mostra velocemente i caratteri mentre digiti</string>
@@ -4474,6 +4528,7 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
      <string name="show_touches">Mostra tocchi</string>
      <string name="show_touches_summary">Mostra feedback visivi per i tocchi</string>
      <string name="show_user_info_on_lockscreen_label">Mostra info utente sulla Schermata di blocco</string>
+     <string name="show_wifi_name_title">Show WLAN</string>
      <string name="shut_down_find_device_failure_confirm">OK</string>
      <string name="shut_down_find_device_network_failure_content">Impossibile disattivare Trova dispositivo. Accertati che il dispositivo sia connesso ad internet.</string>
      <string name="shut_down_find_device_network_failure_title">Impossibile connettersi alla rete</string>
@@ -4634,6 +4689,7 @@ Il PIN potrebbe essere errato."</string>
      <string name="sound_settings_summary_vibrate">Suoneria impostata su Vibrazione</string>
      <string name="sound_stereo_mode_summary">Disponibile solo durante riproduzione da altoparlante</string>
      <string name="sound_stereo_mode_title">Suono stereo</string>
+     <string name="sound_title">Sound</string>
      <string name="sound_vibrate_settings">Suoni e vibrazione</string>
      <string name="sound_work_settings">Suoni di profilo lavoro</string>
      <string name="special_access">Accesso speciale</string>
@@ -4656,73 +4712,22 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="starting_android">Avvio di Android</string>
      <string name="status_awaiting_tap">Tocca un tag da scrivere…</string>
      <string name="status_awake_time">Tempo di attività</string>
-     <string name="status_bar_and_notification_bar">Barra notifiche e barra di stato</string>
      <string name="status_bar_app_des_separator">", "</string>
      <string name="status_bar_app_disable_notification">Vuoto</string>
      <string name="status_bar_app_enable_floating">Notifiche a comparsa</string>
      <string name="status_bar_app_enable_keyguard">Schermata di blocco</string>
      <string name="status_bar_app_enable_message">Badge</string>
      <string name="status_bar_carrier_settings_no_sim_card">Nessuna scheda SIM</string>
-     <string name="status_bar_key_position_custom">Personalizza posizione tasti</string>
-     <string name="status_bar_screen_button_force_immersive_desc">"Scorri da basso verso l'altro dello schermo per mostrare i tasti virtuali"</string>
-     <string name="status_bar_screen_button_key_force_immersive">Nascondi tasti virtuali</string>
-     <string name="status_bar_screen_key_back">Tasto indietro</string>
-     <string name="status_bar_screen_key_home">Tasto Home</string>
-     <string name="status_bar_screen_key_menu">Tasto Menu</string>
-     <string name="status_bar_screen_key_recent_apps">Tasto applicazioni recenti</string>
      <string name="status_bar_settings">Notifiche</string>
-     <string name="status_bar_settings_advanced">Impostazioni aggiuntive</string>
      <string name="status_bar_settings_all_app_display_loading">Caricamento…</string>
-     <string name="status_bar_settings_app_notification_preferences">Impostazioni App</string>
-     <string name="status_bar_settings_basic_settings">Impostazioni base</string>
-     <string name="status_bar_settings_custom_carrier">Nome operatore</string>
-     <string name="status_bar_settings_custom_wifi_name">Modifica nome rete Wi-Fi</string>
-     <string name="status_bar_settings_customer_feedback">Segnalazione bug</string>
-     <string name="status_bar_settings_enable_notification">Consenti notifiche</string>
      <string name="status_bar_settings_expand_top_notification">"Espandi le notifiche verso l'alto"</string>
-     <string name="status_bar_settings_expandable_under_keyguard">Mostra sulla schermata di blocco</string>
-     <string name="status_bar_settings_function_description">Info su questa funzionalità</string>
-     <string name="status_bar_settings_long_click_sort">Tieni premuto per ordinare</string>
      <string name="status_bar_settings_manage_notification">Gestisci notifiche</string>
-     <string name="status_bar_settings_no_carrier">Nessuno</string>
      <string name="status_bar_settings_notification_bar">Pannello delle notifiche</string>
-     <string name="status_bar_settings_notification_led">LED di notifica</string>
-     <string name="status_bar_settings_notification_priority">Priorità</string>
-     <string name="status_bar_settings_notification_priority_summary">Mostra le notifiche in cima alla lista</string>
-     <string name="status_bar_settings_notification_shade_shortcut">Collegamento area notifiche</string>
-     <string name="status_bar_settings_notification_sound">Audio</string>
      <string name="status_bar_settings_notification_sound_custom">Suono personalizzato</string>
-     <string name="status_bar_settings_notification_style">Stile notifiche</string>
      <string name="status_bar_settings_notification_use_app_icon">Utilizza le icone app per le notifiche</string>
-     <string name="status_bar_settings_notification_vibrate">Vibrazione</string>
-     <string name="status_bar_settings_peek_notification_icon">Mostra icone per le notifiche in arrivo</string>
      <string name="status_bar_settings_qs_layout">Stile impostazioni rapide</string>
-     <string name="status_bar_settings_show_carrier">Mostra operatore</string>
-     <string name="status_bar_settings_show_carrier_summary">Mostra solo nella Schermata di blocco</string>
-     <string name="status_bar_settings_show_carrier_under_keyguard">Mostra operatore quando il dispositivo è bloccato</string>
-     <string name="status_bar_settings_show_floating_notification">Notifiche a comparsa</string>
-     <string name="status_bar_settings_show_floating_notification_summary">Le notifiche scompariranno automaticamente dopo essere apparse in alto</string>
-     <string name="status_bar_settings_show_flow_info">Mostra dettagli trasmissione</string>
-     <string name="status_bar_settings_show_home_message">Badge icona app</string>
-     <string name="status_bar_settings_show_keyguard_notification">Notifiche sulla Schermata di blocco</string>
-     <string name="status_bar_settings_show_keyguard_notification_summary">Consenti notifiche importanti sulla schermata di Blocco</string>
      <string name="status_bar_settings_show_lte_for_4g">Mostra icona LTE anziché 4G</string>
-     <string name="status_bar_settings_show_network_speed">Mostra velocità di connessione</string>
-     <string name="status_bar_settings_show_notification_icon">Mostra icona di notifica</string>
-     <string name="status_bar_settings_show_wifi_name">Mostra Wi-Fi</string>
      <string name="status_bar_settings_status_bar">Barra di stato</string>
-     <string name="status_bar_settings_style">Stile barra di stato</string>
-     <string name="status_bar_settings_toggle_collapse_after_clicked">Chiudi dopo il tocco</string>
-     <string name="status_bar_settings_toggle_position">Posizione comandi</string>
-     <string name="status_bar_settings_user_fold">Notifiche cartelle</string>
-     <string name="status_bar_settings_user_fold_description1">La cartella delle notifiche è stata introdotta sulla MIUI 9. Questa funzionalità filtra le notifiche non importanti, spostandole in una cartella separata.</string>
-     <string name="status_bar_settings_user_fold_description2">La MIUI ricorderà quali notifiche verranno aperte, ed utilizzerà criteri multipli per determinarne il grado di importanza.</string>
-     <string name="status_bar_settings_user_fold_description3">"Se le notifiche che ritieni importanti si trovano ancora nella cartella delle notifiche, assicurati di segnalarci tale problema. Apprezzeremmo la tua segnalazione."</string>
-     <string name="status_bar_settings_user_fold_disable">Disattiva</string>
-     <string name="status_bar_settings_user_fold_enable">Attiva</string>
-     <string name="status_bar_settings_user_fold_summary">Tutte le notifiche non importanti verranno visualizzate in una cartella separata</string>
-     <string name="status_bar_style_list">Singola pagina</string>
-     <string name="status_bar_style_page">Doppia pagina</string>
      <string name="status_bt_address">Indirizzo Bluetooth</string>
      <string name="status_data_state">Stato rete cellulare</string>
      <string name="status_failed_to_write">Impossibile scrivere i dati su un tag NFC. Se il problema persiste, prova su un tag diverso</string>
@@ -4754,7 +4759,6 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
      <string name="status_wifi_mac_address">Indirizzo MAC Wi-Fi</string>
      <string name="status_wimax_mac_address">Indirizzo MAC 4G</string>
      <string name="status_write_success">Con successo!</string>
-     <string name="statusbar_permission_desc">I permessi sono disponibili solo perle notifiche importanti</string>
      <string name="stop_upload_audio_log">Finalizzazione ottenimento log audio</string>
      <string name="stop_upload_gps_log">Finalizzazione ottenimento log GPS</string>
      <string name="stop_upload_modem_log">Finalizzazione ottenimento log modem</string>
@@ -5080,9 +5084,12 @@ L'approccio di Google alla sincronizzazione di dati per consentirti l'accesso ai
      <string name="title_jeejen">Schermata Home Jeejen</string>
      <string name="title_layout_current">Seleziona dimensione carattere</string>
      <string name="title_layout_current2">Dimensione carattere</string>
+     <string name="title_of_auto_launch_manage">Autostart</string>
      <string name="to_close">Disattiva</string>
      <string name="toast_lockscreen_glogin_empty_password">Inserisci la password</string>
      <string name="toast_need_login">Accedi al tuo Mi Account</string>
+     <string name="toast_sta_ap_works_wifi_display_disable">"Can't cast when WLAN connection is established and hotspot is on."</string>
+     <string name="toggle_collapse_after_clicked_title">Collapse after touch</string>
      <string name="total">Non disturbare</string>
      <string name="total_info">Silenzia i suoni e disattiva la vibrazione, eccetto per le sveglie</string>
      <string name="total_info_no_vibrator">Silenzia i suoni eccetto le sveglie</string>
@@ -5265,6 +5272,8 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="unlock_set_unlock_pin_title">PIN</string>
      <string name="unlock_set_unlock_summary">Imposta un blocco schermo</string>
      <string name="unlock_setup_wizard_fingerprint_details">Una volta impostato il blocco dello schermo, è possibile impostare anche la propria impronta digitale in Impostazioni > Schermata di blocco e password.</string>
+     <string name="unlogin_account_summary">All Mi services. One Mi Account</string>
+     <string name="unlogin_account_title">Sign in to Mi Account</string>
      <string name="unmount_inform_text">"L'archivio USB verrà disattivato."</string>
      <string name="unmute_sound_title">Suono di riattivazione</string>
      <string name="unrestrict_max_aspect_ratio_title">Supporta il rapporto di larghezza massima</string>
@@ -5481,6 +5490,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="vibrate_input_devices">Utilizzo della vibrazione</string>
      <string name="vibrate_input_devices_summary">Reindirizza la vibrazione al controller di gioco quando sei collegato.</string>
      <string name="vibrate_on_touch_title">Vibra al tocco</string>
+     <string name="vibrate_title">Vibrate</string>
      <string name="vibrate_when_ringing_title">Vibra quando squilla</string>
      <string name="vip_list">Lista VIP</string>
      <string name="virtual_keyboard_category">Tastiera virtuale</string>
@@ -5522,6 +5532,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="virus_scanner_select_trust_lib">Seleziona definizioni virus</string>
      <string name="virus_scanner_title">Scanner virus</string>
      <string name="virus_scanner_update_lib">Aggiornamento definizioni</string>
+     <string name="visibility_override_title">On lock screen</string>
      <string name="vision_settings_description">Puoi personalizzare questo dispositivo per soddisfare le tue necessità. Queste funzionalità di accessibilità possono essere modificate successivamente nelle Impostazioni.</string>
      <string name="vision_settings_title">Impostazioni di visualizzazione</string>
      <string name="voice_assist">Xiao Ai</string>
@@ -6278,6 +6289,4 @@ Tocca "<b>Indietro</b>" per connetterti a un'altra rete Wi-Fi."</string>
      <string name="zone_auto_summaryOn">Utilizza il fuso orario fornito dalla rete</string>
      <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
      <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
-	 <string name="miui_special_feature">Funzionalità speciali</string>
-	 <string name="miui_more_special_feature">Esplora nuove funzionalità</string>
 </resources>

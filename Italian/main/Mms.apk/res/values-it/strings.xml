@@ -28,6 +28,8 @@
      <string name="already_updated">Aggiornato</string>
      <string name="app_label">Messaggi</string>
      <string name="app_name">Gestione dispositivo</string>
+     <string name="application_list_title">Mini apps</string>
+     <string name="attach_group_chat">Group chat</string>
      <string name="attach_image">Immagini</string>
      <string name="attach_rcs_file">File</string>
      <string name="attach_rcs_location">Posizione</string>
@@ -39,6 +41,7 @@
      <string name="attach_take_photo">Scatta Foto</string>
      <string name="attach_transaction">Invia denaro</string>
      <string name="attach_video">Video</string>
+     <string name="attach_video_call">Video call</string>
      <string name="audio_download_failed">Download audio fallito</string>
      <string name="audio_message_expired">Questo messaggio vocale è scaduto.</string>
      <string name="audio_message_mx_offline">"Impossibile scaricare l'audio. Mi Message è offline o non disponibile."</string>
@@ -72,6 +75,7 @@
      <string name="button_unfold">Dispiega</string>
      <string name="call_sender">Chiama mittente</string>
      <string name="can_not_send_by_rcs">Impossibile utilizzare la messaggistica di Cina Mobile</string>
+     <string name="can_not_view_group_chat_stranger">"Can't view the details of strangers."</string>
      <string name="cannot_add_picture_and_video">Impossibile aggiungere video e immagine a una diapositiva.</string>
      <string name="cannot_add_slide_anymore">Impossibile aggiungere altre diapositive.</string>
      <string name="cannot_forward_drm_obj">"Impossibile inoltrare l'oggetto DRM incluso nel messaggio."</string>
@@ -129,6 +133,7 @@
      <string name="confirm_restore_positive">Ripristina</string>
      <string name="confirm_restore_title">Ripristinare tutti i messaggi selezionati?</string>
      <string name="confirm_send_mms">"Uno dei destinatari include un indirizzo email. Questo messaggio verrà inviato come MMS, verranno applicate le tariffe previste dall'operatore."</string>
+     <string name="contact_not_exists">"This person isn't in your contacts."</string>
      <string name="context_menu_add_calendar">Mostra nel calendario</string>
      <string name="context_menu_add_contact">Aggiungi a Contatti</string>
      <string name="context_menu_add_to_browser_favorite">Aggiungi preferiti browser</string>
@@ -241,6 +246,7 @@
      <string name="group_resend_message">Nuovo invio (%d)</string>
      <string name="group_verification_codes_summary">Raggruppa automaticamente i messaggi contenenti OTP</string>
      <string name="group_verification_codes_title">Raggruppa i messaggi OTP</string>
+     <string name="groupchat_list_title">Group chats</string>
      <string name="guild_add_attachments">Premi qui per aggiungere allegati o smileys al messaggio</string>
      <string name="guild_add_recipients">Premi qui per aggiungere destinatari dalla rubrica</string>
      <string name="guild_msim_switcher">Tocca per cambiare SIM</string>
@@ -283,6 +289,7 @@
      <string name="menu_edit">Modifica</string>
      <string name="menu_forward">Inoltra</string>
      <string name="menu_lock">Blocca messaggio</string>
+     <string name="menu_make_call">Call</string>
      <string name="menu_mark">Segnala</string>
      <string name="menu_more">Altro</string>
      <string name="menu_new_contact">Nuovo contatto</string>
@@ -293,6 +300,7 @@
      <string name="menu_traffic_destination">Destinazione</string>
      <string name="menu_unlock">Sblocca messaggio</string>
      <string name="menu_view_contact">Visualizza contatto</string>
+     <string name="menu_view_group_info">Group info</string>
      <string name="message_class_label">"Classe messaggio: "</string>
      <string name="message_contact">Contatto:</string>
      <string name="message_details_title">Dettagli messaggio</string>
@@ -402,6 +410,7 @@
      <string name="no_block_button_msg">Non bloccare messaggi</string>
      <string name="no_conversations">Nessuna conversazione.</string>
      <string name="no_delivery_report">Nessun rapporto di consegna</string>
+     <string name="no_network_description">"Couldn't connect to the network. Check your network settings and try again."</string>
      <string name="no_subject">(Nessun oggetto)</string>
      <string name="no_subject_view">(Nessun oggetto)</string>
      <string name="non_english_subject_limit">Limite di 13 caratteri per soggetti non in inglese</string>
@@ -524,6 +533,9 @@
      <string name="prvate_contact">Contatto Privato</string>
      <string name="quick_reply">Rispondi</string>
      <string name="rate_limit_surpassed">Conferma</string>
+     <string name="rcs_auto_resend_as_sms_remind_change">Change settings</string>
+     <string name="rcs_auto_resend_as_sms_remind_desp">"Messages up to 900B can be converted and sent as SMS when network signal is poor. Tap \"Change settings\" if you don't want to convert your messages to SMS."</string>
+     <string name="rcs_auto_resend_as_sms_remind_title">Convert to SMS</string>
      <string name="rcs_auto_resend_mms">Converti ad MMS</string>
      <string name="rcs_auto_resend_sms">Converti ad SMS</string>
      <string name="rcs_auto_resume">Riprendi automaticamente gli upload interrotti</string>
@@ -532,10 +544,12 @@
      <string name="rcs_dspt_unavailable">"Non puoi utilizzare questa funzionalità ora. La scheda SIM Cina Mobile non è impostata come scheda dati predefinita."</string>
      <string name="rcs_forward_faild">Impossibile inoltrare</string>
      <string name="rcs_forward_successful">Inoltro riuscito</string>
+     <string name="rcs_hello_from_pc">Sign in to Fetion on your computer to transfer files.</string>
      <string name="rcs_message">Messaggistica Cina Mobile</string>
      <string name="rcs_message_disable">Impossibile visualizzare questo messaggio sul Secondo Spazio</string>
      <string name="rcs_msg">Messagistica Cina Mobile</string>
      <string name="rcs_not_online">Impossibile utilizzare il servizio di messaggistica di Cina Mobile. Verifica le impostazioni di rete e riprova.</string>
+     <string name="rcs_offline">Not signed in to UC. Wait a minute or two and try again.</string>
      <string name="rcs_offline_hint">Il servizio di messaggistica di Cina Mobile è offline. Impossibile inoltrare il messaggio.</string>
      <string name="rcs_recipient_type_contact">Inoltra ai contatti</string>
      <string name="rcs_recipient_type_pc">Inoltra al computer</string>
@@ -622,6 +636,7 @@
      <string name="security_alert_dialog_title">Segnala</string>
      <string name="select_audio">Seleziona audio</string>
      <string name="select_bottom_text">Testo in basso</string>
+     <string name="select_copy_text">Select text to copy</string>
      <string name="select_different_attachment">Scegli un allegato diverso.</string>
      <string name="select_different_audio">Scegli un audio diverso.</string>
      <string name="select_different_picture">"Scegli un'immagine diversa."</string>

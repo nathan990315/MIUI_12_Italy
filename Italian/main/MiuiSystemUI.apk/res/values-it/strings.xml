@@ -476,6 +476,10 @@ Frequenza Campione"</string>
      <string name="daltonizer_mode_protanomaly">Protonomalia (rosso-verde)</string>
      <string name="daltonizer_mode_tritanomaly">Tritanomalia (blu-giallo)</string>
      <string name="daltonizer_type_overridden">Sovrascritto da %1$s</string>
+     <string name="data_connection_5g">5G</string>
+     <string name="data_connection_5g_basic">5GBasic</string>
+     <string name="data_connection_5g_sa">5GSA</string>
+     <string name="data_connection_5g_uwb">5GUWB</string>
      <string name="data_connection_no_internet">Non connesso ad Internet</string>
      <string name="data_saver">Risparmio dati</string>
      <string name="data_saver_description">"Per aiutare nella riduzione dell'utilizzo dei dati, il Risparmio Dati impedirà ad alcune app di inviare o ricevere dati in background. Un'app attualmente in uso può accedere ai dati, ma meno frequentemente. Ciò può significare, ad esempio, che le immagini non verranno visualizzate finché non eseguirai un tocco su di esse."</string>
@@ -666,6 +670,7 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="face_unlock_rotated_right">Muovi la tua testa verso sinistra</string>
      <string name="face_unlock_sc_status">Sposta la schermata verso il basso per aprire la camera</string>
      <string name="face_unlock_stay_away_screen">Stai almeno 25/40cm lontano dallo schermo</string>
+     <string name="face_unlock_success">Verified face data successfully</string>
      <string name="face_unlock_success_stay_screen_msg">"Resta sulla schermata di Blocco dopo che il tuo volto verrà verificato. Dopodiché scorri verso l'alto per aprire la schermata Home."</string>
      <string name="face_unlock_success_stay_screen_title">Resta sulla schermata di Blocco dopo lo sblocco</string>
      <string name="failed_to_open_app_settings_toast">Impossibile aprire le impostazioni per %1$s</string>

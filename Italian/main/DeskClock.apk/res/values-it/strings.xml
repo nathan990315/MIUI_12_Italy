@@ -52,6 +52,9 @@
      <string name="channel_name_timer">Timer</string>
      <string name="check_theme_app_install">"Assicurati che l'applicazioe Temi sia installata."</string>
      <string name="check_voice_assist_app_version">"Aggiorna Mi AI all'ultima versione."</string>
+     <string name="clock_bg_button_setting_summary_common">Select background color for the Clock app</string>
+     <string name="clock_bg_button_setting_summary_follow_sys">Black will be used as the background color every time you switch to Dark mode</string>
+     <string name="clock_bg_button_setting_title">Background color</string>
      <string name="close_alarm">Disattiva</string>
      <string name="common_settings">Impostazioni</string>
      <string name="confirm_abort">Annullare</string>
@@ -72,6 +75,11 @@
      <string name="dialog_message_for_contact_permission">"Per rendere disponibili le sveglie di compleanno, l'orologio dovrà accedere ai tuoi contatti. Procedere?"</string>
      <string name="dialog_message_negative">Non accetto</string>
      <string name="dialog_message_not_remind">Non mostrare nuovamente</string>
+     <string name="dialog_privacy_content">In order to get and sync relevant info about local public holidays and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our %1$s and %2$s. Agree?</string>
+     <string name="dialog_privacy_content_global">In order to provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our %1$s and %2$s. Agree?</string>
+     <string name="dialog_privacy_content_news">In order to provide personalized services and include morning news into your alarms, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our %1$s and %2$s. Agree?</string>
+     <string name="dialog_privacy_content_timer">In order to download audio files for ambient noise timers and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our %1$s and %2$s. Agree?</string>
+     <string name="dialog_privacy_content_timer_data">"In order to download audio files for ambient noise timers (≈20MB) and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our %1$s and %2$s. You're using mobile data now. Agree?"</string>
      <string name="done">Fatto</string>
      <string name="dynamic_alarm_speech">Sveglia intelligente</string>
      <string name="edit_alarm">Modifica sveglia</string>
@@ -83,6 +91,10 @@
      <string name="force_touch_enter_timer">Timer</string>
      <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
      <string name="go_back">Indietro</string>
+     <string name="holiday_update">An update for public holidays is available</string>
+     <string name="holiday_update_fail">"Couldn't update"</string>
+     <string name="holiday_update_loading">Updating…</string>
+     <string name="holiday_update_success">All items are up to date</string>
      <string name="hour_unit">O</string>
      <string name="install_weather_app_error">"Impossibile caricare l'app"</string>
      <string name="install_weather_app_loading">Solo un secondo…</string>
@@ -108,6 +120,7 @@
      <string name="life_post_setting">Riepilogo mattutino</string>
      <string name="life_post_setting_FBE_remind">A causa di una restrizione del sistema, le informazioni meteo potrebbero non essere visualizzate correttamente dopo il riavvio</string>
      <string name="life_post_setting_close_title">Chiudi riepilogo mattutino</string>
+     <string name="life_post_setting_open_desc">Turn off repeating alarms between 04:00 and 10:00 AM to listen to the current weather report</string>
      <string name="life_post_setting_open_subtitle">Ricevi informazioni sul meteo alla disattivazione delle sveglie tra le 4:00 e le 9:30</string>
      <string name="life_post_setting_open_title">Ricevi riepiloghi mattutini</string>
      <string name="life_post_setting_wake_up_list_title">Cronologia risvegli</string>
@@ -131,10 +144,12 @@
      <string name="module_download_data_msg">"Per rendere disponibili le sveglie intelligenti, i suoni della natura e le sveglie di compleanno, l'orologio dovrà connettersi ad Internet e accedere ai tuoi contatti. Dovrai anche scaricare ulteriore audio. Utilizzare i dati mobili per scaricare altro audio? ""</string>
      <string name="module_download_data_msg_golbal">"Per rendere disponibili le sveglie intelligenti ed i suoni della natura, l'orologio dovrà scaricare ulteriore audio. Utilizzare i dati mobili per scaricare altro audio?"</string>
      <string name="module_download_data_msg_replace">"E' disponibile un aggiornamento audio per le sveglie intelligenti (≈20MB). Collegarsi alla rete e scaricare tramite rete dati mobile?"</string>
+     <string name="module_download_data_msg_timer">Clock needs to download audio files for ambient noise timers. ≈20MB of your mobile data will be required for this download. Download now?</string>
      <string name="module_download_fail">Impossibile scaricare audio addizionale</string>
      <string name="module_download_msg">"Per rendere disponibili le sveglie intelligenti, i suoni della natura e le sveglie di compleanno, l'orologio dovrà connettersi ad Internet e accedere ai tuoi contatti. Dovrai anche scaricare ulteriore audio. Procedere?"</string>
      <string name="module_download_msg_golbal">"Per rendere disponibili le sveglie intelligenti ed i suoni della natura, l'orologio dovrà scaricare ulteriore audio. Procedere?"</string>
      <string name="module_download_msg_replace">"E' disponibile un aggiornamento audio per le sveglie intelligenti. Collegarsi alla rete e scaricare adesso?"</string>
+     <string name="module_download_msg_timer">Clock needs to download audio files for ambient noise timers. Download now?</string>
      <string name="module_download_no_network">Impossibile connettersi alla rete. Controlla le impostazioni di rete e riprova.</string>
      <string name="module_download_ok">Concorda e Scarica</string>
      <string name="module_download_success">Scaricamento audio addizionali riuscito</string>
@@ -148,6 +163,7 @@
      <string name="open_keep_screen">La schermata sarà mantenuta attiva</string>
      <string name="other_category_title">Altro</string>
      <string name="pause">Pausa</string>
+     <string name="personal_recommend">Personalized content recommendations</string>
      <string name="privacy_policy">Informativa sulla Privacy</string>
      <string name="remind_ringtone">Suoneria</string>
      <string name="repeat_count">Volte</string>
@@ -239,6 +255,7 @@
      <string name="turn_off_this_repeat_alarm">Disattiva la ripetizione di questa sveglia</string>
      <string name="upcoming_alarm">%s Sveglia in arrivo</string>
      <string name="upcoming_alarm_hint">Disattiva la sveglia in anticipo</string>
+     <string name="user_agreement">User Agreement</string>
      <string name="vibrate_pref_summary">"Vibra quando suona la sveglia"</string>
      <string name="vibrate_when_ringing">Vibra quando suona</string>
      <string name="volume_button_setting_summary">Imposta il comportamento alla pressione di uno dei due pulsanti</string>

@@ -195,8 +195,9 @@
         <item>Più vecchi di 90 giorni</item>
      </string-array>
      <string-array name="battery_indicator_style_entries">
-        <item>Grafico</item>
-        <item>Percentuale</item>
+	    <item>Grafico</item>
+        <item>Percentuale (dentro icona)</item>
+        <item>Percentuale (accanto icona)</item>
         <item>Barra</item>
      </string-array>
      <string-array name="bearer_entries">
@@ -353,16 +354,6 @@
         <item>Sequenza</item>
         <item>PIN</item>
         <item>Password</item>
-     </string-array>
-     <string-array name="check_importance_entries">
-        <item>Consigliato</item>
-        <item>Importante</item>
-        <item>Non importante</item>
-     </string-array>
-     <string-array name="check_importance_summary">
-        <item>Filtro intelligente, le notifiche non importanti appariranno in una cartella separata</item>
-        <item>Le notifiche compariranno direttamente nel pannello delle notifiche</item>
-        <item>Tutte le notifiche compariranno in una cartella separata</item>
      </string-array>
      <string-array name="city_name">
         <item>Abidjan</item>
@@ -1049,6 +1040,16 @@
         <item>Migliora le prestazioni del sistema</item>
         <item>Potrebbe influire sulle prestazioni del sistema</item>
      </string-array>
+     <string-array name="fold_entries">
+        <item>Recommended</item>
+        <item>Important</item>
+        <item>Unimportant</item>
+     </string-array>
+     <string-array name="fold_summaries">
+        <item>MIUI will decide which notifications should appear directly</item>
+        <item>Notifications will appear in the Notification shade</item>
+        <item>Notifications will appear in a separate folder</item>
+     </string-array>
      <string-array name="handy_mode_size_text_entries">
         <item>4.5 pollici</item>
         <item>4.0 pollici</item>
@@ -1182,6 +1183,14 @@
      <string-array name="notch_battery_indicator_style_entries">
         <item>Grafico</item>
         <item>Percentuale</item>
+     </string-array>
+     <string-array name="notification_shade_shortcut_entries">
+        <item>Search</item>
+        <item>Settings</item>
+     </string-array>
+     <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Nessuno</item>
@@ -1368,14 +1377,6 @@
      <string-array name="startup_hips_action">
         <item>Consenti</item>
         <item>Nega</item>
-     </string-array>
-     <string-array name="status_bar_settings_notification_shade_shortcut_entries">
-        <item>Ricerca</item>
-        <item>Impostazioni</item>
-     </string-array>
-     <string-array name="status_bar_settings_notification_style_entries">
-        <item>MIUI</item>
-        <item>Android</item>
      </string-array>
      <string-array name="status_bar_settings_qs_layout_entries">
         <item>Predefinito</item>

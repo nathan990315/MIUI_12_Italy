@@ -71,6 +71,8 @@
      <string name="call_disambig_title">Scegli numero</string>
      <string name="call_fax_home">Chiama fax casa</string>
      <string name="call_fax_work">Chiama fax lavoro</string>
+     <string name="call_feature_volte">VoLTE</string>
+     <string name="call_feature_vowifi">VoWiFi</string>
      <string name="call_home">Chiama casa</string>
      <string name="call_isdn">Chiama ISDN</string>
      <string name="call_left">Saldo telefono</string>
@@ -446,6 +448,7 @@ Per evitare richieste frequenti, noi aggiorneremo le informazioni del saldo una 
      <string name="email_work">Invia email a indirizzo lavoro</string>
      <string name="emergency_number_label">Numero di emergenza</string>
      <string name="emptyGroup">Nessuna persona in questo gruppo.</string>
+     <string name="empty_divider_title" />
      <string name="enter_contact_name">Digita il nome della persona</string>
      <string name="eventLabelsGroup">Date speciali</string>
      <string name="eventTypeCustom">Personalizza</string>
@@ -461,7 +464,6 @@ Per evitare richieste frequenti, noi aggiorneremo le informazioni del saldo una 
      <string name="export_to_sim_prepare_title">Preparazione…</string>
      <string name="export_to_sim_title">Esportazione…</string>
      <string name="export_vcard_description">Esporta vCard sulla scheda SD</string>
-     <string name="empty_divider_title" />
      <string name="exporting_contact_failed_message">"I dati dei contatti non sono stati esportati.
 Motivo: \"%s\"</string>
      <string name="exporting_contact_failed_title">Impossibile esportare</string>
@@ -517,6 +519,10 @@ Motivo: \"%s\"</string>
      <string name="group_sms_progress_msg">Creazione gruppo…</string>
      <string name="groupsLabel">Gruppi</string>
      <string name="groups_list_empty">Nessun gruppo</string>
+     <string name="help_url_people_add" />
+     <string name="help_url_people_edit" />
+     <string name="help_url_people_main" />
+     <string name="hint_distance" />
      <string name="hint_findContacts">Trova contatti</string>
      <string name="hint_more_contact">Unisci contatti duplicati</string>
      <string name="hybrid_check_network">Impostazioni di rete</string>
@@ -597,6 +603,7 @@ Motivo: \"%s\"</string>
      <string name="low_memory_toast">Memoria insufficiente per utilizzare questa funzionalità.</string>
      <string name="lunarBirthdayLabelsGroup">Compleanno lunare</string>
      <string name="lunar_calendar">Lunare</string>
+     <string name="lunar_leap" />
      <string name="make_primary">Ricorda questa scelta</string>
      <string name="map_custom">Visualizza indirizzo %s</string>
      <string name="map_home">Visualizza indirizzo casa</string>
@@ -744,15 +751,10 @@ Motivo: \"%s\"</string>
      <string name="nickname_picker_name_column">Nome contatto</string>
      <string name="nickname_picker_nickname_column">Titolo</string>
      <string name="noAccounts">Per creare i gruppi è necessario un account.</string>
+     <string name="noContactHelpTextAccountsInfo" />
      <string name="noContactHelpTextImportXiaomiAccountInfo">"Ripristina i dati dei contatti usando il Mi Account"</string>
      <string name="noContacts">Nessun contatto.</string>
      <string name="noContactsWithPhoneNumbers">Nessun contatti con numeri di telefono.</string>
-     <string name="help_url_people_add" />
-     <string name="help_url_people_edit" />
-     <string name="help_url_people_main" />
-     <string name="hint_distance" />
-     <string name="lunar_leap" />
-     <string name="noContactHelpTextAccountsInfo" />
      <string name="noFavoritesHelpText">"Nessun Preferito.
 
 Per aggiungere un contatto alla lista dei Preferiti:

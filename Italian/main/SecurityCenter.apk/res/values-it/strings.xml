@@ -29,6 +29,7 @@
      <string name="access_control_need_password">"%s blocco aggiunto con successo"</string>
      <string name="access_control_need_to_unlock_nofingerprint">Inserisci password di sblocco</string>
      <string name="accessibility_gameboosterservice_description">Attiva questa opzione per silenziare le chiamate WeChat durante le fasi di gioco</string>
+     <string name="accessibility_service_description" />
      <string name="action_button_text_100">Ottimizza</string>
      <string name="action_button_text_60">Ottimizza</string>
      <string name="action_button_text_60_80">Ottimizza</string>
@@ -218,7 +219,6 @@
      <string name="app_manager_pref_ads">Suggerimenti</string>
      <string name="app_manager_reset_app_preferences">"Ripristina le preferenze dell'app"</string>
      <string name="app_manager_reset_app_preferences_button">Ripristina app</string>
-     <string name="accessibility_service_description" />
      <string name="app_manager_reset_app_preferences_desc">"Questo riporterà i valori predefiniti delle preferenze per:
 
  <li>App disattivate</li>
@@ -971,6 +971,8 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="gamebox_type_gesture">Scorri per mostrare</string>
      <string name="gamebox_wechat_not_find">Installa WeChat e riprova.</string>
      <string name="gamebox_wifi">Wi-Fi</string>
+     <string name="gamecenter_install_fail">"Couldn't install"</string>
+     <string name="gamecenter_install_sucessfull">Installed successfully</string>
      <string name="gateway_exception_summary">Controlla il tuo router e riprova.</string>
      <string name="gateway_exception_summary2">"Impossibile connettersi al server"</string>
      <string name="gateway_exception_title">Test router</string>
@@ -1022,6 +1024,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="gb_msg_transparent_dispaly_summary">Trasparente</string>
      <string name="gb_network_status_bad">Si è verificato un errore di connessione.</string>
      <string name="gb_new_feature">Nuova funzionalità</string>
+     <string name="gb_shortcut_pref_title">Home screen shortcut</string>
      <string name="gb_sign_gift">Registrati per ottenere premi</string>
      <string name="gb_sign_gift_button_text">Ricevi</string>
      <string name="gb_sign_notification_summary">Registrati giornalmente per ottenere un Incremento Xunyou</string>
@@ -1139,21 +1142,6 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="item_system_auto_download">Scarica automaticamente aggiornamenti</string>
      <string name="item_usb_debug">Debug USB</string>
      <string name="item_virus_lib">Aggiorna definizioni virus automaticamente</string>
-     <string name="keywords_antispam">Blacklist;Blocco;Blocco intelligente;Truffa;Vendite;Agenti</string>
-     <string name="keywords_antivirus">Virus;Rischio;Antivirus;Scansione</string>
-     <string name="keywords_app_permissions">Permessi;Posizione;Accesso contatti;Permessi;Permessi app</string>
-     <string name="keywords_auto_restart">Avvio automatico; Permessi;Avvio automatico;Avvio automatico; Gestione avvio automatico; Avvio automatico MIUI; Avvio automatico app; Avvio automatico app;Avvio catena;Avvio concatenato;Avvio innescato</string>
-     <string name="keywords_buy_flow">dati;dati mobili;acquista credito;acquista credito mobile;riempimento dati;piano dati</string>
-     <string name="keywords_cleanmaster">Cestino;Pulisci;Velocità;Memoria;Cache</string>
-     <string name="keywords_gamebooster">Gioco;Turbo videogiochi;Gloria del re;Modalità prestazioni;Modalità non disturbare</string>
-     <string name="keywords_networkassistant_1">Dati;Traffico</string>
-     <string name="keywords_networkassistant_2">Dati;Calibra</string>
-     <string name="keywords_networkassistant_4">Connessione;Internet;Test</string>
-     <string name="keywords_powercenter">Salva batteria;Riscaldamento;Attiva;Disattiva;Batteria;Consumo</string>
-     <string name="keywords_powercenter_powerrank">Utilizzo batteria</string>
-     <string name="keywords_securitycenter">Sicurezza;Controllo;Scansiona</string>
-     <string name="keywords_securitycenter_settings">Risparmio energetico;Permessi;Lista blocco;Utilizzo dati;Calibra piano dati;Test di rete;Blocco app;Risparmio energetico;Riscaldamento;Attiva;Disattiva;Batteria;Consumo;Avvio automatico;Root;Localizzazione;Accesso ai contatti;Blocco;Blacklist;Lista blocco smart;Truffa;Vendite;Agenti;Dati;Traffico;Calibrazione;Connessione;Internet;Test;Password;Privacy;Accesso;Protezione</string>
-     <string name="keywords_usb_install">Installazione USB;Installa da computer;Installa tramite ADB</string>
      <string name="kilobyteShort">KB</string>
      <string name="kilobyte_per_second">K/s</string>
      <string name="label_callwait">Chiamata in attesa</string>
@@ -1497,7 +1485,6 @@ dall'operatore"</string>
      <string name="om_lock_app_unlocked_app">Sbloccato</string>
      <string name="om_locked_apps_summary">"Le app bloccate verranno escluse dall'incremento di velocità."</string>
      <string name="om_not_finish_speedboost">Incremento di velocità richiesto</string>
-     <string name="om_promotion">Ad</string>
      <string name="om_running_locked_apps">App bloccate in esecuzione</string>
      <string name="om_running_system_apps">App di sistema in esecuzione</string>
      <string name="om_running_third_apps">App di terze parti in esecuzione</string>
@@ -1530,7 +1517,6 @@ dall'operatore"</string>
      <string name="operator_number_telcom">10000</string>
      <string name="operator_number_unicom">10010</string>
      <string name="optimize_manage_title">Aumenta velocità</string>
-     <string name="optimize_result_ads_close_text">AD</string>
      <string name="optimize_result_available_memory_info">Memoria disponibile</string>
      <string name="optimize_result_button_cloudspace">Espandi spazio cloud</string>
      <string name="optimize_result_button_consume_power_analysis">Scansione batteria</string>
@@ -1583,21 +1569,6 @@ dall'operatore"</string>
      <string name="password_type">Cambia password</string>
      <string name="password_type_underline">&lt;u&gt;Cambia password&lt;/u&gt;</string>
      <string name="password_xspace_forget_pattern_message">Per modificare la password del tuo Secondo Spazio dovresti eliminare il tuo Secondo Spazio e crearlo nuovamente.</string>
-     <string name="path_antispam">Applicazioni di sistema/Sicurezza/Blacklist</string>
-     <string name="path_antivirus">Applicazioni di sistema/Sicurezza/Scansione virus</string>
-     <string name="path_app_permissions">Applicazioni di sistema/Sicurezza/Permessi/Permessi app</string>
-     <string name="path_auto_restart">App di sistema/Sicurezza/Permessi/Gestione avvio automatico</string>
-     <string name="path_buy_flow">Applicazioni di sistema/Sicurezza/Utilizzo dati/Acquista credito mobile</string>
-     <string name="path_cleanmaster">Applicazioni di sistema/Sicurezza/Pulizia</string>
-     <string name="path_gamebooster">Applicazioni di sistema/Sicurezza/Turbo videogiochi</string>
-     <string name="path_networkassistant_1">Applicazioni di sicurezza/Sicurezza/Assistente di rete</string>
-     <string name="path_networkassistant_2">Applicazioni di sistema/Sicurezza/Assistente di rete</string>
-     <string name="path_networkassistant_4">Applicazioni di sistema/Sicurezza/Assistente di rete/Test di rete</string>
-     <string name="path_powercenter">Applicazioni di sistema/Sicurezza/Risparmia batteria</string>
-     <string name="path_powercenter_powerrank">Batteria e prestazioni/Utilizzo batteria</string>
-     <string name="path_securitycenter">Applicazioni di sistema/Sicurezza</string>
-     <string name="path_securitycenter_settings">Applicazioni di sistema/Sicurezza</string>
-     <string name="path_usb_install">App di sistema/Sicurezza/Permessi/Installa tramite USB</string>
      <string name="pc_activity_title">Ottimizza batteria</string>
      <string name="pc_battery_history_show_imei">IMEI:</string>
      <string name="pc_install_manager">"Installa tramite USB"</string>
@@ -1857,21 +1828,6 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="reset_data_dialog_message">Questo dispositivo non è associato al tuo Mi Account. Non è possibile recuperare o ripristinare la password. Esegui il backup di tutti i dati importanti ed esegui un ripristino alle impostazioni di fabbrica. Tutti i dati verranno eliminati in modo permanente e la scheda SD verrà formattata durante il ripristino.</string>
      <string name="reset_data_dialog_ok">Ripristino impostazioni di fabbrica</string>
      <string name="reset_data_title">Impossibile recuperare la password</string>
-     <string name="resource_antispam">Blacklist</string>
-     <string name="resource_antivirus">Scansione virus</string>
-     <string name="resource_app_permissions">Permessi app</string>
-     <string name="resource_auto_restart">Gestione avvio automatico</string>
-     <string name="resource_buy_flow">Acquista credito mobile</string>
-     <string name="resource_cleanmaster">Pulizia</string>
-     <string name="resource_gamebooster">Turbo videogiochi</string>
-     <string name="resource_networkassistant_1">Utilizzo dati</string>
-     <string name="resource_networkassistant_2">Calibra piano dati</string>
-     <string name="resource_networkassistant_4">Test di rete</string>
-     <string name="resource_powercenter">Risparmio energetico</string>
-     <string name="resource_powercenter_powerrank">Batteria e prestazioni</string>
-     <string name="resource_securitycenter">Sicurezza</string>
-     <string name="resource_securitycenter_settings">Sicurezza</string>
-     <string name="resource_usb_install">Installa tramite USB</string>
      <string name="result_autoscan_header">Verifica pagamenti</string>
      <string name="result_autoscan_info">Monitora automaticamente il sistema quando vengono avviate le app di pagamento</string>
      <string name="result_sms_header">Rilevati rischi nei messaggi</string>
@@ -1881,6 +1837,7 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="result_sms_title_auth">Presenti rischi di divulgazione SMS con informazioni finanziarie</string>
      <string name="result_wifi_header">Rilevati rischi Wi-Fi</string>
      <string name="right_precent">100%</string>
+     <string name="risk_count_suffix" />
      <string name="roaming_allow_network_dialog_title">Consentire il roaming?</string>
      <string name="roaming_limit_dialog_message">Limite di dati giornaliero in roaming raggiunto.</string>
      <string name="roaming_limit_network_notification_body">Tocca per visualizzare le reti disponibili</string>
@@ -1926,6 +1883,7 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="section_title_clear_acc">Pulizia cache</string>
      <string name="section_title_security_defend">Sicurezza</string>
      <string name="section_title_system">Protezione sistema</string>
+     <string name="security_center_slogan">Security. Always on guard.</string>
      <string name="security_scan_optimizing">Ottimizzazione…</string>
      <string name="see_detail">Dettagli</string>
      <string name="see_more_content">Aggiorna il centro giochi per visualizzare più contenuti in primo piano</string>
@@ -2065,7 +2023,6 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="st_confirm_dialog_summary_oversea_call">Attiva per bloccare tutte le chiamate provenienti da numeri stranieri.</string>
      <string name="st_confirm_dialog_summary_stranger_call">Attenzione! Tutte le chiamate da sconosciuti verranno bloccate.</string>
      <string name="st_filter_keywords_setting_summary1">Messaggi da numeri sconosciuti che contengono le parole in questa lista verranno bloccati.</string>
-     <string name="risk_count_suffix" />
      <string name="st_filter_keywords_setting_summary2">"
 (Usa la virgola per separare le parole)."</string>
      <string name="st_filter_keywords_setting_summary3">I messaggi da numeri sconosciuti che conterranno le parole presenti in questa lista, non verranno bloccati.</string>
@@ -2292,9 +2249,13 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="tether_over_limit_warning_notify_title">Limite dati hotspot portatile raggiunto</string>
      <string name="text_button">OK</string>
      <string name="text_cycle_day">%s</string>
+     <string name="text_day" />
      <string name="thermal_tips_message">Giocando in modalità Prestazioni si potrebbero verificare fenomeni di surriscaldamento.</string>
      <string name="thermal_tips_title">Attenzione</string>
      <string name="third_application">App di terze parti</string>
+     <string name="third_desktop_dialog_content">As launcher apps from third parties may result in problems like data leak, abnormal battery drain and lagging, etc., only those verified by MIUI can be set as your default launcher.</string>
+     <string name="third_desktop_dialog_ok">Got it</string>
+     <string name="third_desktop_dialog_title">Error</string>
      <string name="three_percent_total_pkg">%s (3%% di dati mensili)</string>
      <string name="timeshow_h">%.1f o</string>
      <string name="timeshow_h_int">%d o</string>
@@ -2398,7 +2359,6 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="traffic_alert_auto_modify_notification_titile">Piano dati aggiornato</string>
      <string name="traffic_alert_auto_modify_package_summary">"Regola automaticamente il pacchetto dati in base alle informazioni dell'operatore"</string>
      <string name="traffic_config_alert_auto_modify">Aggiorna automaticamente piano dati</string>
-     <string name="text_day" />
      <string name="traffic_config_alert_body">"Il tuo operatore segna: %s.
 
 È corretto?"</string>
@@ -2508,7 +2468,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
      <string name="use_immediately">Utilizza</string>
      <string name="user_define_title">Aggiungi regole</string>
      <string name="video_repeat">Gioca di nuovo</string>
-     <string name="virus_ad_icon_text">AD</string>
      <string name="virus_auto_update_engine">Aggiornamento automatico: %s</string>
      <string name="virus_scan_process_pre">%</string>
      <string name="virus_update_tips_title">Collegati a Wi-Fi</string>
