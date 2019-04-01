@@ -195,8 +195,9 @@
         <item>Più vecchi di 90 giorni</item>
      </string-array>
      <string-array name="battery_indicator_style_entries">
-        <item>Grafico</item>
-        <item>Percentuale</item>
+	    <item>Grafico</item>
+        <item>Percentuale (dentro icona)</item>
+        <item>Percentuale (accanto icona)</item>
         <item>Barra</item>
      </string-array>
      <string-array name="bearer_entries">
