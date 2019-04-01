@@ -465,7 +465,7 @@
      <string name="folder_drafts_name_en0">Bozze</string>
      <string name="folder_drafts_name_en1">Bozza</string>
      <string name="folder_drafts_name_en2">[Gmail]/Drafts</string>
-     <string name="folder_empty_to_fresh">"Mail isn't synced. Pull down to sync."</string>
+     <string name="folder_empty_to_fresh">La post anon è sincronizzata. Trascina in basso epr sincronizzare.</string>
      <string name="folder_junk_name_cn0">垃圾邮件</string>
      <string name="folder_junk_name_cn1">垃圾箱</string>
      <string name="folder_junk_name_cn2">[Gmail]/垃圾邮件</string>
@@ -476,7 +476,7 @@
      <string name="folder_junk_name_en4">Junk</string>
      <string name="folder_list_display_all">Mostra tutte le cartelle</string>
      <string name="folder_list_display_only_import">Mostra solo le cartelle importanti</string>
-     <string name="folder_no_mails">No emails in this folder</string>
+     <string name="folder_no_mails">NEssuna email in questa cartella</string>
      <string name="folder_picker_title">Scegli cartelle</string>
      <string name="folder_removed">Rimossa da %1$s</string>
      <string name="folder_sent_name_cn0">已发送</string>
@@ -1138,7 +1138,7 @@ Tocca "<b>Sincronizza adesso</b> per sincronizzare le mail una volta, o <b>Modif
      <string name="widget_all_mail">Aggiungi Mail</string>
      <string name="widget_other_views">Altro</string>
      <string name="wipe_account_fail_description">Consenti</string>
-     <string name="wipe_account_fail_description_remind">Due to data permissions, there may be residual data in the calendar and contacts after deleting the account, please delete it manually.</string>
+     <string name="wipe_account_fail_description_remind">"A causa dei permessi per i dati, potrebbero essere presenti dati residui in Calendario e Contatti dopo l'eliminazione dell'account, eliminali manualmente."</string>
      <string name="wipe_account_fail_title">Impossibile eliminare informazioni personali</string>
      <string name="wps_title">WPS Mail</string>
      <string name="wrong_password">Password errata</string>

@@ -177,8 +177,8 @@
         <item quantity="one">1 video da caricare</item>
      </plurals>
      <plurals name="photo_count_format">
-        <item quantity="other">Total %1$d items</item>
-        <item quantity="one">Total %1$d item</item>
+        <item quantity="other">%1$d elementi totali</item>
+        <item quantity="one">%1$d elemento totale</item>
      </plurals>
      <plurals name="picker_all_image_need_download">
         <item quantity="other">Le foto selezionate non sono su questo dispositivo. Vuoi scaricarle tramite la rete dati cellulare?</item>
@@ -273,7 +273,7 @@
         <item quantity="one">%d elemento</item>
      </plurals>
      <plurals name="video_count_format">
-        <item quantity="other">%1$d files</item>
+        <item quantity="other">%1$d file</item>
         <item quantity="one">%1$d file</item>
      </plurals>
 </resources>

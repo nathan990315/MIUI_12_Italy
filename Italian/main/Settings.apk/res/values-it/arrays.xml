@@ -195,9 +195,8 @@
         <item>Più vecchi di 90 giorni</item>
      </string-array>
      <string-array name="battery_indicator_style_entries">
-	    <item>Grafico</item>
-        <item>Percentuale (dentro icona)</item>
-        <item>Percentuale (accanto icona)</item>
+        <item>Grafico</item>
+        <item>Percentuale</item>
         <item>Barra</item>
      </string-array>
      <string-array name="bearer_entries">
@@ -1041,14 +1040,14 @@
         <item>Potrebbe influire sulle prestazioni del sistema</item>
      </string-array>
      <string-array name="fold_entries">
-        <item>Recommended</item>
-        <item>Important</item>
-        <item>Unimportant</item>
+        <item>Consigliato</item>
+        <item>Importante</item>
+        <item>Non importante</item>
      </string-array>
      <string-array name="fold_summaries">
-        <item>MIUI will decide which notifications should appear directly</item>
-        <item>Notifications will appear in the Notification shade</item>
-        <item>Notifications will appear in a separate folder</item>
+        <item>MIUI deciderà quali notifiche compariranno direttamente</item>
+        <item>Le notifiche compariranno nel pannello delle notifiche</item>
+        <item>Le notifiche compariranno in una cartella separata</item>
      </string-array>
      <string-array name="handy_mode_size_text_entries">
         <item>4.5 pollici</item>
@@ -1185,8 +1184,8 @@
         <item>Percentuale</item>
      </string-array>
      <string-array name="notification_shade_shortcut_entries">
-        <item>Search</item>
-        <item>Settings</item>
+        <item>Cerca</item>
+        <item>Impostazioni</item>
      </string-array>
      <string-array name="notification_style_entries">
         <item>MIUI</item>

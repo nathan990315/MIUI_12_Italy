@@ -971,8 +971,8 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="gamebox_type_gesture">Scorri per mostrare</string>
      <string name="gamebox_wechat_not_find">Installa WeChat e riprova.</string>
      <string name="gamebox_wifi">Wi-Fi</string>
-     <string name="gamecenter_install_fail">"Couldn't install"</string>
-     <string name="gamecenter_install_sucessfull">Installed successfully</string>
+     <string name="gamecenter_install_fail">Impossibile installare</string>
+     <string name="gamecenter_install_sucessfull">Installato correttamente</string>
      <string name="gateway_exception_summary">Controlla il tuo router e riprova.</string>
      <string name="gateway_exception_summary2">"Impossibile connettersi al server"</string>
      <string name="gateway_exception_title">Test router</string>
@@ -1024,7 +1024,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="gb_msg_transparent_dispaly_summary">Trasparente</string>
      <string name="gb_network_status_bad">Si è verificato un errore di connessione.</string>
      <string name="gb_new_feature">Nuova funzionalità</string>
-     <string name="gb_shortcut_pref_title">Home screen shortcut</string>
+     <string name="gb_shortcut_pref_title">Collegamento Home</string>
      <string name="gb_sign_gift">Registrati per ottenere premi</string>
      <string name="gb_sign_gift_button_text">Ricevi</string>
      <string name="gb_sign_notification_summary">Registrati giornalmente per ottenere un Incremento Xunyou</string>
@@ -1883,7 +1883,7 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="section_title_clear_acc">Pulizia cache</string>
      <string name="section_title_security_defend">Sicurezza</string>
      <string name="section_title_system">Protezione sistema</string>
-     <string name="security_center_slogan">Security. Always on guard.</string>
+     <string name="security_center_slogan">Sicurezza. Sempre in guardia.</string>
      <string name="security_scan_optimizing">Ottimizzazione…</string>
      <string name="see_detail">Dettagli</string>
      <string name="see_more_content">Aggiorna il centro giochi per visualizzare più contenuti in primo piano</string>
@@ -2253,9 +2253,9 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="thermal_tips_message">Giocando in modalità Prestazioni si potrebbero verificare fenomeni di surriscaldamento.</string>
      <string name="thermal_tips_title">Attenzione</string>
      <string name="third_application">App di terze parti</string>
-     <string name="third_desktop_dialog_content">As launcher apps from third parties may result in problems like data leak, abnormal battery drain and lagging, etc., only those verified by MIUI can be set as your default launcher.</string>
-     <string name="third_desktop_dialog_ok">Got it</string>
-     <string name="third_desktop_dialog_title">Error</string>
+     <string name="third_desktop_dialog_content">Dato che le app launche di terze parti potrebbero comportare problemi di perdita di dati, consummo eccessivo di batteria, lag, etc. potranno essere impostati come predefiniti soltanto quelli verificati da MIUI.</string>
+     <string name="third_desktop_dialog_ok">Ho capito</string>
+     <string name="third_desktop_dialog_title">Errore</string>
      <string name="three_percent_total_pkg">%s (3%% di dati mensili)</string>
      <string name="timeshow_h">%.1f o</string>
      <string name="timeshow_h_int">%d o</string>
