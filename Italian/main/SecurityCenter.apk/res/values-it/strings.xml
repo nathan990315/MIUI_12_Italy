@@ -185,6 +185,7 @@
      <string name="app_manager_factory_reset">Disinstalla aggiornamenti</string>
      <string name="app_manager_factory_reset_dlg_msg">Tutti gli aggiornamenti per questo sistema Android verranno disinstallati.</string>
      <string name="app_manager_factory_reset_dlg_title">Disinstallare aggiornamenti?</string>
+     <string name="app_manager_find_apps">Find apps</string>
      <string name="app_manager_force_stop_dlg_text">"Se forzi la chiusura di un'app, questa potrebbe non funzionare più correttamente."</string>
      <string name="app_manager_force_stop_dlg_title">Forzare la chiusura?</string>
      <string name="app_manager_full_screen_summary">Consenti alle app selezionate di funzionare a schermo intero</string>
@@ -1885,6 +1886,11 @@ Questa funzionalità non è applicabile alle app di sistema."</string>
      <string name="section_title_system">Protezione sistema</string>
      <string name="security_center_slogan">Sicurezza. Sempre in guardia.</string>
      <string name="security_scan_optimizing">Ottimizzazione…</string>
+     <string name="securityadd_install_fail">"Couldn't update plug-in. Try again."</string>
+     <string name="securityadd_update_tips_cancle">Not now</string>
+     <string name="securityadd_update_tips_message">Update Security service plug-in to get access to the latest gaming features. %1$dMB will be downloaded.</string>
+     <string name="securityadd_update_tips_now">Update</string>
+     <string name="securityadd_update_tips_title">Update</string>
      <string name="see_detail">Dettagli</string>
      <string name="see_more_content">Aggiorna il centro giochi per visualizzare più contenuti in primo piano</string>
      <string name="set_applock_password">Imposta password</string>

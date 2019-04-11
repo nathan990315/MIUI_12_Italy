@@ -85,8 +85,6 @@
      <string name="force_touch_menu_add">Aggiungi nota</string>
      <string name="format_move_note_out_folder">Spostato fuori</string>
      <string name="format_move_note_to_folder">Spostato in %1$s</string>
-     <string name="format_move_notes_out_folder">%1$s spostata(e) fuori</string>
-     <string name="format_move_notes_to_folder">%1$s spostata(e) in %2$s</string>
      <string name="hidden_notes_fragment_title">Note nascoste</string>
      <string name="hide_arrow_description">Nascondi</string>
      <string name="hint_cannot_view_hidden_note_content">Impossibile vedere il contenuto delle note nascoste</string>
@@ -204,11 +202,9 @@
      <string name="toast_cancel_to_insert_image">Annulla per inserire immagini.</string>
      <string name="toast_message_add_image_fail">Impossibile inserire immagine.</string>
      <string name="toast_notes_delete_success">Eliminate correttamente</string>
-     <string name="toast_notes_hidden_count">%1$s nascoste correttamente</string>
      <string name="toast_notes_hidden_edit">Questa nota è stata nascosta. Tira verso il basso per visualizzare le note nascoste.</string>
      <string name="toast_notes_hidden_home">Questa nota è stata nascosta. Tira verso il basso per visualizzare le note nascoste.</string>
      <string name="toast_notes_unhidden">Visualizzate correttamente</string>
-     <string name="toast_notes_unhidden_count">%1$s visualizzate correttamente</string>
      <string name="toast_reach_text_limit_attachment">Il contenuto della nota è troppo lungo per aggiungere un altro allegato.</string>
      <string name="toast_reach_text_limit_checkbox">Impossibile aggiungere checkbox di spunta perché la nota è troppo lunga</string>
      <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perché troppo lungo.</string>

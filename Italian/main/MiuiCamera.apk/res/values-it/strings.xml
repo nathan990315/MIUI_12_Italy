@@ -87,6 +87,7 @@
      <string name="beauty_body_reset_tip">Effetti sulla figura rimossi corettamente</string>
      <string name="beauty_body_shoulder">Spalle</string>
      <string name="beauty_body_slim_count_tip">Gli effetti sulla figura funzionano solo per foto a persone</string>
+     <string name="beauty_body_whole">Body</string>
      <string name="beauty_fragment_tab_name_3d_beauty">Bellezza</string>
      <string name="beauty_fragment_tab_name_3d_makeup">Trucco</string>
      <string name="beauty_fragment_tab_name_3d_remodeling">Rimodellazione</string>
@@ -166,6 +167,7 @@
      <string name="custom_watermark_words">Watermark personalizzato</string>
      <string name="custom_watermark_words_input_hint">Inserisci testo</string>
      <string name="custom_watermark_words_save_success">Salvato correttamente</string>
+     <string name="dialog_google_lens_option_0">Google Lens (Recommended)</string>
      <string name="dialog_ok">OK</string>
      <string name="do_not_remind_me">Non chiedere più</string>
      <string name="dual_camera_lens_covered_toast">"L'obiettivo è coperto"."</string>
@@ -224,6 +226,8 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
      <string name="hine_hht">"Con poca luce ambientale, verranno scattate foto multiple
 per la costruzione di uno scatto con il minimo rumore."</string>
      <string name="hint_ae_af_lock">Messa a fuoco automatica/Esposizione automatica è stata bloccata</string>
+     <string name="hint_ae_af_lock_extra">Auto focus and auto exposure have been locked. Switch to Google Lens in the Camera settings</string>
+     <string name="hint_ae_lock">Automatic exposure is locked</string>
      <string name="hint_device_water_mark">Il logo del dispositivo verrà aggiunto automaticamente.</string>
      <string name="hint_fast_motion">Il video che registri verrà riprodotto più velocemente.</string>
      <string name="hint_groupshot">"La fotocamera scatterà foto multiple
@@ -456,9 +460,14 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
      <string name="pref_camera_jpegquality_entry_normal">Normale</string>
      <string name="pref_camera_jpegquality_title">Qualità</string>
      <string name="pref_camera_long_press_shutter_feature_title">Tieni premuto il tasto di scatto</string>
+     <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
+     <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF Lock</string>
+     <string name="pref_camera_long_press_viewfinder_title">Viewfinder settings</string>
      <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Scatto continuo</string>
      <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Messa a fuoco</string>
      <string name="pref_camera_long_pressing_shutter_title">Tieni premuto il tasto di scatto per bloccare AE/AF/AWB</string>
+     <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Lens</string>
+     <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF lock</string>
      <string name="pref_camera_magic_mirror_title">Specchio magico</string>
      <string name="pref_camera_manual_mode_title">Manuale</string>
      <string name="pref_camera_mfnr_sat_enable_title">Attiva MFNR</string>
@@ -580,6 +589,9 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
      <string name="pref_front_mirror_label_auto">Auto</string>
      <string name="pref_front_mirror_title">Fotoc. frontale (effetto specchio)</string>
      <string name="pref_google_lens">Google Lens</string>
+     <string name="pref_google_lens_default">true</string>
+     <string name="pref_google_lens_summary">Point your camera at contact info, URLs, and QR codes to view available options</string>
+     <string name="pref_google_lens_title">Lens suggestions</string>
      <string name="pref_groupshot_with_primitive_title">Salva la prima immagine nella modalità Foto di Gruppo</string>
      <string name="pref_manual_exposure_title">Esp. manuale</string>
      <string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
@@ -714,5 +726,12 @@ Wide angle mode comes to help when you can't move farther from the scene."</stri
      <string name="video_ultra_clear_tip">4K UHD</string>
      <string name="view_privacy_policy">Visualizza Informativa sulla Privacy</string>
      <string name="wait">Attendere...</string>
+     <string name="wideselfie_press_shoot_key_to_start">Tap the shutter button</string>
+     <string name="wideselfie_result_image_lossless">"Couldn't save panorama"</string>
+     <string name="wideselfie_rotate_slowly">Rotate the phone sideways slowly</string>
+     <string name="wideselfie_rotate_to_back">Tilt the phone backward</string>
+     <string name="wideselfie_rotate_to_front">Tilt the phone forward</string>
+     <string name="wideselfie_rotate_to_left_slowly">Rotate the phone to the left slowly</string>
+     <string name="wideselfie_rotate_to_right_slowly">Rotate the phone to the right slowly</string>
      <string name="zoom_no_support_tip_48M">Lo zoom non funziona in modalità 48MP</string>
 </resources>

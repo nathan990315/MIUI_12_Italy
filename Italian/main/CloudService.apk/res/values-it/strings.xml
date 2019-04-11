@@ -28,6 +28,7 @@
      <string name="enable_find_device_error">Impossibile attivare Trova dispositivo. %1$s</string>
      <string name="enable_find_device_success">Trova Dispositivo attivato.</string>
      <string name="enable_micloud">Registrati o crea un account</string>
+     <string name="enable_sync_setting_title">Configuring cloud services…</string>
      <string name="error_data_in_transfer">Trasferimento dei dati in corso. Ci vorranno circa %s ore.</string>
      <string name="error_data_in_transfer_title">Mi Cloud non è attualmente disponibile.</string>
      <string name="error_network">Impossibile connettersi alla rete</string>
@@ -332,6 +333,7 @@ Questa funziona critta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="pref_title_sync_contacts_title">Sincronizza i contatti</string>
      <string name="pref_title_sync_display_photo_on_wifi_only">Sincronizza foto solo con Wi-Fi</string>
      <string name="privacy_policy">Informativa sulla Privacy</string>
+     <string name="provision_sync_items_loading">Preparing to sync items</string>
      <string name="reading_status">Caricamento stato…</string>
      <string name="reading_status_failure">Impossibile caricare lo stato.</string>
      <string name="search_cloudbackup_pref">Backup Cloud</string>
@@ -394,6 +396,8 @@ Questa funziona critta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="user_agreement_p5">"
 "</string>
      <string name="user_agreement_title">"Termini del Servizio Mi Cloud"</string>
+     <string name="user_detail_agreement">User Agreement</string>
+     <string name="user_detail_privacy_policy">Privacy Policy</string>
      <string name="user_storage_info_available_text_prefix">%s disponibile</string>
      <string name="warning_bar_action_add_short_cut">Aggiungi</string>
      <string name="warning_bar_action_close">Chiudi</string>
@@ -415,4 +419,4 @@ Questa funziona critta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
      <string name="wipe_secret_photo_dialog_title">Le foto nascoste non vengono sincronizzate</string>
      <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xiaomi_cloud_service_subtitle">Tutte le cose importanti in un solo posto</string>
-	 </resources>
+</resources>

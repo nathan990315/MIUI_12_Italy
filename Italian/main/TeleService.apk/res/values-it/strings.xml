@@ -766,6 +766,7 @@ Frequenza Campione"</string>
      <string name="fdn_list_with_label">Lista NSF(%s)</string>
      <string name="fdn_summary">Limita le chiamate uscenti a una lista di NSF o ai numeri con certi prefissi</string>
      <string name="fdn_with_label">Numeri a Selezione Fissa (%s)</string>
+     <string name="fiveg_switch_title">5G network</string>
      <string name="flash_when_ring_summary">Notifica lampeggiante per le chiamate in arrivo</string>
      <string name="flash_when_ring_title">Lampeggia in chiamata</string>
      <string name="force_allow_on_external">Forza ammissione app da esterno</string>
@@ -1653,11 +1654,11 @@ Questo tablet non ha un auricolare. È possibile passare alla modalità vivavoce
      <string name="vowifi_emergency_notification_content">Le chiamate di emergenza sono possibili nelle aree con copertura della rete mobile</string>
      <string name="vowifi_emergency_notification_title">Chiamata Wi-Fi Vodafone</string>
      <string name="vowifi_emergency_warning_check">Non mostrare più</string>
-     <string name="vowifi_emergency_warning_message">Le chiamate Wi-Fi non possono essere utilizzate per le chiamate di emergenza.
+     <string name="vowifi_emergency_warning_message">"Le chiamate Wi-Fi non possono essere utilizzate per le chiamate di emergenza.
 
 Il dispositivo passerà automaticamente a una rete mobile (2G/3G) per effettuare una chiamata di emergenza.
 
-Le chiamate di emergenza sono possibili solo in aree con copertura di rete mobile.</string>
+Le chiamate di emergenza sono possibili solo in aree con copertura di rete mobile."</string>
      <string name="vowifi_emergency_warning_title">Chiamate ECC tramite Chiamata Wi-Fi</string>
      <string name="vpn_settings_not_available">Impostazioni VPN non disponibili per questo utente</string>
      <string name="vvm_unsupported_message_format">Tipi di messaggi non supportati, chiama %s per ascoltare.</string>
