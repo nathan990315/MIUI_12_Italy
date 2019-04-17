@@ -23,10 +23,10 @@
      <string name="btn_continue">Avanti</string>
      <string name="btn_restore_abort">Interrompi</string>
      <string name="btn_restore_cancel">Annulla</string>
-     <string name="btn_restore_continue">Restore anyway</string>
+     <string name="btn_restore_continue">Ripristina comunque</string>
      <string name="btn_restore_resume">Riprendi</string>
      <string name="btn_restore_retry">Riprova</string>
-     <string name="btn_restore_wait">Wait for WLAN</string>
+     <string name="btn_restore_wait">Attendi Wi-Fi</string>
      <string name="btn_retry">Controlla di nuovo</string>
      <string name="btn_skip">Salta questo passaggio</string>
      <string name="button_cancel">Annulla</string>
@@ -94,7 +94,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="desktop_downloading">In download</string>
      <string name="desktop_failed">Fallito</string>
      <string name="desktop_installing">Installazione</string>
-     <string name="desktop_wait_network">Waiting…</string>
+     <string name="desktop_wait_network">In attesa…</string>
      <string name="desktop_waiting">In attesa</string>
      <string name="device_delete_prompt">Eliminare il backup di %s?</string>
      <string name="dialog_btn_cancel_backup">Annulla</string>
@@ -109,7 +109,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="dialog_msg_restore_require_wlan">Il ripristino dei file di backup richiede una rete Wi-Fi.</string>
      <string name="dialog_title_require_wlan">"E' richiesta una rete Wi-Fi"</string>
      <string name="dir_date_format">HHmmss_ddMMyyyy</string>
-     <string name="doing_calc_backup_data_size">Calculating size…</string>
+     <string name="doing_calc_backup_data_size">Calcolo dimensione…</string>
      <string name="doing_restore_home">Ripristino Home e impostazioni…</string>
      <string name="done_remove">Rimosso con successo</string>
      <string name="download_home_data">Download del layout Home…</string>
@@ -135,9 +135,9 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="miui_device_name">Android</string>
      <string name="msg_alert_cancel_restore">Il backup da Cloud è in fase di ripristino, interrompere?</string>
      <string name="msg_alert_restore_error">Ripristino backup da Cloud non riuscito, prego riprova.</string>
-     <string name="msg_restore_start_with_metered_network">"Your Home screen will be relaunched. Backed up apps will be downloaded automatically. &lt;br />&lt;b>&lt;font color='red'>%s of files will be downloaded.&lt;/font>&lt;/b>"</string>
-     <string name="msg_restore_with_metered_network_hint">If you proceed to restore these items, mobile data will be used for downloading.</string>
-     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> of files will be downloaded."</string>
+     <string name="msg_restore_start_with_metered_network">"La tua Home verrà lanciata di nuovo. Le app salvate verranno scaricate automaticamente. Verranno scaricati &lt;br />&lt;b>&lt;font color='red'>%s di file.&lt;/font>&lt;/b>"</string>
+     <string name="msg_restore_with_metered_network_hint">Se procedi nel ripristino di questi file, verrà utilizzata la rete dati per il download.</string>
+     <string name="msg_restore_with_metered_network_pattern">"Verranno scaricati &lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> di file."</string>
      <string name="network_error">Collegato alla rete</string>
      <string name="no_account">Accesso al Mi Account non eseguito.</string>
      <string name="no_backup">Nessun backup su Mi Cloud.</string>
@@ -150,10 +150,10 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="other_device_main_space">Primo spazio</string>
      <string name="other_device_second_space">Secondo spazio</string>
      <string name="process_whole_recovery">Ripristino di \"%s\"</string>
-     <string name="provision_background_restore_more_data">Restore more items in the background</string>
+     <string name="provision_background_restore_more_data">Ripristina altri elementi in background</string>
      <string name="provision_error_connect_msg">Puoi testare la rete e provare di nuovo. La funzionalità di backup non sarà disponibile senza una connessione valida.</string>
      <string name="provision_error_connect_title">Impossibile connettersi</string>
-     <string name="provision_restore_data">Restoring items</string>
+     <string name="provision_restore_data">Ripristino elementi</string>
      <string name="query_restore_description">"Ripristina le app sulla Schermata Home e le impostazioni con questo backup. Verranno sovrascritti i dati delle app già installate. Le app non incluse in questo backup verranno spostate nell'ultima schermata."</string>
      <string name="query_restore_summary">Trovato un backup su Mi Cloud per questo dispositivo. Vuoi utilizzare il backup o vuoi continuare configurando il dispositivo come nuovo e cancellare i backup precedenti su Mi Cloud?</string>
      <string name="recover_from_micloud">Ripristina utilizzando Mi Cloud</string>
@@ -165,23 +165,23 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="remove_task_in_process">Rimozione</string>
      <string name="remove_task_unfinished">Rimozione incompleta</string>
      <string name="remove_unfinished">Rimozione incompleta, riprova più tardi</string>
-     <string name="restore_app_order_finish">Done</string>
-     <string name="restore_app_order_loading">Just a sec…</string>
-     <string name="restore_app_order_retry">Try again</string>
-     <string name="restore_app_order_retry_desc">"Couldn't connect to the network.
-Check your network settings and try again."</string>
-     <string name="restore_app_order_search_hint">Search for items to set priority</string>
-     <string name="restore_app_order_search_installed">Apps on this device</string>
-     <string name="restore_app_order_search_normal">Regular-priority apps</string>
-     <string name="restore_app_order_search_prior">High-priority apps</string>
-     <string name="restore_app_order_title">Prioritize restored items</string>
+     <string name="restore_app_order_finish">Fatto</string>
+     <string name="restore_app_order_loading">Solo un attimo…</string>
+     <string name="restore_app_order_retry">Prova di nuovo</string>
+     <string name="restore_app_order_retry_desc">"Impossibile collegarsi alla rete.
+Controlla le tue impostazioni di rete e prova di nuovo."</string>
+     <string name="restore_app_order_search_hint">Cerca elementi di cui impostare la priorità</string>
+     <string name="restore_app_order_search_installed">App sul dispositivo</string>
+     <string name="restore_app_order_search_normal">App con priorità normale</string>
+     <string name="restore_app_order_search_prior">App con priorità alta</string>
+     <string name="restore_app_order_title">Imposta priorità per gli elementi ripristinati</string>
      <string name="restore_cloud_backup_to_phone">Ripristina elementi da Mi Cloud</string>
      <string name="restore_data_summary">Questa funzionalità richiede una connessione internet.</string>
      <string name="restore_data_title">Ripristina dati</string>
-     <string name="restore_detail_category_apps">Home screen layout &amp; apps</string>
-     <string name="restore_detail_category_settings">Settings</string>
-     <string name="restore_detail_more">More</string>
-     <string name="restore_detail_title">Select items to restore</string>
+     <string name="restore_detail_category_apps">Layout Home e app</string>
+     <string name="restore_detail_category_settings">Impostazioni</string>
+     <string name="restore_detail_more">Altro</string>
+     <string name="restore_detail_title">Seleziona gli elementi e ripristina</string>
      <string name="restore_finish_description">Ripristino completato</string>
      <string name="restore_finished_notification_content">Ripristinati app home, impostazioni di sistema, etc.</string>
      <string name="restore_from_cloud">Ripristina da Mi Cloud</string>
@@ -189,8 +189,8 @@ Check your network settings and try again."</string>
      <string name="restore_home_failed">Impossibile ripristinare Home.</string>
      <string name="restore_home_screen_apps">Ripristina da backup Mi Cloud</string>
      <string name="restore_init_description">Avvio ripristino</string>
-     <string name="restore_network_pause">%s (Tap to resume)</string>
-     <string name="restore_network_unconnect">%s (Waiting for connection)</string>
+     <string name="restore_network_pause">%s (tocca per ripristinare)</string>
+     <string name="restore_network_unconnect">%s (in attesa di connessione)</string>
      <string name="restore_task_cancelling">Annullamento…</string>
      <string name="restore_task_in_process">Ripristino…</string>
      <string name="restore_unfinished">Ripristino incompleto, riprova più tardi</string>
@@ -206,7 +206,7 @@ Check your network settings and try again."</string>
      <string name="success_open_cloudbackup">Backup applicazioni Schermata Home attivato</string>
      <string name="title_alert_cancel_restore">Interrompi ripristino</string>
      <string name="title_alert_restore_error">Ripristino non riuscito</string>
-     <string name="title_restore_with_current_network">Using current connection for downloading files</string>
+     <string name="title_restore_with_current_network">Usa la connessine attuale per il download dei file</string>
      <string name="total_space">Spazio totale: %s</string>
      <string name="try_again">Riprova</string>
      <string name="try_continue">Continua</string>

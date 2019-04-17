@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="alert_message_delete">
-        <item quantity="other">Delete %1$s items?</item>
-        <item quantity="one">Delete %1$s item?</item>
+        <item quantity="other">Eliminare %1$s elementi?</item>
+        <item quantity="one">Eliminare %1$s elemento?</item>
      </plurals>
      <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$s non sono stati sincronizzati</item>
@@ -13,12 +13,12 @@
         <item quantity="one">%1$s cartella</item>
      </plurals>
      <plurals name="format_move_notes_out_folder">
-        <item quantity="other">Removed %1$s notes from the folder</item>
-        <item quantity="one">Removed %1$s note from the folder</item>
+        <item quantity="other">%1$s note rimosse dalla cartella</item>
+        <item quantity="one">%1$s nota rimossa dalla cartella</item>
      </plurals>
      <plurals name="format_move_notes_to_folder">
-        <item quantity="other">Moved %1$s notes to %2$s</item>
-        <item quantity="one">Moved %1$s note to %2$s</item>
+        <item quantity="other">%1$s note spostate in %2$s</item>
+        <item quantity="one">%1$s nota spostata in %2$s</item>
      </plurals>
      <plurals name="note_terms">
         <item quantity="other">%1$s note</item>
@@ -29,12 +29,12 @@
         <item quantity="one">%d secondo rimanente</item>
      </plurals>
      <plurals name="toast_notes_hidden_count">
-        <item quantity="other">Hid %1$s notes successfully</item>
-        <item quantity="one">Hid %1$s note successfully</item>
+        <item quantity="other">%1$s note nascoste correttamente</item>
+        <item quantity="one">%1$s nota nascosta correttamente</item>
      </plurals>
      <plurals name="toast_notes_unhidden_count">
-        <item quantity="other">Unhid %1$s notes successfully</item>
-        <item quantity="one">Unhid %1$s note successfully</item>
+        <item quantity="other">%1$s note rese di nuovo visibili</item>
+        <item quantity="one">%1$s nota resa di nuovo visibile</item>
      </plurals>
      <plurals name="word_count">
         <item quantity="other">%s Caratteri</item>

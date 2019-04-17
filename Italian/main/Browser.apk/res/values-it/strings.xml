@@ -212,7 +212,7 @@
      <string name="cloud_tabs_sync_off">Sincronizzazione disattivata</string>
      <string name="cloud_time_tips">Ultima sincronizzazione</string>
      <string name="cloud_up_to_loading_tips">Rilascia per sincronizzare</string>
-     <string name="collect_diagnosis_log">Collect diagnosis log</string>
+     <string name="collect_diagnosis_log">Raccogli log di diagnosi</string>
      <string name="collect_video">Ottieni video</string>
      <string name="comment_app_menu">commenti</string>
      <string name="comment_description">Commento</string>
@@ -270,17 +270,17 @@ stia per accadere"</string>
      <string name="data_traffic_prompt_message">"L'utilizzo della rete mobile incrementerà i consumi. Il superamento del limite dati potrebbe comportare costi aggiuntivi."</string>
      <string name="data_traffic_prompt_title">Avviso utilizzo dati</string>
      <string name="data_traffic_stop">Ferma</string>
-     <string name="debug_mode_toast">Debug mode is enabled</string>
+     <string name="debug_mode_toast">Modalità debug attivata</string>
      <string name="delete">Elimina</string>
      <string name="delete_bookmark">Elimina</string>
      <string name="delete_bookmark_action_warning">Eliminare segnalibri?</string>
      <string name="delete_bookmark_group_warning">Cancellare \"%s\"? Verranno cancellati tutti i segnalibri in questo gruppo.</string>
      <string name="delete_bookmark_warning">Eliminare il segnalibro \"%s\"?</string>
      <string name="delete_download">Elimina</string>
-     <string name="diagnosis_log_send_failed">Diagnosis log sent failed.</string>
-     <string name="diagnosis_log_sent_format">"Diagnosis log has been sent.
+     <string name="diagnosis_log_send_failed">Invio log diagnostico fallito.</string>
+     <string name="diagnosis_log_sent_format">"Log diagnostico inviato.
 ID:%s
-Please send this code to the technician."</string>
+Invia questo codice ai tecnici."</string>
      <string name="dialog_cannot_resume">Download interrotto</string>
      <string name="dialog_clipboard_tabs_action">Tocca per aprire</string>
      <string name="dialog_clipboard_tabs_tip">Trova il link già copiato</string>
@@ -396,7 +396,7 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="finish_sync_cloud_tabs">Sincronizzazione completata</string>
      <string name="firstUsingSearchEngineTips">Cambiare motore di ricerca?</string>
      <string name="fling_on_border_gesture_hint">"Puoi selezionare l'azione per questa gesture nelle Impostazioni"</string>
-     <string name="for_diagnosis_usage_only">Use this info for diagnosis only.</string>
+     <string name="for_diagnosis_usage_only">Queste informazioni verranno usato solo a scopo diagnostico.</string>
      <string name="force_quick_search_title">Cerca</string>
      <string name="force_touch_bookmark_history_title">Segnalibri e cronologia</string>
      <string name="force_touch_infoflow_title">Notizie Quotidiane</string>
@@ -427,8 +427,8 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="guide_fashion_text">Moda</string>
      <string name="guide_fiction_text">Fiction</string>
      <string name="guide_finance_text">Finanza</string>
-     <string name="guide_first_optimization_type_main_title">Wonderful videos don’t stop</string>
-     <string name="guide_first_optimization_type_sub_title">15 seconds of small video record the moment</string>
+     <string name="guide_first_optimization_type_main_title">I video non verranno interrotti</string>
+     <string name="guide_first_optimization_type_sub_title">Video di 15 secondi per immortalare i momenti più belli</string>
      <string name="guide_flash_type_main_title">Velocità fulminea</string>
      <string name="guide_flash_type_subtitle">Incredibile velocità, UI fluida</string>
      <string name="guide_games_text">Giochi</string>
@@ -439,8 +439,8 @@ per vedere qui le schede cloud aperte su altri dispositivi"</string>
      <string name="guide_military_text">Militare</string>
      <string name="guide_motor_text">Motori</string>
      <string name="guide_politics_text">Politica</string>
-     <string name="guide_second_optimization_type_main_title">Relax at the play bar</string>
-     <string name="guide_second_optimization_type_sub_title">Entertainment Gossip, Military Hotspots, Latest Movies and TV, Emotional Variety</string>
+     <string name="guide_second_optimization_type_main_title">Rilassati al bar</string>
+     <string name="guide_second_optimization_type_sub_title">Gossip, Hotspot Militari, Ultimi Film e show TV, Varietà</string>
      <string name="guide_skip">Salta</string>
      <string name="guide_slide_down">Prego scorri verso il basso</string>
      <string name="guide_slide_up">"Prego scorri verso l'alto"</string>
@@ -974,7 +974,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="page_info">Info pagina</string>
      <string name="page_info_address">Indirizzo:</string>
      <string name="page_info_view">Visualizza info pagina</string>
-     <string name="passport_oauth_sucess_tip">Authorized success</string>
+     <string name="passport_oauth_sucess_tip">Autorizzato con successo</string>
      <string name="password">Password</string>
      <string name="pause_download">Pausa</string>
      <string name="paused_queued_for_wifi">In attesa di connessione…</string>
@@ -1030,7 +1030,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="pref_content_night_read_mode">Modalità notte</string>
      <string name="pref_content_search_engine">Imposta motore di ricerca preferito</string>
      <string name="pref_content_search_engine_summary">Scegli un motore di ricerca</string>
-     <string name="pref_debug_mode">Debug mode</string>
+     <string name="pref_debug_mode">Modalità debug</string>
      <string name="pref_download_setting">Impostazione di download</string>
      <string name="pref_enable_adblock_notification">Notifiche Blocco pubblicitario</string>
      <string name="pref_enable_news">Nuovi avvisi</string>
@@ -1197,8 +1197,8 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="search_label">Browser</string>
      <string name="search_menu_title">Cerca</string>
      <string name="search_notification_btn_title">Cerca</string>
-     <string name="search_notification_guide_content">Experience now</string>
-     <string name="search_notification_guide_title">Swipe the top of the screen and experience a quick search!</string>
+     <string name="search_notification_guide_content">Prova adesso</string>
+     <string name="search_notification_guide_title">"Scorri dall'alto per una ricerca veloce!"</string>
      <string name="search_path_browser">Impostazioni/Applicazioni di sistema/Browser</string>
      <string name="search_settings_description">Segnalibri e cronologia web</string>
      <string name="search_shipin">Video</string>
@@ -1219,9 +1219,9 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
      <string name="select_download_device">Scegli dispositivo</string>
      <string name="send_comment_button">invia</string>
      <string name="send_comment_title">commenti</string>
-     <string name="send_diagnosis_log">Send diagnosis log</string>
+     <string name="send_diagnosis_log">Invi log di diagnosi</string>
      <string name="senddesktop">Home</string>
-     <string name="sending">Sending…</string>
+     <string name="sending">Invio in corso…</string>
      <string name="sendstartpage">Pagina iniziale</string>
      <string name="sequence_bookmark_description">Modifica la sequenza dei segnalibri</string>
      <string name="share_image_text">Sto guardando una foto bellissima</string>
@@ -1250,8 +1250,8 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="small_video_ad_app_text_resume">Riprendi</string>
      <string name="small_video_ad_web_text">Apri</string>
      <string name="small_video_boba_tab">Trasmissione</string>
-     <string name="small_video_comment">All comments</string>
-     <string name="small_video_comment_input_hint">Input your comment</string>
+     <string name="small_video_comment">Tutti i commenti</string>
+     <string name="small_video_comment_input_hint">Inserisci il tuo commento</string>
      <string name="small_video_load_failed">Caricamento fallito</string>
      <string name="small_video_loading">Caricamento...</string>
      <string name="small_video_main_tab">Suggeriti</string>
@@ -1345,7 +1345,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
      <string name="tae_sdk_qr_login_icon_password"></string>
      <string name="tae_sdk_qr_login_icon_scan"></string>
      <string name="temp_refuse">Rifiuta</string>
-     <string name="temporary_not_available">temporary not available</string>
+     <string name="temporary_not_available">Temporaneamente non dsponibile</string>
      <string name="title_bar_loading">Caricamento…</string>
      <string name="title_notice_push">Posticipazione notifica</string>
      <string name="too_many_windows_dialog_message">Impossibile aprire una nuova scheda finché non se ne chiude una.</string>

@@ -9,16 +9,16 @@
         <item quantity="one">%1$s backup, dimensione:%2$s</item>
      </plurals>
      <plurals name="restore_app_order_installed">
-        <item quantity="other">%d apps on this device</item>
-        <item quantity="one">%d app on this device</item>
+        <item quantity="other">%d app su questo dispositivo</item>
+        <item quantity="one">%d app su questo dispositivo</item>
      </plurals>
      <plurals name="restore_app_order_normal">
-        <item quantity="other">Regular priority: %d items</item>
-        <item quantity="one">Regular priority: %d item</item>
+        <item quantity="other">Priorità normale: %d elementi</item>
+        <item quantity="one">Priorità normale: %d elemento</item>
      </plurals>
      <plurals name="restore_app_order_prior">
-        <item quantity="other">High priority: %d items</item>
-        <item quantity="one">High priority: %d item</item>
+        <item quantity="other">Alta priorità: %d elementi</item>
+        <item quantity="one">Alta priorità: %d elemento</item>
      </plurals>
      <plurals name="restoring_file_tile">
         <item quantity="other">Ripristino di %d file</item>

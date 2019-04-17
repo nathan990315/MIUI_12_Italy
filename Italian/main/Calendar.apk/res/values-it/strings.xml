@@ -67,7 +67,7 @@
      <string name="can_not_modify_allday_event">Gli eventi che durano tutto il giorno non possono essere modificati</string>
      <string name="can_not_modify_event">Impossibile modificare</string>
      <string name="can_not_modify_repeating_acrossing_days_event">Gli eventi ripetuti e quelli in corso non possono essere modificati</string>
-     <string name="cancel_reminder_later">Cancel reminder</string>
+     <string name="cancel_reminder_later">Annulla promemoria</string>
      <string name="card_detail_dialog_message">%1$s si aggiornerà ogni giorno. Iscriviti per ricevere aggiornamenti quotidiani.</string>
      <string name="card_detail_dialog_negative">Iscriviti più tardi</string>
      <string name="card_detail_dialog_positive">Iscriviti adesso</string>
@@ -117,7 +117,7 @@
      <string name="date_jump_title">Salta ad una data</string>
      <string name="date_today">(oggi)</string>
      <string name="day_view_new_event_hint">+ Nuovo evento</string>
-     <string name="default_reminder_later_time">Default interval for \"Remind later\"</string>
+     <string name="default_reminder_later_time">Intervallo prefedinito per \"Ricordami dopo\"</string>
      <string name="default_reminder_mode">Modalità avviso predefinita</string>
      <string name="delete_recurring_event_title">Eliminare %s?</string>
      <string name="delete_this_event_title">Questo evento sarà eliminato.</string>
@@ -282,7 +282,7 @@
      <string name="monthly_on_day_count">Mensile (ogni %1$s %2$s)</string>
      <string name="network_not_available">Impossibile collegarsi alla rete</string>
      <string name="new_event_description">Nuovo</string>
-     <string name="next_alarm_time">Next reminder at %1$s</string>
+     <string name="next_alarm_time">Prossimo promemoria alle %1$s</string>
      <string name="no_contact_birthday_hint">Nessun compleanno importato</string>
      <string name="no_events_hint">Nessun evento</string>
      <string name="no_network">"Impossibile collegarsi alla rete.
@@ -290,7 +290,7 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="no_network_btn">Riprova</string>
      <string name="no_title_label">(Senza titolo)</string>
      <string name="no_visiable_calendar_message">Devi selezionare un account del calendario, tocca Seleziona Account per il passo successivo.</string>
-     <string name="no_visiable_calendar_message_only_for_xiaomi_account">You need to add a calendar account. Tap \"Add account\" to continue.</string>
+     <string name="no_visiable_calendar_message_only_for_xiaomi_account">Devi aggiungere un account del calendariot. Tocca \"Aggiungi account\" per continuare.</string>
      <string name="no_visiable_calendar_select_account">Seleziona account</string>
      <string name="no_visiable_calendar_title">Seleziona Account Calendario</string>
      <string name="notification_channel_description" />
@@ -346,7 +346,7 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="receive_net_mock_success">Ricezione su rete simulata riuscita</string>
      <string name="refresh">Aggiorna</string>
      <string name="refreshing_hint">Aggiornamento</string>
-     <string name="reminder_later">Remind later</string>
+     <string name="reminder_later">Ricordami più tardi</string>
      <string name="repeat_activity_label">Ripeti</string>
      <string name="repeat_custom_activity_label">Personalizza</string>
      <string name="repeat_custom_prompt_daily">ogni %1$s</string>
@@ -398,8 +398,8 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="setting_others">Aggiuntive</string>
      <string name="setting_title_about">Informazioni</string>
      <string name="setting_title_holiday_display">Mostra festività</string>
-     <string name="share_not_install_wechat">Please install wechat.</string>
-     <string name="share_not_install_weibo">Please install weibo.</string>
+     <string name="share_not_install_wechat">Installa wechat.</string>
+     <string name="share_not_install_weibo">Installa weibo.</string>
      <string name="share_title">Condividi</string>
      <string name="show_day_view">Mostra giorno</string>
      <string name="solar_lunar_convert_date" />
