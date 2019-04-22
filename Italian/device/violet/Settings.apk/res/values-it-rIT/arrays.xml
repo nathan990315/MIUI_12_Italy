@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, attivo</item>
+        <item>, attivo (media)</item>
+        <item>, attivo (Telefono)</item>
+     </string-array>
+     <string-array name="bluetooth_max_connected_audio_devices">
+        <item>Predefinito di sistema: %1$d</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+     </string-array>
+     <string-array name="dark_ui_mode_entries">
+        <item>"Automatica (in base all'orario)"</item>
+        <item>Sempre attiva</item>
+        <item>Sempre disattivata</item>
+     </string-array>
+     <string-array name="dark_ui_mode_values">
+        <item>auto</item>
+        <item>si</item>
+        <item>no</item>
+     </string-array>
+     <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>Batteria</item>
+        <item>Camera</item>
+        <item>Schermo</item>
+        <item>Risoluzione</item>
+        <item>Android</item>
+     </string-array>
+     <string-array name="wifi_hidden_entries">
+        <item>No</item>
+        <item>Si</item>
+     </string-array>
+     <string-array name="wifi_metered_entries">
+        <item>Rileva automaticamente</item>
+        <item>Misurato</item>
+        <item>Non misurato</item>
+     </string-array>
+	      <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Predefinito)</item>
+		<item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+     </string-array>
+</resources>

@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="add">Aggiungi</string>
-     <string name="add_named">Add %1$s</string>
-     <string name="add_printer_by_ip">Add printer by IP address</string>
+     <string name="add_manual_printer">Aggiungi stampante manualmente</string>
      <string name="app_name">Servizio Predefinito di Stampa</string>
-     <string name="connect_hint_text">"You may need to approve this connection on your printer's front panel"</string>
-     <string name="connecting_to">Connecting to %1$s</string>
-     <string name="connects_via_network">Connects via current network at %1$s</string>
-     <string name="connects_via_wifi_direct">Connects via WLAN Direct</string>
-     <string name="failed_connection">Could not connect to %1$s</string>
-     <string name="failed_printer_connection">Could not connect to printer</string>
-     <string name="find_wifi_direct">Find WLAN Direct printers</string>
-     <string name="forget">Forget</string>
+     <string name="forget_printer">Elimina stampante</string>
      <string name="hostname_or_ip">Nome host o indirizzo IP</string>
      <string name="media_size_4x6in">4x6 in</string>
      <string name="media_size_54x86mm">54x86 mm</string>
@@ -30,11 +22,8 @@
      <string name="printer_out_of_ink">Senza inchiostro</string>
      <string name="printer_out_of_paper">Senza carta</string>
      <string name="printer_out_of_toner">Senza toner</string>
-     <string name="saved_printers">Saved printers</string>
-     <string name="searching">Searching…</string>
      <string name="title_activity_add_printer">Aggiungi stampante</string>
      <string name="unreadable_input">Impossibile leggere il documento</string>
      <string name="waiting_to_send">In attesa di invio</string>
-     <string name="wifi_direct">WLAN Direct</string>
-     <string name="wifi_direct_printers">WLAN Direct printers</string>
+     <string name="wifi_not_connected">Wi-Fi non connesso</string>
 </resources>

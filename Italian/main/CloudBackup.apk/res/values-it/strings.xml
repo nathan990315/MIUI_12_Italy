@@ -154,7 +154,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="provision_error_connect_msg">Puoi testare la rete e provare di nuovo. La funzionalità di backup non sarà disponibile senza una connessione valida.</string>
      <string name="provision_error_connect_title">Impossibile connettersi</string>
      <string name="provision_restore_data">Ripristino elementi</string>
-     <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
      <string name="query_restore_description">"Ripristina le app sulla Schermata Home e le impostazioni con questo backup. Verranno sovrascritti i dati delle app già installate. Le app non incluse in questo backup verranno spostate nell'ultima schermata."</string>
      <string name="query_restore_summary">Trovato un backup su Mi Cloud per questo dispositivo. Vuoi utilizzare il backup o vuoi continuare configurando il dispositivo come nuovo e cancellare i backup precedenti su Mi Cloud?</string>
      <string name="recover_from_micloud">Ripristina utilizzando Mi Cloud</string>
@@ -172,7 +171,6 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="restore_app_order_retry_desc">"Impossibile collegarsi alla rete.
 Controlla le tue impostazioni di rete e prova di nuovo."</string>
      <string name="restore_app_order_search_hint">Cerca elementi di cui impostare la priorità</string>
-     <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'>%s&lt;/font>"</string>
      <string name="restore_app_order_search_installed">App sul dispositivo</string>
      <string name="restore_app_order_search_normal">App con priorità normale</string>
      <string name="restore_app_order_search_prior">App con priorità alta</string>

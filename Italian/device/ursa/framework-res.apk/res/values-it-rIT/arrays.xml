@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="emailAddressTypes">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="fingerprint_acquired_vendor">
+        <item>Prova di nuovo</item>
+        <item></item>
+        <item></item>
+        <item>Copri il sensore di impronte ed applica una pressione</item>
+        <item></item>
+        <item>Copri il sensore di impronte ed applica una pressione</item>
+        <item>Copri il sensore di impronte ed applica una pressione</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Copri il sensore di impronte ed applica una pressione</item>
+        <item>Copri il sensore di impronte ed applica una pressione</item>
+        <item>"Troppo veloce! Impossibile riconoscere l'impronta"</item>
+        <item>Muovi un pò la tua impronta e riprova</item>
+        <item>Alza il tuo dito e rimettilo nuovamente sullo scansionatore</item>
+        <item>Mantienti il tuo dito sullo scansionatore un pò di più</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Muovi leggermente il tuo dito</item>
+        <item>Questa impronta è stata aggiunta, usa un altro dito</item>
+     </string-array>
+     <string-array name="imAddressTypes">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+     </string-array>
+     <string-array name="network_switch_type_name">
+        <item>Dati mobile</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>LAN</item>
+        <item>VPN</item>
+     </string-array>
+     <string-array name="organizationTypes">
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="phoneTypes">
+        <item>Casa</item>
+        <item>Cellulare</item>
+        <item>Lavoro</item>
+        <item>Fax lavoro</item>
+        <item>Fax casa</item>
+        <item>Cercapersone</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="postalAddressTypes">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
+     </string-array>
+     <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Per eseguire chiamate ed inviare messaggi tramite Wi-Fi, prima chiedi al tuo operatore di abilitare questo servizio. Dopodichè abilita nuovamente la chiamata Wi-Fi dalle impostazioni.</item>
+     </string-array>
+     <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Registrati con il tuo operatore</item>
+     </string-array>
+     <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s chiamata Wi-Fi</item>
+     </string-array>
+</resources>
