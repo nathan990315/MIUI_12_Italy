@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="battery_saver_off_summary">Disattivo / %1$s</string>
-    <string name="battery_saver_on_summary">Attivo / %1$s</string>
 	<string name="bluetooth_connected">Connesso</string>
 	<string name="bluetooth_connected_no_a2dp">Collegato (contenuti multimed. esclusi)</string>
 	<string name="bluetooth_connected_no_headset">Collegato (dispositivo escluso)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Collegato (telef. o conten. mult. esclusi)</string>
     <string name="bluetooth_connected_no_map">Collegato (nessun accesso ai messaggi)</string>
-	<string name="condition_zen_title">Modalità Anti-disturbo attivata (%1$s)</string>
-	<string name="location_on_summary">Attivato / %1$s</string>
 </resources>

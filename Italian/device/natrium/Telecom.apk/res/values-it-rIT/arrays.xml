@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Usa Selezione di Sistema (Predefinito)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Attiva Codec Opzionali</item>
+        <item>Disattiva Codec Opzionali</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Usa Selezione di Sistema (Predefinito)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Attiva Codec Opzionali</item>
+        <item>Disattiva Codec Opzionali</item>
+     </string-array>
+     <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Predefinito)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+     </string-array>
+</resources>

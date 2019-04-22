@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="total_info">Silenzia i suoni e disattiva la vibrazione, eccetto per le sveglie</string>
-	<string name="enable_service_title">Usare %1$s?</string>
-	<string name="tts_engine_settings_title">Impostazioni per %s</string>
-	<string name="bluetooth_ask_discovery">Un app vuole rendere il tuo telefono visibile ad altri dispositivi Bluetooth per %1$d secondi.</string>
-    <string name="bluetooth_ask_enablement">Un app vuole attivare Bluetooth</string>
-    <string name="bluetooth_ask_enablement_and_discovery">Un app vuole attivare il Bluetooth e rendere visibile agli altri dispositivi per %1$d secondi.</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">Un app vuole attivare il Bluetooth e rendere visibile agli altri dispositivi. Puoi modificare nelle impostazioni Bluetooth.</string>
-    <string name="bluetooth_ask_lasting_discovery">Un app vuole rendere il tuo telefono visibile ad altri dispositivi Bluetooth. Puoi modificare nelle impostazioni Bluetooth.</string>
-	<string name="battery_summary">"%1$d%%  utilizzo dall'ultima ricarica completa"</string>
-	<string name="app_permissions_summary" formatted="false">%d di %d app consentono un accesso aggiuntivo</string>
+    <string name="battery_saver_off_summary">Disattivo / %1$s</string>
+    <string name="battery_saver_on_summary">Attivo / %1$s</string>
+	<string name="bluetooth_connected">Connesso</string>
+	<string name="bluetooth_connected_no_a2dp">Collegato (contenuti multimed. esclusi)</string>
+	<string name="bluetooth_connected_no_headset">Collegato (dispositivo escluso)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Collegato (telef. o conten. mult. esclusi)</string>
+    <string name="bluetooth_connected_no_map">Collegato (nessun accesso ai messaggi)</string>
+	<string name="condition_zen_title">Modalità Anti-disturbo attivata (%1$s)</string>
+	<string name="location_on_summary">Attivato / %1$s</string>
 </resources>
