@@ -1,8 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="app_ops_labels">
-        <item>Prova ad abilitare il Wi-Fi</item>
-        <item>Prova ad abilitare il Bluetooth</item>
+     <integer-array name="config_autoBrightnessDisplayValuesNits">
+        <item>4</item>
+        <item>4</item>
+        <item>4</item>
+        <item>14</item>
+        <item>14</item>
+        <item>14</item>
+        <item>14</item>
+        <item>14</item>
+        <item>14</item>
+        <item>31</item>
+        <item>31</item>
+        <item>31</item>
+        <item>46</item>
+        <item>46</item>
+        <item>46</item>
+        <item>56</item>
+        <item>56</item>
+        <item>56</item>
+        <item>64</item>
+        <item>80</item>
+        <item>86</item>
+        <item>90</item>
+        <item>92</item>
+        <item>103</item>
+        <item>106</item>
+        <item>112</item>
+        <item>121</item>
+        <item>132</item>
+        <item>145</item>
+        <item>167</item>
+        <item>184</item>
+        <item>207</item>
+        <item>227</item>
+        <item>258</item>
+        <item>303</item>
+        <item>324</item>
+        <item>364</item>
+        <item>445</item>
+     </integer-array>
+     <string-array name="config_miuiNonBlockableNotificationPackages">
+        <item>android</item>
+        <item>com.android.incallui</item>
+        <item>com.android.deskclock</item>
+        <item>com.android.mms</item>
+        <item>com.android.bluetooth</item>
+        <item>com.android.updater</item>
+        <item>com.android.providers.downloads</item>
+        <item>com.miui.hybrid</item>
+        <item>com.xiaomi.xmsf</item>
      </string-array>
      <string-array name="emailAddressTypes">
         <item>Casa</item>
@@ -81,8 +128,8 @@
         <item>Casa</item>
         <item>Lavoro</item>
         <item>Altro</item>
-     <item>Personalizzato</item>
-		</string-array>
+        <item>Personalizzato</item>
+     </string-array>
      <string-array name="wfcOperatorErrorAlertMessages">
         <item>Per eseguire chiamate ed inviare messaggi tramite Wi-Fi, prima chiedi al tuo operatore di abilitare questo servizio. Dopodichè abilita nuovamente la chiamata Wi-Fi dalle impostazioni.</item>
      </string-array>

@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="refocus_title">Sfocatura</string>
-    <string name="refocus_type_static">Livello sfocatura</string>
-    <string name="refocus_type_video">Scie di luce</string>
-    <string name="refocus_type_relighting">Illuminazione da studio</string>
-    <string name="refocus_type_relighting_no_face">Impossibile rilevare volto</string>
-    <string name="refocus_type_relighting_small_face">"Gli effetti di illuminazione richiedono foto con volti ben definiti."</string>
-    <string name="refocus_saving">Salvataggio…</string>
-    <string name="refocus_save_to_photo">Salva come immagine</string>
-    <string name="refocus_save_to_video">Salva come video</string>
-    <string name="refocus_save_cancel">Annulla</string>
-    <string name="refocus_save_title">Seleziona formato</string>
-    <string name="refocus_photo_not_support">Impossibile applicare sfocatura a questa foto</string>
-    <string name="refocus_relighting_toast">"Muovi il cerchio per modificare l'angolo di illuminazione"</string>
-    <string name="refocus_discard_confirm_message">Salvare i cambiamenti?</string>
-    <string name="refocus_discard_positive_btn">Salva</string>
-    <string name="refocus_discard_negative_btn">Annulla</string>
-    <string name="extra_photo_common_saving">Salvataggio…</string>
-    <string name="extra_photo_common_permission_name">Bokeh</string>
+     <string name="extra_photo_common_permission_name">Bokeh</string>
+     <string name="extra_photo_common_saving">Salvataggio…</string>
+     <string name="extra_photo_common_transition_image_view">tag_transition_view</string>
+     <string name="extra_photo_common_transition_menu_view">tag_transition_view_menu</string>
+     <string name="refocus_discard_confirm_message">Salvare i cambiamenti?</string>
+     <string name="refocus_discard_negative_btn">Annulla</string>
+     <string name="refocus_discard_positive_btn">Salva</string>
+     <string name="refocus_photo_not_support">Impossibile applicare sfocatura a questa foto</string>
+     <string name="refocus_relighting_toast">"Muovi il cerchio per modificare l'angolo di illuminazione"</string>
+     <string name="refocus_save_cancel">Annulla</string>
+     <string name="refocus_save_title">Seleziona formato</string>
+     <string name="refocus_save_to_photo">Salva come immagine</string>
+     <string name="refocus_save_to_video">Salva come video</string>
+     <string name="refocus_saving">Salvataggio…</string>
+     <string name="refocus_title">Sfocatura</string>
+     <string name="refocus_type_relighting">Illuminazione da studio</string>
+     <string name="refocus_type_relighting_no_face">Impossibile rilevare volto</string>
+     <string name="refocus_type_relighting_small_face">"Gli effetti di illuminazione richiedono foto con volti ben definiti."</string>
+     <string name="refocus_type_static">Livello sfocatura</string>
+     <string name="refocus_type_video">Scie di luce</string>
 </resources>

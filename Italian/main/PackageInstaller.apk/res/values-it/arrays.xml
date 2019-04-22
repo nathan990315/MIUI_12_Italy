@@ -85,8 +85,15 @@
         <item>Enable Optional Codecs</item>
         <item>Disable Optional Codecs</item>
      </string-array>
+     <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, active</item>
+        <item>, active (media)</item>
+        <item>, active (phone)</item>
+     </string-array>
      <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Default)</item>
+        <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
      </string-array>
@@ -104,10 +111,6 @@
         <item>Off</item>
         <item>Show overdraw areas</item>
         <item>Show areas for Deuteranomaly</item>
-     </string-array>
-     <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (Default)</item>
-        <item>OpenGL (Skia)</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
         <item>Nessuna</item>

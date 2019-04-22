@@ -522,19 +522,16 @@ se dimenticata"</string>
      <string name="card_main_applock_summary">Proteggi la tua privacy con il Blocco App</string>
      <string name="card_main_applock_title">Blocco app</string>
      <string name="card_main_deepclean_action">Pulisci</string>
-     <string name="card_main_deepclean_facebook_title">Pulizia Facebook</string>
      <string name="card_main_deepclean_qq_title">Pulizia QQ</string>
      <string name="card_main_deepclean_summary">Elimina i file non necessari</string>
      <string name="card_main_deepclean_title">Pulizia</string>
      <string name="card_main_deepclean_wechat_action">Cancella</string>
      <string name="card_main_deepclean_wechat_summary">Cancella cache WeChat per liberare spazio di archiviazione</string>
      <string name="card_main_deepclean_wechat_title">Cache WeChat</string>
-     <string name="card_main_deepclean_whatsapp_title">Pulizia WhatsApp</string>
      <string name="card_main_gamebooster_summary">Migliora la stabilità della connessione per i giochi</string>
      <string name="card_main_gamebooster_title">Turbo videogiochi</string>
      <string name="card_main_hbassistant_summary">Utilizza questo strumento per ottimizzare la velocità dei giochi</string>
      <string name="card_main_hbassistant_title">Turbo videogiochi</string>
-     <string name="card_main_hwtest_title">Test hardware</string>
      <string name="card_main_monthreport_action">Visualizza</string>
      <string name="card_main_netcheck_action">Verifica</string>
      <string name="card_main_netcheck_summary">Verifica la connessione per risolvere i problemi di rete</string>
@@ -584,6 +581,7 @@ se dimenticata"</string>
      <string name="cpu_usage_view_action_btn_text">Tocca per visualizzare</string>
      <string name="create_gamebooster_destop">Collegamento Home creato correttamente</string>
      <string name="create_shortcut">Crea un collegamento sulla schermata Home per Turbo videogiochi</string>
+     <string name="create_table_thirddesktop">CREATE TABLE THIRD_DESKTOP( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, application_name TEXT NOT NULL, type INTEGER NOT NULL );</string>
      <string name="cta_dialog_msg"><Data>You must agree to our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy policy&lt;/a> before using Security. Security also needs to connect to the internet and access your location to work normally and keep antivirus definitions up to date. Agree?</Data></string>
      <string name="cta_dialog_negative">Esci</string>
      <string name="cta_dialog_positive">Accetto</string>
@@ -1203,6 +1201,7 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continuerai ad utilizzare l
      <string name="low_memory_warning_dialog_msg">Libera spazio sul tuo dispositivo per continuare</string>
      <string name="low_memory_warning_dialog_ok_button">Cancella</string>
      <string name="low_memory_warning_dialog_title">Spazio libero insufficiente</string>
+     <string name="lucky_alarm_back">返回红包助手</string>
      <string name="main_activity_content_summary_root">Accesso root</string>
      <string name="main_activity_content_summary_update">Aggiornamento del sistema</string>
      <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
