@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="abc_action_bar_home_description">Navigate home</string>
+     <string name="abc_action_bar_up_description">Navigate up</string>
+     <string name="abc_action_menu_overflow_description">More options</string>
+     <string name="abc_action_mode_done">Done</string>
+     <string name="abc_activity_chooser_view_see_all">See all</string>
+     <string name="abc_activitychooserview_choose_application">Choose an app</string>
+     <string name="abc_capital_off">OFF</string>
+     <string name="abc_capital_on">ON</string>
+     <string name="abc_menu_alt_shortcut_label">Alt+</string>
+     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+     <string name="abc_menu_delete_shortcut_label">delete</string>
+     <string name="abc_menu_enter_shortcut_label">enter</string>
+     <string name="abc_menu_function_shortcut_label">Function+</string>
+     <string name="abc_menu_meta_shortcut_label">Meta+</string>
+     <string name="abc_menu_shift_shortcut_label">Shift+</string>
+     <string name="abc_menu_space_shortcut_label">space</string>
+     <string name="abc_menu_sym_shortcut_label">Sym+</string>
+     <string name="abc_prepend_shortcut_label">Menu+</string>
+     <string name="abc_search_hint">Search…</string>
+     <string name="abc_searchview_description_clear">Clear query</string>
+     <string name="abc_searchview_description_query">Search query</string>
+     <string name="abc_searchview_description_search">Search</string>
+     <string name="abc_searchview_description_submit">Submit query</string>
+     <string name="abc_searchview_description_voice">Voice search</string>
+     <string name="abc_shareactionprovider_share_with">Share with</string>
+     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+     <string name="abc_toolbar_collapse_description">Collapse</string>
      <string name="app_name">MIUI Bluetooth</string>
      <string name="ble_device_address">Dispositivi smart MAC bluetooth</string>
      <string name="ble_device_profile">Profilo dispositivo bluetooth</string>
@@ -17,6 +44,7 @@
      <string name="bluetooth_search_for_devices">Cerca dispositivi</string>
      <string name="device_picker">Impostazioni dispositivo bluetooth</string>
      <string name="disconnect">Dissocia</string>
+     <string name="expand_button_title">Advanced</string>
      <string name="fast_connect_device_box">Box</string>
      <string name="fast_connect_device_box_name">%1$s Box</string>
      <string name="fast_connect_device_connect_cancel">Annulla</string>
@@ -54,9 +82,12 @@
      <string name="ok_button">OK</string>
      <string name="progress_scanning">Ricerca…</string>
      <string name="reset_function_msg">"l'azzeramento di questa funzionalità potrebbe impedire a %1$s di funzionare correttamente."</string>
+     <string name="search_menu_title">Search</string>
      <string name="some_app_taking">(%1$s sta già utilizzando questa funzionalità)</string>
      <string name="unbind_device_alert_cancel">Annulla</string>
      <string name="unbind_device_alert_content">Connessione persa con %1$s. Dissocia questo dispositivo per risparmiare batteria.</string>
      <string name="unbind_device_alert_ok">Dissocia</string>
      <string name="unbind_device_alert_title">Dissocia dispositivo</string>
+     <string name="v7_preference_off">OFF</string>
+     <string name="v7_preference_on">ON</string>
 </resources>
