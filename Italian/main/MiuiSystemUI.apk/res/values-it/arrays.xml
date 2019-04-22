@@ -74,9 +74,10 @@
         <item>Usa selezione di sistema (Predefinito)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Attiva Codec Opzionali</item>
         <item>Disattiva Codec Opzionali</item>
      </string-array>
@@ -84,14 +85,22 @@
         <item>Usa selezione di sistema (Predefinito)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Attiva Codec Opzionali</item>
         <item>Disattiva Codec Opzionali</item>
      </string-array>
+     <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Active"</item>
+        <item>" | Active (media)"</item>
+        <item>" | Active (phone)"</item>
+     </string-array>
      <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Default)</item>
+		<item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
      </string-array>
@@ -114,10 +123,6 @@
         <item>Disattivato</item>
         <item>Mostra aree overdraw</item>
         <item>Mostra aree per Deuteranomalia</item>
-     </string-array>
-     <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (Predefinito)</item>
-        <item>OpenGL (Skia)</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
@@ -189,14 +194,6 @@
         <item>1M</item>
         <item>4M</item>
         <item>16M</item>
-     </string-array>
-     <string-array name="select_logd_system_levels">
-        <item>Disattivato</item>
-        <item>Errore</item>
-        <item>Avviso</item>
-        <item>Info</item>
-        <item>Debug</item>
-        <item>Verbose</item>
      </string-array>
      <string-array name="select_logpersist_summaries">
         <item>Disattivato</item>

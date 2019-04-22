@@ -522,19 +522,16 @@ se dimenticata"</string>
      <string name="card_main_applock_summary">Proteggi la tua privacy con il Blocco App</string>
      <string name="card_main_applock_title">Blocco app</string>
      <string name="card_main_deepclean_action">Pulisci</string>
-     <string name="card_main_deepclean_facebook_title">Pulizia Facebook</string>
      <string name="card_main_deepclean_qq_title">Pulizia QQ</string>
      <string name="card_main_deepclean_summary">Elimina i file non necessari</string>
      <string name="card_main_deepclean_title">Pulizia</string>
      <string name="card_main_deepclean_wechat_action">Cancella</string>
      <string name="card_main_deepclean_wechat_summary">Cancella cache WeChat per liberare spazio di archiviazione</string>
      <string name="card_main_deepclean_wechat_title">Cache WeChat</string>
-     <string name="card_main_deepclean_whatsapp_title">Pulizia WhatsApp</string>
      <string name="card_main_gamebooster_summary">Migliora la stabilità della connessione per i giochi</string>
      <string name="card_main_gamebooster_title">Turbo videogiochi</string>
      <string name="card_main_hbassistant_summary">Utilizza questo strumento per ottimizzare la velocità dei giochi</string>
      <string name="card_main_hbassistant_title">Turbo videogiochi</string>
-     <string name="card_main_hwtest_title">Test hardware</string>
      <string name="card_main_monthreport_action">Visualizza</string>
      <string name="card_main_netcheck_action">Verifica</string>
      <string name="card_main_netcheck_summary">Verifica la connessione per risolvere i problemi di rete</string>
@@ -1675,6 +1672,10 @@ dall'operatore"</string>
      <string name="power_save_mode_summary" formatted="false">Monitora i processi in background e disattiva le sincronizzazioni. Il risparmio energetico verrà disattivato automaticamente quando la carica della batteria sarà al 60% o al 100%.</string>
      <string name="power_save_on_time_end_time_summary_na">A</string>
      <string name="power_save_on_time_start_time_summary_na">Da</string>
+     <string name="power_save_ps_clean">Clear cache whenever device is locked</string>
+     <string name="power_save_ps_close_setting">Turn off background services (sync, GPS) to save battery</string>
+     <string name="power_save_ps_freeze">Freeze apps in the background</string>
+     <string name="power_save_ps_limit">Restrict the activity of system apps</string>
      <string name="power_save_started_summary_text">"Il risparmio energetico è attivo. Questo ridurrà l'attività in background delle app, interromperà la sincronizzazione e ridurrà al minimo le animazioni di sistema."</string>
      <string name="power_save_summary_text">Attivando il risparmio energetico verranno ridotte le attività in background delle app, le sincronizzazioni e le animazioni di sistema.</string>
      <string name="power_save_title_text">Risparmio energetico</string>
