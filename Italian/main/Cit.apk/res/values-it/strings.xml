@@ -19,14 +19,14 @@
      <string name="abc_capital_on">ATTIVA</string>
      <string name="abc_menu_alt_shortcut_label">Alt+</string>
      <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-     <string name="abc_menu_delete_shortcut_label">delete</string>
-     <string name="abc_menu_enter_shortcut_label">enter</string>
-     <string name="abc_menu_function_shortcut_label">Function+</string>
+     <string name="abc_menu_delete_shortcut_label">Elimina</string>
+     <string name="abc_menu_enter_shortcut_label">Invio</string>
+     <string name="abc_menu_function_shortcut_label">Funzione+</string>
      <string name="abc_menu_meta_shortcut_label">Meta+</string>
      <string name="abc_menu_shift_shortcut_label">Shift+</string>
-     <string name="abc_menu_space_shortcut_label">space</string>
+     <string name="abc_menu_space_shortcut_label">Spazio</string>
      <string name="abc_menu_sym_shortcut_label">Sym+</string>
-     <string name="abc_prepend_shortcut_label">Menu+</string>
+     <string name="abc_prepend_shortcut_label">Menú+</string>
      <string name="abc_search_hint">Cerca…</string>
      <string name="abc_searchview_description_clear">Pulisci query</string>
      <string name="abc_searchview_description_query">Cerca query</string>
@@ -41,54 +41,54 @@
      <string name="action_farr_verify">FAR FRR:verifica</string>
      <string name="action_init_base">FAR FRR:inizial. base</string>
      <string name="action_nothing">Attendi il test</string>
-     <string name="add">Add</string>
+     <string name="add">Aggiungi</string>
      <string name="afdcalibration_test">TEST CALIBRAZIONE ADF</string>
      <string name="afdcalibrationrubberstamp_test">TEST CALIBRAZIONE STAMPO DI GOMMA AFD</string>
      <string name="afdrubberstamp_test">TEST CALIBRAZIONE STAMPO DI GOMMA AFD</string>
      <string name="allow_gpu_maxfreq_summary">GPU overfreq experimental mode could introduce power issues or even more severe problems. However, they will be restored once you turn this mode off. Turn on GPU maxfreq mode?</string>
-     <string name="audio_rule">Audio xml parser</string>
+     <string name="audio_rule">Parser audio xml</string>
      <string name="audio_spk_cal_wait">Calibrazione, attendere prego...</string>
      <string name="audio_spk_def">Calibrazione altoparlanti, attendere prego</string>
-     <string name="back_mic_check_record_tip">Recording, please say something to MIC at the back of the phone</string>
-     <string name="battery_id">Battery ID:</string>
+     <string name="back_mic_check_record_tip">In registrazione... Per favore parla nel mic. posteriore del telefono</string>
+     <string name="battery_id">ID Batteria:</string>
      <string name="battery_info">Impostazioni correlate di carica della batteria</string>
-     <string name="battery_plug_wirelee_summary">Wireless charger each connection, disconnect once</string>
-     <string name="battery_plug_wirelee_title">Wireless charging test</string>
-     <string name="battery_plugin_wirelee">Wireless charging is connected</string>
-     <string name="battery_plugout_wirelee">Please connect wireless charging</string>
-     <string name="battery_value">Electricity</string>
+     <string name="battery_plug_wirelee_summary">Caricabatterie wireless ad ogni connessione, da scollegare una volta</string>
+     <string name="battery_plug_wirelee_title">Test caricabatterie wireless</string>
+     <string name="battery_plugin_wirelee">Il caricabatterie wireless è connesso</string>
+     <string name="battery_plugout_wirelee">Prego collega il caricabatterie wireless</string>
+     <string name="battery_value">Elettricitá</string>
      <string name="begin_to_save_finger_data">Inizia a salvare i dati delle impronte</string>
-     <string name="bt_address">Address:</string>
-     <string name="bt_name">Name:</string>
+     <string name="bt_address">Indirizzo:</string>
+     <string name="bt_name">Nome:</string>
      <string name="button_ok">OK</string>
      <string name="camera_capture">Cattura</string>
      <string name="camera_done">Fatto</string>
-     <string name="camera_error">"This device doesn't support Camera2 API."</string>
+     <string name="camera_error">"Questo dispositivo non supporta le API Camera2."</string>
      <string name="camera_flood">- Flood -</string>
-     <string name="camera_menu_list">CameraList</string>
-     <string name="camera_not_support_raw10">The camera not support raw10 picture format!</string>
-     <string name="camera_preview">preview</string>
+     <string name="camera_menu_list">Lista Camera</string>
+     <string name="camera_not_support_raw10">La camera non supporta il formato immagine raw10!</string>
+     <string name="camera_preview">Anteprima</string>
      <string name="camera_projector">- Projector -</string>
      <string name="camera_zoom">Zoom</string>
      <string name="camerainfo">Informazioni camera</string>
-     <string name="can_not_get_numbers_of_keys">can not get numbers of keys</string>
-     <string name="cancel">Cancel</string>
-     <string name="cancelEnrol">CancelEnrol</string>
+     <string name="can_not_get_numbers_of_keys">Impossibile ottenere il numero di pulsanti</string>
+     <string name="cancel">Annulla</string>
+     <string name="cancelEnrol">Annulla Registrazione</string>
      <string name="cancel_test">TEST ANNULLATO</string>
      <string name="capacitance_test">TEST CAPACITIVO</string>
      <string name="charger_test_end">"
-Charger test end, please plug out the charger"</string>
+Test caricabatterie terminato, prego scollega il caricabatterie"</string>
      <string name="checkerboard_test">TEST A SCACCHIERA</string>
-     <string name="cit_OTG_plug_check_summary">During the test, please plug in and reverse plug in the USB_OTG device</string>
+     <string name="cit_OTG_plug_check_summary">"Durante il test collega il dispositivo all'adattatore OTG USB, e quest'ultimo ad altri dispositivi"</string>
      <string name="cit_OTG_plug_check_title">OTG</string>
      <string name="cit_OTG_plugin_check_summary">Quando un dispositivo OTG è collegato, il testo \"Dispositivo USB OTG rilevato\" dovrebbe comparire di seguito.</string>
      <string name="cit_OTG_plugin_check_title">Avvia test OTG</string>
      <string name="cit_OTG_plugout_check_summary">Quando un dispositivo OTG è scollegato, il testo \"Dispositivo USB OTG scollegato\" dovrebbe comparire di seguito.</string>
      <string name="cit_OTG_plugout_check_title">Stato OTG disconnesso</string>
      <string name="cit_OTG_waiting_in">Collega un dispositivo USB OTG</string>
-     <string name="cit_OTG_waiting_in_charge">Connect USB OTG device now</string>
+     <string name="cit_OTG_waiting_in_charge">Collega adattatore OTG USB ora</string>
      <string name="cit_OTG_waiting_out">Scollega il dispositivo USB OTG</string>
-     <string name="cit_Reserse_charge_check_title">Reverse charge test</string>
+     <string name="cit_Reserse_charge_check_title">Test inverso caricabatterie</string>
      <string name="cit_abnormal_reboot_summary">Attendere...Lettura dati di stabilità su questo dispositivo.</string>
      <string name="cit_abnormal_reboot_title">Dati stabilità dispositivo</string>
      <string name="cit_ac_charger_in">Ricarica via AC</string>
@@ -162,10 +162,10 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
 1. Tocca il pulsante Zoom in basso per accedere all'interfaccia della camera
 2. Tocca il pulsante di zoom sull'anteprima della camera, la cornice di anteprima si ingrandirà
 3. Tocca il pulsante di Fine."</string>
-     <string name="cit_aux_camera_check_summary_no_zoom">"Test instructions:
+     <string name="cit_aux_camera_check_summary_no_zoom">"Istruzioni test:
 
-1.Tap the Preview button below to enter Camera interface
-2.Wait preview end, auto return."</string>
+1.Tocca il pulsante di Anteprima in basso per entrare nell'interfaccia della Camera
+2.Attendi il termine dell'anteprima e l'uscita automatica."</string>
      <string name="cit_back_pointer_location_title">Sensore di tocco posteriore</string>
      <string name="cit_battery_check_summary">Statistiche batteria dispositivo</string>
      <string name="cit_battery_check_title">Informazioni batteria</string>
@@ -206,22 +206,22 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
 3. Un messaggio ti indicherà che lo stabilizzatore ottico (OIS) è stato calibrato"</string>
      <string name="cit_camera_fast_check_title">Camera fast test</string>
      <string name="cit_camera_sdcard_error">Impossibile scattare foto. Scheda SD piena.</string>
-     <string name="cit_charger_check_title">Charger Test</string>
+     <string name="cit_charger_check_title">Test caricabatterie</string>
      <string name="cit_charger_in">Charger connected</string>
-     <string name="cit_charger_in_check_title">Charger insertion test</string>
+     <string name="cit_charger_in_check_title">Test collegamento caricabatterie</string>
      <string name="cit_charger_plugin_check_summary">Quando il caricabatterie è collegato, il testo \"Ricarica tramite USB/AC\" dovrebbe comparire di seguito.</string>
      <string name="cit_charger_plugin_check_title">Test Connessione caricabatteria</string>
      <string name="cit_charger_plugout_check_summary">Quando il caricabatterie USB è scollegato, il testo \"Ricarica tramite USB/AC interrotta\" dovrebbe comparire di seguito.</string>
      <string name="cit_charger_plugout_check_title">Test Disconnessione caricabatteria</string>
-     <string name="cit_charger_test_summary">"During the Charger test, please forward plug in the charger
-and reverse plug in the charger"</string>
+     <string name="cit_charger_test_summary">"Durante il test del caricabatterie, esegui il collegamento
+al dispositivo ed alla presa a muro"</string>
      <string name="cit_charger_test_tips_electric">Current project needs to test charging current value greater than 1A</string>
      <string name="cit_charger_test_tips_hvdcp">Current project needs to test USB_HVDCP</string>
      <string name="cit_charger_waiting_in">"Collega l'alimentatore"</string>
      <string name="cit_charger_waiting_out">"Scollega l'alimentatore"</string>
-     <string name="cit_def_torch_on_one">Turn on the first flash</string>
-     <string name="cit_def_torch_on_three">Turn on the third flash</string>
-     <string name="cit_def_torch_on_two">Turn on the second flash</string>
+     <string name="cit_def_torch_on_one">Attiva il primo flash</string>
+     <string name="cit_def_torch_on_three">Attiva il terzo flash</string>
+     <string name="cit_def_torch_on_two">Attiva il secondo flash</string>
      <string name="cit_diag_chaging_summary">Copia i file log di carica sulla scheda SD</string>
      <string name="cit_diag_chaging_title">Read charge logger</string>
      <string name="cit_diag_chaging_wait">Attendere prego... Copia in corso</string>
@@ -277,8 +277,8 @@ and reverse plug in the charger"</string>
 3. Tocca l'icona a forma di spunta. Il sistema salverà la foto automaticamente
 4. La foto che hai scattato dovrebbe comparire di seguito. Tocca "Elimina" per completare questo test"</string>
      <string name="cit_front_camera_check_title">Test Fotocamera anteriore</string>
-     <string name="cit_front_rear_dual_camera_check_title">Front rear dual camera</string>
-     <string name="cit_front_rear_sub_camera_check_title">Front rear sub camera</string>
+     <string name="cit_front_rear_dual_camera_check_title">Camera posteriore doppia anteriore</string>
+     <string name="cit_front_rear_sub_camera_check_title">Subcamera posteriore doppia anteriore</string>
      <string name="cit_get_signature_failed">ottenimento firma FALLITO</string>
      <string name="cit_goodix_sensor_check_summary">Test sensore Goodix. Premi il pulsante e attendi che le informazioni di completamento con successo evidenziate in verde siano corrette.</string>
      <string name="cit_goodix_sensor_check_title">Sensore impronte Goodix</string>
@@ -298,14 +298,14 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_gyroscope_sensor_check_title">Test Giroscopio</string>
      <string name="cit_hall_down_arrow">↓</string>
      <string name="cit_hall_far">lontano</string>
-     <string name="cit_hall_miui_test_summary">When a magnet is close to the green area, the black screen, otherwise the screen is bright screen.</string>
+     <string name="cit_hall_miui_test_summary">Quando un magnete si troverà vicino alla zona verde, lo schermo si spegnerà. In alternativa se il test dovesse fallire, lo schermo continuerà a funzionare normalmente.</string>
      <string name="cit_hall_near">vicino</string>
-     <string name="cit_hall_phone_slider_status_down">Phone sliding status: slide down</string>
-     <string name="cit_hall_phone_slider_status_up">Phone sliding status: slide up</string>
+     <string name="cit_hall_phone_slider_status_down">Stato di scorrimento del telefono: scorrere verso il basso</string>
+     <string name="cit_hall_phone_slider_status_up">"Stato di scorrimento del telefono: fai scorrere verso l'alto"</string>
      <string name="cit_hall_test_summary">"Quando un magnete si troverà nell'area verde, il testo dovrebbe avvicinarsi, in alternativa dovrebbe apparire lontano."</string>
      <string name="cit_hall_test_title">Magnetico</string>
-     <string name="cit_hd_full">Cit Full Test</string>
-     <string name="cit_hd_partial">Cit Partial Test</string>
+     <string name="cit_hd_full">Test Completo Cit</string>
+     <string name="cit_hd_partial">Test Parziale Cit</string>
      <string name="cit_headset_button_check_summary">Quando le cuffie sono collegate, premi i pulsanti sulle cuffie (posizionati solitamente sul cavo). Sullo schermo il testo corrispondente dovrebbe diventare verde.</string>
      <string name="cit_headset_button_check_title">Test Cuffie</string>
      <string name="cit_headset_button_click">Premi i pulsanti sulle cuffie</string>
@@ -331,15 +331,15 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_headset_pull_finish_test">Disconnected headphones,finished test</string>
      <string name="cit_headset_pull_hint">Scollega le cuffie ora</string>
      <string name="cit_hide_menu">Chiudi menu</string>
-     <string name="cit_hvdcp_charger_in">Charging via (USB_HVDCP)</string>
-     <string name="cit_kayboard_home_down">Button: HOME</string>
-     <string name="cit_kayboard_power_down">Button: POWER</string>
+     <string name="cit_hvdcp_charger_in">Ricarica via (USB_HVDCP)</string>
+     <string name="cit_kayboard_home_down">Pulsante: HOME</string>
+     <string name="cit_kayboard_power_down">Pulsante: POWER</string>
      <string name="cit_kayboard_volume_down">Pulsante: VOLUME SU</string>
      <string name="cit_kayboard_volume_up">Pulsante: VOLUME GIÙ</string>
-     <string name="cit_keyboard_ai_key">Button: AI_KEY</string>
+     <string name="cit_keyboard_ai_key">Pulsante: AI</string>
      <string name="cit_keyboard_back">Pulsante: INDIETRO</string>
      <string name="cit_keyboard_current">Tasto attuale: %s</string>
-     <string name="cit_keyboard_current_def">Current keyboard:</string>
+     <string name="cit_keyboard_current_def">Tastiera attuale:</string>
      <string name="cit_keyboard_menu">Pulsante: MENU</string>
      <string name="cit_keyboard_test_summary">Quando premi i pulsanti, il corrispondente testo sullo schermo dovrebbe diventare verde (nota: i pulsanti Home e Accensione non sono inclusi nel test).</string>
      <string name="cit_keyboard_test_title">Test Tastiera</string>
@@ -347,10 +347,10 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_lcdlight_brightness">Retroilluminazione</string>
      <string name="cit_lcdlight_brightness_max">MAX</string>
      <string name="cit_lcdlight_brightness_min">MIN</string>
-     <string name="cit_led_check_backlight">back light</string>
-     <string name="cit_led_check_charge_light">charge led</string>
-     <string name="cit_led_check_first_flash_light">first flash led</string>
-     <string name="cit_led_check_second_flash_light">second flash led</string>
+     <string name="cit_led_check_backlight">Luce posteriore</string>
+     <string name="cit_led_check_charge_light">LED di ricarica</string>
+     <string name="cit_led_check_first_flash_light">Primo LED flash</string>
+     <string name="cit_led_check_second_flash_light">Secondo LED flash</string>
      <string name="cit_leds_check_summary">La retroilluminazione, il LED di notifica e il Flash dovrebbero illuminarsi quando attivati.</string>
      <string name="cit_leds_check_title">Test LED</string>
      <string name="cit_light_sensor_check_summary">Il valore DAC dovrebbe comparire di seguito</string>
@@ -387,8 +387,7 @@ Tocca lo schermo per attivare il GPS"</string>
      <string name="cit_power_check_title">Test Accensione</string>
      <string name="cit_pressure_sensor_check_summary">Il valore della pressione dovrebbe comparire di seguito</string>
      <string name="cit_pressure_sensor_check_title">Test Barometro</string>
-     <string name="cit_proximity_data_check_summary">"Cover the proximity sensor (located at the top of the phone near the receiver) with your hand, then move your hand away. The value should increase from 0.0 when you move your hand further away from the device. 
-If it is an ultrasonic proximity sensor, please simulate the action of picking up the phone during the test."</string>
+     <string name="cit_proximity_data_check_summary">Copri il sensore di prossimità (situato nella parte superiore del telefono vicino al ricevitore) con la tua mano, dopodiché smetti di coprirlo. Il valore dovrebbe aumentare da 0.0, quando allontanerai la mano dal dispositivo.</string>
      <string name="cit_proximity_sensor_check_summary">"Copri il sensore di prossimità (posizionato in cima al dispositivo, vicino al ricevitore) con una mano, quindi sposta la mano. A questo punto, il valore dovrebbe aumentare.
 Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua mano (es. pellicole protettive o guanti)."</string>
      <string name="cit_proximity_sensor_check_title">Test Sensore di prossimità</string>
@@ -396,25 +395,25 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
      <string name="cit_proximity_us_summary">Calibrazione Sensore di Prossimità ad Ultrasuoni</string>
      <string name="cit_rear_dual_camera_check_title">Doppia fotocamera posteriore</string>
      <string name="cit_rear_dual_second_camera_check_title">dual second camera</string>
-     <string name="cit_rear_sub_camera_check_summary">"Test instructions:
+     <string name="cit_rear_sub_camera_check_summary">"Istruzioni test:
 
-1.Tap the Camera button below to enter rear sub Camera interface
-2.Tap the shutter button
-3.System will save the photo automatically after capture
-4.The photo you took must be displayed on the screen, Tap Pass to complete the test."</string>
+1. Tocca il pulsante Camera in basso per accedere all'interfaccia della camera secondaria posteriore
+2. Tocca il pulsante dell'otturatore
+3. Il sistema salverà automaticamente la foto dopo l'acquisizione
+4. La foto scattata dovrà essere mostrata a schermo, dopodiché tocca elimina per completare il test"</string>
      <string name="cit_rear_sub_camera_check_title">Sub fotocamera posteriore</string>
      <string name="cit_rear_sub_second_camera_check_title">rear sub second camera</string>
      <string name="cit_recovery_signature_failed">firma di recupero FALLITO</string>
      <string name="cit_recovery_signature_passed">firma di recupero PASSATO</string>
      <string name="cit_reset_check_summary">Questo test riavvierà il dispositivo. Tutti i dati dei precedenti test andranno persi.</string>
      <string name="cit_reset_check_title">Reimposta test</string>
-     <string name="cit_reset_ese_summary">Reset eSE ,all your NFC bankcards and transcards will be deleted.</string>
-     <string name="cit_reset_ese_title">Reset eSE</string>
-     <string name="cit_reset_se">Reset eSE</string>
-     <string name="cit_reset_se_nfc_closed">Fail:NFC should be enabled.</string>
-     <string name="cit_reset_se_start">Resetting your eSE...</string>
+     <string name="cit_reset_ese_summary">Reimposta eSE, tutte le tue carte di credito NFC e le trascrizioni verranno cancellate.</string>
+     <string name="cit_reset_ese_title">Reimposta eSE</string>
+     <string name="cit_reset_se">Reimposta eSE</string>
+     <string name="cit_reset_se_nfc_closed">Errore: Il modulo NFC deve essere attivato.</string>
+     <string name="cit_reset_se_start">Reimpostazione eSE...</string>
      <string name="cit_reset_test">Test</string>
-     <string name="cit_reverse_charge_check_summary">Insert OTG phone to charge</string>
+     <string name="cit_reverse_charge_check_summary">Collega telefono ad OTG per ricarica</string>
      <string name="cit_rgb_check_blue_light">RGB blue</string>
      <string name="cit_rgb_check_green_light">RGB green</string>
      <string name="cit_rgb_check_red_light">RGB red</string>
@@ -457,11 +456,11 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_sim_state_puk_required">PUK richiesto</string>
      <string name="cit_sim_state_ready">Scheda SIM pronta</string>
      <string name="cit_sim_state_unkown">Sconosciuto</string>
-     <string name="cit_slider_hall_miui_test_summary">Execute a complete phone slide up and slide down operate.</string>
-     <string name="cit_slider_hall_test_summary">Execute a complete phone slide up and slide down operate.</string>
-     <string name="cit_slider_hall_test_title">Slider Hall</string>
-     <string name="cit_soft_torch">front soft flash led</string>
-     <string name="cit_soft_torch_on">Turn on soft flash light</string>
+     <string name="cit_slider_hall_miui_test_summary">"Esegui uno scorrimento completo del telefono verso l'alto e verso il basso."</string>
+     <string name="cit_slider_hall_test_summary">"Esegui uno scorrimento completo del telefono verso l'alto e verso il basso."</string>
+     <string name="cit_slider_hall_test_title">Scorrimento Magnetico</string>
+     <string name="cit_soft_torch">LED flash soft frontale</string>
+     <string name="cit_soft_torch_on">Attiva flash LED soft frontale</string>
      <string name="cit_splash_check_summary">Make sure there is black screen phenomenon more 5s.</string>
      <string name="cit_start_calibration">Calibra</string>
      <string name="cit_stop_calibration">Ferma calibrazione</string>
@@ -471,15 +470,15 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tof_sensor_check_title">TofSensor</string>
      <string name="cit_tool">Strumenti</string>
      <string name="cit_tool_active_mbn">active</string>
-     <string name="cit_tool_asdiv_ant_pos_setting">set ant position</string>
-     <string name="cit_tool_asdiv_get_result_band_title">Current ant band</string>
-     <string name="cit_tool_asdiv_get_result_carrier_title">Current ant carrier cell</string>
-     <string name="cit_tool_asdiv_get_result_sub_title">Current sub</string>
-     <string name="cit_tool_asdiv_get_result_tech_title">Current ant tech</string>
-     <string name="cit_tool_asdiv_get_result_title">Current ant pos</string>
-     <string name="cit_tool_asdiv_get_status">Get Status</string>
-     <string name="cit_tool_asdiv_set_status">Set Status</string>
-     <string name="cit_tool_asdiv_title">ASDIV SETTING</string>
+     <string name="cit_tool_asdiv_ant_pos_setting">Imposta posizione ant</string>
+     <string name="cit_tool_asdiv_get_result_band_title">Bande antenna attuali</string>
+     <string name="cit_tool_asdiv_get_result_carrier_title">Operatore cellulare ant attuale</string>
+     <string name="cit_tool_asdiv_get_result_sub_title">Sub attuale</string>
+     <string name="cit_tool_asdiv_get_result_tech_title">Tecnologia ant attuale</string>
+     <string name="cit_tool_asdiv_get_result_title">Posizione attuale ant</string>
+     <string name="cit_tool_asdiv_get_status">Ottieni Stato</string>
+     <string name="cit_tool_asdiv_set_status">Imposta Stato</string>
+     <string name="cit_tool_asdiv_title">IMPOSTAZIONE ASDIV</string>
      <string name="cit_tool_bluetooth">Diagnostica Bluetooth</string>
      <string name="cit_tool_bluetooth_dut">Avvia la modalità di test Bluetooth</string>
      <string name="cit_tool_bluetooth_enhanced">Entra nella modalità di test Bluetooth migliorata</string>
@@ -709,21 +708,21 @@ The second line shows the name and version number of Default MBN and Carrier MBN
      <string name="cit_touch_calib_summary">"Il prossimo passo calibrerà il touchscreen, premi il pulsante di conferma e non toccare più lo schermo. Attendi l\'avviso di calibrazione eseguita."</string>
      <string name="cit_touch_calib_title">Calibrazione Touchscreen</string>
      <string name="cit_touch_panel_test_title">Sensore touch</string>
-     <string name="cit_usb_OTG_error_condition">"USB device has plugged in, but can not get the device info
-test fail!"</string>
+     <string name="cit_usb_OTG_error_condition">"Il dispositivo USB è collegato, ma non è possibile ottenere le informazioni
+test fallito!"</string>
      <string name="cit_usb_OTG_in">Rilevato dispositivo USB OTG</string>
-     <string name="cit_usb_OTG_in_charge">USB OTG device detected</string>
-     <string name="cit_usb_OTG_in_need_plugout">USB_OTG has plugged in, please plug out first</string>
+     <string name="cit_usb_OTG_in_charge">Dispositivo OTG USB rilevato</string>
+     <string name="cit_usb_OTG_in_need_plugout">OTG USB connesso, prego esegui prima una disconnessione</string>
      <string name="cit_usb_OTG_out">Dispositivo USB OTG scollegato</string>
-     <string name="cit_usb_OTG_plug_in_start_test">Please plugin USB_OTG device, and begin test</string>
-     <string name="cit_usb_OTG_plug_out_test_complete">USB_OTG has plugged out，test complete</string>
-     <string name="cit_usb_OTG_plug_re_plugin">USB_OTG test has complete, no need retest</string>
+     <string name="cit_usb_OTG_plug_in_start_test">Prego collega il dispositivo OTG USB, ed inizia il test</string>
+     <string name="cit_usb_OTG_plug_out_test_complete">Il dispositivo OTG USB é stato disconnesso，test completato</string>
+     <string name="cit_usb_OTG_plug_re_plugin">Test OTG USB completato, nessun ulteriore test necessario</string>
      <string name="cit_usb_charger_in">Ricarica via USB</string>
      <string name="cit_usb_charger_out">Alimentazione USB scollegata</string>
      <string name="cit_version_check_summary">Di seguito troverai la versione del SO. Verifica che le informazioni evidenziate in verde siano corrette.</string>
      <string name="cit_version_check_title">Test versione</string>
-     <string name="cit_vga_camera_cameraid_fail">Error: cameraid not config</string>
-     <string name="cit_vga_camera_cameralist_fail">Error: cameralist not match</string>
+     <string name="cit_vga_camera_cameraid_fail">Errore: ID camera non configurato</string>
+     <string name="cit_vga_camera_cameralist_fail">Errore: Lista camera non corrispondente</string>
      <string name="cit_vga_camera_capture">Avvia</string>
      <string name="cit_vga_camera_capture_fail">Impossibile scattare una foto</string>
      <string name="cit_vga_camera_delete">Elimina</string>
@@ -748,17 +747,17 @@ test fail!"</string>
      <string name="cit_wifi_fail_to_scan">Impossibile eseguire la scansione</string>
      <string name="cit_wifi_state_refresh">Aggiorna</string>
      <string name="cit_yellow_torch_on">LED giallo del flash</string>
-     <string name="continue_vibrator">Continue vibrator</string>
+     <string name="continue_vibrator">Vibrazione continua</string>
      <string name="copyright">Copyright © 2015 Goodix All Rights Reserved.</string>
-     <string name="current_angle">Current Angle:</string>
+     <string name="current_angle">Angolo Attuale:</string>
      <string name="dc_backlight_title">DC Backlight Mode for Low Light</string>
-     <string name="delete">Delete</string>
+     <string name="delete">Elimina</string>
      <string name="description_info">Info</string>
-     <string name="display_test_finish">Screen test completed</string>
+     <string name="display_test_finish">Test schermo completato</string>
      <string name="dsi_sar_on_off_tips">Dsi Sar On/Off Switch</string>
-     <string name="enrol">Enrol</string>
-     <string name="enrolCount">EnrolCount</string>
-     <string name="enrolQuality">EnrolQuality</string>
+     <string name="enrol">Registra</string>
+     <string name="enrolCount">Numero di registrazioni</string>
+     <string name="enrolQuality">Qualità registrazioni</string>
      <string name="error">Errore</string>
      <string name="error_app_internal">Errore interno applicazione</string>
      <string name="error_app_unsupported">Formato non supportato</string>
@@ -768,40 +767,40 @@ test fail!"</string>
      <string name="error_initializing_sensor">Impossibile inizializzare sensore: %1$s</string>
      <string name="error_sdcard_access">Impossibile accedere allo spazio di sistema!</string>
      <string name="error_unknown_error">Errore Sconosciuto</string>
-     <string name="fail">Fail</string>
+     <string name="fail">Non riuscito</string>
      <string name="failed_to_test">TEST NON RIUSCITO</string>
      <string name="far">FAR (Tasso di Accettazione Errato):</string>
      <string name="far_count">FAC (Conteggio Tasso Accettazione Errato):</string>
      <string name="far_total_count">FATC (Conteggio Totale Tasso Accettazione Errato):</string>
-     <string name="fingerprint">Fingerprint:</string>
-     <string name="fingerprint_input_title">fingerprint input test</string>
-     <string name="firstplug_mic_check_record_tip">Stop Record, After you plug in the headset confirm the result</string>
-     <string name="fod_check_start_error">"Can not start the sensor check program
-Test fialed!"</string>
-     <string name="fod_check_summary">"Test instructions:
-Automatic test based on the sensor type
-Base the test result click pass or fial button"</string>
-     <string name="fod_check_title">Fingerprint sensor check</string>
-     <string name="fod_check_unknown_sensor_type">"Unknown Fod sensor type
-Test failed!"</string>
-     <string name="fod_fingerprint_input_description">Fod fingerprint input test</string>
-     <string name="fod_fingerprint_input_title">Fod fingerprint input test</string>
-     <string name="fod_pressure_sensor_pressure_data_collection">Pressure data collecting....</string>
-     <string name="fod_pressure_sensor_test_exception">Read node file exception</string>
+     <string name="fingerprint">Lettore di impronte:</string>
+     <string name="fingerprint_input_title">Test input lettore di impronte</string>
+     <string name="firstplug_mic_check_record_tip">"Interrompi registrazione. Dopo aver collegato l'auricolare, conferma il risultato"</string>
+     <string name="fod_check_start_error">"Impossibile avviare il programma di controllo del sensore
+Test fallito!"</string>
+     <string name="fod_check_summary">"Istruzioni test:
+Test automatico basato sul tipo di sensore
+Basare il risultato del test sui pulsanti Riuscito o Fallito"</string>
+     <string name="fod_check_title">Test sensore impronte digitali</string>
+     <string name="fod_check_unknown_sensor_type">"Tipologia di sensore Fod sconosciuta
+Test fallito!"</string>
+     <string name="fod_fingerprint_input_description">Test input Fod per impronte digitali</string>
+     <string name="fod_fingerprint_input_title">Test input Fod per impronte digitali</string>
+     <string name="fod_pressure_sensor_pressure_data_collection">Raccolta dei dati di pressione....</string>
+     <string name="fod_pressure_sensor_test_exception">Eccezione nella lettura del file nodo</string>
      <string name="fod_pressure_sensor_test_fail">Test failed, please click the Failure button</string>
-     <string name="fod_pressure_sensor_test_pressure_too_big">"Sensor average pressure too big: %1$d 
-test failed,please click the Fail button"</string>
-     <string name="fod_pressure_sensor_test_pressure_too_small">"Sensor average pressure too small: %1$d 
-test failed,please click the Fail button"</string>
-     <string name="fod_pressure_sensor_test_success">"Sensor average pressure: %1$d 
-test success, please click the Pass button"</string>
-     <string name="fod_pressure_sensor_test_summary">"Put the weight in 
-the specified position"</string>
-     <string name="fod_pressure_sensor_test_title">Fod Pressure Sensor Test</string>
+     <string name="fod_pressure_sensor_test_pressure_too_big">"La pressione media del sensore è troppo grande: %1$d 
+test fallito, fare clic sul pulsante Fallito"</string>
+     <string name="fod_pressure_sensor_test_pressure_too_small">"La pressione media del sensore è troppo piccola: %1$d 
+test fallito, fare clic sul pulsante Fallito"</string>
+     <string name="fod_pressure_sensor_test_success">"Pressione media del sensore : %1$d 
+test riuscito, fare clic sul pulsante Riuscito"</string>
+     <string name="fod_pressure_sensor_test_summary">"Sposta il ​​peso nella 
+posizione specificata"</string>
+     <string name="fod_pressure_sensor_test_title">Test sensore di pressione Fod</string>
      <string name="fp_fod_calibration">fod fingerprint calibration</string>
      <string name="fpc_app_name">Utilità di Test Sensore</string>
      <string name="fpc_pn_calibration">Cattura ed archivia immagine PN</string>
-     <string name="front_mic_check_record_tip">Recording, please say something to MIC at the front of the phone</string>
+     <string name="front_mic_check_record_tip">Registrazione in corso... Per favore parla al mic anteriore del telefono</string>
      <string name="frr">FRR (Tasso Rifiuto Errato):</string>
      <string name="frr_count">FRC (Conteggio Tasso Rifiuto Errato):</string>
      <string name="frr_total_count">FRTC (Conteggio Totale Tasso Rifiuto Errato):</string>
@@ -811,91 +810,91 @@ the specified position"</string>
      <string name="get_sensor_info">OTTIENI INFO SENSORE</string>
      <string name="get_template_finger">Estrazione immagine: Ottenimento modello impronta</string>
      <string name="gpu_maxfreq_title">GPU Overfreq Mode for Experimental</string>
-     <string name="headset_key">Headset button</string>
-     <string name="headset_key_tip">You need to test the headset button before you proceed to the next test</string>
-     <string name="headset_plug_check_tip">Now play the tape, listen to the headset, please pull out the headset when you cloze testing</string>
-     <string name="headset_plug_record_tip">start recording</string>
-     <string name="headset_press">Press</string>
-     <string name="headset_record">Recording, please say something to the headset, and the recording will be stopped within 3 seconds</string>
-     <string name="headset_test">This will test the headset insertion, pull out, headset MIC, and headset button, and all tests will be successful</string>
-     <string name="headset_unplug_check_tip">Please insert the headset</string>
-     <string name="headset_unplug_tip">Please insert the headset</string>
-     <string name="hello_world">Hello world!</string>
+     <string name="headset_key">Pulsante auricolari</string>
+     <string name="headset_key_tip">"È necessario testare il pulsante dell'auricolare prima di procedere al test successivo"</string>
+     <string name="headset_plug_check_tip">Ora riproduci la traccia ed ascolta gli auricolari (per favore scollega gli auricolari al termine del test)</string>
+     <string name="headset_plug_record_tip">Inizia registrazione</string>
+     <string name="headset_press">Pressione</string>
+     <string name="headset_record">"Registrazione in corso... Per favore parla nell'auricolare e la registrazione verrà interrotta entro 3 secondi"</string>
+     <string name="headset_test">Questo testerà il collegamento degli auricolari, la disconnessione, il microfono ed il pulsante. Tutti i test dovranno avere esito positivo"</string>
+     <string name="headset_unplug_check_tip">Prego collega gli auricolari</string>
+     <string name="headset_unplug_tip">Prego collega gli auricolari</string>
+     <string name="hello_world">Ciao mondo!</string>
      <string name="hint">"Potrebbe volerci un pó, attendi con pazienza."</string>
      <string name="image_quality_test">TEST QUALITÀ IMMAGINE</string>
      <string name="info">Info</string>
      <string name="init">Inizializzazione</string>
-     <string name="interphone_oper_result">Results are shown here</string>
-     <string name="interphone_test">Interphone Test</string>
-     <string name="interphone_test_set_409_mhz">Set 409M HZ</string>
-     <string name="interphone_test_set_430_mhz">Set 430M HZ</string>
-     <string name="interphone_test_switch_to_receive_mode">Switch to receive mode</string>
-     <string name="interphone_test_switch_to_transmit_mode">Switch to send mode</string>
-     <string name="interval_vibrator">Interval vibrator</string>
-     <string name="intro_message">This sample demonstrates the basic use of Camera2 API. Check the source code to see how you can display camera preview and take pictures.</string>
-     <string name="ir_camera_led_test_description">Structured Light Led Test</string>
-     <string name="ir_camera_led_test_summary">"Test instructions:
+     <string name="interphone_oper_result">I risultati verranno mostrati qui</string>
+     <string name="interphone_test">Test Interfono</string>
+     <string name="interphone_test_set_409_mhz">Imposta 409Mhz</string>
+     <string name="interphone_test_set_430_mhz">Imposta 430Mhz</string>
+     <string name="interphone_test_switch_to_receive_mode">Passa alla modalità di ricezione</string>
+     <string name="interphone_test_switch_to_transmit_mode">Passa alla modalità di invio</string>
+     <string name="interval_vibrator">Intervallo di vibrazione</string>
+     <string name="intro_message">"Questo esempio mostra l'uso di base delle API Camera2. Dai un'occhiata al codice sorgente per capire come visualizzare l'anteprima della camera e scattare foto."</string>
+     <string name="ir_camera_led_test_description">Test LED a luce strutturata</string>
+     <string name="ir_camera_led_test_summary">"Istruzioni test:
 
-1.Tap the Preview button below to enter Camera interface
-2.The following items will be randomly switched on. Please select the current status of the light."</string>
-     <string name="ir_camera_led_test_title">Structured Light Led Test</string>
-     <string name="ir_camera_test_description">Ir Camera Test</string>
-     <string name="ir_camera_test_summary_capture">"Test instructions:
+1. Tocca il pulsante di Anteprima in basso per accedere all'interfaccia della fotocamera
+2. I seguenti elementi verranno attivati casualmente. Si prega di selezionare lo stato attuale della luce."</string>
+     <string name="ir_camera_led_test_title">Test LED a luce strutturata</string>
+     <string name="ir_camera_test_description">Test Camera Ir</string>
+     <string name="ir_camera_test_summary_capture">"Istruzioni test:
 
-1.Tap the Camera button below to enter Ir Camera interface
-2.Tap the shutter button
-3.System will save the photo automatically after capture.
-4.The photo you took must be displayed on the screen. Tap Pass to complete the test."</string>
-     <string name="ir_camera_test_summary_preview">"Test instructions:
+1. Tocca il pulsante camera in basso per accedere all'interfaccia Camera Ir
+2. Tocca il pulsante dell'otturatore
+3. Il sistema salverà automaticamente la foto dopo l'acquisizione.
+4. La foto scattata dovra essere visualizzata a schermo. Tocca Elimina per completare il test."</string>
+     <string name="ir_camera_test_summary_preview">"Istruzioni test:
 
-1.Tap the Preview button below to enter Camera interface
-2.Wait preview end, auto return."</string>
-     <string name="ir_camera_test_title">Ir Camera Test</string>
+1. Tocca il pulsante Anteprima in basso per accedere all'interfaccia della camera
+2. Attendi il termine dell'anteprima e l'uscita automatica."</string>
+     <string name="ir_camera_test_title">Test Camera Ir</string>
      <string name="keyboard">CHIAVE</string>
-     <string name="keyboard_vibrator_test">Keyboard test</string>
-     <string name="keyboard_vibrator_test_old">Keyboard and vibration test</string>
-     <string name="keys_times">Keys Times:</string>
-     <string name="lastTestResult">Last Test Result:</string>
+     <string name="keyboard_vibrator_test">Test Tastiera</string>
+     <string name="keyboard_vibrator_test_old">Test della tastiera e della vibrazione</string>
+     <string name="keys_times">Pressioni dei pulsanti:</string>
+     <string name="lastTestResult">Ultimo risultato del test:</string>
      <string name="last_time_test_result">RISULTATO PRECEDENTE</string>
-     <string name="launcher_d5x_sar_summary">The output data of each channel of the SAR sensor is displayed below. Please reverse the phone to the Sar calibration fixture, click Start calibration, display the calibration PASS, then indicate normal. Please note that the school is on time, and hands are not near the cell phone.</string>
+     <string name="launcher_d5x_sar_summary">I dati di uscita di ciascun canale del sensore SAR sono visualizzati di seguito. Prego gira il telefono sul dispositivo di calibrazione SAR, clicca su Avvia calibrazione ed assicurati di visualizzare Riuscito come risultato del test, quindi indica normale come stato di funzionamento.</string>
      <string name="lcminfo">Informazioni LCM</string>
-     <string name="led_tip_txt">The following items will be randomly switched on. Please select the current status of the light</string>
+     <string name="led_tip_txt">I seguenti elementi verranno attivati ​​casualmente. Si prega di selezionare lo stato attuale della luce</string>
      <string name="magnetic_info_hint">Prego ruotare il dispositivo come nella figura 8</string>
-     <string name="main_mic_check_record_tip">Recording, please say something to MIC at the main of the phone</string>
+     <string name="main_mic_check_record_tip">Registrazione in corso... Prego parla nel mic principale del telefono</string>
      <string name="mic1_spk_loop">Loop parlato microfono</string>
      <string name="mic1test">MIC1</string>
-     <string name="mic_check_rm_headset_tip">First remove the headset and record the sound.</string>
-     <string name="mic_tip">Please make a noise on the MIC. After you plug in the headset, listen to the headset for a sound</string>
-     <string name="mic_volume_height_tip">MIC volume test PASS</string>
-     <string name="mic_volume_low_tip">MIC the volume test did not pass. Please make a larger sound when recording</string>
+     <string name="mic_check_rm_headset_tip">"Prima rimuovi l'auricolare e registra l'audio."</string>
+     <string name="mic_tip">"Prego parla nel mic. Dopo aver collegato l'auricolare, ascoltane il suono"</string>
+     <string name="mic_volume_height_tip">Test volume mic. Riuscito</string>
+     <string name="mic_volume_low_tip">Test volume mic. non superato. Prego aumenta il tono della voce durante la registrazione</string>
      <string name="micphone_test">MIC e SPK</string>
      <string name="motor_calibration">Motor Calibration</string>
      <string name="navigation_drawer_close">Chiudi menù di navigazione</string>
      <string name="navigation_drawer_open">Apri menù di navigazione</string>
      <string name="next">Avanti</string>
-     <string name="next_step">Next step</string>
+     <string name="next_step">Successivo</string>
      <string name="nfc_disable_tip">Prego abilita la funzionalità NFC</string>
      <string name="no">No</string>
      <string name="no_data">--</string>
-     <string name="no_vibrator">No vibrator</string>
+     <string name="no_vibrator">Nessun motore di vibrazione</string>
      <string name="noise">Rumore:</string>
      <string name="none">N/A</string>
      <string name="open_dc_backlight_summary">"Certain display settings aren't compatible with DC backlight mode. However, they will be restored once you turn this mode off. Turn on DC backlight mode?"</string>
-     <string name="pass">Pass</string>
-     <string name="phone_not_been_restarted">Phone not been restarted</string>
-     <string name="picture">Picture</string>
+     <string name="pass">Riuscito</string>
+     <string name="phone_not_been_restarted">Il telefono non è stato riavviato</string>
+     <string name="picture">Immagine</string>
      <string name="plugout_and_reverse_plugin">"
-Please plug out the charger and reverse plug in."</string>
+Prego scollega il caricabatterie dal dispositivo e inseriscilo nella presa a muro."</string>
      <string name="pop_camera">Pop Camera</string>
      <string name="pop_push_camera_test_summary">"Click the Pop Camera Button to see if the camera comes out
 Click the Push Camera Button to see if the camera comes in"</string>
      <string name="pop_push_camera_test_title">Pop and Push Camera Test</string>
-     <string name="product_list">ProductList</string>
+     <string name="product_list">Lista prodotti</string>
      <string name="push_camera">Push Camera</string>
-     <string name="radio_boy">Man voice</string>
-     <string name="radio_chinese">Chinese</string>
-     <string name="radio_english">English</string>
-     <string name="radio_gril">Woman voice</string>
+     <string name="radio_boy">Voce maschile</string>
+     <string name="radio_chinese">Cinese</string>
+     <string name="radio_english">Inglesr</string>
+     <string name="radio_gril">Voce femminile</string>
      <string name="radio_info_asdiv_switch_label">Stato ASDiv:</string>
      <string name="radio_info_call_status_label">Stato chiamata vocale:</string>
      <string name="radio_info_cellinfo_label">Tutte le informazioni sulla cella:</string>
@@ -932,15 +931,15 @@ Click the Push Camera Button to see if the camera comes in"</string>
      <string name="radio_info_sim_status">Stato SIM:</string>
      <string name="radio_info_unknown">Sconosciuto</string>
      <string name="radio_info_voice_network_type_label">Tipologia servizio rete:</string>
-     <string name="radio_no">Can not hear</string>
-     <string name="reboot_times">Reboot Times:</string>
+     <string name="radio_no">Non sento nulla</string>
+     <string name="reboot_times">Numero di riavvii:</string>
      <string name="receiver_off">Receiver Off</string>
      <string name="receiver_on">Receiver On</string>
      <string name="receiver_on_off_tips">Receiver On/Off Switch</string>
-     <string name="refresh_number_of_keys">refresh number of keys</string>
-     <string name="removeFingerprint">Remove Fingerprint</string>
+     <string name="refresh_number_of_keys">Aggiorna numero di pulsanti</string>
+     <string name="removeFingerprint">Rimuovi Impronta digitale</string>
      <string name="remove_headset_and_starttest">Prego rimuovi gli auricolari e premere start oer eseguire il test</string>
-     <string name="request_permission">This sample needs camera permission.</string>
+     <string name="request_permission">"Questo campione necessita dell'autorizzazione della camera."</string>
      <string name="resetpixel_test">REIMPOSTA TEST PIXEL</string>
      <string name="run">Esegui</string>
      <string name="sample_data">Campione dati</string>
@@ -949,9 +948,9 @@ Click the Push Camera Button to see if the camera comes in"</string>
      <string name="sar_authentation_test_title">Sar authentation test</string>
      <string name="sar_off">Sar Off</string>
      <string name="sar_on">Sar On</string>
-     <string name="sar_sensor_calibrate">Start Calibrate</string>
-     <string name="sar_sensor_calibrate_fail">Sar Sensor calibrate fail</string>
-     <string name="sar_sensor_calibrate_success">Sar Sensor calibrate success</string>
+     <string name="sar_sensor_calibrate">Inizia Calibrazione</string>
+     <string name="sar_sensor_calibrate_fail">Calibrazione sensore SAR non riuscita</string>
+     <string name="sar_sensor_calibrate_success">Calibrazione sensore SAR riuscita</string>
      <string name="sar_sensor_collect_data">Start Collect Data</string>
      <string name="sar_sensor_collect_data_test_summary">"Rotate the phone to ensure that the real-time angle is between 130 and 140 degrees
 Keep the other hand away from the cell phone. Click on the start data acquisition button
@@ -976,13 +975,13 @@ After the value of CS0 is less than 500 and the value of CS2 greater than 5000
 Hold the other hand close to the bottom of the phone
 Look at the value of CS0
 The value of CS0 ranges from 3000 to 30000 , the pass button is highlight"</string>
-     <string name="sar_sensor_test_description">Sar Sensor Calibrate and Data Collect</string>
+     <string name="sar_sensor_test_description">Calibrazione sensore SAR e Acquisizione dati</string>
      <string name="sar_sensor_test_err_angle">The phone is not placed at the right angle</string>
      <string name="sar_sensor_test_next_step">Control baffle close to mobile phone</string>
      <string name="sar_sensor_test_success">Sar Sensor test success</string>
-     <string name="sar_sensor_test_summary">"Rotate the phone, put it to the fixture
-Click the Start Calibrate button
-After calibrate success, control the fixture close and away from the phone"</string>
+     <string name="sar_sensor_test_summary">"Ruota il telefono, posizionalo sull'apparecchio
+Clicca sul pulsante Avvia calibrazione
+Dopo aver terminato con successo la calibrazione, verifica le emissioni del telefono vicino e lontano dall'apparecchio"</string>
      <string name="sar_sensor_test_timeout">Sar Sensor test timeout</string>
      <string name="screen_cancel">Turn off</string>
      <string name="screen_confirm">Turn on</string>
@@ -1011,35 +1010,35 @@ After calibrate success, control the fixture close and away from the phone"</str
      <string name="success_extract_template">Fine estrazione modello dati</string>
      <string name="success_get_finger_data">Estrazione immagine: Ottenimento dati impronta riuscito</string>
      <string name="success_to_test">TEST RIUSCITO</string>
-     <string name="temperature">temperature</string>
+     <string name="temperature">Temperatura</string>
      <string name="template_data">Modello dati</string>
      <string name="template_hint">"Estrazione %1$s modelli per un'impronta"</string>
      <string name="template_progress_hint">"Attendi estrazione modello dell'impronta"</string>
      <string name="test_auto">Auto-Test</string>
-     <string name="test_back_mic">Back MIC</string>
+     <string name="test_back_mic">Mic. posteriore</string>
      <string name="test_case_status" />
      <string name="test_cases">Casistica Test</string>
      <string name="test_failed">Fallito</string>
-     <string name="test_front_mic">Front MIC</string>
-     <string name="test_headset">Headset test</string>
-     <string name="test_main_mic">Main MIC</string>
+     <string name="test_front_mic">Mic. frontale</string>
+     <string name="test_headset">Test auricolari</string>
+     <string name="test_main_mic">Mic. principale</string>
      <string name="test_pixel_open">Test apertura Pixel</string>
-     <string name="test_receiver">Receiver</string>
-     <string name="test_receiver_summary">"You will hear two random numbers
-Please click the appropriate button according to the number you hear"</string>
+     <string name="test_receiver">Ricevitore</string>
+     <string name="test_receiver_summary">"Sentirai due numeri casuali
+Clicca sul pulsante appropriato in base al numero che ascolterai"</string>
      <string name="test_reset_pin">Test Reimpostazione pin</string>
-     <string name="test_speaker">speaker</string>
-     <string name="test_speaker_summary">"You will hear two random numbers
-Please click the appropriate button according to the number you hear"</string>
+     <string name="test_speaker">Altoparlante</string>
+     <string name="test_speaker_summary">"Sentirai due numeri casuali
+Clicca sul pulsante appropriato in base al numero che ascolterai"</string>
      <string name="test_spi">Test SPI</string>
      <string name="test_succeed">Successo</string>
-     <string name="test_top_mic">Top MIC</string>
+     <string name="test_top_mic">Mic. superiore</string>
      <string name="testagain">Puoi premere il pulsante Home per testare nuovamente</string>
      <string name="testing">Test in corso...</string>
-     <string name="tips_not_placed_right_angle">Phone not placed right angle</string>
-     <string name="tips_show_calibrate_result">Show calibrate resutl</string>
-     <string name="tips_show_current_angle">Show current angle</string>
-     <string name="tips_show_current_sar_sensor_data">Show current sensor data</string>
+     <string name="tips_not_placed_right_angle">Il telefono non è correttamente angolato</string>
+     <string name="tips_show_calibrate_result">Mostra risultato di calibrazione</string>
+     <string name="tips_show_current_angle">Mostra angolo corrente</string>
+     <string name="tips_show_current_sar_sensor_data">Mostra dati sensore attuali</string>
      <string name="title_about">A proposito di</string>
      <string name="title_algo_performance">Algor. prestazioni</string>
      <string name="title_bad_point">Punto difettoso</string>
@@ -1049,27 +1048,27 @@ Please click the appropriate button according to the number you hear"</string>
      <string name="title_frr">FRR:</string>
      <string name="title_open_short_pixel">Apri pixel breve</string>
      <string name="title_spi">spi</string>
-     <string name="top_mic_check_record_tip">Recording, please say something to MIC at the top of the phone</string>
+     <string name="top_mic_check_record_tip">Registrazione in corso.... Per favore parla al mic. situato nella parte superiore del telefono</string>
      <string name="touch_auto">Self test pannello tocchi in corso, prego attendere....</string>
-     <string name="touch_sefl_fail">Test fail</string>
-     <string name="touch_self">Please do not touch the screen during the test…</string>
-     <string name="touch_self_suc">Test success</string>
+     <string name="touch_sefl_fail">Test non riuscito</string>
+     <string name="touch_self">Prego non toccare lo schermo durante il test…</string>
+     <string name="touch_self_suc">Test riuscito</string>
      <string name="tp_color">Colore TP:</string>
-     <string name="tp_rawdate">TP Rawdata(ITO)</string>
-     <string name="tp_rawdate_summery">TP Rawdata(ITO) test,Do not touch the screen during the test</string>
+     <string name="tp_rawdate">TP Rawdata (ITO)</string>
+     <string name="tp_rawdate_summery">Test TP Rawdata(ITO). Non toccare lo schermo durante il test</string>
      <string name="tp_version">Versione TP:</string>
-     <string name="transmitter_receiver_confirm">Did you hear the sound?</string>
-     <string name="unlock">Unlock</string>
-     <string name="unplug_headset">Please pull out the headset</string>
+     <string name="transmitter_receiver_confirm">Hai sentito qualche suono?</string>
+     <string name="unlock">Sblocca</string>
+     <string name="unplug_headset">Prego scollega gli auricolari</string>
      <string name="vendor_ct">CT</string>
-     <string name="verified_boot_lock">Lock</string>
-     <string name="verified_boot_state">VerifiedBootState</string>
-     <string name="verified_boot_unlock">Unlock</string>
-     <string name="verify">Verify</string>
-     <string name="vibrator_change">Select vibrator mode</string>
-     <string name="vibrator_test">Vibrator Test</string>
-     <string name="vibrator_test_summary">"Long or short vibrator occur randomly in the test
-Please select the correct button according to different vibration conditions"</string>
+     <string name="verified_boot_lock">Blocca</string>
+     <string name="verified_boot_state">Stato di Verifica Boot</string>
+     <string name="verified_boot_unlock">Sblocca</string>
+     <string name="verify">Verifica</string>
+     <string name="vibrator_change">Seleziona modalità di vibrazione</string>
+     <string name="vibrator_test">Test Vibrazione</string>
+     <string name="vibrator_test_summary">"La vibrazione lunga o corta si verificherà casualmente durante il test
+Prego clicca il pulsante corretto in base alle diverse tipologie di vibrazione"</string>
      <string name="wait_test">In attesa di test</string>
-     <string name="yes">Yes</string>
+     <string name="yes">Si</string>
 </resources>
