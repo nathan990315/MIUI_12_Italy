@@ -9,8 +9,8 @@
         <item quantity="one">Recenti aperti, app disponibili: %d. Scorri in alto per chiudere, scorri in basso per bloccare.</item>
      </plurals>
      <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$shours %2$s"</item>
-        <item quantity="one">" %1$shour %2$s"</item>
+        <item quantity="other">" %1$s ore %2$s"</item>
+        <item quantity="one">" %1$s ora %2$s"</item>
      </plurals>
      <plurals name="block_record_notification_more_text">
         <item quantity="other">Nascondi notifiche da %1$s e %2$d app.</item>
@@ -145,7 +145,7 @@
         <item quantity="one">Sereno</item>
      </plurals>
      <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d devices connected</item>
-        <item quantity="one">%1$d device connected</item>
+        <item quantity="other">%1$d dispositivi connessi</item>
+        <item quantity="one">%1$d dispositivo connesso</item>
      </plurals>
 </resources>

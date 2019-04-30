@@ -36,14 +36,14 @@
      <string name="empty_title_apps_container_list">Nessuna app</string>
      <string name="enable_sleep_mode">Abilita la modalità riposo per ottimizzare i consumi notturni</string>
      <string name="error_filename_too_long">Il nome del file è troppo lungo.</string>
-     <string name="extreme_add_white_list_summary">Add up to 4 apps</string>
-     <string name="extreme_add_white_list_title">Background exceptions</string>
+     <string name="extreme_add_white_list_summary">Aggiungi fino a 4 app</string>
+     <string name="extreme_add_white_list_title">Eccezioni in background</string>
      <string name="extreme_mode_max_item_alert">Solo 4 app possono essere selezionate per essere eseguite in background durante la modalità di risparmio energetico estremo</string>
      <string name="extreme_power_config_mode_category">Risparmio Batteria Estremo</string>
      <string name="extreme_power_config_mode_desc">"L'attivazione di questa funzionalità disattiverà sincronizzazione, bluetooth, GPS, NFC, doppio tocco, tasti luminosi, attivazione schermo su notifica, luce di notifica pulsante etc, ed il risparmio batteria verrà impostato su ultimate"</string>
-     <string name="extreme_power_config_mode_summary">Extreme battery saver restricts background activity, and stops sync.</string>
+     <string name="extreme_power_config_mode_summary">Il risparmio batteria estremo limita le attività in background e interrompe la sincronizzazione.</string>
      <string name="extreme_power_config_mode_title">Modalità Risparmio Batteria Estremo</string>
-     <string name="extreme_power_settings_title">settings</string>
+     <string name="extreme_power_settings_title">impostazioni</string>
      <string name="failure">fallito</string>
      <string name="hide_mode_desc">" <font color="#000000">"Quando un'app viene eseguita in background, le sue attività verranno monitorate per ridurre l'utilizzo della batteria. Questa funzionalità otterrà ed utilizzerà i dati dell'utente in base alla %s"</font>"</string>
      <string name="hide_system_app">Nascondi app di sistema</string>
@@ -56,9 +56,9 @@
      <string name="message_i_know">Ho capito</string>
      <string name="nonui_mode_config_description">"Non attivare lo schermo al ricevimento delle notifiche, disattiva la luce per le notifiche, impronte e tasti touch quando il dispositivo è in tasca."</string>
      <string name="nonui_mode_config_title">Modalità non interattiva</string>
-     <string name="notification_exit_extreme_mode_text">Battery is more than %s charged</string>
-     <string name="notification_exit_extreme_mode_title">Turned off Extreme battery saver</string>
-     <string name="notification_open_extreme_mode_text">Turned on Extreme battery saver</string>
+     <string name="notification_exit_extreme_mode_text">La batteria è ricaricata più del %s</string>
+     <string name="notification_exit_extreme_mode_title">Risparmio batteria estremo disattivato</string>
+     <string name="notification_open_extreme_mode_text">Risparmio batteria estremo attivato</string>
      <string name="performance_category">Prestazioni</string>
      <string name="power_center">Consumo</string>
      <string name="power_checker_background_cpu_multi_apps_title">%1$s esecuzione anormale</string>

@@ -5,14 +5,14 @@
         <item>Tutte le reti</item>
      </string-array>
      <string-array name="ai_key_item_name">
-        <item>Talk to Google Assistant</item>
-        <item>Open Google search</item>
-        <item>Open rear camera</item>
-        <item>Open front camera</item>
-        <item>Open previous app</item>
-        <item>Turn on flashlight</item>
-        <item>Turn on Reading mode</item>
-        <item>None</item>
+        <item>"Parla all'Assistente Google"</item>
+        <item>Apri la ricerca Google</item>
+        <item>Apri la fotocamera posteriore</item>
+        <item>Apri la fotocamera frontale</item>
+        <item>Apri le app precedenti</item>
+        <item>Attiva la torcia</item>
+        <item>Attiva la Modalità Lettura</item>
+        <item>Nessuno</item>
      </string-array>
      <string-array name="alarm_repeat_type">
         <item>Tutti i giorni</item>
@@ -308,9 +308,9 @@
      </string-array>
      <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>" | Active"</item>
-        <item>" | Active (media)"</item>
-        <item>" | Active (phone)"</item>
+        <item>" | Attivo"</item>
+        <item>" | Attivo (media)"</item>
+        <item>" | Activo (telefono)"</item>
      </string-array>
      <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Default)</item>
@@ -319,7 +319,7 @@
         <item>AVRCP 1.6</item>
      </string-array>
      <string-array name="bluetooth_max_connected_audio_devices">
-        <item>Use System Default: %1$d</item>
+        <item>Usa predefinito: %1$d</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -993,9 +993,9 @@
         <item>Alta velocità</item>
      </string-array>
      <string-array name="dark_ui_mode_entries">
-        <item>Automatic (based on time of day)</item>
-        <item>Always on</item>
-        <item>Always off</item>
+        <item>Automatico (basato sul momento della giornata)</item>
+        <item>Sempre attivato</item>
+        <item>sempre disattivato</item>
      </string-array>
      <string-array name="data_usage_data_range">
         <item>Ultimi 30 giorni</item>
@@ -1401,9 +1401,9 @@
         <item>Nega</item>
      </string-array>
      <string-array name="time_format_entries">
-        <item>12-hour 1:00 PM</item>
-        <item>24-hour 13:00</item>
-        <item>Auto (based on system language)</item>
+        <item>12-ore 1:00 PM</item>
+        <item>24-ore 13:00</item>
+        <item>Auto (basato sulla lingua d sistema)</item>
      </string-array>
      <string-array name="timezone_filters">
         <item>America</item>
@@ -1554,16 +1554,16 @@
      </string-array>
      <string-array name="wifi_hidden_entries">
         <item>No</item>
-        <item>Yes</item>
+        <item>Sì</item>
      </string-array>
      <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>Statico</item>
      </string-array>
      <string-array name="wifi_metered_entries">
-        <item>Detect automatically</item>
-        <item>Treat as metered</item>
-        <item>Treat as unmetered</item>
+        <item>Rilevato automaticamente</item>
+        <item>Tratta come misurato</item>
+        <item>Tratta come non misurato</item>
      </string-array>
      <string-array name="wifi_p2p_status">
         <item>Connesso</item>

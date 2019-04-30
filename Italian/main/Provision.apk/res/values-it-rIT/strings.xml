@@ -34,8 +34,8 @@
      <string name="enable_accessibility_dialog_message">Hai attivato TalkBack toccando lo schermo con due dita per più di 10 secondi. TalkBack fornisce un feedback audio per utenti ipovedenti. Se lo hai attivato involontariamente, tocca il tasto Annulla poi tocca due volte lo schermo.</string>
      <string name="enable_accessibility_dialog_negative_btn">Annulla</string>
      <string name="enable_accessibility_dialog_positive_btn">OK</string>
-     <string name="font_hint_large">Default text size</string>
-     <string name="font_hint_normal">Increase text size</string>
+     <string name="font_hint_large">Dimensione testo predefinita</string>
+     <string name="font_hint_normal">Aumenta la dimensione del testo</string>
      <string name="ime_privacy_policy">Termini della Privacy per la tastiera selezionata</string>
      <string name="ime_privacy_policy_no_network">Impossibile connettersi ad internet. Leggi i Termini della Privacy per questa tastiera su %s.</string>
      <string name="input_method_category">"Scegli la tastiera predefinita per la scrittura di messaggi, email, note, ecc. Successivamente potrai installare tastiere di terze parti."</string>
@@ -90,10 +90,10 @@ Leggi questo documento per la tastiera: "</string>
      <string name="sim_dectection_next">Continua</string>
      <string name="sim_redetection">Cerca SIM</string>
      <string name="sim_scard_detecting_check_mobile_not_available">La tua scheda SIM non può connettersi ad una rete operatore valida. Assicurati di avere fondi sufficienti sul tuo saldo e prova a connetterti nuovamente.</string>
-     <string name="skip_gesture_guide_dialog_message">Make sure you know how to use full screen gestures before selecting this option.</string>
-     <string name="skip_gesture_guide_dialog_negative_btn">Cancel</string>
+     <string name="skip_gesture_guide_dialog_message">Assicurati di saper utilizzare le gesture a schermo intero prima di attivare questa funzione.</string>
+     <string name="skip_gesture_guide_dialog_negative_btn">Annulla</string>
      <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
-     <string name="skip_gesture_guide_dialog_title">Full screen gestures</string>
+     <string name="skip_gesture_guide_dialog_title">Gesture a schermo intero</string>
      <string name="skip_underline"><u>Salta questo passaggio</u></string>
      <string name="start_up_slogan" />
      <string name="summary_not_set">Non impostato</string>
