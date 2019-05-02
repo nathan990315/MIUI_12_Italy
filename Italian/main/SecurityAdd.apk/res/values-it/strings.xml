@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="abc_action_bar_home_description">Navigate home</string>
+     <string name="abc_action_bar_up_description">Navigate up</string>
+     <string name="abc_action_menu_overflow_description">More options</string>
+     <string name="abc_action_mode_done">Done</string>
+     <string name="abc_activity_chooser_view_see_all">See all</string>
+     <string name="abc_activitychooserview_choose_application">Choose an app</string>
+     <string name="abc_capital_off">OFF</string>
+     <string name="abc_capital_on">ON</string>
+     <string name="abc_search_hint">Search…</string>
+     <string name="abc_searchview_description_clear">Clear query</string>
+     <string name="abc_searchview_description_query">Search query</string>
+     <string name="abc_searchview_description_search">Search</string>
+     <string name="abc_searchview_description_submit">Submit query</string>
+     <string name="abc_searchview_description_voice">Voice search</string>
+     <string name="abc_shareactionprovider_share_with">Share with</string>
+     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+     <string name="abc_toolbar_collapse_description">Collapse</string>
      <string name="ad_downloading">Download…</string>
      <string name="app_name">Plugin Servizio di Sicurezza</string>
      <string name="cancel_button">Annulla</string>
+     <string name="dual_app_title">Dual apps</string>
+     <string name="dual_app_words">Every account deserves its own app</string>
      <string name="fastboot_locked_answer_1">"Fastboot è il metodo tradizionale per flashare il tuo dispositivo Mi. Quando il dispositivo è in modalità Fastboot, tutti i dati salvati non saranno più raggiungibili e verranno direttamente. Bloccheremo successivamente il tuo dispositivo per assicurarci che i tuoi dati rimangano al sicuro nel caso di smarrimento del dispositivo, così come per assicurare l'affidabilità delle funzionalità trova dispositivo."</string>
      <string name="fastboot_locked_answer_2">Nel caso di smarrimento del dispositivo, la modalità Fastboot garantirà la sicurezza degli elementi in esso salvati. Se effettuerai lo sblocco con Fastboot, non sarai più in grado di bloccare il tuo dispositivo da remoto o cancellare i dati con trova dispositivo. Ecco perché non consigliamo di sbloccare il tuo dispositivo con Fastboot</string>
      <string name="fastboot_locked_answer_3">Dovresti utilizzare lo strumento di sblocco dal sito MIUI. Per sbloccare il dispositivo, dobbiamo assicurarci che il dispositivo appartiene a te. Ecco perché dovresti accedere con il tuo Mi account ed abilitare trova dispositivo.</string>
@@ -30,6 +49,7 @@
      <string name="pm_lable_name">Informazioni sui permessi di root</string>
      <string name="privacy_declare_dialog_title">Termini del Servizio</string>
      <string name="privacy_prompt_traffic_purchase_message">Le informazioni relative al tuo numero di telefono e al tuo operatore verranno crittografate e caricate sui server Xiaomi per fornire maggiori dettagli sulle possibilità di acquisto.</string>
+     <string name="search_menu_title">Search</string>
      <string name="share">Condividi</string>
      <string name="title_share_link">Condividi URL</string>
      <string name="usage_sorted_loading_text">Solo un attimo…</string>

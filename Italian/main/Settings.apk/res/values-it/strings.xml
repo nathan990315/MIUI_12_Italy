@@ -714,8 +714,8 @@ Per limitare l'app, dovrai innanzitutto attivare l'ottimizzazione della batteria
      <string name="battery_saver_button_turn_on">Attiva ora</string>
      <string name="battery_saver_master_switch_title">Utilizza Risparmio Energetico</string>
      <string name="battery_saver_off_scheduled_summary">Si attiverà a %1$s</string>
-      <string name="battery_saver_off_summary">Disattivo</string>
-      <string name="battery_saver_on_summary">Attivo</string>
+     <string name="battery_saver_off_summary">Disattivo</string>
+     <string name="battery_saver_on_summary">Attivo</string>
      <string name="battery_saver_seekbar_title">A %1$s</string>
      <string name="battery_saver_seekbar_title_placeholder">Attiva</string>
      <string name="battery_saver_turn_on_automatically_never">Mai</string>
@@ -830,16 +830,16 @@ App:
      <string name="bluetooth_confirm_passkey_msg">"Per l'abbinamento con:%1$s Assicurati che sia visualizzata questo codice:%2$s"</string>
      <string name="bluetooth_connect_failed">Impossibile connettersi. Riprova.</string>
      <string name="bluetooth_connect_specific_profiles_title">Connessione a…</string>
-      <string name="bluetooth_connected">Connesso %1$s</string>
+     <string name="bluetooth_connected">Connesso %1$s</string>
      <string name="bluetooth_connected_battery_level">Connesso, batteria al %1$s%2$s</string>
      <string name="bluetooth_connected_multiple_devices_summary">Collegato a dispositivi multipli</string>
-      <string name="bluetooth_connected_no_a2dp">Collegato (nessun media) %1$s</string>
+     <string name="bluetooth_connected_no_a2dp">Collegato (nessun media) %1$s</string>
      <string name="bluetooth_connected_no_a2dp_battery_level">Connesso (nessun media), batteria al %1$s%2$s</string>
-      <string name="bluetooth_connected_no_headset">Collegato (dispositivo escluso) %1$s</string>
+     <string name="bluetooth_connected_no_headset">Collegato (dispositivo escluso) %1$s</string>
      <string name="bluetooth_connected_no_headset_battery_level">Connesso (nessun telefono), batteria al %1$s%2$s</string>
-      <string name="bluetooth_connected_no_headset_no_a2dp">Collegato (telef. o conten. mult. esclusi) %1$s </string>
+     <string name="bluetooth_connected_no_headset_no_a2dp">Collegato (telef. o conten. mult. esclusi) %1$s </string>
      <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Connesso (nessun telefono o media), batteriq al %1$s%2$s</string>
-      <string name="bluetooth_connected_no_map">Collegato (nessun accesso ai messaggi) %1$s </string>
+     <string name="bluetooth_connected_no_map">Collegato (nessun accesso ai messaggi) %1$s </string>
      <string name="bluetooth_connected_summary">Collegato a %1$s</string>
      <string name="bluetooth_connecting">Connessione…</string>
      <string name="bluetooth_connecting_error_message">Impossibile collegarsi a %1$s.</string>
@@ -1007,9 +1007,9 @@ App:
      <string name="bluetooth_sap_profile_summary_use_for">Usa per accesso SIM</string>
      <string name="bluetooth_sap_request">Richiesta accesso SIM</string>
      <string name="bluetooth_scan_for_devices">Cerca dispositivi</string>
-     <string name="bluetooth_scanning_on_info_message">"Quando il Bluetooth è attivato, il dispositivo può comunicare con altri dispositivi Bluetooth nelle vicinanze.
+     <string name="bluetooth_scanning_on_info_message">""Quando il Bluetooth è attivato, il dispositivo può comunicare con altri dispositivi Bluetooth nelle vicinanze.
 
-Per migliorare l'esperienza del dispositivo, le app ed i servizi possono comunque eseguire la scansione dei dispositivi vicini in qualsiasi momento, anche quando "<annotation id="link">impostazioni di scansione</annotation>.</string>
+Per migliorare l'esperienza del dispositivo, le app ed i servizi possono comunque eseguire la scansione dei dispositivi vicini in qualsiasi momento, anche quando "<annotation id="link">impostazioni di scansione</annotation>."</string>
      <string name="bluetooth_search_for_devices">Cerca dispositivi</string>
      <string name="bluetooth_searching_for_devices">Ricerca…</string>
      <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Modalità audio aptX Bluetooth</string>
@@ -1371,7 +1371,7 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="condition_turn_on">Attivo</string>
      <string name="condition_work_summary">App, sincronizzazione background ed altre funzionalità relative al tuo profilo di lavoro sono disattivate.</string>
      <string name="condition_work_title">Profilo di lavoro disattivato</string>
-      <string name="condition_zen_title">Modalità Anti-disturbo attivata</string>
+     <string name="condition_zen_title">Modalità Anti-disturbo attivata</string>
      <string name="config_charging_function_name">In carica</string>
      <string name="config_list_label">Reti configurate</string>
      <string name="configure">Configura</string>
@@ -1673,6 +1673,9 @@ avviso"</string>
      <string name="date_time_set_timezone_title">Fuso orario</string>
      <string name="date_time_settings">Data e ora</string>
      <string name="day_of_week">Giorno della settimana</string>
+     <string name="dc_light_dialog_summary">Image quality might be affected when Anti-flicker mode is on. Turn on anyway?</string>
+     <string name="dc_light_summary">Apply DC dimming to reduce eye strain</string>
+     <string name="dc_light_title">Anti-flicker mode</string>
      <string name="debug_app">"Seleziona l'applicazione per il debug"</string>
      <string name="debug_app_not_set">Nessuna applicazione impostata per il debug</string>
      <string name="debug_app_set">"Debug dell'applicazione: %1$s"</string>
@@ -2843,7 +2846,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="location_network_based">Posizione Wi-Fi e Rete dati cellulare</string>
      <string name="location_no_recent_apps">Nessuna applicazione ha richiesto la posizione di recente</string>
      <string name="location_off_summary">Disattivato</string>
-      <string name="location_on_summary">Attivo</string>
+     <string name="location_on_summary">Attivo</string>
      <string name="location_recent_location_requests_see_all">Vedi tutto</string>
      <string name="location_scanning_bluetooth_always_scanning_description">Migliora la posizione consentendo alle app e ai servizi di sistema di rilevare dispositivi Bluetooth in qualsiasi momento.</string>
      <string name="location_scanning_bluetooth_always_scanning_title">Scansione Bluetooth</string>
@@ -5387,9 +5390,9 @@ Per spostare foto, file e dati app su questo dispositivo, vai in Impostazioni > 
      <string name="storage_wizard_ready_title">^1 è pronto</string>
      <string name="storage_wizard_ready_v2_external_body">Puoi spostare il contenuto su ^1</string>
      <string name="storage_wizard_ready_v2_internal_body">Per spostare il contenuto su ^1, vai su <b>Impostazioni > Memoria</b></string>
-     <string name="storage_wizard_ready_v2_internal_moved_body">"Il tuo contenuto è stato spostato su ^1.
+     <string name="storage_wizard_ready_v2_internal_moved_body">""Il tuo contenuto è stato spostato su ^1.
 
-Per gestire questa ^2, vai su <b>Impostazioni > Memoria</b>.</string>
+Per gestire questa ^2, vai su <b>Impostazioni > Memoria</b>."</string>
      <string name="storage_wizard_slow_body">"^1 sembra lento. 
 
 Puoi continuare, ma le app spostate in questa posizione potrebbero rallentarsi ed il trasferimento potrebbe richiedere più tempo. 
