@@ -1673,7 +1673,7 @@ avviso"</string>
      <string name="date_time_set_timezone_title">Fuso orario</string>
      <string name="date_time_settings">Data e ora</string>
      <string name="day_of_week">Giorno della settimana</string>
-     <string name="dc_light_dialog_summary">La qualità dell'immagine potrebbe essere variare quando la modalità Anti-Sfarfallìo. Attivare comunque?</string>
+     <string name="dc_light_dialog_summary">"La qualità dell'immagine potrebbe essere variare quando la modalità Anti-Sfarfallìo. Attivare comunque?"</string>
      <string name="dc_light_summary">Attiva il dimming DC per ridurre lo sforzo degli occhi</string>
      <string name="dc_light_title">Modalità anti-sfarfallìo</string>
      <string name="debug_app">"Seleziona l'applicazione per il debug"</string>
@@ -1986,10 +1986,10 @@ Se il problema continua a verificarsi, potrebbe essere necessario disinstallare 
      <string name="dtmf_tone_enable_title">Toni tastierino</string>
      <string name="dual_clock">Orologio Doppio</string>
      <string name="dual_clock_aod_hint">"\"Orologio Doppio\" richiede le seguenti funzioni: 1. Per lo schermo disattivato, consente di vedere elementi in Impostazioni > Schermo; 2. Per la schermata di blocco, assicurati di utilizzare il tema predefinito o classico in Impostazioni > Temi; 3. Per la Home, assicurati di usare il widget orologio di sistema."</string>
-     <string name="dual_clock_aod_open_message">L'Orologio Doppio verrà mostrato nella schermata di sblocco, Home e a schermo spento.</string>
+     <string name="dual_clock_aod_open_message">"L'Orologio Doppio verrà mostrato nella schermata di sblocco, Home e a schermo spento."</string>
      <string name="dual_clock_hint">"\"Orologio Doppiok\" richiede le seguenti funzioni: 1. Per la schermata di blocco, assicurati di utilizzare il tema predefinito o classico in Impostazioni > Temi; 2. er la Home, assicurati di usare il widget orologio di sistema."</string>
      <string name="dual_clock_ok">Ho capito</string>
-     <string name="dual_clock_open_message">L'Orologio Doppio verrà mostrato nella schermata di sblocco e sulla Home .</string>
+     <string name="dual_clock_open_message">"L'Orologio Doppio verrà mostrato nella schermata di sblocco e sulla Home."</string>
      <string name="dual_setting_simcard1">SIM 1</string>
      <string name="dual_setting_simcard2">SIM 2</string>
      <string name="dump_log">Raccogli log basati sui problemi</string>
@@ -2294,7 +2294,6 @@ Per maggiori dettagli contatta l'amministratore."</string>
      <string name="firewall_temp_rule_reason">%2$s limitazioni connessione Internet per %1$s</string>
      <string name="firewall_wifi">Wi-Fi</string>
      <string name="firewall_wifi_dialog_message">"L'app installata non sarà in grado di connettersi ad Internet tramite Wi-Fi se questo interruttore sarà spento."</string>
-     <string name="firmware_title">Android</string>
      <string name="firmware_version">Versione di Android</string>
      <string name="flash_drive_backup_restore">Esegui backup o ripristina da USB</string>
      <string name="flash_drive_backup_restore_summary">Connetti a memoria USB</string>
@@ -5796,7 +5795,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="usage_state_today">Oggi</string>
      <string name="usage_state_today_total_text">Schermo attivo oggi</string>
      <string name="usage_state_tuesday">Mar</string>
-     <string name="usage_state_unlock_mourth_day">"'Sbloccato il' MMM d"</string>
+     <string name="usage_state_unlock_mourth_day">"'Sbloccato il' d MMM"</string>
      <string name="usage_state_usage_time">Schermo attivo</string>
      <string name="usage_state_usage_time_remind">Avviso schermo attivo</string>
      <string name="usage_state_use_time_remind_title">Avviso schermo attivo</string>
@@ -7030,10 +7029,8 @@ Aggiorna le impostazioni a:
      <string name="zone_auto_summaryOff">Utilizza il fuso orario fornito dalla rete</string>
      <string name="zone_auto_summaryOn">Utilizza il fuso orario fornito dalla rete</string>
      <string name="zone_change_to_from_dst">%1$s inizia alle %2$s.</string>
-     <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
      <string name="zone_info_footer">%1$s in uso. %2$s inizia alle %3$s.</string>
      <string name="zone_info_footer_no_dst">%1$s in uso. Nessuna ora legale.</string>
-     <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
      <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
      <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
      <string name="zone_menu_by_offset">Seleziona limite UTC</string>
