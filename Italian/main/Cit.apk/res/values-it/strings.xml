@@ -470,6 +470,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tof_sensor_check_title">TofSensor</string>
      <string name="cit_tool">Strumenti</string>
      <string name="cit_tool_active_mbn">active</string>
+     <string name="cit_tool_active_mbn_notify">wait for a moment to set mbn</string>
      <string name="cit_tool_asdiv_ant_pos_setting">Imposta posizione ant</string>
      <string name="cit_tool_asdiv_get_result_band_title">Bande antenna attuali</string>
      <string name="cit_tool_asdiv_get_result_carrier_title">Operatore cellulare ant attuale</string>
@@ -590,11 +591,11 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_cal_accelerometer">Utilità di calibrazione Accel.</string>
      <string name="cit_tool_cal_camera">Calibrazione Fotocamera</string>
      <string name="cit_tool_cal_gyroscope">Utilità di calibrazione Giros.</string>
+     <string name="cit_tool_check_cal">cancel</string>
+     <string name="cit_tool_check_ok">ok</string>
      <string name="cit_tool_check_opt">sure?</string>
      <string name="cit_tool_check_opt_with_reboot">will reboot, sure?</string>
      <string name="cit_tool_current_modem_test_mode">Modalità Test Attuale:</string>
-     <string name="cit_tool_dc_backlight_toast_off">Retroilluminazione DC Disattivata</string>
-     <string name="cit_tool_dc_backlight_toast_on">Retroilluminazione DC Attivata</string>
      <string name="cit_tool_drx_only">DRX</string>
      <string name="cit_tool_enable_3A_log">Abilita interruttore 3A log</string>
      <string name="cit_tool_enable_display_3A_log">Abilita log schermo 3A</string>
@@ -630,12 +631,17 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
      <string name="cit_tool_modem">Test Modem</string>
      <string name="cit_tool_modem_bugreport">Forza Coredump Modem</string>
      <string name="cit_tool_modem_clear_empty">clear</string>
+     <string name="cit_tool_modem_deactive_mbn">deactive</string>
      <string name="cit_tool_modem_exit_ftm">Chiudi mod. FTM</string>
+     <string name="cit_tool_modem_feature_config_cust">current faeture config as follow</string>
+     <string name="cit_tool_modem_feature_config_default">current faeture config as default</string>
      <string name="cit_tool_modem_mbn">Cambia config. Modem</string>
      <string name="cit_tool_modem_mbn_config_load_and_active">MBN config loading and activing tool</string>
+     <string name="cit_tool_modem_mbn_opt_fail_notfiy">opt failed, pls reboot the phone to retry</string>
      <string name="cit_tool_modem_offline_log">Apri/Chiudi Log offline</string>
      <string name="cit_tool_modem_rf_ant_test">Modem rf ant Test Setting</string>
      <string name="cit_tool_modem_test_clr">close gpio test</string>
+     <string name="cit_tool_modem_test_device_value_set">modify device state</string>
      <string name="cit_tool_modem_test_get">update</string>
      <string name="cit_tool_modem_test_mode">Modem Test Mode Setting</string>
      <string name="cit_tool_modem_test_mode_closed">test mode closed</string>
@@ -643,7 +649,9 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
      <string name="cit_tool_modem_test_mode_opened">test mode opened</string>
      <string name="cit_tool_modem_test_mode_select">Select Test Mode:</string>
      <string name="cit_tool_modem_test_mode_set">Validate Setting</string>
+     <string name="cit_tool_modem_test_rf_ant">RF Ant</string>
      <string name="cit_tool_modem_test_set">validate</string>
+     <string name="cit_tool_modem_test_will_set">will open test mode and reboot the dut</string>
      <string name="cit_tool_nfc">Test NFC</string>
      <string name="cit_tool_nfc_st">NFC ST:</string>
      <string name="cit_tool_nfc_st_confreq">freq:</string>
@@ -750,7 +758,6 @@ test fallito!"</string>
      <string name="continue_vibrator">Vibrazione continua</string>
      <string name="copyright">Copyright © 2015 Goodix All Rights Reserved.</string>
      <string name="current_angle">Angolo Attuale:</string>
-     <string name="dc_backlight_title">DC Backlight Mode for Low Light</string>
      <string name="delete">Elimina</string>
      <string name="description_info">Info</string>
      <string name="display_test_finish">Test schermo completato</string>
@@ -879,7 +886,6 @@ posizione specificata"</string>
      <string name="no_vibrator">Nessun motore di vibrazione</string>
      <string name="noise">Rumore:</string>
      <string name="none">N/A</string>
-     <string name="open_dc_backlight_summary">"Certain display settings aren't compatible with DC backlight mode. However, they will be restored once you turn this mode off. Turn on DC backlight mode?"</string>
      <string name="pass">Riuscito</string>
      <string name="phone_not_been_restarted">Il telefono non è stato riavviato</string>
      <string name="picture">Immagine</string>

@@ -120,6 +120,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
      <string name="error_retry_later">Errore, riprova più tardi per favore.</string>
      <string name="error_unknown">Si è verificato un errore</string>
      <string name="get_device_id_error">Impossibile ottenere ID dispositivo</string>
+     <string name="hint_restore_cross_space">Home screen layout might be displayed incorrectly if you transfer items between spaces.</string>
      <string name="home_hint_global_launcher">Schermata Home Poco</string>
      <string name="home_hint_other_launcher">Altre schermate Home</string>
      <string name="home_restore_error">Impossibile ripristinare schermata Home</string>
@@ -197,6 +198,7 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
      <string name="restoring_file_title_no_progress">Ripristino file…</string>
      <string name="restoring_settings">Ripristino impostazioni…</string>
      <string name="retry">Riprova</string>
+     <string name="selected">Selected</string>
      <string name="self_device_main_space">Lo Spazio Primario di questo telefono</string>
      <string name="self_device_second_space">Lo Spazio Secondario di questo telefono</string>
      <string name="settings_backup">Backup impostazioni</string>
@@ -210,6 +212,7 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
      <string name="total_space">Spazio totale: %s</string>
      <string name="try_again">Riprova</string>
      <string name="try_continue">Continua</string>
+     <string name="unselected">Not selected</string>
      <string name="unsupported_home">"Prego aggiorna all'OS più recente."</string>
      <string name="wait_icon_download">Download icona applicazione</string>
 </resources>

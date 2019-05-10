@@ -475,6 +475,9 @@ Frequenza Campione"</string>
      <string name="change_theme_reboot">Il cambio del tema richiede un riavvio.</string>
      <string name="charge_length_format">%1$s fa</string>
      <string name="chooseUsbActivity">Scegli come utilizzare il collegamento USB</string>
+     <string name="choose_clock_title_left_top">Left-aligned</string>
+     <string name="choose_clock_title_middle">Centered</string>
+     <string name="choose_clock_title_vertical">Vertical</string>
      <string name="choose_profile">Scegli profilo</string>
      <string name="clear_adb_keys">Revoca autorizzazioni debugging USB</string>
      <string name="clear_all_notifications_text">Pulisci tutto</string>
@@ -716,6 +719,13 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
      <string name="face_unlock_sc_status">Sposta la schermata verso il basso per aprire la camera</string>
      <string name="face_unlock_stay_away_screen">Stai almeno 25/40cm lontano dallo schermo</string>
      <string name="face_unlock_success">Verifica dati facciali completata</string>
+     <string name="face_unlock_success_show_message_dialog_msg">Allow Lock screen notifications to be able to view them on your Lock screen.</string>
+     <string name="face_unlock_success_show_message_dialog_negative_btn">No thanks</string>
+     <string name="face_unlock_success_show_message_dialog_positive_btn">Allow</string>
+     <string name="face_unlock_success_show_message_dialog_title">Lock screen notifications</string>
+     <string name="face_unlock_success_show_message_msg">Show only notification source when device is locked and add notification details after face data is verified</string>
+     <string name="face_unlock_success_show_message_title">Show notification details after verifying face data</string>
+     <string name="face_unlock_success_show_message_toast">Notifications will be shown on Lock screen</string>
      <string name="face_unlock_success_stay_screen_msg">"Resta sulla schermata di Blocco dopo che il tuo volto verrà verificato. Dopodiché scorri verso l'alto per aprire la schermata Home."</string>
      <string name="face_unlock_success_stay_screen_title">Resta sulla schermata di Blocco dopo lo sblocco</string>
      <string name="failed_to_open_app_settings_toast">Impossibile aprire le impostazioni per %1$s</string>

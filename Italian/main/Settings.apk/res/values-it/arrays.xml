@@ -314,7 +314,7 @@
      </string-array>
      <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Default)</item>
-		<item>AVRCP 1.3</item>
+        <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
      </string-array>
@@ -1033,6 +1033,11 @@
         <item>5 minuti</item>
         <item>10 minuti</item>
         <item>30 minuti</item>
+     </string-array>
+     <string-array name="drip_battery_indicator_style_entries">
+        <item>Graphical</item>
+        <item>Percentage (in the icon)</item>
+        <item>Percentage (next to the icon)</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>

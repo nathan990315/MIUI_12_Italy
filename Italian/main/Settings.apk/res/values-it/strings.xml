@@ -613,6 +613,19 @@ Per limitare l'app, dovrai innanzitutto attivare l'ottimizzazione della batteria
      <string name="backup_pw_cancel_button_text">Annulla</string>
      <string name="backup_pw_set_button_text">Imposta password di backup</string>
      <string name="backup_section_title">Backup e ripristino</string>
+     <string name="backup_set_clear_success">Turned off backup password successfully</string>
+     <string name="backup_set_clear_title">Turn off backup password</string>
+     <string name="backup_set_confirm">OK</string>
+     <string name="backup_set_confirm_clear">Turn off</string>
+     <string name="backup_set_enter_new_pw">Enter new backup password</string>
+     <string name="backup_set_enter_new_pw_again">Confirm new backup password</string>
+     <string name="backup_set_enter_old_pw">Enter old backup password</string>
+     <string name="backup_set_enter_pw_title">Enter backup password</string>
+     <string name="backup_set_error_pw">The password you entered is incorrect</string>
+     <string name="backup_set_modify_title">Change backup password</string>
+     <string name="backup_set_new_pw_title">Enter new backup password</string>
+     <string name="backup_set_null_pw">Enter password first</string>
+     <string name="backup_set_pw_confirm_title">Confirm new backup password</string>
      <string name="badge_title">"Mostra badge sull'icona nella Home"</string>
      <string name="band_mode_failed">Non riuscita</string>
      <string name="band_mode_loading">Caricamento lista bande…</string>
@@ -1287,10 +1300,14 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="checking_find_device_status">Verifica stato Trova dispositivo\u2026</string>
      <string name="checking_for_updates">Ricerca aggiornamenti in corso\u2026</string>
      <string name="choose_a_card_to_reset">Seleziona scheda SIM da reimpostare</string>
+     <string name="choose_keyguard_clock_style">Lock screen clock format</string>
+     <string name="choose_keyguard_clock_summary">"This setting doesn't work with third party themes"</string>
      <string name="choose_profile">Scegli il profilo</string>
      <string name="choose_smartcover_type">Scegli il tipo di custodia</string>
      <string name="choose_spell_checker">Scegli controllo ortografico</string>
      <string name="choose_timezone">Scegli il fuso orario</string>
+     <string name="choose_unlock_face_msg">Set a screen lock before recording face data.</string>
+     <string name="choose_unlock_fingerprint_msg">Set screen lock before adding your fingerprint.</string>
      <string name="choose_voice_input_title">Scegli input vocale</string>
      <string name="cleaner">Pulizia</string>
      <string name="clear_activities">Reimposta predefinite</string>
@@ -2451,7 +2468,6 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="gxzw_add_fingerprint_put_finger_title">Premi più forte, solleva dopo la vibrazione</string>
      <string name="gxzw_add_fingerprint_title">"Aggiungi un'impronta digitale"</string>
      <string name="gxzw_anim_light">Neon</string>
-     <string name="gxzw_anim_metal">Metallo</string>
      <string name="gxzw_anim_pulse">Pulsazione</string>
      <string name="gxzw_anim_rhythm">Ritmo</string>
      <string name="gxzw_anim_star">Starlight</string>
@@ -3242,6 +3258,8 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_lab_features">Funzionalità MIUI lab</string>
      <string name="miui_lab_gallery_search_desc">Ricerca immagini migliorata</string>
      <string name="miui_lab_gallery_search_title">Ricerca Galleria</string>
+     <string name="miui_lab_gesture_desc">Disable physical buttons and enjoy fullScreen gesture</string>
+     <string name="miui_lab_gesture_title">FullScreen Gesture</string>
      <string name="miui_lab_install_drive_mode_error">Impossibile installare, riprova.</string>
      <string name="miui_lab_install_drive_mode_summary">"Modalità Auto è un'app di sistema. L'installazione non richiederà una connessione ad Internet."</string>
      <string name="miui_lab_install_drive_mode_title">Installa Modalità Auto</string>
@@ -4578,6 +4596,7 @@ Come usare Mantieni su schermo:
      <string name="search_advanced_settings">Impostazioni avanzate;Wifi;Impostazioni Wifi;Impostazioni WLAN</string>
      <string name="search_airplane_mode">Modalità aereo;Modalità aeroplano;Modalità volo;Aereo;Aeroplano;Volo</string>
      <string name="search_alarm_sound_title">Suono sveglia</string>
+     <string name="search_ambient_display_screen_title">Ambient display</string>
      <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
      <string name="search_apn_settings">APN;Nome Punti di Accesso</string>
      <string name="search_app_invisible">App invisibile;App invisibili</string>
@@ -4616,6 +4635,7 @@ Come usare Mantieni su schermo:
      <string name="search_dndm_vip_call_setting_title">ViP;Eccezioni</string>
      <string name="search_dndm_wristband">Attiva con Mi Band</string>
      <string name="search_do_not_disturb_mode">Non disturbare</string>
+     <string name="search_doze_always_on_title">Always on</string>
      <string name="search_dtmf_tone_enable_title">Toni tastierino</string>
      <string name="search_empty">Nessun risultato</string>
      <string name="search_enable_adb">Debug USB</string>
@@ -4896,7 +4916,6 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
      <string name="settings_safetylegal_activity_unreachable">Nessuna connessione disponibile. Per visualizzare le informazioni, visita il sito %s da qualsiasi computer collegato ad internet.</string>
      <string name="settings_safetylegal_title">Informazioni sulla sicurezza</string>
      <string name="settings_shortcut">Scorciatoia Impostazioni</string>
-     <string name="setup_choose_unlock_fingerprint_msg">"Imposta la schermata di blocco prima di impostare l'impronta digitale."</string>
      <string name="setup_choose_unlock_mixed_password">Password</string>
      <string name="setup_choose_unlock_mixpassword_title">Imposta password</string>
      <string name="setup_choose_unlock_password">PIN</string>
@@ -5774,17 +5793,18 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="usage_state_app_use_time">Schermo attivo app</string>
      <string name="usage_state_channel_mouth">Ultimi 30 giorni</string>
      <string name="usage_state_channel_week">Ultimi 7 giorni</string>
+     <string name="usage_state_date">MMM d</string>
      <string name="usage_state_device_noti_today_tip_title" formatted="false">Notifiche tra le %d:00 e le %d:00</string>
      <string name="usage_state_device_unlock_today_tip_title" formatted="false">Dispositivo sbloccato tra le %d:00 e le %d:00</string>
      <string name="usage_state_friday">Ven</string>
      <string name="usage_state_go_more">Altre app</string>
-     <string name="usage_state_hour_minute" formatted="false">%dh %dm</string>
+     <string name="usage_state_hour_minute" formatted="false">%do %dm</string>
      <string name="usage_state_less_one_minute">Meno di 1 minuto</string>
      <string name="usage_state_monday">Lun</string>
-     <string name="usage_state_mourth_day">"'Schermo attivo il' MMM d"</string>
-     <string name="usage_state_noti_mourth_day">"'Notifiche il' MMM d"</string>
+     <string name="usage_state_mourth_day">Ora schermo %s</string>
+     <string name="usage_state_noti_mourth_day">Notifiche %s</string>
      <string name="usage_state_notification">Gestisci notifiche</string>
-     <string name="usage_state_notification_manager">GEstisci notifiche app</string>
+     <string name="usage_state_notification_manager">Gestisci notifiche app</string>
      <string name="usage_state_remind_summary">Attiva epr ricevere avvisi per lo schermo attivo. Puoi impostare diversi limiti di tempo per i giorni infrasettimanali e weekend.</string>
      <string name="usage_state_remind_title">Avviso schermo attivo</string>
      <string name="usage_state_rest_day">Weekend</string>
@@ -5795,7 +5815,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="usage_state_today">Oggi</string>
      <string name="usage_state_today_total_text">Schermo attivo oggi</string>
      <string name="usage_state_tuesday">Mar</string>
-     <string name="usage_state_unlock_mourth_day">"'Sbloccato il' d MMM"</string>
+     <string name="usage_state_unlock_mourth_day">Sbloccato %s</string>
      <string name="usage_state_usage_time">Schermo attivo</string>
      <string name="usage_state_usage_time_remind">Avviso schermo attivo</string>
      <string name="usage_state_use_time_remind_title">Avviso schermo attivo</string>

@@ -92,6 +92,18 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
      </plurals>
+     <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" days"</item>
+        <item quantity="one">" day"</item>
+     </plurals>
+     <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" hours"</item>
+        <item quantity="one">" hour"</item>
+     </plurals>
+     <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" minutes"</item>
+        <item quantity="one">" minute"</item>
+     </plurals>
      <plurals name="reminder_later_toast">
         <item quantity="other">Prossimo promemoria tra %1$d minuti</item>
         <item quantity="one">Prossimo promemoria tra %1$d minuto</item>
