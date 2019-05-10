@@ -204,7 +204,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
 1. Tocca il pulsante di calibrazione di seguito per avviare la fotocamera
 2. Premi il tasto Indietro per chiudere la fotocamera
 3. Un messaggio ti indicherà che lo stabilizzatore ottico (OIS) è stato calibrato"</string>
-     <string name="cit_camera_fast_check_title">Camera fast test</string>
+     <string name="cit_camera_fast_check_title">Test veloce fotocamera</string>
      <string name="cit_camera_sdcard_error">Impossibile scattare foto. Scheda SD piena.</string>
      <string name="cit_charger_check_title">Test caricabatterie</string>
      <string name="cit_charger_in">Charger connected</string>
@@ -216,7 +216,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
      <string name="cit_charger_test_summary">"Durante il test del caricabatterie, esegui il collegamento
 al dispositivo ed alla presa a muro"</string>
      <string name="cit_charger_test_tips_electric">Current project needs to test charging current value greater than 1A</string>
-     <string name="cit_charger_test_tips_hvdcp">Current project needs to test USB_HVDCP</string>
+     <string name="cit_charger_test_tips_hvdcp">Il progetto attuale richiede di testare USB_HVDCP</string>
      <string name="cit_charger_waiting_in">"Collega l'alimentatore"</string>
      <string name="cit_charger_waiting_out">"Scollega l'alimentatore"</string>
      <string name="cit_def_torch_on_one">Attiva il primo flash</string>
@@ -238,16 +238,16 @@ al dispositivo ed alla presa a muro"</string>
      <string name="cit_external_sd_check_summary">Questo test verificherà lo stato della Scheda SD</string>
      <string name="cit_external_sd_check_title">Test Scheda SD</string>
      <string name="cit_f2_cali">Calibration</string>
-     <string name="cit_f2_cali_done">Calibration Done!</string>
-     <string name="cit_f2_cali_failed">Calibration Failed, please Retry!</string>
-     <string name="cit_f2_cali_title">Camera Calibration</string>
-     <string name="cit_f2_calibrating">Calibration is ongoing...</string>
-     <string name="cit_f2_camera_check_summary">"Test instructions:
+     <string name="cit_f2_cali_done">Calibrazione eseguita</string>
+     <string name="cit_f2_cali_failed">Calibrazione fallita, si rpega di riprovare</string>
+     <string name="cit_f2_cali_title">Calibrazioen fotocamera</string>
+     <string name="cit_f2_calibrating">Calibrazione in corso...</string>
+     <string name="cit_f2_camera_check_summary">"Istruzioni test:
 
-1.Tap the calibration button.
-2.There will be a calibration pass label to indicate the camera has been calibrated."</string>
-     <string name="cit_f2_capture_fail">Capture Failed, please Retry!</string>
-     <string name="cit_f2_capture_success">Click calibration button!</string>
+1.Tocca il tasto di calibrazione.
+2.Ci sarà un'etichetta di conferma ad indicare che la fotocamera è stata correttamente calibrata."</string>
+     <string name="cit_f2_capture_fail">Scatto fallito, provare di nuovo!</string>
+     <string name="cit_f2_capture_success">Tocca il tasto di calibrazione!</string>
      <string name="cit_fail">Fallito</string>
      <string name="cit_fast_screen_touch_check_title">Fast touch screen check test</string>
      <string name="cit_finger_check_title">Test Lettore Impronte</string>
@@ -592,9 +592,9 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_cal_gyroscope">Utilità di calibrazione Giros.</string>
      <string name="cit_tool_check_opt">sure?</string>
      <string name="cit_tool_check_opt_with_reboot">will reboot, sure?</string>
-     <string name="cit_tool_current_modem_test_mode">Current Test Mode:</string>
-     <string name="cit_tool_dc_backlight_toast_off">DC Backlight Off</string>
-     <string name="cit_tool_dc_backlight_toast_on">DC Backlight On</string>
+     <string name="cit_tool_current_modem_test_mode">Modalità Test Attuale:</string>
+     <string name="cit_tool_dc_backlight_toast_off">Retroilluminazione DC Disattivata</string>
+     <string name="cit_tool_dc_backlight_toast_on">Retroilluminazione DC Attivata</string>
      <string name="cit_tool_drx_only">DRX</string>
      <string name="cit_tool_enable_3A_log">Abilita interruttore 3A log</string>
      <string name="cit_tool_enable_display_3A_log">Abilita log schermo 3A</string>
@@ -614,19 +614,19 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
      <string name="cit_tool_log_toast">Log salvato in %s</string>
      <string name="cit_tool_log_toast_generate_bugreport">Creazione segnalazione bug… (occorrerà circa 1 minuto)</string>
      <string name="cit_tool_mbn_default_notfiy">default MBN</string>
-     <string name="cit_tool_mbn_no_default_notfiy">No default MBN</string>
-     <string name="cit_tool_mbn_opt_help">"Operation instructions:
-1. The steps to activate an MBN:
-Step 1: Select the slot of MBN to be activated, which is usually loaded by double cards, and the default is double cards.
-Step 2: You need to select a name of the MBN to be activated. The commonly used MBN is prefabricated in the drop-down list. If it is not found, you can enter the keyword of the MBN name to be activated in the search box to find the MBN you need to activate.
-Step 3: Click the Activate button to load the selected MBN.
-2. Recovery system default MBN can be achieved by clicking the Restore default MBN button.
-3. It can display the information of MBN loaded in the current Modem.
-The first line shows whether the MBN loaded by the current Modem is the default MBN of the system. (Some products may not be integrated into the relevant interface, this line will show: Not Supported)
-The second line shows the name and version number of Default MBN and Carrier MBN currently loaded in Modem. Our custom loaded MBN is Carrier MBN, SUB0 is card 1, SUB1 is card 2."</string>
-     <string name="cit_tool_mbn_path_select_hit">select the full path of mbn:</string>
-     <string name="cit_tool_mbn_path_select_notice">not find above? search here? As for mcfg, ct, eps ... etc</string>
-     <string name="cit_tool_mbn_recovery_default">Recovery default MBN</string>
+     <string name="cit_tool_mbn_no_default_notfiy">Nessun MBN predefinito</string>
+     <string name="cit_tool_mbn_opt_help">"Istruzioni sull'operazione:
+1. Passi per attivare MBN:
+Passo 1: Seleziona lo slot MBN da attivare, che di solito è caricata da doppie schede, e l'impostazione predefinita è doppia scheda.
+Passo 2: Devi selezionare un nome per attivare MBN. Il MBN comunemente usato è il predefinito nella lista a discesa. Se non è trovato, puoi inserire nel campo di ricerca la parola chiave del nome MBN da attivare per trovarlo e attivare MBN.
+Passo 3: Tocca il tasto Attiva Activate button to load the selected MBN.
+2. Il sistema di ripristino predefinito MBN può essere ottenuto toccando il tasto di Ripristino predefinito MBNadeimprst.
+3. Può visualizzare il profilo MBN caricato nel modem corrente.
+La prima linea mostra se l'MBN caricato dal moden corrente è il MBN predefinito del sistema. (Alcuni prodotti potrebbero non essere integrati nella relativa interfaccia, questa riga mostrerà: Non supportato)
+La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore MBN attualmente caricato nel modem. Il nostro MBN personalizzato caricato è Operatore MBN, SUB0 è scheda 1, SUB1 è scheda 2."</string>
+     <string name="cit_tool_mbn_path_select_hit">seleziona il percorso completo mbn:</string>
+     <string name="cit_tool_mbn_path_select_notice">non lo hai trovato sopra? Vuoi cercare qui? Come per mcfg, ct, eps ... etc</string>
+     <string name="cit_tool_mbn_recovery_default">Ripristino MBN predefinito</string>
      <string name="cit_tool_modem">Test Modem</string>
      <string name="cit_tool_modem_bugreport">Forza Coredump Modem</string>
      <string name="cit_tool_modem_clear_empty">clear</string>
@@ -650,8 +650,8 @@ The second line shows the name and version number of Default MBN and Carrier MBN
      <string name="cit_tool_nfc_st_run">Avvia</string>
      <string name="cit_tool_nfc_st_stop">Ferma</string>
      <string name="cit_tool_no_repeat">No repetition!</string>
-     <string name="cit_tool_not_support">Not Supported</string>
-     <string name="cit_tool_opt_fail_info_notify">Opt failed, need to reboot the phone for Non online mode.</string>
+     <string name="cit_tool_not_support">Non supportato</string>
+     <string name="cit_tool_opt_fail_info_notify">Scelta fallita, è necessario riavviare il telefono per la modalità offline.</string>
      <string name="cit_tool_prx_drx">PRx+DRx</string>
      <string name="cit_tool_prx_drx_select_mode">Seleziona modalità:</string>
      <string name="cit_tool_prx_drx_select_rat">Seleziona RAT:</string>
@@ -660,10 +660,10 @@ The second line shows the name and version number of Default MBN and Carrier MBN
      <string name="cit_tool_prx_only">PRX</string>
      <string name="cit_tool_rf_ant">Utilità RF/Antenna</string>
      <string name="cit_tool_select_all">Select All</string>
-     <string name="cit_tool_select_none">Select None</string>
-     <string name="cit_tool_select_opposite">Select Opposite</string>
-     <string name="cit_tool_setting_expired">Setting Expired, pls retry!</string>
-     <string name="cit_tool_setting_wait">Setting! PLS wait</string>
+     <string name="cit_tool_select_none">Nessuna selezione</string>
+     <string name="cit_tool_select_opposite">Selezione opposta</string>
+     <string name="cit_tool_setting_expired">Impostazione scaduta, si prega di riprovare!</string>
+     <string name="cit_tool_setting_wait">Impostazione in corso! Attendere prego</string>
      <string name="cit_tool_splash_test_title">Splash Test</string>
      <string name="cit_tool_switch_autosms">Attiva/Disattiva Reg. Auto SMS</string>
      <string name="cit_tool_to_fetching">to fetch</string>
@@ -886,9 +886,9 @@ posizione specificata"</string>
      <string name="plugout_and_reverse_plugin">"
 Prego scollega il caricabatterie dal dispositivo e inseriscilo nella presa a muro."</string>
      <string name="pop_camera">Pop Camera</string>
-     <string name="pop_push_camera_test_summary">"Click the Pop Camera Button to see if the camera comes out
-Click the Push Camera Button to see if the camera comes in"</string>
-     <string name="pop_push_camera_test_title">Pop and Push Camera Test</string>
+     <string name="pop_push_camera_test_summary">"Tocca il tasto Pop Camera per vedere se la camera compare
+Tocca il tasto di rientro della fotocamera per vedere se la fotocamera rientra"</string>
+     <string name="pop_push_camera_test_title">Test pop up e rientro fotocamera</string>
      <string name="product_list">Lista prodotti</string>
      <string name="push_camera">Push Camera</string>
      <string name="radio_boy">Voce maschile</string>
@@ -952,29 +952,29 @@ Click the Push Camera Button to see if the camera comes in"</string>
      <string name="sar_sensor_calibrate_fail">Calibrazione sensore SAR non riuscita</string>
      <string name="sar_sensor_calibrate_success">Calibrazione sensore SAR riuscita</string>
      <string name="sar_sensor_collect_data">Start Collect Data</string>
-     <string name="sar_sensor_collect_data_test_summary">"Rotate the phone to ensure that the real-time angle is between 130 and 140 degrees
-Keep the other hand away from the cell phone. Click on the start data acquisition button
-After calibrate success,Observe that the absolute value of CS0i and CS1 is less than 200 and the value of CS1 is more than 300. After five consecutive times, the other hand is close to the bottom of the cell phone,The value of CS0 is highlighted by the button after 3 consecutive times between 3000 and 30000,the pass button is highlight"</string>
-     <string name="sar_sensor_collect_test_summary">"Rotate the phone, put it to the fixture
-Click the Start data acquisition button
-Control the fixture close and away from the phone"</string>
-     <string name="sar_sensor_data_check_description">Sar Sensor Data Collect</string>
-     <string name="sar_sensor_data_check_summary">"Hold the top of the phone with one hand
-Make sure the real time Angle is about 45 degrees
-Keep the other hand away from the phone
-Look at the value of CS0
-After the value of CS0 is less than 500 and the value of CS2 greater than 10000 
-Hold the other hand close to the bottom of the phone
-Look at the value of CS0
-The value of CS0 ranges from 3000 to 30000 , the pass button is highlight"</string>
-     <string name="sar_sensor_data_check_summary_1">"Hold the top of the phone with one hand
-Make sure the real time Angle is about 45 degrees
-Keep the other hand away from the phone
-Look at the value of CS0
-After the value of CS0 is less than 500 and the value of CS2 greater than 5000 
-Hold the other hand close to the bottom of the phone
-Look at the value of CS0
-The value of CS0 ranges from 3000 to 30000 , the pass button is highlight"</string>
+     <string name="sar_sensor_collect_data_test_summary">"Ruota il telefono per assicurarti che l'angolo il tempo reale sia tra i 130 e i 140 gradi
+Tieni l'altra mano lontana dal telefono. Tocca il tasto di avvio acquisizione dati
+Dopo aver calibrato correttamente,osserva il valore assoluto CS0i e CS1 è minore di 200 ed il valore CS1 è superiore di 300. Dopo cinque volte consecutive, l'altra mano è vicina alla parte inferiore del telefono,il valore di CS0 viene evidenziato dopo 3 volte consecutive tra 3000 e 30000,il tasto pass viene evidenziato"</string>
+     <string name="sar_sensor_collect_test_summary">"Ruota il telefono, posizionalo sulla fixture
+Tocca il tasto di avvio acquissizione dati
+Controlla la fixture vicino e lontano dal telefono"</string>
+     <string name="sar_sensor_data_check_description">Raccogli dati sensore SAR</string>
+     <string name="sar_sensor_data_check_summary">"Tieni il telefono dalla parte alta
+Assicurati che l'angolo in tempo reale sia di 45 gradi
+Tieni l'altra mano lontana dal telefono
+Cerca il valore di CS0
+Dopo il valore di CS0 è inferiore a 500 e il valore di CS2 superiore di 10000 
+Tieni l'altra mano vicina alla parte inferiore del telefono
+Cerca il valore di CS0
+Il valore di CS0 va da 3000 a 30000 , il tasto pass è evidenziato"</string>
+     <string name="sar_sensor_data_check_summary_1">"Tieni il telefono con una mano dalla parte superiore
+Assicurati che l'angolo in tempo reale sia di 45 gradi
+Tieni l'altr amano distante dal telefono
+Cerca il valore di CS0
+Dopo il valore di CS0 è inferiore a 500 ed il valore di CS2 superiore a 5000 
+Tieni l'altra mano vicina alla parte inferiore del telefono
+Cerca il valore di CS0
+Il valore di CS0 va da 3000 a 30000 , il tasto pass è evidenziato"</string>
      <string name="sar_sensor_test_description">Calibrazione sensore SAR e Acquisizione dati</string>
      <string name="sar_sensor_test_err_angle">The phone is not placed at the right angle</string>
      <string name="sar_sensor_test_next_step">Control baffle close to mobile phone</string>

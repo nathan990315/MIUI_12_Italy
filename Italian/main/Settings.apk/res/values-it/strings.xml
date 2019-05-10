@@ -276,12 +276,12 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="agps_roaming_summary">"Utilizzare l'A-GPS durante il roaming potrebbe comportare dei costi aggiuntivi"</string>
      <string name="ai_button_title">Pulsante Mi AI</string>
      <string name="ai_button_title_global">AI button</string>
-     <string name="ai_settings_click_title">Press</string>
-     <string name="ai_settings_double_click_category">Double press AI button</string>
-     <string name="ai_settings_double_click_title">Double press</string>
-     <string name="ai_settings_long_click_category">Press and hold AI button</string>
-     <string name="ai_settings_long_click_title">Press and hold</string>
-     <string name="ai_settings_single_press_des">Press the AI button to talk to Google Assistant, then release to get the answer.</string>
+     <string name="ai_settings_click_title">Premi</string>
+     <string name="ai_settings_double_click_category">Doppia pressione tasto AI</string>
+     <string name="ai_settings_double_click_title">Doppia pressione</string>
+     <string name="ai_settings_long_click_category">Tieni premuto il tasto AI</string>
+     <string name="ai_settings_long_click_title">Tieni premuto</string>
+     <string name="ai_settings_single_press_des">Premi il tasto AI per parlare con Google Assistant, quindi rilascia per avere la risposta.</string>
      <string name="airplane_mode">Modalità aereo</string>
      <string name="alarm_ringtone_title">Suoneria predefinita sveglia</string>
      <string name="alarm_sound_dialog_title">Scegli suono sveglia</string>
@@ -540,8 +540,8 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="auto_disable_screenbuttons_summary">Disattiva automaticamente i tasti di navigazione quando utilizzi certe app. Tocca due volte qualsiasi tasto di navigazione per riattivarli.</string>
      <string name="auto_disable_screenbuttons_title">Disattiva automaticamente i tasti di navigazione</string>
      <string name="auto_dual_clock_aod_summary">Show Dual Clock when current time is different from that on the second clock</string>
-     <string name="auto_dual_clock_summary">Show Dual Clock when current time is different from that on the second clock</string>
-     <string name="auto_dual_clock_title">Dual clock</string>
+     <string name="auto_dual_clock_summary">"Mostra l'Orologio Doppio quando l'orario corrente è diverso da quello dell'orologio secondario"</string>
+     <string name="auto_dual_clock_title">Orologio Doppio</string>
      <string name="auto_launch_disable_text">Nessuna applicazione predefinita impostata.</string>
      <string name="auto_launch_enable_text">Hai scelto di avviare questa applicazione per impostazione predefinita per alcune azioni.</string>
      <string name="auto_launch_label">Avvia per impostazione predefinita</string>
@@ -1139,13 +1139,13 @@ Frequenza Campione"</string>
      <string name="bssid_label">BSSID:</string>
      <string name="bt_aac_dialog_summary">"Current device supports AAC codec. However, AAC may fail to play sound due to compatibility issues. Your device switched to SBC codec automatically.
 You can change this in the Settings."</string>
-     <string name="bt_aac_dialog_title">Bluetooth connection</string>
-     <string name="bt_aac_open_dialog_summary">"AAC may fail to play sound due to compatibility issues.
-You can turn this feature off in the Settings > Bluetooth > Paired devices."</string>
-     <string name="bt_aac_open_dialog_title">Switching to AAC codec</string>
+     <string name="bt_aac_dialog_title">Connessione Bluetooth</string>
+     <string name="bt_aac_open_dialog_summary">"I file AAC potrebbero non essere riprodotti a causa di problemi di compatibilità.
+Puoi disattivare questa funzione in Impostazioni > Bluetooth > Dispositivi abbinati."</string>
+     <string name="bt_aac_open_dialog_title">Passaggio a codec AAC</string>
      <string name="bt_aac_pre_title">AAC</string>
-     <string name="bt_dialog_remember_choice">Remember choice</string>
-     <string name="bt_dialog_settings">Settings</string>
+     <string name="bt_dialog_remember_choice">Ricorda la scelta</string>
+     <string name="bt_dialog_settings">Impostazioni</string>
      <string name="bt_hci_snoop_log">Attiva log di esame HCI Bluetooth</string>
      <string name="bt_hci_snoop_log_summary">Acquisisci tutti i pacchetti HCI Bluetooth in un file</string>
      <string name="bt_ldac_declaration">"Quando il dispositivo Bluetooth supporta la funzionalità LDAC, questo verrà connesso per impostazione predefinita. LDAC offre un'esperienza audio di alta qualità ma a discapito del consumo energetico. La riproduzione potrebbe non verificarsi a causa delle limitazioni dell'hardware Bluetooth"</string>
@@ -1673,9 +1673,9 @@ avviso"</string>
      <string name="date_time_set_timezone_title">Fuso orario</string>
      <string name="date_time_settings">Data e ora</string>
      <string name="day_of_week">Giorno della settimana</string>
-     <string name="dc_light_dialog_summary">Image quality might be affected when Anti-flicker mode is on. Turn on anyway?</string>
-     <string name="dc_light_summary">Apply DC dimming to reduce eye strain</string>
-     <string name="dc_light_title">Anti-flicker mode</string>
+     <string name="dc_light_dialog_summary">La qualità dell'immagine potrebbe essere variare quando la modalità Anti-Sfarfallìo. Attivare comunque?</string>
+     <string name="dc_light_summary">Attiva il dimming DC per ridurre lo sforzo degli occhi</string>
+     <string name="dc_light_title">Modalità anti-sfarfallìo</string>
      <string name="debug_app">"Seleziona l'applicazione per il debug"</string>
      <string name="debug_app_not_set">Nessuna applicazione impostata per il debug</string>
      <string name="debug_app_set">"Debug dell'applicazione: %1$s"</string>
@@ -1984,12 +1984,12 @@ Se il problema continua a verificarsi, potrebbe essere necessario disinstallare 
      <string name="doze_title">Schermo Ambient</string>
      <string name="draw_overlay">Disegno su altre app</string>
      <string name="dtmf_tone_enable_title">Toni tastierino</string>
-     <string name="dual_clock">Dual clock</string>
-     <string name="dual_clock_aod_hint">"\"Dual Clock\" relies on the following features: 1. For turned off screen, allow showing items in Settings > Display; 2. For Lock screen, make sure you're using either the default or classic theme in Settings > Themes; 3. For Home screen, make sure you're using the default system clock widget."</string>
-     <string name="dual_clock_aod_open_message">Dual Clock will be displayed on the Lock screen, Home screen, and turned off screen.</string>
-     <string name="dual_clock_hint">"\"Dual Clock\" relies on the following features: 1. For Lock screen, make sure you're using either the default or classic theme in Settings > Themes; 2. For Home screen, make sure you're using the default system clock widget."</string>
-     <string name="dual_clock_ok">Got it</string>
-     <string name="dual_clock_open_message">Dual Clock will be displayed on the Lock screen, Home screen.</string>
+     <string name="dual_clock">Orologio Doppio</string>
+     <string name="dual_clock_aod_hint">"\"Orologio Doppio\" richiede le seguenti funzioni: 1. Per lo schermo disattivato, consente di vedere elementi in Impostazioni > Schermo; 2. Per la schermata di blocco, assicurati di utilizzare il tema predefinito o classico in Impostazioni > Temi; 3. Per la Home, assicurati di usare il widget orologio di sistema."</string>
+     <string name="dual_clock_aod_open_message">L'Orologio Doppio verrà mostrato nella schermata di sblocco, Home e a schermo spento.</string>
+     <string name="dual_clock_hint">"\"Orologio Doppiok\" richiede le seguenti funzioni: 1. Per la schermata di blocco, assicurati di utilizzare il tema predefinito o classico in Impostazioni > Temi; 2. er la Home, assicurati di usare il widget orologio di sistema."</string>
+     <string name="dual_clock_ok">Ho capito</string>
+     <string name="dual_clock_open_message">L'Orologio Doppio verrà mostrato nella schermata di sblocco e sulla Home .</string>
      <string name="dual_setting_simcard1">SIM 1</string>
      <string name="dual_setting_simcard2">SIM 2</string>
      <string name="dump_log">Raccogli log basati sui problemi</string>
@@ -5768,47 +5768,47 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="usage_access_title">App con accesso a dati utilizzo</string>
      <string name="usage_log">Statistiche uso app</string>
      <string name="usage_state_app_timer">Screen time</string>
-     <string name="usage_state_app_usage_detail_title">App usage details</string>
-     <string name="usage_state_app_usage_list_title">"Apps' screen time today"</string>
-     <string name="usage_state_app_usage_list_week_title">"Apps' screen time (last 7 days)"</string>
-     <string name="usage_state_app_usage_tip_title" formatted="false">Screen time between %d:00 and %d:00</string>
-     <string name="usage_state_app_use_time">App screen time</string>
-     <string name="usage_state_channel_mouth">Last 30 days</string>
-     <string name="usage_state_channel_week">Last 7 days</string>
-     <string name="usage_state_device_noti_today_tip_title" formatted="false">Notifications between %d:00 and %d:00</string>
-     <string name="usage_state_device_unlock_today_tip_title" formatted="false">Unlocked device between %d:00 and %d:00</string>
-     <string name="usage_state_friday">Fri</string>
-     <string name="usage_state_go_more">More apps</string>
+     <string name="usage_state_app_usage_detail_title">Dettagli utilizzo app</string>
+     <string name="usage_state_app_usage_list_title">Schermo attivo oggi per le app</string>
+     <string name="usage_state_app_usage_list_week_title">"Schermo attivo per le app (ultimi 7 giorni)"</string>
+     <string name="usage_state_app_usage_tip_title" formatted="false">Schermo attivo tra le %d:00 e le %d:00</string>
+     <string name="usage_state_app_use_time">Schermo attivo app</string>
+     <string name="usage_state_channel_mouth">Ultimi 30 giorni</string>
+     <string name="usage_state_channel_week">Ultimi 7 giorni</string>
+     <string name="usage_state_device_noti_today_tip_title" formatted="false">Notifiche tra le %d:00 e le %d:00</string>
+     <string name="usage_state_device_unlock_today_tip_title" formatted="false">Dispositivo sbloccato tra le %d:00 e le %d:00</string>
+     <string name="usage_state_friday">Ven</string>
+     <string name="usage_state_go_more">Altre app</string>
      <string name="usage_state_hour_minute" formatted="false">%dh %dm</string>
-     <string name="usage_state_less_one_minute">Less than 1 minute</string>
-     <string name="usage_state_monday">Mon</string>
-     <string name="usage_state_mourth_day">"'Screen time on' MMM d"</string>
-     <string name="usage_state_noti_mourth_day">"'Notifications on' MMM d"</string>
-     <string name="usage_state_notification">Manage notifications</string>
-     <string name="usage_state_notification_manager">Manage app notifications</string>
-     <string name="usage_state_remind_summary">Turn on to receive screen time alerts. You can set different time limits for weekdays and weekends.</string>
-     <string name="usage_state_remind_title">Screen time alert</string>
-     <string name="usage_state_rest_day">Weekends</string>
-     <string name="usage_state_saturday">Sat</string>
-     <string name="usage_state_set_invalid_time_toast">"Can't set time limits shorter than 1 minute"</string>
-     <string name="usage_state_sunday">Sun</string>
-     <string name="usage_state_thursday">Thu</string>
-     <string name="usage_state_today">Today</string>
-     <string name="usage_state_today_total_text">Screen time today</string>
-     <string name="usage_state_tuesday">Tue</string>
-     <string name="usage_state_unlock_mourth_day">"'Unlocked on' MMM d"</string>
-     <string name="usage_state_usage_time">Screen time</string>
-     <string name="usage_state_usage_time_remind">Screen time alert</string>
-     <string name="usage_state_use_time_remind_title">Screen time alert</string>
-     <string name="usage_state_wednesday">Wed</string>
-     <string name="usage_state_week_day_hour_minute" formatted="false">Weekends: %dh %dm</string>
-     <string name="usage_state_week_total_text">Screen time (last 7 days)</string>
+     <string name="usage_state_less_one_minute">Meno di 1 minuto</string>
+     <string name="usage_state_monday">Lun</string>
+     <string name="usage_state_mourth_day">"'Schermo attivo il' MMM d"</string>
+     <string name="usage_state_noti_mourth_day">"'Notifiche il' MMM d"</string>
+     <string name="usage_state_notification">Gestisci notifiche</string>
+     <string name="usage_state_notification_manager">GEstisci notifiche app</string>
+     <string name="usage_state_remind_summary">Attiva epr ricevere avvisi per lo schermo attivo. Puoi impostare diversi limiti di tempo per i giorni infrasettimanali e weekend.</string>
+     <string name="usage_state_remind_title">Avviso schermo attivo</string>
+     <string name="usage_state_rest_day">Weekend</string>
+     <string name="usage_state_saturday">Sab</string>
+     <string name="usage_state_set_invalid_time_toast">Impossibile impostare limiti di tempo inferiori ad 1 minuto</string>
+     <string name="usage_state_sunday">Dom</string>
+     <string name="usage_state_thursday">Gio</string>
+     <string name="usage_state_today">Oggi</string>
+     <string name="usage_state_today_total_text">Schermo attivo oggi</string>
+     <string name="usage_state_tuesday">Mar</string>
+     <string name="usage_state_unlock_mourth_day">"'Sbloccato il' MMM d"</string>
+     <string name="usage_state_usage_time">Schermo attivo</string>
+     <string name="usage_state_usage_time_remind">Avviso schermo attivo</string>
+     <string name="usage_state_use_time_remind_title">Avviso schermo attivo</string>
+     <string name="usage_state_wednesday">Mer</string>
+     <string name="usage_state_week_day_hour_minute" formatted="false">Weekend: %dh %dm</string>
+     <string name="usage_state_week_total_text">Schermo attivo (ultimi 7 giorni)</string>
      <string name="usage_state_which_mouth">MMM</string>
-     <string name="usage_state_work_day">Weekdays</string>
-     <string name="usage_state_work_day_hour_minute" formatted="false">Weekdays: %dh %dm</string>
+     <string name="usage_state_work_day">Infrasettimanale</string>
+     <string name="usage_state_work_day_hour_minute" formatted="false">Infrasettimanale: %dh %dm</string>
      <string name="usage_stats_label">Statistiche di utilizzo</string>
      <string name="usage_stats_normal_day">Weekdays</string>
-     <string name="usage_stats_week_day">Weekends</string>
+     <string name="usage_stats_week_day">Weekend</string>
      <string name="usage_time_label">Tempo di utilizzo</string>
      <string name="usage_type_actual_power">Consumi osservati</string>
      <string name="usage_type_audio">Audio</string>
@@ -5831,24 +5831,24 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="usage_type_wake_lock">Mantieni attivo</string>
      <string name="usage_type_wifi_running">Wi-Fi attivo</string>
      <string name="usagestats_app_category_miui_financial">Finance</string>
-     <string name="usagestats_app_category_miui_game">Games</string>
-     <string name="usagestats_app_category_miui_life">Lifestyle</string>
-     <string name="usagestats_app_category_miui_productivity">Productivity</string>
-     <string name="usagestats_app_category_miui_reading">Reading</string>
-     <string name="usagestats_app_category_miui_shopping">Shopping</string>
-     <string name="usagestats_app_category_miui_social">Social networks</string>
-     <string name="usagestats_app_category_miui_system">System apps</string>
-     <string name="usagestats_app_category_miui_tools">Tools</string>
-     <string name="usagestats_app_category_miui_undefined">Other</string>
-     <string name="usagestats_app_category_miui_video_etc">Music and video</string>
-     <string name="usagestats_device_notification_des">Screen time limit for today: %s</string>
-     <string name="usagestats_device_notification_des_over">"You've already reached your screen time limit today."</string>
-     <string name="usagestats_device_notification_des_reset" formatted="false">Screen time limit for today: %s | %s remaining</string>
-     <string name="usagestats_device_notification_title">Screen time alert</string>
-     <string name="usagestats_device_timeout_des" formatted="false">"You've been using your device for %dh %dm today. Have some rest!"</string>
-     <string name="usagestats_device_timeout_negative">Remind in 1 hour</string>
-     <string name="usagestats_device_timeout_positive">Got it</string>
-     <string name="usagestats_device_timeout_title">Screen time alert</string>
+     <string name="usagestats_app_category_miui_game">Giochi</string>
+     <string name="usagestats_app_category_miui_life">Vita</string>
+     <string name="usagestats_app_category_miui_productivity">Produttività</string>
+     <string name="usagestats_app_category_miui_reading">Lettura</string>
+     <string name="usagestats_app_category_miui_shopping">Acquisti</string>
+     <string name="usagestats_app_category_miui_social">Social network</string>
+     <string name="usagestats_app_category_miui_system">SApp di sistema</string>
+     <string name="usagestats_app_category_miui_tools">Strumenti</string>
+     <string name="usagestats_app_category_miui_undefined">Altro</string>
+     <string name="usagestats_app_category_miui_video_etc">Musica e video</string>
+     <string name="usagestats_device_notification_des">Limite schermo attivo per oggi: %s</string>
+     <string name="usagestats_device_notification_des_over">Hai raggiunto il tuo limite di schermo attivo per oggi.</string>
+     <string name="usagestats_device_notification_des_reset" formatted="false">Limite schermo attivo per oggi: %s | %s rimanente</string>
+     <string name="usagestats_device_notification_title">Avviso schermo attivo</string>
+     <string name="usagestats_device_timeout_des" formatted="false">"Oggi hai usato il dispositivo per %dh %dm. Riposa un po'!"</string>
+     <string name="usagestats_device_timeout_negative">Ricordamenlo tra 1 ora</string>
+     <string name="usagestats_device_timeout_positive">Ho capito</string>
+     <string name="usagestats_device_timeout_title">Avviso schermo attivo</string>
      <string name="usb_adb_input">Debug USB (Impostazioni di sicurezza)</string>
      <string name="usb_adb_input_desc">Consenti permessi e simulazione input tramite debug USB</string>
      <string name="usb_audio_disable_routing">Disattiva indirizzamento audio USB</string>
