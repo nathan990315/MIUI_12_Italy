@@ -539,7 +539,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="auto_disable_screenbuttons_rotation_title">Blocca i tasti di navigazione in landscape</string>
      <string name="auto_disable_screenbuttons_summary">Disattiva automaticamente i tasti di navigazione quando utilizzi certe app. Tocca due volte qualsiasi tasto di navigazione per riattivarli.</string>
      <string name="auto_disable_screenbuttons_title">Disattiva automaticamente i tasti di navigazione</string>
-     <string name="auto_dual_clock_aod_summary">Show Dual Clock when current time is different from that on the second clock</string>
+     <string name="auto_dual_clock_aod_summary">"Mostra l'Orologio Doppio quando l'ora attuale è diversa da quella dell'orologio secondario</string>
      <string name="auto_dual_clock_summary">"Mostra l'Orologio Doppio quando l'orario corrente è diverso da quello dell'orologio secondario"</string>
      <string name="auto_dual_clock_title">Orologio Doppio</string>
      <string name="auto_launch_disable_text">Nessuna applicazione predefinita impostata.</string>
@@ -4336,7 +4336,7 @@ Interfaccia UT: %5$s"</string>
      <string name="reset_shortcut_manager_throttling">Azzera contatori di limitazione frequenza ShortcutManager</string>
      <string name="reset_shortcut_manager_throttling_complete">Il limite di conteggio ShortcutManager è stato ripristinato</string>
      <string name="resetting_second_space_passwd">Reimpostazione password Secondo Spazio</string>
-     <string name="resident_timezone_summary">Second clock</string>
+     <string name="resident_timezone_summary">Orologio secondario</string>
      <string name="resolver_settings_label">Ordina</string>
      <string name="restore_default_apn">Ripristino delle impostazioni APN predefinite…</string>
      <string name="restore_default_apn_completed">Ripristino delle impostazioni APN predefinite completato.</string>
@@ -4873,8 +4873,8 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
      <string name="select_sim_for_calls">Chiama con</string>
      <string name="select_sim_for_data">Scegli la SIM per i dati</string>
      <string name="select_ssid_type_title">Seleziona SSID</string>
-     <string name="select_time_format_category_title">Time format</string>
-     <string name="select_time_format_title">Time format</string>
+     <string name="select_time_format_category_title">Formato orario</string>
+     <string name="select_time_format_title">Formato orario</string>
      <string name="select_to_speak_summary">Tocca gli elementi sullo schermo epr sentirli pronunciare ad alta voce</string>
      <string name="select_usb_configuration_dialog_title">Seleziona configurazione USB</string>
      <string name="select_usb_configuration_title">Seleziona configurazione USB</string>
