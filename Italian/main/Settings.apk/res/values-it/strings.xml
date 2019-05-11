@@ -4422,14 +4422,14 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="saved_wifi_delete">Elimina</string>
      <string name="scan_list_label">Risultati scansione:</string>
      <string name="screen">Schermo</string>
-     <string name="screen_cancel">Cancel</string>
+     <string name="screen_cancel">Annulla</string>
      <string name="screen_color_and_optimize">Colori e contrasto</string>
      <string name="screen_color_and_optimize_disabled">Impossibile regolare la temperatura del colore in modalità Lettura</string>
      <string name="screen_color_temperature">Temperatura colore</string>
      <string name="screen_color_temperature_and_saturation">Temperatura e saturazione colori</string>
      <string name="screen_compatibility_label">Compatibilità schermo</string>
      <string name="screen_compatibility_text">Questa applicazione potrebbe non essere stata ideata per il tuo schermo. Di seguito puoi decidere come adattarla al tuo schermo.</string>
-     <string name="screen_confirm">Turn on</string>
+     <string name="screen_confirm">Attiva</string>
      <string name="screen_effect">Contrasto e colori</string>
      <string name="screen_key_long_press">Pressione prolungata tasti</string>
      <string name="screen_key_long_press_action">Esegui funzionalità</string>
@@ -4455,7 +4455,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="screen_on_proximity_sensor_summary">Il dispositivo si bloccherà automaticamente quando riposto in una tasca</string>
      <string name="screen_on_proximity_sensor_title">Prevenzione chiamate dalla tasca</string>
      <string name="screen_optimize">Contrasto</string>
-     <string name="screen_optimize_disabled">"Can't adjust contrast when Reading mode is on"</string>
+     <string name="screen_optimize_disabled">Impossibile regolare il contrasto quanto la modalità Lettura è attiva</string>
      <string name="screen_paper_mode_adjust_level">Intensità</string>
      <string name="screen_paper_mode_apps_loading">Solo un attimo\u2026</string>
      <string name="screen_paper_mode_apps_title">Utilizzano la modalità Lettura</string>
@@ -4875,7 +4875,7 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
      <string name="select_ssid_type_title">Seleziona SSID</string>
      <string name="select_time_format_category_title">Formato orario</string>
      <string name="select_time_format_title">Formato orario</string>
-     <string name="select_to_speak_summary">Tocca gli elementi sullo schermo epr sentirli pronunciare ad alta voce</string>
+     <string name="select_to_speak_summary">Tocca gli elementi sullo schermo per sentirli pronunciare ad alta voce</string>
      <string name="select_usb_configuration_dialog_title">Seleziona configurazione USB</string>
      <string name="select_usb_configuration_title">Seleziona configurazione USB</string>
      <string name="select_webview_provider_dialog_title">Imposta implementazione WebView</string>
@@ -4893,7 +4893,7 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
      <string name="set_data_limit">Imposta limite dati</string>
      <string name="set_data_warning">Imposta avviso dati</string>
      <string name="set_jeejen_prompt_message">Jeejen verrà impostato come launcher predefinito. Puoi modificare il launcher predefinito in impostazioni > Impostazioni di Sistema > Home e Recenti > Launcher predefinito.</string>
-     <string name="set_jeejen_prompt_title">Confirma moifiche</string>
+     <string name="set_jeejen_prompt_title">Conferma modifiche</string>
      <string name="setting_privacy_password">Imposta la password di protezione privacy</string>
      <string name="settings_ad_loading">Caricamento…</string>
      <string name="settings_ad_loading_unavailable">Si è verificato un problema durante il caricamento</string>
@@ -5084,7 +5084,7 @@ Il PIN potrebbe essere errato."</string>
      <string name="slider_button_title">Modifica</string>
      <string name="slider_choose_app">"Scegli un'app"</string>
      <string name="slider_game_page_code">00008</string>
-     <string name="slider_game_tool_summary">Push the screen down to view available shortcuts while playing a game</string>
+     <string name="slider_game_tool_summary">Scorri lo schermo in basso per vedere i collegamenti disponibili mentre giochi</string>
      <string name="slider_game_tool_tilte">Collegamenti gioco</string>
      <string name="slider_global_summary_app">"Spingi lo schermo in basso per aprire un'app"</string>
      <string name="slider_global_summary_drawer">Spingi lo schermo in basso per vedere i collegamenti disponibili</string>
@@ -5137,7 +5137,7 @@ Il PIN potrebbe essere errato."</string>
      <string name="sort_max_use">Ordina per massimo utilizzo</string>
      <string name="sort_order_alpha">Ordina per nome</string>
      <string name="sort_order_frequent_notification">Più frequente</string>
-     <string name="sort_order_recent_notification">Piu recente</string>
+     <string name="sort_order_recent_notification">Più recente</string>
      <string name="sort_order_size">Ordina per dimensioni</string>
      <string name="sos_privacy_and_content_policy">Accordo utente e Informativa sulla privacy</string>
      <string name="sos_privacy_dialog_button_cancel">Annulla</string>
@@ -5463,7 +5463,7 @@ Prova ad utilizzare una ^3 più veloce, o usa questa ^4 come memoria portatile"<
      <string name="swipe_up_to_switch_apps_suggestion_title">Prova il nuovo pulsante Home</string>
      <string name="swipe_up_to_switch_apps_summary">"Per cambiare app, scorri verso l'alto sul pulsante Home. Scorri ancora verso l'alto per vedere tutte le app. Funziona da qualsiasi schermo. Non ci sarà più un pulsante Panoramica in basso a destra dello schermo."</string>
      <string name="swipe_up_to_switch_apps_title">"Scorri verso l'alto sul pulsante Home"</string>
-     <string name="switch_access_service_on">Switch Access</string>
+     <string name="switch_access_service_on">Cambia Accesso</string>
      <string name="switch_off_text">Disattivato</string>
      <string name="switch_on_text">Attivato</string>
      <string name="switch_screen_button_order">"Modifica l'ordine dei tasti virtuali"</string>
@@ -5805,7 +5805,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="usage_state_noti_mourth_day">Notifiche %s</string>
      <string name="usage_state_notification">Gestisci notifiche</string>
      <string name="usage_state_notification_manager">Gestisci notifiche app</string>
-     <string name="usage_state_remind_summary">Attiva epr ricevere avvisi per lo schermo attivo. Puoi impostare diversi limiti di tempo per i giorni infrasettimanali e weekend.</string>
+     <string name="usage_state_remind_summary">Attiva per ricevere avvisi per lo schermo attivo. Puoi impostare diversi limiti di tempo per i giorni infrasettimanali e weekend.</string>
      <string name="usage_state_remind_title">Avviso schermo attivo</string>
      <string name="usage_state_rest_day">Weekend</string>
      <string name="usage_state_saturday">Sab</string>
@@ -5826,7 +5826,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="usage_state_work_day">Infrasettimanale</string>
      <string name="usage_state_work_day_hour_minute" formatted="false">Infrasettimanale: %dh %dm</string>
      <string name="usage_stats_label">Statistiche di utilizzo</string>
-     <string name="usage_stats_normal_day">Weekdays</string>
+     <string name="usage_stats_normal_day">Infraasettimanale</string>
      <string name="usage_stats_week_day">Weekend</string>
      <string name="usage_time_label">Tempo di utilizzo</string>
      <string name="usage_type_actual_power">Consumi osservati</string>
@@ -5849,14 +5849,14 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="usage_type_video">Video</string>
      <string name="usage_type_wake_lock">Mantieni attivo</string>
      <string name="usage_type_wifi_running">Wi-Fi attivo</string>
-     <string name="usagestats_app_category_miui_financial">Finance</string>
+     <string name="usagestats_app_category_miui_financial">Finanza</string>
      <string name="usagestats_app_category_miui_game">Giochi</string>
      <string name="usagestats_app_category_miui_life">Vita</string>
      <string name="usagestats_app_category_miui_productivity">Produttività</string>
      <string name="usagestats_app_category_miui_reading">Lettura</string>
      <string name="usagestats_app_category_miui_shopping">Acquisti</string>
      <string name="usagestats_app_category_miui_social">Social network</string>
-     <string name="usagestats_app_category_miui_system">SApp di sistema</string>
+     <string name="usagestats_app_category_miui_system">App di sistema</string>
      <string name="usagestats_app_category_miui_tools">Strumenti</string>
      <string name="usagestats_app_category_miui_undefined">Altro</string>
      <string name="usagestats_app_category_miui_video_etc">Musica e video</string>
@@ -5865,7 +5865,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
      <string name="usagestats_device_notification_des_reset" formatted="false">Limite schermo attivo per oggi: %s | %s rimanente</string>
      <string name="usagestats_device_notification_title">Avviso schermo attivo</string>
      <string name="usagestats_device_timeout_des" formatted="false">"Oggi hai usato il dispositivo per %dh %dm. Riposa un po'!"</string>
-     <string name="usagestats_device_timeout_negative">Ricordamenlo tra 1 ora</string>
+     <string name="usagestats_device_timeout_negative">Ricordamelo tra 1 ora</string>
      <string name="usagestats_device_timeout_positive">Ho capito</string>
      <string name="usagestats_device_timeout_title">Avviso schermo attivo</string>
      <string name="usb_adb_input">Debug USB (Impostazioni di sicurezza)</string>
@@ -6148,7 +6148,7 @@ Aggiungi una parola toccando il tasto +."</string>
      <string name="vpn_connect_to">Connessione a %s</string>
      <string name="vpn_create">Aggiungi profilo VPN</string>
      <string name="vpn_disconnect">Disconnetti</string>
-     <string name="vpn_disconnect_confirm">Disconnetti questo VPN.</string>
+     <string name="vpn_disconnect_confirm">Disconnetti questa VPN.</string>
      <string name="vpn_disconnected">Disconnesso da VPN</string>
      <string name="vpn_disconnected_summary">Nessuno</string>
      <string name="vpn_dns_servers">Server DNS</string>
@@ -6548,8 +6548,8 @@ L'impostazione della rete come nascosta non cambierà le impostazioni del router
      <string name="wifi_priority_type_title">Impostazione manuale priorità AP</string>
      <string name="wifi_property">Proprietà Wi-Fi</string>
      <string name="wifi_protection_on">On</string>
-     <string name="wifi_protection_settings_title">Protection from WLAN probe requests</string>
-     <string name="wifi_protection_tip">MIUI will protect your personal data from WLAN probe requests coming from random MAC addresses and WLAN probe sniffers when your device is searching for WLAN networks.</string>
+     <string name="wifi_protection_settings_title">Protezione da richieste WLAN probe</string>
+     <string name="wifi_protection_tip">MIUI proteggerà i tuoi dati personali dalle richieste WLAN probe in arrivo da indirizzi MAC casuali e Wi-Fi probe sniffer quando il dispositivo è in cerca di reti Wi-Fi.</string>
      <string name="wifi_quick_toggle_summary">Attiva Wi-Fi</string>
      <string name="wifi_quick_toggle_title">Wi-Fi</string>
      <string name="wifi_remembered">Salvata</string>
