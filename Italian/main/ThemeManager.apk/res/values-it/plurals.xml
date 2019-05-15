@@ -5,12 +5,12 @@
         <item quantity="one">%d commento</item>
      </plurals>
      <plurals name="resource_rating">
-        <item quantity="other">%1$.1f points</item>
-        <item quantity="one">%1$.1f point</item>
+        <item quantity="other">%1$.1f punti</item>
+        <item quantity="one">%1$.1f punto</item>
      </plurals>
      <plurals name="ringtone_nums">
-        <item quantity="other">%1$s ringtones</item>
-        <item quantity="one">%1$s ringtone</item>
+        <item quantity="other">%1$s suonerie</item>
+        <item quantity="one">%1$s suoneria</item>
      </plurals>
      <plurals name="theme_batch_has_update_text">
         <item quantity="other">Aggiornamenti disponibili per %1$d temi.</item>
@@ -33,12 +33,12 @@
         <item quantity="one">%1$d app trovata</item>
      </plurals>
      <plurals name="trial_countdown_notification_tip">
-        <item quantity="other">"You'll be able to try \"%2$s\" for free in %1$d hours"</item>
-        <item quantity="one">"You'll be able to try \"%2$s\" for free in %1$d hour"</item>
+        <item quantity="other">Potrai provare gratuitamente \"%2$s\" ancora per %1$d ore</item>
+        <item quantity="one">Potrai provare gratuitamentey \"%2$s\" ancora per %1$d ora</item>
      </plurals>
      <plurals name="try_3_day">
-        <item quantity="other">3-day free trial (%1$d items left for today)</item>
-        <item quantity="one">3-day free trial (%1$d item left for today)</item>
+        <item quantity="other">Prova gratuita di 3 giorni (%1$d elementi rimanenti per oggi)</item>
+        <item quantity="one">Prova gratuita di 3 giorni (%1$d elemento rimanente per oggi)</item>
      </plurals>
      <plurals name="wallpaper_staggered_item_text">
         <item quantity="other">%1$s di %2$d immagini</item>
