@@ -69,6 +69,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="zero">0 app trovate</item>
         <item quantity="one">%d app trovata</item>
      </plurals>
+     <plurals name="function_shield_num">
+        <item quantity="other">%d features</item>
+        <item quantity="one">%d feature</item>
+     </plurals>
      <plurals name="fw_blocked_count_call">
         <item quantity="other">%d chiamate</item>
         <item quantity="one">%d chiamata</item>

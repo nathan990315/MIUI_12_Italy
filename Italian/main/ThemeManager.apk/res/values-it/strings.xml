@@ -59,6 +59,7 @@ Temi rileverà quali app stai utilizzando e imposterà sfondi trasparenti nelle 
      <string name="apply_theme_with_ringtones">Utilizza la suoneria del tema</string>
      <string name="audio_duration_minutes_format">%1$d minuti</string>
      <string name="audio_duration_seconds_format">%1$d secondi</string>
+     <string name="audition_ringtone">Play</string>
      <string name="automatically_update_using_theme_tips">Aggiorna automaticamente la prossima volta</string>
      <string name="backup_theme_dialog_message">Eseguire il backup del tema corrente?</string>
      <string name="backup_theme_dialog_ok">Backup</string>
@@ -86,6 +87,7 @@ Temi rileverà quali app stai utilizzando e imposterà sfondi trasparenti nelle 
      <string name="component_title_settings_video_wallpaper">Sfondi con effetti speciali</string>
      <string name="component_title_video_wallpaper">Sfondi filmato</string>
      <string name="component_title_wallpaper">Sfondi</string>
+     <string name="count_down_tip">%ds remaining</string>
      <string name="current_using_desktop_wallpaper_text">Home</string>
      <string name="current_using_lockscreen_wallpaper_text">Schermata di blocco</string>
      <string name="current_version_incompatible">Incompatibilità di versione</string>
@@ -195,8 +197,8 @@ Temi rileverà quali app stai utilizzando e imposterà sfondi trasparenti nelle 
      <string name="in_the_end">"Nient'altro"</string>
      <string name="incall_show_apply">Video profilo per le chiamate in uscita</string>
      <string name="incall_show_apply_fail">Impossibile impostare</string>
-     <string name="incall_show_apply_success">Applicato correttamente. Per disattivare questa funzione,
-vai in Impostazioni > Suoni e vibrazione > Video profilo."</string>
+     <string name="incall_show_apply_success">"Applicato correttamente. Per disattivare questa funzione,
+vai in Impostazioni > Suoni e vibrazione > Video profilo.""</string>
      <string name="incall_show_apply_success_without_ringtone">"Applicato correttamente. Questo video non ha audioo. Verrà utilizzata la suoneria originale.
 Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Video profilo."</string>
      <string name="incall_show_find_more">Trova altro</string>
@@ -215,6 +217,7 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="item_resource_audio_optional_notification_ring">suono notifica</string>
      <string name="item_resource_audio_optional_phone_ring">suono telefono</string>
      <string name="lab">Lab Temi</string>
+     <string name="like_list">Items I liked</string>
      <string name="live_wallpaper">Sfondi animati</string>
      <string name="loading">Caricamento…</string>
      <string name="loading_resource_detail_fail">Impossibile caricare la risorsa.</string>
@@ -283,6 +286,7 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="online_precust_scenery">Scenari</string>
      <string name="online_search_hint">Cerca risorse online</string>
      <string name="password_toggle_content_description">Attiva visibilità password</string>
+     <string name="playing_ringtone">Playing</string>
      <string name="pref_privacy_policy">Informativa sulla Privacy</string>
      <string name="present_local_fonts">I miei caratteri</string>
      <string name="present_local_themes">Scaricati</string>
@@ -319,7 +323,6 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="resource_alarm_default">Sveglia</string>
      <string name="resource_app_name">Ricerca Browser</string>
      <string name="resource_apply">Applica</string>
-     <string name="resource_apply_trial">Prova adesso</string>
      <string name="resource_back">Indietro</string>
      <string name="resource_buy">Acquista</string>
      <string name="resource_can_not_selected">%1$s non è stato selezionato.</string>
@@ -391,7 +394,6 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="resource_download">Download</string>
      <string name="resource_download_notification_title_many">%1$s temi scaricati</string>
      <string name="resource_download_notification_title_one">Temi scaricati</string>
-     <string name="resource_download_trial">Prova gratis</string>
      <string name="resource_downloaded_title">Risorse scaricate</string>
      <string name="resource_downloading">Download in corso</string>
      <string name="resource_exchange">Riscatta codice</string>
@@ -554,8 +556,6 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="theme_changed_failed_message">Cambio tema non riuscito</string>
      <string name="theme_changed_message">Applicato con successo</string>
      <string name="theme_changing_dialog_title">Installazione nuovo tema, attendere…</string>
-     <string name="theme_comment_dialog_message">Vota questa app e lasciaci il tuo feedback.</string>
-     <string name="theme_comment_dialog_ok">Vota</string>
      <string name="theme_component_title_alarm">Suonerie sveglia</string>
      <string name="theme_component_title_alarmstyle">Stili sveglia</string>
      <string name="theme_component_title_all">Temi</string>
@@ -605,7 +605,6 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="theme_select_others">Sfoglia</string>
      <string name="theme_setting">Impostazioni</string>
      <string name="theme_staggered_item_text">Ricevi Mi Credits</string>
-     <string name="theme_to_comment">Non male!</string>
      <string name="theme_user_agreement_allow">"D'accordo"</string>
      <string name="theme_user_agreement_content1">"Premendo D'accordo, accetti i termini indicati nel nostro "</string>
      <string name="theme_user_agreement_content2">Accordo utente</string>
@@ -648,6 +647,13 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="transparent_wallpaper_white_wallpaper_failed">Impossibile impostare il background bianco</string>
      <string name="transparent_wallpaper_white_wallpaper_success">Il colore del background adesso è biancow</string>
      <string name="transparent_wallpaper_white_wallpaper_tip">Lo sfondo trasparente rende meglio con un background bianco</string>
+     <string name="trial_count_empty">No more free items left for today. Come back tomorrow!</string>
+     <string name="trial_count_tip">Trial period ends in %1$s:%2$s:%3$s</string>
+     <string name="trial_for_free">Free trial</string>
+     <string name="trial_get_failed_tip">Finish watching the video to get the theme.</string>
+     <string name="trial_get_success_tip">"Congrats! You've got a 3-day free trial."</string>
+     <string name="trial_now">Try now</string>
+     <string name="try_5_min">Try for 5 minutes</string>
      <string name="uid_change_dialog_message">Hai eliminato gli aggiornamenti. Riavvia il dispositivo per poter utilizzare i temi.</string>
      <string name="uid_change_dialog_ok">Ho capito</string>
      <string name="uid_change_dialog_title">Riavvia dispositivo</string>
@@ -665,6 +671,11 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="using_theme_next_automatic_update">Aggiornamenti automatici</string>
      <string name="using_theme_next_automatic_update_summary">Aggiorna automaticamente i temi scaricati tramite Wi-Fi quando lo schermo è bloccato</string>
      <string name="using_theme_show_ad">Mostra pubblicità</string>
+     <string name="video_ad_click">Try now</string>
+     <string name="video_ad_try_for_free">Free trial</string>
+     <string name="video_ad_uncomplete_tip">Finish watching the video to get the theme.</string>
+     <string name="video_ad_uncomplete_tip_cancel">Cancel</string>
+     <string name="video_ad_uncomplete_tip_continue">Keep watching</string>
      <string name="video_audio_apply_success">Configurazione video con suono riuscita</string>
      <string name="video_data_tips_message">"L'utilizzo di dati mobili può comportare costi aggiuntivi. Continuare comunque?"</string>
      <string name="video_data_tips_title">Avviso utilizzo dati</string>

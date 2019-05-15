@@ -553,6 +553,7 @@ se dimenticata"</string>
      <string name="charging_text_battery_nearly_full">Quasi carico</string>
      <string name="charging_text_battery_perfect">Carica completata\u0020</string>
      <string name="choose">Scegli</string>
+     <string name="choose_gs_show_way">Select home page orientation</string>
      <string name="clean_immediately">Pulisci</string>
      <string name="cleaned">Puliti</string>
      <string name="clear_garbage">Svuota il cestino per liberare spazio</string>
@@ -914,8 +915,12 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="free_time_traffic_title">Inserisci limite dati fuori soglia</string>
      <string name="free_traffic_settings">Impostazioni utilizzo dati fuori soglia</string>
      <string name="function_close">Disattivato</string>
+     <string name="function_shield_auto_bright">Turn off auto brightness</string>
+     <string name="function_shield_eye_shield">Turn off Reading mode</string>
+     <string name="function_shield_pull_notification_bar">"Don't open Notification shade"</string>
+     <string name="function_shield_settings_title">Restrict the following features when playing games</string>
      <string name="function_shield_summary">Limita la luminosità automatica, screenshot con tre dita e Modalità Lettura</string>
-     <string name="function_shield_summary_m">Limita luminosità automatica e screenshot con tre dita</string>
+     <string name="function_shield_three_finger">Restrict screenshot gestures</string>
      <string name="function_shield_title">Esperienza migliorata</string>
      <string name="fw_blocked">Blacklist</string>
      <string name="fw_blocked_count">"Bloccati "</string>
@@ -1070,6 +1075,9 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="gs_open_game_booster_summary">Migliora la velocità di rete per i giochi</string>
      <string name="gs_performance_mode">Modalità prestazioni</string>
      <string name="gs_performance_mode_detail">"Aumenta l'utilizzo della CPU per garantire prestazioni migliori"</string>
+     <string name="gs_show_way">Home page orientation</string>
+     <string name="gs_show_way_horizontal">Horizontal</string>
+     <string name="gs_show_way_vertical">Vertical</string>
      <string name="gs_sign_notification">Ricordami di registrarmi ogni giorno alle 8 di sera</string>
      <string name="gs_slip_gamebox_detail">Utilizza lo slider per mostrare il pannello dei collegamenti. Sono disponibili risposte rapide e opzioni di registrazione dello schermo.</string>
      <string name="guide_get_operator_error">"Operatore errato?"</string>

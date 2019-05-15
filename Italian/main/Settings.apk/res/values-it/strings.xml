@@ -539,7 +539,7 @@ Vuoi abilitare le finestre flottanti?"</string>
      <string name="auto_disable_screenbuttons_rotation_title">Blocca i tasti di navigazione in landscape</string>
      <string name="auto_disable_screenbuttons_summary">Disattiva automaticamente i tasti di navigazione quando utilizzi certe app. Tocca due volte qualsiasi tasto di navigazione per riattivarli.</string>
      <string name="auto_disable_screenbuttons_title">Disattiva automaticamente i tasti di navigazione</string>
-     <string name="auto_dual_clock_aod_summary">"Mostra l'Orologio Doppio quando l'ora attuale è diversa da quella dell'orologio secondario</string>
+     <string name="auto_dual_clock_aod_summary">""Mostra l'Orologio Doppio quando l'ora attuale è diversa da quella dell'orologio secondario"</string>
      <string name="auto_dual_clock_summary">"Mostra l'Orologio Doppio quando l'orario corrente è diverso da quello dell'orologio secondario"</string>
      <string name="auto_dual_clock_title">Orologio Doppio</string>
      <string name="auto_launch_disable_text">Nessuna applicazione predefinita impostata.</string>
@@ -1692,6 +1692,7 @@ avviso"</string>
      <string name="day_of_week">Giorno della settimana</string>
      <string name="dc_light_dialog_summary">"La qualità dell'immagine potrebbe essere variare quando la modalità Anti-Sfarfallìo. Attivare comunque?"</string>
      <string name="dc_light_summary">Attiva il dimming DC per ridurre lo sforzo degli occhi</string>
+     <string name="dc_light_summary_new">DC dimming reduces eye strain in low light conditions. However, image quality might be affected when Anti-flicker mode is on.</string>
      <string name="dc_light_title">Modalità anti-sfarfallìo</string>
      <string name="debug_app">"Seleziona l'applicazione per il debug"</string>
      <string name="debug_app_not_set">Nessuna applicazione impostata per il debug</string>
@@ -4593,6 +4594,7 @@ Come usare Mantieni su schermo:
      <string name="search_accessibility_screen_magnification_title">Gesture di ingrandimento</string>
      <string name="search_accessibility_settings">Accessibilità</string>
      <string name="search_account_list">Altri account;Account;Account</string>
+     <string name="search_add_facerecoginition_text">Face unlock;Face recognition</string>
      <string name="search_advanced_settings">Impostazioni avanzate;Wifi;Impostazioni Wifi;Impostazioni WLAN</string>
      <string name="search_airplane_mode">Modalità aereo;Modalità aeroplano;Modalità volo;Aereo;Aeroplano;Volo</string>
      <string name="search_alarm_sound_title">Suono sveglia</string>
@@ -4661,6 +4663,7 @@ Come usare Mantieni su schermo:
      <string name="search_lock_settings">Blocca schermo e password;Sblocco Bluetooth;Codice di accesso;Sblocca con dispositivo Bluetooth</string>
      <string name="search_lock_sounds_enable_title">Suoni Blocco schermo</string>
      <string name="search_manage_device_admin">Amministratore dispositivo</string>
+     <string name="search_manage_facerecoginition_text">Face unlock;Face recognition</string>
      <string name="search_manage_notification_access_title">Accesso notifiche</string>
      <string name="search_master_clear_title">Ripristina alle impostazioni di fabbrica</string>
      <string name="search_menu">Ricerca</string>

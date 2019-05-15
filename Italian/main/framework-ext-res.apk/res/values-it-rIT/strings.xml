@@ -149,6 +149,8 @@ Per attivare questa funzionalità, vai in Impostazioni > Sistema > Tasti"</strin
      <string name="silence_mode">Modalità silenziosa</string>
      <string name="sim_added_reboot_confirm">Riavvia</string>
      <string name="sim_added_reboot_title">La SIM verrà attivata dopo il riavvio del dispositivo.</string>
+     <string name="sim_lock_non_ais_msg">"Your SIM card isn't fully operational with this phone because it doesn't comply with the terms and conditions of your subscription. If you have any questions or need more information about this matter, please contact Xiaomi service centers or the store that sold products to you."</string>
+     <string name="sim_lock_now_ais_title">SIM%1$d</string>
      <string name="softap_notifif_summary">%d connesso</string>
      <string name="softap_notifif_title">Hotspot \"%s\" attivo</string>
      <string name="standard">Silenzioso</string>
