@@ -336,9 +336,13 @@
      <string name="news_change">Cambia</string>
      <string name="no_network">Impossibile collegarsi alla rete, riprova più tardi</string>
      <string name="no_network_btn">Riprova</string>
+     <string name="notification_garbage_cleanup_summary">Trash size reached %s</string>
+     <string name="notification_garbage_cleanup_title">Clear trash files</string>
+     <string name="notification_low_memory_cache_summary">Less than 1.5GB of storage space available</string>
+     <string name="notification_low_memory_cache_title">Clear cache</string>
+     <string name="notification_low_memory_deepclean_summary">Deep clean can free up storage on your device</string>
+     <string name="notification_low_memory_deepclean_title">Storage space running low</string>
      <string name="notification_summary_after_auto_cleanup">Pulito %s.</string>
-     <string name="notification_summary_of_garbage_cleanup">Tocca per liberare spazio.</string>
-     <string name="notification_title_of_garbage_cleanup">%s di file da eliminare</string>
      <string name="notify_when">Ricevi una notifica quando il cestino raggiunge 100 MB</string>
      <string name="ok">OK</string>
      <string name="one_tap_clean_GB">%sG</string>

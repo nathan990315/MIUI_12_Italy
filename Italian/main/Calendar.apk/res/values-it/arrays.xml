@@ -24,6 +24,10 @@
         <item>Solo questa istanza</item>
         <item>Tutti gli eventi della serie</item>
      </string-array>
+     <string-array name="close_alarm_repeating_labels">
+        <item>Just for this time</item>
+        <item>Turn off repeated reminder</item>
+     </string-array>
      <string-array name="date_calculate_spinner">
         <item>Avanti</item>
         <item>Indietro</item>
@@ -44,6 +48,7 @@
         <item>10 minuti</item>
         <item>15 minuti</item>
         <item>30 minuti</item>
+		<item>1 ora</item>
      </string-array>
      <string-array name="delete_repeating_labels">
         <item>Solo questo evento</item>
@@ -71,6 +76,10 @@
         <item>bilancia</item>
         <item>Bilancia</item>
         <item>9/23 - 10/23</item>
+     </string-array>
+     <string-array name="open_alarm_repeating_labels">
+        <item>Just for this time</item>
+        <item>Set repeated reminder</item>
      </string-array>
      <string-array name="pisces_info">
         <item>pesci</item>
