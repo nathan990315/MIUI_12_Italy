@@ -210,8 +210,8 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="one">"%2$d%% di batteria consumata in %1$d minuto"</item>
      </plurals>
      <plurals name="notification_battery_scan_consume_abnormal_title_split">
-        <item quantity="other">%2$d apps, including %1$s, are draining battery</item>
-        <item quantity="one">%2$d app, including %1$s, is draining battery</item>
+        <item quantity="other">%2$d app, incluso %1$s, stanno consumando la batteria</item>
+        <item quantity="one">%2$d app, incluso %1$s, sta consumando la batteria</item>
      </plurals>
      <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">"%d giorni dall'ultimo controllo"</item>
@@ -250,8 +250,8 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="one">+%d punto</item>
      </plurals>
      <plurals name="pc_abnormal_scan_result_model_result_title">
-        <item quantity="other">%d apps are draining battery</item>
-        <item quantity="one">%d app is draining battery</item>
+        <item quantity="other">%d sapp tanno consumando la batteria</item>
+        <item quantity="one">%d app sta consumando la batteria</item>
      </plurals>
      <plurals name="people">
         <item quantity="other">Scaricato da %1$d persone</item>

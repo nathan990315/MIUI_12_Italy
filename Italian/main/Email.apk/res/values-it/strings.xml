@@ -74,7 +74,7 @@
      <string name="account_setup_basics_manual_setup_action">Config. manuale</string>
      <string name="account_setup_basics_mi_mail_login_help">Accesso Mi Mail completato, controlla gli SMS, attiva tramite il link per poter invisre e ricevere email!</string>
      <string name="account_setup_basics_password_label">Password</string>
-     <string name="account_setup_basics_password_label_authcode">Enter password or verification code</string>
+     <string name="account_setup_basics_password_label_authcode">Inserisci password o codice di verifica</string>
      <string name="account_setup_basics_title">Impostazione account</string>
      <string name="account_setup_check_settings_check_incoming_msg">Verifica impostazioni server della posta in arrivo…</string>
      <string name="account_setup_check_settings_check_outgoing_msg">Verifica impostazioni server posta in uscita…</string>
@@ -162,7 +162,7 @@
      <string name="ad_merge">Raggruppa notizie e pubblicità</string>
      <string name="add_account">Aggiungi account</string>
      <string name="add_account_keywords">Aggiungi account;aggiungi account mail</string>
-     <string name="add_account_search">Add account</string>
+     <string name="add_account_search">Aggiungi account</string>
      <string name="add_attachment">Allega</string>
      <string name="add_calendar">Promemoria</string>
      <string name="add_file_exception">"Aggiungi eccezione. Prego, prova ad eseguire l'aggiunta da altri percorsi."</string>
@@ -207,7 +207,7 @@
      <string name="attachment_not_exists">Allegato non disponibile</string>
      <string name="attachment_open_SecurityException_hint">Verifica permessi, danni, etc.</string>
      <string name="attachment_open_SecurityException_title">Impossibile aprire il file</string>
-     <string name="attachment_opening_mode">Apps for attachments</string>
+     <string name="attachment_opening_mode">App per allegati</string>
      <string name="attachment_size_exceed_limit">Sembra che le dimensioni superino il limite del server</string>
      <string name="attachment_stop_all">Interrompi</string>
      <string name="attachment_text">Testo</string>
@@ -356,14 +356,14 @@
      <string name="default_">\u0020PREDEFINITO</string>
      <string name="default_exchange">EXCHANGE</string>
      <string name="default_imap">IMAP</string>
-     <string name="default_opening_attchemnt_mode">Open attachments using default apps</string>
+     <string name="default_opening_attchemnt_mode">"Apri gli allegati usando l'app predefinita"</string>
      <string name="default_pop3">POP3</string>
      <string name="default_setup">IMPOSTAZIONI PREDEFINITE\u0020</string>
      <string name="default_signature">Inviato tramite dispositivo Xiaomi</string>
      <string name="default_signature_2">Inviato dal mio %s</string>
      <string name="del_account_questionnair_hint">Puoi comunicarci il motivo per cui elimini questo account?</string>
      <string name="delete">Elimina</string>
-     <string name="delete_contact_content">Delete this contact now?</string>
+     <string name="delete_contact_content">Eliminare adesso questo contatto?</string>
      <string name="delete_message_flow">Elimina flusso messaggio</string>
      <string name="delete_message_flow_keywords">elimina flusso messaggio;elimina reindirizzamento</string>
      <string name="deleted">Eliminata</string>
@@ -565,11 +565,11 @@
      <string name="loading_conversations">Caricamento…</string>
      <string name="loading_from_remote">Ricerca…</string>
      <string name="local_search">Ricerca locale</string>
-     <string name="local_search_result">%s Results in synced messages</string>
+     <string name="local_search_result">%s risultati nei messaggi sincronizzati</string>
      <string name="log_save_path">Percorso salvataggio Log</string>
      <string name="login">Accedi</string>
      <string name="login139">Accedi con China Mobile</string>
-     <string name="login_err_message">The password you entered is incorrect. You might also need a verification code to sign in. If you need to reset your password, visit https://email.163.com/ to see the options available to you.</string>
+     <string name="login_err_message">La password inserita non è corretta. Potresti aver bisogno anche di un codice di verifica per poter accedere. Se devi ripristinare la password, visita https://email.163.com/ per vedere le opzioni disponibili.</string>
      <string name="login_failed_ticker">Accesso a %s non riuscito.</string>
      <string name="login_failed_title">Accesso non riuscito</string>
      <string name="login_mail">Autenticazione Mail</string>
@@ -838,7 +838,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="preview_attachment">Anteprima</string>
      <string name="previous_action">Indietro</string>
      <string name="print">Stampa</string>
-     <string name="print_scheduler_title">Print All Scheduler</string>
+     <string name="print_scheduler_title">Stampa tutti gli scheduler</string>
      <string name="privacy_policy">Informativa sulla Privacy</string>
      <string name="prompt_title">Avviso</string>
      <string name="protocol_setting_toast">"Tocca l'angolo in alto a destra per entrare nelle impostazioni dopo aver accettato"</string>
@@ -940,7 +940,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="recognize_ticket_train_return">Ritornato</string>
      <string name="recognize_ticket_train_user_name">Passeggero: %1$s</string>
      <string name="recognize_title">Informazioni di viaggio</string>
-     <string name="recommend_protocal">Recommendation protocol</string>
+     <string name="recommend_protocal">Protocollo consigliato</string>
      <string name="reduce_the_receiving_frequencye_summary">"Frequenza di sincronizzazione e-mail più bassa nell'orario preimpostato"</string>
      <string name="reduce_the_receiving_frequencye_title">Frequenza sincronizzazione ridotta</string>
      <string name="refresh">Aggiorna</string>
@@ -1113,8 +1113,8 @@ Interrompere adesso?"</string>
      <string name="unread_string">Conversazione non letta</string>
      <string name="unzip_file_failed">Impossibile decomprimere il file</string>
      <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
-     <string name="update_domain_summary">Update Domian List and Config</string>
-     <string name="update_domain_title">Update Domian</string>
+     <string name="update_domain_summary">Aggiorna lista domini e onfigurazione</string>
+     <string name="update_domain_title">Aggiorna dominio</string>
      <string name="update_to_wps_mail">Goditi più funzionalità con WPS Mail</string>
      <string name="updated_at">Ultimo aggiornamento %1$s</string>
      <string name="upload_log">Carica log</string>
@@ -1138,7 +1138,7 @@ Interrompere adesso?"</string>
      <string name="wait_for_manual_sync_body">"Questo account non è impostato per la sincronizzazione automatica.
 Tocca "<b>Sincronizza adesso</b> per sincronizzare le mail una volta, o <b>Modifica impostazioni di sincronizzazione</b> per impostare questo account per la sincronizzazione automatica."</string>
      <string name="wait_for_sync_title">In attesa di sincronizzazione</string>
-     <string name="wait_while_update_db">Wait a moment during database upgrade please!</string>
+     <string name="wait_while_update_db">"Attendi un attimo durante l'aggiornamento del database!"</string>
      <string name="webview_logout">Puoi provare ad accedere di nuovo</string>
      <string name="webview_logout_cancel">Non adesso</string>
      <string name="webview_logout_sure">Prova di nuovo</string>
