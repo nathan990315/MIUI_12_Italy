@@ -308,6 +308,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="allow_lights_title">Consenti luce pulsante</string>
      <string name="allow_mock_location">Posizioni fittizie</string>
      <string name="allow_mock_location_summary">Consenti posizioni fittizie</string>
+     <string name="allow_oaid_used">Allow using device ID</string>
      <string name="allow_overlay_description">"Questo permesso consente ad un app di visualizzare dei contenuti sopra ad altre app che stai usando e potrebbero così interferire con l'uso dell'interfaccia delle altre app, o modificare quelli che pensi di visualizzare in altre applicazioni."</string>
      <string name="allow_sound_title">Consenti suoni</string>
      <string name="allow_vibrate_title">Consenti vibrazione</string>
@@ -1060,6 +1061,7 @@ Frequenza Campione"</string>
      <string name="bluetooth_unlock_change_device_confirm_msg">Il vecchio dispositivo verrà sostituito dal dispositivo attuale.</string>
      <string name="bluetooth_unlock_change_matched_device">Scegli un altro dispositivo</string>
      <string name="bluetooth_unlock_confirm_device_text">Fai toccare i dispositivi tra di loro per sbloccare.</string>
+     <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Confirm on the band.</string>
      <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">"Tocca il tasto sull'orologio per sbloccare."</string>
      <string name="bluetooth_unlock_confirm_device_text_for_miband2">Tocca il tasto sul dispositivo per sbloccare.</string>
      <string name="bluetooth_unlock_delete_device">Rimuovi questo dispositivo</string>
@@ -1805,6 +1807,7 @@ avviso"</string>
      <string name="device_name_input_hint">Inserisci il nome</string>
      <string name="device_name_input_overlength">Oltre il limite di caratteri</string>
      <string name="device_name_usage_point">Questo nome sarà visibile ad altri dispositivi con il Bluetooth abilitato nelle vicinanze</string>
+     <string name="device_oaid">Device ID</string>
      <string name="device_picker">Scegli il dispositivo Bluetooth</string>
      <string name="device_rear_camera">Fotocamera posteriore</string>
      <string name="device_screen_consumption">Consumo schermo</string>
@@ -3069,9 +3072,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
      <string name="long_press_home_key">Tieni premuto il tasto Home</string>
      <string name="long_press_menu_key">Tieni premuto il tasto Menu</string>
      <string name="long_press_menu_key_when_lock">Tieni premuto il tasto Menu quando bloccato</string>
-     <string name="long_press_power_key">Tieni premuto il tasto accensione</string>
      <string name="long_press_power_key_half_of_second">"Tieni premuto il tasto Accensione per 0.5s per attivare l'Assistente Google"</string>
-     <string name="long_press_power_key_tips"><Data>Tieni premuto il tasto accensione &lt;font color=#999999>Più veloce e semplice&lt;/font></Data></string>
      <string name="long_press_volume_down">Tieni premuto il tasto volume basso</string>
      <string name="lost_internet_access_cancel">Rimani in Wi-Fi</string>
      <string name="lost_internet_access_persist">Non mostrare più</string>
@@ -3320,6 +3321,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_sos_statusbar_summary">Tocca per spegnere</string>
      <string name="miui_sos_statusbar_title">SOS di Emergenza è attivato</string>
      <string name="miui_special_feature">Funzionalità speciali</string>
+     <string name="miui_touch_filtered_touchassistant_warning">The permissions dialog is covered by Quick ball. Move Quick ball away or turn this feature off.</string>
      <string name="miui_touch_filtered_warning">"Se un'app blocca una finestra di permessi, trascina via l'elemento sovrapposto o chiudi l'app."</string>
      <string name="miui_updater">Aggiornamenti</string>
      <string name="miui_userguide">Guida utente</string>
@@ -3352,6 +3354,11 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="move_app_to_sdcard">Sposta sulla scheda SD</string>
      <string name="move_error_device_admin">"L'amministratore del dispositivo non può essere installato su media esterno."</string>
      <string name="moving">Spostamento</string>
+     <string name="mqs_privacy_automatically_upload">Upload automatically next time</string>
+     <string name="mqs_privacy_dialog_cancel">Cancel</string>
+     <string name="mqs_privacy_dialog_confirm">Upload</string>
+     <string name="mqs_privacy_dialog_content">Upload logs to help us locate and solve this problem? Logs may contain your personal info, including the info about your location.</string>
+     <string name="mqs_privacy_dialog_title">An error occurred</string>
      <string name="msd_driver_download">Scarica driver</string>
      <string name="msd_driver_download_mac">Per macOS, scarica <b>Android File Transfer</b> per installare i driver USB</string>
      <string name="msd_driver_download_mac_url">Ottieni i driver da http://www.android.com/filetransfer/</string>
@@ -4350,6 +4357,9 @@ Interfaccia UT: %5$s"</string>
      <string name="restore_dialog_content">"Il ripristino dell'identificazione del dispositivo resetterà i tuoi consigli personalizzati."</string>
      <string name="restore_dialog_positive">Ripristina</string>
      <string name="restore_dialog_title">Promemoria</string>
+     <string name="restore_oaid_content">Resetting your current device ID will create a new one. Reset now?</string>
+     <string name="restore_oaid_positive">Reset</string>
+     <string name="restore_oaid_title">Resetting device ID</string>
      <string name="restr_pin_enter_admin_pin">Inserisci PIN amministratore</string>
      <string name="restrict_background_blacklisted">I dati in background sono disattivati</string>
      <string name="restrict_bg_app">Limita</string>
@@ -4467,6 +4477,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="screen_paper_mode_global_summary">Utilizza la modalità Lettura per tutte le applicazioni</string>
      <string name="screen_paper_mode_global_title">Tutte le applicazioni</string>
      <string name="screen_paper_mode_hdr_toast">"La modalità lettura verrà disattivata durante la riproduzione di video HDR. Verrà riattivata automaticamente al termine della riproduzione."</string>
+     <string name="screen_paper_mode_hdr_toast_new">Reading mode will be turned off automatically during HDR video playback and fingerprint verification. Your device will switch back to Reading mode once these actions are completed.</string>
      <string name="screen_paper_mode_local_summary">Utilizza la modalità Lettura solo per le applicazioni selezionate</string>
      <string name="screen_paper_mode_local_title">Applicazioni selezionate</string>
      <string name="screen_paper_mode_off_apps_title">Non utilizzano la modalità Lettura</string>

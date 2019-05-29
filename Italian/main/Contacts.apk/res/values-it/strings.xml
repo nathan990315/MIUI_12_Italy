@@ -659,6 +659,9 @@ Motivo: \"%s\"</string>
      <string name="menu_set_ring_tone">Imposta suoneria</string>
      <string name="menu_settings">Impostazioni</string>
      <string name="menu_share">Condividi</string>
+     <string name="menu_share_qrcode">QR code</string>
+     <string name="menu_share_text">Text</string>
+     <string name="menu_share_vcard_file">File</string>
      <string name="menu_show_all_calls">Mostra tutte le chiamate</string>
      <string name="menu_show_voicemails_only">Mostra solo messaggi vocali</string>
      <string name="menu_splitAggregate">Separa</string>
@@ -1041,8 +1044,10 @@ Tocca l'icona Unisci in basso per iniziare."</string>
      <string name="set_data_package">Imposta prima un piano dati</string>
      <string name="set_default">Imposta come predefinito</string>
      <string name="set_photo_failed_msg">"Impossibile assegnare l'immagine"</string>
+     <string name="share_contact_as">Share contact as</string>
      <string name="share_error">Questo contatto non può essere condiviso.</string>
      <string name="share_over_limit">Limite superato, impossibile condividere</string>
+     <string name="share_qrcode">Share QR code</string>
      <string name="share_via">Condividi contatto tramite</string>
      <string name="share_visible_contacts">Condividi contatti visibili</string>
      <string name="shortcutActivityTitle">Scegli una scorciatoia contatto</string>

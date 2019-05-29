@@ -48,7 +48,7 @@
         <item>10 minuti</item>
         <item>15 minuti</item>
         <item>30 minuti</item>
-		<item>1 ora</item>
+        <item>1 ora</item>
      </string-array>
      <string-array name="delete_repeating_labels">
         <item>Solo questo evento</item>
@@ -85,6 +85,11 @@
         <item>pesci</item>
         <item>Pesci</item>
         <item>2/19 - 3/20</item>
+     </string-array>
+     <string-array name="prefEntries_alerts_popup">
+        <item>Off</item>
+        <item>For all events</item>
+        <item>For most relevant events</item>
      </string-array>
      <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
