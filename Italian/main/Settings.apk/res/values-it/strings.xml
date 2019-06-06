@@ -308,7 +308,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="allow_lights_title">Consenti luce pulsante</string>
      <string name="allow_mock_location">Posizioni fittizie</string>
      <string name="allow_mock_location_summary">Consenti posizioni fittizie</string>
-     <string name="allow_oaid_used">Allow using device ID</string>
+     <string name="allow_oaid_used">"Consenti l'utilizzo dell'ID del dispositivo"</string>
      <string name="allow_overlay_description">"Questo permesso consente ad un app di visualizzare dei contenuti sopra ad altre app che stai usando e potrebbero così interferire con l'uso dell'interfaccia delle altre app, o modificare quelli che pensi di visualizzare in altre applicazioni."</string>
      <string name="allow_sound_title">Consenti suoni</string>
      <string name="allow_vibrate_title">Consenti vibrazione</string>
@@ -1061,7 +1061,7 @@ Frequenza Campione"</string>
      <string name="bluetooth_unlock_change_device_confirm_msg">Il vecchio dispositivo verrà sostituito dal dispositivo attuale.</string>
      <string name="bluetooth_unlock_change_matched_device">Scegli un altro dispositivo</string>
      <string name="bluetooth_unlock_confirm_device_text">Fai toccare i dispositivi tra di loro per sbloccare.</string>
-     <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Confirm on the band.</string>
+     <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Conferma sulla band.</string>
      <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">"Tocca il tasto sull'orologio per sbloccare."</string>
      <string name="bluetooth_unlock_confirm_device_text_for_miband2">Tocca il tasto sul dispositivo per sbloccare.</string>
      <string name="bluetooth_unlock_delete_device">Rimuovi questo dispositivo</string>
@@ -1807,7 +1807,7 @@ avviso"</string>
      <string name="device_name_input_hint">Inserisci il nome</string>
      <string name="device_name_input_overlength">Oltre il limite di caratteri</string>
      <string name="device_name_usage_point">Questo nome sarà visibile ad altri dispositivi con il Bluetooth abilitato nelle vicinanze</string>
-     <string name="device_oaid">Device ID</string>
+     <string name="device_oaid">ID dispositivo</string>
      <string name="device_picker">Scegli il dispositivo Bluetooth</string>
      <string name="device_rear_camera">Fotocamera posteriore</string>
      <string name="device_screen_consumption">Consumo schermo</string>
@@ -3321,7 +3321,7 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_sos_statusbar_summary">Tocca per spegnere</string>
      <string name="miui_sos_statusbar_title">SOS di Emergenza è attivato</string>
      <string name="miui_special_feature">Funzionalità speciali</string>
-     <string name="miui_touch_filtered_touchassistant_warning">The permissions dialog is covered by Quick ball. Move Quick ball away or turn this feature off.</string>
+     <string name="miui_touch_filtered_touchassistant_warning">Il messaggio sui permessi è coperto dall'assistente Touch. Sposta o disattiva l'assistente Touch.</string>
      <string name="miui_touch_filtered_warning">"Se un'app blocca una finestra di permessi, trascina via l'elemento sovrapposto o chiudi l'app."</string>
      <string name="miui_updater">Aggiornamenti</string>
      <string name="miui_userguide">Guida utente</string>
@@ -3354,11 +3354,11 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="move_app_to_sdcard">Sposta sulla scheda SD</string>
      <string name="move_error_device_admin">"L'amministratore del dispositivo non può essere installato su media esterno."</string>
      <string name="moving">Spostamento</string>
-     <string name="mqs_privacy_automatically_upload">Upload automatically next time</string>
-     <string name="mqs_privacy_dialog_cancel">Cancel</string>
-     <string name="mqs_privacy_dialog_confirm">Upload</string>
-     <string name="mqs_privacy_dialog_content">Upload logs to help us locate and solve this problem? Logs may contain your personal info, including the info about your location.</string>
-     <string name="mqs_privacy_dialog_title">An error occurred</string>
+     <string name="mqs_privacy_automatically_upload">Carica automaticamente la prossima volta</string>
+     <string name="mqs_privacy_dialog_cancel">Annulla</string>
+     <string name="mqs_privacy_dialog_confirm">Carica</string>
+     <string name="mqs_privacy_dialog_content">Caricare log per aiutare ad indiviuare e risolvere questo problema? I log potrebbero contenere informazioni riservate, comprese le informazioni sula tua posizione.</string>
+     <string name="mqs_privacy_dialog_title">Si è verificato un errore</string>
      <string name="msd_driver_download">Scarica driver</string>
      <string name="msd_driver_download_mac">Per macOS, scarica <b>Android File Transfer</b> per installare i driver USB</string>
      <string name="msd_driver_download_mac_url">Ottieni i driver da http://www.android.com/filetransfer/</string>
@@ -4357,9 +4357,9 @@ Interfaccia UT: %5$s"</string>
      <string name="restore_dialog_content">"Il ripristino dell'identificazione del dispositivo resetterà i tuoi consigli personalizzati."</string>
      <string name="restore_dialog_positive">Ripristina</string>
      <string name="restore_dialog_title">Promemoria</string>
-     <string name="restore_oaid_content">Resetting your current device ID will create a new one. Reset now?</string>
-     <string name="restore_oaid_positive">Reset</string>
-     <string name="restore_oaid_title">Resetting device ID</string>
+     <string name="restore_oaid_content">Ripristinando l'ID del tuo dispositivo attuale ne verrà creato uno nuovo. Ripristinare adesso?</string>
+     <string name="restore_oaid_positive">Ripristina</string>
+     <string name="restore_oaid_title">Riprstino ID dispositivo</string>
      <string name="restr_pin_enter_admin_pin">Inserisci PIN amministratore</string>
      <string name="restrict_background_blacklisted">I dati in background sono disattivati</string>
      <string name="restrict_bg_app">Limita</string>
@@ -4477,7 +4477,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
      <string name="screen_paper_mode_global_summary">Utilizza la modalità Lettura per tutte le applicazioni</string>
      <string name="screen_paper_mode_global_title">Tutte le applicazioni</string>
      <string name="screen_paper_mode_hdr_toast">"La modalità lettura verrà disattivata durante la riproduzione di video HDR. Verrà riattivata automaticamente al termine della riproduzione."</string>
-     <string name="screen_paper_mode_hdr_toast_new">Reading mode will be turned off automatically during HDR video playback and fingerprint verification. Your device will switch back to Reading mode once these actions are completed.</string>
+     <string name="screen_paper_mode_hdr_toast_new">"La modalità lettura verrà disattivata automaticamente durante la riproduzione di video HDR e verifica dell'impronta. Il dispostiivo tornerà alla modalità lettura quando queste operazioni sarranno terminate."</string>
      <string name="screen_paper_mode_local_summary">Utilizza la modalità Lettura solo per le applicazioni selezionate</string>
      <string name="screen_paper_mode_local_title">Applicazioni selezionate</string>
      <string name="screen_paper_mode_off_apps_title">Non utilizzano la modalità Lettura</string>
