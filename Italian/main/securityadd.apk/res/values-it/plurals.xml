@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="install_game_count_title">
+        <item quantity="other">%d giochi aggiunti</item>
+        <item quantity="one">%d gioco aggiunto</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">%d giochi non aggiunti</item>
+        <item quantity="one">%d gioco non aggiunto</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d app trovate</item>
+        <item quantity="zero">0 app trovate</item>
+        <item quantity="one">%d app trovata</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Cerca tra %d app</item>
+        <item quantity="one">Cerca tra %d app</item>
+    </plurals>
+</resources>
