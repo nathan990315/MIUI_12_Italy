@@ -310,6 +310,7 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
      <string name="recreate_soft_ap_tips">Tocca il tasto quasotto per provare di nuovo.</string>
      <string name="refresh">Aggiorna</string>
      <string name="remote_receive">Ricevi</string>
+     <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.GET_ACCOUNTS;android.permission.ACCESS_COARSE_LOCATION;android.permission.READ_CALENDAR;android.permission.WRITE_CALENDAR;android.permission.READ_SMS;android.permission.CAMERA;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
      <string name="restore">Ripristino</string>
      <string name="restore_backup">Ripristina</string>
      <string name="restore_contact">Ripristino contatti</string>
