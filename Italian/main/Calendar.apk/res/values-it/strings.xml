@@ -44,7 +44,6 @@
      <string name="anniversary_event_title">Anniversario: %1$s</string>
      <string name="anniversary_secondary_tag">Anniversario</string>
      <string name="app_label">Calendario</string>
-     <string name="app_name">Comune</string>
      <string name="birthday_born">data di nascita</string>
      <string name="birthday_calendar_display_name">Promemoria compleanno</string>
      <string name="birthday_event_description_a_week_ago">Una settimana fa</string>
@@ -91,10 +90,7 @@
      <string name="countdown_notify_title">Promemoria: %1$s</string>
      <string name="countdown_secondary_tag">Conto alla rovescia</string>
      <string name="countdown_today">Oggi</string>
-     <string name="create_an_account_desc">"Il calendario funziona meglio con un Account Google.
-
-• Accedi da qualunque browser web
-• Salva i tuoi eventi in tutta sicurezza"</string>
+     
      <string name="creating_event">Evento creato</string>
      <string name="creating_event_with_guest">Inviti spediti</string>
      <string name="daily">Giornaliero</string>
@@ -103,7 +99,6 @@
      <string name="date_calculate_description">Scopri quanti giorni mancano ad un giorno specifico</string>
      <string name="date_calculate_direction">Direzione</string>
      <string name="date_calculate_direction_content_description">Direzione attuale %1s</string>
-     <string name="date_calculate_hint">Impara a scoprire la data esatta dopo un certo numero di giorni</string>
      <string name="date_calculate_result">Risultato</string>
      <string name="date_calculate_tab">Calcola data</string>
      <string name="date_calculate_today">0 giorni</string>
@@ -113,7 +108,6 @@
      <string name="date_interval_start">Da</string>
      <string name="date_interval_tab">Intervallo</string>
      <string name="date_interval_text_to">A %1$s</string>
-     <string name="date_jump_hint">Salta direttamente ad una data certa</string>
      <string name="date_jump_title">Salta ad una data</string>
      <string name="date_today">(oggi)</string>
      <string name="day_view_new_event_hint">+ Nuovo evento</string>
@@ -201,15 +195,6 @@
      <string name="gadget_no_events">Nessun evento</string>
      <string name="gadget_title">Calendario</string>
      <string name="global_action_text_card_manager">Un calendario più interessante</string>
-     <string name="global_cricket_no_match">"Nessuna gara prevista per oggi, puoi vedere la sintesi delle gare passate o provare con un altra partita. Fantastico evento, valeva l'attesa!"</string>
-     <string name="global_football_final">FINALE</string>
-     <string name="global_football_no_match">Nessuna partita in programma per oggi.</string>
-     <string name="global_onthisday_com">OnThisDay.com</string>
-     <string name="guide_card_close">Chiudi</string>
-     <string name="guide_card_import">Importa</string>
-     <string name="guide_card_primary_text">Importa compleanno amici</string>
-     <string name="guide_card_second_text">Importa gruppo, così da non mancare mai al compleanno di un tuo amico</string>
-     <string name="guide_card_title">Importa compleanni</string>
      <string name="hint_attendees">Indirizzi email</string>
      <string name="hint_description">Descrizione evento</string>
      <string name="hint_what">Nome evento</string>
@@ -241,7 +226,6 @@
      <string name="lunar_date">Data lunare</string>
      <string name="lunar_day" />
      <string name="lunar_to_solar" />
-     <string name="match_select_activity_label">Seleziona Affinità</string>
      <string name="menu_general_preferences">Preferenze generali</string>
      <string name="menu_reminder_preferences">Promemoria</string>
      <string name="missing_name">(Nessun nome)</string>
@@ -303,28 +287,11 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="notification_open_setting_message">"Non potrai ricevere notifiche sugli eventi a meno che non consenta al Calendario di inviarle."</string>
      <string name="notification_open_setting_title">Consentire le notifiche del Calendario?</string>
      <string name="olympic_vs">VS</string>
-     <string name="panchang_amanta">Amanta</string>
-     <string name="panchang_amanta_month">Mese Amanta:</string>
-     <string name="panchang_ayana">Ayana</string>
-     <string name="panchang_gulikai_kalam">Gulikai Kalam</string>
-     <string name="panchang_hindu_lunar_month">Mese Lunare Hindu</string>
-     <string name="panchang_inauspicious_timings">Periodi non favorevoli</string>
-     <string name="panchang_karan">Karan</string>
-     <string name="panchang_moon_sign">Segno lunare</string>
-     <string name="panchang_nakshatra">Nakshatra</string>
-     <string name="panchang_purnimanta">Purnimanta</string>
-     <string name="panchang_purnimanta_month">Mese Purnimanta:</string>
-     <string name="panchang_rahu_kalam">Rahu Kalam</string>
-     <string name="panchang_ritu">Ritu</string>
-     <string name="panchang_shaka_samvat">Shaka Samvat</string>
-     <string name="panchang_sun_sign">Segno solare</string>
-     <string name="panchang_tithi">Tithi</string>
-     <string name="panchang_to"> al </string>
-     <string name="panchang_upto"> fino al </string>
-     <string name="panchang_vikram_samvat">Vikram Samvat</string>
-     <string name="panchang_yamaghanta">Yamaghanta</string>
-     <string name="panchang_yog">Yog</string>
      <string name="path_calendar_settings">Applicazioni di sistema/Calendario/Impostazioni</string>
+     <string name="permission_accounts">Per l'accesso e la gestione dell'account di sistema e l'associazione di elementi</string>
+     <string name="permission_contacts">Per sincronizzare i compleanni dei tuoi contatti e inviare promemoria</string>
+     <string name="permission_main_purpose">Visualizzazione e gestione degli eventi del calendario, pianificazione dei viaggi, ricezione di promemoria e sottoscrizione dei servizi</string>
+     <string name="permission_storage">Per salvare promemoria e suonerie</string>
      <string name="pengzu" />
      <string name="prefDialogTitle_vibrateWhen">Vibrazione</string>
      <string name="pref_reminder_time">Orario promemoria</string>
