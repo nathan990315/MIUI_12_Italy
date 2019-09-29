@@ -297,12 +297,10 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="pref_reminder_time">Orario promemoria</string>
      <string name="pref_title_alarm_remind">Avviso sonoro</string>
      <string name="pref_title_no_remind">Nessun avviso</string>
-     <string name="pref_title_notification_remind">Avviso con notifica</string>
      <string name="preferences_alarms_category_title">Promemoria sveglia</string>
      <string name="preferences_alarms_default_event">Seleziona eventi</string>
      <string name="preferences_alarms_sound">Suono</string>
      <string name="preferences_alarms_vibrateWhen">Vibrazione</string>
-     <string name="preferences_alerts_ringtone_title">Suoni</string>
      <string name="preferences_alerts_vibrateWhen_title">Vibrazione</string>
      <string name="preferences_alerts_vibrate_title">Vibrazione e suoneria</string>
      <string name="preferences_allow_remind">Consenti promemoria</string>
@@ -311,8 +309,6 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="preferences_default_reminder_title">Orario promemoria</string>
      <string name="preferences_home_tz_title">Orario predefinito</string>
      <string name="preferences_notification_ringtone_title">Suoni</string>
-     <string name="preferences_popup_alert_smart_summary">MIUI determinerà automaticamente quali sono gli eventi più rilevanti</string>
-     <string name="preferences_popup_alert_smart_tips">"Sostituisci le nofiche tradizionali con avvisi pop-up per evitare di perdere eventi importanti. Gli avvisi pop-up non compariranno quando giochi, quando guardi video a tutto schermo o in modalità Auto."</string>
      <string name="preferences_popup_alert_title">Avvisi pop-up</string>
      <string name="preferences_title">Calendario</string>
      <string name="preferences_use_home_tz_descrip">Mostra orario eventi con il fuso orario predefinito</string>
@@ -328,7 +324,6 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="repeat_activity_label">Ripeti</string>
      <string name="repeat_alarm_changed_credit_event">Ricorda sempre i conti delle carte di credito</string>
      <string name="repeat_alarm_changed_electricity_event">"Ricorda sempre le bollette dell'elettricità"</string>
-     <string name="repeat_alarm_changed_event">Imposta promemoria ripetuto</string>
      <string name="repeat_alarm_changed_flight_event">Ricorda sempre i voli</string>
      <string name="repeat_alarm_changed_gas_event">Ricorda sempre le bollette del gas</string>
      <string name="repeat_alarm_changed_hotel_event">Ricorda sempre gli hotel</string>
@@ -408,11 +403,6 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="subscribe_card">Iscriviti adesso</string>
      <string name="subscribe_card_success">Iscritto correttamente! Verifica i dettagli sulla home.</string>
      <string name="subscribe_card_success_for_homepage">Iscritto a “%1$s” correttamente</string>
-     <string name="subscribe_channel_bottom_hint">—— Mi Calendar ——</string>
-     <string name="subscribe_channel_footer_desc">Controlla la tua sottoscrizione o annullala</string>
-     <string name="subscribe_channel_footer_title">Sottoscritto</string>
-     <string name="subscribe_channel_hint">"Iscriviti al servizio che preferisci e ricevi aggiornamenti quotidiani sulla tua home.
-Puoi anche aggiungere dei promemoria per non perdere niente di importante."</string>
      <string name="subscribe_channel_subscribe">Sottoscrivi</string>
      <string name="subscribe_channel_subscribing">Sottoscrizione in corso</string>
      <string name="subscribe_channel_title">Canale</string>
@@ -454,16 +444,13 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="train_event_station_header_name">Nome della stazione</string>
      <string name="train_event_station_header_stay_time">Attesa</string>
      <string name="train_event_station_stay_time">%1$s minuti</string>
-     <string name="travel_airport">Aeroporto</string>
      <string name="travel_carriage_number_text">Macchina</string>
-     <string name="travel_ets_advice">Guida fino a %2$s prima %1$s.</string>
      <string name="travel_event_add_successfully">Evento creato</string>
      <string name="travel_event_title_flight">Volo: %1$s-%2$s %3$s</string>
      <string name="travel_event_title_train">Treno: %1$s-%2$s %3$s</string>
      <string name="travel_event_title_train_only_dep">Treno: %1$s %2$s</string>
      <string name="travel_item_reminder">Avviso</string>
      <string name="travel_item_reminder_overdue">Attenzione</string>
-     <string name="travel_item_trafic">Traffico</string>
      <string name="travel_item_virtual_sim">SIM Virtuale Mi</string>
      <string name="travel_item_weather_forecast">Località previsioni</string>
      <string name="travel_item_weather_now">Località meteo</string>
@@ -473,7 +460,6 @@ Puoi anche aggiungere dei promemoria per non perdere niente di importante."</str
      <string name="travel_local">Destinazione</string>
      <string name="travel_seat_number_text">Numero posto</string>
      <string name="travel_train_number_text">Treno</string>
-     <string name="travel_train_station">Stazione ferroviaria</string>
      <string name="unsubscribe_card">Annulla iscrizione</string>
      <string name="unsubscribe_card_success">Iscrizione a“%1$s” annullata correttamente</string>
      <string name="unsubscribing_card">Annullamento iscrizione</string>
