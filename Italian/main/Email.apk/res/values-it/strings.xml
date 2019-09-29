@@ -282,6 +282,7 @@
      <string name="config_cancel">Annulla</string>
      <string name="config_retry">Riprova</string>
      <string name="confirm">OK</string>
+     <string name="confirm_age">Conferma età</string>
      <string name="confirm_before_delete">Conferma prima di eliminare</string>
      <string name="confirm_before_delete_keywords">conferma prima di eliminare;conferma eliminazione</string>
      <string name="confirm_before_send">Conferma prima di inviare</string>
@@ -536,6 +537,7 @@
      <string name="header_category_other">Segnalazione bug</string>
      <string name="header_label_general_preferences">Generali</string>
      <string name="help_and_info">Guida</string>
+     <string name="help_email_title">MI Mail</string>
      <string name="help_me_get_qq_auth">Aiuto con il codice di autorizzaizone QQ</string>
      <string name="hide_elided">▼ Nascondi testo citato</string>
      <string name="hide_password">hide password</string>
@@ -754,7 +756,9 @@ Prova con una diverso account."</string>
      <string name="output_db_summary">Questa operazione esporterà tutti i tuoi database</string>
      <string name="output_db_title">Esporta database</string>
      <string name="output_to_disk">Esporta Log in file</string>
+      <string name="over_16_content">Confermi di aver piu di 16 anni?</string>
      <string name="over_due">Scaduto</string>
+      <string name="over_sixteen">"Ho piu di 16 anni"</string>
      <string name="overlays_fail_tip">Siamo spiacenti mala la tua casella email non è configurata correttamente, apri la finestra a comparsa con richiesta dei permessi e prova di nuovo</string>
      <string name="overlays_ok">Apri permessi</string>
      <string name="overlays_tip">Apri le finestre dei permessi e goditi subito la casella di posta 139 per configurare automaticamente la grande esperienza.</string>
@@ -788,12 +792,20 @@ Prova con una diverso account."</string>
      <string name="perference_setup_send_tag">Server posta in uscita</string>
      <string name="permission_access_provider_desc">Consente a questa applicazione di accedere al database della tua posta, inclusi i messaggi ricevuti e inviati, i nomi utente e le password.</string>
      <string name="permission_access_provider_label">Accesso ai dati del provider di posta</string>
+     <string name="permission_des_calendar">Utilizzato per sincronizzare automaticamente i messaggi del calendario</string>
+     <string name="permission_des_contact">Utilizzato per leggere l'indirizzo e-mail di un contatto, per compilare rapidamente il contatto di posta</string>
+     <string name="permission_des_detail">"Se non accetti di concedere tali autorizzazioni o condividere e caricare le tue informazioni personali, non potrai utilizzare questa app. In questi casi, puoi scegliere di disinstallare questa app, disconnetterti o limitare le autorizzazioni nelle impostazioni."</string>
+     <string name="permission_des_external_storage">Utilizzato per comporre la posta e leggere i file locali per completare il processo di aggiunta e salvataggio degli allegati</string>
+     <string name="permission_des_storage">Per la creazione di nuove e-mail, nonché il salvataggio e l'aggiunta di allegati</string>
      <string name="permission_read_attachment_desc">"Consente all'applicazione di leggere i tuoi allegati email."</string>
      <string name="permission_read_attachment_label">Lettura allegati email</string>
      <string name="permission_tip">Configurazione fallita, consenti le chiamate e gli SMS durante la configurazione dei permessi</string>
+     <string name="personal_data_collection_summary">Quando lo switch  è abilitato, l'utente accetta la raccolta di dati personali. Puoi revocare la tua autorizzazione ed eliminare i tuoi dati dai nostri server in qualsiasi momento.</string>
+     <string name="personal_data_collection_title">Raccolta di dati personali.</string>
      <string name="phone">telefono</string>
      <string name="photo_load_failed">"Non è stato possibile caricare l'immagine"</string>
      <string name="photo_view_count" formatted="false">%d di %d</string>
+      <string name="pl_select_age">Perfavore seleziona un eta.</string>
      <string name="please_fill_in_your_mailbox_information2">Inserisci i dati del tuo account</string>
      <string name="pls_parse_bill_discribe">"Analizza ricevute e viaggi nelle tue email
 perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
@@ -840,6 +852,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="print">Stampa</string>
      <string name="print_scheduler_title">Stampa tutti gli scheduler</string>
      <string name="privacy_policy">Informativa sulla Privacy</string>
+     <string name="privacy_setting_agree">Accetta</string>
      <string name="prompt_title">Avviso</string>
      <string name="protocol_setting_toast">"Tocca l'angolo in alto a destra per entrare nelle impostazioni dopo aver accettato"</string>
      <string name="pull_to_refresh">Trascina per aggiornare</string>
@@ -1018,6 +1031,8 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
      <string name="service_protocol_title">Condizioni del Servizio</string>
      <string name="set_network">Imposta rete</string>
      <string name="setting_default_lable" />
+     <string name="setting_kids_subtitle">"Comferma eta utente"</string>
+     <string name="setting_kids_title">Piu di 16 anni.</string>
      <string name="settings_activity_title">Impostazioni</string>
      <string name="share_choose">Scegli cosa condividere</string>
      <string name="sharing">Condividi</string>
