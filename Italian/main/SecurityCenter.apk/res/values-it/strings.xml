@@ -400,6 +400,7 @@ se dimenticata"</string>
      <string name="battery_charge_estimating">Calcolo…</string>
      <string name="battery_charge_full">Carica</string>
      <string name="battery_charging_prompt">In carica</string>
+     <string name="battery_desc_ambient_display">Energia consumata da Always-on display</string>
      <string name="battery_desc_apps">Batteria utilizzata dalle app</string>
      <string name="battery_desc_bluetooth">Batteria utilizzata da Bluetooth</string>
      <string name="battery_desc_display">Batteria utilizzata dallo Schermo</string>
@@ -1622,6 +1623,12 @@ dall'operatore"</string>
      <string name="power_bluetooth">Bluetooth</string>
      <string name="power_btn_analyze">Analizza utilizzo batteria</string>
      <string name="power_cell">Cellulare in standby</string>
+     <string name="power_center_5g_save_close_detail">Il risparmio  batterie 5G aumenta la durata della batteria senza influire sulla connettività 5G. Disattivare comunque?</string>
+     <string name="power_center_5g_save_close_later">"Non disattivare"</string>
+     <string name="power_center_5g_save_close_title">Disattivare il risparmio batteria 5G</string>
+     <string name="power_center_5g_save_summary_text">Ridurre il consumo di energia della rete 5G in determinati scenari</string>
+     <string name="power_center_5g_save_title_text">Risparmio Batteria 5G</string>
+     <string name="power_center_auto_shutdown">Pianificare l'accensione/spegnimento</string>
      <string name="power_center_auto_shutdown">Pianifica</string>
      <string name="power_center_back">Ritorna al centro</string>
      <string name="power_center_charge_time">Carica completata tra %1$s</string>
