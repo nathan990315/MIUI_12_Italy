@@ -8,6 +8,9 @@
      <string name="abc_activitychooserview_choose_application">"Scegli un'app"</string>
      <string name="abc_capital_off">DISATTIVA</string>
      <string name="abc_capital_on">ATTIVA</string>
+     <string name="abc_menu_delete_shortcut_label">cancella</string>
+     <string name="abc_menu_function_shortcut_label">Funzione+</string>
+     <string name="abc_menu_space_shortcut_label">spazio</string>
      <string name="abc_search_hint">Cerca…</string>
      <string name="abc_searchview_description_clear">Pulisci query</string>
      <string name="abc_searchview_description_query">Cerca query</string>
@@ -110,7 +113,7 @@
      <string name="date_interval_text_to">A %1$s</string>
      <string name="date_jump_title">Salta ad una data</string>
      <string name="date_today">(oggi)</string>
-     <string name="day_view_new_event_hint">+ Nuovo evento</string>
+     <string name="day_view_new_event_hint">Nuovo evento</string>
      <string name="default_reminder_later_time">Intervallo predefinito per \"Ricordami dopo\"</string>
      <string name="default_reminder_mode">Modalità avviso predefinita</string>
      <string name="delete_recurring_event_title">Eliminare %s?</string>
@@ -176,7 +179,7 @@
      <string name="event_info_reminders_label">Promemoria</string>
      <string name="event_info_reminders_label_1">Promemoria</string>
      <string name="event_info_repeat">Ripeti</string>
-     <string name="event_info_title">Visualizza evento</string>
+     <string name="event_info_title">Dettagli evento</string>
      <string name="event_info_title_anniversary">Anniversario</string>
      <string name="event_info_title_birthday">Compleanno</string>
      <string name="event_info_title_countdown">Conto alla rovescia</string>
@@ -389,6 +392,7 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="setting_holiday_display_desc">Schede vacanze posizionate nella homepage del calendario</string>
      <string name="setting_holiday_reminder">Promemoria vacanze</string>
      <string name="setting_others">Aggiuntive</string>
+     <string name="setting_show_reject_agenda">Mostra eventi rifiutati</string>
      <string name="setting_title_about">Informazioni</string>
      <string name="setting_title_holiday_display">Mostra festività</string>
      <string name="share_not_install_wechat">Installa wechat.</string>
@@ -454,7 +458,6 @@ Controlla le impostazioni di rete e riprova."</string>
      <string name="travel_item_virtual_sim">SIM Virtuale Mi</string>
      <string name="travel_item_weather_forecast">Località previsioni</string>
      <string name="travel_item_weather_now">Località meteo</string>
-     <string name="travel_load_failed">Impossibile caricare</string>
      <string name="travel_loaded">Fornito da Veryzhun</string>
      <string name="travel_loading">Solo un attimo…</string>
      <string name="travel_local">Destinazione</string>
