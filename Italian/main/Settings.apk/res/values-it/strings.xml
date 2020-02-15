@@ -1439,6 +1439,7 @@ Questa funzione può essere disattivata in [Settings]"</string>
      <string name="connected_via_passpoint">Connesso via %1$s</string>
      <string name="connected_wifi">Connesso</string>
      <string name="connecting_to_vpn">Connetto alla VPN</string>
+     <string name="connection_and_sharing">Conness. &amp; condivisione</string>
      <string name="content_description_menu_button">Menu</string>
      <string name="contributors_title">Collaboratori</string>
      <string name="controls_label">Controlli</string>
@@ -2546,6 +2547,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="home">Impostazioni Home</string>
      <string name="home_app">App Home</string>
      <string name="home_key">Home</string>
+     <string name="home_title">Schermata home</string>
      <string name="home_work_profile_not_supported">Profili di lavoro non supportati</string>
      <string name="http_invoke_app">App web</string>
      <string name="http_invoke_app_summary">Apri le app più velocemente senza installarle</string>
@@ -2908,6 +2910,7 @@ Quando attivi il backup automatico, il dispositivo e i dati delle applicazioni v
      <string name="lock_profile_wipe_warning_content_password">Se inserisci una password di lavoro errata a questo tentativo, il tuo profilo di lavoro e i dati associati verranno eliminati dal dispositivo.</string>
      <string name="lock_profile_wipe_warning_content_pattern">Se inserisci una sequenza di lavoro errata a questo tentativo, il tuo profilo di lavoro e i dati associati verranno eliminati dal dispositivo.</string>
      <string name="lock_profile_wipe_warning_content_pin">Se inserisci un PIN di lavoro errata a questo tentativo, il tuo profilo di lavoro e i dati associati verranno eliminati dal dispositivo.</string>
+     <string name="lock_screen_display_category_name">Schermata di blocco</string>
      <string name="lock_screen_intro_skip_dialog_text">Le funzionalità di protezione del dispositivo non verranno attivate. Non potrai impedire che gli altri utilizzino questo telefono in caso di smarrimento o furto.</string>
      <string name="lock_screen_intro_skip_dialog_text_frp">"Le funzionalità di protezione del dispositivo non verranno attivate. Non potrai impedire che gli altri utilizzino questo telefono in caso di smarrimento, furto o cancellazione
 	 ."</string>
@@ -3880,6 +3883,7 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
      <string name="passwordIncorrect">La password inserita non è corretta</string>
      <string name="password_entrance_title">Password</string>
      <string name="password_guard">Password</string>
+     <string name="password_security_settings_title">Password &amp; sicurezza</string>
      <string name="password_turned_off_text">La password è stata disattivata</string>
      <string name="password_turned_on_text">La password è stata attivata</string>
      <string name="payment_summary">%1$s è il predefinito</string>
@@ -3982,6 +3986,7 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
      <string name="power_usage_old_debug">%1$s rimanenti (vecchio utilizzo)</string>
      <string name="power_usage_summary">Consumo batteria</string>
      <string name="power_usage_summary_title">Batteria</string>
+     <string name="power_usage_summary_title_new">Batteria</string>
      <string name="power_wifi">Wi-Fi</string>
      <string name="pre_installed_application">App pre-installate</string>
      <string name="pref_bg_network_title">Connessione in background</string>
