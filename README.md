@@ -1,4 +1,4 @@
-#MIUI 11 Italian Strings 
+# MIUI 11 Italian Strings 
 
 ITALIAN MIUI 11 Strings for MIUI  Xiaomi.eu (www.xiaomi.eu) for multi ROMs
 
