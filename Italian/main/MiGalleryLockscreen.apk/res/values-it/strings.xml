@@ -46,7 +46,7 @@
   <string name="cancel_lockscreen">Annulla</string>
     <string name="account_bind_secure_email_title">Aggiungi email di ripristino</string>
    <string name="account_bind_secure_phone_title">Aggiungi numero di telefono di ripristino</string>
-   <string name="account_crop_user_avatar">Ritaglia foto/string>
+   <string name="account_crop_user_avatar">Ritaglia foto</string>
    <string name="account_empty_user_name">Inserisci il nome utente del tuo account Mi</string>
    <string name="account_error_all_space_user_name">"Il nome utente non può contenere  spazi</string>
    <string name="account_error_invalid_user_name">"Il nome utente non può contenere: &lt;, &gt;, o /"</string>
@@ -104,10 +104,8 @@
   <string name="confirm_bundled_phone_dialog_title">Conferma numero di telefono associato</string>
   <string name="confirm_new_pwd">Conferma nuova password</string>
   <string name="confirm_unbundled_phone_dialog_message">Questo numero di telefono è associato al Mi Account %2$s on %1$s. Non sarà più associato al Mi Account %3$s si  desidera continuare?</string>
-  <string name="create_shortcut">Create Home screen shortcut</string>
   <string name="create_shortcut_btn">Crea</string>
   <string name="create_shortcut">Crea scorciatoia sulla schermata Home</string>
-  <string name="current_connection_invalid">Attendere fino a quando il dispositivo non risulterà connesso alla rete</string>
   <string name="current_data_invalid">Si è verificato un errore</string>
   <string name="current_network_invalid">Connettiti prima alla rete</string>
   <string name="current_no_more_pictures">Questo è tutto per ora</string>
@@ -275,15 +273,12 @@
   <string name="passport_empty_password">La password non può essere vuota</string>
   <string name="passport_empty_user_name">Il nome utente non può essere vuoto</string>
   <string name="passport_error_phone_error">Numero di telefono non valido</string>
-  <string name="passport_error_user_name">Il nome utente inserito non è valido</string>
-  <string name="passport_barcode_add_account_prompt">Per aggiungere un account, scansiona di nuovo il codice QR dopo aver effettuato l'accesso.</string>
   <string name="passport_can_not_receive_verification_code">"Non riesci a ricevere il codice di verifica?"</string>
   <string name="passport_checking_account">Controlla la password…</string>
   <string name="passport_email">Indirizzo email</string>
   <string name="passport_error_auth_fail">Sessione scaduta. Accedi di nuovo perfavore.</string>
   <string name="passport_error_device_id">"Impossibile ottenere l'ID del dispositivo"</string>
   <string name="passport_error_email">L'indirizzo email inserito non è valido</string>
-  <string name="passport_error_empty_captcha_code">Inserisci captcha</string>
   <string name="passport_error_empty_email">Inserisci il tuo indirizzo email</string>
   <string name="passport_error_empty_phone_num">Inserisci il tuo numero di telefono</string>
   <string name="passport_error_empty_pwd">"Non puoi lasciare vuota la password"</string>
