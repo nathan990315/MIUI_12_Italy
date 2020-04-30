@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="abc_menu_alt_shortcut_label">Alt+</string>
+     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+     <string name="abc_menu_delete_shortcut_label">delete</string>
+     <string name="abc_menu_enter_shortcut_label">enter</string>
+     <string name="abc_menu_function_shortcut_label">Function+</string>
+     <string name="abc_menu_meta_shortcut_label">Meta+</string>
+     <string name="abc_menu_shift_shortcut_label">Shift+</string>
+     <string name="abc_menu_space_shortcut_label">space</string>
+     <string name="abc_menu_sym_shortcut_label">Sym+</string>
+     <string name="abc_prepend_shortcut_label">Menu+</string>
+     <string name="action_menu_text_add_shortcut">Add shortcut</string>
+     <string name="ad_app_fail">packageName调起失败</string>
+     <string name="ad_app_success">packageName调起成功</string>
+     <string name="ad_click">点击</string>
+     <string name="ad_deeplink_fail">Deeplink调起失败</string>
+     <string name="ad_deeplink_success">Deeplink调起成功</string>
+     <string name="ad_download_click_install">点击安装</string>
+     <string name="ad_download_continue">Resume</string>
+     <string name="ad_download_downloading">Downloading</string>
+     <string name="ad_download_error">"Couldn't download"</string>
+     <string name="ad_download_fail">下载失败</string>
+     <string name="ad_download_immediately">Download</string>
+     <string name="ad_download_installing">Installing</string>
+     <string name="ad_download_open">Open</string>
+     <string name="ad_download_pausing">Paused</string>
+     <string name="ad_download_succeed">下载成功</string>
+     <string name="ad_download_success">Downloaded</string>
+     <string name="ad_go_download">Download</string>
+     <string name="ad_go_see">More</string>
+     <string name="ad_install_fail">安装失败</string>
+     <string name="ad_install_success">安装成功</string>
+     <string name="ad_look_detail">Details</string>
+     <string name="ad_lunch_app">packageName开始调起</string>
+     <string name="ad_lunch_deeplink">Deeplink开始调起</string>
+     <string name="ad_open_dialog_immediately">立即打开</string>
+     <string name="ad_open_dialog_later">稍后</string>
+     <string name="ad_open_dialog_subtitle">安装完成，立即打开？</string>
+     <string name="ad_start_download">开始下载</string>
+     <string name="ad_start_install">开始安装</string>
+     <string name="ad_view">曝光</string>
+     <string name="add_tag">Add Tag</string>
+     <string name="appbar_scrolling_view_behavior">androidy.coordinatorlayout.widget.behavior.AppBarLayout$ScrollingViewBehavior</string>
+     <string name="appdownloader_button_cancel_download">取消</string>
+     <string name="appdownloader_button_queue_for_wifi">排队</string>
+     <string name="appdownloader_button_start_now">立即开始</string>
+     <string name="appdownloader_download_percent">%1$d%%</string>
+     <string name="appdownloader_download_remaining">剩余时间：%1$s</string>
+     <string name="appdownloader_download_unknown_title">&lt;未命名&gt;</string>
+     <string name="appdownloader_duration_hours">%1$d 小时</string>
+     <string name="appdownloader_duration_minutes">%1$d 分钟</string>
+     <string name="appdownloader_duration_seconds">%1$d 秒</string>
+     <string name="appdownloader_label_cancel">取消</string>
+     <string name="appdownloader_label_ok">确定</string>
+     <string name="appdownloader_notification_download">下载</string>
+     <string name="appdownloader_notification_download_complete_open">下载完成，点击打开。</string>
+     <string name="appdownloader_notification_download_complete_with_install">下载完成，点击安装。</string>
+     <string name="appdownloader_notification_download_complete_without_install">下载完成</string>
+     <string name="appdownloader_notification_download_delete">确认要删除%1$s的下载任务吗？</string>
+     <string name="appdownloader_notification_download_failed">下载失败。</string>
+     <string name="appdownloader_notification_download_install">安装</string>
+     <string name="appdownloader_notification_download_open">打开</string>
+     <string name="appdownloader_notification_download_pause">暂停</string>
+     <string name="appdownloader_notification_download_restart">重新下载</string>
+     <string name="appdownloader_notification_download_resume">继续</string>
+     <string name="appdownloader_notification_download_space_failed">SdCard空间不足, 下载失败。</string>
+     <string name="appdownloader_notification_downloading">正在下载</string>
+     <string name="appdownloader_notification_need_wifi_for_size">文件过大，需要通过 WLAN 下载。</string>
+     <string name="appdownloader_notification_paused_in_background">已在后台暂停。</string>
+     <string name="appdownloader_notification_prepare">准备中</string>
+     <string name="appdownloader_tip">提示</string>
+     <string name="appdownloader_wifi_recommended_body">"立即开始下载此内容 (%1$s ) 可能会缩短电池的使用时间并/或导致过量使用移动数据连接流量（这可能导致移动运营商向您收费，具体取决于您的流量套餐）。
+
+触摸“%2$s”可在下次连接到 WLAN 网络时开始下载此内容。"</string>
+     <string name="appdownloader_wifi_recommended_title">稍后再加入下载队列吗？</string>
+     <string name="appdownloader_wifi_required_body">"您必须使用 WLAN 完成此内容 (%1$s ) 的下载。
+
+触摸“%2$s ”可在下次连接到 WLAN 网络时开始下载此内容。"</string>
+     <string name="appdownloader_wifi_required_title">文件太大，不适于通过运营商网络下载</string>
+     <string name="aqi_excellent">空气优</string>
+     <string name="aqi_good">空气良</string>
+     <string name="aqi_light_pollution">轻度污染</string>
+     <string name="aqi_moderately_polluted">中度污染</string>
+     <string name="aqi_severe_pollution">重度污染</string>
+     <string name="aqi_very_polluted">严重污染</string>
+     <string name="at_miui_browser">\@小米浏览器</string>
+     <string name="auto_download_e_c">盗版网址导流页</string>
+     <string name="auto_download_show_e_n">盗版网址导流页曝光</string>
+     <string name="auto_floatlayer_click_close_e_n">点击关闭</string>
+     <string name="auto_floatlayer_click_download_e_n">点击下载</string>
+     <string name="auto_floatlayer_click_e_a">点击</string>
+     <string name="auto_floatlayer_click_link_e_n">点击跳转</string>
+     <string name="auto_floatlayer_custom_e_n">自定义跳转</string>
+     <string name="auto_floatlayer_e_c">浮层拦截错误导流页</string>
+     <string name="auto_floatlayer_show_e_a">曝光</string>
+     <string name="auto_floatlayer_show_e_n">错误页浮层曝光</string>
+     <string name="auto_floatlayer_store_download_e_n">应用商店下载</string>
+     <string name="back_ad">铺底广告%s</string>
+     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+     <string name="browser_default_setting_cancel">Cancel</string>
+     <string name="browser_default_setting_confirm">OK</string>
+     <string name="browser_default_setting_content">Fast and secure web browsing</string>
+     <string name="browser_default_setting_title">Set as default browser</string>
+     <string name="channel_header_description">Tap to open. Press and hold to edit.</string>
+     <string name="channel_header_title">My channels</string>
+     <string name="channel_more_description">Tap to add</string>
+     <string name="channel_more_title">More channels</string>
+     <string name="channel_network_error">A network error occurred. Check your network settings and try again.</string>
+     <string name="channel_no_data">"That's all for now. Check out other channels!"</string>
+     <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+     <string name="character_counter_pattern">%1$d / %2$d</string>
+     <string name="comment_add_fail">"Couldn't add comment"</string>
+     <string name="comment_add_sucess">Added comment successfully</string>
+     <string name="comment_all_display">"That's all for now"</string>
+     <string name="comment_confirm_report">Report</string>
+     <string name="comment_copied">Copied successfully</string>
+     <string name="comment_delete">Delete</string>
+     <string name="comment_delete_confirm_title">Delete now?</string>
+     <string name="comment_delete_fail">"Couldn't delete comment"</string>
+     <string name="comment_delete_sucess">Deleted comment successfully</string>
+     <string name="comment_empty_hint">No comments here yet. You can leave the first one!</string>
+     <string name="comment_error_hint">"Couldn't load comments. Tap to try again."</string>
+     <string name="comment_fail">"Couldn't add comment. Try again."</string>
+     <string name="comment_flag_choice">Featured</string>
+     <string name="comment_flag_top">Pinned</string>
+     <string name="comment_just_now">Just now</string>
+     <string name="comment_no_net_hint">A server error occurred. Wait a minute or two and try again.</string>
+     <string name="comment_reply">Reply</string>
+     <string name="comment_reply_fail">"Couldn't reply"</string>
+     <string name="comment_reply_sucess">Replied successfully</string>
+     <string name="comment_report_advertising_marketing">Marketing or subliminal advertising</string>
+     <string name="comment_report_harassment_abuse">Harassment or hate speech</string>
+     <string name="comment_report_pornographic_violence">Sexually explicit or violent content</string>
+     <string name="comment_report_reactionary_politics">Political extremism</string>
+     <string name="comment_report_send">Submitted successfully</string>
+     <string name="comment_select_report_reason">Why are you reporting this?</string>
+     <string name="comment_success">Added comment successfully</string>
+     <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
+     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+     <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
+     <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
+     <string name="common_use_phrase_bottom_bar_point_txt">.</string>
+     <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
+     <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
+     <string name="custom_head_weather">Weather</string>
+     <string name="dark_mode_setting_dark">Night mode (dark)</string>
+     <string name="dark_mode_setting_follow">Follow system</string>
+     <string name="dark_mode_setting_light">Day mode (light)</string>
+     <string name="dark_mode_setting_title">Night mode</string>
+     <string name="data_traffic_download_toast_msg">Currently using data traffic to cache video</string>
+     <string name="debug_address_title">超级地址切换模式</string>
+     <string name="debug_browser_hint">来改我呀～</string>
+     <string name="debug_browser_info_title">信息流为:</string>
+     <string name="debug_browser_sug_title">sug搜索为:</string>
+     <string name="debug_browser_switch">一键更换测试环境</string>
+     <string name="debug_browser_title">主环境为:</string>
+     <string name="debug_browser_warning">自定义环境请先关闭一键更换！</string>
+     <string name="debug_code_hint">请输入神秘暗号~</string>
+     <string name="debug_code_warning">有内鬼，终止交易！</string>
+     <string name="debug_edit_error">乖～不要乱输入呀!</string>
+     <string name="debug_edit_title">替换地址为</string>
+     <string name="debug_info_flow_title">详细信息</string>
+     <string name="debug_sug_switch">切换sug测试环境</string>
+     <string name="dev_pref_title_jump">页面跳转</string>
+     <string name="dialog_ad_exit_exit_app">Later</string>
+     <string name="dialog_ad_exit_open_app">Open</string>
+     <string name="dialog_nps_comment_cancel_text">No thanks</string>
+     <string name="dialog_nps_comment_confirm_text">Rate</string>
+     <string name="dialog_nps_comment_slogan_text">"Rate our app
+to support our work"</string>
+     <string name="dialog_scroll_up_to_more_site">Scroll up to view more</string>
+     <string name="document_open_txt_message">To improve your reading experience and ensure security，use Bookshelf</string>
+     <string name="document_open_txt_start_read">Start reading</string>
+     <string name="expand_article">View full article</string>
+     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+     <string name="fast_app_card_bottom_text" formatted="false">%s  %s</string>
+     <string name="feedback_not_interested_response">"You'll see fewer items of this kind"</string>
+     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+     <string name="load_more_footer_status_msg_error_load">"Couldn't load. Try again."</string>
+     <string name="load_more_footer_status_msg_error_no_network">"Couldn't connect to the network."</string>
+     <string name="load_more_footer_status_msg_full">"That's all for now."</string>
+     <string name="load_more_footer_status_msg_idle">Tap to load more</string>
+     <string name="load_more_footer_status_msg_loading">Just a sec…</string>
+     <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+     <string name="mw_color_picker_value">Value</string>
+     <string name="mw_current_detected_ui_locale_name">en-US</string>
+     <string name="mw_status_bar_notification_info_overflow">999+</string>
+     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+     <string name="mw_time_picker_dialog_minute_second_separator">:</string>
+     <string name="nav_launch_title">Try using the following apps</string>
+     <string name="nav_lunch_duokan">Opening Duokan…</string>
+     <string name="navigate_feedback_report_input_length">%1$d/100</string>
+     <string name="notification_channel_name_local_push">Browser notifications</string>
+     <string name="open_xiangkan_view_all">打开想看APP阅读全文</string>
+     <string name="password_toggle_content_description">Show password</string>
+     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+     <string name="pref_content_simple_homepage">Simplified start page</string>
+     <string name="pref_extras_devopt">Developer Options</string>
+     <string name="pref_personalized_customization">Personalized recommendations</string>
+     <string name="pref_search_result_rs_title">搜索页相关搜索</string>
+     <string name="quicklink_add_last7day">Past 7 days</string>
+     <string name="quicklink_add_today">Today</string>
+     <string name="quicklink_add_yesterday">Yesterday</string>
+     <string name="search_description">Search bar</string>
+     <string name="search_s139">139</string>
+     <string name="security_permission_desc_get_accounts">For signing in and managing system account</string>
+     <string name="security_permission_desc_read_phone">For accessing IMEI in order to identify your device</string>
+     <string name="security_permission_desc_storage">For accessing, saving, uploading, and downloading images and other files</string>
+     <string name="security_permission_main_purpose">Web browsing, search, reading books and news, watching videos, etc.</string>
+     <string name="security_permission_message_location">"This app needs access to your location in order to provide location-based services. If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
+     <string name="security_permission_negative_btn_location">Cancel</string>
+     <string name="security_permission_positive_btn_location">Agree</string>
+     <string name="security_permission_title_location">Allow access to your location</string>
+     <string name="send_bookmark">Bookmark</string>
+     <string name="send_desktop">Home screen</string>
+     <string name="send_startpage">Start page</string>
+     <string name="share_by_yidianzixun">【一点资讯】</string>
+     <string name="short_video_ad_download_app">Download %s</string>
+     <string name="short_video_ad_download_immediately">Download</string>
+     <string name="short_video_ad_downloading">Downloading %d%%</string>
+     <string name="short_video_ad_installing">Installing</string>
+     <string name="short_video_ad_open_app">Open %s</string>
+     <string name="short_video_ad_open_immediately">Open</string>
+     <string name="short_video_ad_resume_downloading">Resume</string>
+     <string name="short_video_ad_see_details">View details</string>
+     <string name="short_video_ad_tag">Ad</string>
+     <string name="short_video_comment_hint">Enter comment</string>
+     <string name="short_video_gesture_btn">Got it</string>
+     <string name="short_video_gesture_hint">Swipe to watch next video</string>
+     <string name="short_video_net_dialog_continue">Play anyway</string>
+     <string name="short_video_net_dialog_title">"You're using mobile data now. Using mobile may generate additional carrier fees."</string>
+     <string name="short_video_network_error">"Couldn't connect to the network. Check your network settings and try again."</string>
+     <string name="small_video_ad_download_text">Download</string>
+     <string name="small_video_footer_status_msg_idle">Tap to load more</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
+     <string name="sug_search_history_delete_text">Delete this record</string>
+     <string name="sug_search_history_empty_text">Clear all</string>
+     <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
+     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+     <string name="toast_feedback">"You'll see fewer items of this kind."</string>
+     <string name="tt_00_00">00:00</string>
+     <string name="tt_ad">Ad</string>
+     <string name="tt_app_name">tt_open_ad_sdk</string>
+     <string name="tt_auto_play_cancel_text">取消</string>
+     <string name="tt_cancel">取消</string>
+     <string name="tt_comment_num">%1$s个评分</string>
+     <string name="tt_comment_score">评价</string>
+     <string name="tt_confirm_download">正在使用非Wifi网络，确认要进行下载吗？</string>
+     <string name="tt_confirm_download_have_app_name">准备下载%s应用</string>
+     <string name="tt_dislike_header_tv_back">返回</string>
+     <string name="tt_dislike_header_tv_title">选择</string>
+     <string name="tt_full_screen_skip_tx">5s后可跳过</string>
+     <string name="tt_label_cancel">取消</string>
+     <string name="tt_label_ok">确定</string>
+     <string name="tt_no_network">无网络，请稍后再试</string>
+     <string name="tt_permission_denied">您已禁止授权操作，请授权</string>
+     <string name="tt_request_permission_descript_external_storage">存储</string>
+     <string name="tt_request_permission_descript_location">位置信息</string>
+     <string name="tt_request_permission_descript_read_phone_state">拨打电话</string>
+     <string name="tt_reward_screen_skip_tx">跳过</string>
+     <string name="tt_splash_skip_tv_text">3s | 跳过</string>
+     <string name="tt_tip">提示</string>
+     <string name="tt_unlike">不感兴趣</string>
+     <string name="tt_video_bytesize">流量</string>
+     <string name="tt_video_bytesize_M">M</string>
+     <string name="tt_video_bytesize_MB">MB</string>
+     <string name="tt_video_continue_play">继续播放</string>
+     <string name="tt_video_dial_phone">立即拨打</string>
+     <string name="tt_video_download_apk">立即下载</string>
+     <string name="tt_video_mobile_go_detail">查看详情</string>
+     <string name="tt_video_retry_des_txt">加载失败，点击重试</string>
+     <string name="tt_video_without_wifi_tips">播放将消耗</string>
+     <string name="tt_web_title_default">广告</string>
+     <string name="tt_will_play">即将播放</string>
+     <string name="video_ad_duration">Close ad (%d)</string>
+     <string name="video_download_wait_for_caching">Waiting for caching</string>
+     <string name="video_download_wait_for_network">Waiting for network</string>
+     <string name="video_next_playback">Up next</string>
+     <string name="vo_ad_detail">%s · Ad</string>
+     <string name="vo_choose_activity_cancel">Cancel</string>
+     <string name="vo_choose_activity_content">"Couldn't get location info. Select a city manually."</string>
+     <string name="vo_choose_activity_positive">Select</string>
+     <string name="vo_comment_text">Comment</string>
+     <string name="vo_debug_info_flow_agg_dialog" formatted="false">"imageMode
+%s
+images:
+%s
+interactionType:
+%s
+"</string>
+     <string name="vo_debug_info_flow_dialog" formatted="false">"imei
+%s
+track_ext:
+%s
+debugExt:
+%s
+eid:
+%s
+traceid:
+%s
+ docid:
+%s
+category:
+%s
+subCategory:
+%s
+tags:
+%s
+type:
+%s
+url:
+%s
+item_style:
+%s
+feedsContentId:
+%s
+"</string>
+     <string name="vo_detail_feed_activity">详情页Feed流</string>
+     <string name="vo_fast_game_card_bottom_text">Play games without installing them</string>
+     <string name="vo_fast_game_card_more_text">More games</string>
+     <string name="vo_fast_game_card_title_text">You might also like these games</string>
+     <string name="vo_feed_activity">Feed流测试</string>
+     <string name="vo_feed_back_dislike">Not interested</string>
+     <string name="vo_feedback_back">Back</string>
+     <string name="vo_feedback_black">Block: %s</string>
+     <string name="vo_feedback_content">Poor content quality</string>
+     <string name="vo_feedback_dislike">Not interested</string>
+     <string name="vo_feedback_frequent">Appears too frequently</string>
+     <string name="vo_feedback_quality">Feedback on content quality</string>
+     <string name="vo_feedback_shield">Blocklist</string>
+     <string name="vo_feedback_sub_quality">Clickbait, profanity, etc.</string>
+     <string name="vo_feedback_sub_shield">, etc.</string>
+     <string name="vo_home_feed_activity">首页Feed流</string>
+     <string name="vo_icon_text_burst">突发</string>
+     <string name="vo_icon_text_deep">深度</string>
+     <string name="vo_icon_text_featured">精选</string>
+     <string name="vo_icon_text_hot">热门</string>
+     <string name="vo_icon_text_recommend">推荐</string>
+     <string name="vo_icon_text_topping">置顶</string>
+     <string name="vo_icon_text_video">视频</string>
+     <string name="vo_info_flow_load_error_content">Try again</string>
+     <string name="vo_info_flow_load_error_title">"Couldn't load info. Check your network settings and try again."</string>
+     <string name="vo_info_flow_load_more_content">Load more</string>
+     <string name="vo_info_flow_load_more_error">A network error occurred. Check your network settings and try again.~</string>
+     <string name="vo_info_flow_load_more_full">"That's all for now. Check other channels."</string>
+     <string name="vo_info_flow_load_more_idle">Load more</string>
+     <string name="vo_info_flow_load_more_loading">Just a sec…</string>
+     <string name="vo_info_flow_load_more_title">Try loading more items manually</string>
+     <string name="vo_info_flow_refresh_empty">No updates for now. Check other channels!</string>
+     <string name="vo_info_flow_refresh_error">"Couldn't connect to the network. Check your network settings and try again."</string>
+     <string name="vo_info_flow_rs_hint">Search</string>
+     <string name="vo_like_text">Like</string>
+     <string name="vo_location_change_cancel">Not now</string>
+     <string name="vo_location_change_content">Looks like your location changed. Switch to the current city?</string>
+     <string name="vo_location_change_positive">Switch</string>
+     <string name="vo_location_change_title">Location changed</string>
+     <string name="vo_location_choose_city">Tap to switch cities</string>
+     <string name="vo_mi_ad_detail">Open in %s</string>
+     <string name="vo_search_tag_title_text">Related items</string>
+     <string name="vo_share_text">Share</string>
+     <string name="vo_small_video_load_more_text">Swipe to load more</string>
+     <string name="vo_small_video_title">Short videos</string>
+     <string name="vo_vote_left" formatted="false">%d$% for</string>
+     <string name="vo_vote_right" formatted="false">%d$% against</string>
+     <string name="vo_wei_bo_all_text">Full text</string>
+     <string name="vo_wei_bo_gif_image">GIF</string>
+     <string name="vo_wei_bo_long_image">Long image</string>
+     <string name="vo_wei_bo_publish_time_just">·Just now</string>
+     <string name="vo_wei_bo_publish_time_yesterday">· Yesterday at %s</string>
+     <string name="vo_zhi_hu">Zhihu</string>
+</resources>

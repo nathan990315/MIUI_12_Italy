@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">%1$s-day forecast</item>
+        <item quantity="one">%1$s-day forecast</item>
+     </plurals>
+     <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">Highest temperature: %1$s degrees Celsius</item>
+        <item quantity="one">Highest temperature: %1$s degree Celsius</item>
+     </plurals>
+     <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">Highest temperature: %1$s degrees Fahrenheit</item>
+        <item quantity="one">Highest temperature: %1$s degree Fahrenheit</item>
+     </plurals>
+     <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">Lowest temperature: %1$s degrees Celsius</item>
+        <item quantity="one">Lowest temperature: %1$s degree Celsius</item>
+     </plurals>
+     <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">Lowest temperature: %1$s degrees Fahrenheit</item>
+        <item quantity="one">Lowest temperature: %1$s degree Fahrenheit</item>
+     </plurals>
+</resources>

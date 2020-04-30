@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="accessibility_usage_summary">
+        <item quantity="other">%1$d apps have full access to your device</item>
+        <item quantity="one">1 app has full access to your device</item>
+     </plurals>
+     <plurals name="bt_usable_device_title">
+        <item quantity="other">%d available devices</item>
+        <item quantity="one">%d available device</item>
+     </plurals>
+     <plurals name="location_app_permission_summary_location_on">
+        <item quantity="other">%1$d of %2$d apps have access to location</item>
+        <item quantity="one">%1$d of %2$d apps has access to location</item>
+     </plurals>
+     <plurals name="location_settings_summary_location_on">
+        <item quantity="other">On - %1$d apps have access to location</item>
+        <item quantity="one">On - %1$d app has access to location</item>
+     </plurals>
+     <plurals name="lockpassword_password_too_long">
+        <item quantity="other">You can enter up to %d characters</item>
+        <item quantity="one">You can enter up to %d character</item>
+     </plurals>
+     <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Enter at least %d characters</item>
+        <item quantity="one">Enter at least %d character</item>
+     </plurals>
+     <plurals name="mobile_network_summary_count">
+        <item quantity="other">%1$d SIMs</item>
+        <item quantity="one">%1$d SIM</item>
+     </plurals>
+     <plurals name="notification_few_channel_count_summary">
+        <item quantity="other">%1$d notification channels.</item>
+        <item quantity="one">%1$d notification channel.</item>
+     </plurals>
+     <plurals name="notifications_sent_daily">
+        <item quantity="other">~%d notifications per day</item>
+        <item quantity="one">~%d notification per day</item>
+     </plurals>
+     <plurals name="notifications_sent_weekly">
+        <item quantity="other">~%d notifications per week</item>
+        <item quantity="one">~%d notification per week</item>
+     </plurals>
+     <plurals name="permission_bar_chart_label">
+        <item quantity="other">%s apps</item>
+        <item quantity="one">1 app</item>
+     </plurals>
+     <plurals name="saved_network_checked_num">
+        <item quantity="other">Selected %d items</item>
+        <item quantity="one">Selected %d item</item>
+     </plurals>
+     <plurals name="show_bluetooth_devices">
+        <item quantity="other">%1$d devices connected</item>
+        <item quantity="one">%1$d device connected</item>
+     </plurals>
+     <plurals name="wifi_saved_all_access_points_summary">
+        <item quantity="other">%d networks &amp; subscriptions</item>
+        <item quantity="one">1 network &amp; subscription</item>
+     </plurals>
+     <plurals name="wifi_saved_passpoint_access_points_summary">
+        <item quantity="other">%d subscriptions</item>
+        <item quantity="one">1 subscription</item>
+     </plurals>
+     <plurals name="zen_mode_bypassing_apps_subtext">
+        <item quantity="other">Notifications from %1$d apps can override Do Not Disturb</item>
+        <item quantity="zero">No apps can override Do Not Disturb</item>
+        <item quantity="one">Notifications from 1 app can override Do Not Disturb</item>
+     </plurals>
+</resources>

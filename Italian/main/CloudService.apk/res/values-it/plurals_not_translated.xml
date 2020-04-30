@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="dirty_phrase_count">
+        <item quantity="other">%d frequent phrases</item>
+        <item quantity="one">%d frequent phrase</item>
+     </plurals>
+     <plurals name="select_no_more_than">
+        <item quantity="other">"Can't select more than %d items"</item>
+        <item quantity="one">"Can't select more than %d item"</item>
+     </plurals>
+</resources>
