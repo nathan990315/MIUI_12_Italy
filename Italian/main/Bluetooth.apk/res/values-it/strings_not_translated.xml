@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="bluetooth_a2dp_sink_queue_name">Now Playing</string>
+     <string name="bluetooth_map_remote_advance_feature_support">Advanced message access features supported</string>
+     <string name="bluetooth_map_remote_message_access_feature_downgrade">Downgrade the remote message access features</string>
+     <string name="bluetooth_map_repair_for_adv_message_access_feature">Pair again to use advanced message access features</string>
+     <string name="bluetooth_map_repair_for_message_access_version_comp">Pair again to ensure message access version compatibility</string>
+     <string name="bt_sm_2_1_default">"There isn't enough space on the SD card to save the file from \"%1$s\""</string>
+     <string name="bt_sm_2_1_nosdcard">"There isn't enough space in USB storage to save the file from \"%1$s\""</string>
+     <string name="pairing_ui_package">com.android.settings</string>
+     <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
+     <string name="phonebook_advance_feature_support">Phonebook Advance Feature Supported</string>
+     <string name="remote_pbap_version_change">Remote Phonebook Profile Version Change</string>
+     <string name="remote_phonebook_feature_downgrade">Remote Phonebook Feature Downgrade</string>
+     <string name="repair_for_adv_phonebook_feature">Re-pair for Advance Phonebook Feature</string>
+     <string name="repair_for_phonebook_access_version_comp">Re-pair for Phonebook Access Version Compatibility</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
+     <string name="status_no_sd_card_default">No SD card. Insert an SD card to save transferred files.</string>
+     <string name="status_no_sd_card_nosdcard">No USB storage.</string>
+     <string name="switch_audio_device_bt">Bluetooth</string>
+     <string name="switch_audio_device_phone">This device</string>
+     <string name="switch_audio_notification_content">Current audio output device:</string>
+     <string name="switch_audio_notification_title">Device connectivity</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="app_loaction">Find on Home screen</string>
+     <string name="application_desc">App</string>
+     <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
+     <string name="barcode_install_cancel">Cancel</string>
+     <string name="barcode_install_confirm">Install</string>
+     <string name="clear_history">Clear history</string>
+     <string name="default_search_domain">.google.com</string>
+     <string name="device_settings_category_title">Clear shortcuts</string>
+     <string name="google_app_label">Google Search</string>
+     <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+     <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+     <string name="google_search_description">Google Search suggestions</string>
+     <string name="google_search_hint">Google Search</string>
+     <string name="google_search_label">Google</string>
+     <string name="google_settings_category_title">Google Search</string>
+     <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+     <string name="loading">Just a sec…</string>
+     <string name="local_app">Apps</string>
+     <string name="local_setting">Settings</string>
+     <string name="menu_settings">Search settings</string>
+     <string name="mina_name">Direct apps</string>
+     <string name="permission_prompt_started_info">"You've allowed global search"</string>
+     <string name="recently_shortcut_label">Recent shortcuts</string>
+     <string name="remove_from_history">Do you want to remove this item from the search history?</string>
+     <string name="remove_from_history_failed">"Couldn't remove item from history."</string>
+     <string name="search_apps">Search apps</string>
+     <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
+     <string name="search_group_fold">Hide</string>
+     <string name="search_group_unfold">More</string>
+     <string name="search_in_app_store">Search Mi App Store</string>
+     <string name="search_in_web">Search the web</string>
+     <string name="search_keyword_quicksearchbox">Search</string>
+     <string name="search_path_quicksearchbox">Settings/Installed apps/Search</string>
+     <string name="search_sources_summary">Choose what to search on the phone</string>
+     <string name="search_videos">Search videos</string>
+     <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
+     <string name="search_widget">Search</string>
+     <string name="send_secret_code">Send code</string>
+     <string name="show_more">Show more</string>
+     <string name="system_search_category_title">Phone</string>
+     <string name="top_clicked">Frequent items</string>
+     <string name="update_check">Check for updates</string>
+     <string name="update_right_now">Update</string>
+     <string name="update_title">Update available</string>
+     <string name="update_version_alpha">Alpha</string>
+     <string name="update_version_dev">Beta</string>
+     <string name="update_version_stable">Stable</string>
+     <string name="updated_title">MIUI is up to date</string>
+     <string name="voice_search_hint_quotation_end">\"</string>
+     <string name="voice_search_hint_quotation_start">\"</string>
+     <string name="web_search_results">Baidu</string>
+     <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
+     <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v5/hints</string>
+     <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v5/home</string>
+     <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v5/topclick</string>
+</resources>

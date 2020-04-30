@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="accept">Accept</string>
+     <string name="certificate_update_request">This printer provided a new security certificate, or another device is impersonating it. Accept the new certificate?</string>
+     <string name="connections">Connections</string>
+     <string name="fix">Review permission</string>
+     <string name="ip_hint">192.168.0.4</string>
+     <string name="media_size_l">L</string>
+     <string name="not_encrypted_request">This printer no longer accepts encrypted jobs. Continue printing?</string>
+     <string name="printer_bad_certificate">Bad certificate</string>
+     <string name="printer_description">%1$s – %2$s</string>
+     <string name="printer_not_encrypted">Not encrypted</string>
+     <string name="reject">Reject</string>
+     <string name="resolution_300_dpi">300 dpi</string>
+     <string name="security">Security</string>
+     <string name="wifi_direct_permission_rationale">Default Print Service needs location permission to find nearby devices.</string>
+     <string name="wifi_direct_printing">WLAN Direct printing</string>
+</resources>

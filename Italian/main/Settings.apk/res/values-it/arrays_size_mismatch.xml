@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <!-- Size mismatch! Translated: 9, Original: 13 -->
+     <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Use system preference (Default)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
+        <item>Enable optional codecs</item>
+        <item>Disable optional codecs</item>
+     </string-array>
+     <!-- Size mismatch! Translated: 9, Original: 13 -->
+     <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Use system preference (Default)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
+        <item>Enable optional codecs</item>
+        <item>Disable optional codecs</item>
+     </string-array>
+     <!-- Size mismatch! Translated: 3, Original: 2 -->
+     <string-array name="dark_ui_mode_entries">
+        <item>Dark</item>
+        <item>Light</item>
+     </string-array>
+     <!-- Size mismatch! Translated: 2, Original: 3 -->
+     <string-array name="notch_battery_indicator_style_entries">
+        <item>Graphical</item>
+        <item>Percentage (in the icon)</item>
+        <item>Percentage (next to the icon)</item>
+     </string-array>
+</resources>
