@@ -2,7 +2,7 @@
 <resources>
      <string name="app_name">Aggiornamenti</string>
      <string name="battery_islow">&lt;font color=#f37981&gt;Connetti il tuo caricabatterie&lt;/font&gt;</string>
-     <string name="battery_islow_desc">Il livello della batteria è troppo basso per installare l'aggiornamento in maniera sicura, connetti il tuo caricabatterie e riprova più tardi!</string>
+     <string name="battery_islow_desc">"Il livello della batteria è troppo basso per installare l'aggiornamento in maniera sicura, connetti il tuo caricabatterie e riprova più tardi!"</string>
      <string name="btn_changelog">Changelog</string>
      <string name="btn_download">Download (%1$s)</string>
      <string name="btn_error">Si è verificato un errore, provare di nuovo?</string>
@@ -17,10 +17,9 @@
      <string name="channel_downloading">Avanzamento download</string>
      <string name="channel_update">Nuova versione disponibile</string>
      <string name="check_new_version">Controlla aggiornamenti</string>
-     <string name="chengelog">%1$s</string>
      <string name="default_filedownloader_notification_content">FileDownloader è in esecuzione.</string>
      <string name="default_filedownloader_notification_title">FileDownloader</string>
-     <string name="dialog_3g_desc">Scaricare l'aggiornamento con i dati mobili potrebbe comportare consumi elevati.</string>
+     <string name="dialog_3g_desc">"Scaricare l'aggiornamento con i dati mobili potrebbe comportare consumi elevati."</string>
      <string name="dialog_3g_title">Attenzione!</string>
      <string name="dialog_btn_3g">Scarica comunque</string>
      <string name="dialog_btn_wifi">Passa al Wi-Fi</string>
@@ -31,14 +30,13 @@
      <string name="download_fail">Errore nel download!</string>
      <string name="download_fail_desc">Il checksum MD5 non corrisponde</string>
      <string name="downloading">Download in corso:</string>
-     <string name="downloading_desc">Download in corso, controlla l'avanzamento nell'area notifiche.</string>
-     <string name="fetching_data">Ricerca link dell'aggiornamento, attendere…</string>
+     <string name="downloading_desc">"Download in corso, controlla l'avanzamento nell'area notifiche."</string>
+     <string name="fetching_data">"Ricerca link dell'aggiornamento, attendere…"</string>
      <string name="install_desc">"Il dispositivo sarà riavviato in recovery e verrà installato il seguente file: %1$s</string>
      <string name="install_title">Sei sicuro di voler continuare?</string>
-     <string name="menu_title_current_version_log">Cosa c'è di nuovo?</string>
+     <string name="menu_title_current_version_log">"Cosa c'è di nuovo?"</string>
      <string name="menu_title_pick_rom_file">Scegli pacchetto di aggiornamento</string>
      <string name="menu_title_recovery">Riavvia in recovery</string>
-     <string name="message">%1$s</string>
      <string name="message_checkbox">Nascondi messaggi futuri dal team di Xiaomi.eu</string>
      <string name="message_title">NOTA!</string>
      <string name="new_version">Nuova versione trovata!</string>
@@ -64,7 +62,6 @@ Nessun aggiornamento sarà disponibile per te!"</string>
      <string name="share_desc">La MIUI è stata aggiornata alla versione %1$s, controlla le novità: %2$s</string>
      <string name="share_title">Condividi con</string>
      <string name="stable">stabile</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="version">Attualmente installato:</string>
      <string name="weekly">settimanale</string>
      <string name="wifi_recommended">Nessuna connessione Wi-Fi per iniziare il download in modo sicuro!</string>
