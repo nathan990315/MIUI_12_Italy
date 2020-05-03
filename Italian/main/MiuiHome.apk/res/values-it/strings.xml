@@ -2,7 +2,7 @@
 <resources>
      <string name="action_add_to_workspace">Aggiungi allo spazio di lavoro</string>
      <string name="activity_not_found">Applicazione non installata sul dispositivo.</string>
-     <string name="activity_not_unlocked">Aspetta che il dispositivo si sia riavviato prima di aprire un'app</string>
+     <string name="activity_not_unlocked">"Aspetta che il dispositivo si sia riavviato prima di aprire un'app"</string>
      <string name="add_custom_category">Personalizzata</string>
      <string name="add_screen">Aggiungi tasto schermo</string>
      <string name="added_all_category">Aggiunta di tutte le app completata</string>
@@ -26,14 +26,14 @@
      <string name="all_apps_setting_desktop_desc">"Mostra tutte le app nella schermata Home. Tieni premuto sull'icona dell'app per visualizzare le scorciatoie, gestirla o disinstallarla."</string>
      <string name="all_apps_setting_desktop_title">Normale</string>
      <string name="all_apps_setting_drawer_desc">"Visualizza tutte le app nel drawer che può essere aperto scorrendo verso l'alto nella schermata Home. Le app aggiunte alla schermata Home saranno comunque disponibli nel drawer."</string>
-     <string name="all_apps_setting_drawer_tips_desc">L'app drawer si apre scorrendo verso l'alto nella schermata Home. Attivare l'app drawer rimuoverà la ricerca. Cambiare comunque?</string>
-     <string name="all_apps_setting_drawer_tips_title">Utilizzare l'app drawer</string>
+     <string name="all_apps_setting_drawer_tips_desc">"L'app drawer si apre scorrendo verso l'alto nella schermata Home. Attivare l'app drawer rimuoverà la ricerca. Cambiare comunque?"</string>
+     <string name="all_apps_setting_drawer_tips_title">"Utilizzare l'app drawer"</string>
      <string name="all_apps_setting_drawer_title">Con app drawer</string>
      <string name="all_apps_setting_letter_scrollbar">A-Z</string>
      <string name="all_apps_setting_original_scrollbar">Layout originale</string>
      <string name="all_apps_setting_scroll_bar">Barra di scorrimento</string>
      <string name="all_apps_setting_title">Schermata home</string>
-     <string name="all_apps_slide_up_tips">Lo scorrimento verso l'alto è riservato all'apertura del drawer. Disattiva l'app drawer e riprova.</string>
+     <string name="all_apps_slide_up_tips">"Lo scorrimento verso l'alto è riservato all'apertura del drawer. Disattiva l'app drawer e riprova."</string>
      <string name="all_apps_suggestions">Suggerimenti app</string>
      <string name="announce_for_app_move_in_folder">Spostato nella cartella %1$d</string>
      <string name="announce_for_checked">%1$s, verificati</string>
