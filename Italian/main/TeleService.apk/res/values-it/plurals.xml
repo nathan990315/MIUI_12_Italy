@@ -24,6 +24,15 @@
         <item quantity="other">%d numeri verranno eliminati.</item>
         <item quantity="one">%d numero verrà eliminato.</item>
      </plurals>
+     <plurals name="day">
+        <item quantity="other">%s giorni</item>
+        <item quantity="one">%s giorno</item>
+     </plurals>
+     <plurals name="hour">
+        <item quantity="other">%s ore</item>
+        <item quantity="one">%s ora</item>
+     </plurals>
+
      <plurals name="pin_attempts">
         <item quantity="other">"
 		%d tentativi rimanenti."</item>
