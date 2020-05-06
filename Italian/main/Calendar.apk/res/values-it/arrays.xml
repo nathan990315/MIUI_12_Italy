@@ -1,250 +1,934 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="aquarius_info">
-        <item>aquario</item>
-        <item>Aquario</item>
-        <item>1/20 - 2/18</item>
-     </string-array>
-     <string-array name="aries_info">
-        <item>ariete</item>
-        <item>Ariete</item>
-        <item>3/21 - 4/19</item>
-     </string-array>
-     <string-array name="cancer_info">
-        <item>cancro</item>
-        <item>Cancro</item>
-        <item>6/22 - 7/22</item>
-     </string-array>
-     <string-array name="capricorn_info">
-        <item>capricorno</item>
-        <item>Capricorno</item>
-        <item>12/22 - 1/19</item>
-     </string-array>
-     <string-array name="change_response_labels">
-        <item>Solo questa istanza</item>
-        <item>Tutti gli eventi della serie</item>
-     </string-array>
-     <string-array name="close_alarm_repeating_labels">
-        <item>Solo questa volta</item>
-        <item>Disattiva ripetizione promemoria</item>
-     </string-array>
-     <string-array name="date_calculate_spinner">
-        <item>Avanti</item>
-        <item>Indietro</item>
-     </string-array>
-     <string-array name="default_reminder_labels">
-        <item>"Al momento dell'evento"</item>
-        <item>5 minuti prima</item>
-        <item>10 minuti prima</item>
-        <item>15 minuti prima</item>
-        <item>30 minuti prima</item>
-        <item>1 ora prima</item>
-        <item>1 giorno prima</item>
-        <item>2 giorni prima</item>
-        <item>1 settimana prima</item>
-     </string-array>
-     <string-array name="default_reminder_later_time_labels">
-        <item>5 minuti</item>
-        <item>10 minuti</item>
-        <item>15 minuti</item>
-        <item>30 minuti</item>
-        <item>1 ora</item>
-     </string-array>
-     <string-array name="delete_repeating_labels">
-        <item>Solo questo evento</item>
-        <item>Questo ed eventi futuri</item>
-        <item>Tutti gli eventi</item>
-     </string-array>
-     <string-array name="edit_event_dislike">
-        <item>Nessun tipo di evento che voglio creare</item>
-        <item>Più Impostazioni</item>
-        <item>Alcune impostazioni non possono essere determinate</item>
-        <item>Guardati intorno</item>
-        <item>Non dirlo</item>
-     </string-array>
-     <string-array name="gemini_info">
-        <item>gemelli</item>
-        <item>Gemelli</item>
-        <item>5/21 - 6/21</item>
-     </string-array>
-     <string-array name="leo_info">
-        <item>leone</item>
-        <item>Leone</item>
-        <item>7/23 - 8/22</item>
-     </string-array>
-     <string-array name="libra_info">
-        <item>bilancia</item>
-        <item>Bilancia</item>
-        <item>9/23 - 10/23</item>
-     </string-array>
-     <string-array name="open_alarm_repeating_labels">
-        <item>Solo questa volta</item>
-        <item>Imposta la ripetizione del promemoria</item>
-     </string-array>
-     <string-array name="pisces_info">
-        <item>pesci</item>
-        <item>Pesci</item>
-        <item>2/19 - 3/20</item>
-     </string-array>
-     <string-array name="prefEntries_alerts_popup">
-        <item>Disattivato</item>
-        <item>Per tutti gli eventi</item>
-        <item>Per gli eventi più importanti</item>
-     </string-array>
-     <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Sempre</item>
-        <item>Solo quando silenzioso</item>
-        <item>Mai</item>
-     </string-array>
-     <string-array name="preferences_default_reminder_values">
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-     </string-array>
-     <string-array name="preferences_week_start_day_labels">
-        <item>Definito dalla regione</item>
-        <item>Sabato</item>
-        <item>Domenica</item>
-        <item>Lunedì</item>
-     </string-array>
-     <string-array name="repeat_choose_end">
-        <item>Mai</item>
-        <item>Ora</item>
-        <item>Numero</item>
-     </string-array>
-     <string-array name="repeat_choose_month">
-        <item>Gen</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Apr</item>
-        <item>Mag</item>
-        <item>Giu</item>
-        <item>Lug</item>
-        <item>Ago</item>
-        <item>Set</item>
-        <item>Ott</item>
-        <item>Nov</item>
-        <item>Dic</item>
-     </string-array>
-     <string-array name="repeat_choose_week_left">
-        <item>primo</item>
-        <item>secondo</item>
-        <item>terzo</item>
-        <item>quarto</item>
-        <item>ultimo</item>
-     </string-array>
-     <string-array name="repeat_choose_week_right">
-        <item>Lun - Ven</item>
-        <item>Fine settimana</item>
-        <item>Settimana</item>
-     </string-array>
-     <string-array name="repeat_choose_weekday">
-        <item>Lun</item>
-        <item>Mar</item>
-        <item>Mer</item>
-        <item>Gio</item>
-        <item>Ven</item>
-        <item>Sab</item>
-        <item>Dom</item>
-     </string-array>
-     <string-array name="repeat_countdown">
-        <item>Mai</item>
-        <item>Mensile</item>
-        <item>Annuale</item>
-     </string-array>
-     <string-array name="repeat_frequency_spinner">
-        <item>giorno</item>
-        <item>settimana</item>
-        <item>mese</item>
-        <item>anno</item>
-     </string-array>
-     <string-array name="repeat_monthly_on_day_count_values">
-        <item>primo Lunedì</item>
-        <item>primo Martedì</item>
-        <item>primo Mercoledì</item>
-        <item>primo Giovedì</item>
-        <item>primo Venerdì</item>
-        <item>primo Sabato</item>
-        <item>prima Domenica</item>
-        <item>secondo Lunedì</item>
-        <item>secondo Martedì</item>
-        <item>secondo Mercoledì</item>
-        <item>secondo Giovedì</item>
-        <item>secondo Venerdì</item>
-        <item>secondo Sabato</item>
-        <item>seconda Domenica</item>
-        <item>terzo Lunedì</item>
-        <item>terzo Martedì</item>
-        <item>terzo Mercoledì</item>
-        <item>terzo Giovedì</item>
-        <item>terzo Venerdì</item>
-        <item>terzo Sabato</item>
-        <item>terza Domenica</item>
-        <item>quarto Lunedì</item>
-        <item>quarto Martedì</item>
-        <item>quarto Mercoledì</item>
-        <item>quarto Giovedì</item>
-        <item>quarto Venerdì</item>
-        <item>quarto Sabato</item>
-        <item>quarta Domenica</item>
-        <item>ultimo Lunedì</item>
-        <item>ultimo Martedì</item>
-        <item>ultimo Mercoledì</item>
-        <item>ultimo Giovedì</item>
-        <item>ultimo Venerdì</item>
-        <item>ultimo Sabato</item>
-        <item>ultima Domenica</item>
-     </string-array>
-     <string-array name="response_labels1">
-        <item>Senza risposta</item>
-        <item>Sì</item>
-        <item>Forse</item>
-        <item>No</item>
-     </string-array>
-     <string-array name="sagittarius_info">
-        <item>sagittario</item>
-        <item>Sagittario</item>
-        <item>11/23 - 12/21</item>
-     </string-array>
-     <string-array name="scorpio_info">
-        <item>scorpione</item>
-        <item>Scorpione</item>
-        <item>10/24 - 11/22</item>
-     </string-array>
-     <string-array name="taurus_info">
-        <item>toro</item>
-        <item>Toro</item>
-        <item>4/20 - 5/20</item>
-     </string-array>
-     <string-array name="travel_reminder_minutes_labels">
-        <item>3 ore</item>
-        <item>4 ore</item>
-        <item>5 ore</item>
-        <item>6 ore</item>
-        <item>1 giorno</item>
-     </string-array>
-     <string-array name="virgo_info">
-        <item>vergine</item>
-        <item>Vergine</item>
-        <item>8/23 - 9/22</item>
-     </string-array>
-     <string-array name="week_header_name">
-        <item>DOM</item>
-        <item>LUN</item>
-        <item>MAR</item>
-        <item>MER</item>
-        <item>GIO</item>
-        <item>VEN</item>
-        <item>SAB</item>
-     </string-array>
-     <string-array name="widget_style_list">
-        <item>Nero trasparente</item>
-        <item>Sfondo bianco</item>
-     </string-array>
+  <string-array name="alphabet_table">
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    <item>E</item>
+    <item>F</item>
+    <item>G</item>
+    <item>H</item>
+    <item>I</item>
+    <item>J</item>
+    <item>K</item>
+    <item>L</item>
+    <item>M</item>
+    <item>N</item>
+    <item>O</item>
+    <item>P</item>
+    <item>Q</item>
+    <item>R</item>
+    <item>S</item>
+    <item>T</item>
+    <item>U</item>
+    <item>V</item>
+    <item>W</item>
+    <item>X</item>
+    <item>Y</item>
+    <item>Z</item>
+    <item>\#</item>
+  </string-array>
+  <string-array name="alphabet_table_with_starred">
+    <item>!</item>
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    <item>E</item>
+    <item>F</item>
+    <item>G</item>
+    <item>H</item>
+    <item>I</item>
+    <item>J</item>
+    <item>K</item>
+    <item>L</item>
+    <item>M</item>
+    <item>N</item>
+    <item>O</item>
+    <item>P</item>
+    <item>Q</item>
+    <item>R</item>
+    <item>S</item>
+    <item>T</item>
+    <item>U</item>
+    <item>V</item>
+    <item>W</item>
+    <item>X</item>
+    <item>Y</item>
+    <item>Z</item>
+    <item>\#</item>
+  </string-array>
+  <string-array name="am_pms">
+    <item>@string/am</item>
+    <item>@string/pm</item>
+  </string-array>
+  <string-array name="aqi_level_simple_desc">
+    <item>优</item>
+    <item>良</item>
+    <item>轻度</item>
+    <item>中度</item>
+    <item>重度</item>
+    <item>严重</item>
+  </string-array>
+  <string-array name="aquarius_info">
+    <item>acquario</item>
+    <item>Acquario</item>
+    <item>1/20 - 2/18</item>
+  </string-array>
+  <string-array name="aries_info">
+    <item>ariete</item>
+    <item>Ariete</item>
+    <item>3/21 - 4/19</item>
+  </string-array>
+  <string-array name="cancer_info">
+    <item>cancro</item>
+    <item>Cancro</item>
+    <item>6/22 - 7/22</item>
+  </string-array>
+  <string-array name="capricorn_info">
+    <item>capricorno</item>
+    <item>Capricorno</item>
+    <item>12/22 - 1/19</item>
+  </string-array>
+  <string-array name="change_response_labels">
+    <item>Solo questa istanza</item>
+    <item>Tutti gli eventi della serie</item>
+  </string-array>
+  <string-array name="chinese_days">
+    <item>@string/chinese_day_1</item>
+    <item>@string/chinese_day_2</item>
+    <item>@string/chinese_day_3</item>
+    <item>@string/chinese_day_4</item>
+    <item>@string/chinese_day_5</item>
+    <item>@string/chinese_day_6</item>
+    <item>@string/chinese_day_7</item>
+    <item>@string/chinese_day_8</item>
+    <item>@string/chinese_day_9</item>
+    <item>@string/chinese_day_10</item>
+    <item>@string/chinese_day_11</item>
+    <item>@string/chinese_day_12</item>
+    <item>@string/chinese_day_13</item>
+    <item>@string/chinese_day_14</item>
+    <item>@string/chinese_day_15</item>
+    <item>@string/chinese_day_16</item>
+    <item>@string/chinese_day_17</item>
+    <item>@string/chinese_day_18</item>
+    <item>@string/chinese_day_19</item>
+    <item>@string/chinese_day_20</item>
+    <item>@string/chinese_day_21</item>
+    <item>@string/chinese_day_22</item>
+    <item>@string/chinese_day_23</item>
+    <item>@string/chinese_day_24</item>
+    <item>@string/chinese_day_25</item>
+    <item>@string/chinese_day_26</item>
+    <item>@string/chinese_day_27</item>
+    <item>@string/chinese_day_28</item>
+    <item>@string/chinese_day_29</item>
+    <item>@string/chinese_day_30</item>
+  </string-array>
+  <string-array name="chinese_digits">
+    <item>@string/chinese_digit_zero</item>
+    <item>@string/chinese_digit_one</item>
+    <item>@string/chinese_digit_two</item>
+    <item>@string/chinese_digit_three</item>
+    <item>@string/chinese_digit_four</item>
+    <item>@string/chinese_digit_five</item>
+    <item>@string/chinese_digit_six</item>
+    <item>@string/chinese_digit_seven</item>
+    <item>@string/chinese_digit_eight</item>
+    <item>@string/chinese_digit_nine</item>
+    <item>@string/chinese_digit_ten</item>
+  </string-array>
+  <string-array name="chinese_leap_months">
+    <item>@string/empty</item>
+    <item>@string/chinese_leap</item>
+  </string-array>
+  <string-array name="chinese_months">
+    <item>@string/chinese_month_january</item>
+    <item>@string/chinese_month_february</item>
+    <item>@string/chinese_month_march</item>
+    <item>@string/chinese_month_april</item>
+    <item>@string/chinese_month_may</item>
+    <item>@string/chinese_month_june</item>
+    <item>@string/chinese_month_july</item>
+    <item>@string/chinese_month_august</item>
+    <item>@string/chinese_month_september</item>
+    <item>@string/chinese_month_october</item>
+    <item>@string/chinese_month_november</item>
+    <item>@string/chinese_month_december</item>
+  </string-array>
+  <string-array name="chinese_symbol_animals">
+    <item>@string/chinese_symbol_animals_mouse</item>
+    <item>@string/chinese_symbol_animals_cow</item>
+    <item>@string/chinese_symbol_animals_tiger</item>
+    <item>@string/chinese_symbol_animals_rabbit</item>
+    <item>@string/chinese_symbol_animals_dragon</item>
+    <item>@string/chinese_symbol_animals_snake</item>
+    <item>@string/chinese_symbol_animals_horse</item>
+    <item>@string/chinese_symbol_animals_sheep</item>
+    <item>@string/chinese_symbol_animals_monkey</item>
+    <item>@string/chinese_symbol_animals_chicken</item>
+    <item>@string/chinese_symbol_animals_dog</item>
+    <item>@string/chinese_symbol_animals_pig</item>
+  </string-array>
+  <string-array name="close_alarm_repeating_labels">
+    <item>Solo questa volta</item>
+    <item>Disattiva ripetizione promemoria</item>
+  </string-array>
+  <string-array name="date_calculate_spinner">
+    <item>Avanti</item>
+    <item>Indietro</item>
+  </string-array>
+  <string-array name="default_reminder_labels">
+    <item>Al momento dell\'evento</item>
+    <item>5 minuti prima</item>
+    <item>10 minuti prima</item>
+    <item>15 minuti prima</item>
+    <item>30 minuti prima</item>
+    <item>1 ora prima</item>
+    <item>1 giorno prima</item>
+    <item>2 giorni prima</item>
+    <item>1 settimana prima</item>
+  </string-array>
+  <string-array name="default_reminder_later_time_labels">
+    <item>5 minuti</item>
+    <item>10 minuti</item>
+    <item>15 minuti</item>
+    <item>30 minuti</item>
+    <item>1 ora</item>
+  </string-array>
+  <string-array name="delete_repeating_labels">
+    <item>Solo questo evento</item>
+    <item>Questo ed eventi futuri</item>
+    <item>Tutti gli eventi</item>
+  </string-array>
+  <string-array name="detailed_am_pms">
+    <item>@string/midnight</item>
+    <item>@string/early_morning</item>
+    <item>@string/morning</item>
+    <item>@string/noon</item>
+    <item>@string/afternoon</item>
+    <item>@string/evening</item>
+    <item>@string/night</item>
+  </string-array>
+  <string-array name="di_zhi">
+    <item>甲</item>
+    <item>乙</item>
+    <item>丙</item>
+    <item>丁</item>
+    <item>戊</item>
+    <item>甲</item>
+    <item>己</item>
+    <item>庚</item>
+    <item>壬</item>
+    <item>癸</item>
+  </string-array>
+  <string-array name="earthly_branches">
+    <item>@string/earthly_branches_zi</item>
+    <item>@string/earthly_branches_chou</item>
+    <item>@string/earthly_branches_yin</item>
+    <item>@string/earthly_branches_mao</item>
+    <item>@string/earthly_branches_chen</item>
+    <item>@string/earthly_branches_si</item>
+    <item>@string/earthly_branches_wu</item>
+    <item>@string/earthly_branches_wei</item>
+    <item>@string/earthly_branches_shen</item>
+    <item>@string/earthly_branches_you</item>
+    <item>@string/earthly_branches_xu</item>
+    <item>@string/earthly_branches_hai</item>
+  </string-array>
+  <string-array name="edit_event_dislike">
+    <item>没有我想创建的事件类型</item>
+    <item>设置项有点多，懒得填写</item>
+    <item>有些设置信息无法确定</item>
+    <item>只是随便看看</item>
+    <item>不告诉你</item>
+  </string-array>
+  <string-array name="entryvalues_settings_debug">
+    <item>无</item>
+    <item>导出并发送日志</item>
+    <item>生成日志至文件管理器</item>
+    <item>查看统计设备标识</item>
+    <item>立即更新服务端配置</item>
+  </string-array>
+  <string-array name="eras">
+    <item>@string/eras_bc</item>
+    <item>@string/eras_ad</item>
+  </string-array>
+  <string-array name="fortune_gender">
+    <item>男</item>
+    <item>女</item>
+  </string-array>
+  <string-array name="fortune_random_birthday">
+    <item>1992-01-01</item>
+    <item>2013-02-04</item>
+    <item>1995-04-05</item>
+    <item>1999-08-06</item>
+    <item>1996-06-21</item>
+    <item>2014-01-18</item>
+    <item>2006-01-23</item>
+    <item>2012-01-13</item>
+    <item>1993-01-17</item>
+    <item>1980-01-08</item>
+    <item>1982-01-10</item>
+  </string-array>
+  <string-array name="fortune_random_name">
+    <item>王伟</item>
+    <item>李东</item>
+    <item>孙辉</item>
+    <item>李俊</item>
+    <item>周永</item>
+    <item>郑健</item>
+    <item>黄海</item>
+    <item>郑飞飞</item>
+    <item>程杰</item>
+    <item>宋小宝</item>
+    <item>郭德纲</item>
+  </string-array>
+  <string-array name="gemini_info">
+    <item>gemelli</item>
+    <item>Gemelli</item>
+    <item>5/21 - 6/21</item>
+  </string-array>
+  <string-array name="heavenly_stems">
+    <item>@string/heavenly_stems_jia</item>
+    <item>@string/heavenly_stems_yi</item>
+    <item>@string/heavenly_stems_bing</item>
+    <item>@string/heavenly_stems_ding</item>
+    <item>@string/heavenly_stems_wu</item>
+    <item>@string/heavenly_stems_ji</item>
+    <item>@string/heavenly_stems_geng</item>
+    <item>@string/heavenly_stems_xin</item>
+    <item>@string/heavenly_stems_ren</item>
+    <item>@string/heavenly_stems_gui</item>
+  </string-array>
+  <string-array name="jia_zi">
+    <item>甲子</item>
+    <item>乙丑</item>
+    <item>丙寅</item>
+    <item>丁卯</item>
+    <item>戊辰</item>
+    <item>己巳</item>
+    <item>庚午</item>
+    <item>辛未</item>
+    <item>壬申</item>
+    <item>癸酉</item>
+    <item>甲戌</item>
+    <item>乙亥</item>
+    <item>丙子</item>
+    <item>丁丑</item>
+    <item>戊寅</item>
+    <item>己卯</item>
+    <item>庚辰</item>
+    <item>辛巳</item>
+    <item>壬午</item>
+    <item>癸未</item>
+    <item>甲申</item>
+    <item>乙酉</item>
+    <item>丙戌</item>
+    <item>丁亥</item>
+    <item>戊子</item>
+    <item>己丑</item>
+    <item>庚寅</item>
+    <item>辛卯</item>
+    <item>壬辰</item>
+    <item>癸巳</item>
+    <item>甲午</item>
+    <item>乙未</item>
+    <item>丙申</item>
+    <item>丁酉</item>
+    <item>戊戌</item>
+    <item>己亥</item>
+    <item>庚子</item>
+    <item>辛丑</item>
+    <item>壬寅</item>
+    <item>癸卯</item>
+    <item>甲辰</item>
+    <item>乙巳</item>
+    <item>丙午</item>
+    <item>丁未</item>
+    <item>戊申</item>
+    <item>己酉</item>
+    <item>庚戌</item>
+    <item>辛亥</item>
+    <item>壬子</item>
+    <item>癸丑</item>
+    <item>甲寅</item>
+    <item>乙卯</item>
+    <item>丙辰</item>
+    <item>丁巳</item>
+    <item>戊午</item>
+    <item>己未</item>
+    <item>庚申</item>
+    <item>辛酉</item>
+    <item>壬戌</item>
+    <item>癸亥</item>
+  </string-array>
+  <string-array name="leo_info">
+    <item>leone</item>
+    <item>Leone</item>
+    <item>7/23 - 8/22</item>
+  </string-array>
+  <string-array name="libra_info">
+    <item>bilancia</item>
+    <item>Bilancia</item>
+    <item>9/23 - 10/23</item>
+  </string-array>
+  <string-array name="months">
+    <item>@string/month_january</item>
+    <item>@string/month_february</item>
+    <item>@string/month_march</item>
+    <item>@string/month_april</item>
+    <item>@string/month_may</item>
+    <item>@string/month_june</item>
+    <item>@string/month_july</item>
+    <item>@string/month_august</item>
+    <item>@string/month_september</item>
+    <item>@string/month_october</item>
+    <item>@string/month_november</item>
+    <item>@string/month_december</item>
+  </string-array>
+  <string-array name="months_short">
+    <item>@string/month_january_short</item>
+    <item>@string/month_february_short</item>
+    <item>@string/month_march_short</item>
+    <item>@string/month_april_short</item>
+    <item>@string/month_may_short</item>
+    <item>@string/month_june_short</item>
+    <item>@string/month_july_short</item>
+    <item>@string/month_august_short</item>
+    <item>@string/month_september_short</item>
+    <item>@string/month_october_short</item>
+    <item>@string/month_november_short</item>
+    <item>@string/month_december_short</item>
+  </string-array>
+  <string-array name="months_shortest">
+    <item>@string/month_january_shortest</item>
+    <item>@string/month_february_shortest</item>
+    <item>@string/month_march_shortest</item>
+    <item>@string/month_april_shortest</item>
+    <item>@string/month_may_shortest</item>
+    <item>@string/month_june_shortest</item>
+    <item>@string/month_july_shortest</item>
+    <item>@string/month_august_shortest</item>
+    <item>@string/month_september_shortest</item>
+    <item>@string/month_october_shortest</item>
+    <item>@string/month_november_shortest</item>
+    <item>@string/month_december_shortest</item>
+  </string-array>
+  <string-array name="open_alarm_repeating_labels">
+    <item>Solo questa volta</item>
+    <item>Imposta la ripetizione del promemoria</item>
+  </string-array>
+  <string-array name="pisces_info">
+    <item>pesci</item>
+    <item>Pesci</item>
+    <item>2/19 - 3/20</item>
+  </string-array>
+  <string-array name="prefEntries_alerts_popup_new">
+    <item>Spento</item>
+    <item>Per tutti gli eventi</item>
+    <item>Per eventi a tempo</item>
+  </string-array>
+  <string-array name="prefEntries_alerts_vibrateWhen">
+    <item>Sempre</item>
+    <item>Solo quando silenzioso</item>
+    <item>Mai</item>
+  </string-array>
+  <string-array name="prefValues_alerts_popup">
+    <item>nessuno</item>
+    <item>tutti</item>
+    <item>smart</item>
+  </string-array>
+  <string-array name="prefValues_alerts_vibrateWhen">
+    <item>sempre</item>
+    <item>silenzioso</item>
+    <item>mai</item>
+  </string-array>
+  <string-array name="preferences_default_reminder_later_time_values">
+    <item>300000</item>
+    <item>600000</item>
+    <item>900000</item>
+    <item>1800000</item>
+    <item>3600000</item>
+  </string-array>
+  <string-array name="preferences_default_reminder_values">
+    <item>0</item>
+    <item>5</item>
+    <item>10</item>
+    <item>15</item>
+    <item>30</item>
+    <item>60</item>
+    <item>1440</item>
+    <item>2880</item>
+    <item>10080</item>
+  </string-array>
+  <string-array name="preferences_week_start_day_labels">
+    <item>Definito dalla regione</item>
+    <item>Sabato</item>
+    <item>Domenica</item>
+    <item>Lunedì</item>
+  </string-array>
+  <string-array name="preferences_week_start_day_values">
+    <item>-1</item>
+    <item>7</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="repeat_choose_day">
+    <item>1°</item>
+    <item>2°</item>
+    <item>3°</item>
+    <item>4°</item>
+    <item>5°</item>
+    <item>6°</item>
+    <item>7°</item>
+    <item>8°</item>
+    <item>9°</item>
+    <item>10°</item>
+    <item>11°</item>
+    <item>12°</item>
+    <item>13°</item>
+    <item>14°</item>
+    <item>15°</item>
+    <item>16°</item>
+    <item>17°</item>
+    <item>18°</item>
+    <item>19°</item>
+    <item>20°</item>
+    <item>21°</item>
+    <item>22°</item>
+    <item>23°</item>
+    <item>24°</item>
+    <item>25°</item>
+    <item>26°</item>
+    <item>27°</item>
+    <item>28°</item>
+    <item>29°</item>
+    <item>30°</item>
+    <item>31°</item>
+  </string-array>
+  <string-array name="repeat_choose_end">
+    <item>Mai</item>
+    <item>Ora</item>
+    <item>Numero</item>
+  </string-array>
+  <string-array name="repeat_choose_month">
+    <item>Gen</item>
+    <item>feb</item>
+    <item>mar</item>
+    <item>apr</item>
+    <item>Mag</item>
+    <item>Giu</item>
+    <item>Lug</item>
+    <item>Ago</item>
+    <item>Set</item>
+    <item>Ott</item>
+    <item>nov</item>
+    <item>Dic</item>
+  </string-array>
+  <string-array name="repeat_choose_week_left">
+    <item>primo</item>
+    <item>secondo</item>
+    <item>terzo</item>
+    <item>quarto</item>
+    <item>ultimo</item>
+  </string-array>
+  <string-array name="repeat_choose_week_right">
+    <item>Lun - Ven</item>
+    <item>Fine settimana</item>
+    <item>Settimana</item>
+  </string-array>
+  <string-array name="repeat_choose_weekday">
+    <item>Lun</item>
+    <item>Mar</item>
+    <item>Mer</item>
+    <item>Gio</item>
+    <item>Ven</item>
+    <item>Sab</item>
+    <item>Dom</item>
+  </string-array>
+  <string-array name="repeat_countdown">
+    <item>Mai</item>
+    <item>Mensile</item>
+    <item>Annuale</item>
+  </string-array>
+  <string-array name="repeat_frequency_spinner">
+    <item>giorno</item>
+    <item>settimana</item>
+    <item>mese</item>
+    <item>anno</item>
+  </string-array>
+  <string-array name="repeat_monthly_on_day_count_values">
+    <item>primo Lunedì</item>
+    <item>primo Martedì</item>
+    <item>primo Mercoledì</item>
+    <item>primo Giovedì</item>
+    <item>primo Venerdì</item>
+    <item>primo Sabato</item>
+    <item>prima Domenica</item>
+    <item>secondo Lunedì</item>
+    <item>secondo Martedì</item>
+    <item>secondo Mercoledì</item>
+    <item>secondo Giovedì</item>
+    <item>secondo Venerdì</item>
+    <item>secondo Sabato</item>
+    <item>seconda Domenica</item>
+    <item>terzo Lunedì</item>
+    <item>terzo Martedì</item>
+    <item>terzo Mercoledì</item>
+    <item>terzo Giovedì</item>
+    <item>terzo Venerdì</item>
+    <item>terzo Sabato</item>
+    <item>terza Domenica</item>
+    <item>quarto Lunedì</item>
+    <item>quarto Martedì</item>
+    <item>quarto Mercoledì</item>
+    <item>quarto Giovedì</item>
+    <item>quarto Venerdì</item>
+    <item>quarto Sabato</item>
+    <item>quarta Domenica</item>
+    <item>ultimo Lunedì</item>
+    <item>ultimo Martedì</item>
+    <item>ultimo Mercoledì</item>
+    <item>ultimo Giovedì</item>
+    <item>ultimo Venerdì</item>
+    <item>ultimo Sabato</item>
+    <item>ultima Domenica</item>
+  </string-array>
+  <string-array name="response_labels1">
+    <item>Senza risposta</item>
+    <item>Sì</item>
+    <item>Forse</item>
+    <item>No</item>
+  </string-array>
+  <string-array name="response_labels2">
+    <item>"Non rispondere"</item>
+    <item>Accetta</item>
+    <item>Decidi dopo</item>
+    <item>Rifiuta</item>
+  </string-array>
+  <string-array name="sagittarius_info">
+    <item>sagittario</item>
+    <item>Sagittario</item>
+    <item>11/23 - 12/21</item>
+  </string-array>
+  <string-array name="scorpio_info">
+    <item>scorpione</item>
+    <item>Scorpione</item>
+    <item>10/24 - 11/22</item>
+  </string-array>
+  <string-array name="solar_terms">
+    <item>@string/empty</item>
+    <item>@string/solar_term_slight_cold</item>
+    <item>@string/solar_term_great_cold</item>
+    <item>@string/solar_term_spring_begins</item>
+    <item>@string/solar_term_the_rains</item>
+    <item>@string/solar_term_insects_awaken</item>
+    <item>@string/solar_term_vernal_equinox</item>
+    <item>@string/solar_term_clear_and_bright</item>
+    <item>@string/solar_term_grain_rain</item>
+    <item>@string/solar_term_summer_begins</item>
+    <item>@string/solar_term_grain_buds</item>
+    <item>@string/solar_term_grain_in_ear</item>
+    <item>@string/solar_term_summer_solstice</item>
+    <item>@string/solar_term_slight_heat</item>
+    <item>@string/solar_term_great_heat</item>
+    <item>@string/solar_term_autumn_begins</item>
+    <item>@string/solar_term_stopping_the_heat</item>
+    <item>@string/solar_term_white_dews</item>
+    <item>@string/solar_term_autumn_equinox</item>
+    <item>@string/solar_term_cold_dews</item>
+    <item>@string/solar_term_hoar_frost_falls</item>
+    <item>@string/solar_term_winter_begins</item>
+    <item>@string/solar_term_light_snow</item>
+    <item>@string/solar_term_heavy_snow</item>
+    <item>@string/solar_term_winter_solstice</item>
+  </string-array>
+  <string-array name="taurus_info">
+    <item>toro</item>
+    <item>Toro</item>
+    <item>4/20 - 5/20</item>
+  </string-array>
+  <string-array name="tian_gan">
+    <item>子</item>
+    <item>丑</item>
+    <item>寅</item>
+    <item>卯</item>
+    <item>辰</item>
+    <item>巳</item>
+    <item>午</item>
+    <item>未</item>
+    <item>申</item>
+    <item>酉</item>
+    <item>戌</item>
+    <item>亥</item>
+  </string-array>
+  <string-array name="timezone_labels_v3">
+    <item>Isole Marshall</item>
+    <item>Isola Midway</item>
+    <item>Hawaii</item>
+    <item>Alaska</item>
+    <item>Ora del Pacifico</item>
+    <item>Tijuana</item>
+    <item>Arizona</item>
+    <item>Chihuahua</item>
+    <item>Mountain Time</item>
+    <item>America centrale</item>
+    <item>Ora centrale</item>
+    <item>Città del Messico</item>
+    <item>Saskatchewan</item>
+    <item>Bogotá</item>
+    <item>Fuso orario orientale</item>
+    <item>Venezuela</item>
+    <item>Fuso orario dell\'Atlantico (Barbados)</item>
+    <item>Fuso orario dell\'Atlantico (Canada)</item>
+    <item>Manaus</item>
+    <item>Santiago</item>
+    <item>Terranova</item>
+    <item>Brasilia</item>
+    <item>Buenos Aires</item>
+    <item>Groenlandia</item>
+    <item>Montevideo</item>
+    <item>Medio Atlantico</item>
+    <item>Azzorre</item>
+    <item>Capo Verde</item>
+    <item>Casablanca</item>
+    <item>Londra</item>
+    <item>Dublino</item>
+    <item>Amsterdam</item>
+    <item>Berlino</item>
+    <item>Belgrado</item>
+    <item>Bruxelles</item>
+    <item>Sarajevo</item>
+    <item>Windhoek</item>
+    <item>Ora Africa Occidentale</item>
+    <item>Amman</item>
+    <item>Atene</item>
+    <item>Istanbul</item>
+    <item>Beirut</item>
+    <item>Cairo</item>
+    <item>Helsinki</item>
+    <item>Gerusalemme</item>
+    <item>Minsk</item>
+    <item>Harare</item>
+    <item>Baghdad</item>
+    <item>Mosca</item>
+    <item>Kuwait</item>
+    <item>Nairobi</item>
+    <item>Teheran</item>
+    <item>Baku</item>
+    <item>Tbilisi</item>
+    <item>Yerevan</item>
+    <item>Dubai</item>
+    <item>Kabul</item>
+    <item>Karachi</item>
+    <item>"Ural'sk"</item>
+    <item>Yekaterinburg</item>
+    <item>Kolkata</item>
+    <item>Sri Lanka</item>
+    <item>Kathmandu</item>
+    <item>Astana</item>
+    <item>Yangon</item>
+    <item>Krasnoyarsk</item>
+    <item>Bangkok</item>
+    <item>Pechino</item>
+    <item>Chongqing</item>
+    <item>Hong Kong</item>
+    <item>Macau</item>
+    <item>Singapore</item>
+    <item>Irkutsk</item>
+    <item>Kuala Lumpur</item>
+    <item>Perth</item>
+    <item>Taipei</item>
+    <item>Seoul</item>
+    <item>Tokyo</item>
+    <item>Yakutsk</item>
+    <item>Adelaide</item>
+    <item>Darwin</item>
+    <item>Brisbane</item>
+    <item>Hobart</item>
+    <item>Sydney</item>
+    <item>Canberra</item>
+    <item>Vladivostok</item>
+    <item>Guam</item>
+    <item>Magadan</item>
+    <item>Auckland</item>
+    <item>Fiji</item>
+    <item>Tonga</item>
+  </string-array>
+  <string-array name="timezone_values_v3">
+    <item>Pacific/Majuro</item>
+    <item>Pacific/Midway</item>
+    <item>Pacific/Honolulu</item>
+    <item>America/Anchorage</item>
+    <item>America/Los_Angeles</item>
+    <item>America/Tijuana</item>
+    <item>America/Phoenix</item>
+    <item>America/Chihuahua</item>
+    <item>America/Denver</item>
+    <item>America/Costa_Rica</item>
+    <item>America/Chicago</item>
+    <item>America/Mexico_City</item>
+    <item>America/Regina</item>
+    <item>America/Bogota</item>
+    <item>America/New_York</item>
+    <item>America/Caracas</item>
+    <item>America/Barbados</item>
+    <item>America/Halifax</item>
+    <item>America/Manaus</item>
+    <item>America/Santiago</item>
+    <item>America/St_Johns</item>
+    <item>America/Sao_Paulo</item>
+    <item>America/Argentina/Buenos_Aires</item>
+    <item>America/Godthab</item>
+    <item>America/Montevideo</item>
+    <item>Atlantic/South_Georgia</item>
+    <item>Atlantic/Azores</item>
+    <item>Atlantic/Cape_Verde</item>
+    <item>Africa/Casablanca</item>
+    <item>Europe/London</item>
+    <item>Europe/Dublin</item>
+    <item>Europe/Amsterdam</item>
+    <item>Europe/Berlin</item>
+    <item>Europe/Belgrade</item>
+    <item>Europe/Brussels</item>
+    <item>Europe/Sarajevo</item>
+    <item>Africa/Windhoek</item>
+    <item>Africa/Brazzaville</item>
+    <item>Asia/Amman</item>
+    <item>Europe/Athens</item>
+    <item>Europe/Istanbul</item>
+    <item>Asia/Beirut</item>
+    <item>Africa/Cairo</item>
+    <item>Europe/Helsinki</item>
+    <item>Asia/Jerusalem</item>
+    <item>Europe/Minsk</item>
+    <item>Africa/Harare</item>
+    <item>Asia/Baghdad</item>
+    <item>Europe/Moscow</item>
+    <item>Asia/Kuwait</item>
+    <item>Africa/Nairobi</item>
+    <item>Asia/Tehran</item>
+    <item>Asia/Baku</item>
+    <item>Asia/Tbilisi</item>
+    <item>Asia/Yerevan</item>
+    <item>Asia/Dubai</item>
+    <item>Asia/Kabul</item>
+    <item>Asia/Karachi</item>
+    <item>Asia/Oral</item>
+    <item>Asia/Yekaterinburg</item>
+    <item>Asia/Calcutta</item>
+    <item>Asia/Colombo</item>
+    <item>Asia/Katmandu</item>
+    <item>Asia/Almaty</item>
+    <item>Asia/Rangoon</item>
+    <item>Asia/Krasnoyarsk</item>
+    <item>Asia/Bangkok</item>
+    <item>Asia/Shanghai</item>
+    <item>Asia/Chongqing</item>
+    <item>Asia/Hong_Kong</item>
+    <item>Asia/Macao</item>
+    <item>Asia/Singapore</item>
+    <item>Asia/Irkutsk</item>
+    <item>Asia/Kuala_Lumpur</item>
+    <item>Australia/Perth</item>
+    <item>Asia/Taipei</item>
+    <item>Asia/Seoul</item>
+    <item>Asia/Tokyo</item>
+    <item>Asia/Yakutsk</item>
+    <item>Australia/Adelaide</item>
+    <item>Australia/Darwin</item>
+    <item>Australia/Brisbane</item>
+    <item>Australia/Hobart</item>
+    <item>Australia/Sydney</item>
+    <item>Australia/Canberra</item>
+    <item>Asia/Vladivostok</item>
+    <item>Pacific/Guam</item>
+    <item>Asia/Magadan</item>
+    <item>Pacific/Auckland</item>
+    <item>Pacific/Fiji</item>
+    <item>Pacific/Tongatapu</item>
+  </string-array>
+  <string-array name="travel_reminder_minutes_labels">
+    <item>3 ore</item>
+    <item>4 ore</item>
+    <item>5 ore</item>
+    <item>6 ore</item>
+    <item>1 giorno</item>
+  </string-array>
+  <string-array name="virgo_info">
+    <item>vergine</item>
+    <item>Vergine</item>
+    <item>8/23 - 9/22</item>
+  </string-array>
+  <string-array name="week_array">
+    <item>星期日</item>
+    <item>星期一</item>
+    <item>星期二</item>
+    <item>星期三</item>
+    <item>星期四</item>
+    <item>星期五</item>
+    <item>星期六</item>
+  </string-array>
+  <string-array name="week_days">
+    <item>@string/sunday</item>
+    <item>@string/monday</item>
+    <item>@string/tuesday</item>
+    <item>@string/wednesday</item>
+    <item>@string/thursday</item>
+    <item>@string/friday</item>
+    <item>@string/saturday</item>
+  </string-array>
+  <string-array name="week_days_short">
+    <item>@string/sunday_short</item>
+    <item>@string/monday_short</item>
+    <item>@string/tuesday_short</item>
+    <item>@string/wednesday_short</item>
+    <item>@string/thursday_short</item>
+    <item>@string/friday_short</item>
+    <item>@string/saturday_short</item>
+  </string-array>
+  <string-array name="week_days_shortest">
+    <item>@string/sunday_shortest</item>
+    <item>@string/monday_shortest</item>
+    <item>@string/tuesday_shortest</item>
+    <item>@string/wednesday_shortest</item>
+    <item>@string/thursday_shortest</item>
+    <item>@string/friday_shortest</item>
+    <item>@string/saturday_shortest</item>
+  </string-array>
+  <string-array name="week_header_name">
+    <item>DOM</item>
+    <item>LUN</item>
+    <item>MAR</item>
+    <item>MER</item>
+    <item>GIO</item>
+    <item>VEN</item>
+    <item>SAB</item>
+  </string-array>
+  <string-array name="widget_style_list">
+    <item>Nero trasparente</item>
+    <item>Sfondo bianco</item>
+  </string-array>
+  <string-array name="year_view_week_header_name">
+    <item>S</item>
+    <item>M</item>
+    <item>T</item>
+    <item>W</item>
+    <item>T</item>
+    <item>F</item>
+    <item>S</item>
+  </string-array>
+  <string-array name="year_view_week_header_name_other">
+    <item>7</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+  </string-array>
 </resources>
