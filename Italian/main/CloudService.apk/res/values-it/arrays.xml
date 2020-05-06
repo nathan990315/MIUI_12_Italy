@@ -130,4 +130,17 @@
         <item>Mostra elementi sincronizzati</item>
         <item>Dettagli archiviazione</item>
      </string-array>
+     <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
+        <item>Per identificare il tuo dispositivo</item>
+        <item>Per localizzare il tuo dispositivo e attivare la Modalità Perso</item>
+     </string-array>
+		 <string-array name="privacy_dialog_sync_runtime_perm_desc">
+        <item>Per sincronizzare gli eventi</item>
+        <item>Per sincronizzare gli messaggi</item>
+        <item>Per sincronizzare gli messaggi</item>
+        <item>Per sincronizzare gli contatti</item>
+        <item>Per sincronizzare gli contatti</item>
+        <item>Per salvare elementi nel dispositivo (es. immagini, video, canzoni)</item>
+     </string-array>
+
 </resources>
