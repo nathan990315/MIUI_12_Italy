@@ -104,11 +104,6 @@
   <string name="app_name">Componente di Sicurezza di Sistema</string>
   <string name="background_location_access_reminder_notification_content">Questa app può sempre accedere alla tua posizione. Tocca per cambiare.</string>
   <string name="background_location_access_reminder_notification_title">%s sta utilizzando la tua posizione</string>
-  <!-- MNPS mismatch found! Translated: 2 Original: 3
-	%s: 2 Original: 1
-	%d: 0 Original: 2 -->
-  <!-- Original string: %1$s(%2$d/%3$d) -->
-  <string name="current_permission_template">%1$s di %2$s</string>
   <string name="default_permission_description">Eseguire un\'operazione sconosciuta</string>
   <string name="grant_dialog_button_allow">Consenti</string>
   <string name="grant_dialog_button_allow_always">Consenti Sempre</string>
@@ -135,7 +130,6 @@
   <string name="permdesc_sensors">Accesso ai dati del sensore del corpo</string>
   <string name="permdesc_write_calendar">Accedere agli eventi del calendario</string>
   <string name="permdesc_write_storage">Accesso e salvataggio di foto e file sul dispositivo</string>
-<<<<<<< HEAD
      <string name="permission_group_title_charges_related">Costi</string>
      <string name="permission_group_title_media_related">Multimedia</string>
      <string name="permission_group_title_privacy_related">Privacy</string>
@@ -194,38 +188,4 @@
      <string name="virtual_reject_notice_title_contacts">Accesso ai contatti tramite %1$s</string>
      <string name="virtual_reject_notice_title_phonestate">Accesso alle info del Device tramite %1$s</string>
      <string name="virtual_reject_notice_title_sms">Accesso ai messaggi di %1$s</string>
-=======
-  <string name="permgroupdesc_calendar">Accedi agli eventi del calendario</string>
-  <string name="permgroupdesc_calllog">Accedi e salva gli elementi nella cronologia delle chiamate</string>
-  <string name="permgroupdesc_camera">Scatta foto e registra video</string>
-  <string name="permgroupdesc_contacts">Accedi ai contatti</string>
-  <string name="permgroupdesc_location">Accedi alle informazioni sulla posizione</string>
-  <string name="permgroupdesc_microphone">Registra audio</string>
-  <string name="permgroupdesc_phone">Effettua chiamate e accedi alle informazioni sul dispositivo</string>
-  <string name="permgroupdesc_recognition">Accedi alla Salute &amp; dati di attività</string>
-  <string name="permgroupdesc_sensors">Accedi ai dati del sensore corporeo</string>
-  <string name="permgroupdesc_sms">Leggi e Invia SMS</string>
-  <string name="permgroupdesc_storage">Accedi a foto e file sul dispositivo</string>
-  <string name="permission_group_title_charges_related">Costi</string>
-  <string name="permission_group_title_media_related">Multimedia</string>
-  <string name="permission_group_title_privacy_related">Privacy</string>
-  <string name="permission_group_title_sensitive_privacy_related">Autorizzazioni sensibili</string>
-  <string name="permission_group_title_settings_related">Impostazioni</string>
-  <string name="permission_list_include">"Compresi i seguenti:"</string>
-  <string name="permission_reminders">Promemoria di autorizzazione</string>
-  <string name="permission_warning_template">Consentire a %1$s di %2$s ?</string>
-  <string name="permission_warning_template_ask">Concedere a %1$s i seguenti permessi?</string>
-  <string name="permisson_reject_notice_toast_text2">"non hai il permesso per %1$s."</string>
-  <string name="screen_overlay_button">Apri impostazioni</string>
-  <string name="screen_overlay_message">Per modificare queste impostazioni di autorizzazione, devi prima disattivare la sovrapposizione dello schermo in Impostazioni &gt; Applicazioni</string>
-  <string name="screen_overlay_title">Sovrapposizione schermo rilevato</string>
-  <string name="static_cache_db_md5">824eb65433cd21456ac89ae798cb880a</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="virtual_reject_notice_content">È stata inviata una risposta vuota all\'app per proteggere le informazioni personali</string>
-  <string name="virtual_reject_notice_title_calendar">Accesso al calendario tramite %1$s</string>
-  <string name="virtual_reject_notice_title_calllog">Accesso alla cronologia delle chiamate tramite %1$s</string>
-  <string name="virtual_reject_notice_title_contacts">Accesso ai contatti tramite %1$s</string>
-  <string name="virtual_reject_notice_title_phonestate">Accesso alle info del Device tramite %1$s</string>
-  <string name="virtual_reject_notice_title_sms">Accesso ai messaggi di %1$s</string>
->>>>>>> 5fd46ba72ea9cd565546754fd55a975bc06e38df
 </resources>
