@@ -829,6 +829,7 @@ App:
      <string name="bluetooth_broadcasting">Trasmissione</string>
      <string name="bluetooth_confirm_passkey_msg">"Per l'abbinamento con:%1$s Assicurati che sia visualizzata questo codice:%2$s"</string>
      <string name="bluetooth_connect_failed">Impossibile connettersi. Riprova.</string>
+     <string name="bluetooth_connect_settings">Impostazioni di connessione Bluetooth</string>
      <string name="bluetooth_connect_specific_profiles_title">Connessione a…</string>
      <string name="bluetooth_connected">Connesso %1$s</string>
      <string name="bluetooth_connected_battery_level">Connesso, batteria al %1$s%2$s</string>
@@ -889,6 +890,7 @@ App:
      <string name="bluetooth_disconnecting">Disconnessione…</string>
      <string name="bluetooth_display_passkey_pin_msg">"Per eseguire l'abbinamento con %1$s, digita sul dispositivo:%2$s, quindi premi A capo o Invio."</string>
      <string name="bluetooth_dock_settings">Impostazioni dock</string>
+     <string name="bluetooth_display_settings">Impostazioni dello schermo Bluetooth</string>
      <string name="bluetooth_dock_settings_a2dp">Per musica e audio media</string>
      <string name="bluetooth_dock_settings_headset">Come vivavoce</string>
      <string name="bluetooth_dock_settings_remember">Ricorda impostazioni</string>
@@ -928,6 +930,8 @@ App:
      <string name="bluetooth_max_connected_audio_devices_dialog_title">Seleziona il numero massimo di dispositivi audio Bluetooth collegati</string>
      <string name="bluetooth_max_connected_audio_devices_string">Numero massimo di dispositivi audio Bluetooth connessi</string>
      <string name="bluetooth_menu_advanced">Avanzate</string>
+     <string name="bluetooth_mi_fast_connect">Mi Link</string>
+     <string name="bluetooth_mi_fast_connect_summary">Connettiti ai dispositivi Bluetooth nelle vicinanze</string>
      <string name="bluetooth_name_not_set">"Nessun nome impostato, è in uso il nome dell'account"</string>
      <string name="bluetooth_no_devices_found">Nessun dispositivo Bluetooth nelle vicinanze.</string>
      <string name="bluetooth_not_visible_to_other_devices">Non visibile ad altri dispositivi Bluetooth</string>

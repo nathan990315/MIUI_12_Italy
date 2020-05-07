@@ -47,6 +47,16 @@
      <string name="cancel">Annulla</string>
      <string name="choose_pay_title">Seleziona un metodo di pagamento</string>
      <string name="choose_picture">Seleziona immagine codice QR</string>
+     <string name="classesNameNull_toast">"Il nome della classe non può essere vuoto"</string>
+     <string name="classes_canfirmTitle">Confermare i risultati e avviare l'importazione</string>
+     <string name="classes_company">Importa</string>
+     <string name="classes_dealalert">Nota: le classi importate sovrascriveranno i dati precedenti.</string>
+     <string name="classes_delete">Cancella classe</string>
+     <string name="classes_deleteMessage">Eliminare questa classe in modo permanente? </string>
+     <string name="classes_edit_dialog_title">Nome classe</string>
+     <string name="classes_edit_name">Inserisci nome classe</string>
+     <string name="classes_fail">"Non riesco a riconoscerla. Perfavore riprova."</string>
+     <string name="classes_isNull">"Non hai ancora aggiunto alcuna classe"</string>
      <string name="common_retake_picture">Riprendi</string>
      <string name="common_retry">Prova di nuovo</string>
      <string name="common_save">Salva</string>
@@ -166,6 +176,7 @@
      <string name="secure_access_web_url">Vai al sito web</string>
      <string name="see_app_details">Visualizza dettagli app</string>
      <string name="select_dialog_confirm">OK</string>
+     <string name="select_from_album">Galleria</string>
      <string name="send_mail">Invia email</string>
      <string name="setting_alipay">Alipay</string>
      <string name="setting_choose_every_time">Chiedi sempre</string>
