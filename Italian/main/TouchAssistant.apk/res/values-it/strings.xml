@@ -6,16 +6,27 @@
      <string name="category_others">Altro</string>
      <string name="category_setting">Impostazioni</string>
      <string name="close_panel">Chiudi Assistente Touch</string>
+     <string name="copy">Copia</string>
      <string name="customize_entries">Imposta scorciatoie</string>
      <string name="enable_touch_assistant">Attiva Assistente Touch</string>
+     <string name="expand_button_title">Avanzate</string>
      <string name="function_settings">Impostazioni funzione</string>
      <string name="handy_mode_default_to_close_whether_open">La modalità Mano Singola è disattivata in modo predefinito. Attivarla adesso?</string>
      <string name="hide_touch_assistant">"Nascondi automaticamente l'Assistente Touch"</string>
      <string name="hide_touch_assistant_intro">"Nascondi l'Assistente Touch in alcune app"</string>
      <string name="hide_when_fullscreen">Nascondi a tutto schermo</string>
      <string name="hide_when_fullscreen_intro">Nascondi quando si entra in modalità a tutto schermo</string>
+     <string name="mi_ai">Scorciatoie Mi IA</string>
      <string name="mi_wallet_summary">Scheda di trasporto/Mi Pay/Scheda chiave</string>
-     <string name="motion_behavior">Modalità movimento</string>
+     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">tira per aggiornare</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">aggiornamento completato</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshing">aggiornamento...</string>
+     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">rilascia per aggiornare</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_nodata">nessun dato</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_none">non farlo</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh">aggiornamento</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fallito</string>     <string name="motion_behavior">Modalità movimento</string>
+     <string name="motion_behavior">Gesto preferito</string>
      <string name="name_alipay_payment_code">Pagamento veloce Alipay</string>
      <string name="name_alipay_scan">Scansiona codice Alipay</string>
      <string name="name_all_mipay_cards">Mi Pay</string>
@@ -39,6 +50,7 @@
      <string name="name_wechat_scan">Scansiona codice Wechat</string>
      <string name="nfc_all_mipay_card_not_in_use">Mi Pay non è attivo</string>
      <string name="nfc_trans_card_not_in_use">La carta di trasporto non è attiva</string>
+     <string name="not_set">Non impostato</string>
      <string name="not_working">%s (non funzionante)</string>
      <string name="open">Turn on</string>
      <string name="open_panel">"Apri l'Assistente touch"</string>
@@ -49,9 +61,14 @@
      <string name="pref_category_quick_pay">Pagamento rapido</string>
      <string name="pref_category_quick_settings">Impostazioni rapide</string>
      <string name="pref_category_system">Impostazioni di sistema</string>
+     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+	 
      <string name="restore_default">Ripristina predefinite</string>
      <string name="restore_intro">Ripristina le impostazioni predefinite, che includono funzionalità e ordini. Questo non eliminerà i dati sul tuo telefono.</string>
+     <string name="search_menu_title">Cerca</string>
      <string name="show_on_keyguard">Mostra su schermata di blocco</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
+     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="theme_manager_not_supported">Gestore temi non supportato.</string>
      <string name="three_seconds_auto_hide">Torna sul bordo dopo 3 secondi di inattività</string>
 </resources>

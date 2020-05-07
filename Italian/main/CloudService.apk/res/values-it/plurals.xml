@@ -72,4 +72,12 @@
         <item quantity="other">%s servizi verranno sincronizzati con Mi Cloud</item>
         <item quantity="one">%s servizio verrà sincronizzato con Mi Cloud</item>
      </plurals>
+     <plurals name="dirty_phrase_count">
+        <item quantity="other">%d frasi frequenti</item>
+        <item quantity="one">%d frase frequente</item>
+     </plurals>
+     <plurals name="select_no_more_than">
+        <item quantity="other">"Impossibile selezionare %d elementi"</item>
+        <item quantity="one">"Impossibile selezionare %d elemento"</item>
+     </plurals>
 </resources>
