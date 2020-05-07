@@ -2,19 +2,19 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <plurals name="data_item_count_pair">
-        <item quantity="other">%1$d/%2$d items</item>
-        <item quantity="one">%1$d/%2$d item</item>
+        <item quantity="other">%1$d/%2$d elementi</item>
+        <item quantity="one">%1$d/%2$d elemento</item>
      </plurals>
      <plurals name="local_main_backup_manage_summary">
-        <item quantity="other">%1$s backups (%2$s)</item>
+        <item quantity="other">%1$s backup (%2$s)</item>
         <item quantity="one">%1$s backup (%2$s)</item>
      </plurals>
      <plurals name="new_task_backup_failed">
-        <item quantity="other">"Backed up successfully. Couldn't back up %d items."</item>
-        <item quantity="one">"Backed up successfully. Couldn't back up %d item."</item>
+        <item quantity="other">"Backup completato. %d Elementi non sottoposti a backup."</item>
+        <item quantity="one">"Backup completato. %d elemento non sottoposto a backup."</item>
      </plurals>
      <plurals name="new_task_restore_failed">
-        <item quantity="other">"Restored successfully. Couldn't restore %d items."</item>
-        <item quantity="one">"Restored successfully. Couldn't restore %d item."</item>
+        <item quantity="other">"Ripristino completato. Imposssibile ripristinare %d elementi."</item>
+        <item quantity="one">"Ripristino completato. Imposssibile ripristinare %d elemento."</item>
      </plurals>
 </resources>
