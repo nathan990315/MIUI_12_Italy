@@ -330,21 +330,16 @@
      <string name="bluetooth_sap_profile_summary_connected">Collegato a SAP</string>
      <string name="bluetooth_sap_profile_summary_use_for">Usa per accesso SIM</string>
      <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bit per campione Audio Bluetooth</string>
-     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Seleziona il Codec per l'audio Bluetooth:
-Bit per Campione"</string>
+     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Seleziona il Codec per l'audio Bluetooth: Bit per Campione"</string>
      <string name="bluetooth_select_a2dp_codec_channel_mode">Modalità Canale Audio Bluetooth</string>
-     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Seleziona il Codec per l'audio Bluetooth:
-Modalità canale"</string>
+     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Seleziona il Codec per l'audio Bluetooth: Modalità canale"</string>
      <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec LDAC Audio Bluetooth: Qualità di Riproduzione</string>
-     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleziona il codec LDAC Audio Bluetooth:
-Qualità di riproduzione"</string>
+     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleziona il codec LDAC Audio Bluetooth: Qualità di riproduzione"</string>
      <string name="bluetooth_select_a2dp_codec_sample_rate">Frequenza Campione Audio Bluetooth</string>
-     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Seleziona il Codec Audio Bluetooth:
-Frequenza Campione"</string>
+     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Seleziona il Codec Audio Bluetooth: Frequenza Campione"</string>
      <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
      <string name="bluetooth_select_a2dp_codec_type">Codec Audio Bluetooth</string>
-     <string name="bluetooth_select_a2dp_codec_type_dialog_title">Seleziona Codec Audio 
-	 Bluetooth</string>
+     <string name="bluetooth_select_a2dp_codec_type_dialog_title">Seleziona Codec Audio Bluetooth</string>
      <string name="bluetooth_select_avrcp_version_dialog_title">Seleziona versione AVRCP Bluetooth AVRCP</string>
      <string name="bluetooth_select_avrcp_version_string">Versione AVRCP Bluetooth</string>
      <string name="bluetooth_show_devices_without_names">Mostra i dispositivi Bluetooth senza nomi</string>
@@ -700,10 +695,7 @@ Frequenza Campione"</string>
      <string name="contactdeleteFailed">Cancellazione dalla SIM del contatto fallita</string>
      <string name="contactdeleteSuccess">Cancellazione dalla SIM del contatto eseguita</string>
      <string name="content_description_menu_button">Menu</string>
-     <string name="convert_to_fbe_warning">"Converti partizione dati a file basato su crittografia!!
- Questo procedimento eliminerà tutti i tuoi dati.
- Questa funzionalità é in alpha, e potrebbe non funzionare correttamente.
- Premi 'Pulisci e converti…' per continuare."</string>
+     <string name="convert_to_fbe_warning">"Converti partizione dati a file basato su crittografia!! Questo procedimento eliminerà tutti i tuoi dati. Questa funzionalità é in alpha, e potrebbe non funzionare correttamente. Premi 'Pulisci e converti…' per continuare."</string>
      <string name="convert_to_file_encryption">Converti a file crittografato</string>
      <string name="convert_to_file_encryption_done">File già crittografato</string>
      <string name="convert_to_file_encryption_enabled">Converti…</string>
@@ -719,16 +711,12 @@ Frequenza Campione"</string>
      <string name="daltonizer_type_overridden">Sovrascritto da %1$s</string>
      <string name="data_disable_warning_no_mms">"Non sarà possibile inviare e ricevere MMS se si disattivano i dati mobili (WCDMA/LTE). Tuttavia, sarà possibile farlo quando il dispositivo è connesso alla rete WLAN."</string>
      <string name="data_disable_warning_with_mms">"Potrai comunque inviare e ricevere MMS se disattivi i dati mobili (WCDMA/LTE). Per utilizzare Internet, connettersi alla WLAN."</string>
-     <string name="data_disable_warning_with_mms_lgu">"Se disattivi i dati mobili, potrai comunque inviare e ricevere MMS. Per utilizzare Internet, connettersi alla WLAN.
-
-Disattivare i dati mobili?"</string>
+     <string name="data_disable_warning_with_mms_lgu">"Se disattivi i dati mobili, potrai comunque inviare e ricevere MMS. Per utilizzare Internet, connettersi alla WLAN. Disattivare i dati mobili?"</string>
      <string name="data_enable_always_warn">Chiedi se utilizzare i dati mobili</string>
      <string name="data_enable_summary">Abilita accesso dati tramite rete mobile</string>
      <string name="data_enabled">Connessione dati</string>
-     <string name="data_enable_warning_lgu">"Se non diversamente indicato nel piano dell'operatore, l'utilizzo dei dati mobili potrebbe generare costi aggiuntivi.
-
-Utilizzare comunque i dati mobili?"</string>
-     <string name="data_enabled">Dati mobili</string>
+     <string name="data_enable_warning_lgu">"Se non diversamente indicato nel piano dell'operatore, l'utilizzo dei dati mobili potrebbe generare costi aggiuntivi. Utilizzare comunque i dati mobili?"</string>
+    
      <string name="data_plan">Piano dati mobile</string>
      <string name="data_usage_disable_mobile">Disattivare rete dati mobile?</string>
      <string name="data_usage_ota">Aggiornamenti di sistema</string>
@@ -854,7 +842,7 @@ Utilizzare comunque i dati mobili?"</string>
      <string name="display_name_title">Mostra nome</string>
      <string name="do_not_show_again">Non mostrare nuovamente</string>
      <string name="domain_address">SipDomain</string>
-     <string name="domain_address_title">Server</string>
+   
      <string name="doneButton">Fatto</string>
      <string name="dtmf_tone_entries_long">Lungo</string>
      <string name="dtmf_tone_entries_normal">Normale</string>
@@ -1005,10 +993,8 @@ Utilizzare comunque i dati mobili?"</string>
      <string name="force_rtl_layout_all_locales">Forza direzione layout RTL</string>
      <string name="force_rtl_layout_all_locales_summary">Direzione layout schermo RTL per tutte le lingue</string>
      <string name="frequecy_num">num canale lte</string>
-     <string name="fw_change_failed">"Impossibile modificare il numero a cui inoltrare le chiamate.
-Contatta il tuo operatore se questo problema persiste."</string>
-     <string name="fw_get_in_vm_failed">"Impossibile recuperare e salvare l'attuale impostazione del numero a cui inoltrare le chiamate.
-Desideri passare comunque al nuovo servizio?"</string>
+     <string name="fw_change_failed">"Impossibile modificare il numero a cui inoltrare le chiamate. Contatta il tuo operatore se questo problema persiste."</string>
+     <string name="fw_get_in_vm_failed">"Impossibile recuperare e salvare l'attuale impostazione del numero a cui inoltrare le chiamate. Desideri passare comunque al nuovo servizio?"</string>
      <string name="general_news_settings">Notizie generali</string>
      <string name="general_setting">Impostazioni</string>
      <string name="get_pin2">Digita il PIN2</string>
@@ -1196,14 +1182,10 @@ Desideri passare comunque al nuovo servizio?"</string>
      <string name="menu_edit">Modifica contatto</string>
      <string name="messageCFB">Numero a cui inoltrare se occupato</string>
      <string name="messageCFNRc">Numero a cui inoltrare se non raggiungibile</string>
-     <string name="messageCFNRc_kr_kt">"Servizio di rete che devia tutte le chiamate in arrivo e i messaggi di testo a un numero specificato quando non si è in grado di rispondere alle chiamate (ad esempio, quando si è al telefono o il dispositivo è spento). Devi iscriverti a questo servizio. Contattare il centro clienti per iscriversi o annullare l'iscrizione a questo servizio. Inserire *72+[numero a cui inoltrare][Invia] per abilitare, o *720[Invia] Per disabilitare.
-
-Numero quando irraggiungibile"</string>
+     <string name="messageCFNRc_kr_kt">"Servizio di rete che devia tutte le chiamate in arrivo e i messaggi di testo a un numero specificato quando non si è in grado di rispondere alle chiamate (ad esempio, quando si è al telefono o il dispositivo è spento). Devi iscriverti a questo servizio. Contattare il centro clienti per iscriversi o annullare l'iscrizione a questo servizio. Inserire *72+[numero a cui inoltrare][Invia] per abilitare, o *720[Invia] Per disabilitare. Numero quando irraggiungibile"</string>
      <string name="messageCFNRy">Numero a cui inoltrare se non rispondi</string>
      <string name="messageCFU">Usa sempre questo numero</string>
-     <string name="messageCFU_kr_kt">"Servizio di rete che devia tutte le chiamate in arrivo e i messaggi di testo a un numero specificato. Devi iscriverti a questo servizio. Ti verrà addebitato un canone mensile. Contattare il centro clienti per iscriversi o annullare l'iscrizione a questo servizio. Inserire *71+[numero a cui inoltrare][Invia] per abilitare, o *710[Invia] Per disabilitare.
-
-Usa sempre questo numero"</string>
+     <string name="messageCFU_kr_kt">"Servizio di rete che devia tutte le chiamate in arrivo e i messaggi di testo a un numero specificato. Devi iscriverti a questo servizio. Ti verrà addebitato un canone mensile. Contattare il centro clienti per iscriversi o annullare l'iscrizione a questo servizio. Inserire *71+[numero a cui inoltrare][Invia] per abilitare, o *710[Invia] Per disabilitare. Usa sempre questo numero"</string>
      <string name="messageCW_kr_kt">Servizio di rete gratuito che consente di rispondere a una seconda chiamata, mettendo in attesa la prima... Inserire *40+[Invia] per abilitare, o *400[Invia] per disabilitare.</string>
      <string name="messageCallBarring">Inserisci password</string>
      <string name="message_decode_error">Si è verificato un errore durante la decodificazione del messaggio.</string>
@@ -1382,8 +1364,7 @@ Usa sempre questo numero"</string>
      <string name="network_settings_information">Informazione</string>
      <string name="network_settings_next">Avanti</string>
      <string name="network_settings_query_failed_message">Interrogazione rete fallita. Tocca Annulla per usare la tua rete preferita o tocca OK per riprovare.</string>
-     <string name="network_settings_select_automatic_hint">"Impossibile registrarsi sulla rete che hai selezionato.
-Sarà usata al suo posto la rete preferita."</string>
+     <string name="network_settings_select_automatic_hint">"Impossibile registrarsi sulla rete che hai selezionato. Sarà usata al suo posto la rete preferita."</string>
      <string name="network_settings_title">Rete mobile</string>
      <string name="network_settings_turn_off">Disattiva</string>
      <string name="network_settings_warn_message">Usa solo la rete che hai selezionato manualmente</string>
@@ -1461,8 +1442,7 @@ Sarà usata al suo posto la rete preferita."</string>
      <string name="ota_activate">Attivato</string>
      <string name="ota_call_end">Indietro</string>
      <string name="ota_failure">Configurazione fallita</string>
-     <string name="ota_hfa_activation_dialog_message">"Il dispositivo sta attivando il servizio dati cellulare.
-Potrebbero essere necessari fino a 5 minuti."</string>
+     <string name="ota_hfa_activation_dialog_message">"Il dispositivo sta attivando il servizio dati cellulare. Potrebbero essere necessari fino a 5 minuti."</string>
      <string name="ota_hfa_activation_title">Attivazione…</string>
      <string name="ota_listen">"Segui le istruzioni vocali finché l'attivazione non è stata completata."</string>
      <string name="ota_next">Avanti</string>
@@ -1476,14 +1456,9 @@ Potrebbero essere necessari fino a 5 minuti."</string>
      <string name="ota_title_activate">Attiva il dispositivo</string>
      <string name="ota_title_activate_success">Il dispositivo è attivato.</string>
      <string name="ota_title_problem_with_activation">"Problema con l'attivazione"</string>
-     <string name="ota_touch_activate">"È necessario effettuare una chiamata per attivare il tuo servizio telefonico. 
-
-Dopo aver premuto \"Attiva\", ascolta le istruzioni fornite per attivare il tuo dispositivo."</string>
+     <string name="ota_touch_activate">"È necessario effettuare una chiamata per attivare il tuo servizio telefonico. Dopo aver premuto \"Attiva\", ascolta le istruzioni fornite per attivare il tuo dispositivo."</string>
      <string name="ota_try_again">Riprova</string>
-     <string name="ota_unsuccessful">"Il tuo dispositivo non è stato attivato. 
-Dovresti trovare una zona dove c'è migliore copertura (vicino una finestra o all'esterno). 
-
-Riprova o chiama il servizio clienti per altre opzioni."</string>
+     <string name="ota_unsuccessful">"Il tuo dispositivo non è stato attivato. Dovresti trovare una zona dove c'è migliore copertura (vicino una finestra o all'esterno). Riprova o chiama il servizio clienti per altre opzioni."</string>
      <string name="other_available_phone_accounts">Altri account disponibili</string>
      <string name="other_settings">Altre impostazioni di chiamata</string>
      <string name="other_settings_category">Altro</string>
@@ -2032,19 +2007,16 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="tethering_settings_not_available">Impostazioni tethering non disponibili per questo utente</string>
      <string name="third_party_account_summary">"Questo account è attualmente in uso da parte dell'app %s."</string>
      <string name="throttle_current_usage">Dati usati nel periodo attuale</string>
-     <string name="throttle_data_rate_reduced_subtext">"%1$s massimo superato
-Velocità ridotta a %2$d Kb/s"</string>
+     <string name="throttle_data_rate_reduced_subtext">"%1$s massimo superato Velocità ridotta a %2$d Kb/s"</string>
      <string name="throttle_data_usage">Utilizzo dei dati</string>
      <string name="throttle_data_usage_subtext">%1$s (%2$d٪) di %3$s periodo massimo</string>
      <string name="throttle_help">Maggiori informazioni</string>
      <string name="throttle_help_subtext">Per ulteriori informazioni sui dati della rete mobile verifica le policy del tuo operatore</string>
      <string name="throttle_rate">Politica volume dati</string>
      <string name="throttle_rate_subtext">Velocità ridotta a %1$d Kb/s se superi il limite massimo</string>
-     <string name="throttle_status_subtext">"%1$s (%2$d٪) di %3$s periodo massimo
-Il prossimo periodo inizia tra %4$d giorni (%5$s)"</string>
+     <string name="throttle_status_subtext">"%1$s (%2$d٪) di %3$s periodo massimo Il prossimo periodo inizia tra %4$d giorni (%5$s)"</string>
      <string name="throttle_time_frame">Periodo uso dati</string>
-     <string name="throttle_time_frame_subtext">"%1$d٪ di ciclo trascorso
-Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
+     <string name="throttle_time_frame_subtext">"%1$d٪ di ciclo trascorso Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="time_end">A</string>
      <string name="time_end_hour">ora di interruzione</string>
      <string name="time_end_minute">minuto di interruzione</string>
@@ -2129,8 +2101,7 @@ Il prossimo periodo inizia tra %2$d giorni (%3$s)"</string>
      <string name="vice_slot_volte_data_switch_summary">Durante le chiamate VoLTE, il dispositivo si collegherà ad una rete dati mobile tramite una SIM secondaria</string>
      <string name="vice_slot_volte_data_switch_title">Usa rete dati mobile durante le chiamate VoLTE sulla SIM secondaria.</string>
      <string name="video_calling_settings_title">Videochiamata operatore</string>
-     <string name="vm_change_failed">"Impossibile modificare il numero della segreteria telefonica.
-Contatta il tuo operatore se questo problema persiste."</string>
+     <string name="vm_change_failed">"Impossibile modificare il numero della segreteria telefonica. Contatta il tuo operatore se questo problema persiste."</string>
      <string name="vm_change_pin_error_invalid">Il nuovo PIN contiene caratteri non validi.</string>
      <string name="vm_change_pin_error_mismatch">Il vecchio PIN non corrisponde.</string>
      <string name="vm_change_pin_error_system_error">Impossibile cambiare PIN</string>
@@ -2150,11 +2121,7 @@ Contatta il tuo operatore se questo problema persiste."</string>
      <string name="voice_service_cannot_call_notification_title">Impossibile effettuare chiamate sulla rete attuale</string>
      <string name="voice_service_switch_summary">Attiva per poter utilizzare la funzionalità di chiamata VoLTE nelle reti VoLTE</string>
      <string name="voice_service_switch_title">Utilizza servizi di chiamata VoLTE</string>
-     <string name="voice_service_warning_dialog_body">"Questo tablet supporta le chiamate VoLTE sulle reti 4G. Assicurati che le reti a cui è collegato il dispositivo supportino questa funzionalità. I servizi VoLTE sono forniti dal tuo operatore. Contatta il tuo operatore locale per sapere se VoLTE è supportato nella tua zona.
-     
-Se nella barra di stato viene visualizzato _, allora le chiamate VoLTE non sono disponibili. Se non è possibile effettuare o ricevere chiamate o le chiamate vengono interrotte, assicurati che la rete sia compatibile con VoLTE.
-
-Questo tablet non ha un auricolare. È possibile passare alla modalità vivavoce o utilizzare gli auricolari per effettuare chiamate."</string>
+     <string name="voice_service_warning_dialog_body">"Questo tablet supporta le chiamate VoLTE sulle reti 4G. Assicurati che le reti a cui è collegato il dispositivo supportino questa funzionalità. I servizi VoLTE sono forniti dal tuo operatore. Contatta il tuo operatore locale per sapere se VoLTE è supportato nella tua zona. Se nella barra di stato viene visualizzato _, allora le chiamate VoLTE non sono disponibili. Se non è possibile effettuare o ricevere chiamate o le chiamate vengono interrotte, assicurati che la rete sia compatibile con VoLTE. Questo tablet non ha un auricolare. È possibile passare alla modalità vivavoce o utilizzare gli auricolari per effettuare chiamate."</string>
      <string name="voice_service_warning_dialog_cancel">Annulla</string>
      <string name="voice_service_warning_dialog_ok">Fatto</string>
      <string name="voice_service_warning_dialog_ok_timer">Fatto (%d)</string>
@@ -2190,18 +2157,13 @@ Questo tablet non ha un auricolare. È possibile passare alla modalità vivavoce
      <string name="vowifi_emergency_notification_content">Le chiamate di emergenza sono possibili nelle aree con copertura della rete mobile</string>
      <string name="vowifi_emergency_notification_title">Chiamata Wi-Fi Vodafone</string>
      <string name="vowifi_emergency_warning_check">Non mostrare più</string>
-     <string name="vowifi_emergency_warning_message">"Le chiamate Wi-Fi non possono essere utilizzate per le chiamate di emergenza.
-
-Il dispositivo passerà automaticamente a una rete mobile (2G/3G) per effettuare una chiamata di emergenza.
-
-Le chiamate di emergenza sono possibili solo in aree con copertura di rete mobile."</string>
+     <string name="vowifi_emergency_warning_message">"Le chiamate Wi-Fi non possono essere utilizzate per le chiamate di emergenza. Il dispositivo passerà automaticamente a una rete mobile (2G/3G) per effettuare una chiamata di emergenza. Le chiamate di emergenza sono possibili solo in aree con copertura di rete mobile."</string>
      <string name="vowifi_emergency_warning_title">Chiamate ECC tramite Chiamata Wi-Fi</string>
      <string name="vpn_settings_not_available">Impostazioni VPN non disponibili per questo utente</string>
      <string name="vvm_unsupported_message_format">Tipi di messaggi non supportati, chiama %s per ascoltare.</string>
      <string name="wait_for_debugger">Attendi il debugger</string>
      <string name="wait_for_debugger_summary">"Applicazioni debuggate attendono il debugger prima dell'esecuzione"</string>
-     <string name="wait_prompt_str">"Inviare i seguenti toni?
-"</string>
+     <string name="wait_prompt_str">"Inviare i seguenti toni?"</string>
      <string name="wapi_all_sel_mode">Select mode</string>
      <string name="wapi_auto_sel_cert_fail">Can not select certificate automatically. Please select a certificate from the list, and then try to connect.</string>
      <string name="wapi_cert_is_not_exist">No available certificate, please install the certificate first</string>
@@ -2229,15 +2191,7 @@ Le chiamate di emergenza sono possibili solo in aree con copertura di rete mobil
      <string name="wifi_call_available_title">Turning on WLAN Calling</string>
      <string name="wifi_call_cancel">More info</string>
      <string name="wifi_call_help">Help</string>
-     <string name="wifi_call_help_message_1">"Chiamate WLAN è un servizio fornito da Orange che consente di effettuare e ricevere chiamate tramite WLAN. Questa funzione può essere utilizzata in aree con scarsa copertura della rete mobile.
-
-Per utilizzare chiamate WLAN, attivarla in Impostazioni > Chiamate WLAN.
-
-Per attivare il servizio, Orange ti invierà un messaggio di conferma non appena il servizio sarà disponibile. Sarete quindi in grado di connettervi a una rete WLAN ed effettuare chiamate.
-
-Le chiamate effettuate tramite WLAN verranno addebitate in base alle condizioni del piano tariffario.
-
-Ogni volta che questa funzione è disponibile, la seguente icona verrà visualizzata nella parte superiore dello schermo."</string>
+     <string name="wifi_call_help_message_1">"Chiamate WLAN è un servizio fornito da Orange che consente di effettuare e ricevere chiamate tramite WLAN. Questa funzione può essere utilizzata in aree con scarsa copertura della rete mobile.mPer utilizzare chiamate WLAN, attivarla in Impostazioni > Chiamate WLAN. Per attivare il servizio, Orange ti invierà un messaggio di conferma non appena il servizio sarà disponibile. Sarete quindi in grado di connettervi a una rete WLAN ed effettuare chiamate. Le chiamate effettuate tramite WLAN verranno addebitate in base alle condizioni del piano tariffario. Ogni volta che questa funzione è disponibile, la seguente icona verrà visualizzata nella parte superiore dello schermo."</string>
      <string name="wifi_call_help_message_2">"Se si sceglie di preferire le reti WLAN, verranno utilizzate per impostazione predefinita per effettuare chiamate telefoniche. Nel caso in cui non si è connessi alla rete WLAN o il segnale è debole, i dati mobili verranno utilizzati per effettuare chiamate.."</string>
      <string name="wifi_call_help_title">Aiuto chiamata WLAN</string>
      <string name="wifi_call_setting">Chiamate Wi-Fi</string>
@@ -2246,7 +2200,6 @@ Ogni volta che questa funzione è disponibile, la seguente icona verrà visualiz
      <string name="wifi_call_setting_vodafone_de">Chiamata Wi-Fi</string>
      <string name="wifi_call_setting_vodafone_uk">Chiamata Wi-Fi</string>
      <string name="wifi_call_welcome_settings">Chiamate Wi-Fi</string>
-
      <string name="wifi_calling">Chiamate Wi-Fi</string>
      <string name="wifi_calling_settings_title">Chiamta Wi-Fi</string>
      <string name="wifi_cant_connect">Impossibile collegarsi</string>
@@ -2290,7 +2243,6 @@ Ogni volta che questa funzione è disponibile, la seguente icona verrà visualiz
      <string name="wifi_security_short_eap_wpa">WPA-EAP</string>
      <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
      <string name="wifi_security_short_owe">OWE</string>
-     <string name="wifi_security_short_sae">SAE</string>
      <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
      <string name="wifi_security_short_sae">WPA3</string>
      <string name="wifi_security_short_wep">WEP</string>
@@ -2316,10 +2268,8 @@ Ogni volta che questa funzione è disponibile, la seguente icona verrà visualiz
      <string name="wifi_wapi_as_certificate">AS certificate</string>
      <string name="wifi_wapi_cert_mode_hand_text">Seleziona manuale del certificato</string>
      <string name="wifi_wapi_certification_dont_exist">I certificati WAPI non esistono. Si prega di installarli.</string>
-     <string name="wifi_wapi_fail_to_auth">"Autenticazione WAPI fallita
-Controlla la validità dei certificati"</string>
-     <string name="wifi_wapi_fail_to_init">"Impossibile aprire i certificati WAPI
-L'archivio credenziali potrebbe non essere attivato"</string>
+     <string name="wifi_wapi_fail_to_auth">"Autenticazione WAPI fallitaControlla la validità dei certificati"</string>
+     <string name="wifi_wapi_fail_to_init">"Impossibile aprire i certificati WAPI L'archivio credenziali potrebbe non essere attivato"</string>
      <string name="wifi_wapi_psk_type">Tipo di password</string>
      <string name="wifi_wapi_user_certificate">User certificate</string>
      <string name="wificall_switch_summary">Il dispositivo può passare dalla rete Wi-Fi a quella VoLTE quando la qualità della connessione risulterà scarsa</string>
