@@ -76,7 +76,6 @@
      <string name="korea_permission_record_resc">Per registrazione audio</string>
      <string name="korea_permission_storage">Archiviazione</string>
      <string name="korea_permission_storage_desc">Per salvataggio registrazioni</string>
-     <string name="loading_order_list">Caricamento ordini</string>
      <string name="loading_order_list">Attendi…</string>
      <string name="loading_order_list_empty">vuoto</string>
      <string name="low_battery_error">"Batteria rimanente inferiore al 5%. Interrompi e salva la tua registrazione per essere certo di non perderla.</string>
@@ -89,7 +88,7 @@
      <string name="mi_account_msg">Accedi al Mi Account per utilizzare il riconoscimento di precisione, entro 30 minuti libero per un nuovo utente</string>
      <string name="mi_account_ok">Accedi</string>
      <string name="mi_account_title">Accedi al Mi Account</string>
-<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
+     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
      <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
@@ -133,7 +132,6 @@
      <string name="online_recognize_order_upload">Carica</string>
      <string name="online_recognize_order_uploading">Caricamento...%s</string>
      <string name="online_recognize_other_order_upload">Audio in caricamento</string>
-     <string name="online_recognize_running">Riconoscimento di precisione...</string>
      <string name="online_recognize_running">Trascrizione…</string>
      <string name="online_recognize_service_unavailable">Il servizio non è al momento disponibile. Riprova più tardi</string>
      <string name="order_item_duration">Durata %s</string>
@@ -272,7 +270,6 @@
      <string name="speech_recognition_running_tip">in esecuzione</string>
      <string name="start">Riprendi</string>
      <string name="status_bar_back">Premi per tornare al Registratore</string>
-     <string name="status_bar_recording">Registrazione…</string>
      <string name="status_bar_recording">Registrazione…</string>
      <string name="status_bar_recording_pause">Registrazione in pausa</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
