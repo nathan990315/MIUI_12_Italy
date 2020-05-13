@@ -1,6 +1,6 @@
-# MIUI 11 Italian Strings 
+# MIUI 12 Italian Strings 
 
-ITALIAN MIUI 11 Strings for MIUI  Xiaomi.eu (www.xiaomi.eu) for multi ROMs
+ITALIAN MIUI 12 Strings for MIUI  Xiaomi.eu (www.xiaomi.eu) for multi ROMs
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
