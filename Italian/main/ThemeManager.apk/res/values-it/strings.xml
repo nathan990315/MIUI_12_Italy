@@ -114,8 +114,6 @@
      <string name="current_using_desktop_wallpaper_text">Home</string>
      <string name="current_using_float_wallpaper_text">Trasparente</string>
      <string name="current_using_lockscreen_wallpaper_text">Schermata di blocco</string>
-     <string name="current_version_incompatible">Incompatibilità di versione</string>
-     <string name="deleting">Eliminazione…</string>
      <string name="current_version_incompatible">Non compatibile</string>
      <string name="date_picker_label_day" />
      <string name="date_picker_label_month" />
@@ -280,7 +278,6 @@
      <string name="has_mamual_hide_theme">Nascosto</string>
      <string name="has_mamual_hide_wallpaper">Nascosto</string>
      <string name="hide_free">"Nascondi gratis %1$s "</string>
-     <string name="hide_incompatible">"Nascondi incompatibili %1$s"</string>
      <string name="hide_free_font">Nascondi caratteri gratuiti</string>
      <string name="hide_free_theme">Nascondi temi gratuiti</string>
      <string name="hide_free_wallpaper">Nascondi sfondi gratuiti</string>
@@ -298,10 +295,8 @@
      <string name="in_the_end">"Nient'altro"</string>
      <string name="incall_show_apply">Video profilo per le chiamate in uscita</string>
      <string name="incall_show_apply_fail">Impossibile impostare</string>
-     <string name="incall_show_apply_success">"Applicato correttamente. Per disattivare questa funzione,
-vai in Impostazioni > Suoni e vibrazione > Video profilo.""</string>
-     <string name="incall_show_apply_success_without_ringtone">"Applicato correttamente. Questo video non ha audioo. Verrà utilizzata la suoneria originale.
-Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Video profilo."</string>
+     <string name="incall_show_apply_success">"Applicato correttamente. Per disattivare questa funzione, vai in Impostazioni > Suoni e vibrazione > Video profilo.""</string>
+     <string name="incall_show_apply_success_without_ringtone">"Applicato correttamente. Questo video non ha audioo. Verrà utilizzata la suoneria originale. Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Video profilo."</string>
      <string name="incall_show_find_more">Trova altro</string>
      <string name="incall_show_not_set">Nessun video profilo</string>
      <string name="incall_show_remove">Rimuovi video profilo</string>
@@ -342,8 +337,7 @@ Per disattivare questa funzione, vai in Impostazioni > Suoni e Vibrazione > Vide
      <string name="lockstyle_personal_settings">Personalizza</string>
      <string name="loop_wallpaper_is_here">Slideshow sfondi disponibile</string>
      <string name="mi_wallpaper">Sfondo MIUI</string>
-     <string name="mine_tab_not_login">"Accedi per visualizzare.
-Tocca per accedere."</string>
+     <string name="mine_tab_not_login">"Accedi per visualizzare. Tocca per accedere."</string>
      <string name="mine_tab_title_favorite">Preferiti</string>
      <string name="mine_tab_title_like">Mi piace</string>
      <string name="mine_tab_title_local">Locale</string>
@@ -482,7 +476,6 @@ Tocca per accedere."</string>
      <string name="not_set">Non impostato</string>
      <string name="not_support_incall_show">"Questo sfondo non funziona con i video del profilo"</string>
      <string name="official_accounts">WeChat</string>
-     <string name="online_no_network">"Impossibile connettersi alla rete"</string>
      <string name="online_precust_abstract">Astratti</string>
      <string name="online_precust_animal">Animali</string>
      <string name="online_precust_building">Costruzioni</string>
