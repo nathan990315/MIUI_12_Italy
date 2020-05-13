@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+  <string name="actionbar_button_up_description">indietro</string>
+  <string name="app_name">clientSDK</string>
+  <string name="app_pkg_name">com.milink.service</string>
+  <string name="app_ver_code">1</string>
+  <string name="app_ver_name">1.0</string>
+  <string name="casting_tips">Trasmissione…</string>
+  <string name="console_guide_btn_got_it">Ok</string>
+  <string name="console_guide_subtitle_hang_up">Puoi continuare a proiettare quando lo schermo del dispositivo è spento. Questa funzione riduce il consumo energetico.</string>
+  <string name="console_guide_subtitle_private">"Non mostrare notifiche fluttuanti, chiamate in arrivo e altri elementi privati su schermi esterni"</string>
+  <string name="console_guide_subtitle_small_window">"Minimizza la finestra che viene trasmessa per poter usare altre funzioni del tuo telefono"</string>
+  <string name="dialog_can_not_find_device">"Impossibile trovare dispositivi nelle vicinanze"</string>
+  <string name="dialog_cancle">Ferma</string>
+  <string name="dialog_connect_fail">"Connessione fallita"</string>
+  <string name="dialog_connect_retry">Tocca per riprovare</string>
+  <string name="dialog_connect_verify_perssion">Autorizza la proiezione sulla TV</string>
+  <string name="dialog_connect_verify_perssion_fail">"Impossibile autorizzare la proiezione sulla TV. Attendi un minuto o due e riprova."</string>
+  <string name="dialog_connected">Connesso</string>
+  <string name="dialog_connecting">Connessione…</string>
+  <string name="dialog_nfc_cast_wifi_off">Attiva il Wi-Fi per eseguire la proiezione tramite NFC. Attivarlo ora?</string>
+  <string name="dialog_ok">OK</string>
+  <string name="dialog_only_suport_content">Trasmetti foto, video o musica</string>
+  <string name="dialog_open_wifi_bt">Apri sincronizzazione</string>
+  <string name="dialog_please_make_sure_tv_ok_or_help">"Assicurati che la funzione di trasmissione wireless sia attivata sul dispositivo di destinazione.
+Visualizza la guida se hai problemi di connessione."</string>
+  <string name="dialog_recent_connected">Recenti</string>
+  <string name="dialog_retry">Riprova</string>
+  <string name="dialog_scanning_device">Ricerca dispositivi nelle vicinanze…</string>
+  <string name="dialog_scanning_precondition">Attiva il Wi-Fi e il Bluetooth del tuo telefono per utilizzare lo Schermo Wireless.</string>
+  <string name="dialog_select_tv">Seleziona dispositivo (%d)</string>
+  <string name="dialog_show_help">Guida</string>
+  <string name="disconnect">Ferma proiezione</string>
+  <string name="hang_up">Proietta con schermo spento</string>
+  <string name="hang_up_alert_dialog_content">Continua la proiezione quando lo schermo del dispositivo è spento. Questa funzione riduce il consumo di energia. Premi il pulsante Accensione per riattivare lo schermo.</string>
+  <string name="hang_up_alert_dialog_neg">Ferma</string>
+  <string name="hang_up_alert_dialog_pos">OK</string>
+  <string name="hang_up_alert_dialog_title">Stai per proiettare con lo schermo spento…</string>
+  <string name="help_page_text_01">Guida</string>
+  <string name="help_page_text_02">Che cos\'è Proietta?</string>
+  <string name="help_page_text_03">"Proietta trasmette gli elementi dallo schermo del telefono su un monitor esterno più grande. Ti permette di condividere immagini e video con i tuoi amici e familiari senza l'utilizzo di dati mobili."</string>
+  <string name="help_page_text_04">Come faccio a proiettare elementi su uno schermo più grande?</string>
+  <string name="help_page_text_05">1: Controlla i tuoi dispositivi e l\'ambiente di rete</string>
+  <string name="help_page_text_06">"1. Non è necessario connettersi ad internet se si desidera trasmettere qualcosa da un Telefono Mi ad una Mi TV.
+2. Se non riesci a stabilire una connessione tra i due dispositivi, prova a collegarli entrambi alla stessa rete Wi-Fi."</string>
+  <string name="help_page_text_06_global">"1. Mi TV, Mi Box e Proiettori Mi:
+Collega sia il telefono che il monitor esterno alla stessa rete Wi-Fi per ottenere il miglior risultato. Se sono collegati a reti diverse, potrebbe essere necessario più tempo per individuare il monitor esterno e collegarsi.
+Nota: Le Mi TV più vecchie potrebbero non supportare la trasmissione su reti diverse.
+2. Se stai usando TV, box o proiettori di altre marche, connetti sia il telefono che il monitor esterno alla stessa rete Wi-Fi.
+Se i due dispositivi non possono essere collegati alla stessa rete, attiva Miracast sul monitor esterno. Il nome della funzionalità Miracast potrebbe variare."</string>
+  <string name="help_page_text_08">2: Attiva la proiezione</string>
+  <string name="help_page_text_09">"Tocca \"Proietta\" sulla tendina delle notifiche. Attiva sia il Wi-Fi che il Bluetooth per una connessione più stabile."</string>
+  <string name="help_page_text_10">Se vuoi trasmettere elementi dalla Galleria o da Mi Video, puoi utilizzare le funzionalità di proiezione integrate in queste applicazioni.</string>
+  <string name="help_page_text_11">3: Seleziona dispositivo</string>
+  <string name="help_page_text_12">Seleziona un dispositivo esterno dall\'elenco per iniziare la proiezione.</string>
+  <string name="help_page_text_13">"Non riesci a connetterti a un dispositivo esterno?"</string>
+  <string name="help_page_text_14">"1. Se si desidera utilizzare un dispositivo Xiaomi, ma non lo si trova nell'elenco dei dispositivi disponibili, provare quanto segue:
+Connetti sia il tuo telefono che il monitor esterno (es. la tua TV) alla stessa rete Wi-Fi o collega il monitor esterno all'hotspot del telefono. Se non sono disponibili reti Wi-Fi o non è possibile collegare entrambi i dispositivi alla stessa rete, controlla se le funzionalità di proiezione sul tuo monitor esterno sono aggiornate. Attiva il Bluetooth sia sul telefono che sul monitor esterno e attiva Miracast sulla tua TV. 
+2. Se stai proiettando su un dispositivo Xiaomi per la prima volta, devi completare la verifica. 
+3. Se vuoi usare un dispositivo non Xiaomi, ma non riesci a trovarlo nell'elenco dei dispositivi disponibili, prova quanto segue:
+Collega sia il telefono che il monitor esterno (es. la tua TV) alla stessa rete Wi-Fi o collega il monitor esterno all'hotspot del telefono. Se questo non funziona, installa l'app di proiezione LeEco sulla TV e segui le istruzioni."</string>
+  <string name="help_page_text_14_global">"1. Se si desidera utilizzare un dispositivo Xiaomi, ma non lo si trova nell'elenco dei dispositivi disponibili, provare quanto segue:
+Connetti sia il tuo telefono che il monitor esterno (es. la tua TV) alla stessa rete Wi-Fi o collega il monitor esterno all'hotspot del telefono. Se non sono disponibili reti Wi-Fi o non è possibile collegare entrambi i dispositivi alla stessa rete, controlla se le funzionalità di proiezione sul tuo monitor esterno sono aggiornate. Attiva il Bluetooth sia sul telefono che sul monitor esterno e attiva Miracast sulla tua TV. 
+2. Se stai proiettando su un dispositivo Xiaomi per la prima volta, devi completare la verifica. 
+3. Se vuoi usare un dispositivo non Xiaomi, ma non riesci a trovarlo nell'elenco dei dispositivi disponibili, prova quanto segue:
+Collega sia il telefono che il monitor esterno (es. la tua TV) alla stessa rete Wi-Fi o collega il monitor esterno all'hotspot del telefono."</string>
+  <string name="help_page_text_15">Funzionalità Miracast su diversi dispositivi</string>
+  <string name="help_page_text_16">Proiettore Mi/Mi TV</string>
+  <string name="help_page_text_17">"È possibile proiettare gli elementi dal tuo Telefono Mi su più modelli di Mi TV con funzionalità Bluetooth senza attivare Miracast manualmente.
+Se devi attivare Miracast, premi il pulsante [MENU] e seleziona Le mie app > Proiezione > Miracast."</string>
+  <string name="help_page_text_17_1">Supporto clienti Xiaomi: 400-100-5678</string>
+  <string name="help_page_text_18">TV Samsung</string>
+  <string name="help_page_text_19">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, è possibile premere il pulsante [SOURCE] sul telecomando e selezionare \"Screen Mirroring\". Questa funzionalità è attivata di default su vari modelli.</string>
+  <string name="help_page_text_20">Supporto clienti Samsung: 400-810-5858</string>
+  <string name="help_page_text_21">TV LG</string>
+  <string name="help_page_text_22">Innanzitutto, assicurati che la funzionalità di Miracast sia supportata sul tuo dispositivo. Questa funzionalità è attiva di default su vari modelli.</string>
+  <string name="help_page_text_23">Supporto clienti LG: 400-819-9999</string>
+  <string name="help_page_text_24">TV Philips</string>
+  <string name="help_page_text_25">Innanzitutto, assicurati che la funzionalità di Miracast sia supportata sul tuo dispositivo. Questa funzionalità è attiva di default su vari modelli.</string>
+  <string name="help_page_text_26">Supporto clienti Philips: 400-880-0008</string>
+  <string name="help_page_text_27">TPV</string>
+  <string name="help_page_text_28">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, è possibile premere il pulsante [MENU] sul telecomando e selezionare Impostazioni > Connessione > Rete > Multi Schermo.</string>
+  <string name="help_page_text_29">Supporto clienti TPV: 400-887-8007</string>
+  <string name="help_page_text_30">Hisense</string>
+  <string name="help_page_text_31">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, puoi premere il pulsante [SMART] sul telecomando e selezionare Proiezione > Display Wireless. Alcuni modelli supportano anche la trasmissione per i giochi: Hi Cast > Proietta Giochi > Android.</string>
+  <string name="help_page_text_32">Supporto clienti Hisense: 400-611-1111</string>
+  <string name="help_page_text_33">Skyworth</string>
+  <string name="help_page_text_34">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, puoi selezionare Applicazioni > Proiezione > Dispositivo Android > Miracast.</string>
+  <string name="help_page_text_35">Assistenza clienti Skyworth: 95105555</string>
+  <string name="help_page_text_36">Sony</string>
+  <string name="help_page_text_37">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, è possibile premere il pulsante [SOURCE] sul telecomando e selezionare \"Screen Mirroring\". Su altri modelli è possibile attivare la funzione in Reti > Wi-Fi Direct. Questa funzionalità è attivata di default su vari modelli.</string>
+  <string name="help_page_text_38">Supporto clienti Sony: 400-810-9000</string>
+  <string name="help_page_text_39">Panasonic</string>
+  <string name="help_page_text_40">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, puoi selezionare App > Screen Mirroring.</string>
+  <string name="help_page_text_41">Supporto clienti Panasonic: 400-881-1315</string>
+  <string name="help_page_text_42">Changhong</string>
+  <string name="help_page_text_43">Controlla le impostazioni della TV per assicurarsi che il monitor esterno supporti le funzionalità di Miracast.</string>
+  <string name="help_page_text_44">Supporto clienti Changhong: 400-811-1666</string>
+  <string name="help_page_text_45">TCL</string>
+  <string name="help_page_text_46">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, puoi selezionare App > Display Wireless.</string>
+  <string name="help_page_text_47">Supporto clienti TCL: 400-812-3456</string>
+  <string name="help_page_text_48">AODIN</string>
+  <string name="help_page_text_49">Per prima cosa, assicurati che la funzionalità di Miracast sia supportata sul tuo dispositivo. Per attivare questa funzionalità, vai su Le mie app > Display WiFi.</string>
+  <string name="help_page_text_50">Supporto clienti AODIN: 400-810-5858</string>
+  <string name="help_page_text_51">LeEco</string>
+  <string name="help_page_text_52">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, puoi attivare questa funzione in Impostazioni > Reti > Multi Schermo > Display Wireless.</string>
+  <string name="help_page_text_53">Supporto clienti LeEco: 10109000</string>
+  <string name="help_page_text_55">"Se non riesci a connetterti alla rete, assicurati che il tuo monitor esterno supporti la funzionalità di Miracast e che sia attivata. Su alcuni modelli, questa funzione si chiama Display Wireless, Screen Mirroring, Multi Schermo. Visualizza le informazioni qui sotto per imparare come attivare Miracast.
+4. Se riscontri problemi, puoi segnalarli utilizzando la nostra app \"Servizi e feedback\"."</string>
+  <string name="help_page_text_55_global">"Se non riesci a connetterti alla rete, assicurati che il tuo monitor esterno supporti la funzionalità di Miracast e che sia attivata. Su alcuni modelli, questa funzione si chiama Display Wireless, Screen Mirroring, Multi Schermo.
+4. Se riscontri problemi, puoi segnalarli utilizzando la nostra app \"Servizi e feedback\"."</string>
+  <string name="help_page_text_end">"Se la marca del tuo dispositivo non è elencata qui, contatta il produttore per sapere di più sulla funzionalità di proiezione."</string>
+  <string name="nfc_connect_failed_toast">"Impossibile Proiettare. Riprova."</string>
+  <string name="notification_rc_title">Assistente Xiaomi TV</string>
+  <string name="notification_show_more">Tocca per vedere altre funzionalità</string>
+  <string name="privacy_agree">Accetto</string>
+  <string name="privacy_detail">&lt;Data&gt;&amp;#35831;&amp;#24744;&amp;#21516;&amp;#24847;&amp;#24212;&amp;#29992;&amp;#32852;&amp;#32593;&amp;#21450;&amp;#20197;&amp;#19978;&amp;#24517;&amp;#35201;&amp;#26435;&amp;#38480;&amp;#65292;&amp;#38405;&amp;#35835;&amp;#24182;&amp;#21516;&amp;#24847;&amp;#25105;&amp;#20204;&amp;#30340;&amp;lt;a href=%1$s&amp;gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#19982;&amp;lt;a href=%2$s&amp;gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#65292;&amp;#20102;&amp;#35299;&amp;#24744;&amp;#30340;&amp;#29992;&amp;#25143;&amp;#26435;&amp;#30410;&amp;#21450;&amp;#30456;&amp;#20851;&amp;#20351;&amp;#29992;&amp;#25968;&amp;#25454;&amp;#30340;&amp;#22788;&amp;#29702;&amp;#26041;&amp;#27861;&amp;#12290;&lt;/Data&gt;</string>
+  <string name="privacy_detail_extra">&lt;Data&gt;&amp;#37096;&amp;#20998;&amp;#25237;&amp;#23631;&amp;#21151;&amp;#33021;&amp;#26377;&amp;#31532;&amp;#19977;&amp;#26041;&amp;#20844;&amp;#21496;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#25552;&amp;#20379;&amp;#25903;&amp;#25345;&amp;#65292;&amp;#35831;&amp;#24744;&amp;#21516;&amp;#26102;&amp;#38405;&amp;#35835;&amp;#24182;&amp;#21516;&amp;#24847;&amp;lt;a href=%1$s&amp;gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#19982;&amp;lt;a href=%2$s&amp;gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+  <string name="privacy_explain">欢迎使用投屏，您可使用本应用将手机画面实时同步至电视/电视盒子/投影等大屏设备。在使用本应用的过程中，我们将联网并向您申请以下权限：</string>
+  <string name="privacy_link_1">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
+  <string name="privacy_link_2">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
+  <string name="privacy_negative">退出</string>
+  <string name="privacy_permission_ble">开启/关闭蓝牙</string>
+  <string name="privacy_permission_ble_desc">使用蓝牙扫描附近可投屏的设备</string>
+  <string name="privacy_permission_location">获取设备的位置信息</string>
+  <string name="privacy_permission_location_desc">获取附近可投屏的设备信息</string>
+  <string name="privacy_permission_necessary">必要权限</string>
+  <string name="privacy_permission_necessary_desc">用于该应用的基本服务与功能</string>
+  <string name="privacy_permission_nfc">NFC</string>
+  <string name="privacy_permission_nfc_desc">使用NFC关联您要投屏的设备</string>
+  <string name="privacy_permission_optional">可选权限</string>
+  <string name="privacy_permission_optional_desc">用于附加功能，将在您使用相关功能时向您申请</string>
+  <string name="privacy_permission_wlan">开启/关闭WLAN</string>
+  <string name="privacy_permission_wlan_desc">使用WLAN扫描附近可投屏的设备</string>
+  <string name="privacy_positive">同意</string>
+  <string name="privacy_text_1">"&lt;Data&gt;\"Benvenuto in Proietta! Proiettare permette di trasmettere gli elementi dal tuo schermo ad un monitor esterno più grande.
+Proteggeremo le tue informazioni personali in conformità con le leggi, i regolamenti e le politiche sulla privacy. Alcune funzionalità sono fornite da un fornitore di servizi di terze parti HappyCast. Prima di utilizzare questa funzione, leggi e accetta &amp;lt;a href=%2$s&amp;gt;Dichiarazione giuridica HappyCast&amp;lt; a&amp;gt; e &amp;lt;a href=%1$s&amp;gt;Politica sulla Privacy HappyCast &amp;lt;/a&amp;gt;.
+Per poter lavorare normalmente, questa applicazione deve collegarsi ad internet e richiede le seguenti autorizzazioni per raccogliere le tue informazioni personali:\"&lt;/Data&gt;"</string>
+  <string name="privacy_text_2">"&lt;Data&gt;\"Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questa app. In questi casi puoi scegliere di disinstallare l'applicazione, disconnetterti o limitare le autorizzazioni nelle impostazioni.
+Leggi e accetta i nostri &amp;lt;a href=%1$s&amp;gt;Contratto utente&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt; prima di utilizzare questa funzione.&lt;/Data&gt;"</string>
+  <string name="privacy_text_pemission">"•Accedere e salvare le immagini sul tuo dispositivo per proiettare questi elementi su schermi esterni
+•Registrare chiamate e audio per trasmettere audio su dispositivi esterni
+•Accedere al numero di telefono, IMEI e IMSI per identificare il tuo dispositivo
+•Accedere alla tua posizione per trovare dispositivi nelle vicinanze"</string>
+  <string name="privacy_title">用户须知</string>
+  <string name="private_protect">Nascondi elementi privati</string>
+  <string name="san_wait_msg_1">Attiva la trasmissione wireless sul dispositivo di destinazione</string>
+  <string name="san_wait_msg_2">La ricerca di dispositivi potrebbe richiedere del tempo…</string>
+  <string name="san_wait_msg_3">"I dispositivi esterni sono più facili da trovare quando sono connessi alla stessa rete del tuo telefono"</string>
+  <string name="san_wait_msg_4">"Visualizza \"Guida\" se non riesci a trovare dispositivi"</string>
+  <string name="sdk_name">lebo</string>
+  <string name="small_window">Riduci finestra</string>
+  <string name="small_window_not_supported">"Non è possibile ridurre questa app mentre è in fase di proiezione"</string>
+  <string name="status_bar_in_casting">Trasmissione…</string>
+  <string name="status_bar_in_casting_long">Tocca per vedere altre funzionalità di proiezione</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="tile_label">Trasmetti</string>
+  <string name="toast_guide_show_more">Scopri di più</string>
+  <string name="toast_guide_title">Esplora le nostre nuove funzionalità qui</string>
+  <string name="toast_msg_for_multi_window">"Impossibile utilizzare questa funzionalità in modalità Split Screen"</string>
+  <string name="toast_msg_for_small_window">"Puoi ridurre la finestra proiettata per poter utilizzare altre funzioni del tuo telefono senza interrompere il processo di trasmissione."</string>
+  <string name="toast_nfc_dont_move">"Non allontanare il telefono"</string>
+  <string name="toast_title_for_small_window">Seleziona \"Riduci finestra\" nell\'app</string>
+  <string name="toast_turn_off_hotspot_before_cast">Disattiva l\'hotspot portatile prima di proiettare</string>
+</resources>
