@@ -1,24 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Eliminare %d download?</item>
-        <item quantity="one">Eliminare %d download?</item>
-     </plurals>
-     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%s download eliminati con successo</item>
-        <item quantity="one">%s download eliminato con successo</item>
-     </plurals>
-     <plurals name="numberOfItemsAvailable">
-        <item quantity="other">Eliminare %d elementi?</item>
-        <item quantity="one">Eliminare questo elemento?</item>
-     </plurals>
-     <plurals name="sniff_find_resource">
-        <item quantity="other">Trovati %d elementi</item>
-        <item quantity="one">Trovato 1 elemento</item>
-     </plurals>
-     <plurals name="sniff_find_result">
-        <item quantity="other">Trovati %d risultati</item>
-        <item quantity="one">Trovato 1 risultato</item>
-     </plurals>
+  <plurals name="dialog_confirm_delete_downloads_message">
+    <item quantity="other">Eliminare %d download?</item>
+    <item quantity="one">Eliminare %d download?</item>
+  </plurals>
+  <plurals name="download_info_count_deleted_tasks">
+    <item quantity="other">%s download eliminati con successo</item>
+    <item quantity="one">%s download eliminato con successo</item>
+  </plurals>
+  <plurals name="durationDays">
+    <item quantity="other">%1$d giorni</item>
+    <item quantity="one">%1$d giorno</item>
+  </plurals>
+  <plurals name="durationHours">
+    <item quantity="other">%1$d ore</item>
+    <item quantity="one">%1$d ora</item>
+  </plurals>
+  <plurals name="durationMinutes">
+    <item quantity="other">%1$d min</item>
+    <item quantity="one">%1$d min</item>
+  </plurals>
+  <plurals name="durationSeconds">
+    <item quantity="other">%1$d sec</item>
+    <item quantity="one">%1$d sec</item>
+  </plurals>
+  <plurals name="numberOfItemsAvailable">
+    <item quantity="other">Eliminare %d elementi?</item>
+    <item quantity="one">Eliminare questo elemento?</item>
+  </plurals>
+  <plurals name="number_items">
+    <item quantity="other">%s elementi</item>
+    <item quantity="one">%s elemento</item>
+  </plurals>
+  <plurals name="sniff_find_resource">
+    <item quantity="other">Trovati %d elementi</item>
+    <item quantity="one">Trovato 1 elemento</item>
+  </plurals>
+  <plurals name="sniff_find_result">
+    <item quantity="other">Trovati %d risultati</item>
+    <item quantity="one">Trovato 1 risultato</item>
+  </plurals>
 </resources>

@@ -1,55 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-     <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">Sospensione per %d minuti.</item>
-        <item quantity="one">Sospensione per %d minuto.</item>
-     </plurals>
-     <plurals name="day">
-        <item quantity="other">%d giorni</item>
-        <item quantity="one">%d giorno</item>
-     </plurals>
-     <plurals name="delete_alarm_confirm">
-        <item quantity="other">Eliminare le sveglie selezionate?</item>
-        <item quantity="one">Eliminare questa sveglia?</item>
-     </plurals>
-     <plurals name="delete_timezone_confirm">
-        <item quantity="other">Eliminare i fusi orari selezionati?</item>
-        <item quantity="one">Eliminare questo fuso orario?</item>
-     </plurals>
-     <plurals name="hour">
-        <item quantity="other">%d ore</item>
-        <item quantity="one">%d ora</item>
-     </plurals>
-     <plurals name="life_post_wake_up_item_acumu_day">
-        <item quantity="other">%1$d giorni</item>
-        <item quantity="one">%1$d giorno</item>
-     </plurals>
-     <plurals name="minute">
-        <item quantity="other">%d minuti</item>
-        <item quantity="one">%d minuto</item>
-     </plurals>
-     <plurals name="second">
-        <item quantity="other">%d secondi</item>
-        <item quantity="one">%d secondo</item>
-     </plurals>
-     <plurals name="snooze_duration_summary">
-        <item quantity="other">La sveglia verrà disattivata %2$s volte (%1$s min. ciascuna)</item>
-        <item quantity="one">La sveglia verrà disattivata %2$s volte (%1$s min.)</item>
-     </plurals>
-     <plurals name="snooze_message">
-        <item quantity="other">Sospendi per %d minuti</item>
-        <item quantity="one">Sospendi per %d minuto</item>
-     </plurals>
-     <plurals name="timer_message_hour">
-        <item quantity="other">"%1$d ore "</item>
-        <item quantity="one">"%1$d ora "</item>
-     </plurals>
-     <plurals name="timer_message_minute">
-        <item quantity="other">"%1$d minuti "</item>
-        <item quantity="one">"%1$d minuto "</item>
-     </plurals>
-     <plurals name="timer_message_second">
-        <item quantity="other">%1$d secondi</item>
-        <item quantity="one">%1$d secondo</item>
-     </plurals>
+  <plurals name="alarm_alert_snooze_set">
+    <item quantity="other">Sospensione per %d minuti.</item>
+    <item quantity="one">Sospensione per %d minuto.</item>
+  </plurals>
+  <plurals name="day">
+    <item quantity="other">%d giorni</item>
+    <item quantity="one">%d giorno</item>
+  </plurals>
+  <plurals name="delete_alarm_confirm">
+    <item quantity="other">Eliminare le sveglie selezionate?</item>
+    <item quantity="one">Eliminare questa sveglia?</item>
+  </plurals>
+  <plurals name="delete_timezone_confirm">
+    <item quantity="other">Eliminare i fusi orari selezionati?</item>
+    <item quantity="one">Eliminare questo fuso orario?</item>
+  </plurals>
+  <plurals name="hour">
+    <item quantity="other">%d ore</item>
+    <item quantity="one">%d ora</item>
+  </plurals>
+  <plurals name="life_post_wake_up_item_acumu_day">
+    <item quantity="other">%1$d giorni</item>
+    <item quantity="one">%1$d giorno</item>
+  </plurals>
+  <plurals name="minute">
+    <item quantity="other">%d minuti</item>
+    <item quantity="one">%d minuto</item>
+  </plurals>
+  <plurals name="minute_text">
+    <item quantity="other">" min"</item>
+    <item quantity="one">" min"</item>
+  </plurals>
+  <plurals name="second">
+    <item quantity="other">%d secondi</item>
+    <item quantity="one">%d secondo</item>
+  </plurals>
+  <plurals name="sleep_duration_hour">
+    <item quantity="other">%1$s ore</item>
+    <item quantity="one">%1$s ora</item>
+  </plurals>
+  <plurals name="sleep_duration_hour_avg">
+    <item quantity="other">%1$s ore</item>
+    <item quantity="one">%1$s ora</item>
+  </plurals>
+  <plurals name="sleep_duration_min">
+    <item quantity="other">%1$s minuti</item>
+    <item quantity="one">%1$s minuto</item>
+  </plurals>
+  <plurals name="sleep_duration_min_avg">
+    <item quantity="other">%1$s min</item>
+    <item quantity="one">%1$s min</item>
+  </plurals>
+  <plurals name="snooze_duration_changed_info">
+    <item quantity="other">Cambiato intervallo di sospensione a %d minuti</item>
+    <item quantity="one">Cambiato intervallo di sospensione a %d minuto</item>
+  </plurals>
+  <plurals name="snooze_duration_count">
+    <item quantity="other">Disattiva %1$s volte</item>
+    <item quantity="one">Disattiva %1$s volta</item>
+  </plurals>
+  <plurals name="snooze_duration_desc">
+    <item quantity="other">Ogni %1$s min, disattiva %2$s volte</item>
+    <item quantity="one">Ogni %1$s min, disattiva %2$s volta</item>
+  </plurals>
+  <plurals name="snooze_duration_min">
+    <item quantity="other">Ogni %1$s min</item>
+    <item quantity="one">Ogni %1$s min</item>
+  </plurals>
+  <plurals name="snooze_duration_summary">
+    <item quantity="other">La sveglia verrà disattivata %2$s volte (%1$s min. ciascuna)</item>
+    <item quantity="one">La sveglia verrà disattivata %2$s volte (%1$s min.)</item>
+  </plurals>
+  <plurals name="snooze_message">
+    <item quantity="other">Sospendi per %d minuti</item>
+    <item quantity="one">Sospendi per %d minuto</item>
+  </plurals>
+  <plurals name="timer_message_hour">
+    <item quantity="other">"%1$d ore "</item>
+    <item quantity="one">"%1$d ora "</item>
+  </plurals>
+  <plurals name="timer_message_minute">
+    <item quantity="other">"%1$d minuti "</item>
+    <item quantity="one">"%1$d minuto "</item>
+  </plurals>
+  <plurals name="timer_message_second">
+    <item quantity="other">%1$d secondi</item>
+    <item quantity="one">%1$d secondo</item>
+  </plurals>
+  <plurals name="worldcolock_timezone_gap_fast">
+    <item quantity="other">%s ore avanti</item>
+    <item quantity="one">%s ora avanti</item>
+  </plurals>
+  <plurals name="worldcolock_timezone_gap_slow">
+    <item quantity="other">%s ore indietro</item>
+    <item quantity="one">%s ora indietro</item>
+  </plurals>
 </resources>
