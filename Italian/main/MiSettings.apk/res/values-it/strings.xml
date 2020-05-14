@@ -397,7 +397,7 @@
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sunday">Domenica</string>
   <string name="sunday_short">Dom</string>
-  <string name="sunday_shortest">D</string>
+  <string name="sunday_shortest">Dom</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
   <string name="the_anti_aggression_day">Giornata della pace</string>
   <string name="the_arbor_day">Giorno dei mestieri</string>
@@ -441,7 +441,7 @@
   <string name="thememanager_not_found">"Impossibile aprire i temi. Assicurati che l'app sia installata sul dispositivo."</string>
   <string name="thursday">Giovedì</string>
   <string name="thursday_short">Gio</string>
-  <string name="thursday_shortest">G</string>
+  <string name="thursday_shortest">Gio</string>
   <string name="time_picker_dialog_title">Imposta ora</string>
   <string name="time_picker_label_hour">O</string>
   <string name="time_picker_label_minute">M</string>
@@ -460,7 +460,7 @@
   <string name="trend_from_yesterday_more_simple">%1$s in più di ieri</string>
   <string name="tuesday">Martedì</string>
   <string name="tuesday_short">Mar</string>
-  <string name="tuesday_shortest">M</string>
+  <string name="tuesday_shortest">Mar</string>
   <string name="unlock_times_per_day">"Media giornaliera: "</string>
   <string name="unlock_times_per_hour">"Sblocchi all'ora: "</string>
   <string name="usage_agree">Accetto</string>
@@ -521,8 +521,12 @@ Questa app deve anche connettersi a internet e richiede le seguenti autorizzazio
   <string name="usage_home_premission_second_summary_double_link_prefix">"Proteggeremo le tue informazioni personali in conformità con le leggi, i regolamenti e le politiche sulla privacy. Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questa app. Puoi revocare la tua autorizzazione in Benessere Digitale > Impostazioni > Disattiva Benessere Digitale."</string>
   <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data&gt;\"Ho letto e accettato l'&amp;lt;a href=%1s&amp;gt;Accordo utente&amp;lt;/a&amp;gt; e &amp;lt;a href=%2s&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;.\"&lt;/Data&gt;"</string>
   <string name="usage_home_premission_second_summary_new">"Proteggeremo le tue informazioni personali in conformità con le leggi, i regolamenti e le politiche sulla privacy. Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questa app. Puoi revocare la tua autorizzazione in Benessere Digitale > Impostazioni > Disattiva Benessere Digitale. Se hai altre domande sulla privacy, puoi contattarci all'indirizzo privacy@xiaomi.com."</string>
+  <string name="usage_new_home_app_limit_summary">Impostare un limite di tempo giornaliero per questa applicazione</string>
+  <string name="usage_new_home_app_limit_title">Limite di tempo giornaliero</string>
   <string name="usage_new_home_average">"Media "</string>
+  <string name="usage_new_home_avg_usage_day">Media %s giornaliera</string>
   <string name="usage_new_home_category">Categoria</string>
+  <string name="usage_new_home_classify_manage">Gestisci categorie app</string>
   <string name="usage_new_home_compare_text1">%.2f più del giorno precedente</string>
   <string name="usage_new_home_compare_text2">%.2f meno del giorno precedente</string>
   <string name="usage_new_home_compare_text3">Come il giorno precedente</string>
@@ -536,9 +540,11 @@ Questa app deve anche connettersi a internet e richiede le seguenti autorizzazio
   <string name="usage_new_home_name">Nome</string>
   <string name="usage_new_home_show_more_data_summary">Puoi anche limitare il tempo di utilizzo per le singole app</string>
   <string name="usage_new_home_show_more_data_title">Visualizza altre statistiche</string>
+  <string name="usage_new_home_sys_no_limit_summary">"Impossibile limitare il tempo di utilizzo per le app di sistema"</string>
   <string name="usage_new_home_unlock_equals_text">Come il giorno precedente</string>
   <string name="usage_new_home_unused">"Non utilizzato"</string>
   <string name="usage_new_home_update">Cambia</string>
+  <string name="usage_new_home_usage_detail">dettagli di utilizzo</string>
   <string name="usage_new_home_week_category_title">Categorie app</string>
   <string name="usage_new_home_week_compare_text1">%.2f più della settimana precedente</string>
   <string name="usage_new_home_week_compare_text2">%.2f meno della settimana precedente</string>
@@ -707,6 +713,6 @@ Questa app deve collegarsi a internet e richiede le seguenti autorizzazioni per 
   <string name="wait_tip">Attendi…</string>
   <string name="wednesday">Mercoledì</string>
   <string name="wednesday_short">Mer</string>
-  <string name="wednesday_shortest">M</string>
+  <string name="wednesday_shortest">Mer</string>
   <string name="yesterday">ieri</string>
 </resources>
