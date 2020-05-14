@@ -100,7 +100,7 @@
   <string name="callAgain">Richiama</string>
   <string name="callBack">Richiama</string>
   <string name="callDetailTitle">Dettagli chiamata</string>
-  <string name="callDetailsDurationFormat">%s min %s sec</string>
+  <string name="callDetailsDurationFormat">%1$s min %2$s sec</string>
   <string name="callShortcutActivityTitle">Scegli un numero da chiamare</string>
   <string name="call_assistant">Chiama %s</string>
   <string name="call_callback">Chiama n. di richiamata</string>
@@ -624,13 +624,13 @@ Per evitare richieste frequenti, noi aggiorneremo le informazioni del saldo una 
 Motivo: \"%s\""</string>
   <string name="exporting_contact_failed_title">"Impossibile esportare"</string>
   <string name="exporting_contact_list_message">I dati dei contatti sono in fase di esportazione in: %s.</string>
-  <string name="exporting_contact_list_progress">%s contatti su %s</string>
+  <string name="exporting_contact_list_progress">%1$s of %2$s contacts</string>
   <string name="exporting_contact_list_title">Esportazione dati contatti</string>
   <string name="exporting_vcard_canceled_title">Esportazione di %s annullata.</string>
   <string name="exporting_vcard_finished_title">Esportazione di %s terminata.</string>
   <string name="external_profile_title">Il mio profilo %1$s</string>
   <string name="fail_reason_could_not_initialize_exporter">"Avvio dell'utilità di esportazione non riuscito: \"%s\"."</string>
-  <string name="fail_reason_could_not_open_file">"Apertura di \"%s\" non riuscita: %s."</string>
+  <string name="fail_reason_could_not_open_file">"Couldn't open \"%1$s\": %2$s."</string>
   <string name="fail_reason_error_occurred_during_export">Si è verificato un errore durante l\'esportazione: \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Raccolta dei metadati dei file vCard specificati non riuscita."</string>
   <string name="fail_reason_failed_to_read_files">"Importazione di uno o più file non riuscita (%s)."</string>
@@ -1376,7 +1376,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
   <string name="simContacts_title">Contatti sulla SIM</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">Visualizza capacità della SIM</string>
-  <string name="sim_capacity_content">Capacità totale %d | %d usata</string>
+  <string name="sim_capacity_content">%1$d total | %2$d used</string>
   <string name="sim_card_no_free_space_message">Spazio insufficiente: la tua SIM è piena</string>
   <string name="sim_card_no_free_space_title">SIM piena</string>
   <string name="sim_contact_existing">Il contatto esiste già</string>
