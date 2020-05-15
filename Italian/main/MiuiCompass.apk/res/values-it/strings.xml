@@ -23,7 +23,8 @@
      <string name="cancel">Annulla</string>
      <string name="cannot_get_location">--</string>
      <string name="compass_settings">Impostazioni</string>
-     <string name="dialog_body_no_network">Impossibile connettersi alla rete</string>
+     <string name="dialog_body_no_network">Connettersi alla rete WLAN o attivare i dati mobili.</string>
+     <string name="dialog_body_no_network_global">Connettersi al Wi-Fi o attivare i data mobili.</string>
      <string name="dialog_calibrat_altitude">Calibrazione…</string>
      <string name="dialog_title_no_network">Non è stato possibile connettersi alla rete</string>
      <string name="direction_east">E</string>
@@ -52,6 +53,14 @@
      <string name="location_south">S</string>
      <string name="location_west">O</string>
      <string name="longitude">LON</string>
+     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira verso il basso per aggiornare</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornamento completato</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Questo è tutto per ora"</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_none">"Questo è tutto per ora"</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Solo un secondo...</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
      <string name="mobiledata_alert_dialog_message">"Vuoi connetterti a internet per calibrare l'altitudine?"</string>
      <string name="mobiledata_alert_dialog_title">Avvertimento utilizzo dei dati</string>
      <string name="open_perm_msg">"La bussola richiede gli accessi alle info della posizione ed alla camera. Queste sono necessarie per determinare le coordinate e per fornire previsioni in tempo reale. Procedere?"</string>
