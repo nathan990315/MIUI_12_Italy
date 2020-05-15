@@ -7,6 +7,10 @@ MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareA
 ITALIAN strings by nathangiovannini3  are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
 Based on a work at http://miui.com and http://miui.it
+
+Mantained by:
+- nathangiovannini3
+- BIOLorenz
 _________________
 
 
