@@ -309,6 +309,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
      <string name="allow_mock_location">Posizioni fittizie</string>
      <string name="allow_mock_location_summary">Consenti posizioni fittizie</string>
      <string name="allow_oaid_used">"Consenti l'utilizzo dell'ID del dispositivo"</string>
+     <string name="allow_oaid_used_desc">"- [ ] MIUI non fornirà un ID virtuale (OAID) alle app installate. Alcune funzioni di  potrebbero non funzionare correttamente a causa di tale impostazione. "</string>
      <string name="allow_overlay_description">"Questo permesso consente ad un app di visualizzare dei contenuti sopra ad altre app che stai usando e potrebbero così interferire con l'uso dell'interfaccia delle altre app, o modificare quelli che pensi di visualizzare in altre applicazioni."</string>
      <string name="allow_sound_title">Consenti suoni</string>
      <string name="allow_vibrate_title">Consenti vibrazione</string>
@@ -1819,6 +1820,7 @@ avviso"</string>
      <string name="device_name_input_overlength">Oltre il limite di caratteri</string>
      <string name="device_name_usage_point">Questo nome sarà visibile ad altri dispositivi con il Bluetooth abilitato nelle vicinanze</string>
      <string name="device_oaid">ID dispositivo</string>
+     <string name="device_oaid_desc">Invece di fornire un ID univoco, MIUI fornirà un ID virtuale (OAID) alle app installate. Questo impedisce alle app di monitorare il tuo comportamento e le tue preferenze e protegge la tua privacy .</string>
      <string name="device_picker">Scegli il dispositivo Bluetooth</string>
      <string name="device_rear_camera">Fotocamera posteriore</string>
      <string name="device_screen_consumption">Consumo schermo</string>
@@ -3333,6 +3335,8 @@ Ci sono altri utenti presenti su questo dispositivo.
      <string name="miui_sos_settings_category">Impostazioni SOS</string>
      <string name="miui_sos_statusbar_summary">Tocca per spegnere</string>
      <string name="miui_sos_statusbar_title">SOS di Emergenza è attivato</string>
+     <string name="miui_sos_remind_close">La modalità SOS di emergenza è attivata. Spegnerla insieme a tutte le funzionalità correlate?</string>
+     <string name="miui_sos_remind_close_confirm">Spegni</string>
      <string name="miui_special_feature">Funzionalità speciali</string>
      <string name="miui_touch_filtered_touchassistant_warning">"Il messaggio sui permessi è coperto dall'assistente Touch. Sposta o disattiva l'assistente Touch."</string>
      <string name="miui_touch_filtered_warning">"Se un'app blocca una finestra di permessi, trascina via l'elemento sovrapposto o chiudi l'app."</string>
