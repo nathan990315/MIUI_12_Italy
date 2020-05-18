@@ -77,6 +77,14 @@
     <item quantity="other">Sospendi per %d minuti</item>
     <item quantity="one">Sospendi per %d minuto</item>
   </plurals>
+  <plurals name="stopwatch_running_notification_day">
+    <item quantity="other">Il cronometro è in funzione da %s giorni. Tocca per visualizzare. </item>
+    <item quantity="one">Il cronometro è in esecuzione da %s giorno. Tocca per visualizzare. </item>
+  </plurals>
+  <plurals name="stopwatch_running_notification_hour">
+    <item quantity="other">Il cronometro è in funzione da %s ore. Tocca per visualizzare. </item>
+    <item quantity="one">Il cronometro è in funzione da %s ora. Toccare per visualizzare .</item>
+  </plurals>
   <plurals name="timer_message_hour">
     <item quantity="other">"%1$d ore "</item>
     <item quantity="one">"%1$d ora "</item>
