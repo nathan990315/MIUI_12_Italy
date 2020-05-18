@@ -81,4 +81,9 @@
         <item quantity="other">%d destinatari</item>
         <item quantity="one">%d destinatario</item>
      </plurals>
+     <plurals name="notification_multiple">
+        <item quantity="other">"%s messaggi | "</item>
+        <item quantity="one">"%s messaggio | "</item>
+     </plurals>
+
 </resources>
