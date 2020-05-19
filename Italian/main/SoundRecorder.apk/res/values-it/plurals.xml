@@ -34,6 +34,14 @@
         <item quantity="other">%d registrazioni scaricate</item>
         <item quantity="one">%d registrazione scaricata</item>
      </plurals>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">Ricerca tra %d registrazioni</item>
+        <item quantity="one">Ricerca tra %d registrazione</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">Ricerca tra le registrazioni delle chiamate %d </item>
+        <item quantity="one">Ricerca tra la registrazione delle chiamate %d</item>
+    </plurals>
      <plurals name="unsynced_records_count">
         <item quantity="other">%d non sincronizzati</item>
         <item quantity="one">%d non sincronizzato</item>

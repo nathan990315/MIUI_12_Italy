@@ -920,6 +920,10 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
      <string name="free_time_traffic_title">Inserisci limite dati fuori soglia</string>
      <string name="free_traffic_settings">Impostazioni utilizzo dati fuori soglia</string>
      <string name="function_close">Disattivato</string>
+     <string name="function_gwsd_detail">"Informazioni su questa funzionalità:
+     1. Quando si utilizzano dati mobili su una SIM dati o una normale scheda SIM collegata a una rete VoLTE, la connessione non verrà interrotta dalle chiamate in arrivo fino a quando non si risponde.
+     2. Quando questa funzione è attivata, l'altra persona non sarà in grado di sentire i toni della suoneria a meno che non si sta utilizzando una normale scheda SIM. Le chiamate in arrivo verranno rifiutate automaticamente dopo 7-10 secondi di inattività.
+     3.Sono supportate le schede SIM emesse da China Mobile e China Unicom. Sono supportate le normali schede SIM emesse da China Mobile, China Unicom e China Telecom." </string>
      <string name="function_shield_auto_bright">Disattiva luminosità automatica</string>
      <string name="function_shield_eye_shield">Disattiva modalità Letturae</string>
      <string name="function_shield_pull_notification_bar">Non aprire il pannello delle notifiche</string>
@@ -1617,6 +1621,7 @@ dall'operatore"</string>
      <string name="pm_auto_start_by_system">Avvio applicazioni</string>
      <string name="pm_auto_start_by_system_event">"Consenti l'avvio automatico delle app"</string>
      <string name="pm_auto_start_proc_is_running">In esecuzione</string>
+     <string name="pm_newfeature_sub_text">Nuova</string>
      <string name="pm_remember_choice">Ricorda la mia scelta</string>
      <string name="pm_root_success_notification_infomation">Conferma di aver capito i rischi legati ai permessi di root</string>
      <string name="pm_root_success_notification_title">Permessi di root consentiti</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="agree_description">Consentire a questa applicazione di connettersi a Internet per sfruttare tutte le sue caratteristiche.</string>
      <string name="alert_message_clear_records">Eliminare le registrazioni selezionate?</string>
      <string name="alert_message_delete_local_record">Elimina questa registrazione?</string>
      <string name="alert_message_delete_record">Vuoi eliminare la registrazione selezionata?</string>
@@ -89,13 +90,14 @@
      <string name="mi_account_ok">Accedi</string>
      <string name="mi_account_title">Accedi al Mi Account</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornamento riuscito</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
      <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
      <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
      <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
-     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>     <string name="network_tip_dialog_cancel">Annulla</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
+     <string name="network_tip_dialog_cancel">Annulla</string>
      <string name="network_tip_dialog_cancel">"Non accetto"</string>
      <string name="network_tip_dialog_content">Il motore di riconoscimento vocale deve collegarsi ad Internet per funzionare correttamente.</string>
      <string name="network_tip_dialog_ok">Consenti</string>
