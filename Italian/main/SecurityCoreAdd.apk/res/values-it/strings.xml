@@ -97,13 +97,6 @@ per essere in grado di vederli sempre"</string>
      <string name="dual_animation">Animazione di avvio</string>
      <string name="dual_animation_description">Mostra animazione quando le app doppie vengono avviate</string>
      <string name="enable">Attiva</string>
-     <string name="encrypt_space_delete_dialog_click_message">"*Se non necessiti di spostare dati, %s"</string>
-     <string name="encrypt_space_delete_dialog_click_message_action">Elimina e crea un Secondo Spazio ora.</string>
-     <string name="encrypt_space_delete_dialog_message">"Stai per aggiornare la versione di Android. Dopo l'aggiornamento, i dati del Secondo Spazio diventeranno incompatibili. Per evitare ciò, sposta tutti i dati verso il Primo Spazio, elimina il Secondo Spazio e crealo nuovamente."</string>
-     <string name="encrypt_space_delete_dialog_positive_text">Sposta dati</string>
-     <string name="encrypt_space_delete_dialog_title">Attenzione</string>
-     <string name="encrypt_space_delete_notification_message">Elimina il tuo Secondo Spazio e creane uno nuovo per aggiornare il tuo dispositivo senza intoppi.</string>
-     <string name="encrypt_space_delete_notification_title">Secondo Spazio</string>
      <string name="ent_activating">Attivazione…</string>
      <string name="ent_activation">Attiva</string>
      <string name="ent_activation_hint">Inserisci il tuo codice aziendale insieme al codice di licenza di attivazione della modalità Aziendale. Dopo aver effettuato questo passaggio, i servizi aziendali personalizzati verranno abilitati.</string>
@@ -179,7 +172,6 @@ I messaggi saranno visibili solo nel Secondo Spazio."</string>
      <string name="guide_pwd_detail_title">"Proteggi i tuoi dati
 Accedi al Secondo Spazio dalla schermata di blocco"</string>
      <string name="guide_setting_guide_title">Gestisci il Secondo Spazio</string>
-     <string name="guide_start_ads_text">Un nuovo livello di sicurezza</string>
      <string name="guide_start_text">Due spazi. Un dispositivo.</string>
      <string name="has_created_second_space">"Puoi aprire adesso il Secondo Spazio.
 Un dispositivo. Due spazi."</string>
@@ -245,7 +237,6 @@ Puoi anche scaricarli separatamente"</string>
      <string name="openPasswordGuard">Imposta la password per il Secondo Spazio</string>
      <string name="openSuccess">Attivato</string>
      <string name="opened">Attivata</string>
-     <string name="optimize_now">Ottimizza</string>
      <string name="other">Altro</string>
      <string name="otherSettings">Altre impostazioni</string>
      <string name="passWordGuardSummary">Inserisci il Secondo Spazio dalla schermata di blocco utilizzando una password</string>
@@ -268,8 +259,6 @@ Altrimenti potresti non essere in grado di accedere al Secondo Spazio dalla sche
      <string name="remove_button">Rimuovi e riavvia</string>
      <string name="remove_button_time">Rimuovi e riavvia (%ds)</string>
      <string name="remove_second_space_msg">Tutti i dati del Secondo Spazio verranno persi dopo averlo eliminato. Vuoi eliminarlo ora?</string>
-     <string name="remove_user_click_message">*Se non disponi di elementi importanti nel Secondo Spazio, %s</string>
-     <string name="remove_user_click_message_action">puoi eliminare il Secondo Spazio e riavviare il tuo dispositivo ora.</string>
      <string name="removingSpace">Eliminazione…</string>
      <string name="repeat_scanner_fingerprint">Aggiungi ancora</string>
      <string name="reset_passwd_success">Password ripristinata correttamente</string>
@@ -293,14 +282,6 @@ per accedervi dalla schermata di blocco"</string>
      <string name="scanner_fingerprint_tips_desc">"Seleziona l'impronta esistente per entrare nel Secondo Spazio. Non sarai in grado di utilizzarla per il Primo Spazio."</string>
      <string name="scanner_fingerprint_tips_title">"Accedi al Secondo Spazio utilizzando l'impronta esistente"</string>
      <string name="scanner_second_space_fingerprint">Scansiona impronta per il Secondo Spazio</string>
-     <string name="sdcardfs_dialog_message">"Prima di inserire l'avatar, devi disattivare l'Otimizzazione Simulazione SD nelle opzioni sviluppatore"</string>
-     <string name="sdcardfs_dialog_title">Aggiornamento importante</string>
-     <string name="sdcradfs_dialog_in_owner_message">"La MIUI 9 é dotata di un nuovo file system. I vecchi dati potrebbero non essere compatibili con esso. Per aggiornare, muovi gli elementi dal Secondo Spazio, riavvia il tuo dispositivo, e crea nuovamente il Secondo Spazio.
-Se non verrà eseguito l'aggiornamento, le app clonate potrebbero non funzionare correttamente."</string>
-     <string name="sdcradfs_dialog_in_owner_title">Secondo Spazio</string>
-     <string name="sdcradfs_dialog_in_sec_message">"Per eseguire l'aggiornamento è necessario eliminare il Secondo Spazio e crearlo nuovamente. Sposta i dati dal Secondo Spazio a quello principale e riavvia il dispositivo per completare l'aggiornamento.
-Se non verrà eseguito l'aggiornamento, le app clonate potrebbero non funzionare correttamente."</string>
-     <string name="sdcradfs_dialog_in_sec_title">Aggiornamento importante</string>
      <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
      <string name="search_result_text">Non è stato possibile trovare alcuna app</string>
      <string name="secondSpace">Secondo Spazio</string>
@@ -367,7 +348,6 @@ Se non verrà eseguito l'aggiornamento, le app clonate potrebbero non funzionare
      <string name="space_create_guide_title_1">Proteggi la tua privacy</string>
      <string name="space_create_guide_title_2">Crea in ogni momento</string>
      <string name="space_create_guide_title_3">100% sicuro</string>
-     <string name="space_created_success">Creazione Secondo Spazio riuscita</string>
      <string name="space_deleted">Questo spazio è stato eliminato</string>
      <string name="space_des_default">Spazio separato con dati crittografati</string>
      <string name="space_finger_sub_text">"Imposta l'impronta del Secondo Spazio per eseguire il passaggio più velocemente"</string>
@@ -382,7 +362,6 @@ per accedere dalla schermata di blocco"</string>
      <string name="stop_xspace_alert_content">Hai eliminato tutte le app clonate. Eliminare anche i relativi account ed i dati app? Dopo questa operazione, dovrai creare nuovamente le app clonate quando ne avrai bisogno</string>
      <string name="stop_xspace_alert_title">Eliminazione account app clonate</string>
      <string name="summary_switch_apps_settings">Selezionale app utilizzate nel Secondo Spazio</string>
-     <string name="support_desc">Servizio di sicurezza offerto da Graphite</string>
      <string name="sure_to_use">Conferma</string>
      <string name="switchDataSummary">Sposta elementi tra i due spazi</string>
      <string name="switch_apps_settings">Impostazioni applicazioni</string>

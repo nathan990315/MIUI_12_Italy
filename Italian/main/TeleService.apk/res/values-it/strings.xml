@@ -1030,6 +1030,7 @@
      <string name="incall_error_missing_voicemail_number">Numero sconosciuto voicemail.</string>
      <string name="incall_error_no_phone_number_supplied">Chiamata non effettuata, non è stato immesso nessun numero valido.</string>
      <string name="incall_error_out_of_service">Rete mobile non disponibile.</string>
+     <string name="incall_error_out_of_service_kr">Solo chiamate di emergenza</string>
      <string name="incall_error_out_of_service_wfc">Rete mobile non disponibile. Collegati ad una rete per poter effettuare una chiamata.</string>
      <string name="incall_error_outgoing_call_failed">"Impossibile effettuare la chiamata"</string>
      <string name="incall_error_power_off">Per effettuare una chiamata, disattiva prima la modalità Aereo.</string>
@@ -1045,6 +1046,7 @@
      <string name="incall_error_supp_service_transfer">Impossibile trasferire la chiamata.</string>
      <string name="incall_error_supp_service_unknown">Servizio non supportato.</string>
      <string name="incall_error_wfc_only_no_wireless_network">Collegato ad una rete Wi-Fi per effettuare una chiamata.</string>
+     <string name="incall_number_anonymous">Numero sconosciuto</string>
      <string name="incall_status_dialed_mmi">Avvio della sequenza MMI…</string>
      <string name="install_other_apps">Installa app sconosciute</string>
      <string name="international_disable">Notizie internazionali disattivate</string>
@@ -1649,6 +1651,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
      <string name="private_dns_mode_provider_failure">Impossibile connettersi</string>
      <string name="private_dns_mode_provider_hostname_hint">"Inserisi l'hostname del provider DNS"</string>
      <string name="private_num">Numero privato</string>
+     <string name="private_num_kr">ID chiamante con restrizioni</string>
      <string name="progress_dialog_exiting_ecm">Uscita dalla modalità di richiamata di emergenza</string>
      <string name="prompt_to_suggest_no_call_service_notification_content">"Non è possibile effettuare e ricevere chiamate. Il servizio VoLTE è disattivato per la tua SIM (China Telecom)."</string>
      <string name="prompt_to_suggest_no_call_service_notification_content2">"Non è possibile effettuare e ricevere chiamate. Il servizio VoLTE è spento per la SIM %d (China Telecom)."</string>
