@@ -128,7 +128,7 @@
      <string name="food_module_title_food">Calorie</string>
      <string name="history">Cronologia</string>
      <string name="history_empty">Nessun oggetto</string>
-     <string name="if_to_open_milogo_scanning">Recognize Xiaomi logo</string>
+     <string name="if_to_open_milogo_scanning">Riconoscere il logo Xiaomi</string>
      <string name="got_it">Fatto</string>
      <string name="gps">Naviga</string>
      <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
@@ -158,6 +158,14 @@
      <string name="miracast_message">Trasmettere a %s ?</string>
      <string name="miracast_switch_off">Schermo wireless disattivato</string>
      <string name="miracast_switch_tip">Attiva uno schermo wireless per utilizzare questa funzionalità</string>
+     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira verso il basso per aggiornare</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornamento completato</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"è tutto per ora"</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_none">"è tutto per ora"</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Solo un secondo</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
      <string name="module_title_business_card">Biglietto da visita</string>
      <string name="module_title_code">Codice QR</string>
      <string name="module_title_document">Documento</string>
@@ -173,6 +181,7 @@
      <string name="no_support_to_translate_type">Linguaggio non supportato</string>
      <string name="not_insert_contact">Impossibile aggiungere contatto</string>
      <string name="not_recommend_access_web_url">Continua comunque</string>
+     <string name="not_set">Non impostato</string>
      <string name="note">Nota:</string>
      <string name="open_url">Apri URL</string>
      <string name="pay_no_tip">Non mostrare più</string>
@@ -189,6 +198,7 @@
      <string name="pref_camera_jpeg_quality_fine">sottile</string>
      <string name="pref_camera_jpeg_quality_normal">normale</string>
      <string name="pref_camera_jpeg_quality_superfine">super sottile</string>
+     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
      <string name="preparing_sd">Preparazione memoria interna…</string>
      <string name="previous">Indietro</string>
      <string name="qr_code_details">Dettagli codice QR:</string>

@@ -45,8 +45,7 @@
   <string name="add_body_weight_button">Aggiungi dati sul peso</string>
   <string name="add_body_weight_record_button">Aggiungi dati sul peso</string>
   <string name="add_data_source">Aggiunta sorgenti dati</string>
-  <string name="add_data_source_description">"Aggiungi a Mi Health dati sulla salute generati da altri dispositivi per aumentare l'accuratezza delle statistiche e ottenere consigli di salute più rilevanti.
-Mi Health supporta i dispositivi che hai aggiunto in precedenza nell'app Mi Home. Se non riesci a trovare il dispositivo che vuoi aggiungere, controlla se lo hai già aggiunto in Mi Home."</string>
+  <string name="add_data_source_description">"Aggiungi i dati sanitari generati da altri dispositivi a Xiaomi Health per aumentare l'accuratezza delle statistiche e ottenere consigli sanitari più pertinenti."</string>
   <string name="add_data_source_login_and_open_sync">Accedi al tuo Mi Account e attiva la sincronizzazione con il cloud per aggiungere fonti di dati.</string>
   <string name="add_data_source_open_sync">Attiva la sincronizzazione con il cloud per poter aggiungere fonti di dati.</string>
   <string name="add_data_source_support_step">"Questo dispositivo non genera i dati di conteggio dei passi. Puoi provare a passare ad altre fonti."</string>
@@ -659,6 +658,14 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="miuix_appcompat_cloud_state_disabled">La sincronizzazione col cloud è disattivata</string>
   <string name="miuix_appcompat_cloud_state_finished">Sincronizzato col cloud</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sincronizzazione col cloud...</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira verso il basso per aggiornare</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornamento riuscito</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"è tutto per ora"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"è tutto per ora"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">solo un secondo…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
   <string name="model_card_setting">Impostazioni scheda</string>
   <string name="modify">Modifica</string>
   <string name="modify_end_date">Modifica data di fine</string>
@@ -831,6 +838,7 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="saturday">Sabato</string>
   <string name="saturday_short">Sab</string>
   <string name="saturday_shortest">S</string>
+  <string name="save">Salva</string>
   <string name="search_menu_title">Cerca</string>
   <string name="sedentary_detail_title">Sedersi troppo a lungo è dannoso</string>
   <string name="sedentary_enhance_remind">Attiva Vibrazione</string>
@@ -933,7 +941,7 @@ non rilevati"</string>
   <string name="sleep_service_background_running">Il servizio di monitoraggio del sonno è in esecuzione in background</string>
   <string name="sleep_setting_title">Impostazioni dormita</string>
   <string name="sleep_snore_audio_auto">Traccia il tuo audio</string>
-  <string name="sleep_snore_audio_auto_desc">Registra quando parli nel sonno e salva il file nel tuo telefono per proteggere la tua privacy in modo sicuro.</string>
+  <string name="sleep_snore_audio_auto_desc">Registra quando parli o russi nel sonno e salva il file nel tuo telefono per proteggere la tua privacy in modo sicuro.</string>
   <string name="sleep_snore_audio_close_desc">Puoi disattivarlo nelle impostazioni del sonno.</string>
   <string name="sleep_snore_audio_enable">Le rilevazioni sono abilitate</string>
   <string name="sleep_snore_audio_enable_desc">Stasera, il tuo sonno verrà tracciato automaticamente.</string>
@@ -1074,6 +1082,7 @@ in base alle tue informazioni personali."</string>
   <string name="sync_status_in_progress">Sincronizzazione…</string>
   <string name="sync_status_network_failure">"Impossibile sincronizzare. Connettiti alla rete e riprova."</string>
   <string name="sync_status_never_done">Non sincronizzato</string>
+  <string name="sync_status_oauth_error">"Impossibile sincronizzare i dati. Concedere prima le autorizzazioni necessarie."</string>
   <string name="tb_audio_progress_bar">Barra di riproduzione audio</string>
   <string name="tb_card_on_using_list">Aggiunto</string>
   <string name="tb_click_finish_stand">In piedi per quasi 1 ora, clicca per terminarlo</string>
@@ -1158,6 +1167,7 @@ in base alle tue informazioni personali."</string>
   <string name="tb_month_dialog_go_today">Selezionato oggi</string>
   <string name="tb_month_dialog_select_date">%1$s selezionato</string>
   <string name="tb_month_dialog_select_date_with_snore" formatted="false">%1$s, %s selezionato</string>
+  <string name="tb_multiple_selecte_all">Seleziona tutto</string>
   <string name="tb_not_add_list">Non aggiunto</string>
   <string name="tb_pause_detection">Pausa</string>
   <string name="tb_picker_day">Giorno selezionato: %1$d. Scorri verticalmente per selezionare il giorno.</string>
@@ -1187,6 +1197,7 @@ in base alle tue informazioni personali."</string>
   <string name="tb_stand_day_ring">Oggi, sei stato in piedi per %1$s, l\'obiettivo è di stare in piedi per 12 ore</string>
   <string name="tb_stand_wm_column_chart">%1$s-%2$s, Statistiche su quanto sei stato in piedi, trascina a destra e sinistra per modificare l\'intervallo di tempo, fai clic sulla colonna per visualizzare i dettagli</string>
   <string name="tb_stand_wm_column_click">%1$s, in piedi %2$d, %3$s</string>
+  <string name="tb_unmultiple_selecte_all">Deseleziona tutto</string>
   <string name="tb_user_account_signed">Mi Account: %1$s.</string>
   <string name="tb_user_account_unsigned">Tocca per accedere al Mi Account</string>
   <string name="tb_user_sleep_card_info">Obiettivo giornaliero di sonno: %1$s.</string>
