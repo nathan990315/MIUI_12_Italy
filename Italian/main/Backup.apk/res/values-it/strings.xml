@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="abc_action_bar_home_description">Naviga verso schermata iniziale</string>
   <string name="abc_action_bar_up_description">Naviga verso l\'alto</string>
@@ -312,10 +311,10 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">aggiornamento terminato</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">aggiornamento</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">rilascia per aggiornare</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">nessun dato</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">non farlo</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"nessun dato"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"non farlo"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">aggiornamento</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fallito</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"fallito"</string>
   <string name="mms_title">Messaggi Multimediali</string>
   <string name="multi_select_title">Selezionati %1$s elemento(i)</string>
   <string name="multi_user_mode_backup_message">"Impossibile utilizzare il Backup in modalità Multi-utente. Disattiva la modalità Multi-utente per continuare."</string>
@@ -755,8 +754,8 @@ Libera spazio o trasferisci solo gli elementi più importanti."</string>
   <string name="user_notice_declaration_ignore">"Non mostrare più"</string>
   <string name="user_notice_message">Alcune funzionalità richiedono una connessione internet per funzionare correttamente.</string>
   <string name="user_notice_title">Notifiche utente</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">Disattivato</string>
+  <string name="v7_preference_on">Attivato</string>
   <string name="view_password_description">Mostra password</string>
   <string name="wait_link">"Collega il tuo vecchio dispositivo a questo hotspot.
 Non uscire da quea pagina finché non è stata stabilita una connessione."</string>
