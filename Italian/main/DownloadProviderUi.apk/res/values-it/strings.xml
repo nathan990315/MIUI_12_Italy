@@ -6,7 +6,7 @@
   <string name="DOWNLOAD_UNIT_KB">KB</string>
   <string name="DOWNLOAD_UNIT_MB">MB</string>
   <string name="DOWNLOAD_UNIT_TB">TB</string>
-  <string name="Only_the_wifi">Solo con Wi-Fi</string>
+  <string name="Only_the_wifi">Solo con WLAN</string>
   <string name="abc_action_bar_home_description">Vai in home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
@@ -107,7 +107,7 @@
   <string name="dialog_insufficient_space_on_external">"Impossibile terminare il download. Non c'è abbastanza spazio sulla memoria esterna."</string>
   <string name="dialog_media_not_found">Impossibile scaricare. Il supporto esterno non è disponibile.</string>
   <string name="dialog_msg_disabled_net">%1$s download limitati dalla rete attuale. Tocca le impostazioni di rete per andare nell\'app sicurezza.</string>
-  <string name="dialog_msg_recommend">"Continuando, non sarai in grado di vedere le Risorse consigliate. Abilita \"Carica risorse solo in Wi-Fi\" per risparmiare il traffico dati."</string>
+  <string name="dialog_msg_recommend">"Continuando, non sarai in grado di vedere le Risorse consigliate. Abilita \"Carica risorse solo in WLAN\" per risparmiare il traffico dati."</string>
   <string name="dialog_queued_body">Questo file è accodato per essere scaricato in futuro.</string>
   <string name="dialog_speed_cancel">Annulla</string>
   <string name="dialog_speed_msg">L\'utilizzo della rete dati mobile per testare la funzionalità potrebbe aumentare il consumo di dati. Continuare comunque?</string>
@@ -209,7 +209,7 @@
   <string name="hint">Attenzione</string>
   <string name="home_page_new_download_guide">I nuovi download verranno posizionati qui</string>
   <string name="immediately_a_renewal">Immediatamente un rinnovo</string>
-  <string name="info_flow_only_load_wifi">Carica risorse solo in Wi-Fi</string>
+  <string name="info_flow_only_load_wifi">Carica risorse solo in WLAN</string>
   <string name="info_flow_setting">Avanzate</string>
   <string name="info_flow_show">Risorse consigliate</string>
   <string name="input_valid_address">Inserisci il percorso di un file</string>
@@ -270,7 +270,7 @@ su tutti i tuoi dispositivi grazie a Xunlei"</string>
   <string name="notify_install_guide_msg">Installato correttamente</string>
   <string name="notify_install_guide_title">%s installate correttamente</string>
   <string name="notify_not_support">"Certe notifiche non sono supportate, aggiorna adesso"</string>
-  <string name="notify_only_wifi_download">In attesa del Wi-Fi…</string>
+  <string name="notify_only_wifi_download">In attesa del WLAN…</string>
   <string name="one_month">Un mese</string>
   <string name="only_support_torrent">Solo i file torrent sono supportati</string>
   <string name="open">Apri</string>
@@ -299,7 +299,7 @@ su tutti i tuoi dispositivi grazie a Xunlei"</string>
   <string name="pref_download_settings_title">Limite utilizzo dati</string>
   <string name="pref_download_storage_path">Cartella download</string>
   <string name="pref_sniff_shortcut">Crea un collegamento in Home per la ricerca web</string>
-  <string name="pref_summary_any_bytes_popup">Metti sempre in coda con rete Wi-Fi</string>
+  <string name="pref_summary_any_bytes_popup">Metti sempre in coda con rete WLAN</string>
   <string name="pref_summary_enable_max_bytes_popup">In caso di superamento del limite di dimensione dati con rete cellulare attiva, verrà mostrata una richiesta di autorizzazione</string>
   <string name="pref_summary_max_bytes_limit_format">Chiedi autorizzazione se il file supera i %s</string>
   <string name="pref_summary_no_limit_popup">Dimensione download illimitata</string>
@@ -481,7 +481,7 @@ su tutti i tuoi dispositivi grazie a Xunlei"</string>
   <string name="title_homepage_infoflow">Aggiornamenti recenti</string>
   <string name="title_tips">Attenzione</string>
   <string name="title_unbind_xunlei">Rimuovi il tuo Account Xunlei</string>
-  <string name="toast_only_wifi_download">Collegati al Wi-Fi per scaricare questo file</string>
+  <string name="toast_only_wifi_download">Collegati al WLAN per scaricare questo file</string>
   <string name="toast_update_data_limit_fail">"Impossibile impostare"</string>
   <string name="toast_xunlei_engine_open">Acceleratore download Xunlei attivato</string>
   <string name="torrent_file_error">"Impossibile analizzare il file torrent"</string>
