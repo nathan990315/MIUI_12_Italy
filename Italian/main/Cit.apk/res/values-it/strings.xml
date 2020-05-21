@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="FpTest">Esecuzione Test FP</string>
   <string name="FpTest_result">Risultato Test FP:</string>
@@ -787,7 +786,7 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
   <string name="cit_tool_wifi_sniffer_settings">Impostazioni di Cattura</string>
   <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
   <string name="cit_tool_wifi_tx_ax">Tx: ax</string>
-  <string name="cit_tool_wifi_tx_ax_gI">Guard Interval:</string>
+  <string name="cit_tool_wifi_tx_ax_gI">Intervallo di Guardia:</string>
   <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
   <string name="cit_tool_wifi_tx_bg_chan">canale:</string>
   <string name="cit_tool_wifi_tx_bg_txpr">potenza tx:</string>
@@ -1145,7 +1144,7 @@ posizione specificata"</string>
   <string name="nodes_freed">未用</string>
   <string name="nodes_used">已用</string>
   <string name="noise">Rumore:</string>
-  <string name="none">N/A</string>
+  <string name="none">N/D</string>
   <string name="normal_touch_sensor">通过纹路测试头按压指纹模组</string>
   <string name="not_enrolled">请先注册指纹</string>
   <string name="ok">Ok</string>
@@ -1434,7 +1433,7 @@ Clicca sul pulsante appropriato in base al numero che ascolterai"</string>
   <string name="title_enrolling_min_templates">注册一个指纹模板所需最小张数</string>
   <string name="title_erase_mem_pool_when_free">释放内存清零</string>
   <string name="title_extract_data">Estrai Dati</string>
-  <string name="title_far">FAR:</string>
+  <string name="title_far">LONTANO:</string>
   <string name="title_far_test">FAR测试</string>
   <string name="title_farr">FAR e Test FRR</string>
   <string name="title_forbidden_enroll_duplicate_fingers">禁止同一个手指重复注册</string>
