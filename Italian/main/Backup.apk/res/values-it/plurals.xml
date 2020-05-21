@@ -1,80 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-  <plurals name="backup_items_app_tailer">
-    <item quantity="other">%d file dati app</item>
-    <item quantity="one">%d file dati app</item>
-  </plurals>
-  <plurals name="backup_items_sysdata_tailer">
-    <item quantity="other">%d file dati di sistema</item>
-    <item quantity="one">%d file dati di sistema</item>
-  </plurals>
-  <plurals name="custom_progress">
-    <item quantity="other">%d elementi</item>
-    <item quantity="one">%d elemento</item>
-  </plurals>
-  <plurals name="data_item_count">
-    <item quantity="other">%d elementi</item>
-    <item quantity="one">%d elemento</item>
-  </plurals>
-  <plurals name="data_item_count_pair">
-    <item quantity="other">%1$d/%2$d elementi</item>
-    <item quantity="one">%1$d/%2$d elemento</item>
-  </plurals>
-  <plurals name="local_main_backup_manage_summary">
-    <item quantity="other">%1$s backup (%2$s)</item>
-    <item quantity="one">%1$s backup (%2$s)</item>
-  </plurals>
-  <plurals name="new_task_backup_failed">
-    <item quantity="other">"Backup eseguito correttamente. Impossibile eseguire il backup di %d elementi."</item>
-    <item quantity="one">"Backup eseguito correttamente. Impossibile eseguire il backup di %d elemento."</item>
-  </plurals>
-  <plurals name="new_task_restore_failed">
-    <item quantity="other">"Ripristinato correttamente. Impossibile ripristinare %d elementi."</item>
-    <item quantity="one">"Ripristinato correttamente. Impossibile ripristinare %d elemento."</item>
-  </plurals>
-  <plurals name="save_item_failed_summary_seg1">
-    <item quantity="other">"%d elementi importati, "</item>
-    <item quantity="one">"%d elemento importato, "</item>
-  </plurals>
-  <plurals name="save_item_failed_summary_seg2">
-    <item quantity="other">%d elementi devono essere importati di nuovo</item>
-    <item quantity="one">%d elemento deve essere importato di nuovo</item>
-  </plurals>
-  <plurals name="save_item_saved_summary">
-    <item quantity="other">%d elementi importati e ripristinati</item>
-    <item quantity="one">%d elemento importato e ripristinato</item>
-  </plurals>
-  <plurals name="save_item_saving_summary">
-    <item quantity="other">%d elementi ripristinati</item>
-    <item quantity="one">%d elemento ripristinato</item>
-  </plurals>
-  <plurals name="select_item_count_unit">
-    <item quantity="other">elementi</item>
-    <item quantity="one">elemento</item>
-  </plurals>
-  <plurals name="select_item_summary">
-    <item quantity="other">%1$s | %2$d elementi</item>
-    <item quantity="one">%1$s | %2$d elemento</item>
-  </plurals>
-  <plurals name="total_num">
-    <item quantity="other">%d elementi,</item>
-    <item quantity="one">%d elemento,</item>
-  </plurals>
-  <plurals name="trans_failed_summary">
-    <item quantity="other">"Impossibile trasferire %d elementi. Tocca per visualizzare i dettagli."</item>
-    <item quantity="one">"Impossibile trasferire %d elemento. Tocca per visualizzare i dettagli."</item>
-  </plurals>
-  <plurals name="trans_item_failed_summary">
-    <item quantity="other">"Impossibile trasferire %d elementi."</item>
-    <item quantity="one">"Impossibile trasferire %d elemento."</item>
-  </plurals>
-  <plurals name="trans_time_format_hours">
-    <item quantity="other">%d ore</item>
-    <item quantity="one">%d ora</item>
-  </plurals>
-  <plurals name="trans_time_format_minute">
-    <item quantity="other">%d minuti</item>
-    <item quantity="one">%d minuto</item>
-  </plurals>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">%d file dati app</item>
+        <item quantity="one">%d file dati app</item>
+    </plurals>
+    <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">%d file dati di sistema</item>
+        <item quantity="one">%d file dati di sistema</item>
+    </plurals>
+    <plurals name="custom_progress">
+        <item quantity="other">%d elementi</item>
+        <item quantity="one">%d elemento</item>
+    </plurals>
+    <plurals name="data_item_count">
+        <item quantity="other">%d elementi</item>
+        <item quantity="one">%d elemento</item>
+    </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d elementi</item>
+        <item quantity="one">%1$d/%2$d elemento</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s backup (%2$s)</item>
+        <item quantity="one">%1$s backup (%2$s)</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">"Backup eseguito correttamente. Impossibile eseguire il backup di %d elementi."</item>
+        <item quantity="one">"Backup eseguito correttamente. Impossibile eseguire il backup di %d elemento."</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">"Ripristinato correttamente. Impossibile ripristinare %d elementi."</item>
+        <item quantity="one">"Ripristinato correttamente. Impossibile ripristinare %d elemento."</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"%d elementi importati, "</item>
+        <item quantity="one">"%d elemento importato, "</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">%d elementi devono essere importati di nuovo</item>
+        <item quantity="one">%d elemento deve essere importato di nuovo</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">%d elementi importati e ripristinati</item>
+        <item quantity="one">%d elemento importato e ripristinato</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">%d elementi ripristinati</item>
+        <item quantity="one">%d elemento ripristinato</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">elementi</item>
+        <item quantity="one">elemento</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d elementi</item>
+        <item quantity="one">%1$s | %2$d elemento</item>
+    </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%d elementi,</item>
+        <item quantity="one">%d elemento,</item>
+    </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">"Impossibile trasferire %d elementi. Tocca per visualizzare i dettagli."</item>
+        <item quantity="one">"Impossibile trasferire %d elemento. Tocca per visualizzare i dettagli."</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">"Impossibile trasferire %d elementi."</item>
+        <item quantity="one">"Impossibile trasferire %d elemento."</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d ora</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
 </resources>
