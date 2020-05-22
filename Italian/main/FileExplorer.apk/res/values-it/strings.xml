@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="abc_action_bar_home_description">Vai in home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
@@ -48,14 +47,6 @@
   <string name="app_name_miuiringtone">Suonerie</string>
   <string name="app_name_miuiwallpaper">Sfondi</string>
   <string name="app_name_screenshot">Screenshot</string>
-  <string name="backup_cancel">"No grazie"</string>
-  <string name="backup_checkbox_msg">Esegui sempre il backup e mostra le notifiche</string>
-  <string name="backup_confirm">Backup ora</string>
-  <string name="backup_success_cancel">OK</string>
-  <string name="backup_success_confirm">Visualizza</string>
-  <string name="backup_success_message">Backup di %1$s</string>
-  <string name="backup_success_title">Backup eseguito</string>
-  <string name="backup_title">Eseguire il backup dei video di WeChat?</string>
   <string name="big5_summary">Codifica predefinita del sistema Windows in Cinese tradizionale</string>
   <string name="big5_title">BIG5</string>
   <string name="byteShort">B</string>
@@ -136,11 +127,14 @@
   <string name="delete_files">Eliminare %1$d file?</string>
   <string name="delete_folder">\u0020Eliminare questa cartella?</string>
   <string name="delete_folders">\u0020Eliminare %1$d cartelle?</string>
+  <string name="des_hide_pwd">隐藏密码</string>
+  <string name="des_show_pwd">显示密码</string>
   <string name="dialog_select_type">Seleziona il tipo di file</string>
   <string name="dialog_type_audio">Audio</string>
   <string name="dialog_type_image">Immagine</string>
   <string name="dialog_type_text">Testo</string>
   <string name="dialog_type_video">Video</string>
+  <string name="directory_info_divider">"  |  "</string>
   <string name="disk_available">Disponibile:</string>
   <string name="disk_total">Totale:</string>
   <string name="doc_all">Tutto</string>
@@ -183,13 +177,14 @@
   <string name="favorite_photo">Foto</string>
   <string name="favorite_ringtone">Suoneria</string>
   <string name="favorite_screen_cap">Screenshot MIUI</string>
+  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_info_canread">Lettura:</string>
   <string name="file_info_canwrite">Scrittura:</string>
   <string name="file_info_ishidden">Nascosto:</string>
   <string name="file_info_location">Posizione:</string>
   <string name="file_info_modified">Modificato:</string>
   <string name="file_info_size">Dimensione:</string>
-  <string name="file_loading">Caricamento…</string>
+  <string name="file_loading">Attendi…</string>
   <string name="file_name_invalid">"I nomi dei file non possono contenere i seguenti caratteri: /\\:*?"</string>
   <string name="file_not_exist">"File inesistente"</string>
   <string name="folder_name_empty">"Il nome della cartella non può essere vuoto"</string>
@@ -207,9 +202,9 @@
   <string name="ftp_transfer_secure">Trasferimento FTP sicuro</string>
   <string name="ftp_username_and_passworld">Nome utente e password</string>
   <string name="ftp_username_hint">Nome utente</string>
-  <string name="function_file_operation">"Per accedere e aprire i file; "</string>
-  <string name="function_set_private">"Per visualizzare e crittografare i file; "</string>
-  <string name="function_use_imei">"Per accedere a IMEI e crittografare i file; "</string>
+  <string name="function_file_operation">Per accedere e aprire i file; </string>
+  <string name="function_set_private">Per visualizzare e crittografare i file; </string>
+  <string name="function_use_imei">Per accedere a IMEI e crittografare i file; </string>
   <string name="gbk_summary">Codifica che migliora la visualizzazione del testo cinese semplificato</string>
   <string name="gbk_title">GBK</string>
   <string name="gigabyteShort">GB</string>
@@ -239,7 +234,7 @@
   <string name="list_mode">Visualizzazione elenco</string>
   <string name="load_more">Altro</string>
   <string name="load_more_fail">加载失败</string>
-  <string name="loading">Caricamento…</string>
+  <string name="loading">Attendi…</string>
   <string name="local_image">Foto</string>
   <string name="local_music">Musica</string>
   <string name="local_video">Video</string>
@@ -270,10 +265,10 @@
   <string name="miuix_sbl_tracking_progress_labe_refreshed">aggiornamento terminato</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">aggiornamento...</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">E\' tutto per ora</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">E\' tutto per ora</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Solo un secondo…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossibile caricare gli elementi</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"Impossibile spostare"</string>
   <string name="move_icon_to_desktop_hint">Crea un collegamento sulla Home per File Explorer per gestire più rapidamente i file.</string>
@@ -292,7 +287,6 @@
   <string name="no_enough_storage_indication">"Spazio insufficiente, impossibile incollare. Cancella i file non necessari e riprova, oppure usa lo Strumento di Pulizia per liberare spazio."</string>
   <string name="no_enough_storage_title">Spazio insufficiente</string>
   <string name="no_file">Nessun file</string>
-  <string name="no_recent_files">Nessun file recente</string>
   <string name="no_wifi">Nessuna rete Wi-Fi</string>
   <string name="no_wifi_hint">Nessuna rete Wi-Fi</string>
   <string name="not_installed_documentsui">DocumentsUI non installato</string>
@@ -300,10 +294,6 @@
   <string name="not_support_documentui">"DocumentUI non è supportato su questo dispositivo"</string>
   <string name="notif_server_starting">Avviato server FTP</string>
   <string name="notif_title">Server FTP in esecuzione</string>
-  <string name="notification_dialog_confirm">OK</string>
-  <string name="notification_dialog_content">Notifica ed organizza automaticamente quando i file vengono aggiunti o modificati in %1$s.</string>
-  <string name="notification_dialog_title">Notifiche</string>
-  <string name="notification_wechat_expired_empty">WeChat ha già eliminato questi video.</string>
   <string name="online_not_support">"In questo momento non è possibile vedere il file."</string>
   <string name="open_private_folder">Creazione cartella nascosta…</string>
   <string name="operation_add_fav">Aggiunto ai preferiti…</string>
@@ -394,7 +384,7 @@
   <string name="reset_password">Ripristina password</string>
   <string name="restoring">Ripristino…</string>
   <string name="rlv_last_refreshing_time">Aggiornato %1$s</string>
-  <string name="rlv_loading_more">Solo un attimo</string>
+  <string name="rlv_loading_more">Attendi…</string>
   <string name="rlv_pull_to_refresh">Tira per aggiornare</string>
   <string name="rlv_refreshing">Scansione file…</string>
   <string name="rlv_release_to_refresh">Rilascia per aggiornare</string>
@@ -417,6 +407,8 @@
   <string name="search_result_more">Altro</string>
   <string name="search_statistic_appname">fonte</string>
   <string name="search_statistic_keyword">keyin</string>
+  <string name="search_statistic_match_invalid">0</string>
+  <string name="search_statistic_match_valid">1</string>
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Cerca documenti</string>
   <string name="search_title_hint">Cerca</string>
@@ -431,10 +423,11 @@
   <string name="set_pattern">Password aggiornata</string>
   <string name="set_pattern_btn">Imposta</string>
   <string name="set_pattern_msg">Imposta di nuovo la tua password. La password per la protezione della privacy funziona anche per foto e messaggi.</string>
+  <string name="settings">@string/server_control_settings</string>
   <string name="sign_percent">%</string>
   <string name="sk">3qy6ngTb0P+etx</string>
   <string name="skip_file">Salta</string>
-  <string name="smb_loading">Solo un attimo…</string>
+  <string name="smb_loading">Attendi…</string>
   <string name="sort_hint_name">Ordinato per nome</string>
   <string name="sort_hint_time">Ordina per ora</string>
   <string name="sort_hint_type">Ordina per tipo</string>
@@ -490,8 +483,8 @@
   <string name="user_not_login">Prima accedi</string>
   <string name="utf8_summary">Tipo di codifica predefinito</string>
   <string name="utf8_title">UTF-8</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">Disattivato</string>
+  <string name="v7_preference_on">Attivato</string>
   <string name="view_type">Mostra</string>
   <string name="wechat_video">Video a %s</string>
   <string name="wifi_state">Stato Wi-Fi</string>
