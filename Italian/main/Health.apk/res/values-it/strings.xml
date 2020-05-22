@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="abc_action_bar_home_description">Vai in home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
@@ -45,7 +44,8 @@
   <string name="add_body_weight_button">Aggiungi dati sul peso</string>
   <string name="add_body_weight_record_button">Aggiungi dati sul peso</string>
   <string name="add_data_source">Aggiunta sorgenti dati</string>
-  <string name="add_data_source_description">"Aggiungi i dati sanitari generati da altri dispositivi a Xiaomi Health per aumentare l'accuratezza delle statistiche e ottenere consigli sanitari più pertinenti."</string>
+  <string name="add_data_source_description">Aggiungi a Mi Health dati sulla salute generati da altri dispositivi per aumentare l\'accuratezza delle statistiche e ottenere consigli di salute più rilevanti.
+Mi Health supporta i dispositivi che hai aggiunto in precedenza nell\'app Mi Home. Se non riesci a trovare il dispositivo che vuoi aggiungere, controlla se lo hai già aggiunto in Mi Home.</string>
   <string name="add_data_source_login_and_open_sync">Accedi al tuo Mi Account e attiva la sincronizzazione con il cloud per aggiungere fonti di dati.</string>
   <string name="add_data_source_open_sync">Attiva la sincronizzazione con il cloud per poter aggiungere fonti di dati.</string>
   <string name="add_data_source_support_step">"Questo dispositivo non genera i dati di conteggio dei passi. Puoi provare a passare ad altre fonti."</string>
@@ -57,6 +57,7 @@ per aggiungere schede"</string>
   <string name="all_records">Tutti i dati</string>
   <string name="allow_notice_periods">Consenti promemoria</string>
   <string name="altitude">Altitudine</string>
+  <string name="altitude_range">Altitudine</string>
   <string name="am">AM</string>
   <string name="app_name">wcdb-room</string>
   <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
@@ -227,6 +228,7 @@ per aggiungere schede"</string>
   <string name="copy">Copia</string>
   <string name="copy_done">Copiato correttamente</string>
   <string name="copyright_statement">Copyright © Xiaomi Inc. Tutti i diritti riservati.</string>
+  <string name="cousume_unit_float_format">%1$.2f Cal</string>
   <string name="cross_hiking">Escursionismo</string>
   <string name="cumulative_decline">Perdita di altitudine</string>
   <string name="cumulative_rise">Incremento altitudine</string>
@@ -240,21 +242,22 @@ per aggiungere schede"</string>
   <string name="data_delete_tip">Eliminazione dati sulla salute da questo dispositivo…</string>
   <string name="data_details">Dettagli sui dati</string>
   <string name="data_empty">Nessun dato</string>
-  <string name="data_safety_tip_details">I tuoi dati sulla salute verranno conservati su questo dispositivo dopo la disconnessione. È possibile eliminarli in Salute > Fonti di dati.</string>
+  <string name="data_safety_tip_details">I tuoi dati sulla salute verranno conservati su questo dispositivo dopo la disconnessione. È possibile eliminarli in Salute &gt; Fonti di dati.</string>
   <string name="data_safety_tip_details2">"Alcuni dei tuoi dati sulla salute sono stati caricati nel cloud. Puoi scegliere di conservare i tuoi dati su questo dispositivo o eliminarli. Selezionando \"Elimina\" qui sotto verranno eliminati solo i dati da questo dispositivo, gli elementi sincronizzati saranno ancora memorizzati nel cloud.
-Se decidi di eliminare i tuoi dati di salute dopo aver scelto di conservarli puoi farlo in Salute > Fonti di dati."</string>
+Se decidi di eliminare i tuoi dati di salute dopo aver scelto di conservarli puoi farlo in Salute &gt; Fonti di dati."</string>
   <string name="data_safety_tip_title">Eliminazione dati salute</string>
   <string name="data_source">Sorgenti dati</string>
   <string name="data_source_data_updating">Aggiornamento dati salute…</string>
   <string name="data_source_list_description">"Mi Health ottiene dati sulla salute (%1$s) da queste fonti. Se i dati vengono duplicati, vedrai i dati delle fonti che appaiono per prime nella lista su Mi Health."</string>
   <string name="data_source_manage">Gestisci sorgenti dati</string>
-  <string name="data_source_not_support_hm_description">"%1$s non fornisce il conteggio dei passi dettagliati. Puoi provare a passare ad altre fonti dati in Altro > Fonti dati."</string>
+  <string name="data_source_not_support_hm_description">"%1$s non fornisce il conteggio dei passi dettagliati. Puoi provare a passare ad altre fonti dati in Altro &gt; Fonti dati."</string>
   <string name="date">Data</string>
   <string name="date_format_h_m">H:mm</string>
   <string name="date_format_h_m_s">HH:mm:ss</string>
   <string name="date_format_m_d">d/M</string>
   <string name="date_format_m_d_2">dd/MM</string>
   <string name="date_format_m_d_3">dd/MM</string>
+  <string name="date_format_m_d_h_m">dd/MM HH:mm</string>
   <string name="date_format_mm_dd">dd MMM</string>
   <string name="date_format_mm_dd_2">dd/MM</string>
   <string name="date_format_y">yyyy</string>
@@ -268,6 +271,7 @@ Se decidi di eliminare i tuoi dati di salute dopo aver scelto di conservarli puo
   <string name="date_format_y_m_d_h_m_4">dd/MM/yyyy HH:mm:ss</string>
   <string name="date_format_y_m_d_h_m_s">dd/MM/yyyy HH:mm:ss</string>
   <string name="date_format_y_m_d_notranslate">dd/MM/yyyy</string>
+  <string name="date_format_yyyy_m_d_h_m">dd/MM/yyyy HH:mm</string>
   <string name="date_picker_label_day"></string>
   <string name="date_picker_label_month"></string>
   <string name="date_picker_label_year"></string>
@@ -386,17 +390,19 @@ Mi Health ti informerà solo sugli articoli importanti."</string>
   <string name="exercise_consume_exercise_description">La durata dell\'esercizio è il tempo dedicato ad attività di media e alta intensità. Secondo le autorità sanitarie cinesi, la durata dell’esercizio settimanale dovrebbe essere di almeno 150 minuti. Il tempo trascorso in attività ad alta intensità come camminate veloci (cadenza superiore a 100 passi al minuto), corsa e arrampicata saranno aggiunte alla durata del tuo esercizio.</string>
   <string name="exercise_detail_duration">%1$s…%2$s…-…%3$s…%4$s</string>
   <string name="exercise_detail_no_consume_hint">"La fonte dati selezionata (%1$s) non fornisce informazioni sul conteggio delle calorie.
-È possibile selezionare una fonte di dati diversa in Altro > Fonti dati."</string>
+È possibile selezionare una fonte di dati diversa in Altro &gt; Fonti dati."</string>
   <string name="exercise_detail_no_exercise_hint">"La fonte dati selezionata (%1$s) non fornisce informazioni sulla durata degli esercizi.
-È possibile selezionare una fonte di dati diversa in Altro > Fonti dati."</string>
+È possibile selezionare una fonte di dati diversa in Altro &gt; Fonti dati."</string>
   <string name="exercise_detail_no_steps_hint">"La fonte dati selezionata (%1$s) non fornisce informazioni sul conteggio dei passi.
-È possibile selezionare una fonte di dati diversa in Altro > Fonti dati."</string>
+È possibile selezionare una fonte di dati diversa in Altro &gt; Fonti dati."</string>
   <string name="exercise_duration">Durata esercizio</string>
   <string name="exercise_duration_consume">Durata: %1$s | Bruciate: %2$s</string>
   <string name="exercise_goal">Obiettivo attività</string>
   <string name="exercise_goal_accomplished">Obiettivo raggiunto</string>
   <string name="exercise_goal_lack_exercise">Attività insufficiente</string>
   <string name="exercise_goal_not_accomplished">"Obiettivo non raggiunto"</string>
+  <string name="exercise_heart_rate">心率</string>
+  <string name="exercise_heart_rate_range">心率范围</string>
   <string name="exercise_info_tool_bar_title">Attività</string>
   <string name="exercise_information_label">Fornisci le tue informazioni per rendere le statistiche più accurate</string>
   <string name="exercise_intensity">Intensità</string>
@@ -407,7 +413,7 @@ Mi Health ti informerà solo sugli articoli importanti."</string>
   <string name="exercise_notification_meet_title">"Passi di oggi: %d. Obiettivo raggiunto!"</string>
   <string name="exercise_notification_no_meet_title">"Passi di oggi: %d. Continua a raggiungere il tuo obiettivo!"</string>
   <string name="exercise_question_answer_one">"1. Alcuni dispositivi non sono dotati con sensori a basso consumo energetico. Xiaomi Health non tiene traccia dei dati sulle attività per risparmiare batteria sui seguenti dispositivi: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Note Redmi e Redmi Note 2, Note Redmi 3, Note Redmi 4, Mi 2, Mi 3, Mi 4
-Se il tuo dispositivo è elencato qui, puoi aggiungere le sorgenti dati manualmente in Xiaomi Health > Menu > Sorgenti dati > Aggiungi sorgenti dati."</string>
+Se il tuo dispositivo è elencato qui, puoi aggiungere le sorgenti dati manualmente in Xiaomi Health &gt; Menu &gt; Sorgenti dati &gt; Aggiungi sorgenti dati."</string>
   <string name="exercise_question_answer_two">2. Occasionalmente, i sensori di movimento potrebbero non riuscire ad avviarsi. Riavvia il telefono e controlla se il monitoraggio funziona normalmente in questo caso.</string>
   <string name="exercise_question_title">"Perché non riesco a vedere le mie statistiche?"</string>
   <string name="exercise_record">Cronologia allenamenti</string>
@@ -417,6 +423,7 @@ Se il tuo dispositivo è elencato qui, puoi aggiungere le sorgenti dati manualme
   <string name="exercise_reminder_unaccomplished">"Non hai ancora raggiunto il tuo obiettivo. Continua così!"</string>
   <string name="exercise_setting_label_reach_standard_remind">Avviso attività</string>
   <string name="exercise_setting_page_title">Impostazioni attività</string>
+  <string name="exercise_speed">速度</string>
   <string name="exercise_strokes">Numero di bracciate</string>
   <string name="exercise_sum">Resoconto esercizio</string>
   <string name="exercise_walk_description">Secondo le linee guida dietetiche per i residenti cinesi, l\'attività fisica attiva dovrebbe durare almeno 40 minuti al giorno, il che equivale a camminare per 6000 passi. I passi che fai ogni giorno per camminare, correre e salire le scale sono riassunti qui.</string>
@@ -515,7 +522,10 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="goal_sleep_time">Obiettivo durata sonno</string>
   <string name="goal_title">Resta in salute</string>
   <string name="goto_setting_auto_start">Impostazioni</string>
-  <string name="guide_data_cloud_sync_tip">Puoi disattivare la sincronizzazione in Impostazioni > Servizi Cloud.</string>
+  <string name="guide_data_cloud_sync_tip">Puoi disattivare la sincronizzazione in Impostazioni &gt; Servizi Cloud.</string>
+  <string name="guide_exit">Uscita da Xiaomi Health</string>
+  <string name="guide_exit_description">"Non possiamo fornire servizi a persone che non hanno ancora compiuto 14 anni. Assicurati di usare questo dispositivo con il permesso del tuo tutore legale. Tocca il pulsante qui sotto per uscire dall'app."</string>
+  <string name="guide_exit_title">Puoi iniziare a usare Xiaomi Health dopo aver compiuto 14 anni</string>
   <string name="guide_local_data_sync_subtitle">Passi, sonno, peso e ciclo</string>
   <string name="guide_local_data_sync_title">Carica dati da questo dispositivo</string>
   <string name="guide_other_data_sync_subtitle">Telefoni, bracciali, bilance e altri dispositivi</string>
@@ -603,6 +613,7 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="light_sleep_time_decrease_description">Il tuo sonno leggero è troppo breve</string>
   <string name="light_sleep_time_increase_description">Il tuo sonno leggero è troppo lungo</string>
   <string name="light_sleep_time_normal_description">Hai una durata sufficiente di sonno leggero</string>
+  <string name="load_failed">加载失败，请稍后重试</string>
   <string name="login_and_open_sync">Accedi e attiva la sincronizzazione</string>
   <string name="login_and_open_sync2">Accedi e attiva la sincronizzazione</string>
   <string name="low_intensity">Basso</string>
@@ -658,14 +669,14 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="miuix_appcompat_cloud_state_disabled">La sincronizzazione col cloud è disattivata</string>
   <string name="miuix_appcompat_cloud_state_finished">Sincronizzato col cloud</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sincronizzazione col cloud...</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira verso il basso per aggiornare</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornamento riuscito</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira per aggiornare</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato con successo</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">aggiornamento...</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"è tutto per ora"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">"è tutto per ora"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">solo un secondo…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Questo è tutto per ora"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"Questo è tutto per ora"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare nuovi elementi"</string>
   <string name="model_card_setting">Impostazioni scheda</string>
   <string name="modify">Modifica</string>
   <string name="modify_end_date">Modifica data di fine</string>
@@ -715,6 +726,8 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="mtrl_badge_numberless_content_description">Nuove notifiche</string>
   <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+  <string name="mtrl_picker_cancel">@android:string/cancel</string>
+  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Scegli una data</string>
@@ -729,6 +742,7 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="need_auto_start_permission">Per ottenere statistiche più precise, consenti a Mi Health di avviarsi automaticamente.</string>
   <string name="need_unrestricted_permission">Per ottenere statistiche più precise, permetti a Mi Health di funzionare sempre in background.</string>
   <string name="network_connect_failure">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
+  <string name="network_not_available">网络不可用，请联网后重试</string>
   <string name="next_step">Prossimo</string>
   <string name="night">PM</string>
   <string name="no_available_device">Nessun dispositivo</string>
@@ -736,14 +750,14 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="no_data">--</string>
   <string name="no_records">Nessun contenuto.</string>
   <string name="no_snore">"Non hai russato o parlato nel sonno"</string>
-  <string name="no_snore_1">"Non hai russato o parlato nel sonno"</string>
+  <string name="no_snore_1">Non hai russato o parlato nel sonno</string>
   <string name="noon">PM</string>
   <string name="normal">Normale</string>
-  <string name="not_achieve_stand_goals">Obiettivo attuale non raggiunto</string>
+  <string name="not_achieve_stand_goals">"Obiettivo attuale non raggiunto"</string>
   <string name="not_added">Non aggiunto</string>
   <string name="not_open_auto_sync">La sincronizzazione Mi Cloud è disattivata</string>
   <string name="not_set">Non impostato</string>
-  <string name="not_standing">Non in piedi</string>
+  <string name="not_standing">"Non in piedi"</string>
   <string name="not_support_step">"Il tuo dispositivo non può contare i passi"</string>
   <string name="not_up_to_standard">Sotto la norma</string>
   <string name="number_divided">%1$d/%2$d</string>
@@ -770,6 +784,7 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="pause">Pausa</string>
   <string name="per_time_minutes">%d al minuto</string>
+  <string name="per_time_minutes1">" al minuto"</string>
   <string name="permission_check_result">Impostato correttamente</string>
   <string name="permission_check_result_failed">"Impossibile impostare"</string>
   <string name="permission_manage">Gestisci permessi</string>
@@ -800,7 +815,7 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="prompt_sleep_time_night">Sonno notturno</string>
   <string name="prompt_sleep_time_noon">Sonnellino mattutino</string>
   <string name="protein_rate">Proteine</string>
-  <string name="protein_rate_descripe_content">"La percentuale di proteine si riferisce alla proporzione di proteine nel peso totale del corpo umano. È importante per individuare lo squilibrio nutrizionale e mantenere una dieta sana."</string>
+  <string name="protein_rate_descripe_content">La percentuale di proteine si riferisce alla proporzione di proteine nel peso totale del corpo umano. È importante per individuare lo squilibrio nutrizionale e mantenere una dieta sana.</string>
   <string name="rate_bit_high">Alta</string>
   <string name="rate_bit_low">Basso</string>
   <string name="rate_bone_mass_reduce">Massa ossea ridotta</string>
@@ -833,6 +848,7 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="remind_title_menstruation_start">Ricordami quando inizia il ciclo</string>
   <string name="remind_title_record">Ricorda di registrarlo</string>
   <string name="remove">Elimina</string>
+  <string name="retry">重试</string>
   <string name="revert_to_default">Ripristina predefinite</string>
   <string name="run">In esecuzione</string>
   <string name="saturday">Sabato</string>
@@ -850,7 +866,7 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="sedentary_time_is_too_long">È ora di muoversi! Bevi un po\' d\'acqua e fai una passeggiata.</string>
   <string name="sedentary_title">Ricorda di muoverti</string>
   <string name="sedentary_toggle_content">"Mi Health ti ricorderà di alzarti e camminare se sei rimasto inattivo per un lungo periodo di tempo."</string>
-  <string name="sedentaty_hazard_description">La sedentarietà causa molti problemi di salute. Alzati per almeno 1 minuto all\'ora e raggiungi l\'obiettivo di 12 ore al giorno, evitando rischi di sedentarietà.</string>
+  <string name="sedentaty_hazard_description">"La sedentarietà causa molti problemi di salute. Alzati per almeno 1 minuto all'ora e raggiungi l'obiettivo di 12 ore al giorno, evitando rischi di sedentarietà."</string>
   <string name="select_menstruation_end_date">Seleziona la data di fine di questo ciclo</string>
   <string name="select_null">Non selezionato</string>
   <string name="select_target">Seleziona obiettivo</string>
@@ -872,6 +888,8 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="sleep_deep">Sonno profondo</string>
   <string name="sleep_deep_light_analysis">Sonno leggero e sonno profondo</string>
   <string name="sleep_deep_light_close_tip">Analisi del sonno profondo disattivata</string>
+  <string name="sleep_deep_light_no_data">Ancora nessun dato</string>
+  <string name="sleep_deep_light_no_data_improvement">"Impossibile rilevare le fasi del sonno. Stiamo migliorando i nostri algoritmi!"</string>
   <string name="sleep_detection_enable">Analizza ciclo di riposo</string>
   <string name="sleep_detection_feedback">Feedback</string>
   <string name="sleep_detection_guide_four_description">Il monitoraggio del sonno consumerà circa l\'1% di batteria al giorno.</string>
@@ -892,7 +910,11 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="sleep_detection_question_four_title">Perché diversi dispositivi consumano diverse quantità di batteria per tracciare il sonno?</string>
   <string name="sleep_detection_question_one_answer">"Quando il dispositivo è spento, riavviato o scarico, il monitoraggio del sonno verrà interrotto perché i sensori non possono raccogliere e analizzare i dati. In questi casi, le statistiche sul sonno appariranno incomplete.
 Se questo problema si verifica frequentemente, controlla il dispositivo per task di arresto programmati o aggiornamenti di sistema durante la notte."</string>
+  <string name="sleep_detection_question_one_answer_1">"Le fasi di sonno profondo e leggero vengono rilevate sulla base dei dati di movimento del corpo raccolti dai sensori del dispositivo. Ecco perché potresti non essere in grado di vedere le statistiche:
+1. Xiaomi Health non ha potuto raccogliere dati. Questo potrebbe accadere quando il dispositivo si spegne mentre stai dormendo, la sua batteria è troppo bassa o l'applicazione non è autorizzata a funzionare in background. Permetti a Xiaomi Health di avviarsi automaticamente, aggiungilo alle eccezioni del risparmio energetico e bloccalo in background per evitare che ciò accada.
+2. Xiaomi Health non è riuscito ad analizzare i dati raccolti. Questo potrebbe accadere quando il telefono è posizionato troppo lontano dal tuo corpo durante il sonno. In alternativa, il movimento del corpo potrebbe essere troppo sottile per fare qualsiasi ipotesi circa i cambiamenti del ciclo del sonno. Stiamo costantemente migliorando i nostri algoritmi per rendere Xiaomi Health analizzare meglio il sonno."</string>
   <string name="sleep_detection_question_one_title">Perché le mie statistiche sono incomplete?</string>
+  <string name="sleep_detection_question_one_title_1">"Perché non vedo le statistiche del ciclo di sonno?"</string>
   <string name="sleep_detection_question_three_answer">Il dispositivo tiene traccia del movimento del tuo corpo mentre dormi usando i sensori integrati. Per rendere più accurate le statistiche, posiziona il dispositivo su una superficie morbida vicino al tuo corpo. Evita di posizionarlo su comodini o troppo lontano dal materasso.</string>
   <string name="sleep_detection_question_three_title">Come posso rendere più accurate le mie statistiche?</string>
   <string name="sleep_detection_question_two_answer">"I tuoi cicli di sonno sono analizzati localmente sul dispositivo. Il monitoraggio del sonno funzionerà anche se non sei connesso alla rete o la tua connessione viene interrotta."</string>
@@ -941,11 +963,15 @@ non rilevati"</string>
   <string name="sleep_service_background_running">Il servizio di monitoraggio del sonno è in esecuzione in background</string>
   <string name="sleep_setting_title">Impostazioni dormita</string>
   <string name="sleep_snore_audio_auto">Traccia il tuo audio</string>
-  <string name="sleep_snore_audio_auto_desc">Registra quando parli o russi nel sonno e salva il file nel tuo telefono per proteggere la tua privacy in modo sicuro.</string>
+  <string name="sleep_snore_audio_auto_desc">Registra quando parli nel sonno e salva il file nel tuo telefono per proteggere la tua privacy in modo sicuro.</string>
   <string name="sleep_snore_audio_close_desc">Puoi disattivarlo nelle impostazioni del sonno.</string>
   <string name="sleep_snore_audio_enable">Le rilevazioni sono abilitate</string>
   <string name="sleep_snore_audio_enable_desc">Stasera, il tuo sonno verrà tracciato automaticamente.</string>
-  <string name="sleep_snore_audio_hight_power_desc">Assicurati che il tuo dispositivo sia sufficientemente carico prima di andare a letto.</string>
+  <string name="sleep_snore_audio_file_mamagement_desc">建议开启。保留最新100MB的鼾声梦话音频，自动清理较旧音频，避免占用过多存储空间。</string>
+  <string name="sleep_snore_audio_file_mamagement_title">自动清理音频文件</string>
+  <string name="sleep_snore_audio_file_saved">音频文件保存在本地</string>
+  <string name="sleep_snore_audio_file_saved_desc">检测采用离线算法，音频文件保存在手机，个人隐私安全有保障。</string>
+  <string name="sleep_snore_audio_hight_power_desc">"Assicurati che il tuo dispositivo sia sufficientemente carico prima di andare a letto."</string>
   <string name="sleep_snore_detection">Rileva quando russi e parli nel sonno</string>
   <string name="sleep_snore_detection_desc">Monitora il tuo sonno</string>
   <string name="sleep_sober">Sveglio</string>
@@ -971,7 +997,7 @@ non rilevati"</string>
   <string name="snore_detection_enable">Rileva quando russi e parli nel sonno</string>
   <string name="snore_detection_guide_one_description">Il suono verrà registrato mentre dormi. L\'apprendimento automatico consente a Xiaomi Health di rilevare russate, rumori forti e quando parli nel sonno, e salva le registrazioni sul tuo dispositivo.</string>
   <string name="snore_detection_guide_one_title">Registra audio con il microfono</string>
-  <string name="snore_detection_guide_schedule_suggest">Il microfono verrà attivato e disattivato secondo il programma di riposo. Imposta la pianificazione di quando vai a letto per farlo funzionare></string>
+  <string name="snore_detection_guide_schedule_suggest">Il microfono verrà attivato e disattivato secondo il programma di riposo. Imposta la pianificazione di quando vai a letto per farlo funzionare&gt;</string>
   <string name="snore_detection_guide_schedule_suggest_details">Il microfono verrà acceso durante il tempo in cui sei a letto per analizzare il tuo ciclo di sonno. Per rendere più accurate le statistiche, impostare l\'ora in cui vai a letto in Orologio.</string>
   <string name="snore_detection_guide_three_description">Assicurati che il dispositivo sia sufficientemente carico prima di andare a letto. Una batteria scarica potrebbe interrompere la registrazione dei suoni.</string>
   <string name="snore_detection_guide_three_title">Mantieni il dispositivo in carica</string>
@@ -983,6 +1009,8 @@ non rilevati"</string>
   <string name="snore_detection_notification_title">Test del sonno in corso</string>
   <string name="snore_detection_running_state">Rilevamento…</string>
   <string name="snore_detection_running_state_description">Il microfono è acceso. Continuerà a funzionare in background.</string>
+  <string name="snore_detection_sotp_opt_1">Interrompi ed elimina i risultati</string>
+  <string name="snore_detection_sotp_opt_2">Ferma e salva risultati</string>
   <string name="snore_detection_stop_pop_content">"Non potrai riprendere questa sessione se la terminerai ora. La prossima sessione inizierà quando andrai a letto la prossima volta."</string>
   <string name="snore_detection_stop_pop_title">Terminare la sessione ora?</string>
   <string name="snore_detection_stopped_notification_title">Fermato il rilevamento di ronfate e parlate</string>
@@ -1017,14 +1045,6 @@ non rilevati"</string>
   <string name="solar_term_white_dews">Rugiada Bianca</string>
   <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
   <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
-  <string name="splash_edit_basic_save_btn">Successivo</string>
-  <string name="splash_header_subtitle">"Gli esercizi e il sonno regolari
-possono migliorare la tua salute."</string>
-  <string name="splash_header_title">Le autorità sanitarie globali dicono:</string>
-  <string name="splash_next_btn">Inserisci informazioni di base</string>
-  <string name="splash_title">"In Mi Health, puoi impostare i tuoi obiettivi di attività
-e ricevere consigli
-in base alle tue informazioni personali."</string>
   <string name="sport_type">Tipo di allenamento</string>
   <string name="stand">In piedi</string>
   <string name="stand_assistant">Assistente sedentarietà</string>
@@ -1032,17 +1052,17 @@ in base alle tue informazioni personali."</string>
   <string name="stand_guide_page_title1">Completa l\'obiettivo ogni giorno e tieniti lontano dai rischi di sedentarietà</string>
   <string name="stand_guide_page_title2">Rilevamento automatico, registrazione e promemoria per rimanere in piedi</string>
   <string name="stand_notice">Notifica per alzarti</string>
-  <string name="stand_notice_subtitle1">%1$s-%2$s non ti ha rilevato in piedi, se lo sei già, fai clic su Termina</string>
-  <string name="stand_notice_subtitle2">Se sei già in piedi, clicca per terminare. Non ti sei alzato e stiracchiato.</string>
+  <string name="stand_notice_subtitle1">"%1$s-%2$s non ti ha rilevato in piedi, se lo sei già, fai clic su Termina"</string>
+  <string name="stand_notice_subtitle2">"Se sei già in piedi, clicca per terminare. Non ti sei alzato e stiracchiato."</string>
   <string name="stand_notice_title1">Alzati e attivati!</string>
   <string name="stand_notice_title2">Notifica per alzarti</string>
-  <string name="stand_notice_title3">Sei stato seduto per molto tempo</string>
+  <string name="stand_notice_title3">"Sei stato seduto per molto tempo"</string>
   <string name="stand_notice_title4">Alzati e stiracchiati</string>
-  <string name="stand_notice_title5">Non ti sei alzato per circa 1 ora</string>
+  <string name="stand_notice_title5">"Non ti sei alzato per circa 1 ora"</string>
   <string name="stand_notice_title6">Ti sei per caso alzato nell\'ultima ora?</string>
   <string name="stand_setting">Impostazioni di sedentarietà</string>
   <string name="standard_format">(standard: %1s)</string>
-  <string name="standing_already">Già in piedi</string>
+  <string name="standing_already">"Già in piedi"</string>
   <string name="state_agree">Accetto</string>
   <string name="state_auto_run_disenable">Spenta</string>
   <string name="state_auto_run_enable">Attivo</string>
@@ -1082,10 +1102,10 @@ in base alle tue informazioni personali."</string>
   <string name="sync_status_in_progress">Sincronizzazione…</string>
   <string name="sync_status_network_failure">"Impossibile sincronizzare. Connettiti alla rete e riprova."</string>
   <string name="sync_status_never_done">Non sincronizzato</string>
-  <string name="sync_status_oauth_error">"Impossibile sincronizzare i dati. Concedere prima le autorizzazioni necessarie."</string>
+  <string name="sync_status_oauth_error">"Impossibile sincronizzare i dati. Concedi prima i permessi richiesti."</string>
   <string name="tb_audio_progress_bar">Barra di riproduzione audio</string>
   <string name="tb_card_on_using_list">Aggiunto</string>
-  <string name="tb_click_finish_stand">In piedi per quasi 1 ora, clicca per terminarlo</string>
+  <string name="tb_click_finish_stand">"In piedi per quasi 1 ora, clicca per terminarlo"</string>
   <string name="tb_current_select">%1$s attualmente selezionato</string>
   <string name="tb_date_label_info">%1$s attualmente selezionato. Tocca per cambiare data.</string>
   <string name="tb_deep_light_detection_main">Informazioni sull\'analisi del ciclo di sonno: %1$s. Scorri orizzontalmente sulla parte superiore dello schermo per andare alla pagina successiva.</string>
@@ -1123,8 +1143,6 @@ in base alle tue informazioni personali."</string>
   <string name="tb_exercise_list_sport">%1$s. Distanza in chilometri: %2$s. Ora di fine: %3$s. Sorgente dati: %4$s. Tocca per visualizzare i dettagli.</string>
   <string name="tb_exercise_list_sport_one">%1$s. Durata: %2$s. Ora di fine: %3$s. Sorgente dati: %4$s. Tocca per visualizzare i dettagli.</string>
   <string name="tb_exercise_list_walk">Numero di passaggi: %1$s. Ora di fine: %2$s. Tocca per visualizzare dettagli.</string>
-  <string name="tb_exercise_sport_no_distance">%1$s. Durata %2$s. Calorie bruciate: %3$s.</string>
-  <string name="tb_exercise_sport_normal">%1$s. Distanza %2$s. Durata : %3$s. Calorie bruciate: %4$s.</string>
   <string name="tb_exercise_sport_sum">Rapporto dell\'esercizio. %1$s. Tocca per visualizzare i dettagli.</string>
   <string name="tb_exercise_steps_no_data">Nessun dato sui passi. Obiettivo attuale: %1$d. Tocca per visualizzare i dettagli.</string>
   <string name="tb_exercise_steps_no_goal">Numero di passi: %1$d. Tocca per visualizzare i dettagli.</string>
@@ -1167,7 +1185,7 @@ in base alle tue informazioni personali."</string>
   <string name="tb_month_dialog_go_today">Selezionato oggi</string>
   <string name="tb_month_dialog_select_date">%1$s selezionato</string>
   <string name="tb_month_dialog_select_date_with_snore" formatted="false">%1$s, %s selezionato</string>
-  <string name="tb_multiple_selecte_all">Seleziona tutto</string>
+  <string name="tb_multiple_selecte_all">Seleziona tutti</string>
   <string name="tb_not_add_list">Non aggiunto</string>
   <string name="tb_pause_detection">Pausa</string>
   <string name="tb_picker_day">Giorno selezionato: %1$d. Scorri verticalmente per selezionare il giorno.</string>
@@ -1192,7 +1210,7 @@ in base alle tue informazioni personali."</string>
   <string name="tb_snore_detection_main">Informazioni sulle funzionalità di rilevazione russate e parlate notturne: %1%s. Scorri orizzontalmente sulla parte superiore dello schermo per andare alla pagina successiva.</string>
   <string name="tb_snore_view_info">Grafico di quando hai russato e parlato</string>
   <string name="tb_stand_card_finish_stand">Oggi, sei stato in piedi per %1$s, l\'obiettivo è di stare in piedi per 12 ore l\'orario corrente è %2$s-%3$s, sei stato abbastanza in piedi</string>
-  <string name="tb_stand_card_not_finish_stand">Oggi, sei stato in piedi per %1$s, l\'obiettivo è di stare in piedi per 12 ore l\'orario corrente è %2$s-%3$s, non sei stato abbastanza in piedi</string>
+  <string name="tb_stand_card_not_finish_stand">"Oggi, sei stato in piedi per %1$s, l'obiettivo è di stare in piedi per 12 ore l'orario corrente è %2$s-%3$s, non sei stato abbastanza in piedi"</string>
   <string name="tb_stand_day_column_click">%1$s-%2$s sei stato abbastanza in piedi da %3$s</string>
   <string name="tb_stand_day_ring">Oggi, sei stato in piedi per %1$s, l\'obiettivo è di stare in piedi per 12 ore</string>
   <string name="tb_stand_wm_column_chart">%1$s-%2$s, Statistiche su quanto sei stato in piedi, trascina a destra e sinistra per modificare l\'intervallo di tempo, fai clic sulla colonna per visualizzare i dettagli</string>
@@ -1278,9 +1296,13 @@ in base alle tue informazioni personali."</string>
   <string name="title_no_record_menstruation">"Non hai ancora registrato i tuoi cicli."</string>
   <string name="title_run_in_background">Esegui in background</string>
   <string name="title_select_birthday">Seleziona il compleanno</string>
+  <string name="title_select_birthday_description">"Regoleremo i nostri servizi in base alla tua età"</string>
   <string name="title_select_gender">Seleziona sesso</string>
+  <string name="title_select_gender_description">"Regoleremo i nostri servizi in base al tuo genere"</string>
   <string name="title_select_height">Imposta altezza</string>
+  <string name="title_select_height_description">Questo renderà le nostre statistiche più accurate</string>
   <string name="title_select_weight">Imposta peso</string>
+  <string name="title_select_weight_description">Questo renderà le nostre statistiche più accurate</string>
   <string name="title_start_use">Avvia</string>
   <string name="title_start_use_menstruation_assistant">Registra il tuo ciclo mestruale</string>
   <string name="title_today_exercise_detail">"Attività odierna"</string>
@@ -1295,12 +1317,6 @@ in base alle tue informazioni personali."</string>
   <string name="total_consumption_label">Calorie totali</string>
   <string name="total_distance_label">Distanza totale</string>
   <string name="total_time_label">Tempo totale</string>
-  <string name="tracking_progress_labe_pull_to_refresh">tira per aggiornare</string>
-  <string name="tracking_progress_labe_refreshed">aggiornamento completato</string>
-  <string name="tracking_progress_labe_refreshing">aggiornamento...</string>
-  <string name="tracking_progress_labe_release_to_refresh">rilascia per aggiornare</string>
-  <string name="tracking_progress_labe_up_nodata">nessun dato</string>
-  <string name="tracking_progress_labe_up_refresh">tira per aggiornare</string>
   <string name="tuesday">Martedì</string>
   <string name="tuesday_short">Mar</string>
   <string name="tuesday_shortest">M</string>
@@ -1329,8 +1345,8 @@ Aggiornare ora?"</string>
   <string name="user_agreement">Condizioni del Servizio</string>
   <string name="user_birthday_display_format">dd/MM/yyyy</string>
   <string name="user_invalid_value">--</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">Disattivato</string>
+  <string name="v7_preference_on">Attivato</string>
   <string name="visceral_fat">Grasso viscerale</string>
   <string name="visceral_fat_descripe_content">Il grasso viscerale è essenziale per stabilizzare e proteggere gli organi interni, ma, se elevato, aumenta il rischio di malattie cardiovascolari e metaboliche.</string>
   <string name="walk">Camminata</string>
@@ -1341,6 +1357,13 @@ Aggiornare ora?"</string>
   <string name="weight_keep_up">Grande! Continua a mantenere un peso sano.</string>
   <string name="weight_trend_offset_date">"Da %1$s a %2$s: "</string>
   <string name="weight_unit_kg">KG</string>
+  <string name="welcome_exercise">Traccia allenamenti</string>
+  <string name="welcome_exercise_description">Porta il tuo dispositivo con te per tracciare automaticamente gli allenamenti</string>
+  <string name="welcome_sedentary">Continua a muoverti</string>
+  <string name="welcome_sedentary_description">"Xiaomi Health può ricordarti di alzarti quando sei seduto per molto tempo"</string>
+  <string name="welcome_sleep">Analizza il ciclo del sonno</string>
+  <string name="welcome_sleep_description">Metti il tuo telefono accanto a te per conoscere il tuo ciclo di sonno al mattino</string>
+  <string name="welcome_start_use">Inizia</string>
   <string name="well">Buono</string>
   <string name="write_strorage_perm_description">Registra i problemi che hai riscontrato durante l\'uso</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
