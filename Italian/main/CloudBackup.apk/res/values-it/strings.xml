@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="abc_action_bar_home_description">Vai in home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
@@ -28,7 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Condividi con</string>
   <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
   <string name="abc_toolbar_collapse_description">Riduci</string>
-  <string name="about_to_recover">Solo un attimo…</string>
+  <string name="about_to_recover">Attendi…</string>
   <string name="app_is_running">App in esecuzione…</string>
   <string name="app_name">Backup</string>
   <string name="arrange_restore_order">Riorganizzazione app…</string>
@@ -93,7 +92,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
   <string name="cloud_back_up_frequence_short">Ogni giorno</string>
   <string name="cloud_back_up_no_network_warn">"Impossibile collegarsi alla rete"</string>
   <string name="cloud_back_up_ok_btn">OK</string>
-  <string name="cloud_back_up_opening">Solo un secondo…</string>
+  <string name="cloud_back_up_opening">Attendi…</string>
   <string name="cloud_back_up_subscribe_vip_confirm">Aggiorna</string>
   <string name="cloud_back_up_subscribe_vip_discription">Ottini più spazio di archiviazione, backup giornalieri ed altro.</string>
   <string name="cloud_back_up_subscribe_vip_title">Aggiorna Mi Account</string>
@@ -174,10 +173,10 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
   <string name="miuix_sbl_tracking_progress_labe_refreshed">aggiornamento terminato</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">aggiornamento</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">E\' tutto per ora</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">E\' tutto per ora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossibile caricare gli elementi</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
   <string name="msg_alert_cancel_restore">Il backup da Cloud è in fase di ripristino, interrompere?</string>
   <string name="msg_alert_restore_error">"Ripristino backup da Cloud non riuscito, prego riprova."</string>
   <string name="msg_restore_start_with_metered_network">"La tua Home verrà lanciata di nuovo. Le app salvate verranno scaricate automaticamente. Verranno scaricati &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s di file.&lt;/font&gt;&lt;/b&gt;"</string>
@@ -195,6 +194,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
   <string name="open_wifi_setting">Impostazioni Wi-Fi</string>
   <string name="other_device_main_space">Primo spazio</string>
   <string name="other_device_second_space">Secondo spazio</string>
+  <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+  <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
   <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
   <string name="process_whole_recovery">Ripristino di \"%s\"</string>
   <string name="provision_background_restore_more_data">Ripristina altri elementi in background</string>
@@ -213,7 +214,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
   <string name="remove_task_unfinished">Rimozione incompleta</string>
   <string name="remove_unfinished">Rimozione incompleta, riprova più tardi</string>
   <string name="restore_app_order_finish">Fatto</string>
-  <string name="restore_app_order_loading">Solo un attimo…</string>
+  <string name="restore_app_order_loading">Attendi…</string>
   <string name="restore_app_order_retry">Prova di nuovo</string>
   <string name="restore_app_order_retry_desc">"Impossibile collegarsi alla rete.
 Controlla le tue impostazioni di rete e prova di nuovo."</string>
@@ -272,7 +273,8 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
   <string name="try_continue">Continua</string>
   <string name="unselected">Non selezionato</string>
   <string name="unsupported_home">Prego aggiorna all\'OS più recente.</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">Disattivato</string>
+  <string name="v7_preference_on">Attivato</string>
   <string name="wait_icon_download">Download icona applicazione</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
