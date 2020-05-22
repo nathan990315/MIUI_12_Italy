@@ -89,24 +89,24 @@
         <item>=</item>
     </string-array>
     <string-array name="unit_data_order_area_">
-        <item>sq.km</item>
+        <item>km²</item>
         <item>ha</item>
         <item>are</item>
-        <item>sq.m</item>
-        <item>sq.dm</item>
-        <item>sq.cm</item>
-        <item>sq.mm</item>
-        <item>sq.um</item>
+        <item>m²</item>
+        <item>dm²</item>
+        <item>cm²</item>
+        <item>mm²</item>
+        <item>um²</item>
         <item>acre</item>
-        <item>sq.mi</item>
-        <item>sq.yd</item>
-        <item>sq.ft</item>
-        <item>sq.in</item>
-        <item>sq.rd</item>
+        <item>mi²</item>
+        <item>yd²</item>
+        <item>ft²</item>
+        <item>in²</item>
+        <item>rd²</item>
         <item>qing</item>
         <item>mu</item>
-        <item>sq.chi</item>
-        <item>sq.cun</item>
+        <item>chi²</item>
+        <item>cun²</item>
     </string-array>
     <string-array name="unit_data_order_length_">
         <item>km</item>
@@ -152,10 +152,10 @@
         <item>Re</item>
     </string-array>
     <string-array name="unit_data_order_time_">
-        <item>yr</item>
-        <item>week</item>
-        <item>day</item>
-        <item>h</item>
+        <item>anno</item>
+        <item>settimana</item>
+        <item>giorno</item>
+        <item>ora</item>
         <item>min</item>
         <item>s</item>
         <item>ms</item>
@@ -174,19 +174,19 @@
         <item>ips</item>
     </string-array>
     <string-array name="unit_data_order_volume_">
-        <item>cu.m</item>
-        <item>cu.dm</item>
-        <item>cu.cm</item>
-        <item>cu.mm</item>
+        <item>m³</item>
+        <item>dm³</item>
+        <item>cm³</item>
+        <item>mm³</item>
         <item>hl</item>
         <item>l</item>
         <item>dl</item>
         <item>cl</item>
         <item>ml</item>
-        <item>cu.ft</item>
-        <item>cu.in</item>
-        <item>cu.yd</item>
-        <item>cu.af</item>
+        <item>ft³</item>
+        <item>in³</item>
+        <item>yd³</item>
+        <item>af³</item>
     </string-array>
     <string-array name="unit_data_order_weight_">
         <item>t</item>
