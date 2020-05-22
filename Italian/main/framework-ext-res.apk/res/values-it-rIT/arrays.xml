@@ -25,15 +25,8 @@
         <item>40554</item>
         <item>40497</item>
     </string-array>
-    <item type="array" name="android_common_nicknames">@android:array/common_nicknames</item>
-    <item type="array" name="android_config_keyboardTapVibePattern">@android:array/config_keyboardTapVibePattern</item>
-    <item type="array" name="android_config_longPressVibePattern">@android:array/config_longPressVibePattern</item>
-    <item type="array" name="android_config_mobile_hotspot_provision_app">@android:array/config_mobile_hotspot_provision_app</item>
-    <item type="array" name="android_config_virtualKeyVibePattern">@android:array/config_virtualKeyVibePattern</item>
-    <item type="array" name="android_special_locale_codes">@android:array/special_locale_codes</item>
-    <item type="array" name="android_special_locale_names">@android:array/special_locale_names</item>
-    <array name="boot_msg_text" />
-    <array name="config_BrightnessCurvesLux" />
+    <array name="boot_msg_text"></array>
+    <array name="config_BrightnessCurvesLux"></array>
     <string-array name="config_Poland_Orange_IPV6_array">
         <item>lavender</item>
         <item>onc</item>
@@ -45,71 +38,9 @@
         <item>be</item>
         <item>gb</item>
     </string-array>
-    <integer-array name="config_autoBrightnessMinNitForOriginalLux">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
-    <integer-array name="config_compensateSignalLevelValue">
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-    </integer-array>
-    <array name="config_crossSpaceNotificationPackageNames" />
-    <integer-array name="config_hightGrayBrightnessLevels">
-        <item>150</item>
-        <item>500</item>
-        <item>1200</item>
-        <item>1500</item>
-        <item>2047</item>
-    </integer-array>
-    <integer-array name="config_lowGrayBrightnessLevels">
-        <item>100</item>
-        <item>150</item>
-        <item>700</item>
-        <item>800</item>
-        <item>2047</item>
-    </integer-array>
-    <integer-array name="config_manualBrightnessRemapIn">
-        <item>0</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>128</item>
-        <item>192</item>
-        <item>255</item>
-    </integer-array>
-    <integer-array name="config_manualBrightnessRemapOut">
-        <item>0</item>
-        <item>1</item>
-        <item>8</item>
-        <item>20</item>
-        <item>60</item>
-        <item>120</item>
-        <item>255</item>
-    </integer-array>
-    <array name="config_maxBrightnessCurvesNits" />
-    <integer-array name="config_maxBrightnessRemapIn">
-        <item>1</item>
-        <item>10</item>
-        <item>50</item>
-        <item>100</item>
-        <item>200</item>
-        <item>300</item>
-    </integer-array>
-    <integer-array name="config_maxBrightnessRemapOut">
-        <item>140</item>
-        <item>140</item>
-        <item>140</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-    </integer-array>
-    <array name="config_minBrightnessCurvesNits" />
+    <array name="config_crossSpaceNotificationPackageNames"></array>
+    <array name="config_maxBrightnessCurvesNits"></array>
+    <array name="config_minBrightnessCurvesNits"></array>
     <string-array name="config_mms_force_unmetered_list">
         <item>260</item>
         <item>20801</item>
@@ -125,17 +56,11 @@
         <item>45006</item>
         <item>45008</item>
     </string-array>
-    <integer-array name="config_originalLux">
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-    </integer-array>
     <string-array name="config_sysBrightnessFileArray">
         <item>/sys/class/leds/lcd-backlight/brightness</item>
         <item>/sys/class/backlight/panel0-backlight/brightness</item>
     </string-array>
-    <array name="config_virtualKeyUpPattern" />
+    <array name="config_virtualKeyUpPattern"></array>
     <string-array name="empty_initial_attach_apn_plmn">
         <item>20205</item>
         <item>20810</item>
@@ -153,6 +78,35 @@
         <item>45005</item>
         <item>45006</item>
         <item>45008</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Prova di nuovo</item>
+        <item></item>
+        <item></item>
+        <item>Copri il sensore di impronte ed applica una pressione</item>
+        <item></item>
+        <item>Copri il sensore di impronte ed applica una pressione</item>
+        <item>Pulisci il sensore di impronte digitali e riprova</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Copri il sensore di impronte ed applica una pressione</item>
+        <item>Copri il sensore di impronte ed applica una pressione</item>
+        <item>"Troppo veloce! Impossibile riconoscere l'impronta"</item>
+        <item>Muovi un pò la tua impronta e riprova</item>
+        <item>Alza il tuo dito e rimettilo nuovamente sullo scansionatore</item>
+        <item>Mantienti il tuo dito sullo scansionatore un pò di più</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Muovi leggermente il tuo dito</item>
+        <item>Questa impronta è stata aggiunta, usa un altro dito</item>
     </string-array>
     <string-array name="float_notification_whitelist">
         <item>com.google.android.apps.messaging</item>
@@ -1509,174 +1463,6 @@
         <item>none</item>
         <item>show_menu</item>
     </string-array>
-    <array name="screen_resolution_supported" />
-    <integer-array name="vibration_recorder_major_action">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>5</item>
-        <item>10</item>
-        <item>-3</item>
-        <item>10</item>
-        <item>15</item>
-        <item>10</item>
-        <item>-3</item>
-        <item>10</item>
-        <item>25</item>
-        <item>10</item>
-        <item>-3</item>
-        <item>10</item>
-        <item>35</item>
-        <item>10</item>
-        <item>-3</item>
-        <item>10</item>
-        <item>40</item>
-        <item>10</item>
-        <item>-3</item>
-        <item>30</item>
-        <item>120</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>150</item>
-        <item>50</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-    </integer-array>
-    <integer-array name="vibration_recorder_minor_action">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>120</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-    </integer-array>
-    <integer-array name="vibration_recorder_rewind">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>5</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>10</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>5</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>10</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>5</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>10</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>5</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>10</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>5</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>10</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>5</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>10</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>5</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>10</item>
-        <item>50</item>
-        <item>-3</item>
-        <item>5</item>
-        <item>120</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>150</item>
-        <item>60</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-        <item>0</item>
-        <item>10</item>
-    </integer-array>
-    <integer-array name="vibration_recorder_slider">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>120</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>150</item>
-        <item>60</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-    </integer-array>
-    <integer-array name="vibration_torch_off">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>120</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-    </integer-array>
-    <integer-array name="vibration_torch_on">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>90</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>150</item>
-        <item>50</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-    </integer-array>
-    <array name="vibration_virtual_key_up" />
+    <array name="screen_resolution_supported"></array>
+    <array name="vibration_virtual_key_up"></array>
 </resources>
