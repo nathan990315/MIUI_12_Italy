@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
   <string name="abc_action_bar_home_description">Vai in home</string>
@@ -111,6 +110,10 @@
   <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Svuota %s dalla cache di WeChat per liberare spazio di archiviazione</string>
   <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Non dimenticare di pulire la cache"</string>
   <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Ricorda di pulire la cache di WeChat</string>
+  <string name="appcleaner_wechat_pref_size_100_MB">100MB</string>
+  <string name="appcleaner_wechat_pref_size_1_GB">1GB</string>
+  <string name="appcleaner_wechat_pref_size_300_MB">300MB</string>
+  <string name="appcleaner_wechat_pref_size_500_MB">500MB</string>
   <string name="appcleaner_wechat_pref_time_every_day">Tutti i giorni</string>
   <string name="appcleaner_wechat_pref_time_fifteen_day">Ogni 15 giorni</string>
   <string name="appcleaner_wechat_pref_time_seven_day">Ogni 7 giorni</string>
@@ -133,8 +136,6 @@
   <string name="auto_clean_time_three_day">Ogni 3 giorni</string>
   <string name="auto_cleaner_open">Attiva</string>
   <string name="back">Indietro</string>
-  <string name="browser_scan_history_desc">Cronologia browser</string>
-  <string name="browser_search_history_desc">Oggetti ricercati</string>
   <string name="btn_text_done">Fatto</string>
   <string name="btn_text_quick_cleanup">Ottimizza</string>
   <string name="btn_text_quick_cleanup_apk">Elimina gli APK selezionati %1$s</string>
@@ -179,7 +180,6 @@
   <string name="cache_title_empty_folder2">Cartella vuota</string>
   <string name="cache_title_system_cache">Cache di sistema</string>
   <string name="cached_garbage">Cache</string>
-  <string name="call_log">Registro chiamate</string>
   <string name="cancel">Annulla</string>
   <string name="cd_back">indietro</string>
   <string name="cd_check_box_checked">verificato</string>
@@ -200,8 +200,6 @@
   <string name="clear_bigfiles">Elimina file di grosse dimensioni, foto duplicate ed altri file inutili</string>
   <string name="clear_immediately">Ottimizza</string>
   <string name="clear_safe_notify">Barra per le notifiche di sicurezza</string>
-  <string name="clip_board_history_desc">Contenuti copiati/tagliati</string>
-  <string name="clipboard">Appunti</string>
   <string name="close">Non attiva</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Connessione di rete per sicurezza</string>
@@ -289,6 +287,7 @@
   <string name="dialog_title_uninstall_apps">Disinstalla</string>
   <string name="download">Scarica</string>
   <string name="downloading">In download</string>
+  <string name="empty">" "</string>
   <string name="empty_content_no_ignore_image">Vuoto</string>
   <string name="empty_content_no_privacy">Vuoto</string>
   <string name="empty_content_no_similar_image">Nessun duplicato</string>
@@ -416,6 +415,7 @@
   <string name="hints_garbage_cleanup_result_safe">Sicuro</string>
   <string name="hints_garbage_handle_item_content">%1$d elementi，%2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Vuoto</string>
+  <string name="hints_header_left">%d</string>
   <string name="hints_installed_app_fewer">Utilizzata raramente</string>
   <string name="hints_installed_app_near">Utilizzata di recente</string>
   <string name="hints_installed_app_never">Mai utilizzata</string>
@@ -607,7 +607,6 @@
   <string name="optimizecenter_data_support_tc">Offerto da Tencent</string>
   <string name="output_videos">Esporta video</string>
   <string name="petabyteShort">PB</string>
-  <string name="phone_search">Ricerca Google</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_about_privacy_title">Informativa sulla Privacy</string>
   <string name="pref_category_title_auto_clean_settings">Ottimizza automaticamente</string>
@@ -640,6 +639,8 @@
   <string name="pref_title_manual_check_cleanup_db_update">Aggiorna ora</string>
   <string name="pref_title_open_optimizer_cloud_scan">Usa il motore di Pulizia online</string>
   <string name="pref_title_open_optimizer_memory_scan">Pulizia memoria</string>
+  <string name="preference_category_information_setting">category_information_setting</string>
+  <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
   <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
   <string name="preference_key_about_privacy">key_about_privacy</string>
   <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
@@ -649,13 +650,23 @@
   <string name="preference_key_garbage_clean_alert">key_garbage_clean_alert</string>
   <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
   <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
+  <string name="preference_key_information_setting_close">key_information_setting_close</string>
+  <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
   <string name="preference_key_manual_update_cleanup_db">key_manual_update_cleanup_db</string>
   <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
   <string name="preference_key_open_optimizer_memory_scan">key_open_memory_scan</string>
   <string name="preference_key_scan_engine">key_scan_engine</string>
+  <string name="preference_key_wechat_garbage_clean_alert">key_wechat_clean_switch_state</string>
+  <string name="preference_key_wechat_garbage_clean_alert12">key_wechat_clean_switch_state_drop</string>
+  <string name="preference_key_wechat_garbage_cleanup_auto_check_size">key_wechat_timed_auto_scan_notify_size</string>
+  <string name="preference_key_wechat_garbage_cleanup_auto_check_size12">key_wechat_timed_auto_scan_notify_size_drop</string>
+  <string name="preference_key_wechat_garbage_cleanup_auto_check_time">key_wechat_timed_auto_scan_interval</string>
+  <string name="preference_key_wechat_garbage_cleanup_auto_check_time12">key_wechat_timed_auto_scan_interval_drop</string>
   <string name="preference_key_whatsapp_setting_alert_size">key_whatsapp_setting_alert_size</string>
+  <string name="preference_key_whatsapp_setting_alert_size12">key_whatsapp_setting_alert_size_drop</string>
   <string name="preference_key_whatsapp_setting_alert_switch">key_whatsapp_setting_alert_switch</string>
   <string name="preference_key_whatsapp_setting_alert_time">key_whatsapp_setting_alert_time</string>
+  <string name="preference_key_whatsapp_setting_alert_time12">key_whatsapp_setting_alert_time_drop</string>
   <string name="preference_key_whatsapp_setting_other_reconmmend">key_whatsapp_setting_other_reconmmend</string>
   <string name="preference_key_whatsapp_setting_other_shortcut">key_whatsapp_setting_other_shortcut</string>
   <string name="preference_key_whatsapp_setting_privacy_mi">key_whatsapp_setting_privacy_mi</string>
@@ -664,7 +675,6 @@
   <string name="privacy_app_desc_message">Account, password e messaggi</string>
   <string name="privacy_app_desc_search">Account, password e cronologia di ricerca</string>
   <string name="privacy_app_desc_setting">Account, password e impostazioni</string>
-  <string name="privacy_appdata_chrome_history_des">Siti visitati</string>
   <string name="privacy_browser_desc">Cronologia elementi</string>
   <string name="privacy_cache_desc">Account, password, cronologia, impostazioni ed altro</string>
   <string name="privacy_cache_empty">Nessun dato personale</string>
@@ -698,7 +708,6 @@
   <string name="sc_allow_network_dialog_button">Consenti</string>
   <string name="sc_allow_network_dialog_message">Consentire a questa applicazione di connettersi alla rete per ricevere i dati?</string>
   <string name="scanning">Scansione…</string>
-  <string name="search_history">Cronologia di ricerca</string>
   <string name="search_menu_title">Cerca</string>
   <string name="security_center_slogan">Sicurezza. Sempre in guardia.</string>
   <string name="see_more">Altro</string>
@@ -709,7 +718,6 @@
   <string name="similar_image_empty">Nessun duplicato trovato</string>
   <string name="similar_image_scaning">Verifica…</string>
   <string name="similar_image_title">Rimuovi duplicati</string>
-  <string name="sms">SMS/MMS</string>
   <string name="sponsored">Sponsorizzati</string>
   <string name="start_downloading_app">Avvia download:%1$s</string>
   <string name="start_install">Avvia installazione</string>
@@ -837,8 +845,8 @@
   <string name="total_clean_text">Pulisci</string>
   <string name="unlike">No, grazie</string>
   <string name="update_date_format">dd-MM-yyyy</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">Disattivato</string>
+  <string name="v7_preference_on">Attivato</string>
   <string name="virus_scan">Scansione virus</string>
   <string name="vungle_ad_name">Vungle</string>
   <string name="wechat_chat_data_type_cache">Cache WeChat</string>
