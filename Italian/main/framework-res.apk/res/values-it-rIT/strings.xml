@@ -827,10 +827,10 @@ Vuoi abbandonare la pagina?"</string>
   <string name="keyguard_password_entry_touch_hint"><font size="17">Tocca per inserire la password</font></string>
   <string name="keyguard_password_wrong_pin_code">Codice PIN errato.</string>
   <string name="kg_enter_confirm_pin_hint">Conferma il codice PIN desiderato</string>
-  <string name="kg_failed_attempts_almost_at_login">"%d tentativi errati di inserimento della sequenza di sblocco. Dopo altri %d tentativi falliti, ti verrà chiesto di sbloccare il telefono con un account email.
+  <string name="kg_failed_attempts_almost_at_login">"You have incorrectly drawn your unlock pattern %1$d times. After %2$d more unsuccessful attempts, you will be asked to unlock your phone using an email account.
 
- Riprova tra %d secondi."</string>
-  <string name="kg_failed_attempts_almost_at_wipe">%d tentativi errati di sblocco del telefono. Dopo altri %d tentativi falliti, il telefono verrà sottoposto a un ripristino dei dati di fabbrica e tutti i dati utente andranno persi.</string>
+ Try again in %3$d seconds."</string>
+  <string name="kg_failed_attempts_almost_at_wipe">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
   <string name="kg_failed_attempts_now_wiping">%d tentativi errati di sblocco del telefono. Il telefono verrà sottoposto a un ripristino dei dati di fabbrica.</string>
   <string name="kg_forgot_pattern_button_text">Sequenza dimenticata</string>
   <string name="kg_invalid_confirm_pin_hint">I codici PIN non corrispondono</string>
@@ -855,15 +855,15 @@ Visita \"<b>google.com/accounts/recovery</b>.</string>
   <string name="kg_reordering_delete_drop_target_text">Rimuovi</string>
   <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
   <string name="kg_sim_unlock_progress_dialog_message">Sblocco scheda SIM…</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message">"Hai digitato la tua password %d volte in modo errato. 
+  <string name="kg_too_many_failed_password_attempts_dialog_message">"You have incorrectly typed your password %1$d times. 
 
-Riprova tra %d secondi."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message">"%d tentativi errati di inserimento della sequenza di sblocco. 
+Try again in %2$d seconds."</string>
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message">"You have incorrectly drawn your unlock pattern %1$d times. 
 
-Riprova tra %d secondi."</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message">"Hai digitato il tuo PIN %d volte in modo errato. 
+Try again in %2$d seconds."</string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message">"You have incorrectly typed your PIN %1$d times. 
 
-Riprova tra %d secondi."</string>
+Try again in %2$d seconds."</string>
   <string name="kg_wrong_password">Password sbagliata</string>
   <string name="kg_wrong_pattern">Sequenza sbagliata</string>
   <string name="kg_wrong_pin">PIN errato</string>
@@ -900,10 +900,10 @@ Per sbloccare, premi e tieni premuti insieme i pulsanti Home e Power."</string>
   <string name="lockscreen_access_pattern_start">Sequenza iniziata</string>
   <string name="lockscreen_carrier_default">Nessun servizio</string>
   <string name="lockscreen_emergency_call">Chiamata di emergenza</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe">Hai erroneamente tentato di sbloccare il telefono %d volte. Dopo altri %d tentativi non riusciti, il telefono verrà sottoposto a un ripristino dati di fabbrica e tutti i dati utente andranno persi.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin">"%d tentativi errati di inserimento della sequenza di sblocco. Dopo altri %d tentativi falliti, ti verrà chiesto di sbloccare il telefono con i tuoi dati di accesso Google.
+  <string name="lockscreen_failed_attempts_almost_at_wipe">You have incorrectly attempted to unlock the phone %1$d times. After %2$d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin">"You have incorrectly drawn your unlock pattern %1$d times. After %2$d more unsuccessful attempts, you will be asked to unlock your phone using your Google signin.
 
- Riprova tra %d secondi."</string>
+ Try again in %3$d seconds."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Hai erroneamente tentato di sbloccare il telefono %d volte. Il telefono ora verrà sottoposto a un ripristino dati di fabbrica.</string>
   <string name="lockscreen_forgot_pattern_button_text">Hai dimenticato la sequenza?</string>
   <string name="lockscreen_glogin_account_recovery_hint">Hai dimenticato il nome utente o la password?
@@ -940,15 +940,15 @@ Visita \"<b>google.com/accounts/recovery</b>.</string>
   <string name="lockscreen_sound_on_label">Audio attivato</string>
   <string name="lockscreen_storage_locked">Sblocca tutte le funzionalità ed i dati</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Riprova fra %d secondi.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message">"%d tentativi errati di inserimento della sequenza di sblocco. 
+  <string name="lockscreen_too_many_failed_attempts_dialog_message">"You have incorrectly drawn your unlock pattern %1$d times. 
 
-Riprova tra %d secondi."</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Hai digitato la tua password %d volte in modo errato. 
+Try again in %2$d seconds."</string>
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"You have incorrectly typed your password %1$d times. 
 
-Riprova tra %d secondi."</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Hai digitato il tuo PIN %d volte in modo errato. 
+Try again in %2$d seconds."</string>
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"You have incorrectly typed your PIN %1$d times. 
 
-Riprova tra %d secondi."</string>
+Try again in %2$d seconds."</string>
   <string name="lockscreen_transport_ffw_description">Avanti veloce</string>
   <string name="lockscreen_transport_next_description">Traccia successiva</string>
   <string name="lockscreen_transport_pause_description">Metti in pausa</string>
