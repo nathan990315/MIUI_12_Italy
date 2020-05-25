@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="ai_assistant">Assistente Chiamata IA</string>
   <string name="ai_assistant_not_installed">Installa prima l\'Assistente Chiamata IA</string>
@@ -53,14 +52,10 @@
   <string name="can_not_use">"Impossibile utilizzare"</string>
   <string name="cancel">Annulla</string>
   <string name="card_title_answering">Risposta</string>
-  <string name="card_title_answering_time_out">"Impossibile rispondere, prova di nuovo."</string>
   <string name="card_title_call_ended">"Chiamata terminata\u0020"</string>
   <string name="card_title_conf_call">Audioconferenza</string>
   <string name="card_title_dialing">Chiamata in corso</string>
   <string name="card_title_hanging_up">"In fase di chiusura\u0020"</string>
-  <string name="card_title_hanging_up_fail">"Impossibile chiudere, prova di nuovo."</string>
-  <string name="card_title_hanging_up_restart">"Impossibile terminare la chiamata. Riavvia il dispositivo."</string>
-  <string name="card_title_hanging_up_weak_signal">Segnale rete mobile debole. Chiusura chiamata</string>
   <string name="card_title_in_call">In chiamata</string>
   <string name="card_title_in_call_short">In chiamata</string>
   <string name="card_title_in_video">Video </string>
@@ -152,7 +147,7 @@
   <string name="incoming_circle_text_video_answer_p">Scorri verso l\'alto per rispondere con video</string>
   <string name="manageConferenceLabel">Gestione chiamate in conferenza</string>
   <string name="manager_conference_done">Fatto</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
+  <string name="msim_select_default_time_left">(%d sec)</string>
   <string name="notification_action_accept">Accetta</string>
   <string name="notification_action_answer_video">Video</string>
   <string name="notification_action_answer_voice">Voce</string>
@@ -189,6 +184,7 @@
   <string name="pause_prompt_no">No</string>
   <string name="pause_prompt_yes">Sì</string>
   <string name="payphone">Telefono a gettoni</string>
+  <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">Recupero informazioni di contatto…</string>
   <string name="private_num">Numero privato</string>
   <string name="prompt_no_volte_when_failed">"Il servizio VoLTE non è disponibile."</string>
@@ -220,6 +216,6 @@
   <string name="volte_call">Chiamata VoLTE</string>
   <string name="volume_boost_text">Incremento del volume riuscita</string>
   <string name="wait_prompt_str">"Inviare i numeri successivi?"</string>
-  <string name="waiting_close_airplane_mode">Solo un attimo…</string>
+  <string name="waiting_close_airplane_mode">Attendi…</string>
   <string name="wifi_call">Chiamata VoWiFi</string>
 </resources>
