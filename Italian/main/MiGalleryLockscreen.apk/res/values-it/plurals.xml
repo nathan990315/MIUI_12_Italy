@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<plurals name="feed_article_entrance_title">
+    <plurals name="article_num">
+        <item quantity="other">%d articoli</item>
+        <item quantity="one">%d articolo</item>
+    </plurals>
+    <plurals name="feed_article_entrance_title">
         <item quantity="other">%d articoli su questo argomento</item>
         <item quantity="one">%d articolo su questo argomento</item>
+    </plurals>
+    <plurals name="llks_tools_remote_control_data">
+        <item quantity="other">%s elementi</item>
+        <item quantity="one">%s elemento</item>
+    </plurals>
+    <plurals name="llks_tools_smart_devices_data">
+        <item quantity="other">%s dispositivi</item>
+        <item quantity="one">%s dispositivo</item>
     </plurals>
     <plurals name="lockscreen_magazine_subscribe">
         <item quantity="other">%1$s persone iscritte</item>
@@ -11,6 +23,14 @@
     <plurals name="lockscreen_magazine_system_subscribe">
         <item quantity="other">%1$s sfondi</item>
         <item quantity="one">%1$s sfondo</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%s foto</item>
+        <item quantity="one">%s foto</item>
     </plurals>
     <plurals name="time_day_ago">
         <item quantity="other">%d giorni fa</item>
@@ -23,5 +43,9 @@
     <plurals name="time_minute_ago">
         <item quantity="other">%d min fa</item>
         <item quantity="one">%d min fa</item>
+    </plurals>
+    <plurals name="wm_cw_count">
+        <item quantity="other">%d immagini</item>
+        <item quantity="one">%d immagine</item>
     </plurals>
 </resources>
