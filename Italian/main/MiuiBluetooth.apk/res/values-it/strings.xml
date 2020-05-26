@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="abc_action_bar_home_description">Vai alla Home</string>
   <string name="abc_action_bar_up_description">Vai in alto</string>
@@ -70,6 +69,8 @@
   <string name="ble_device_profile_header_title">Impostazioni</string>
   <string name="ble_device_profile_title">Dispositivi smart abbinati via bluetooth</string>
   <string name="ble_device_rename">Rinomina</string>
+  <string name="ble_profile_1">ble_profile_mi_band</string>
+  <string name="ble_profile_2">ble_profile_mi_key</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Collegato ad audio media</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utilizza per audio media</string>
   <string name="bluetooth_active_battery_level">Attivo, %1$s batteria</string>
@@ -345,10 +346,10 @@ Frequenza Campione"</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">aggiornamento terminato</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">aggiornamento</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">E\' tutto per ora</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">E\' tutto per ora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossibile caricare gli elementi</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
   <string name="mobile_data_always_on">Dati rete mobile sempre attivi</string>
   <string name="mobile_data_always_on_summary">Mantieni i dati mobili attivi, anche quando il Wi-Fi é attivo (per un cambio di rete rapido).</string>
   <string name="mock_location_app">Seleziona imitazione locazione app</string>
@@ -394,6 +395,8 @@ Frequenza Campione"</string>
   <string name="osu_sign_up_complete">Registrazione completata. Connessione…</string>
   <string name="osu_sign_up_failed">Impossibile completare la registrazione. Tocca per riprovare.</string>
   <string name="overlay_display_devices_title">Simula schermi secondari</string>
+  <string name="perm_ble_des">Accesso a impostazioni BLE</string>
+  <string name="perm_ble_lab">Accesso a impostazioni BLE</string>
   <string name="picture_color_mode">Modalità colore immagine</string>
   <string name="picture_color_mode_desc">Utilizza sRGB</string>
   <string name="pointer_location">Posizione indicatore</string>
@@ -616,6 +619,7 @@ Frequenza Campione"</string>
   <string name="wifi_security_none_owe">Nessuna/Aperta</string>
   <string name="wifi_security_owe">OWE</string>
   <string name="wifi_security_passpoint">Passpoint</string>
+  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
   <string name="wifi_security_sae">SAE</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
@@ -627,6 +631,7 @@ Frequenza Campione"</string>
   <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
   <string name="wifi_security_short_none_owe">None/OWE</string>
   <string name="wifi_security_short_owe">OWE</string>
+  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
   <string name="wifi_security_short_sae">SAE</string>
   <string name="wifi_security_short_wep">WEP</string>
@@ -670,4 +675,5 @@ La memorizzazione delle credenziali potrebbe non essere stata attivata"</string>
   <string name="zen_mode_settings_summary_off">Nessuna regola automatica attivata</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Attiva modalità Non Disturbare</string>
   <string name="zhiyun_name">SMOOTH Q2</string>
+  <string name="zhiyun_smooth_x_name">SMOOTH-X</string>
 </resources>
