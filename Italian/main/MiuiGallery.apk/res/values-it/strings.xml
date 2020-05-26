@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="abc_action_bar_home_description">Vai in home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
@@ -9,18 +8,6 @@
   <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
   <string name="abc_capital_off">ATTIVATO</string>
   <string name="abc_capital_on">DISATTIVATO</string>
-  <string name="abc_font_family_body_1_material">sans-serif</string>
-  <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-  <string name="abc_font_family_button_material">sans-serif-medium</string>
-  <string name="abc_font_family_caption_material">sans-serif</string>
-  <string name="abc_font_family_display_1_material">sans-serif</string>
-  <string name="abc_font_family_display_2_material">sans-serif</string>
-  <string name="abc_font_family_display_3_material">sans-serif</string>
-  <string name="abc_font_family_display_4_material">sans-serif-light</string>
-  <string name="abc_font_family_headline_material">sans-serif</string>
-  <string name="abc_font_family_menu_material">sans-serif</string>
-  <string name="abc_font_family_subhead_material">sans-serif</string>
-  <string name="abc_font_family_title_material">sans-serif-medium</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">elimina</string>
@@ -150,6 +137,8 @@
   <string name="album_sort_type_custom">Personalizza</string>
   <string name="album_sort_type_name_asc">Da A a Z</string>
   <string name="album_sort_type_name_desc">Da Z a A</string>
+  <string name="album_tab_page_switch_view_style_to_grid">Griglia</string>
+  <string name="album_tab_page_switch_view_style_to_linear">Lista</string>
   <string name="album_type_baby">Condividi album</string>
   <string name="album_type_share">Album</string>
   <string name="album_type_system">Album di sistema</string>
@@ -209,7 +198,7 @@
   <string name="baby_lock_wallpaper">Sfondo Schermata di blocco</string>
   <string name="baby_lock_wallpaper_cancelled">Sfondo predefinito della schermata di blocco impostato</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Applicare le impostazioni attuali?</string>
-  <string name="baby_lock_wallpaper_title">"Usa le foto dei bambini come sfondo della schermata di blocco"</string>
+  <string name="baby_lock_wallpaper_title">Usa le foto dei bambini come sfondo della schermata di blocco</string>
   <string name="baby_name_cannot_empty">Inserisci nome</string>
   <string name="baby_name_cannot_start_with">"Il nome non può iniziare con '%s'"</string>
   <string name="baby_name_contain_invalidate_char">"Il nome non può contenere '%s'"</string>
@@ -293,6 +282,7 @@
   <string name="by_sms">SMS di gruppo</string>
   <string name="byteShort">B</string>
   <string name="camera_needs_auto_backup_tip">Backup album fotocamera eseguito</string>
+  <string name="camera_path">/DCIM/Camera</string>
   <string name="can_authorize_owner_albums_share_to_tv">Autorizza la visualizzazione degli album sulla tua TV</string>
   <string name="can_not_transfer_when_screening">"Impossibile proiettare durante i trasferimenti"</string>
   <string name="cancel">Annulla</string>
@@ -314,6 +304,7 @@
   <string name="card_description_annual_peoples">Visi, storie, luoghi</string>
   <string name="card_description_annual_pets">Code, zampe e baffi</string>
   <string name="card_description_annual_travel">Cose che hai visto per strada</string>
+  <string name="card_description_from_to">%1$s - %2$s</string>
   <string name="card_title_activities">Eventi</string>
   <string name="card_title_annual_babys">Il tesoro a %1$s</string>
   <string name="card_title_annual_events">Le mie feste nel %1$s</string>
@@ -328,6 +319,7 @@
   <string name="card_title_pastyear_party">Feste dell\'anno scorso</string>
   <string name="card_title_pastyear_sports">Gli allenamenti dell\'anno scorso</string>
   <string name="card_title_recent_memory">Ricordi recenti</string>
+  <string name="card_title_somewhere">%1$s</string>
   <string name="card_title_sports">Allenamenti</string>
   <string name="card_title_three_month_baby">Il tempo vola</string>
   <string name="cast_devices_unavailable_desc">Assicurati che questo dispositivo e il proiettore siano collegati alla stessa rete Wi-Fi</string>
@@ -916,6 +908,7 @@
   <string name="context_menu_add_contact">Aggiungi ai contatti</string>
   <string name="context_menu_copy">Copia</string>
   <string name="context_menu_copy_notice">Selezione copiata negli appunti</string>
+  <string name="continue_feedback">Feedback aggiuntivo</string>
   <string name="copy">Copia</string>
   <string name="correct_photo_time">Correggi data ed ora per le foto</string>
   <string name="correct_time_success">Correzione riuscita</string>
@@ -1041,7 +1034,7 @@
   <string name="empty_album_rubbish_list_title">Nessun album</string>
   <string name="empty_description_conditions">Ricorda le storie che contano</string>
   <string name="empty_description_conditions_new">"Assicurati di aver scattato abbastanza foto, connetti il caricabatterie e spegni lo schermo per far apparire qui le foto."</string>
-  <string name="empty_description_no_cards">Ricorda le storie che contano</string>
+  <string name="empty_description_no_cards">"Ricorda le storie che contano"</string>
   <string name="empty_query_text_msg">"Non so cosa cercare..."</string>
   <string name="empty_recommend_back">Indietro</string>
   <string name="empty_recommend_face_page_view">Nessun altro suggerimento</string>
@@ -1159,6 +1152,7 @@ Scatta più foto ai tuoi amici!"</string>
   <string name="face_name_edit">Modifica</string>
   <string name="face_name_input">Nome</string>
   <string name="face_recommend">Suggerimenti</string>
+  <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="fail_hint">"Operazione fallita."</string>
   <string name="fail_to_pick_email">Email selezionata non valida</string>
   <string name="fail_to_sync_album">"Impossibile sincronizzare l'album con il server. Verifica la connessione di rete."</string>
@@ -1168,46 +1162,15 @@ Scatta più foto ai tuoi amici!"</string>
   <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
   <string name="feature_guidance_photo_effects">"Effetti foto"</string>
   <string name="feature_guidance_video_editor_smart_effects">Sono disponibili nuovi effetti</string>
+  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="file_cannot_print">"Impossibile stampare questo elemento."</string>
   <string name="file_cannot_screen_throw">"Impossibile trasmettere questo elemento."</string>
   <string name="file_sending">Trasferimento file…</string>
-  <string name="filter_bi_bw">B/N</string>
-  <string name="filter_bi_dusk">Crepuscolo</string>
-  <string name="filter_bi_lilt">Lilt</string>
-  <string name="filter_bi_memory">Memoria</string>
-  <string name="filter_bi_pink">Rosa</string>
-  <string name="filter_bi_retro">Retrò</string>
-  <string name="filter_bi_romantic">Romantico</string>
-  <string name="filter_bi_sepia">Seppia</string>
-  <string name="filter_bi_strong">Forte</string>
-  <string name="filter_bi_sunny">Sole</string>
-  <string name="filter_bi_tea">Té</string>
-  <string name="filter_bi_warm">Caldo</string>
-  <string name="filter_category_film">Film</string>
-  <string name="filter_category_food">Cibo</string>
+  <string name="filter_bg_color_component">0.968</string>
   <string name="filter_category_general">Preferenze generali</string>
   <string name="filter_category_master">Maestro</string>
   <string name="filter_category_movie">Film</string>
-  <string name="filter_category_portrait">Verticale</string>
-  <string name="filter_category_scene">Orizzontale</string>
   <string name="filter_category_sky">Cielo</string>
-  <string name="filter_film_blackwhite">B/N</string>
-  <string name="filter_film_classic">Classico</string>
-  <string name="filter_film_dew">Rugiada</string>
-  <string name="filter_film_fade">Sfuma</string>
-  <string name="filter_film_film">Film</string>
-  <string name="filter_film_grey">Grigio</string>
-  <string name="filter_film_quiet">Quiete</string>
-  <string name="filter_film_style">Poetico</string>
-  <string name="filter_film_time">Invecchiato</string>
-  <string name="filter_food_barbecue">Barbecue</string>
-  <string name="filter_food_cookies">Biscotti</string>
-  <string name="filter_food_delicious">Gourmet</string>
-  <string name="filter_food_dessert">Caramella</string>
-  <string name="filter_food_fruit">Frutta</string>
-  <string name="filter_food_latte">Latte</string>
-  <string name="filter_food_softdrink">Soda</string>
-  <string name="filter_food_wholemeal">Grani</string>
   <string name="filter_general_blackwhite">B/N</string>
   <string name="filter_general_delicious">Cibo</string>
   <string name="filter_general_df">Chiarezza</string>
@@ -1241,27 +1204,7 @@ Scatta più foto ai tuoi amici!"</string>
   <string name="filter_movie_travel">Viaggio</string>
   <string name="filter_movie_wonderful">Meraviglia</string>
   <string name="filter_original">Nessuno</string>
-  <string name="filter_people_bw">B/N</string>
-  <string name="filter_people_fairytale">Bambini</string>
-  <string name="filter_people_japanese">Fresco</string>
-  <string name="filter_people_lilt">Lilt</string>
-  <string name="filter_people_maze">Labirinto</string>
-  <string name="filter_people_movie">Film</string>
-  <string name="filter_people_nature">Naturale</string>
-  <string name="filter_people_pink">Arrossamento</string>
-  <string name="filter_people_riddle">Enigma</string>
-  <string name="filter_people_sepia">Seppia</string>
-  <string name="filter_people_story">Storia</string>
-  <string name="filter_people_tea">Té</string>
   <string name="filter_portrait_hint">Colore pop</string>
-  <string name="filter_scene_city">Città</string>
-  <string name="filter_scene_df">Nebbia</string>
-  <string name="filter_scene_koizora">Amore</string>
-  <string name="filter_scene_lomo">LOMO</string>
-  <string name="filter_scene_neon">Neon</string>
-  <string name="filter_scene_series">Riflessi</string>
-  <string name="filter_scene_vivid">Vivido</string>
-  <string name="filter_scene_warm">Sole</string>
   <string name="filter_single_sky">Skyscaping</string>
   <string name="filter_sky_bikong">Azure</string>
   <string name="filter_sky_clear_sky">Cielo chiaro</string>
@@ -1373,6 +1316,7 @@ Scatta più foto ai tuoi amici!"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
   <string name="grant_permission_go_and_set">Imposta</string>
+  <string name="grant_permission_item">\"%s\"</string>
   <string name="grant_permission_text">"La galleria necessita dell'accesso a 
 %s
  per funzionare correttamente, tocca Imposta per vedere i permessi."</string>
@@ -1408,7 +1352,7 @@ Scatta più foto ai tuoi amici!"</string>
   <string name="hybrid_network_access_denied">Accesso alla rete negato</string>
   <string name="hybrid_network_unavaliable">"Impossibile collegarsi alla rete"</string>
   <string name="hybrid_pull_to_refresh_pull_label">Trascina per aggiornare…</string>
-  <string name="hybrid_pull_to_refresh_refreshing_label">Caricamento…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Attendi…</string>
   <string name="hybrid_pull_to_refresh_release_label">Rilascia per aggiornare…</string>
   <string name="hybrid_service_unavailiable">Servizio non disponibile</string>
   <string name="hybrid_try_again">Riprova</string>
@@ -1453,9 +1397,9 @@ Scatta più foto ai tuoi amici!"</string>
   <string name="limit_width">La larghezza dovrebbe essere &gt; 0</string>
   <string name="load_complete">Nessun altro elemento</string>
   <string name="load_failed">"Impossibile caricare le informazioni, tocca per provare di nuovo"</string>
-  <string name="load_relations">Solo un attimo...</string>
+  <string name="load_relations">Attendi…</string>
   <string name="loading">Solo un attimo...</string>
-  <string name="loading_dots">Solo un attimo...</string>
+  <string name="loading_dots">Attendi…</string>
   <string name="loading_dual_tip">Caricamento dual foto...</string>
   <string name="loading_fail">"Download fallito"</string>
   <string name="loading_fail_sync_off">Attiva sincronizzazione con Mi Cloud per scaricare</string>
@@ -1467,7 +1411,6 @@ Scatta più foto ai tuoi amici!"</string>
   <string name="loading_image">Scarica immagine…</string>
   <string name="loading_image_thumbnail">Download anteprima…</string>
   <string name="loading_members">Caricamento iscritti…</string>
-  <string name="loading_processing_tip">Elaborazioni foto…</string>
   <string name="loading_suspend">Download in pausa: riprenderà quando sarà disponibile una connessione Wi-Fi</string>
   <string name="loading_video">Scarica video…</string>
   <string name="loading_video_compress_lib">Download del plugin di compressione video…</string>
@@ -1481,8 +1424,13 @@ Scatta più foto ai tuoi amici!"</string>
   <string name="macarons_download_dialog_title">Scarica plug-in</string>
   <string name="macarons_download_dialog_without_wifi_confirm">Scarica</string>
   <string name="macarons_download_dialog_without_wifi_message">"Impossibile connettersi al Wi-Fi. È possibile utilizzare la rete dati mobile per scaricare il plugin Vignetta magica."</string>
-  <string name="macarons_download_fail">"Impossibile scaricare il plug-in. Controlla le impostazioni di rete e prova di nuovo."</string>
+  <string name="macarons_download_later">Attendi un minuto o due e riprova</string>
+  <string name="macarons_download_network_fail">"Impossibile scaricare il plug-in. Controlla le impostazioni di rete e riprova."</string>
+  <string name="macarons_download_other_fail">"Download fallito a causa di un errore"</string>
+  <string name="macarons_download_sdscard_fail">"Download fallito. Scheda SD non disponibile."</string>
+  <string name="macarons_download_storage_fail">"Download fallito. Spazio di archiviazione insufficiente."</string>
   <string name="macarons_download_success">Plug-in scaricato correttamente</string>
+  <string name="macarons_downloading">Download plug-in…</string>
   <string name="macarons_select_image_range">"Non puoi usare immagini multiple per creare una vignetta magica"</string>
   <string name="macarons_select_video">"Non puoi usare i video per creare vignette magiche"</string>
   <string name="main_discard_confirm_message">Non hai salvato le modifiche</string>
@@ -1538,7 +1486,7 @@ per personalizzare la Galleria"</string>
   <string name="monday_shortest">Lun</string>
   <string name="month_april">Aprile</string>
   <string name="month_april_short">apr</string>
-  <string name="month_april_shortest">apr</string>
+  <string name="month_april_shortest">Apr</string>
   <string name="month_august">Agosto</string>
   <string name="month_august_short">Ago</string>
   <string name="month_august_shortest">Ago</string>
@@ -1547,7 +1495,7 @@ per personalizzare la Galleria"</string>
   <string name="month_december_shortest">Dic</string>
   <string name="month_february">Febbraio</string>
   <string name="month_february_short">feb</string>
-  <string name="month_february_shortest">feb</string>
+  <string name="month_february_shortest">Feb</string>
   <string name="month_january">Gennaio</string>
   <string name="month_january_short">Gen</string>
   <string name="month_january_shortest">Gen</string>
@@ -1559,13 +1507,13 @@ per personalizzare la Galleria"</string>
   <string name="month_june_shortest">Giu</string>
   <string name="month_march">MArzo</string>
   <string name="month_march_short">mar</string>
-  <string name="month_march_shortest">mar</string>
+  <string name="month_march_shortest">Mar</string>
   <string name="month_may">Maggio</string>
   <string name="month_may_short">Mag</string>
-  <string name="month_may_shortest">Maggio</string>
+  <string name="month_may_shortest">Mag</string>
   <string name="month_november">Novembre</string>
   <string name="month_november_short">nov</string>
-  <string name="month_november_shortest">nov</string>
+  <string name="month_november_shortest">Nov</string>
   <string name="month_october">Ottobre</string>
   <string name="month_october_short">Ott</string>
   <string name="month_october_shortest">Ott</string>
@@ -1753,6 +1701,7 @@ per personalizzare la Galleria"</string>
   <string name="people_mark_mode_title_no_mark_name">Seleziona una persona</string>
   <string name="people_page_label">Volto</string>
   <string name="people_page_unname">Senza nome</string>
+  <string name="percent_sign">%</string>
   <string name="permission_contacts_desc">Per assegnare i contatti alle persone sulle foto</string>
   <string name="permission_contacts_name">Contatti</string>
   <string name="permission_optional_category">Permessi opzionali</string>
@@ -1840,11 +1789,14 @@ per personalizzare la Galleria"</string>
   <string name="photo_editor_talkback_redo">Aggiungi di nuovo</string>
   <string name="photo_editor_talkback_undo">Annulla</string>
   <string name="photo_editor_text">Testo</string>
+  <string name="photo_editor_transition_image_view">photo_view</string>
   <string name="photo_font_cancel_download">Annulla</string>
   <string name="photo_font_download">Scarica</string>
   <string name="photo_font_download_failed_for_notwork">"Impossibile scaricare. Collegati alla rete e prova di nuovo."</string>
   <string name="photo_font_download_without_wifi_msg">"L'utilizzo della connessione dati per scaricare i file incrementa il consumo dei dati. Se superi le soglie previste dal tuo piano tariffario, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
   <string name="photo_font_download_without_wifi_title">Avvso utilizzo dati</string>
+  <string name="photo_movie_menu_loading">@string/photo_print_menu_loading</string>
+  <string name="photo_movie_module_failed">@string/error_install_connect_fail</string>
   <string name="photo_movie_module_finish">Video caricati correttamente</string>
   <string name="photo_movie_module_loading">Caricamento video…</string>
   <string name="photo_movie_select_image_range">Le clip possono contenere da 3 a 6 foto</string>
@@ -1861,6 +1813,8 @@ per personalizzare la Galleria"</string>
   <string name="photo_purge_dialog_message_image">"Non potrai ripristinare gli elementi se li elimini. Eliminarli comunque?"</string>
   <string name="photo_purge_dialog_message_video">"Non potrai ripristinare gli elementi se li elimini. Eliminarli comunque?"</string>
   <string name="photo_save_to_msg">Salvato in %s</string>
+  <string name="photo_vlog_menu_loading">@string/photo_print_menu_loading</string>
+  <string name="photo_vlog_module_failed">@string/error_install_connect_fail</string>
   <string name="photo_vlog_module_finish">Editor video scaricato con successo</string>
   <string name="photo_vlog_module_loading">Download dell\'editor video…</string>
   <string name="pick_from_contact">Scegli dai contatti</string>
@@ -1894,7 +1848,7 @@ per personalizzare la Galleria"</string>
   <string name="play_video_desc">Riproduci video</string>
   <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
-  <string name="preparing_data">Preparazione…</string>
+  <string name="preparing_data">Attendi…</string>
   <string name="print_log">Stampa log</string>
   <string name="privacy_permission_request_message">Galleria richiede l\'accesso a %3$s. Le informazioni raccolte saranno utilizzate in conformità con la nostra %1$s e %2$s. Consentire?</string>
   <string name="privacy_permission_request_negative">Limita</string>
@@ -1902,6 +1856,7 @@ per personalizzare la Galleria"</string>
   <string name="privacy_permission_request_title">Permessi richiesti</string>
   <string name="private_entry_lock_state_activated_text">Rilascia per aprire la cartella privata</string>
   <string name="private_entry_lock_state_enterd_text">Trascina verso il basso per aprire la cartella privata</string>
+  <string name="problem_feedback">Feedback</string>
   <string name="projection_cancel">Annulla</string>
   <string name="projection_checkbox_text">Ricorda questo schermo</string>
   <string name="projection_device_connection_failed">"Impossibile collegare il proiettore"</string>
@@ -1916,6 +1871,7 @@ per personalizzare la Galleria"</string>
   <string name="projection_switch_title">Passa a</string>
   <string name="projection_video_quit">Tocca per uscire</string>
   <string name="prompt_not_support_format">"Non è possibile usare questa immagine per creare una vignetta magica"</string>
+  <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
   <string name="public_url_descript">Chiunque può accedere al tuo album utilizzando questo link</string>
   <string name="publish_failed">"Pubblicazione fallita"</string>
   <string name="publish_succeeded">Album pubblicato</string>
@@ -2016,8 +1972,13 @@ per personalizzare la Galleria"</string>
   <string name="screen_doodle_talkback_size">Larghezza linea</string>
   <string name="screen_editor_btn_delete">Elimina</string>
   <string name="screen_editor_btn_save">Salva</string>
+  <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
   <string name="screen_editor_delete_dialog_msg">Eliminare questo screenshot?</string>
+  <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
   <string name="screen_editor_finish">Fatto</string>
+  <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+  <string name="screen_editor_send">@string/operation_send</string>
+  <string name="screen_editor_text">@string/photo_editor_text</string>
   <string name="screen_save_dialog_btn_cancel">Annulla</string>
   <string name="screen_save_dialog_btn_delete">Elimina screenshot</string>
   <string name="screen_save_dialog_btn_save">Salva in Galleria</string>
@@ -2077,6 +2038,9 @@ per personalizzare la Galleria"</string>
   <string name="search_title_recommend">Consigliati</string>
   <string name="search_title_suggestion">Suggerimenti</string>
   <string name="search_title_tag">Oggetti</string>
+  <string name="search_transition_element_icon">search_icon</string>
+  <string name="search_transition_element_input">search_input</string>
+  <string name="search_transition_element_voice">search_voice</string>
   <string name="searching_cast_devices">Ricerca proiettore…</string>
   <string name="secret_album_card_description">Il posto migliore per i tuoi piccoli segreti</string>
   <string name="secret_album_card_title">Prova gli album privati</string>
@@ -2139,6 +2103,7 @@ per personalizzare la Galleria"</string>
   <string name="share_with_family">Condividi con la famiglia</string>
   <string name="sharer_quota_fulfiled">"Impossibile aggiungere un partecipante, è stato raggiunto il numero massimo di condivisioni."</string>
   <string name="show_cloud_albumlist_summary">Gestisci gli album sincronizzati con il cloud</string>
+  <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
   <string name="show_hidden_album_summary">Visualizza e gestisci gli album nascosti</string>
   <string name="show_hidden_album_title">Mostra gli album nascosti</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Spostato correttamente, vai in Altri Album per vedere</string>
@@ -2333,7 +2298,7 @@ per personalizzare la Galleria"</string>
   <string name="thursday_shortest">Gio</string>
   <string name="time_picker_dialog_title">Imposta ora</string>
   <string name="time_picker_label_hour">O</string>
-  <string name="time_picker_label_minute">M</string>
+  <string name="time_picker_label_minute">Min</string>
   <string name="tip_capture_location">Località:</string>
   <string name="tip_capture_params">Parametri:</string>
   <string name="tip_capture_time">Data:</string>
@@ -2391,10 +2356,10 @@ per personalizzare la Galleria"</string>
   <string name="user_agreement2"> Termini del Servizio</string>
   <string name="user_agreement4">Informativa sulla Privacy</string>
   <string name="user_alias_self">Io</string>
-  <string name="user_notice_identify_summary_format">"Utilizzando questo servizio, accetti %1$s e %2$s di Xiaomi."</string>
+  <string name="user_notice_identify_summary_format">Utilizzando questo servizio, accetti %1$s e %2$s di Xiaomi.</string>
   <string name="user_notice_title">Attenzione</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">Disattivato</string>
+  <string name="v7_preference_on">Attivato</string>
   <string name="video_analytic_cancel">Ferma</string>
   <string name="video_analytic_download">Scarica</string>
   <string name="video_analytic_download_failed_for_notwork">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
@@ -2585,6 +2550,7 @@ per personalizzare la Galleria"</string>
   <string name="vlog_clip_is_reversed">Invertito</string>
   <string name="vlog_clip_select_trans">Seleziona transizione</string>
   <string name="vlog_clip_sort">Riorganizza video</string>
+  <string name="vlog_clip_zoom">Usa due dita per aumentare o diminuire il numero di foto nell\'anteprima</string>
   <string name="vlog_cloud_file_download">Elementi dal cloud</string>
   <string name="vlog_download">Scarica</string>
   <string name="vlog_download_btn">Scarica</string>
@@ -2600,6 +2566,8 @@ per personalizzare la Galleria"</string>
   <string name="vlog_end_of_film">Chiusura</string>
   <string name="vlog_exit_ddit_message">Tutte le modifiche andranno perse se si esce ora. Uscire comunque?</string>
   <string name="vlog_exit_edit_title">Uscita dall\'editor</string>
+  <string name="vlog_exit_message">Tutte le modifiche non salvate andranno perse. Tornare comunque indietro?</string>
+  <string name="vlog_exit_title">Annullamento modifiche</string>
   <string name="vlog_film_title">Apertura</string>
   <string name="vlog_filter_changfeng">Vento</string>
   <string name="vlog_filter_chujing">Quiete</string>
@@ -2615,7 +2583,9 @@ per personalizzare la Galleria"</string>
   <string name="vlog_filter_xiayang">Festa d\'Estate</string>
   <string name="vlog_filter_zhaomu">Alba</string>
   <string name="vlog_float_view_change_audio">Cambia colonna sonora</string>
+  <string name="vlog_float_view_original_ratio">Originale</string>
   <string name="vlog_float_view_ratio">Proporzioni</string>
+  <string name="vlog_improt_encode_video_error">Si è verificato un errore di codifica. Riprova.</string>
   <string name="vlog_load_data_fail">"Impossibile caricare i dati"</string>
   <string name="vlog_mi_clip">Editor video</string>
   <string name="vlog_mi_clip_cn">Editor video</string>
@@ -2626,6 +2596,7 @@ per personalizzare la Galleria"</string>
   <string name="vlog_nav_title_ratio">Proporzioni</string>
   <string name="vlog_nav_title_template">Modelli</string>
   <string name="vlog_none">Non pulire niente</string>
+  <string name="vlog_photo_edit_not_support">"Impossibile modificare le immagini"</string>
   <string name="vlog_photo_not_support">"Impossibile modificare le immagini"</string>
   <string name="vlog_ratio_choose">Seleziona le proporzioni</string>
   <string name="vlog_ratio_fullsize">Schermo intero</string>
@@ -2671,10 +2642,12 @@ per personalizzare la Galleria"</string>
   <string name="vlog_video_importing">Importazione video…</string>
   <string name="vlog_video_saved_in_my_create">Video salvato</string>
   <string name="vlog_video_selected_not_support">"Impossibile modificare il video selezionato"</string>
+  <string name="vlog_video_trans_code_cons">Elaborazione di un file ad alta risoluzione…</string>
   <string name="voice_assistant">Input vocale</string>
   <string name="wednesday">Mercoledì</string>
   <string name="wednesday_short">Mer</string>
   <string name="wednesday_shortest">Mer</string>
+  <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
   <string name="welcome_to_micloud">Benvenuto in Mi Cloud</string>
   <string name="where_is_barcode">"Dov'è il Codice QR?"</string>
   <string name="who_is_this">Chi è?</string>
