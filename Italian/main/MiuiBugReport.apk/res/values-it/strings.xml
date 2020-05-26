@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="abc_action_bar_home_description">Vai in home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
@@ -37,7 +36,7 @@
   <string name="app_search">Cerca App</string>
   <string name="btn_send">Invia</string>
   <string name="bugreport_dialog_not_show_again">"Non mostrare più"</string>
-  <string name="bugreport_dialog_submit_content">"&lt;Data&gt;\"Stai salvando i log software sul dispositivo. I log possono contenere informazioni personali e dati sulla posizione. Se non vuoi che queste informazioni siano esposte, non condividere i log con nessuno. \"Accetto\" significa che hai letto e accettato la nostra &amp;lt;a href=\"%1$s\"&amp;gt;Informativa sulla privacy&amp;lt; a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt;.&lt;/Data&gt;"</string>
+  <string name="bugreport_dialog_submit_content">&lt;Data&gt;\"Stai salvando i log software sul dispositivo. I log possono contenere informazioni personali e dati sulla posizione. Se non vuoi che queste informazioni siano esposte, non condividere i log con nessuno. \"Accetto\" significa che hai letto e accettato la nostra &amp;lt;a href=\"%1$s\"&amp;gt;Informativa sulla privacy&amp;lt; a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="bugreport_dump_complete_notification_summary">Tocca per vedere.</string>
   <string name="bugreport_dump_complete_notification_title">Segnalazione bug creata</string>
   <string name="bugreport_dump_start_notification_summary">Questa operazione potrebbe richiedere alcuni minuti.</string>
@@ -483,8 +482,8 @@ segui il link nel messaggio che ti abbiamo inviato."</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="submit_dialog_cancel">"Non accetto"</string>
   <string name="submit_dialog_confirm">Accetto</string>
-  <string name="submit_dialog_content">"&lt;Data&gt;\"È necessario accettare la nostra &amp;lt;a href=\"%1$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; per poter utilizzare il feedback. I problemi segnalati insieme agli elementi allegati (potrebbero contenere informazioni personali così come le informazioni sul tuo dispositivo e sulla tua rete) verranno caricate sui server MIUI. Questo ci aiuterà a individuare e risolvere i problemi segnalati.\"&lt;/Data&gt;"</string>
-  <string name="submit_dialog_content_global">"&lt;Data&gt;\"Il tuo feedback, insieme agli allegati (se presenti) e ai log (puoi deselezionare le caselle corrispondenti per gli elementi che non vuoi caricare) saranno inviati ai server MIUI. I log possono contenere informazioni personali e i dati della tua posizione. \"Accetto\" significa che hai letto e accettato la nostra &amp;lt;a href=\"%1$s\"&amp;gt;Informativa sulla privacy&amp;lt; a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt;.&lt;/Data&gt;"</string>
+  <string name="submit_dialog_content">&lt;Data&gt;\"È necessario accettare la nostra &amp;lt;a href=\"%1$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; per poter utilizzare il feedback. I problemi segnalati insieme agli elementi allegati (potrebbero contenere informazioni personali così come le informazioni sul tuo dispositivo e sulla tua rete) verranno caricate sui server MIUI. Questo ci aiuterà a individuare e risolvere i problemi segnalati.\"&lt;/Data&gt;</string>
+  <string name="submit_dialog_content_global">&lt;Data&gt;\"Il tuo feedback, insieme agli allegati (se presenti) e ai log (puoi deselezionare le caselle corrispondenti per gli elementi che non vuoi caricare) saranno inviati ai server MIUI. I log possono contenere informazioni personali e i dati della tua posizione. \"Accetto\" significa che hai letto e accettato la nostra &amp;lt;a href=\"%1$s\"&amp;gt;Informativa sulla privacy&amp;lt; a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="submit_dialog_title">Invia segnalazione</string>
   <string name="submit_feedback_info_failed">"Impossibile inviare segnalazione"</string>
   <string name="suggestion_description">Aggiungi una descrizione</string>
@@ -539,8 +538,8 @@ Dimensioni: %2$s"</string>
   <string name="update_dialog_content_version">È possibile aggiornare alla versione %1$s.</string>
   <string name="update_dialog_title">È disponibile un aggiornamento</string>
   <string name="upload_log_failed">"Invio del log fallito"</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">Disattivato</string>
+  <string name="v7_preference_on">Attivato</string>
   <string name="warning_field_empty">Inserisci %1$s</string>
   <string name="warning_field_invalid">Seleziona un %1$s valido</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
