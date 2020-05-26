@@ -1,27 +1,27 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Finestra Fluttuante</string>
-  <string name="contentDescription">Muovi Finestra</string>
+  <string name="app_name">Finestra fluttuante</string>
+  <string name="contentDescription">Spostamento della finestra</string>
   <string name="freeform_demo_back">Indietro</string>
   <string name="freeform_demo_final_over">Fatto</string>
-  <string name="freeform_demo_final_restart">ricominciare da capo</string>
-  <string name="freeform_demo_final_title">"Sei pronto ad iniziare!"</string>
+  <string name="freeform_demo_final_restart">Ricomincia</string>
+  <string name="freeform_demo_final_title">"Hai padroneggiato la funzione!"</string>
   <string name="freeform_demo_go_on">Avanti</string>
-  <string name="freeform_demo_title_finish">Bene!</string>
+  <string name="freeform_demo_title_finish">Ottimo!</string>
   <string name="freeform_demo_title_skip">Salta</string>
-  <string name="how_to_close_or_fullscreen_freeform">Chiudi le finestre fluttuanti o passa alla modalità schermo intero</string>
-  <string name="how_to_drop_down_to_fullscreen">Passa alla modlità schermo intero</string>
-  <string name="how_to_drop_down_to_fullscreen_summary">Tieni premuto, quindi trascinare verso il basso la barra delle azioni di una finestra fluttuante</string>
-  <string name="how_to_hang_freeform">Minimizza Finestre fluttuanti</string>
-  <string name="how_to_hang_to_small_freeform">Minimizza finestre fluttuanti</string>
+  <string name="how_to_close_or_fullscreen_freeform">Chiudere finestre fluttuanti o passare alla modalità schermo intero</string>
+  <string name="how_to_drop_down_to_fullscreen">Passa alla modalità schermo intero</string>
+  <string name="how_to_drop_down_to_fullscreen_summary">Premere e tenere premuto e poi tirare giù la barra azione di una finestra fluttuante</string>
+  <string name="how_to_hang_freeform">Minimizzare le finestre fluttuanti</string>
+  <string name="how_to_hang_to_small_freeform">Minimizza la finestra fluttuante</string>
   <string name="how_to_hang_to_small_freeform_summary">Trascina la finestra fluttuante nell\'angolo dello schermo</string>
-  <string name="how_to_move_freeform">Muovi la finestra fluttuante</string>
-  <string name="how_to_move_freeform_window">Muovi la finestra fluttuante</string>
-  <string name="how_to_move_freeform_window_summary">Tieni premuta la barra delle azioni di una finestra fluttuante per trascinare</string>
+  <string name="how_to_move_freeform">Spostamento delle finestre fluttuanti</string>
+  <string name="how_to_move_freeform_window">Sposta la finestra fluttuante</string>
+  <string name="how_to_move_freeform_window_summary">Tieni premuta la barra azione di una finestra fluttuante per trascinarla</string>
   <string name="how_to_notification_drop_down">Aprire una finestra fluttuante</string>
-  <string name="how_to_notification_drop_down_summary">Tieni premuto, quindi trascina verso il basso la barra delle azioni di una notifica</string>
-  <string name="how_to_open_freeform">Apertura di notifiche in una finestra fluttuante </string>
-  <string name="how_to_slide_up_to_close">Chiudi finestra fluttuante</string>
-  <string name="how_to_slide_up_to_close_summary">Scorri rapidamente verso l\'alto dalla barra delle azioni di una finestra fluttuante</string>
-  <string name="how_to_use_freeform">Come usare le finestre fluttuanti</string>
+  <string name="how_to_notification_drop_down_summary">Premere e tenere premuto e quindi tirare giù la barra azione di una notifica</string>
+  <string name="how_to_open_freeform">Apertura delle notifiche in una finestra fluttuante</string>
+  <string name="how_to_slide_up_to_close">Chiude la finestra fluttuante</string>
+  <string name="how_to_slide_up_to_close_summary">Scorri verso l\'alto dalla barra azione di una finestra fluttuante</string>
+  <string name="how_to_use_freeform">Come utilizzare finestre fluttuanti</string>
 </resources>
