@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="abc_action_bar_home_description">Vai in home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
@@ -113,10 +112,6 @@
   <string name="date_picker_label_year"></string>
   <string name="date_picker_lunar">Calendario Lunare</string>
   <string name="early_morning">AM</string>
-  <string name="earth_id">earth</string>
-  <string name="earth_summary">La Terra è la culla della civiltà umana</string>
-  <string name="earth_super_wallpaper_label">earth</string>
-  <string name="earth_title">Premi Home</string>
   <string name="earthly_branches_chen">辰</string>
   <string name="earthly_branches_chou">丑</string>
   <string name="earthly_branches_hai">亥</string>
@@ -191,7 +186,6 @@
   <string name="friday">Venerdì</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">V</string>
-  <string name="game_view_content_description">Visualizza partita</string>
   <string name="heavenly_stems_bing">丙</string>
   <string name="heavenly_stems_ding">丁</string>
   <string name="heavenly_stems_geng">庚</string>
@@ -203,55 +197,9 @@
   <string name="heavenly_stems_xin">辛</string>
   <string name="heavenly_stems_yi">乙</string>
   <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
-  <string name="mars_coordinate_latitude_0">73.287°E</string>
-  <string name="mars_coordinate_latitude_1">323.483°E</string>
-  <string name="mars_coordinate_latitude_2">340.780°E</string>
-  <string name="mars_coordinate_longitude_0">29.290°S</string>
-  <string name="mars_coordinate_longitude_1">35.667°S</string>
-  <string name="mars_coordinate_longitude_2">22.884°S</string>
-  <string name="mars_id">mars</string>
-  <string name="mars_position_content_0">"Questa regione contiene scogliere e valli piatte, si ritiene siano state causate da ghiacciai coperti da macerie. Qui sono stati rilevati anche minerali d'argilla, che sono di grande interesse per la ricerca di prove di vita antica su Marte.
-
-NASA/JPL/Università dell'Arizona"</string>
-  <string name="mars_position_content_1">"Le linee della pendenza ricorrenti (RSL) sono flussi caldi attivi sulle pendenze marziane che potrebbero essere causate dall'acqua refrigerata. Il RSL nel Cratere Crater ha un colore insolitamente “rosso” rispetto alla maggior parte degli RSL, forse a causa di composti di ferro ossidato, come la ruggine.
-
-NASA/JPL/Università dell'Arizona"</string>
-  <string name="mars_position_content_2">"La Valle di Mawrth è un antico canale di uscita dell'acqua con rocce di argilla di colore chiaro. I minerali dell'argilla preservano facilmente la vita microscopica sulla Terra, quindi forse si possono trovare tracce di vita antica a Mawrth.
-
-NASA/JPL/Università dell'Arizona"</string>
-  <string name="mars_position_title_0">"Nilosyrtis
-Regione Mensae"</string>
-  <string name="mars_position_title_1">"Montagne Centrali
-del
-Cratere Hale"</string>
-  <string name="mars_position_title_2">"Cratere nella
-Valle di Mawrth"</string>
-  <string name="mars_summary">I grandi deserti di Marte hanno sempre tenuto l\'umanità in soggezione</string>
-  <string name="mars_super_wallpaper_label">mars</string>
-  <string name="mars_title">Il pianeta Rosso</string>
-  <string name="mars_view_height_0">287.3 km</string>
-  <string name="mars_view_height_1">256.7 km</string>
-  <string name="mars_view_height_2">286.2 km</string>
   <string name="mi_wallpaper_loading">Caricamento…</string>
   <string name="mi_wallpaper_title">Mi Wallpaper</string>
   <string name="midnight">AM</string>
-  <string name="miui_clock_city_name_local">Dispositivo</string>
-  <string name="miui_clock_fancy_colon"></string>
-  <string name="miui_digital_clock_dot">:</string>
-  <string name="miui_lock_screen_date">EEEE, d MMMM</string>
-  <string name="miui_lock_screen_date_12">EEEE, d MMMM</string>
-  <string name="miui_lock_screen_date_two_lines">"d
-MMMM EEEE"</string>
-  <string name="miui_lock_screen_date_two_lines_12">"d
-MMMM EEEE"</string>
-  <string name="miui_lock_screen_large_date">"EEE
-dd/M"</string>
-  <string name="miui_lock_screen_large_date_12">"EEE
-dd/M"</string>
-  <string name="miui_vertical_time_format_12">"hh
-mm"</string>
-  <string name="miui_vertical_time_format_24">"HH
-mm"</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">aggiornamento terminato</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">aggiornamento</string>
@@ -315,10 +263,6 @@ mm"</string>
   <string name="saturday">Sabato</string>
   <string name="saturday_short">Sab</string>
   <string name="saturday_shortest">S</string>
-  <string name="saturn_id">saturn</string>
-  <string name="saturn_summary">Gli anelli di Saturno lo rendono lo spettacolo più incredibile del Sistema Solare</string>
-  <string name="saturn_super_wallpaper_label">saturn</string>
-  <string name="saturn_title">Anelli remoti</string>
   <string name="search_menu_title">Cerca</string>
   <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
   <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
@@ -349,12 +293,6 @@ mm"</string>
   <string name="sunday">Domenica</string>
   <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">D</string>
-  <string name="super_wallpaper_list_label">Super Sfondi</string>
-  <string name="super_wallpaper_setting_apply_success_toast">Sfondo applicato con successo</string>
-  <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Applica</string>
-  <string name="super_wallpaper_setting_choose_position_btn_text">Imposta posizione</string>
-  <string name="super_wallpaper_setting_coordinate_title">Coordinate</string>
-  <string name="super_wallpaper_setting_view_height_title">Altitudine</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
   <string name="the_anti_aggression_day">Giornata della pace</string>
   <string name="the_arbor_day">Giorno dei mestieri</string>
@@ -400,24 +338,14 @@ mm"</string>
   <string name="thursday_shortest">G</string>
   <string name="time_picker_dialog_title">Imposta ora</string>
   <string name="time_picker_label_hour">O</string>
-  <string name="time_picker_label_minute">M</string>
+  <string name="time_picker_label_minute">Min</string>
   <string name="today">oggi</string>
   <string name="tomorrow">domani</string>
   <string name="tuesday">Martedì</string>
   <string name="tuesday_short">Mar</string>
   <string name="tuesday_shortest">M</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
-  <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
-  <string name="wallpaper_setting_find_more_text">Altri sfondi online</string>
-  <string name="wallpaper_setting_home_wallpaper_banner_button_text">Schermata home</string>
-  <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Schermata di blocco</string>
-  <string name="wallpaper_setting_online_wallpaper_actionbar_title">Sfondi online</string>
-  <string name="wallpaper_setting_online_wallpaper_none_title">Scopri sfondi</string>
-  <string name="wallpaper_setting_online_wallpaper_title">Sfondi online</string>
-  <string name="wallpaper_setting_super_wallpaper_banner_title">Super Sfondi</string>
-  <string name="wallpaper_setting_super_wallpaper_more_button_text">Altro</string>
-  <string name="wallpaper_setting_title">Sfondo</string>
+  <string name="v7_preference_off">Disattivato</string>
+  <string name="v7_preference_on">Attivato</string>
   <string name="wednesday">Mercoledì</string>
   <string name="wednesday_short">Mer</string>
   <string name="wednesday_shortest">M</string>
