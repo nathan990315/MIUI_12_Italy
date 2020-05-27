@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="Parse_error_dlg_text">Si è verificato un problema durante l\'analisi del pacchetto.</string>
   <string name="abc_action_bar_home_description">Vai in home</string>
@@ -175,7 +174,6 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
   <string name="miui_app_virus">"Questa app è un virus, non installarla."</string>
   <string name="miui_clean">Cancella</string>
   <string name="miui_clear_apk_desc">Pacchetto d\'installazione e dati residui eliminati (%s)</string>
-  <string name="miui_clear_apks">Elimina pacchetto installazione e dati residui (%s)</string>
   <string name="miui_clear_apks_summary">Totale %s</string>
   <string name="miui_clear_apks_title">Cancella automaticamente i pacchetti di installazione</string>
   <string name="miui_compatibility_desc">"Questa app non è ottimizzata per il tuo dispositivo. Se la installi, potrebbe non funzionare correttamente. Attendi che gli sviluppatori risolvano i problemi di compatibilità esistenti e installino una nuova versione dell'app."</string>
@@ -195,7 +193,7 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
   <string name="miui_failed_solution_1">Disinstalla la versione attuale di quest\'app e installa nuovamente l\'applicazione.</string>
   <string name="miui_failed_solution_2">Il pacchetto di installazione potrebbe essere corrotto. Scarica nuovamente l\'app.</string>
   <string name="miui_failed_solution_3">Prova a salvare il pacchetto di installazione in una posizione diversa.</string>
-  <string name="miui_failed_solution_4">Libera spazio in Sicurezza > Pulizia e riprova.</string>
+  <string name="miui_failed_solution_4">Libera spazio in Sicurezza &gt; Pulizia e riprova.</string>
   <string name="miui_failed_solution_5">Prova ad utilizzare un pacchetto di installazione compatibile.</string>
   <string name="miui_failed_solution_6">Disinstalla questa app nel Secondo Spazio e riprova.</string>
   <string name="miui_failed_solution_7">Scarica l\'ultima versione di questa app in GetApps.</string>
@@ -246,10 +244,10 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
   <string name="miuix_sbl_tracking_progress_labe_refreshed">aggiornamento terminato</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">aggiornamento</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">E\' tutto per ora</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">E\' tutto per ora</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Impossibile caricare gli elementi</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
   <string name="mobil_net_work_warning_cancel">Ferma</string>
   <string name="mobil_net_work_warning_msg">"Stai utilizzando i dati mobili ora. L'installazione di questa app richiede %1$s di dati mobili. Vuoi installarla comunque?"</string>
   <string name="mobil_net_work_warning_ok">Installa comunque</string>
@@ -317,14 +315,14 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
   <string name="safe_guard_support">Supporto tecnico fornito da %1$s</string>
   <string name="safe_relative">Trasferimento FTP sicuro</string>
   <string name="screen_overlay_button">Apri impostazioni</string>
-  <string name="screen_overlay_message">Per modificare queste impostazioni di autorizzazione, devi prima disattivare la sovrapposizione dello schermo in Impostazioni > Applicazioni</string>
+  <string name="screen_overlay_message">Per modificare queste impostazioni di autorizzazione, devi prima disattivare la sovrapposizione dello schermo in Impostazioni &gt; Applicazioni</string>
   <string name="screen_overlay_title">Sovrapposizione schermo rilevato</string>
   <string name="search_menu_title">Cerca</string>
   <string name="security_settings_desc">Consenti a questa app di:</string>
   <string name="settings">Impostazioni</string>
-  <string name="settings_warning_dialog_detail">"\"Ti verrà richiesto nei seguenti casi:
- \"&lt;li&gt;Quando un'app contiene virus.&lt;/li&gt;\"
- \"&lt;li&gt;Se il pacchetto di installazione proviene da una fonte sconosciuta.&lt;/li&gt;"</string>
+  <string name="settings_warning_dialog_detail">\"Ti verrà richiesto nei seguenti casi:
+ \"&lt;li&gt;Quando un\'app contiene virus.&lt;/li&gt;\"
+ \"&lt;li&gt;Se il pacchetto di installazione proviene da una fonte sconosciuta.&lt;/li&gt;</string>
   <string name="settings_warning_dialog_msg">"Il telefono è soggetto a rischi per la sicurezza. Non ti verrà richiesto di installare versioni sicure dell'applicazione se disattivi questa funzione. Disattivarla?"</string>
   <string name="settings_warning_dialog_title">Notifiche utente</string>
   <string name="status_bar_notification_info_overflow">999+</string>
@@ -362,8 +360,8 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
   <string name="untrusted_external_source_warning_summary">"Il tuo dispositivo e i dati personali sono vulnerabili agli attacchi delle app installate da fonti sconosciute. Consentendo di installare app da questa fonte, accetti la responsabilità per qualsiasi danno o perdita di dati che potrebbe verificarsi durante l'utilizzo di queste applicazioni."</string>
   <string name="user_is_not_allowed_dlg_text">L\'utente attuale non è autorizzato ad eseguire questa disinstallazione.</string>
   <string name="user_is_not_allowed_dlg_title">Non consentito</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">Disattivato</string>
+  <string name="v7_preference_on">Attivato</string>
   <string name="virus_scan_caller_unknown">Sconosciuto</string>
   <string name="virus_scan_clear">Rimuovi dalle eccezioni</string>
   <string name="virus_scan_install">&lt;u&gt;Installa comunque&lt;/u&gt;</string>
