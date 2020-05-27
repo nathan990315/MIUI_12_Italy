@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="fileCount">
+    <plurals name="fileCount">
         <item quantity="other">%d elementi</item>
         <item quantity="one">%d elemento</item>
-     </plurals>
-     <plurals name="first_space_notification_format">
+    </plurals>
+    <plurals name="first_space_notification_format">
         <item quantity="other">%d notifiche nel Primo Spazio</item>
         <item quantity="one">%d notifica nel Primo Spazio</item>
-     </plurals>
-     <plurals name="search_app_count_txt_na">
+    </plurals>
+    <plurals name="search_app_count_txt_na">
         <item quantity="other">Cerca %d app</item>
         <item quantity="one">Cerca %d app</item>
-     </plurals>
-     <plurals name="second_space_notification_format">
+    </plurals>
+    <plurals name="second_space_notification_format">
         <item quantity="other">%d notifiche nel Secondo Spazio</item>
         <item quantity="one">%d notifica nel Secondo Spazio</item>
-     </plurals>
+    </plurals>
 </resources>
