@@ -89,9 +89,7 @@
   <string name="already_favorited">Già nei Preferiti</string>
   <string name="always_use_metered">Utilizza sempre i dati mobili</string>
   <string name="am">AM</string>
-  <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
   <string name="app_label">Download</string>
-  <string name="app_name">Gestione Effetti</string>
   <string name="app_permission_confirm">Ho capito</string>
   <string name="app_permission_optional">Permessi opzionali</string>
   <string name="app_permission_require">Permessi obbligatori</string>
@@ -224,7 +222,6 @@
   <string name="click_to_add_album_cover_and_lyric">Tocca per aggiungere copertina e testi</string>
   <string name="click_to_shuffle">Riproduzione casuale</string>
   <string name="close_music_time">"Tempo rimanente: "</string>
-  <string name="com.crashlytics.android.build_id">97d9263e-9420-490d-bd7e-0612b258574e</string>
   <string name="comment_format" formatted="false">%s: %s</string>
   <string name="common_google_play_services_enable_button">Attiva</string>
   <string name="common_google_play_services_enable_text">"%1$s non funzionerà se non attiverai i servizi di Google Play."</string>
@@ -267,7 +264,6 @@
   <string name="date_picker_label_month"></string>
   <string name="date_picker_label_year"></string>
   <string name="date_picker_lunar">Calendario Lunare</string>
-  <string name="default_web_client_id">948829309969-vb4502m250c1iu8aqblkhmhrei9o83ib.apps.googleusercontent.com</string>
   <string name="delete">Elimina</string>
   <string name="delete_download">Elimina</string>
   <string name="delete_file_as_well">Elimina anche il file locale</string>
@@ -363,10 +359,7 @@
   <string name="download_method">Download</string>
   <string name="download_no_application_title">"Impossibile aprire il file"</string>
   <string name="download_paused_in_power_save_mode">Il dispositivo è in Modalità Risparmio Energetico, download in pausa</string>
-  <string name="download_percent">%d%%</string>
   <string name="download_processing">In download…</string>
-  <string name="download_progress">%d%%</string>
-  <string name="download_progress_detail" formatted="false">%.1fM/%.1fM</string>
   <string name="download_quality">Qualità download</string>
   <string name="download_quality_summary">Impostazioni aggiuntive per i brani scaricati</string>
   <string name="download_queued">In coda</string>
@@ -403,10 +396,7 @@
   <string name="downloading_empty">Vuoto</string>
   <string name="downloading_pause_apk">Pausa...Continua a scaricare nella barra delle notifiche o sul desktop</string>
   <string name="due_date">In Data: %s</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatlong_with">%2$02d:%5$02d.%6$02d</string>
-  <string name="durationformatshort">%2$d:%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="early_morning">AM</string>
   <string name="earthly_branches_chen">辰</string>
   <string name="earthly_branches_chou">丑</string>
@@ -468,9 +458,7 @@
   <string name="exo_download_notification_channel_name">Download</string>
   <string name="exo_download_removing">Rimozione download</string>
   <string name="exo_item_list">%1$s, %2$s</string>
-  <string name="exo_track_bitrate">%1$.2f Mbps</string>
   <string name="exo_track_mono">Mono</string>
-  <string name="exo_track_resolution">%1$d × %2$d</string>
   <string name="exo_track_selection_auto">Automatico</string>
   <string name="exo_track_selection_none">Nessuno</string>
   <string name="exo_track_selection_title_audio">Audio</string>
@@ -485,7 +473,6 @@
   <string name="expired">Scaduto</string>
   <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
   <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-  <string name="facebook_app_id">1310336955745219</string>
   <string name="facebook_not_installed">Installa prima Facebook.</string>
   <string name="fail_to_fetch_payment_page_url">"Impossibile ottenere info pagamento"</string>
   <string name="fail_to_play">"Impossibile riprodurre"</string>
@@ -515,7 +502,6 @@
   <string name="filter_by_size_prefix">"Dimensione minima: "</string>
   <string name="filter_by_size_summary">Non mostrare file audio piccoli</string>
   <string name="filter_size_unit">%dKB</string>
-  <string name="firebase_database_url">https://mi-music-global.firebaseio.com</string>
   <string name="floating_view_dialog_desc">La musica smetterà di suonare se lasci questa pagina. Abbandonarla comunque?</string>
   <string name="floating_view_dialog_leave">Esci</string>
   <string name="floating_view_dialog_stay">Rimani</string>
@@ -581,14 +567,9 @@
   <string name="friday">venerdì</string>
   <string name="friday_short">ven</string>
   <string name="friday_shortest">V</string>
-  <string name="gcm_defaultSenderId">948829309969</string>
   <string name="gcm_fallback_notification_channel_label">Altre</string>
   <string name="get_more_favorite_content_after_login">Accedi per scoprire più canzoni e video.</string>
   <string name="google_account_login">Accedi con Google</string>
-  <string name="google_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
-  <string name="google_app_id">1:948829309969:android:408e9565fb2b9648</string>
-  <string name="google_crash_reporting_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
-  <string name="google_storage_bucket">mi-music-global.appspot.com</string>
   <string name="goto_local_search">Cerca nel dispositivo</string>
   <string name="goto_online_search">Cerca online</string>
   <string name="handle_later">Non adesso</string>
@@ -650,7 +631,6 @@
   <string name="impunity_declaration_summary">Mostra l\'avviso delle Condizioni d\'uso di Baidu Online Music Service ad ogni apertura</string>
   <string name="impunity_declaration_title">Condizioni d\'uso</string>
   <string name="in_searching_please_wait">Ricerca in corso, attendere…</string>
-  <string name="include_sensitive_extra">false</string>
   <string name="individuation_card_login_button">Accedi</string>
   <string name="individuation_card_login_message">"Accedi per trovare altre canzoni che amerai"</string>
   <string name="individuation_card_title">Per te</string>
@@ -878,7 +858,6 @@ attendere o selezionare Musica Online."</string>
   <string name="open_service">Attiva</string>
   <string name="operation_done_close">Chiudi</string>
   <string name="other_song_in_album">Altri brani nello stesso Album.</string>
-  <string name="partner_id">3041</string>
   <string name="password_toggle_content_description">Mostra password</string>
   <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
   <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -937,10 +916,8 @@ attendere o selezionare Musica Online."</string>
   <string name="priority_storage_summary">Scarica automaticamente su scheda SD, se disponibile</string>
   <string name="privacy_desc">Informativa Privacy (obbligatorio)</string>
   <string name="privacy_policy">Informativa sulla Privacy</string>
-  <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=it</string>
   <string name="pro_member">Utente PRO</string>
   <string name="project_device">Dispositivo Mi</string>
-  <string name="project_id">mi-music-global</string>
   <string name="prompt_grant_write_settings_permission">Consenti modifica delle impostazioni di sistema</string>
   <string name="pulluprefreshrecyclerview_loading_error">"Caricamento non riuscito"</string>
   <string name="pulluprefreshrecyclerview_loading_finished">Caricamento riuscito</string>
@@ -1096,7 +1073,6 @@ E gioiscine"</string>
   <string name="start_to_check_new_version">Ricerca aggiornamenti…</string>
   <string name="start_to_download">Avvio download</string>
   <string name="start_to_play">Avvia</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_cloned_app">Spazio per app clonate</string>
   <string name="storage_internal">Memoria interna</string>
   <string name="storage_sd_card">Scheda SD</string>
@@ -1228,7 +1204,6 @@ E gioiscine"</string>
   <string name="upgrade_music_message">Pacchetto pronto. Riavvia per aggiornare.</string>
   <string name="upgrading_in_backstage">Aggiornamento in background…</string>
   <string name="user_agreement">Accordo utente</string>
-  <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=it</string>
   <string name="v7_preference_off">DISATTIVA</string>
   <string name="v7_preference_on">ATTIVA</string>
   <string name="version_info">Informazioni</string>
@@ -1249,7 +1224,6 @@ E gioiscine"</string>
 Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</string>
   <string name="wifi_required_title">File troppo grande per la rete dell\'operatore</string>
   <string name="xiaomi_privacy_policy_url">https://privacy.mi.com/all/</string>
-  <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Connessione al Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Presentazione versione %1$s
 Size: %2$s"</string>
@@ -1257,8 +1231,6 @@ Size: %2$s"</string>
 Dimensione : %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">Aggiornamento %1$s !</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Spazio insufficientee, controlla la scheda SD.</string>
-  <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
   <string name="yesterday">Ieri</string>
   <string name="you_can_switch_mode_in_settings">E\' possibile passare da una modalità all\'altra dalle impostazioni</string>
   <string name="you_may_like">Potrebbe piacerti anche</string>
