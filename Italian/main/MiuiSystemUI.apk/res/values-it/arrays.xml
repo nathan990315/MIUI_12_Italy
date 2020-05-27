@@ -43,41 +43,6 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
-    <string-array name="aqi_title_append">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-    </string-array>
-    <string-array name="avoid_disturb_app_whitelist">
-        <item>com.baidu.BaiduMap</item>
-        <item>com.autonavi.xmgd.navigator</item>
-        <item>com.autonavi.minimap</item>
-        <item>com.baidu.navi</item>
-        <item>com.baidu.bus</item>
-        <item>com.mapbar.android.mapbarmap1</item>
-        <item>com.mapbar.android.trybuynavi</item>
-        <item>com.mapbar.android.gpsnavi</item>
-        <item>com.tencent.map</item>
-        <item>com.tencent.navsns</item>
-        <item>com.uu.uunavi</item>
-        <item>com.sogou.map.android.maps</item>
-        <item>com.tigerknows</item>
-        <item>com.autonavi.cmccmap</item>
-        <item>brut.googlemaps</item>
-    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -596,15 +561,7 @@
         <item>LTE</item>
         <item>5G</item>
     </string-array>
-    <array name="data_type_name_cus_reg_key"></array>
-    <array name="data_type_name_cus_reg_value"></array>
-    <array name="data_type_name_mcc_key"></array>
-    <array name="data_type_name_mcc_mnc_key"></array>
     <array name="data_type_name_mcc_mnc_value"></array>
-    <array name="data_type_name_mcc_value"></array>
-    <array name="data_type_name_miui_mcc_key"></array>
-    <array name="data_type_name_miui_mcc_value"></array>
-    <string-array name="debug_hw_overdraw_entries">
         <item>Disattivato</item>
         <item>Mostra aree overdraw</item>
         <item>Mostra aree per Deuteranomalia</item>
@@ -741,43 +698,6 @@
         <item>array/telephony_siganl_strength_roaming_sim1</item>
         <item>array/telephony_siganl_strength_roaming_sim1</item>
         <item>array/telephony_siganl_strength_roaming_sim1</item>
-    </string-array>
-    <string-array name="multi_window_force_not_resize_pkgs">
-        <item>com.miui.home</item>
-        <item>com.mi.android.globallauncher</item>
-        <item>com.android.contacts</item>
-        <item>com.android.incallui</item>
-        <item>com.android.phone</item>
-        <item>com.android.camera</item>
-        <item>com.miui.securitycenter</item>
-        <item>com.miui.cleanmaster</item>
-        <item>com.miui.antispam</item>
-        <item>com.miui.player</item>
-        <item>com.miui.yellowpage</item>
-        <item>com.xiaomi.smarthome</item>
-        <item>com.android.updater</item>
-        <item>com.miui.voiceassist</item>
-        <item>com.miui.securitycore</item>
-        <item>com.wali.live</item>
-        <item>com.xiaomi.scanner</item>
-    </string-array>
-    <string-array name="multi_window_force_resize_pkgs">
-        <item>com.tencent.mobileqq</item>
-        <item>com.taobao.taobao</item>
-        <item>com.ss.android.article.news</item>
-        <item>com.yidian.xiaomi</item>
-        <item>com.UCMobile</item>
-        <item>com.tencent.reading</item>
-        <item>com.smile.gifmaker</item>
-        <item>com.qzone</item>
-        <item>com.jingdong.app.mall</item>
-        <item>com.immomo.momo</item>
-        <item>com.netease.newsreader.activity</item>
-        <item>com.tmall.wireless</item>
-        <item>com.kuaikan.comic</item>
-        <item>com.hunantv.imgo.activity</item>
-        <item>com.douban.frodo</item>
-        <item>com.tencent.mm</item>
     </string-array>
     <string-array name="nav_bar_button_values">
         <item>clipboard</item>
@@ -1286,13 +1206,6 @@
     </string-array>
     <array name="signal_strength_umts_normal_sim2"></array>
     <array name="signal_strength_umts_normal_sim3"></array>
-    <string-array name="simulate_color_space_entries">
-        <item>@string/daltonizer_mode_disabled</item>
-        <item>@string/daltonizer_mode_monochromacy</item>
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
-    </string-array>
     <string-array name="simulate_color_space_values">
         <item>-1</item>
         <item>0</item>
@@ -1303,36 +1216,6 @@
     <string-array name="system_alert_window_notification_whitelist">
         <item>com.miui.notes</item>
         <item>com.android.thememanager</item>
-    </string-array>
-    <string-array name="system_foreground_notification_whitelist">
-        <item>com.xiaomi.joyose</item>
-        <item>com.miui.home</item>
-        <item>com.mi.android.globallauncher</item>
-        <item>com.android.providers.contacts</item>
-        <item>com.android.updater</item>
-        <item>com.miui.gallery</item>
-        <item>com.android.fileexplorer</item>
-        <item>com.mi.android.globalFileexplorer</item>
-        <item>com.miui.securitycenter</item>
-        <item>com.miui.cloudappbackup</item>
-        <item>com.miui.fmradio</item>
-        <item>com.android.systemui</item>
-        <item>com.miui.contentextension</item>
-        <item>com.android.mms</item>
-        <item>com.miui.securitycore</item>
-        <item>com.miui.notification</item>
-        <item>com.mi.health</item>
-        <item>com.xiaomi.mipicks</item>
-        <item>com.xiaomi.discover</item>
-        <item>com.miui.mishare.connectivity</item>
-        <item>com.qualcomm.wfd.service</item>
-        <item>com.miui.notes</item>
-        <item>com.miui.tsmclient</item>
-        <item>com.mi.android.globalminusscreen</item>
-        <item>com.mfashiongallery.emag</item>
-        <item>com.android.thememanager</item>
-        <item>com.miui.voiceassist:com.miui.voiceassistforeground</item>
-        <item>com.miui.misound</item>
     </string-array>
     <string-array name="telephony_data_activity_1x_sim1">
         <item>0</item>
@@ -1755,14 +1638,6 @@
         <item>5</item>
         <item>10</item>
     </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
-    </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
         <item>Voici un échantillon de synthèse vocale en français.</item>
@@ -1801,13 +1676,6 @@
         <item>com.google.android.katniss.setting/.SearchSettingsActivity</item>
         <item>com.google.android.gsf.notouch/.UsageDiagnosticsSettingActivity</item>
         <item>com.google.android.tvlauncher/.notifications.NotificationsSidePanelActivity</item>
-    </string-array>
-    <string-array name="usa_mcc">
-        <item>310</item>
-        <item>311</item>
-        <item>312</item>
-        <item>313</item>
-        <item>316</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Ricarica</item>
