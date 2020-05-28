@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="abc_action_bar_home_description">Vai in home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
@@ -28,6 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Condividi con</string>
   <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
   <string name="abc_toolbar_collapse_description">Riduci</string>
+  <string name="alipay_package">com.eg.android.AlipayGphone</string>
   <string name="app_name">Assistente Touch</string>
   <string name="app_not_installed">Non installato</string>
   <string name="applications">Applicazioni</string>
@@ -99,9 +99,10 @@
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="theme_manager_not_supported">"Gestore temi non supportato."</string>
   <string name="three_seconds_auto_hide">Torna sul bordo dopo 3 secondi di inattività</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">Disattivato</string>
+  <string name="v7_preference_on">Attivato</string>
   <string name="vector_large_circle">m93,200c0,-59.11602 47.88398,-107 107,-107c59.11602,0 107,47.88398 107,107c0,59.11602 -47.88398,107 -107,107c-59.11602,0 -107,-47.88398 -107,-107z</string>
   <string name="vector_large_crossA">M160,160 L240,240</string>
   <string name="vector_large_crossB">M240,160 L160,240</string>
+  <string name="wechat_package">com.tencent.mm</string>
 </resources>
