@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="abc_action_bar_home_description">Vai alla home</string>
   <string name="abc_action_bar_up_description">Vai in alto</string>
@@ -9,18 +8,6 @@
   <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
   <string name="abc_capital_off">DISATTIVATO</string>
   <string name="abc_capital_on">ATTIVATO</string>
-  <string name="abc_font_family_body_1_material">sans-serif</string>
-  <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-  <string name="abc_font_family_button_material">sans-serif-medium</string>
-  <string name="abc_font_family_caption_material">sans-serif</string>
-  <string name="abc_font_family_display_1_material">sans-serif</string>
-  <string name="abc_font_family_display_2_material">sans-serif</string>
-  <string name="abc_font_family_display_3_material">sans-serif</string>
-  <string name="abc_font_family_display_4_material">sans-serif-light</string>
-  <string name="abc_font_family_headline_material">sans-serif</string>
-  <string name="abc_font_family_menu_material">sans-serif</string>
-  <string name="abc_font_family_subhead_material">sans-serif</string>
-  <string name="abc_font_family_title_material">sans-serif-medium</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">elimina</string>
@@ -246,7 +233,7 @@ Invia questo codice ai tecnici."</string>
   <string name="health_state_not_installed">Non installato</string>
   <string name="health_state_not_support">Non supportato in questa versione</string>
   <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
-  <string name="i_agree">OK</string>
+  <string name="i_agree">Conferma</string>
   <string name="i_agree_continue">Continua</string>
   <string name="identity">Identificazione</string>
   <string name="inconsistent_pwd">"Le password non corrispondono"</string>
@@ -260,7 +247,7 @@ Invia questo codice ai tecnici."</string>
   <string name="kr_permission_phone_desc">Usato per la sicurezza dell\'account</string>
   <string name="kr_permission_sms_desc">Usato per l\'inserimento automatico del codice di verifica</string>
   <string name="kr_permission_storage_desc">Usato per archiviazione di informazioni sulla diagnostica</string>
-  <string name="loading_micloud_sync_data">Caricamento…</string>
+  <string name="loading_micloud_sync_data">Attendi…</string>
   <string name="login_check_find_device">Recupero informazioni di sicurezza…</string>
   <string name="login_check_find_device_failed_title">"Impossibile verificare le informazioni di sicurezza del dispositivo"</string>
   <string name="login_find_device_bind">Questo account è già associato ad un ID Mi Account (%s).</string>
@@ -283,10 +270,10 @@ Invia questo codice ai tecnici."</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">aggiornamento completato</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">aggiornamento...</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">rilascia per aggiornare</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">nessun dato</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">non farlo</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">aggiornamento</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fallito</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"nessun dato"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"non farlo"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"fallito"</string>
   <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Sembra che tu stia utilizzando il tuo spazio Mi Account predefinito."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"In questo caso, tutti i dati verranno sincronizzati con il tuo Secondo Spazio. Per evitare questo non attivare la sincronizzazione con Mi Cloud."</string>
@@ -308,7 +295,7 @@ Invia questo codice ai tecnici."</string>
   <string name="oauth_getting_scopes">Verifica account…</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; otterrà i seguenti permessi:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Accedi con il Mi Account</string>
-  <string name="ok">OK</string>
+  <string name="ok">Conferma</string>
   <string name="optional_permissions">Permessi opzionali</string>
   <string name="passport_Resend">Reinvia</string>
   <string name="passport_access_denied">Accesso negato</string>
@@ -442,7 +429,7 @@ Invia questo codice ai tecnici."</string>
   <string name="passport_quick_login_step2_title">Verifica in 2 passaggi</string>
   <string name="passport_quick_login_title">Inserisci la password</string>
   <string name="passport_quick_register">Registrati</string>
-  <string name="passport_quick_register_notice">"&lt;u&gt;Non hai un Mi Account? Creane uno.&lt;/u&gt;"</string>
+  <string name="passport_quick_register_notice">&lt;u&gt;Non hai un Mi Account? Creane uno.&lt;/u&gt;</string>
   <string name="passport_re_get_verify_code">Ricevi di nuovo il codice</string>
   <string name="passport_re_register">Accedi di nuovo</string>
   <string name="passport_recycle_account_prompt">Questo è il tuo Mi Account?</string>
@@ -520,7 +507,7 @@ Invia questo codice ai tecnici."</string>
   <string name="passport_use_generated_pwd_message">Non dimenticare la password. Puoi utilizzarla per accedere ad altri servizi Mi.</string>
   <string name="passport_use_generated_pwd_title">Non dimenticare la password!</string>
   <string name="passport_user_agreement">Accordo Utente</string>
-  <string name="passport_user_agreement_link">"&lt;Data&gt;\"Ho letto e accettato il &amp;lt;a href=%1$s&amp;gt;Contratto con l'utente&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;.\"&lt;/Data&gt;"</string>
+  <string name="passport_user_agreement_link">&lt;Data&gt;\"Ho letto e accettato il &amp;lt;a href=%1$s&amp;gt;Contratto con l\'utente&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;.\"&lt;/Data&gt;</string>
   <string name="passport_user_agreement_required">Accordo Utente (obbligatorio)</string>
   <string name="passport_user_id_notice">Il tuo ID Mi Account ID è %s.</string>
   <string name="passport_user_reg_region">Nazione/Regione</string>
@@ -630,9 +617,9 @@ Invia questo codice ai tecnici."</string>
   <string name="update_phone_number_notice_message">Devi verificare la tua identità prima di poter aggiornare il numero.</string>
   <string name="used_cloud_storage_info">spazio utilizzato %s</string>
   <string name="user_avatar_update_title">Aggiorna immagine profilo</string>
-  <string name="user_avatar_uploading">Caricamento…</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="user_avatar_uploading">Attendi…</string>
+  <string name="v7_preference_off">Disattivato</string>
+  <string name="v7_preference_on">Attivato</string>
   <string name="vip_account_settings">Impostazioni VIP</string>
   <string name="vip_settings_info">Impostazioni VIP</string>
   <string name="weixin">WeChat</string>
