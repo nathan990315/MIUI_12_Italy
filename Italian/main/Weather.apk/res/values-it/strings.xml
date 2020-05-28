@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="abc_action_bar_home_description">Vai in home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
@@ -9,18 +8,6 @@
   <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
   <string name="abc_capital_off">ATTIVATO</string>
   <string name="abc_capital_on">DISATTIVATO</string>
-  <string name="abc_font_family_body_1_material">sans-serif</string>
-  <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-  <string name="abc_font_family_button_material">sans-serif-medium</string>
-  <string name="abc_font_family_caption_material">sans-serif</string>
-  <string name="abc_font_family_display_1_material">sans-serif</string>
-  <string name="abc_font_family_display_2_material">sans-serif</string>
-  <string name="abc_font_family_display_3_material">sans-serif</string>
-  <string name="abc_font_family_display_4_material">sans-serif-light</string>
-  <string name="abc_font_family_headline_material">sans-serif</string>
-  <string name="abc_font_family_menu_material">sans-serif</string>
-  <string name="abc_font_family_subhead_material">sans-serif</string>
-  <string name="abc_font_family_title_material">sans-serif-medium</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">elimina</string>
@@ -123,7 +110,7 @@
   <string name="aqi_top_pollution">Inquinamento massimo</string>
   <string name="button_abandon">Ignora modifiche</string>
   <string name="button_add_city">Aggiungi città</string>
-  <string name="button_allow">OK</string>
+  <string name="button_allow">Conferma</string>
   <string name="button_confirm">Consenti</string>
   <string name="button_exit">"Esci"</string>
   <string name="button_not_allow">Annulla</string>
@@ -138,7 +125,7 @@
   <string name="china_version_first_start_network_msg">"Utilizzando questo prodotto, accetterai %1$s e %2$s di Xiaomi. Questa app dovrà connettersi ad Internet e accedere alla tua posizione per funzionare correttamente."</string>
   <string name="city_exceeded_warning">Puoi aggiungere fino a 10 città</string>
   <string name="clear_net_mock_success">Pulizia simulazione rete completata</string>
-  <string name="common_loading_text">Solo un attimo...</string>
+  <string name="common_loading_text">Attendi…</string>
   <string name="connect_fail">"Anomalia nella connessione di rete. Prova di nuovo più tardi."</string>
   <string name="content_desc_activity_main_add_city">Aggiungi città</string>
   <string name="content_desc_activity_main_add_city_manage">Gestione città</string>
@@ -161,11 +148,15 @@
   <string name="daily_forecast_add_city_message">Segui il meteo in %1$s per una previsione più dettagliata.</string>
   <string name="daily_forecast_add_city_title">Segui in metro in %1$s</string>
   <string name="daily_forecast_detail_date">d/M</string>
+  <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
   <string name="daily_forecast_no_data">"Impossibile recuperare i dati
 trascina verso il basso per aggiornare o verifica le impostazioni di rete"</string>
   <string name="data_provided_by">Fornito in parte da</string>
+  <string name="data_source_time_fromat">"dd/MM/yyyy'T'HH:mm:ssz"</string>
+  <string name="data_source_timezone">GMT%1$s</string>
   <string name="dislike_alert_dialog_title">Perché non vuoi vedere questo contenuto?</string>
   <string name="edit_city">Modifica</string>
+  <string name="empty">" "</string>
   <string name="empty_view_net_loading">Aggiornamento…</string>
   <string name="empty_view_net_unavailable">"Impossibile collegarsi alla rete"</string>
   <string name="empty_view_refresh">Prova di nuovo</string>
@@ -221,6 +212,8 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
   <string name="global_aqi">AQI: %1$s %2$s</string>
   <string name="hour_minute_time_format">H:mm</string>
   <string name="hourly_forcast_now">Adesso</string>
+  <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
+  <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
   <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title_24_hours_desc">Previsioni per 24 ore</string>
   <string name="hourly_forecast_title_hourly_desc">Previsioni orarie</string>
@@ -234,16 +227,22 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
   <string name="index_item_installing">Installazione</string>
   <string name="index_item_installing2">Installazione</string>
   <string name="indices_desc_humidity">Umidità %1$s%%</string>
+  <string name="indices_desc_humidity_without_pic">%1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
   <string name="indices_title_feel">PERCEPITA</string>
   <string name="indices_title_pressure">PRESSIONE</string>
   <string name="information_settings_title">Informazioni meteo</string>
   <string name="install">Installa</string>
+  <string name="install_progress">%1$s%%</string>
   <string name="international_details_pressure_title">PRESSIONE</string>
+  <string name="international_details_real_feel_title">@string/indices_title_feel</string>
   <string name="international_details_title">Dettagli</string>
   <string name="international_details_uv_index_title">INDICE UV</string>
+  <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">VENTO</string>
   <string name="it_is_going_to_rain">"Sta iniziando a piovere"</string>
+  <string name="item_city_list_region_no_data">-- / --</string>
+  <string name="item_city_list_temperature_no_data">--</string>
   <string name="life_index_title">Indice meteo</string>
   <string name="locate_fail_detail_err">"Impossibile localizzare il dispositivo
 Tocca lo schermo per aggiungere manualmente o riprovare"</string>
@@ -335,13 +334,15 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
   <string name="q_version_location_provider_btn_text">Attivare l\'accesso alla posizione e migliorare la precisione della posizione</string>
   <string name="radar_cloud_image_title">Mappa Radar</string>
   <string name="radar_cloud_update_time">Prima delle %1$s</string>
+  <string name="rain_sound_setting_summary_text">Accompagnare i cambiamenti climatici con effetti sonori</string>
+  <string name="rain_sound_setting_title_text">Effetti sonori</string>
   <string name="rainfall_settings_summary">Impostazioni piovosità</string>
   <string name="rainfall_settings_title">Avvisi piovosità</string>
   <string name="real_time_sunrise">Alba %1$s</string>
   <string name="real_time_sunset">Tramonto %1$s</string>
   <string name="realtime_aqi_title">Indice Qualità Aria</string>
   <string name="realtime_humidity_title">UMIDITÀ RELATIVA</string>
-  <string name="realtime_temperature_no_data">N/A</string>
+  <string name="realtime_temperature_no_data">N/D</string>
   <string name="realtime_wind_default_title">Vento</string>
   <string name="receive_net_mock_success">Ricezione net mock completata</string>
   <string name="refresh_empty_data">"Impossibile caricare i dati. Attendere un minuto o due e riprovare."</string>
@@ -350,7 +351,6 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
   <string name="request_cta_connect_net">请您同意应用联网及以上必要权限</string>
   <string name="request_permission_location_dialog_content">Per visualizzare le informazioni meteo rilevanti nella posizione corrente</string>
   <string name="request_permission_main_purpose">Visualizzazione  informazioni meteo</string>
-  <string name="request_permission_read_phone_state_dialog_content">Per identificare il dispositivo</string>
   <string name="request_permission_storage_dialog_content">Per condividere le informazioni meteo nel formato immagine</string>
   <string name="required_permissions">android.permission.READ_PHONE_STATE</string>
   <string name="retry">Riprova</string>
@@ -365,6 +365,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
   <string name="share_menu_title">Condividi</string>
   <string name="share_subject">Condividi</string>
   <string name="share_weather_desc">\#MIUI Meteo#Oggi %1$s %2$s</string>
+  <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">"Impossibile salvare lo screenshot"</string>
   <string name="shortcut_short_label_24_hour_forecast">previsine a 24 ore</string>
@@ -410,8 +411,8 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
   <string name="updated_a_moment_ago">Aggiornato poco fa</string>
   <string name="updating">Aggiornamento…</string>
   <string name="user_agreement">Termini di Servizio</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">Disattivato</string>
+  <string name="v7_preference_on">Attivato</string>
   <string name="video_dialog_no_play"></string>
   <string name="video_dialog_play"></string>
   <string name="video_dialog_subtitle"></string>
@@ -431,7 +432,6 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
   <string name="weather_main_speak_tips">点击可语音播报天气</string>
   <string name="weather_permission_agree">Accetta</string>
   <string name="weather_service_channel_name">Servizi in background</string>
-  <string name="widget_cta_not_agree">Tocca per ottenere info meteo</string>
   <string name="wind_direction_no_data">Vento</string>
   <string name="wind_power_unit_default">0</string>
   <string name="wind_unit">%1$s km/h</string>
