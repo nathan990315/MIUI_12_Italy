@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-  <plurals name="accessibility_focus_face_detect">
-    <item quantity="other">A fuoco. %d visi rilevati</item>
-    <item quantity="one">A fuoco. %d volto rilevato</item>
-  </plurals>
-  <plurals name="clone_guide_tip2">
-    <item quantity="other">Puoi creare fino a %d cloni alla volta.</item>
-    <item quantity="one">Puoi creare fino a %d clone alla volta.</item>
-  </plurals>
-  <plurals name="toast_burst_snap_finished_summary">
-    <item quantity="other">Scatto multiplo eseguito, %1$s foto scattate</item>
-    <item quantity="one">Scatto multiplo eseguito, %1$s foto scattata</item>
-  </plurals>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">A fuoco. %d volti rilevati</item>
+        <item quantity="one">A fuoco. %d volto rilevato</item>
+    </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Puoi creare fino a %d cloni alla volta.</item>
+        <item quantity="one">Puoi creare fino a %d clone alla volta.</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Scatto multiplo eseguito, %1$s foto scattate</item>
+        <item quantity="one">Scatto multiplo eseguito, %1$s foto scattata</item>
+    </plurals>
 </resources>
