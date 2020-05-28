@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
   <string name="abc_action_bar_home_description">Vai alla pagina principale</string>
   <string name="abc_action_bar_up_description">Vai in alto</string>
@@ -9,18 +8,6 @@
   <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
   <string name="abc_capital_off">DISATTIVA</string>
   <string name="abc_capital_on">ATTIVA</string>
-  <string name="abc_font_family_body_1_material">sans-serif</string>
-  <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-  <string name="abc_font_family_button_material">sans-serif-medium</string>
-  <string name="abc_font_family_caption_material">sans-serif</string>
-  <string name="abc_font_family_display_1_material">sans-serif</string>
-  <string name="abc_font_family_display_2_material">sans-serif</string>
-  <string name="abc_font_family_display_3_material">sans-serif</string>
-  <string name="abc_font_family_display_4_material">sans-serif-light</string>
-  <string name="abc_font_family_headline_material">sans-serif</string>
-  <string name="abc_font_family_menu_material">sans-serif</string>
-  <string name="abc_font_family_subhead_material">sans-serif</string>
-  <string name="abc_font_family_title_material">sans-serif-medium</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">elimina</string>
@@ -79,6 +66,8 @@
   <string name="app_disable_transparent_wallpaper">Senza sfondo trasparente</string>
   <string name="app_enable_transparent_wallpaper">Con sfondo trasparente</string>
   <string name="app_name">Temi</string>
+  <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+  <string name="apply_choosen_type_resource">Applica gli elementi selezionati</string>
   <string name="apply_default_font_tip">"Vuoi continuare a utilizzare il font attuale del sistema?"</string>
   <string name="apply_font_btn_exclude">Applica senza font</string>
   <string name="apply_font_btn_reboot">Applica e riavvia</string>
@@ -106,10 +95,11 @@
   <string name="backup_theme_success_message">Backup tema eseguito correttamente</string>
   <string name="both_all_apply_failured">"Impossibile impostare sfondo"</string>
   <string name="both_all_apply_success">Sfondo applicato</string>
+  <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
   <string name="browser_local_resource">Risorse locali</string>
   <string name="can_not_apply">Impossibile installare</string>
   <string name="card_data_request_error">Eccezione richiesta dati, riprova più tardi.</string>
-  <string name="card_loading">Caricamento...</string>
+  <string name="card_loading">Attendi…</string>
   <string name="card_no_network">"Nessuna rete adesso, collegati e prova di nuovo."</string>
   <string name="card_retry">Riprova</string>
   <string name="change_host_hint">cambia host</string>
@@ -197,6 +187,10 @@
   <string name="common_downloading">Download…</string>
   <string name="common_format_date_no_year">dd/MM</string>
   <string name="common_skip">Salta</string>
+  <string name="community_cta_dialog_cancel">Annulla</string>
+  <string name="community_cta_dialog_des">Questo tema contiene un collegamento dell\'orologio che visualizza il tuo Mi Account ID e lo stato Mi Community. È possibile disattivare questa funzione passando a un tema diverso o rimuovendo il widget Orologio.</string>
+  <string name="community_cta_dialog_ok">Fatto</string>
+  <string name="community_cta_dialog_title">Collegamento orologio</string>
   <string name="component_backup_preference_title">Backup tema</string>
   <string name="component_category_finest_title">In evidenza</string>
   <string name="component_category_more_title">Altro</string>
@@ -217,14 +211,16 @@
   <string name="date_picker_label_month"></string>
   <string name="date_picker_label_year"></string>
   <string name="date_picker_lunar">Calendario Lunare</string>
+  <string name="de_apply_icons">Icone app</string>
+  <string name="de_apply_icons_and_wallpaper">Icone app e sfondo</string>
   <string name="de_author_follow">Segui</string>
   <string name="de_author_following">Seguito</string>
   <string name="de_component_aod_author">Creatore</string>
   <string name="de_component_author">Autore</string>
-  <string name="de_component_font_author">Designer del carattere</string>
   <string name="de_component_tags">Tag</string>
   <string name="de_font_exchange_success">Acquistato correttamente</string>
   <string name="de_icon_text_comment">Commenta</string>
+  <string name="de_icon_text_discuss">Discuti</string>
   <string name="de_icon_text_favorite">Aggiungi ai preferiti</string>
   <string name="de_icon_text_like">Mi piace</string>
   <string name="de_icon_text_share">Condividi</string>
@@ -245,6 +241,7 @@
   <string name="de_no_more_recommendations">"E' tutto per ora."</string>
   <string name="de_preview">Anteprima</string>
   <string name="de_redeem">Riscatta</string>
+  <string name="de_resource_author">Autore (%1$s)</string>
   <string name="de_to_comment">Commenta</string>
   <string name="de_try">Prova</string>
   <string name="deleting">Eliminazione…</string>
@@ -315,7 +312,9 @@
   <string name="exo_download_notification_channel_name">Download</string>
   <string name="exo_download_removing">Rimozione download</string>
   <string name="exo_item_list">%1$s, %2$s</string>
+  <string name="exo_track_bitrate">%1$.2f Mbps</string>
   <string name="exo_track_mono">Mono</string>
+  <string name="exo_track_resolution">%1$d × %2$d</string>
   <string name="exo_track_selection_auto">Automatico</string>
   <string name="exo_track_selection_none">Nessuno</string>
   <string name="exo_track_selection_title_audio">Audio</string>
@@ -342,12 +341,12 @@
   <string name="first_page_recommend">Consigliati</string>
   <string name="fmt_chinese_date">N月e</string>
   <string name="fmt_date">D</string>
-  <string name="fmt_date_day">d</string>
+  <string name="fmt_date_day">g</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month">MMMM, yyyy</string>
   <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-  <string name="fmt_date_numeric_day">d</string>
+  <string name="fmt_date_numeric_day">g</string>
   <string name="fmt_date_numeric_month">M</string>
   <string name="fmt_date_numeric_month_day">d-M</string>
   <string name="fmt_date_numeric_year">yyyy</string>
@@ -398,10 +397,12 @@
   <string name="gallery_wallpaper">Galleria Sfondi</string>
   <string name="gallery_wallpaper_count">100k+</string>
   <string name="gallery_wallpaper_count_tw">10w+</string>
+  <string name="gallery_wallpaper_theme">Sfondi indispensabili</string>
   <string name="gift_anonymous">Anonimo</string>
+  <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">Annulla</string>
   <string name="gift_operation_fail_dlg_retry">Riprova</string>
-  <string name="gift_operation_waiting">Un attimo…</string>
+  <string name="gift_operation_waiting">Attendi…</string>
   <string name="gift_owned">Acquistato</string>
   <string name="gift_present">Regala</string>
   <string name="gift_present_dlg_anonymous">Regalo anonimo</string>
@@ -434,6 +435,7 @@
   <string name="goto_wechat">Account WeChat \"%1$s\" copiato negli appunti. Aprire WeChat ora?</string>
   <string name="has_mamual_hide_aod">Elemento nascosto</string>
   <string name="has_mamual_hide_font">Nascosto</string>
+  <string name="has_mamual_hide_icons">Icone nascoste</string>
   <string name="has_mamual_hide_theme">Nascosto</string>
   <string name="has_mamual_hide_wallpaper">Nascosto</string>
   <string name="heavenly_stems_bing">丙</string>
@@ -449,11 +451,15 @@
   <string name="hide_bottom_view_on_scroll_behavior">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
   <string name="hide_free_aod">"Non mostrare temi gratuiti"</string>
   <string name="hide_free_font">Nascondi caratteri gratuiti</string>
+  <string name="hide_free_icons">"Non mostrare icone gratuite"</string>
+  <string name="hide_free_miwallpaper">"Non mostrare effetti della schermata Home gratuiti"</string>
   <string name="hide_free_theme">Nascondi temi gratuiti</string>
   <string name="hide_free_wallpaper">Nascondi sfondi gratuiti</string>
   <string name="hide_incompatible">Nascondi incompatibili %1$s</string>
   <string name="hide_mamual_hide_aod">"Non mostrare elementi nascosti manualmente"</string>
   <string name="hide_mamual_hide_font">"Non mostrare caratteri nascosti"</string>
+  <string name="hide_mamual_hide_icons">"Non mostrare le icone nascoste manualmente"</string>
+  <string name="hide_mamual_hide_miwallpaper">"Non mostrare effetti della schermata Home nascosti"</string>
   <string name="hide_mamual_hide_theme">"Non mostrare temi nascosti"</string>
   <string name="hide_mamual_hide_wallpaper">"Non mostrare sfondi nascosti"</string>
   <string name="hide_pull_down_message">Nascondere il tab?</string>
@@ -465,8 +471,8 @@
   <string name="in_the_end">Nient\'altro</string>
   <string name="incall_show_apply">Video profilo per le chiamate in uscita</string>
   <string name="incall_show_apply_fail">"Impossibile impostare"</string>
-  <string name="incall_show_apply_success">"Applicato correttamente. Per disattivare questa funzione,
-vai in Impostazioni &gt; Suoni e vibrazione &gt; Video profilo.\""</string>
+  <string name="incall_show_apply_success">Applicato correttamente. Per disattivare questa funzione,
+vai in Impostazioni &gt; Suoni e vibrazione &gt; Video profilo.\"</string>
   <string name="incall_show_apply_success_without_ringtone">"Applicato correttamente. Questo video non ha audioo. Verrà utilizzata la suoneria originale.
 Per disattivare questa funzione, vai in Impostazioni &gt; Suoni e Vibrazione &gt; Video profilo."</string>
   <string name="incall_show_find_more">Trova altro</string>
@@ -480,6 +486,7 @@ Per disattivare questa funzione, vai in Impostazioni &gt; Suoni e Vibrazione &gt
   <string name="incompatible_dialog_ok">OK</string>
   <string name="incompatible_dialog_title">Problemi di compatibilità</string>
   <string name="is_setting_wallpaper_message">Impostazione sfondo...</string>
+  <string name="item_resource_audio_divider">│</string>
   <string name="item_resource_audio_optional_alarm_ring">suono sveglia</string>
   <string name="item_resource_audio_optional_color_ring">colore</string>
   <string name="item_resource_audio_optional_notification_ring">suono notifica</string>
@@ -489,9 +496,9 @@ Per disattivare questa funzione, vai in Impostazioni &gt; Suoni e Vibrazione &gt
   <string name="lab">Lab Temi</string>
   <string name="like_list">Elementi che mi piacciono</string>
   <string name="live_wallpaper">Sfondi animati</string>
-  <string name="loading">Caricamento…</string>
+  <string name="loading">Attendi…</string>
   <string name="loading_resource_detail_fail">"Impossibile caricare la risorsa."</string>
-  <string name="loading_resource_detail_info">Caricamento delle informazioni…</string>
+  <string name="loading_resource_detail_info">Attendi…</string>
   <string name="local_photos">Foto locali</string>
   <string name="local_resouce_creator_name">Sviluppatore: %1$s</string>
   <string name="lock_screen_apply">Imposta come schermata di blocco</string>
@@ -604,6 +611,8 @@ Tocca per accedere."</string>
   <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
   <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
   <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
+  <string name="mtrl_picker_cancel">@android:string/cancel</string>
+  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Scegli una data</string>
   <string name="mtrl_picker_date_header_unselected">Seleziona data</string>
@@ -668,6 +677,10 @@ Tocca per accedere."</string>
   <string name="ota_recovery_theme_notity_content">"Puoi tornare al tema che hai usato prima dell'aggiornamento"</string>
   <string name="ota_recovery_theme_notity_title">Ripristina il tuo tema</string>
   <string name="password_toggle_content_description">Attiva visibilità password</string>
+  <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+  <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="playing_ringtone">In riproduzione</string>
   <string name="pm">PM</string>
   <string name="pref_privacy_policy">Informativa sulla Privacy</string>
@@ -678,7 +691,7 @@ Tocca per accedere."</string>
   <string name="present_official_themes">Selezione ufficiale</string>
   <string name="present_online_themes">Online</string>
   <string name="provision_default_theme_title">Predefinito</string>
-  <string name="provision_loading_tips">Solo un attimo…</string>
+  <string name="provision_loading_tips">Attendi…</string>
   <string name="provision_second_title">Seleziona uno dei 5 temi predefiniti</string>
   <string name="provision_title">Scegli un tema</string>
   <string name="pull_down_view_error_message">Ops! Nessuna connessione internet. Controlla la connessione e prova di nuovo.</string>
@@ -693,7 +706,7 @@ Tocca per accedere."</string>
   <string name="refresh_footer_all_loaded">"Questo è tutto per ora."</string>
   <string name="refresh_footer_failed">"Impossibile caricare info"</string>
   <string name="refresh_footer_finish">Caricamento riuscito</string>
-  <string name="refresh_footer_loading">Solo un secondo…</string>
+  <string name="refresh_footer_loading">Attendi…</string>
   <string name="refresh_footer_pullup">Trascina verso l\'alto per caricare altro</string>
   <string name="refresh_footer_release">Rilascia per caricare altro</string>
   <string name="region_not_support">"Spiacenti, temi non supportati nel tuo Paese."</string>
@@ -739,7 +752,7 @@ Tocca per accedere."</string>
   <string name="resource_comment_good_comments">Positivi</string>
   <string name="resource_comment_invalid">Tocca le stelle per dare una valutazione</string>
   <string name="resource_comment_limit">Non così veloce! Ritorna quando avrai utilizzato questo tema per un po\'.</string>
-  <string name="resource_comment_loading_list">Caricamento commenti…</string>
+  <string name="resource_comment_loading_list">Attendi…</string>
   <string name="resource_comment_name_default">Utente</string>
   <string name="resource_comment_no_average_score">Media non disponibile</string>
   <string name="resource_comment_no_comment">Nessun commento</string>
@@ -776,6 +789,7 @@ Tocca per accedere."</string>
   <string name="resource_detail_recommend_desiner_other_themes">Altri temi realizzati da %1$s</string>
   <string name="resource_detail_recommend_other_themes">Ad altri utenti piace anche</string>
   <string name="resource_detail_update_log_title">Aggiornamenti</string>
+  <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s dettagli</string>
   <string name="resource_download">Scarica</string>
   <string name="resource_download_notification_title_many">%1$s temi scaricati</string>
@@ -841,6 +855,7 @@ Tocca per accedere."</string>
   <string name="resource_pack_price_info">%1$s Originale</string>
   <string name="resource_pack_warning">"Hai già acquistato %1$d oggetti, il prezzo attuale non è più valido per gli oggetti rimanenti, acquistali individualmente."</string>
   <string name="resource_present">Regala</string>
+  <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratis</string>
   <string name="resource_price_unit"> Mi Credit</string>
   <string name="resource_purchase_common_error">Operazione fallita. Prova di nuovo.</string>
@@ -855,6 +870,10 @@ Tocca per accedere."</string>
   <string name="resource_restore">Ripristina</string>
   <string name="resource_restore_fail">"Impossibile ripristinare"</string>
   <string name="resource_restore_succ">Ripristino completato</string>
+  <string name="resource_ring_ranking_list_divider">-</string>
+  <string name="resource_ring_ranking_list_rank_1">1</string>
+  <string name="resource_ring_ranking_list_rank_2">2</string>
+  <string name="resource_ring_ranking_list_rank_3">3</string>
   <string name="resource_ringtone_default">Suonerie</string>
   <string name="resource_ringtone_playing_error">Errore di riproduzione</string>
   <string name="resource_ringtone_volume_mute">La suoneria è silenziata</string>
@@ -902,7 +921,7 @@ Tocca per accedere."</string>
   <string name="resource_trial_end_time">(prova fino %1$s)</string>
   <string name="resource_trial_end_time_format">hh:mma d MMM</string>
   <string name="resource_trial_end_title">Prova scaduta</string>
-  <string name="resource_trial_fail_cancel">OK</string>
+  <string name="resource_trial_fail_cancel">Conferma</string>
   <string name="resource_trial_fail_go_settings">Impostazioni</string>
   <string name="resource_trial_fail_message">Assicurati che l\'orologio di sistema sia impostato sull\'ora corretta.</string>
   <string name="resource_trial_fail_title">"Impossibile impostare la sessione di prova"</string>
@@ -911,7 +930,7 @@ Tocca per accedere."</string>
   <string name="resource_trial_minutes">(prova: %1$dm)</string>
   <string name="resource_unknow_error">Errore sconosciuto.</string>
   <string name="resource_update">Aggiorna</string>
-  <string name="resource_user_know">OK</string>
+  <string name="resource_user_know">Conferma</string>
   <string name="resource_waiting_download">In attesa del download…</string>
   <string name="resource_waiting_pause">Pausa</string>
   <string name="resource_wallpaper_download">Scarica sfondo</string>
@@ -949,11 +968,15 @@ Tocca per accedere."</string>
   <string name="shortcut_title">Ti sono piaciuti i nostri sfondi?</string>
   <string name="show_free_aod">Mostra temi gratuiti</string>
   <string name="show_free_font">Mostra caratteri gratuiti</string>
+  <string name="show_free_icons">Mostra icone gratuite</string>
+  <string name="show_free_miwallpaper">Mostra effetti schermata Home gratuiti</string>
   <string name="show_free_theme">Mostra temi gratuiti</string>
   <string name="show_free_wallpaper">Mostra sfondi gratuiti</string>
   <string name="show_incompatible">Mostra non compatibili %1$s</string>
   <string name="show_mamual_hide_aod">Mostra elementi nascosti manualmente</string>
   <string name="show_mamual_hide_font">Mostra caratteri nascosti</string>
+  <string name="show_mamual_hide_icons">Mostra icone nascoste manualmente</string>
+  <string name="show_mamual_hide_miwallpaper">Mostra effetti della schermata Home nascosti</string>
   <string name="show_mamual_hide_theme">Mostra temi nascosti</string>
   <string name="show_mamual_hide_wallpaper">Mostra sfondi nascosti</string>
   <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
@@ -980,6 +1003,7 @@ Tocca per accedere."</string>
   <string name="solar_term_white_dews">Rugiada Bianca</string>
   <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
   <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sunday">Domenica</string>
   <string name="sunday_short">Dom</string>
@@ -1000,6 +1024,7 @@ Tocca per accedere."</string>
   <string name="system_cta_runtime_perm_desc_storage">Per memorizzare temi salvati e altri elementi</string>
   <string name="system_precust">Sfondi di sistema</string>
   <string name="tag_ad">AD</string>
+  <string name="ten_thousand_unit">万</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
   <string name="the_anti_aggression_day">Giornata della pace</string>
   <string name="the_arbor_day">Giorno dei mestieri</string>
@@ -1064,6 +1089,7 @@ Tocca per accedere."</string>
   <string name="theme_comment_dialog_message">"Ti piace il tema che stai usando ora? Grazie per il feedback!"</string>
   <string name="theme_comment_dialog_ok">Recensione</string>
   <string name="theme_comment_sub_comment_bar_hint">Condividi le tue idee con la  community</string>
+  <string name="theme_community">Community</string>
   <string name="theme_component_aod">AOD</string>
   <string name="theme_component_icon">Icone</string>
   <string name="theme_component_title_alarm">Suonerie sveglia</string>
@@ -1111,7 +1137,9 @@ Tocca per accedere."</string>
   <string name="theme_is_external_priority_storage">Salva su scheda SD</string>
   <string name="theme_is_external_priority_storage_summary">L\'applicazione Temi verrà riavviata per applicare le modifiche</string>
   <string name="theme_multiple_button_title_customize">Personalizza</string>
+  <string name="theme_name">%1$s</string>
   <string name="theme_no">No</string>
+  <string name="theme_not_include_module_desc">"Questo tema non contiene i seguenti elementi: %s"</string>
   <string name="theme_on_the_phone_alert">"Impossibile riprodurre durante le telefonate"</string>
   <string name="theme_preview">Anteprima tema</string>
   <string name="theme_purchased_list_empty">"Non hai acquistato nessun tema"</string>
@@ -1141,7 +1169,7 @@ Tocca per accedere."</string>
   <string name="thursday_shortest">G</string>
   <string name="time_picker_dialog_title">Imposta ora</string>
   <string name="time_picker_label_hour">O</string>
-  <string name="time_picker_label_minute">M</string>
+  <string name="time_picker_label_minute">Min</string>
   <string name="tips_theme_gate_transfer_fail">"Impossibile aprire questa pagina. Attendi un minuto o due e riprova."</string>
   <string name="title_component">Personalizza temi</string>
   <string name="title_my_audio_resource">Le mie suonerie</string>
@@ -1160,7 +1188,7 @@ Tocca per accedere."</string>
   <string name="transparency_pref_summary">Scegli quanto vuoi che sia trasparente lo sfondo</string>
   <string name="transparency_pref_title">Livello di opacità</string>
   <string name="transparent_wallpaper">Sfondo trasparente</string>
-  <string name="transparent_wallpaper_apply_success">Impostato correttamente. Vai in Temi &gt; Profilo &gt; Lab Temi per altre funzioni.</string>
+  <string name="transparent_wallpaper_apply_success">"Impostato correttamente. Vai in Temi &gt; Profilo &gt; Lab Temi per altre funzioni."</string>
   <string name="transparent_wallpaper_auto_start_pref_summary">Continuare a utilizzare sfondi trasparenti dopo il riavvio del dispositivo</string>
   <string name="transparent_wallpaper_auto_start_pref_title">Avvio automatico</string>
   <string name="transparent_wallpaper_disable">Disattivato</string>
@@ -1196,6 +1224,7 @@ Tocca per accedere."</string>
   <string name="update_btn">AGGIORNA ORA</string>
   <string name="update_check">Cerca aggiornamenti</string>
   <string name="update_checking">Sto cercando aggiornamenti…</string>
+  <string name="update_community_tip">Aggiorna Mi Community per poter utilizzare questa funzione</string>
   <string name="update_downloading">Aggiornamento in download…</string>
   <string name="update_fail">"Impossibile ottenere info. Riprova."</string>
   <string name="update_flag">Aggiorna</string>
@@ -1207,8 +1236,8 @@ Tocca per accedere."</string>
   <string name="using_theme_next_automatic_update">Aggiornamenti automatici</string>
   <string name="using_theme_next_automatic_update_summary">Aggiorna automaticamente i temi scaricati tramite Wi-Fi quando lo schermo è bloccato</string>
   <string name="using_theme_show_ad">Mostra pubblicità</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">Disattivato</string>
+  <string name="v7_preference_on">Attivato</string>
   <string name="version_update">Verifica aggiornamenti</string>
   <string name="video_ad_click">Prova adesso</string>
   <string name="video_ad_try_for_free">Prova gratuita</string>
@@ -1266,7 +1295,7 @@ Tocca per accedere."</string>
   <string name="wallpaper_setting_all">Tutti gli sfondi</string>
   <string name="wallpaper_setting_live">Live</string>
   <string name="wallpaper_settings">Impostazione sfondo</string>
-  <string name="wallpaper_settings_loading_text">Caricamento</string>
+  <string name="wallpaper_settings_loading_text">Attendi…</string>
   <string name="wallpaper_settings_no_history">Nessuna cronologia</string>
   <string name="wallpaper_settings_pad_more_page_title">Altri sfondi</string>
   <string name="wallpaper_settings_page_title">Sfondo</string>
