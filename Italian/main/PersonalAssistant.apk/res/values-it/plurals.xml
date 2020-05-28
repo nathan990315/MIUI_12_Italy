@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="agenda_count_down">
+        <item quantity="other">Tra %d minuti</item>
+        <item quantity="one">Tra %d minuto</item>
+    </plurals>
     <plurals name="assistant_day">
         <item quantity="other">In %d giorni</item>
         <item quantity="one">In %d giorno</item>
     </plurals>
+    <plurals name="book_start_interval">
+        <item quantity="other">Partenza tra %d giorni</item>
+        <item quantity="one">Partenza tra %d giorno</item>
+    </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%1$d giorni fa</item>
+        <item quantity="one">%1$d giorno fa</item>
+        <item quantity="other">%1$dgiorni fa</item>
+    </plurals>
+    <plurals name="express_history_dialog_delete_message">
+        <item quantity="other">Eliminare %s elementi da express?</item>
+        <item quantity="one">Eliminare %s elemento da express?</item>
+    </plurals>
+    <plurals name="express_history_menu_select_num">
+        <item quantity="other">%s elementi selezionati</item>
+        <item quantity="one">%s elemento selezionato</item>
+    </plurals>
+    <plurals name="express_setting_phone_binded_info">
+        <item quantity="other">Aggiunti %d numeri di telefono</item>
+        <item quantity="one">Aggiunto %d numero di telefono</item>
     </plurals>
     <plurals name="hours_ago">
+        <item quantity="one">%1$d ora fa</item>
         <item quantity="other">%1$d ore fa</item>
     </plurals>
     <plurals name="main_delete_desc">
@@ -23,6 +45,7 @@
         <item quantity="one">%s elemento selezionato</item>
     </plurals>
     <plurals name="mins_ago">
+        <item quantity="one">%1$d minuto fa</item>
         <item quantity="other">%1$d minuti fa</item>
     </plurals>
     <plurals name="payment_record_dialog_delete_message">
@@ -32,6 +55,10 @@
     <plurals name="payment_record_menu_select_num">
         <item quantity="other">Selezionati %s elementi</item>
         <item quantity="one">Selezionato %s elemento</item>
+    </plurals>
+    <plurals name="shopping_delete_num">
+        <item quantity="other">Eliminare %s elementi selezionati?</item>
+        <item quantity="one">Eliminare %s elemento selezionato?</item>
     </plurals>
     <plurals name="sms_day_suffix">
         <item quantity="other">In %d giorni</item>
@@ -55,7 +82,6 @@
     </plurals>
     <plurals name="steps">
         <item quantity="other">%d|passi</item>
-        <item quantity="zero">%d|passi</item>
         <item quantity="one">%d|passo</item>
     </plurals>
     <plurals name="time_hour_ago">
@@ -65,13 +91,5 @@
     <plurals name="time_minute_ago">
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">%d minuto fa</item>
-    </plurals>
-    <plurals name="express_history_dialog_delete_message">
-        <item quantity="other">Eliminare %s elementi da express?</item>
-        <item quantity="one">Eliminare %s elemento da express?</item>
-    </plurals>
-    <plurals name="express_history_menu_select_num">
-        <item quantity="other">%s elementi selezionati</item>
-        <item quantity="one">%s elemento selezionato</item>
     </plurals>
 </resources>
