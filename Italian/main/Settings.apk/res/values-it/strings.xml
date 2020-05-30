@@ -6199,7 +6199,7 @@ Il PIN potrebbe essere errato."</string>
   <string name="sms_access_restriction_enabled">Restrict SMS &amp; call log access</string>
   <string name="sms_access_restriction_enabled_summary">Only default phone and messaging apps have SMS &amp; call log permissions</string>
   <string name="sms_application_title">App SMS predefinita</string>
-  <string name="sms_change_default_dialog_text">Utilizzare %s anziché %s come app per SMS?</string>
+  <string name="sms_change_default_dialog_text">Use %1$s instead of %2$s as your SMS app?</string>
   <string name="sms_change_default_dialog_title">Cambiare app per SMS?</string>
   <string name="sms_change_default_no_previous_dialog_text">Utilizzare %s come app per SMS?</string>
   <string name="sms_delivered_sound_dialog_title">Scegli suono di messaggio inviato</string>
@@ -6663,7 +6663,6 @@ L\'approccio di Google alla sincronizzazione di dati per consentirti l\'accesso 
   <string name="system_alert_window_access_title">Disegno su altre app</string>
   <string name="system_alert_window_apps_title">App</string>
   <string name="system_alert_window_settings">Disegno su altre app</string>
-  <string name="system_alert_window_summary">%d di %d app possono disegnare contenuti sopra ad altre app</string>
   <string name="system_and_device_section_title">Sistema e dispositivo</string>
   <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">App di sistema</string>
@@ -8138,7 +8137,6 @@ La memorizzazione delle credenziali potrebbe non essere stata attivata"</string>
   <string name="write_settings_description">Questo permesso consente ad un\'app di modificare le impostazioni di sistema.</string>
   <string name="write_settings_off">No</string>
   <string name="write_settings_on">Sì</string>
-  <string name="write_settings_summary">%d di %d app possono modificare le impostazioni di sistema</string>
   <string name="write_settings_title">Può modificare le impostazioni di sistema</string>
   <string name="write_system_settings">Modifica impostazioni di sistema</string>
   <string name="wrong_pin_code_pukked">Codice PIN della SIM errato. Devi contattare l\'operatore per sbloccare il dispositivo.</string>
