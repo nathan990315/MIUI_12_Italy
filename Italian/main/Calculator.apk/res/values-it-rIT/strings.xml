@@ -45,7 +45,7 @@
   <string name="am">AM</string>
   <string name="angle">grad</string>
   <string name="app_name">Calcolatrice</string>
-  <string name="app_name_danfa">Calcolatrice Mi</string>
+  <string name="app_name_danfa">@string/app_name</string>
   <string name="app_notification_info">La Calcolatrice è in esecuzione in background</string>
   <string name="arccos">arccos</string>
   <string name="arcsin">arcsin</string>
@@ -257,19 +257,19 @@
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
-  <string name="fmt_date_long_month_day">MMMM d</string>
-  <string name="fmt_date_long_year_month">MMMM yyyy</string>
-  <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month">MMMM, yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_day">d</string>
   <string name="fmt_date_numeric_month">M</string>
-  <string name="fmt_date_numeric_month_day">M-d</string>
+  <string name="fmt_date_numeric_month_day">d/M</string>
   <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">M-yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
+  <string name="fmt_date_numeric_year_month">M/yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
   <string name="fmt_date_short_month">MMM</string>
-  <string name="fmt_date_short_month_day">MMM d</string>
-  <string name="fmt_date_short_year_month">MMM yyyy</string>
-  <string name="fmt_date_short_year_month_day">MMM d, yyyy</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month">MMM, yyyy</string>
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="fmt_date_time">D T</string>
   <string name="fmt_date_time_timezone">D T z</string>
   <string name="fmt_date_timezone">D z</string>
@@ -412,7 +412,7 @@
   <string name="letter_d">D</string>
   <string name="letter_e">E</string>
   <string name="letter_f">F</string>
-  <string name="lg">log</string>
+  <string name="lg">lg</string>
   <string name="lgDesc">logaritmo</string>
   <string name="lg_mathematical_value">lg</string>
   <string name="license_host_unreachable">"Impossibile collegarsi alla rete. Controlla le impostazioni della tua rete e riprova."</string>
@@ -437,6 +437,7 @@
   <string name="loan_pay_years">Periodo prestito</string>
   <string name="loan_payback_way">Pagamento</string>
   <string name="loan_repayment_detail_loading">Caricamento dettagli rimborso…</string>
+  <string name="loan_type_summary_base">@string/base_rate</string>
   <string name="loan_type_summary_lpr">LPR</string>
   <string name="loan_type_title">Tasso di interesse standard</string>
   <string name="loan_unit">×10K</string>
@@ -457,7 +458,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
   <string name="monday_shortest">L</string>
   <string name="month"></string>
   <string name="month_april">aprile</string>
-  <string name="month_april_short">apr</string>
+  <string name="month_april_short">Apr</string>
   <string name="month_april_shortest">A</string>
   <string name="month_august">agosto</string>
   <string name="month_august_short">ago</string>
@@ -515,6 +516,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
   <string name="mortgage_input_error">Inserisci l\'importo del mutuo</string>
   <string name="mortgage_interest_amount">Totale interessi</string>
   <string name="mortgage_interest_rate">Tasso di interesse</string>
+  <string name="mortgage_item_loan_ruler">@string/loan_type_title</string>
   <string name="mortgage_item_repayment">Rimborso</string>
   <string name="mortgage_item_start_time">Inizio data</string>
   <string name="mortgage_item_years">Durata</string>
@@ -732,7 +734,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
   <string name="the_armed_forces_day">Festa delle forze armate</string>
   <string name="the_armys_day">Giornata dell\'esercito</string>
   <string name="the_childrens_day">Giornata dei bambini</string>
-  <string name="the_chinese_youth_day">Youth Day</string>
+  <string name="the_chinese_youth_day">Giornata della gioventù</string>
   <string name="the_christmas_day">Natale</string>
   <string name="the_double_ninth_festival">Festa del Doppio Nove</string>
   <string name="the_dragon_boat_festival">Festa delle Dragonboat</string>
@@ -797,8 +799,8 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
   <string name="unit_data_default_time_1">s</string>
   <string name="unit_data_default_velocity_0">mps</string>
   <string name="unit_data_default_velocity_1">kmps</string>
-  <string name="unit_data_default_volume_0">cu.m</string>
-  <string name="unit_data_default_volume_1">cu.cm</string>
+  <string name="unit_data_default_volume_0">m³</string>
+  <string name="unit_data_default_volume_1">cm³</string>
   <string name="unit_data_default_weight_0">kg</string>
   <string name="unit_data_default_weight_1">g</string>
   <string name="unit_data_display_area_acre">Acro</string>
@@ -829,6 +831,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
   <string name="unit_data_display_currency_bnd">Dollaro del Brunei</string>
   <string name="unit_data_display_currency_brl">Real Brasiliano</string>
   <string name="unit_data_display_currency_byn">Rublo Bielorusso</string>
+  <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
   <string name="unit_data_display_currency_cad">Dollaro Canadese</string>
   <string name="unit_data_display_currency_chf">Franco Svizzero</string>
   <string name="unit_data_display_currency_clp">Peso Cinelo</string>
@@ -914,7 +917,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
   <string name="unit_data_display_length_um">Micron</string>
   <string name="unit_data_display_length_yd">Iarda</string>
   <string name="unit_data_display_length_zhang">Zhang</string>
-  <string name="unit_data_display_radix_10">Decimal</string>
+  <string name="unit_data_display_radix_10">Decimale</string>
   <string name="unit_data_display_radix_16">Esadecimale</string>
   <string name="unit_data_display_radix_2">Binario</string>
   <string name="unit_data_display_radix_8">Ottale</string>
@@ -1043,7 +1046,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
   <string name="unit_data_short_time_s">s</string>
   <string name="unit_data_short_time_us">μs</string>
   <string name="unit_data_short_time_week">wk</string>
-  <string name="unit_data_short_time_yr">y</string>
+  <string name="unit_data_short_time_yr">a</string>
   <string name="unit_data_short_velocity_c">c</string>
   <string name="unit_data_short_velocity_ftps">ft/s</string>
   <string name="unit_data_short_velocity_inps">in/s</string>
@@ -1054,7 +1057,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
   <string name="unit_data_short_velocity_mps">m/s</string>
   <string name="unit_data_short_velocity_nmiph">nm/h</string>
   <string name="unit_data_short_volume_cl">cl</string>
-  <string name="unit_data_short_volume_cu.af">af</string>
+  <string name="unit_data_short_volume_cu.af">af³</string>
   <string name="unit_data_short_volume_cu.cm">cm³</string>
   <string name="unit_data_short_volume_cu.dm">dm³</string>
   <string name="unit_data_short_volume_cu.ft">ft³</string>
@@ -1133,8 +1136,11 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
   <string name="word_figure_unit_shi">拾</string>
   <string name="word_figure_yuan">元</string>
   <string name="word_figure_zheng">整</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">"Connessione a Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni."</string>
   <string name="xiaomi_external_storage_unavailable">"Archivio non disponibile, verifica la scheda SD."</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s
 Dimensione: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Presentazione versione %1$s

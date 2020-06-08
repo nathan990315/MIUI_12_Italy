@@ -1,50 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <plurals name="adblock_rules_number_text">
-        <item quantity="other">%d elementi bloccati</item>
-        <item quantity="one">%d elemento bloccato</item>
-     </plurals>
-     <plurals name="find_on_page_matches">
-        <item quantity="other">%d abbinamenti</item>
-        <item quantity="one">%d abbinamenti</item>
-     </plurals>
-     <plurals name="mw_last_num_days">
+    <plurals name="comment_detail_title">
+        <item quantity="other">%d risposte</item>
+        <item quantity="one">%d risposta</item>
+    </plurals>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">%d ore fa</item>
+        <item quantity="one">%d ora fa</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">Visualizza %d commenti</item>
+        <item quantity="one">Visualizza %d commento</item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">%d minuto fa</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">%d motivi selezionati</item>
+        <item quantity="one">%d motivo selezionato</item>
+    </plurals>
+    <plurals name="hot_word_hot_count">
+        <item quantity="other">%d visual</item>
+        <item quantity="one">%d visual</item>
+    </plurals>
+    <plurals name="info_flow_tips">
+        <item quantity="other">Trovati %d nuovi elementi per te</item>
+        <item quantity="one">Trovato %d nuovo elemento per te</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="one">Ultimo %d giorno</item>
         <item quantity="other">Ultimi %d giorni</item>
-     </plurals>
-     <plurals name="mw_matches_found">
+    </plurals>
+    <plurals name="mw_matches_found">
         <item quantity="other">%1$d di %2$d</item>
         <item quantity="one">1 abbinamento</item>
-     </plurals>
-     <plurals name="nav_screen_incognito_time">
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
         <item quantity="other">Dopo %d secondi verrà creata automaticamente una nuova pagina</item>
         <item quantity="one">Dopo %d secondo verrà creata automaticamente una nuova pagina</item>
-     </plurals>
-     <plurals name="transfer_prompt">
+    </plurals>
+    <plurals name="transfer_prompt">
         <item quantity="other">Avvia video tra %1$d secondi</item>
         <item quantity="one">Avvia video tra %1$d secondo</item>
-     </plurals>
-     <plurals name="v5_edit_mode_title">
+    </plurals>
+    <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d selezionati</item>
         <item quantity="one">%1$d selezionato</item>
-     </plurals>
-     <plurals name="video_download_clear_info">
+    </plurals>
+    <plurals name="video_download_clear_info">
         <item quantity="other">%1$d video rimossi correttamente.</item>
         <item quantity="one">%1$d video rimosso correttamente.</item>
-     </plurals>
-     <plurals name="video_download_clear_prompt">
+    </plurals>
+    <plurals name="video_download_clear_prompt">
         <item quantity="other">Cancellare %1$d video?</item>
         <item quantity="one">Cancellare %1$d video?</item>
-     </plurals>
-     <plurals name="video_history_clear_info">
+    </plurals>
+    <plurals name="video_history_clear_info">
         <item quantity="other">%1$d elementi rimossi dalla cronologia.</item>
         <item quantity="one">%1$d elemento rimosso dalla cronologia.</item>
-     </plurals>
-     <plurals name="video_history_clear_prompt">
+    </plurals>
+    <plurals name="video_history_clear_prompt">
         <item quantity="other">Eliminare %1$d elementi dalla cronologia?</item>
         <item quantity="one">Eliminare %1$d elemento dalla cronologia?</item>
-     </plurals>
-     <plurals name="video_subtitle_last_message">
+    </plurals>
+    <plurals name="video_playback_error">
+        <item quantity="other">"Impossibile caricare il video.
+Il prossimo verrà riprodotto tra %d secondi…"</item>
+        <item quantity="one">"Impossibile caricare il video.
+Il prossimo verrà riprodotto tra %d secondo…"</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
         <item quantity="other">%d minuti rimanenti</item>
         <item quantity="one">%d minuti rimanenti</item>
-     </plurals>
+    </plurals>
+    <plurals name="vo_comment">
+        <item quantity="other">%s commenti</item>
+        <item quantity="one">%s commento</item>
+    </plurals>
+    <plurals name="vo_image_mark">
+        <item quantity="other">%d immagini</item>
+        <item quantity="one">%d immagine</item>
+    </plurals>
+    <plurals name="vo_short_video_play_count">
+        <item quantity="other">%s visual</item>
+        <item quantity="one">%s visual</item>
+    </plurals>
+    <plurals name="vo_source_comment">
+        <item quantity="other">%1$s | %2$s commenti</item>
+        <item quantity="one">%1$s | %2$s commento</item>
+    </plurals>
+    <plurals name="vo_vote_num">
+        <item quantity="other">%d persone hanno già votato</item>
+        <item quantity="one">%d persona ha già votato</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_hour">
+        <item quantity="other">· %s ore fa</item>
+        <item quantity="one">· %s ora fa</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_minute">
+        <item quantity="other">· %s minuti fa</item>
+        <item quantity="one">· %s minuto fa</item>
+    </plurals>
+    <plurals name="vo_zhi_hu_answer">
+        <item quantity="other">%d risposte su Zhihu</item>
+        <item quantity="one">%d risposta su Zhihu</item>
+    </plurals>
 </resources>

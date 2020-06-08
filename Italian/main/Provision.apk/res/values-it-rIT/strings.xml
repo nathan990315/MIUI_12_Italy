@@ -19,12 +19,11 @@
   <string name="application_package_introduction">Questa app consente di installare applicazioni di terze parti, scansionarle prima dell\'installazione e fornire consigli dopo l\'installazione.</string>
   <string name="application_permissions">Permessi Applicazioni</string>
   <string name="back">Indietro</string>
-  <string name="backup_introduction">È possibile utilizzare questa app per eseguire il backup e ripristinare app e impostazioni sul dispositivo.</string>
   <string name="calculator_introduction">È possibile utilizzare questa app per calcoli, conversione di unità e valute e per la stima del rimborso del mutuo.</string>
   <string name="camera_introduction">È possibile utilizzare Fotocamera per scattare foto e girare video.</string>
-  <string name="carrier_introduction">"Al fine di fornire servizi migliori, il dispositivo può inviare periodicamente le informazioni sulla versione del dispositivo, i dati di identificazione del dispositivo (compreso l'indirizzo IMEI/IMSI/MSISDN/MAC, MEID/ICCID) e informazioni approssimative di localizzazione (incluso l'ID della cella) all'operatore via WLAN, rete dati mobile o SMS gratuito. L'operatore promette di analizzare le informazioni rilevanti solo per migliorare la qualità dei servizi o per fornire servizi o tecnologie personalizzate, e non divulgherà informazioni rilevanti a terzi in qualsiasi forma che ti identifichi personalmente. La dichiarazione specifica dell'operatore prevarrà. Consulta il tuo operatore in merito al costo di utilizzo di questo servizio."</string>
+  <string name="carrier_introduction">"Al fine di fornire servizi migliori, il dispositivo può inviare periodicamente le informazioni sulla versione del dispositivo, i dati di identificazione del dispositivo (compreso l'indirizzo IMEI/IMSI/MSISDN/MAC, MEID/ICCID) e informazioni approssimative di localizzazione (incluso l'ID della cella) all'operatore via Wi-Fi, rete dati mobile o SMS gratuito. L'operatore promette di analizzare le informazioni rilevanti solo per migliorare la qualità dei servizi o per fornire servizi o tecnologie personalizzate, e non divulgherà informazioni rilevanti a terzi in qualsiasi forma che ti identifichi personalmente. La dichiarazione specifica dell'operatore prevarrà. Consulta il tuo operatore in merito al costo di utilizzo di questo servizio."</string>
   <string name="clock_introduction">È possibile utilizzare questa app per visualizzare l\'Ora, così come impostare Conti alla Rovescia (Timer), come Cronometro, impostare Sveglie e altro ancora.</string>
-  <string name="close_location_service_setting">Puoi scegliere di disattivare l\'accesso alla posizione in Impostazioni > Impostazioni aggiuntive > Privacy o limitare i permessi per le singole applicazioni in Sicurezza.</string>
+  <string name="close_location_service_setting">Puoi scegliere di disattivare l\'accesso alla posizione in Impostazioni &gt; Impostazioni aggiuntive &gt; Privacy o limitare i permessi per le singole applicazioni in Sicurezza.</string>
   <string name="cm_terms_content">"Per migliorare i servizi forniti, il tuo gestore potrebbe caricare i tuoi dati personali e informazioni su questo dispositivo sui suoi server tramite rete Wi-Fi o connessione dati mobile. Queste informazioni verranno usati solo per scopi statistici al fine di migliorare la qualità dei servizi e fornire altri contenuti personalizzati. Queste informazioni non verranno utilizzate per identificarti e non verranno divulgate a terze parti\""</string>
   <string name="cm_terms_title">Regolamento Operatore Rete Mobile</string>
   <string name="compass_introduction">È possibile utilizzare questa app per la navigazione e per vedere coordinate attuali, pressione atmosferica e altitudine.</string>
@@ -36,7 +35,7 @@
   <string name="content_description_start">Avvia</string>
   <string name="content_introduction">Il Centro Contenuti aggrega contenuti e servizi da più canali. Qui puoi leggere articoli, guardare video, visualizzare elementi giornalieri in evidenza e ricevere consigli sui contenuti.</string>
   <string name="continue_to_enable_accessibility">Tieni due dita in basso per attivare l\'accessibilità</string>
-  <string name="data_traffic_enable_dialog_title">"Se non sei connesso alla WLAN adesso, il tuo dispositivo utilizzerà i dati mobili. L'utilizzo dei dati mobili potrebbe generare costi aggiuntivi."</string>
+  <string name="data_traffic_enable_dialog_title">"Se non sei connesso al Wi-Fi, il tuo dispositivo utilizzerà i dati mobili. L'utilizzo dei dati mobili potrebbe generare costi aggiuntivi."</string>
   <string name="desc_extra_fingerprint"></string>
   <string name="desc_extra_international_fingerprint"></string>
   <string name="desc_fingerprint">Utilizza le tue impronte digitali per sbloccare il dispositivo, verificare le transazioni Mi Pay o per accedere ad app e servizi.</string>
@@ -57,7 +56,7 @@
   <string name="enable_accessibility_canceled">Accessibilità annullata.</string>
   <string name="enable_accessibility_dialog_message">Hai attivato TalkBack toccando lo schermo con due dita per più di 10 secondi. TalkBack fornisce un feedback audio per utenti ipovedenti. Se lo hai attivato involontariamente, tocca il tasto Annulla poi tocca due volte lo schermo.</string>
   <string name="enable_accessibility_dialog_negative_btn">Annulla</string>
-  <string name="enable_accessibility_dialog_positive_btn">Conferma</string>
+  <string name="enable_accessibility_dialog_positive_btn">OK</string>
   <string name="fast_application_introduction">Il Framework App Rapide consente di creare e fornire servizi in App Rapide.</string>
   <string name="fast_pairing_introduction">Mi Link consente di connettersi ai dispositivi Bluetooth nelle vicinanze. Per essere in grado di trovare dispositivi nelle vicinanze, consentire l\'accesso a internet a Mi Link.</string>
   <string name="font_hint_large">Dimensione testo predefinita</string>
@@ -83,12 +82,6 @@
   <string name="mint_keyboard_oobe_terms">Informativa sulla Privacy della Tastiera Mint</string>
   <string name="miui_privacy_policy_no_network">"Nessuna connessione di rete. Leggi l'informativa sulla privacy su %s"</string>
   <string name="miui_terms_no_network">"Nessuna connessione di rete. Leggi i termini del servizio su %s"</string>
-  <string name="mobile_network">Utilizzo dati rete mobile</string>
-  <string name="move_data_dialog_box_le">"Ciò consente di utilizzare i dati mobili e la connessione GPS in base alla richiesta dell'utente. La sincronizzazione di account e altri elementi potrebbe richiedere l'utilizzo di dati mobili a seconda delle specifiche dello smartphone."</string>
-  <string name="move_data_dialog_box_title">A meno che tu non abbia un piano con dati illimitati, l\'utilizzo dei dati mobili può generare costi aggiuntivi. Utilizzare comunque i dati mobili?</string>
-  <string name="move_data_dialog_cancel">Annulla</string>
-  <string name="move_data_dialog_title">È possibile limitare la connessione ai dati mobili nelle Impostazioni</string>
-  <string name="move_data_dialog_use">Usa</string>
   <string name="multisim_settings_category">Impostazioni preferite SIM</string>
   <string name="multisim_settings_title">Scheda SIM 2 rilevata</string>
   <string name="navigation_picker_gesture_guide">Guida gesture</string>
@@ -120,8 +113,6 @@ Disattivare gli annunci personalizzati?"</string>
   <string name="permission_account">Accedere agli account sul dispositivo:</string>
   <string name="permission_account_introduction">Per accedere con Mi Account</string>
   <string name="permission_application_package_introduction">Accedere all\'archiviazione per analizzare i pacchetti di installazione</string>
-  <string name="permission_backup">Accedere all\'archiviazione</string>
-  <string name="permission_backup_introduction">Per accedere e salvare i backup sul tuo dispositivo</string>
   <string name="permission_call_records">Accedere alla cronologia delle chiamate:</string>
   <string name="permission_call_records_introduction">Per accedere alla cronologia chiamate per visualizzare gli elementi bloccati</string>
   <string name="permission_call_state_introduction">Per accedere allo stato del telefono, registrare le chiamate e mettere in pausa le registrazioni durante le chiamate in arrivo</string>
@@ -179,7 +170,6 @@ Leggi questo documento per la tastiera: "</string>
   <string name="service_agreement">"Ho letto e accettato i termini e le condizioni."</string>
   <string name="service_name_album">Galleria</string>
   <string name="service_name_application_package">Installazione pacchetti</string>
-  <string name="service_name_backup">Backup</string>
   <string name="service_name_calculator">Calcolatrice</string>
   <string name="service_name_camera">Fotocamera</string>
   <string name="service_name_carrier">Dichiarazione sui servizi dell\'operatore</string>
@@ -187,7 +177,7 @@ Leggi questo documento per la tastiera: "</string>
   <string name="service_name_compass">Bussola</string>
   <string name="service_name_content_center">Centro Contenuti</string>
   <string name="service_name_download">Download</string>
-  <string name="service_name_fast_application">Quick apps Framework</string>
+  <string name="service_name_fast_application">Framework App Rapide</string>
   <string name="service_name_fast_pairing">Mi Link</string>
   <string name="service_name_game">Plug-in giochi</string>
   <string name="service_name_google_service">Dichiarazione sui servizi Google</string>
@@ -197,7 +187,7 @@ Leggi questo documento per la tastiera: "</string>
   <string name="service_name_recorder">Registratore</string>
   <string name="service_name_screen_recording">Registrazione schermo</string>
   <string name="service_name_security">Sicurezza</string>
-  <string name="service_name_service_framework">Mi Services Framework</string>
+  <string name="service_name_service_framework">Framework dei Servizi Mi</string>
   <string name="service_policy">&lt;Data&gt;Leggi e accetta la nostra &amp;lt;a href=%1$s&amp;gt;Informativa sulla Privacy&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
   <string name="service_policy_download">&lt;Data&gt;Prima di utilizzare i nostri servizi, leggi e accetta l\'&amp;lt;a href=%1$s&amp;gt;Informativa sulla Privacy di Xunlei &amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
   <string name="service_privacy_index">Termini di servizio</string>
@@ -216,23 +206,24 @@ Leggi questo documento per la tastiera: "</string>
   <string name="sim_scard_detecting_check_mobile_not_available">"La tua scheda SIM non può connettersi ad una rete operatore valida. Assicurati di avere fondi sufficienti sul tuo saldo e prova a connetterti nuovamente."</string>
   <string name="skip_gesture_guide_dialog_message">Assicurati di saper utilizzare le gesture a schermo intero prima di attivare questa funzione.</string>
   <string name="skip_gesture_guide_dialog_negative_btn">Annulla</string>
-  <string name="skip_gesture_guide_dialog_positive_btn">Conferma</string>
+  <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
   <string name="skip_gesture_guide_dialog_title">Gesture a schermo intero</string>
   <string name="skip_underline"><u>Salta questo passaggio</u></string>
   <string name="start_up_slogan">Solo tua</string>
+  <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
   <string name="summary_not_set">Non impostato</string>
   <string name="system_navigation_mode">Modalità di navigazione di sistema</string>
   <string name="terms_of_use">Condizioni del Servizio</string>
-  <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTML Viewer</string>
+  <string name="terms_of_use_ble_htmlViewer">, Fornitore Di Posizione, Visualizzatore HTML</string>
   <string name="terms_of_use_label">"La tua privacy è molto importante per noi. Leggi i nostri Termini di servizio e la Normativa sulla privacy per sapere quali informazioni raccogliamo, come le usiamo e quali sono le opzioni disponibili.
      
 Devi accettare i nostri Termini di servizio e l'Informativa sulla Privacy prima di poter utilizzare la MIUI. Le componenti %s ed il Mi Account si connetteranno ad Internet e acquisiranno la tua posizione."</string>
-  <string name="terms_of_use_label_Mistore">, Mi Store system plug-in</string>
+  <string name="terms_of_use_label_Mistore">, plugin di sistema Mi Store</string>
   <string name="terms_of_use_label_mab">, MAB</string>
-  <string name="terms_of_use_label_package">, Package installer</string>
+  <string name="terms_of_use_label_package">, Installatore pacchetti</string>
   <string name="terms_of_use_label_phrase">, Frasi frequenti</string>
   <string name="terms_of_use_label_systemhelper">Servizio Auto-registrato</string>
-  <string name="terms_of_use_label_updater">, Updater</string>
+  <string name="terms_of_use_label_updater">, Aggiornamenti</string>
   <string name="terms_of_use_lable_apps">Servizi Mi, servizi di attivazione Mi SIM, Mi Cloud, Trova dispositivo, schermata Home, Centro di gioco, MAB, MIUI Daemon e componenti di sistema MSA, Sistemi di traduzione, Quick app, Assistente app, statistiche, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
@@ -258,5 +249,6 @@ Devi accettare l'Informativa sulla privacy della Tastiera Mint prima di utilizza
   <string name="voice_assist_desp">Pronuncia \"Mi AI\" davanti al telefono. Mi AI riconoscerà la tua voce e sarà in grado di controllare il tuo dispositivo.</string>
   <string name="voice_assist_title">Attiva con la voce</string>
   <string name="welcome">Benvenuto</string>
+  <string name="wizard_script_uri">android.resource://com.android.provision/raw/wizard_script</string>
   <string name="zone_picker_title">Scegli il fuso orario</string>
 </resources>

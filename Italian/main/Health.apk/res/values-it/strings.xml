@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Vai in home</string>
+  <string name="abc_action_bar_home_description">Naviga nella home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -454,10 +454,10 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_day">d</string>
   <string name="fmt_date_numeric_month">M</string>
-  <string name="fmt_date_numeric_month_day">d-M</string>
+  <string name="fmt_date_numeric_month_day">d/M</string>
   <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">M-yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+  <string name="fmt_date_numeric_year_month">M/yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -685,7 +685,7 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="monday_shortest">L</string>
   <string name="month">Mese</string>
   <string name="month_april">Aprile</string>
-  <string name="month_april_short">apr</string>
+  <string name="month_april_short">Apr</string>
   <string name="month_april_shortest">A</string>
   <string name="month_august">Agosto</string>
   <string name="month_august_short">Ago</string>
@@ -726,6 +726,8 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="mtrl_badge_numberless_content_description">Nuove notifiche</string>
   <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+  <string name="mtrl_picker_cancel">@android:string/cancel</string>
+  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Scegli una data</string>

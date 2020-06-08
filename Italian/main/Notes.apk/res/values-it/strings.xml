@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Vai in home</string>
+  <string name="abc_action_bar_home_description">Naviga nella home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -232,13 +232,13 @@
   <string name="fmt_date_long_year_month">MMMM, yyyy</string>
   <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_day">d</string>
-  <string name="fmt_date_numeric_month">M</string>
-  <string name="fmt_date_numeric_month_day">d-M</string>
+  <string name="fmt_date_numeric_month">MM</string>
+  <string name="fmt_date_numeric_month_day">dd/MM</string>
   <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">M/yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-  <string name="fmt_date_short_month">MMM</string>
-  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_numeric_year_month">MM/yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_short_month">MM</string>
+  <string name="fmt_date_short_month_day">dd/MM</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="fmt_date_time">D T</string>
@@ -267,10 +267,10 @@
   <string name="fmt_time_timezone">T z</string>
   <string name="fmt_timezone">z</string>
   <string name="fmt_weekday">W</string>
-  <string name="fmt_weekday_date">W, D</string>
-  <string name="fmt_weekday_date_time">W, D T</string>
-  <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-  <string name="fmt_weekday_date_timezone">W, D z</string>
+  <string name="fmt_weekday_date">DW</string>
+  <string name="fmt_weekday_date_time">DW T</string>
+  <string name="fmt_weekday_date_time_timezone">zDW T</string>
+  <string name="fmt_weekday_date_timezone">zDW</string>
   <string name="fmt_weekday_long">EEEE</string>
   <string name="fmt_weekday_short">E</string>
   <string name="fmt_weekday_time">W T</string>
@@ -335,6 +335,7 @@
   <string name="menu_unhide">Mostra</string>
   <string name="menu_unstick">Rimuovi spilla</string>
   <string name="merge_to_folder">Crea una cartella</string>
+  <string name="micloud_state_total_count">%1$s</string>
   <string name="midnight">AM</string>
   <string name="miuix_appcompat_cloud_state_disabled">La sincronizzazione col cloud è disattivata</string>
   <string name="miuix_appcompat_cloud_state_finished">Sincronizzato col cloud</string>
@@ -351,8 +352,8 @@
   <string name="monday_short">Lun</string>
   <string name="monday_shortest">L</string>
   <string name="month_april">Aprile</string>
-  <string name="month_april_short">apr</string>
-  <string name="month_april_shortest">A</string>
+  <string name="month_april_short">Apr</string>
+  <string name="month_april_shortest">Apr</string>
   <string name="month_august">Agosto</string>
   <string name="month_august_short">Ago</string>
   <string name="month_august_shortest">Ago</string>
@@ -379,7 +380,7 @@
   <string name="month_may_shortest">Mag</string>
   <string name="month_november">Novembre</string>
   <string name="month_november_short">nov</string>
-  <string name="month_november_shortest">N</string>
+  <string name="month_november_shortest">Nov</string>
   <string name="month_october">Ottobre</string>
   <string name="month_october_short">Ott</string>
   <string name="month_october_shortest">Ott</string>
@@ -409,6 +410,7 @@
   <string name="note_sort_way">Ordinamento note</string>
   <string name="notealert_enter">Controlla</string>
   <string name="notealert_ok">Ignora</string>
+  <string name="notelist_string_info">…</string>
   <string name="notification_content_add_todo_from_other_app">Hai aggiunto una nuova attività. Tocca per vederla.</string>
   <string name="notify_alarm_title">Promemoria sveglia</string>
   <string name="permdesc_accessNote">Le applicazioni dannose potrebbero sfruttare questa possibilità per accedere alle tue informazioni personali.</string>
@@ -490,6 +492,7 @@
   <string name="search_menu_title">Cerca</string>
   <string name="search_path_notes">App di sistema/Note</string>
   <string name="search_setting_description">Testo nelle note</string>
+  <string name="search_title_notes">@string/app_name</string>
   <string name="select_account_prompt">Abilita sincronizzazione note</string>
   <string name="set_alarm_description">Imposta sveglia</string>
   <string name="setting_other">ALTRO</string>
@@ -686,7 +689,7 @@ Consenti di registrare audio."</string>
   <string name="todo_user_guide_tip4">"Non dimenticare di creare una scorciatoia nella schermata Home per le attività."</string>
   <string name="todo_user_guide_tip5">Rimani sempre allerta e non perderti nulla di importante!</string>
   <string name="todo_user_guide_tip6">Tocca \"Invio\" per creare una lista di sottoattività</string>
-  <string name="todoalert_done">Conferma</string>
+  <string name="todoalert_done">OK</string>
   <string name="tomorrow">domani</string>
   <string name="toolbar_check_description">Aggiungi checkbox</string>
   <string name="toolbar_delete_description">Elimina questa nota</string>
@@ -712,5 +715,6 @@ Consenti di registrare audio."</string>
   <string name="wednesday_shortest">M</string>
   <string name="widget_content_loading">Attendi…</string>
   <string name="widget_havenot_content">Nessuna nota associata trovata, premere per crearne una.</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="yesterday">ieri</string>
 </resources>

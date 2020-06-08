@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Vai in home</string>
+  <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -37,7 +37,6 @@
   <string name="back_up_task_in_process">Backup in corso</string>
   <string name="back_up_task_unfinished">"Backup incompleto"</string>
   <string name="backing_up_to_micloud">Backup in corso…</string>
-  <string name="backup_fail_wifi_needed">"Impossibile eseguire il backup, è necessaria una connessione Wi-Fi."</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Spazio di archiviazione insufficiente in Xiaomi Cloud. Effettua l\'upgrade del piano o libera spazio di archiviazione.</string>
   <string name="backup_failed_reason_disk_space_not_enough">Spazio di archiviazione insufficiente. Liberare la memoria.</string>
   <string name="backup_failed_reason_network_error">Errore di rete. Attendi un minuto o due e riprova.</string>
@@ -58,6 +57,7 @@
   <string name="btn_restore_resume">Riprendi</string>
   <string name="btn_restore_retry">Riprova</string>
   <string name="btn_restore_wait">Attendi Wi-Fi</string>
+  <string name="btn_restore_wait_china">In attesa del Wi-Fi</string>
   <string name="btn_retry">Controlla di nuovo</string>
   <string name="btn_skip">Salta questo passaggio</string>
   <string name="button_cancel">Annulla</string>
@@ -87,10 +87,15 @@
 •\u0009\u0009\u0009\u0009 Impostazioni delle notifiche 
 •\u0009\u0009\u0009\u0009 MIUI e impostazioni di sistema 
 Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</string>
+  <string name="cloud_back_up_detail_discription_china">"Questi elementi verranno salvati su Xiaomi Cloud quando il dispositivo sarà connesso al Wi-Fi: 
+* App, Layout della schermata Home e sfondi 
+* Sveglie, orologio, e impostazioni sull'ora 
+* Impostazioni notifiche 
+* MIUI e impostazioni di sistema 
+Nota: I dati delle applicazioni installate non verranno salvati su Xiaomi Cloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Programmazione backup</string>
   <string name="cloud_back_up_frequence_long">Ogni 7 giorni</string>
   <string name="cloud_back_up_frequence_short">Ogni giorno</string>
-  <string name="cloud_back_up_no_network_warn">"Impossibile collegarsi alla rete"</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Attendi…</string>
   <string name="cloud_back_up_subscribe_vip_confirm">Aggiorna</string>
@@ -103,6 +108,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
   <string name="cloud_backup_detail_manage">Gestisci backup</string>
   <string name="cloud_backup_detail_state">Backup Mi Cloud</string>
   <string name="cloud_backup_detail_state_summary">App, schermata Home e impostazioni di sistema</string>
+  <string name="cloud_backup_detail_state_summary_china">Crea backup su Xiaomi Cloud automaticamente quando connesso al Wi-Fi.</string>
   <string name="cloud_backup_detail_time">Ultimo backup: %1$s</string>
   <string name="cloud_backup_detail_title">Home, app e impostazioni.</string>
   <string name="cloud_backup_have_data">Backup trovato su Mi Cloud</string>
@@ -138,7 +144,9 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
   <string name="dialog_cancel_backup_title">Annullare il backup in corso?</string>
   <string name="dialog_msg_overwrite_backup">La differenza tra il backup locale e quello cloud è consistente, continuando il backup in cloud verrà sovrascritto.</string>
   <string name="dialog_msg_restore_require_wlan">Il ripristino dei file di backup richiede una rete Wi-Fi.</string>
+  <string name="dialog_msg_restore_require_wlan_china">Il ripristino dei backup richiede una connessione Wi-Fi.</string>
   <string name="dialog_title_require_wlan">E\' richiesta una rete Wi-Fi</string>
+  <string name="dialog_title_require_wlan_china">Connettiti al Wi-Fi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="doing_calc_backup_data_size">Calcolo dimensione…</string>
   <string name="doing_restore_home">Ripristino Home e impostazioni…</string>
@@ -189,11 +197,10 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
   <string name="notification_channel_remind">Promemoria</string>
   <string name="notification_channel_service">Servizio</string>
   <string name="open_backup_switch">Attiva lo switch backup</string>
-  <string name="open_wifi">Attiva Wi-Fi adesso</string>
-  <string name="open_wifi_description">Collegato ad una rete Wi-Fi per ripristinare le applicazioni</string>
-  <string name="open_wifi_setting">Impostazioni Wi-Fi</string>
   <string name="other_device_main_space">Primo spazio</string>
   <string name="other_device_second_space">Secondo spazio</string>
+  <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+  <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
   <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
   <string name="process_whole_recovery">Ripristino di \"%s\"</string>
   <string name="provision_background_restore_more_data">Ripristina altri elementi in background</string>
@@ -223,7 +230,6 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
   <string name="restore_app_order_search_prior">App con priorità alta</string>
   <string name="restore_app_order_title">Imposta priorità per gli elementi ripristinati</string>
   <string name="restore_cloud_backup_to_phone">Ripristina elementi da Mi Cloud</string>
-  <string name="restore_data_summary">Questa funzionalità richiede una connessione internet.</string>
   <string name="restore_data_title">Ripristina dati</string>
   <string name="restore_detail_category_apps">Layout Home e app</string>
   <string name="restore_detail_category_settings">Impostazioni</string>
@@ -274,4 +280,5 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
   <string name="v7_preference_off">Disattivato</string>
   <string name="v7_preference_on">Attivato</string>
   <string name="wait_icon_download">Download icona applicazione</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

@@ -10,12 +10,12 @@
   <string name="abc_capital_on">Attivato</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
-  <string name="abc_menu_enter_shortcut_label">enter</string>
-  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_delete_shortcut_label">elimina</string>
+  <string name="abc_menu_enter_shortcut_label">invio</string>
+  <string name="abc_menu_function_shortcut_label">Funzione+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
   <string name="abc_menu_shift_shortcut_label">Shift+</string>
-  <string name="abc_menu_space_shortcut_label">space</string>
+  <string name="abc_menu_space_shortcut_label">Spazio</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menù+</string>
   <string name="abc_search_hint">Cerca…</string>
@@ -36,7 +36,7 @@
   <string name="account_bind_secure_email_title">Aggiungi email di ripristino</string>
   <string name="account_bind_secure_phone_title">Aggiungi numero di telefono di ripristino</string>
   <string name="account_crop_user_avatar">Ritaglia foto</string>
-  <string name="account_empty_user_name">Inserisci il nome utente del tuo account Mi</string>
+  <string name="account_empty_user_name">Inserisci il nome utente del tuo Mi Account</string>
   <string name="account_error_all_space_user_name">"\"Il nome utente non può contenere  spazi"</string>
   <string name="account_error_invalid_user_name">"Il nome utente non può contenere: &lt;, &gt;, o /"</string>
   <string name="account_error_longer_user_name">"Il nome utente non può essere più lungo di 20 caratteri"</string>
@@ -99,6 +99,7 @@
   <string name="app_self_upgrade_dlg_postive_btn">Aggiorna ora</string>
   <string name="app_self_upgrade_dlg_title">Aggiornamento disponibile</string>
   <string name="app_self_upgrade_toast_downloading_install">Inizio aggiornamento…</string>
+  <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
   <string name="apply">Applica</string>
   <string name="apply_to_above_all">Imposta su entrambi</string>
   <string name="apply_to_screenlock">Imposta su Schermata di blocco</string>
@@ -109,6 +110,7 @@
   <string name="auto_interval">Dopo ogni sblocco del dispositivo</string>
   <string name="back_icon_content_description">Indietro</string>
   <string name="bind_sign_in_title">Aggiungi Mi Account</string>
+  <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
   <string name="cancel">Annulla</string>
   <string name="cancel_international">Annulla</string>
   <string name="cancel_lockscreen">Annulla</string>
@@ -130,6 +132,7 @@
   <string name="change_time">Cambia sfondo</string>
   <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+  <string name="character_counter_pattern">%1$d di %2$d</string>
   <string name="chip_text">Testo Chip</string>
   <string name="choose_to_signin">Si</string>
   <string name="choose_to_signup">"No, ne creerò uno"</string>
@@ -212,7 +215,7 @@
   <string name="detail_no_more_data">Nessun dato</string>
   <string name="detail_no_more_recomm">Nessun nuovo elemento da mostrare.</string>
   <string name="detail_no_net">"Impossibile connettersi alla rete."</string>
-  <string name="detail_outer_menu_icon">Menu</string>
+  <string name="detail_outer_menu_icon">Premi Menu</string>
   <string name="detail_recomm_fail">"Impossibile ottenere consigli"</string>
   <string name="detail_recomm_load_tip">Abbinamento dei tuoi interessi…</string>
   <string name="detail_share_moment">Momenti</string>
@@ -264,12 +267,13 @@ Invia questo codice al supervisore."</string>
   <string name="get_account_no_permission">Consenti a Sfondi Carousel di accedere agli account su questo dispositivo prima di accedere.</string>
   <string name="get_back_pwd">Ripristina password</string>
   <string name="get_ph_ticket">Ottieni codice</string>
-  <string name="get_phone_bind_exceed_limit">"È possibile associare fino a 3 account Mi a un numero di telefono. Impossibile aggiungere nuovi account."</string>
+  <string name="get_phone_bind_exceed_limit">"È possibile associare fino a 3 Mi Account a un numero di telefono. Impossibile aggiungere nuovi account."</string>
   <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
   <string name="google_application_id"></string>
   <string name="goto_sign_up">Crea account</string>
   <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
   <string name="history_list_no_data">Nessun elemento trovato</string>
+  <string name="homepaperchanged">@string/theme_apply_success</string>
   <string name="hour_1">Ogni ora</string>
   <string name="hour_3">Ogni 3 ore</string>
   <string name="icon_content_description">Icona di dialogo</string>
@@ -337,11 +341,12 @@ Invia questo codice al supervisore."</string>
   <string name="lockscreen_magazine_summary">Seleziona categorie</string>
   <string name="lockscreen_magazine_system_title">Predefinito</string>
   <string name="lockscreen_magazine_title">Sfondi Carousel</string>
+  <string name="lockscreen_wallpaper_changed">@string/theme_apply_success</string>
   <string name="logout_account">Disconetti</string>
   <string name="look_str">Popolari</string>
   <string name="main_fragment_title_discover">Scopri</string>
   <string name="main_fragment_title_home">Consigliati</string>
-  <string name="main_fragment_title_search">Top</string>
+  <string name="main_fragment_title_search">Migliori</string>
   <string name="main_fragment_title_user">Impostazioni</string>
   <string name="manage">Gestisci</string>
   <string name="minutes_15">Ogni 15 minuti</string>
@@ -395,6 +400,8 @@ mm"</string>
   <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
   <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
   <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
+  <string name="mtrl_picker_cancel">@android:string/cancel</string>
+  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Scegli una data</string>
   <string name="mtrl_picker_date_header_unselected">Seleziona data</string>
@@ -414,7 +421,7 @@ mm"</string>
   <string name="mtrl_picker_text_input_date_hint">Data</string>
   <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
   <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
-  <string name="mtrl_picker_text_input_day_abbr">g</string>
+  <string name="mtrl_picker_text_input_day_abbr">d</string>
   <string name="mtrl_picker_text_input_month_abbr">m</string>
   <string name="mtrl_picker_text_input_year_abbr">a</string>
   <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a modalità inserimento calendario</string>
@@ -690,8 +697,8 @@ mm"</string>
   <string name="sst_shield_tag_title">Elementi bloccati</string>
   <string name="sst_show_lockscreen_entry_desc">Mostra scorciatoia sulla schermata di blocco</string>
   <string name="sst_show_lockscreen_entry_title">Scorciatoia schermata di blocco</string>
-  <string name="sst_sliding_checkbox_checked">On</string>
-  <string name="sst_sliding_checkbox_unchecked">Off</string>
+  <string name="sst_sliding_checkbox_checked">Attivata</string>
+  <string name="sst_sliding_checkbox_unchecked">Spenta</string>
   <string name="sst_sti_desc">Imposta la frequenza di aggiornamento dello sfondo</string>
   <string name="sst_sti_title">Frequenza di aggiornamento</string>
   <string name="sst_subscribe_title">Sottoscrizioni</string>
@@ -709,8 +716,9 @@ mm"</string>
   <string name="sst_wallpaper_history_title">Cronologia</string>
   <string name="sst_wifi_only_desc">Disattiva per aggiornare gli sfondi solo mediante Wi-Fi</string>
   <string name="sst_wifi_only_title">Aggiorna gli sfondi utilizzando i dati mobili</string>
-  <string name="status_wallpaper_loop_not_start">Off</string>
-  <string name="status_wallpaper_loop_start">On</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="status_wallpaper_loop_not_start">Spenta</string>
+  <string name="status_wallpaper_loop_start">Attivata</string>
   <string name="subscribe_apply_wp">Sfondo schermata di blocco applicato correttamente</string>
   <string name="subscribe_dlg_btn">Inizia</string>
   <string name="subscribe_dlg_btn_txt">Iscriviti</string>
@@ -733,7 +741,7 @@ mm"</string>
   <string name="summary_international">"Utilizzando questa funzione, concorderai con il ​​nostro &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Accordo Utente&lt;/a&gt; e &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Informativa sulla Privacy&lt;/a&gt;. Questa funzionalità necessiterà di una connessione ad Internet per funzionare normalmente.​"</string>
   <string name="sure_close_gallery">Disattivare Carosello Sfondi?</string>
   <string name="sure_close_gallery_des">"Non sarai in grado di ricevere nuove immagini sulla schermata Home e sulla schermata di blocco se si disattiva il Carosello Sfondi. Disattivarlo comunque?"</string>
-  <string name="system_default">Default</string>
+  <string name="system_default">Predefinita</string>
   <string name="tab_user_title_bar_text">Impostazioni</string>
   <string name="tb_collapse_desc">Nascondi il menu \"Condividi\"</string>
   <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Vai alla pagina principale</string>
+  <string name="abc_action_bar_home_description">Naviga nella home</string>
   <string name="abc_action_bar_up_description">Nabiga in alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -51,7 +51,7 @@
   <string name="cloud_status_full_dialog_title">Memoria Mi Cloud piena</string>
   <string name="copy">Copia</string>
   <string name="data_connection_body">L\'utilizzo della rete dati cellulare per il download di questo file aumenterà il consumo dei dati. Se superi il limite previsto dal piano dell tuo operatore potresti andare incontro a costi aggiuntivi.</string>
-  <string name="data_connection_button_text">Conferma</string>
+  <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">Avviso utilizzo dati</string>
   <string name="delete">Elimina</string>
   <string name="delete_cloud_data_at_same_time">Elimina anche dal cloud</string>
@@ -119,7 +119,7 @@
   <string name="loading_order_list">Attendi…</string>
   <string name="loading_order_list_empty">vuoto</string>
   <string name="low_battery_error">"\"Batteria rimanente inferiore al 5%. Interrompi e salva la tua registrazione per essere certo di non perderla."</string>
-  <string name="low_battery_error_confirm">Conferma</string>
+  <string name="low_battery_error_confirm">OK</string>
   <string name="low_battery_error_title">Batteria scarica</string>
   <string name="lyric_item_point_count">%1$d a %2$d</string>
   <string name="mark_point_list_title">Segna punto lista</string>
@@ -169,7 +169,7 @@
   <string name="online_recognize_order_title">Conferma ordine</string>
   <string name="online_recognize_order_total_price_key">Prezzo totale</string>
   <string name="online_recognize_order_unit_price_key">Prezzo unitario</string>
-  <string name="online_recognize_order_unit_price_value">RMB %s all\'ora</string>
+  <string name="online_recognize_order_unit_price_value">%s CNY/ora</string>
   <string name="online_recognize_order_upload">Carica</string>
   <string name="online_recognize_order_uploading">Caricamento...%s</string>
   <string name="online_recognize_other_order_upload">Audio in caricamento</string>
@@ -178,7 +178,7 @@
   <string name="online_recognize_service_unavailable">"Il servizio non è al momento disponibile. Riprova più tardi"</string>
   <string name="order_item_duration">Durata %s</string>
   <string name="order_item_number">Numero ordine.:%s</string>
-  <string name="order_item_price">￥%s</string>
+  <string name="order_item_price">%s CNY</string>
   <string name="path_soundrecorder_setting">Applicazioni sistema/Registratore</string>
   <string name="pause">Pausa</string>
   <string name="pay_error_cancel">Pagamento annullato</string>
@@ -256,7 +256,7 @@
   <string name="recognize_choose_dialog_online">Riconoscimento online</string>
   <string name="recognize_choose_dialog_online_desp">Rapido ed economico</string>
   <string name="recognize_choose_dialog_online_free_duration">I primi 60 minuti sono gratuiti</string>
-  <string name="recognize_choose_dialog_online_price">￥%s all\'ora</string>
+  <string name="recognize_choose_dialog_online_price">%s CNY/ora</string>
   <string name="recognize_choose_dialog_service_desp">SSupportato da ifly</string>
   <string name="recognize_choose_dialog_service_intruction">Descrizione Servizio</string>
   <string name="recognize_choose_dialog_title">Scegli la modalità di riconoscimento</string>
@@ -367,4 +367,5 @@
   <string name="webview_try_again">Prova di nuovo</string>
   <string name="wifi_recommended_body" formatted="false">L\'utilizzo della rete dati cellulare per il download di questo file (%s) aumenterà il consumo dei dati. Se superi il limite previsto dal piano del tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il download di questo file tocca %s.</string>
   <string name="wifi_recommended_title">Avviso traffico</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Vai alla pagina principale</string>
+  <string name="abc_action_bar_home_description">Naviga nella home</string>
   <string name="abc_action_bar_up_description">Nabiga in alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -37,6 +37,7 @@
   <string name="first_settings_share_enable_subtitle">Gli elementi che condividi su WeChat appariranno con un badge MIUI</string>
   <string name="first_settings_subtitle">Ecco le opzioni di condivisione sicura a tua disposizione:</string>
   <string name="first_settings_title">Proteggi la tua privacy</string>
+  <string name="loading_text_format" formatted="false">Rimozione di informazioni private dalle foto (%d/%d)…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">tira per aggiornare</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">aggiornamento completato</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">aggiornamento...</string>
@@ -58,11 +59,11 @@
   <string name="settings_share_enable_summary">Gli elementi che condividi su WeChat appariranno con un badge MIUI</string>
   <string name="settings_share_info">Ecco le opzioni di condivisione sicure disponibili per gli elementi condivisi da Galleria e File Manager:</string>
   <string name="settings_show_detail">Vedi dettagli</string>
-  <string name="settings_tip">Vai in Galleria > Impostazioni per visualizzare più opzioni</string>
+  <string name="settings_tip">Vai in Galleria &gt; Impostazioni per visualizzare più opzioni</string>
   <string name="settings_title">Condivisione sicura</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-  <string name="text_done">Conferma</string>
+  <string name="text_done">OK</string>
   <string name="text_security">Privacy</string>
   <string name="v7_preference_off">Disattivato</string>
   <string name="v7_preference_on">Attivato</string>

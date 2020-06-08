@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-  <string name="abc_action_bar_home_description">Vai in home</string>
+  <string name="abc_action_bar_home_description">Naviga nella home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -28,6 +27,8 @@
   <string name="abc_shareactionprovider_share_with">Condividi con</string>
   <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
   <string name="abc_toolbar_collapse_description">Riduci</string>
+  <string name="accessibility_menu_item_smallwindow_disable">"Questa app non supporta le finestre fluttuanti"</string>
+  <string name="accessibility_menu_item_smallwindow_enable">Questa app supporta le finestre fluttuanti</string>
   <string name="accessibility_menu_item_split_disable">"L'app non supporta la modalità Multi-finestra."</string>
   <string name="accessibility_menu_item_split_enable">L\'app supporta la modalità Multi-finestra.</string>
   <string name="accessibility_recent_task_enter">Aperti recentemente</string>
@@ -171,6 +172,9 @@
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Le app clonate saranno disinstallate insieme a questi.</string>
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">Il clone dell\'app verrà disinstallato insieme a questo.</string>
   <string name="confirm_uninstall_dialog_title">Il clone corrispondente verrà eliminato.</string>
+  <string name="content_description_button_add">Tocca per aggiungere alle app attuali</string>
+  <string name="content_description_button_disable">"Impossibile aggiungere altre app attuali"</string>
+  <string name="content_description_button_remove">Tocca per rimuovere dalle app attuali</string>
   <string name="content_description_for_shortcut_icon_checked">%1$s, controllati</string>
   <string name="content_description_shortcut_icon_unchecked">%1$s, non controllati</string>
   <string name="content_description_workspace_thumbnail_item">Anteprima schermata, %1$s</string>
@@ -299,6 +303,7 @@
   <string name="home_gesture_global_search">Cerca</string>
   <string name="home_gesture_no_action">Nessuno</string>
   <string name="home_gesture_notification_bar">Notifiche</string>
+  <string name="home_indicator">bottom_point</string>
   <string name="home_pull_down_action">Scorri in basso sulla Home</string>
   <string name="home_screen">Schermata Home</string>
   <string name="home_slide_up_action">Scorri in alto sulla Home</string>
@@ -387,6 +392,8 @@
   <string name="open_personal_assistant_dialog_title">Disattiva Assistente</string>
   <string name="open_personal_assistant_title">Attiva Assistente App</string>
   <string name="out_of_space">Spazio esaurito in questa schermata</string>
+  <string name="perfect_icons_switch_summary">Renderizza le animazioni su icone di terze parti</string>
+  <string name="perfect_icons_switch_title">Animazioni icone globale</string>
   <string name="permdesc_install_shortcut">Permette all\'applicazione di creare collegamenti senza richiesta.</string>
   <string name="permdesc_install_widget">Consenti ad un\'applicazione di installare widget senza l\'intervento dell\'utente.</string>
   <string name="permdesc_read_settings">"Permette all'applicazione di leggere le impostazioni e i collegamenti sulla Home"</string>
@@ -504,6 +511,7 @@
   <string name="sort_by_not_defined">Ordina automaticamente</string>
   <string name="start_activity_failed">"Avvio non riuscito, riprova"</string>
   <string name="starting_preset_app">Inizio…</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
   <string name="status_bar_recent_memory_info2"></string>
   <string name="status_downloaded">Scaricato</string>
@@ -543,8 +551,8 @@
   <string name="uninstall_xspace_dialog_title_format">Disinstalla clone di \"%s\"</string>
   <string name="unknown_artist_name">Artista sconosciuto</string>
   <string name="unnamed_folder_name">Nuova cartella</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">ATTIVATO</string>
+  <string name="v7_preference_on">DISATTIVATO</string>
   <string name="wallpaper">Sfondo</string>
   <string name="wallpaper_auto_change_title">Schermata di blocco</string>
   <string name="wallpaper_failed_message">"Impossibile applicare lo sfondo"</string>

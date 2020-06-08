@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Vai alla pagina principale</string>
+  <string name="abc_action_bar_home_description">Naviga nella home</string>
   <string name="abc_action_bar_up_description">Vai in alto</string>
   <string name="abc_action_menu_overflow_description">Piú opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -66,6 +66,7 @@
   <string name="app_disable_transparent_wallpaper">Senza sfondo trasparente</string>
   <string name="app_enable_transparent_wallpaper">Con sfondo trasparente</string>
   <string name="app_name">Temi</string>
+  <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
   <string name="apply_choosen_type_resource">Applica gli elementi selezionati</string>
   <string name="apply_default_font_tip">"Vuoi continuare a utilizzare il font attuale del sistema?"</string>
   <string name="apply_font_btn_exclude">Applica senza font</string>
@@ -94,6 +95,7 @@
   <string name="backup_theme_success_message">Backup tema eseguito correttamente</string>
   <string name="both_all_apply_failured">"Impossibile impostare sfondo"</string>
   <string name="both_all_apply_success">Sfondo applicato</string>
+  <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
   <string name="browser_local_resource">Risorse locali</string>
   <string name="can_not_apply">Impossibile installare</string>
   <string name="card_data_request_error">Eccezione richiesta dati, riprova più tardi.</string>
@@ -310,7 +312,9 @@
   <string name="exo_download_notification_channel_name">Download</string>
   <string name="exo_download_removing">Rimozione download</string>
   <string name="exo_item_list">%1$s, %2$s</string>
+  <string name="exo_track_bitrate">%1$.2f Mbps</string>
   <string name="exo_track_mono">Mono</string>
+  <string name="exo_track_resolution">%1$d × %2$d</string>
   <string name="exo_track_selection_auto">Automatico</string>
   <string name="exo_track_selection_none">Nessuno</string>
   <string name="exo_track_selection_title_audio">Audio</string>
@@ -344,10 +348,10 @@
   <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_day">g</string>
   <string name="fmt_date_numeric_month">M</string>
-  <string name="fmt_date_numeric_month_day">d-M</string>
+  <string name="fmt_date_numeric_month_day">d/M</string>
   <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">M-yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+  <string name="fmt_date_numeric_year_month">M/yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -395,6 +399,7 @@
   <string name="gallery_wallpaper_count_tw">10w+</string>
   <string name="gallery_wallpaper_theme">Sfondi indispensabili</string>
   <string name="gift_anonymous">Anonimo</string>
+  <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">Annulla</string>
   <string name="gift_operation_fail_dlg_retry">Riprova</string>
   <string name="gift_operation_waiting">Attendi…</string>
@@ -481,6 +486,7 @@ Per disattivare questa funzione, vai in Impostazioni &gt; Suoni e Vibrazione &gt
   <string name="incompatible_dialog_ok">OK</string>
   <string name="incompatible_dialog_title">Problemi di compatibilità</string>
   <string name="is_setting_wallpaper_message">Impostazione sfondo...</string>
+  <string name="item_resource_audio_divider">│</string>
   <string name="item_resource_audio_optional_alarm_ring">suono sveglia</string>
   <string name="item_resource_audio_optional_color_ring">colore</string>
   <string name="item_resource_audio_optional_notification_ring">suono notifica</string>
@@ -560,7 +566,7 @@ Tocca per accedere."</string>
   <string name="monday_short">Lun</string>
   <string name="monday_shortest">L</string>
   <string name="month_april">Aprile</string>
-  <string name="month_april_short">apr</string>
+  <string name="month_april_short">Apr</string>
   <string name="month_april_shortest">A</string>
   <string name="month_august">Agosto</string>
   <string name="month_august_short">Ago</string>
@@ -605,6 +611,8 @@ Tocca per accedere."</string>
   <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
   <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
   <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
+  <string name="mtrl_picker_cancel">@android:string/cancel</string>
+  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Scegli una data</string>
   <string name="mtrl_picker_date_header_unselected">Seleziona data</string>
@@ -669,6 +677,10 @@ Tocca per accedere."</string>
   <string name="ota_recovery_theme_notity_content">"Puoi tornare al tema che hai usato prima dell'aggiornamento"</string>
   <string name="ota_recovery_theme_notity_title">Ripristina il tuo tema</string>
   <string name="password_toggle_content_description">Attiva visibilità password</string>
+  <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+  <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="playing_ringtone">In riproduzione</string>
   <string name="pm">PM</string>
   <string name="pref_privacy_policy">Informativa sulla Privacy</string>
@@ -777,6 +789,7 @@ Tocca per accedere."</string>
   <string name="resource_detail_recommend_desiner_other_themes">Altri temi realizzati da %1$s</string>
   <string name="resource_detail_recommend_other_themes">Ad altri utenti piace anche</string>
   <string name="resource_detail_update_log_title">Aggiornamenti</string>
+  <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">%1$s dettagli</string>
   <string name="resource_download">Scarica</string>
   <string name="resource_download_notification_title_many">%1$s temi scaricati</string>
@@ -785,7 +798,7 @@ Tocca per accedere."</string>
   <string name="resource_downloaded_title">Risorse scaricate</string>
   <string name="resource_downloading">Download in corso</string>
   <string name="resource_exchange">Riscatta codice</string>
-  <string name="resource_exchange_confirm">Conferma</string>
+  <string name="resource_exchange_confirm">OK</string>
   <string name="resource_exchange_device_not_support">"Questo elemento non è supportato sul dispositivo"</string>
   <string name="resource_exchange_empty_format">Inserisci un codice.</string>
   <string name="resource_exchange_has_bought">"Hai già acquistato questo tema"</string>
@@ -842,6 +855,7 @@ Tocca per accedere."</string>
   <string name="resource_pack_price_info">%1$s Originale</string>
   <string name="resource_pack_warning">"Hai già acquistato %1$d oggetti, il prezzo attuale non è più valido per gli oggetti rimanenti, acquistali individualmente."</string>
   <string name="resource_present">Regala</string>
+  <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratis</string>
   <string name="resource_price_unit"> Mi Credit</string>
   <string name="resource_purchase_common_error">Operazione fallita. Prova di nuovo.</string>
@@ -856,6 +870,10 @@ Tocca per accedere."</string>
   <string name="resource_restore">Ripristina</string>
   <string name="resource_restore_fail">"Impossibile ripristinare"</string>
   <string name="resource_restore_succ">Ripristino completato</string>
+  <string name="resource_ring_ranking_list_divider">-</string>
+  <string name="resource_ring_ranking_list_rank_1">1</string>
+  <string name="resource_ring_ranking_list_rank_2">2</string>
+  <string name="resource_ring_ranking_list_rank_3">3</string>
   <string name="resource_ringtone_default">Suonerie</string>
   <string name="resource_ringtone_playing_error">Errore di riproduzione</string>
   <string name="resource_ringtone_volume_mute">La suoneria è silenziata</string>
@@ -903,7 +921,7 @@ Tocca per accedere."</string>
   <string name="resource_trial_end_time">(prova fino %1$s)</string>
   <string name="resource_trial_end_time_format">hh:mma d MMM</string>
   <string name="resource_trial_end_title">Prova scaduta</string>
-  <string name="resource_trial_fail_cancel">Conferma</string>
+  <string name="resource_trial_fail_cancel">OK</string>
   <string name="resource_trial_fail_go_settings">Impostazioni</string>
   <string name="resource_trial_fail_message">Assicurati che l\'orologio di sistema sia impostato sull\'ora corretta.</string>
   <string name="resource_trial_fail_title">"Impossibile impostare la sessione di prova"</string>
@@ -912,7 +930,7 @@ Tocca per accedere."</string>
   <string name="resource_trial_minutes">(prova: %1$dm)</string>
   <string name="resource_unknow_error">Errore sconosciuto.</string>
   <string name="resource_update">Aggiorna</string>
-  <string name="resource_user_know">Conferma</string>
+  <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">In attesa del download…</string>
   <string name="resource_waiting_pause">Pausa</string>
   <string name="resource_wallpaper_download">Scarica sfondo</string>
@@ -985,6 +1003,7 @@ Tocca per accedere."</string>
   <string name="solar_term_white_dews">Rugiada Bianca</string>
   <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
   <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sunday">Domenica</string>
   <string name="sunday_short">Dom</string>
@@ -1118,6 +1137,7 @@ Tocca per accedere."</string>
   <string name="theme_is_external_priority_storage">Salva su scheda SD</string>
   <string name="theme_is_external_priority_storage_summary">L\'applicazione Temi verrà riavviata per applicare le modifiche</string>
   <string name="theme_multiple_button_title_customize">Personalizza</string>
+  <string name="theme_name">%1$s</string>
   <string name="theme_no">No</string>
   <string name="theme_not_include_module_desc">"Questo tema non contiene i seguenti elementi: %s"</string>
   <string name="theme_on_the_phone_alert">"Impossibile riprodurre durante le telefonate"</string>
@@ -1273,7 +1293,7 @@ Tocca per accedere."</string>
   <string name="wallpaper_set_as_incall_show">Imposta come Video del Profilo</string>
   <string name="wallpaper_set_as_lockscreen">Imposta come Schermata di blocco</string>
   <string name="wallpaper_setting_all">Tutti gli sfondi</string>
-  <string name="wallpaper_setting_live">Live</string>
+  <string name="wallpaper_setting_live">Live HDR</string>
   <string name="wallpaper_settings">Impostazione sfondo</string>
   <string name="wallpaper_settings_loading_text">Attendi…</string>
   <string name="wallpaper_settings_no_history">Nessuna cronologia</string>

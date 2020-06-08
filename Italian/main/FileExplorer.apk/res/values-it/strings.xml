@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Vai in home</string>
+  <string name="abc_action_bar_home_description">Naviga nella home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -36,7 +36,7 @@
   <string name="app_all_purpose">欢迎您使用文件管理器。您可使用本应用以实现管理手机内文件的功能。</string>
   <string name="app_function">Gestisci i file sul tuo dispositivo</string>
   <string name="app_name">Esplora File</string>
-  <string name="app_name_bluetooth">Condivisione Bluetooth</string>
+  <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Fotocamera</string>
   <string name="app_name_downloadedrom">Pacchetti</string>
   <string name="app_name_downloads">Download</string>
@@ -60,7 +60,7 @@
   <string name="category">Categorie</string>
   <string name="category_all">TUTTI</string>
   <string name="category_apk">File Apk</string>
-  <string name="category_bluetooth">Condivisione Bluetooth</string>
+  <string name="category_bluetooth">Bluetooth</string>
   <string name="category_document">Documenti</string>
   <string name="category_download">Download</string>
   <string name="category_favorite">Preferiti</string>
@@ -89,9 +89,9 @@
   <string name="compress_fail_unknown">"Impossibile comprimere. Memoria piena o errore sconosciuto."</string>
   <string name="compress_message">Comprimi in…</string>
   <string name="compress_title">Comprimi</string>
-  <string name="confirm">Conferma</string>
+  <string name="confirm">OK</string>
   <string name="confirm_clean">Pulisci</string>
-  <string name="confirm_know">Conferma</string>
+  <string name="confirm_know">OK</string>
   <string name="connection_error">"Impossibile connettersi"</string>
   <string name="connection_lost">Disconnesso</string>
   <string name="copy">Copia</string>
@@ -134,6 +134,7 @@
   <string name="dialog_type_image">Immagine</string>
   <string name="dialog_type_text">Testo</string>
   <string name="dialog_type_video">Video</string>
+  <string name="directory_info_divider">"  |  "</string>
   <string name="disk_available">Disponibile:</string>
   <string name="disk_total">Totale:</string>
   <string name="doc_all">Tutto</string>
@@ -176,6 +177,7 @@
   <string name="favorite_photo">Foto</string>
   <string name="favorite_ringtone">Suoneria</string>
   <string name="favorite_screen_cap">Screenshot MIUI</string>
+  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_info_canread">Lettura:</string>
   <string name="file_info_canwrite">Scrittura:</string>
   <string name="file_info_ishidden">Nascosto:</string>
@@ -286,7 +288,6 @@
   <string name="no_enough_storage_title">Spazio insufficiente</string>
   <string name="no_file">Nessun file</string>
   <string name="no_wifi">Nessuna rete Wi-Fi</string>
-  <string name="no_wifi_hint">Nessuna rete Wi-Fi</string>
   <string name="not_installed_documentsui">DocumentsUI non installato</string>
   <string name="not_set">Non impostato</string>
   <string name="not_support_documentui">"DocumentUI non è supportato su questo dispositivo"</string>
@@ -405,6 +406,8 @@
   <string name="search_result_more">Altro</string>
   <string name="search_statistic_appname">fonte</string>
   <string name="search_statistic_keyword">keyin</string>
+  <string name="search_statistic_match_invalid">0</string>
+  <string name="search_statistic_match_valid">1</string>
   <string name="search_statistic_tag">tag</string>
   <string name="search_title">Cerca documenti</string>
   <string name="search_title_hint">Cerca</string>
@@ -419,6 +422,7 @@
   <string name="set_pattern">Password aggiornata</string>
   <string name="set_pattern_btn">Imposta</string>
   <string name="set_pattern_msg">Imposta di nuovo la tua password. La password per la protezione della privacy funziona anche per foto e messaggi.</string>
+  <string name="settings">@string/server_control_settings</string>
   <string name="sign_percent">%</string>
   <string name="sk">3qy6ngTb0P+etx</string>
   <string name="skip_file">Salta</string>

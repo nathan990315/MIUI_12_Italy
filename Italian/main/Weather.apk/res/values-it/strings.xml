@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Vai in home</string>
+  <string name="abc_action_bar_home_description">Naviga nella home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -110,7 +110,7 @@
   <string name="aqi_top_pollution">Inquinamento massimo</string>
   <string name="button_abandon">Ignora modifiche</string>
   <string name="button_add_city">Aggiungi città</string>
-  <string name="button_allow">Conferma</string>
+  <string name="button_allow">OK</string>
   <string name="button_confirm">Consenti</string>
   <string name="button_exit">"Esci"</string>
   <string name="button_not_allow">Annulla</string>
@@ -148,11 +148,14 @@
   <string name="daily_forecast_add_city_message">Segui il meteo in %1$s per una previsione più dettagliata.</string>
   <string name="daily_forecast_add_city_title">Segui in metro in %1$s</string>
   <string name="daily_forecast_detail_date">d/M</string>
+  <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
   <string name="daily_forecast_no_data">"Impossibile recuperare i dati
 trascina verso il basso per aggiornare o verifica le impostazioni di rete"</string>
   <string name="data_provided_by">Fornito in parte da</string>
-  <string name="dislike_alert_dialog_title">Perché non vuoi vedere questo contenuto?</string>
+  <string name="data_source_time_fromat">"dd/MM/yyyy'T'HH:mm:ssz"</string>
+  <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_city">Modifica</string>
+  <string name="empty">" "</string>
   <string name="empty_view_net_loading">Aggiornamento…</string>
   <string name="empty_view_net_unavailable">"Impossibile collegarsi alla rete"</string>
   <string name="empty_view_refresh">Prova di nuovo</string>
@@ -206,31 +209,40 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
   <string name="feedback_sunny">Sole</string>
   <string name="first_start_network_title">Avviso di connessione</string>
   <string name="global_aqi">AQI: %1$s %2$s</string>
+  <string name="global_not_enable_warning">"Impossibile utilizzare questa app. Non è stata installata da fonti ufficiali."</string>
   <string name="hour_minute_time_format">H:mm</string>
   <string name="hourly_forcast_now">Adesso</string>
+  <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
+  <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
   <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title_24_hours_desc">Previsioni per 24 ore</string>
   <string name="hourly_forecast_title_hourly_desc">Previsioni orarie</string>
   <string name="index_item_download_pause">继续下载</string>
   <string name="index_item_downloading">In download</string>
   <string name="index_item_experience_now">Installa adesso</string>
-  <string name="index_item_install_dialog"></string>
+  <string name="index_item_install_dialog">%1$s下载并安装成功,是否立即体验?</string>
   <string name="index_item_install_dialog_cancel"></string>
   <string name="index_item_install_dialog_open"></string>
   <string name="index_item_install_now">Installa adesso</string>
   <string name="index_item_installing">Installazione</string>
   <string name="index_item_installing2">Installazione</string>
   <string name="indices_desc_humidity">Umidità %1$s%%</string>
+  <string name="indices_desc_humidity_without_pic">%1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
   <string name="indices_title_feel">PERCEPITA</string>
   <string name="indices_title_pressure">PRESSIONE</string>
   <string name="information_settings_title">Informazioni meteo</string>
   <string name="install">Installa</string>
+  <string name="install_progress">%1$s%%</string>
   <string name="international_details_pressure_title">PRESSIONE</string>
+  <string name="international_details_real_feel_title">@string/indices_title_feel</string>
   <string name="international_details_title">Dettagli</string>
   <string name="international_details_uv_index_title">INDICE UV</string>
+  <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">VENTO</string>
   <string name="it_is_going_to_rain">"Sta iniziando a piovere"</string>
+  <string name="item_city_list_region_no_data">-- / --</string>
+  <string name="item_city_list_temperature_no_data">--</string>
   <string name="life_index_title">Indice meteo</string>
   <string name="locate_fail_detail_err">"Impossibile localizzare il dispositivo
 Tocca lo schermo per aggiungere manualmente o riprovare"</string>
@@ -353,6 +365,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
   <string name="share_menu_title">Condividi</string>
   <string name="share_subject">Condividi</string>
   <string name="share_weather_desc">\#MIUI Meteo#Oggi %1$s %2$s</string>
+  <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">"Impossibile salvare lo screenshot"</string>
   <string name="shortcut_short_label_24_hour_forecast">previsine a 24 ore</string>
@@ -366,7 +379,6 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
   <string name="temperature_unit_C">%1$s°C</string>
   <string name="temperature_unit_F">%1$s°F</string>
   <string name="temperature_unit_default">0</string>
-  <string name="thanku_for_feedback">Grazie per il feedback, è possibile riaprire il video meteo nella pagina delle impostazioni</string>
   <string name="title_share_link">Condividi URL</string>
   <string name="top_pollution_co">CO</string>
   <string name="top_pollution_no2">NO2</string>
@@ -419,6 +431,7 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
   <string name="weather_main_speak_tips">点击可语音播报天气</string>
   <string name="weather_permission_agree">Accetta</string>
   <string name="weather_service_channel_name">Servizi in background</string>
+  <string name="widget_cta_not_agree">Impossibile recuperare informazioni meteo, tocca per riprovare</string>
   <string name="wind_direction_no_data">Vento</string>
   <string name="wind_power_unit_default">0</string>
   <string name="wind_unit">%1$s km/h</string>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="toast_channel_searched">
+        <item quantity="other">%1$d stazioni analizzate</item>
+        <item quantity="one">%1$d stazione analizzata</item>
+    </plurals>
+    <plurals name="Nalbum_total_songs">
+        <item quantity="other">%d brani totale</item>
+        <item quantity="one">%d brano totale</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">Backup delle canzoni, rimanenti %1$d canzoni (%2$.1fMB)</item>
+        <item quantity="one">Backup delle canzoni, rimanente %1$d canzone (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Ndownload_fee_alert_message">
+        <item quantity="other">"Su richiesta del proprietario del copyright, %d canzoni selezionate non possono essere scaricate gratuitamente. Queste canzoni sono state aggiunte ai download."</item>
+        <item quantity="one">"Su richiesta del proprietario del copyright, %d canzone selezionata non può essere scaricata gratuitamente. Questa canzone è stata aggiunta ai download."</item>
+    </plurals>
+    <plurals name="Nnowplaying_songs">
+        <item quantity="other">(%d brani)</item>
+        <item quantity="one">(%d brano)</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">La riproduzione terminerà tra %d minuti</item>
+        <item quantity="one">La riproduzione terminerà tra %d minuto</item>
+    </plurals>
+    <plurals name="Nsleep_quit_warning">
+        <item quantity="other">%d minuti rimanenti</item>
+        <item quantity="one">%d minuto rimanente</item>
+    </plurals>
+    <plurals name="Nsleep_quit_warning_custom">
+        <item quantity="other">Personalizzato:%d minuti rimanenti</item>
+        <item quantity="one">Personalizzato:%d minuto rimanente</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Creato il %1$s | totale %2$d brani</item>
+        <item quantity="one">Creato il %1$s | totale %2$d brano</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">"%d canzoni non sono state salvate nel cloud. Interrompere ora?"</item>
+        <item quantity="one">"%d canzone non è stata salvata nel cloud. Interrompere ora?"</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d brani</item>
+        <item quantity="one">%d brano</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d brani simili</item>
+        <item quantity="one">%d brano simile</item>
+    </plurals>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">"%1$d brani non sono stati salvati (%2$.1fMB)"</item>
+        <item quantity="one">"%1$d brano non è stato salvato (%2$.1fMB)"</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">Backup di %1$d brani (%2$.1fMB)</item>
+        <item quantity="one">Backup di %1$d brano (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="chapter_count">
+        <item quantity="other">" (%1$d episodi)"</item>
+        <item quantity="one">" (%1$d episodio)"</item>
+    </plurals>
+    <plurals name="check_in_day_label">
+        <item quantity="other">%1$d giorni</item>
+        <item quantity="one">%1$d giorno</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d commenti</item>
+        <item quantity="one">%d commento</item>
+    </plurals>
+    <plurals name="comment_input_length_invalid">
+        <item quantity="other">Puoi inserire fino a %1$d caratteri.</item>
+        <item quantity="one">Puoi inserire fino a %1$d carattere.</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Eliminare %d elementi?</item>
+        <item quantity="one">Eliminare %d elemento?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Rimuovere %d audio?</item>
+        <item quantity="one">Rimuovere %d audio?</item>
+    </plurals>
+    <plurals name="fm_download_fm_count">
+        <item quantity="other">Scaricati %1$d episodi</item>
+        <item quantity="one">Scaricato %1$d episodio</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d ore fa</item>
+        <item quantity="one">%1$d ora fa</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%1$d minuti fa</item>
+        <item quantity="one">%1$d min fa</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d follower</item>
+        <item quantity="one">%d follower</item>
+    </plurals>
+    <plurals name="skipped_online_songs_tips">
+        <item quantity="other">%d canzoni saltate. Attivare i servizi online nelle impostazioni per ascoltarle.</item>
+        <item quantity="one">%d canzone saltata. Attivare i servizi online nelle impostazioni per ascoltarla.</item>
+    </plurals>
+    <plurals name="songs_count">
+        <item quantity="other">%d brani</item>
+        <item quantity="one">%d brano</item>
+    </plurals>
+    <plurals name="swipe_to_load_head_complete_success">
+        <item quantity="other">Ecco %1$d aggiornamenti per te:</item>
+        <item quantity="one">Ecco %1$d aggiornamento per te:</item>
+    </plurals>
+    <plurals name="total_chapter_count">
+        <item quantity="other">%1$d episodi</item>
+        <item quantity="one">%1$d episodio</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Eliminare %d elementi?</item>
+        <item quantity="one">Eliminare %d elemento?</item>
+    </plurals>
+    <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\"&gt;%d brani&lt;/font&gt; scaricati</item>
+        <item quantity="one">&lt;font color==\"red\"&gt;%d brano&lt;/font&gt; scaricato</item>
+    </plurals>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d download rimossi</item>
+        <item quantity="one">%d download rimosso</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color=\"red\"&gt;%d brani&lt;/font&gt; scaricati</item>
+        <item quantity="one">&lt;font color==\"red\"&gt;%d brano&lt;/font&gt; scaricato</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Scaricamento di %1$d brani</item>
+        <item quantity="one">Scaricamento di %1$d brano</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">"Impossibile scaricare %1$d audio"</item>
+        <item quantity="one">"Impossibile scaricare %1$d audio"</item>
+    </plurals>
+    <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d audio</item>
+        <item quantity="one">%1$d audio</item>
+    </plurals>
+    <plurals name="notification_rec_content">
+        <item quantity="other">%d registrazioni FM</item>
+        <item quantity="one">%d registrazione FM</item>
+    </plurals>
+    <plurals name="Nassociate_songs">
+        <item quantity="other">Associazione album e testi (%1$d/%2$d brani)</item>
+        <item quantity="one">Associazione album e testi (%1$d/%2$d brano)</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d brani aggiunti alla playlist</item>
+        <item quantity="one">%d brano aggiunto alla playlist</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d brani rimossi dalla playlist</item>
+        <item quantity="one">%d brano rimosso dalla playlist</item>
+    </plurals>
+    <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Eliminare %d brani da Xiaomi Cloud? Verranno eliminati anche dalle playlist locali.</item>
+        <item quantity="one">Eliminare %d brano da Xiaomi Cloud? Verrà eliminato anche dalle playlist locali.</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d brani saranno inviati</item>
+        <item quantity="one">%d brano sarà inviato</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Brani aggiunti ai Preferiti.</item>
+        <item quantity="one">Brano aggiunto ai Preferiti.</item>
+    </plurals>
+</resources>

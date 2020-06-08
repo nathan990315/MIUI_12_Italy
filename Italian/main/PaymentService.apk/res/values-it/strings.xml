@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Vai in home</string>
+  <string name="abc_action_bar_home_description">Naviga nella home</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Vai in alto</string>
@@ -101,7 +101,7 @@ Invia questo codice al supervisore."</string>
   <string name="google_application_id"></string>
   <string name="goto_sign_up">Crea account</string>
   <string name="hybrid_provider">Fornito da %1$s</string>
-  <string name="i_know">Ho capito</string>
+  <string name="i_know">OK</string>
   <string name="identity">Identificazione</string>
   <string name="inconsistent_pwd">"Le password non corrispondono"</string>
   <string name="input_email_address_notice">"Useremo questa email per verificare il tuo account"</string>
@@ -143,6 +143,7 @@ Invia questo codice al supervisore."</string>
   <string name="mibi_button_cancel">Annulla</string>
   <string name="mibi_button_confirm">Conferma</string>
   <string name="mibi_button_count_down_finish">OK(%1$s)</string>
+  <string name="mibi_button_count_down_reget">%1$s</string>
   <string name="mibi_button_custom_service_phone">OK</string>
   <string name="mibi_button_next">Avanti</string>
   <string name="mibi_button_pay">Conferma</string>
@@ -153,6 +154,7 @@ Invia questo codice al supervisore."</string>
   <string name="mibi_change_security_lock">Altri blocco schermo</string>
   <string name="mibi_check_giftcard">Mostra coupon</string>
   <string name="mibi_click_retry">%1$s, tocca per riprovare</string>
+  <string name="mibi_colon">": "</string>
   <string name="mibi_deduct_goods_name">Prodotto</string>
   <string name="mibi_deduct_open_prompt">%1$s sarà in grado di ricarica automaticamente %2$s senza verifica.Puoi disattivare questa funzionalità in %1$s</string>
   <string name="mibi_deduct_order_price">Prezzo</string>
@@ -163,7 +165,7 @@ Invia questo codice al supervisore."</string>
   <string name="mibi_deduct_success_sub">Metodo di addebito:%1$s</string>
   <string name="mibi_deduct_type">Metodi pagamento</string>
   <string name="mibi_denomination_mibi_unit">MI</string>
-  <string name="mibi_denomination_money_unit">RMB</string>
+  <string name="mibi_denomination_money_unit">CNY</string>
   <string name="mibi_detail_consume_account">ID acquisto</string>
   <string name="mibi_detail_consume_amount">Totale</string>
   <string name="mibi_detail_consume_name">Prodotto</string>
@@ -196,6 +198,7 @@ Controlla la tua data locale e riprova."</string>
   <string name="mibi_error_common_summary">Errore di sistema. Riprova più tardi.</string>
   <string name="mibi_error_deduct">"Impossibile attivare il protocollo di pagamento automatico"</string>
   <string name="mibi_error_expired_summary">Il tuo ordine è scaduto</string>
+  <string name="mibi_error_frozen_service_num">400-100-3399</string>
   <string name="mibi_error_frozen_summary">Il tuo account è stato congelato, si prega di contattar eil nostro centro di assistenza clienti.</string>
   <string name="mibi_error_has_bought_summary">Hai già acquistato questo prodotto.</string>
   <string name="mibi_error_illegal_order_summary">Errore ordine. Riprova più tardi</string>
@@ -382,7 +385,7 @@ Verificheremo nuovamente in 2 giorni lavorativi.
 Centro servizio clienti:400-100-5678"</string>
   <string name="mibi_progress_warning_waiting">"Il pagamento non ha ancora raggiunto il tuo account."</string>
   <string name="mibi_prompt_info_button_hint">Attenzione (%d)</string>
-  <string name="mibi_prompt_info_button_text">Conferma</string>
+  <string name="mibi_prompt_info_button_text">OK</string>
   <string name="mibi_prompt_info_for_first_use">I Mi Credit non possono essere utilizzati per acquistare prodotti hardware su Mi.com.</string>
   <string name="mibi_prompt_info_title">Suggerimenti</string>
   <string name="mibi_push_register_fail">Registrazione push non riuscita.</string>
@@ -447,7 +450,7 @@ Centro servizio clienti:400-100-5678"</string>
   <string name="no_account">Accesso non eseguito</string>
   <string name="no_network">"Impossibile collegarsi alla rete"</string>
   <string name="no_phone">Nessun numero di telefono</string>
-  <string name="ok">Conferma</string>
+  <string name="ok">OK</string>
   <string name="open_settings">Vai alle impostazioni</string>
   <string name="passport_access_denied">Accesso non riuscito</string>
   <string name="passport_account_label">Account</string>
@@ -576,6 +579,7 @@ Centro servizio clienti:400-100-5678"</string>
   <string name="sns_access_token_expired_warning">Sessione scaduta. Effettua nuovamente l\'accesso per ricollegare questo account.</string>
   <string name="sns_bind_limit">Troppi tentativi. Prova ad accedere in altri modi.</string>
   <string name="sns_sign_in">Altri modo per accedere</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>
   <string name="ticket_hint">Codice di verifica</string>
   <string name="ticket_invalid">Il codice inserito non è corretto</string>

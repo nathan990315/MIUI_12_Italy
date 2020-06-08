@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Vai in home</string>
+  <string name="abc_action_bar_home_description">Naviga nella home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -55,7 +55,7 @@
   <string name="adding_recipients">Destinatari in aggiunta…</string>
   <string name="afternoon">pomeriggio</string>
   <string name="alert_dlg_cancel_button">Annulla</string>
-  <string name="alert_dlg_ok_button">Conferma</string>
+  <string name="alert_dlg_ok_button">OK</string>
   <string name="allow_network_hint">Attiva \"Aggiorna informazioni automaticamente\" o verifica la connessione di rete</string>
   <string name="already_updated">Aggiornato</string>
   <string name="am">AM</string>
@@ -214,7 +214,7 @@
   <string name="com.crashlytics.android.build_id">779fcd77-aeed-479b-aedf-f3c6a828fc96</string>
   <string name="complain_message_title">Segnalazione</string>
   <string name="compressing">Immagine troppo grande. Compressione in corso…</string>
-  <string name="confirm">Conferma</string>
+  <string name="confirm">OK</string>
   <string name="confirm_add_blacklist_dialog_dspt">Aggiungere numero alla blacklist?</string>
   <string name="confirm_delete_SIM_message">Questo messaggio sulla SIM verrà eliminato.</string>
   <string name="confirm_delete_all_SIM_messages">Tutti i messaggi sulla SIM verranno eliminati.</string>
@@ -291,7 +291,7 @@
   <string name="dialog_message_mx">Mi Message consente di inviare messaggi ad altri dispositivi MIUI senza incorrere in addebiti. Per attivare Mi Message sarà necessario inviare un messaggio SMS. Il tuo operatore ti addebiterà il costo di questo messaggio. Dovrai inoltre accettare i nostri \"%1$s\" e \"%2$s\" prima di utilizzare Mi Message.</string>
   <string name="dialog_message_networking">Messaging needs to connect to the internet and access your location in order to provide Smart Messaging, Sender ID recognition, and other services. Agree?</string>
   <string name="dialog_message_rcs">China Mobile Messaging allows you to send messages to other China Mobile users without incurring charges. You must agree to \"%1$s\" before using China Mobile Messaging.</string>
-  <string name="dialog_sim_locked_confirm">Conferma</string>
+  <string name="dialog_sim_locked_confirm">OK</string>
   <string name="dialog_sim_locked_message">"La tua SIM non è del tutto funzionante con questo telefono perché questo non è in linea con i termini e condizioni del tuo abbonamento. Per qualsaisi domanda o per maggiori informazioni sull'argomento, ti preghiamo di contattare i centri assistenza Xiaomi o il negozio dove hai acquistato il prodotto."</string>
   <string name="dialog_smart_message_privacy_tips">I servizi di messaggistica smart sono forniti in parte da Dianhuabang. Prima di utilizzare Messaggi Smart, è necessario accettare \"%1$s\". Messaggi Smart deve connettersi a internet e accedere alla tua posizione per funzionare correttamente. Sei d\'accordo?</string>
   <string name="dialog_smart_message_privacy_tips_title">Informativa sulla privacy di Dianhuabang</string>
@@ -363,7 +363,7 @@
   <string name="fail_to_view_attachment">"allegato non disponibile"</string>
   <string name="failed_to_add_media">"Impossibile aggiungere %1$s al messaggio."</string>
   <string name="failed_to_resize_image">Immagine non ridimensionata.</string>
-  <string name="failed_to_send">Invio non riuscito</string>
+  <string name="failed_to_send">"Invio non riuscito"</string>
   <string name="fake_cell_alert_detect_error">"Questo non è stato inviato da una cella base fasulla"</string>
   <string name="fake_cell_alert_hint">Sembra che questo messaggio sia stato inviato da un numero di telefono che diverso è diverso da quello visualizzato. Fai attenzione agli SMS che contengono richieste finanziarie.</string>
   <string name="fake_cell_checking_hint">Controllo di sicurezza…</string>
@@ -382,6 +382,7 @@
   <string name="file_title">Nome:</string>
   <string name="file_width_height">Dimensione:</string>
   <string name="firebase_database_url">https://global-sms-ab3bc.firebaseio.com</string>
+  <string name="flatshow_page_no">%1$d</string>
   <string name="fmt_chinese_date">N月e</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">dd</string>
@@ -592,7 +593,7 @@ Questo messaggio potrebbe non essere apprezzato."</string>
   <string name="monday_short">lun</string>
   <string name="monday_shortest">Lun</string>
   <string name="month_april">aprile</string>
-  <string name="month_april_short">apr</string>
+  <string name="month_april_short">Apr</string>
   <string name="month_april_shortest">Apr</string>
   <string name="month_august">agosto</string>
   <string name="month_august_short">ago</string>
@@ -766,6 +767,9 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
   <string name="play">Riproduci</string>
   <string name="playing_failed">"Impossibile riprodurre"</string>
   <string name="pm">PM</string>
+  <string name="prefDefault_vibrateWhen">mai</string>
+  <string name="prefDefault_vibrate_false">mai</string>
+  <string name="prefDefault_vibrate_true">sempre</string>
   <string name="pref_advanced_settings_title">Impostazioni avanzate</string>
   <string name="pref_allow_network_access_summary">Attiva per ricevere le ultime informazioni sulla consegna ed altri servizi.</string>
   <string name="pref_cell_broadcast">Trasmissioni cella</string>
@@ -872,7 +876,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
   <string name="prompt_user_agreement">Accedendo, accetti l\'Accordo Utente RCS e l\'Informativa sulla Privacy.</string>
   <string name="prvate_contact">Contatto Privato</string>
   <string name="quick_reply">Rispondi</string>
-  <string name="rate_limit_surpassed">Conferma</string>
+  <string name="rate_limit_surpassed">OK</string>
   <string name="rcs_auto_resend_as_sms_remind_change">Impostazioni conversione</string>
   <string name="rcs_auto_resend_as_sms_remind_desp">"I messaggi fino a 900B possono essere convertiti ed inviati tramite SMS la rete è scarsa. Tocca \"Impostazioni conversione\" se non vuoi convertire il messaggio in SMS."</string>
   <string name="rcs_auto_resend_as_sms_remind_title">Converti in SMS</string>
@@ -1129,6 +1133,7 @@ Dai un'occhiata alle app consigliate!"</string>
   <string name="send_signature_confirm_dialog_title">Invio conferma</string>
   <string name="send_sms">Invia messaggio</string>
   <string name="send_to">A:</string>
+  <string name="send_to_index_contact">%1$s/%2$s</string>
   <string name="sent_at_time">Inviato alle: %1s</string>
   <string name="sent_label">"Inviato: "</string>
   <string name="service_message_not_found">Messaggio scaduto o non disponibile.</string>
@@ -1385,7 +1390,7 @@ Dai un'occhiata alle app consigliate!"</string>
   <string name="wild_msg_processing">Elaborazione…</string>
   <string name="wild_msg_title">Attiva sincronizzazione cloud</string>
   <string name="yellowpage_recommend_msg">"Prova le funzionalità SMS di MIUI"</string>
-  <string name="yes">Conferma</string>
+  <string name="yes">OK</string>
   <string name="yesterday">Ieri</string>
   <string name="you_have_new_message">Ci sono nuovi messaggi</string>
   <string name="yulore_term">Informativa sulla Privacy</string>

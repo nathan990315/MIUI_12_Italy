@@ -111,7 +111,9 @@
   <string name="opp_notification_group">Condivisione Bluetooth</string>
   <string name="outbound_history_title">Trasferimenti in uscita</string>
   <string name="outbound_noti_title">Condivisione Bluetooth: File Inviati</string>
+  <string name="pairing_ui_package">com.android.settings</string>
   <string name="pbap_acceptance_timeout_message">Tempo scaduto, non hai accettato la connessione con %1$s</string>
+  <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
   <string name="pbap_authentication_timeout_message">Tempo scaduto per inserire il codice sessione con %1$s</string>
   <string name="pbap_notification_group">Condivisione contatto Bluetooth</string>
   <string name="pbap_session_key_dialog_header">Codice sessione Bluetooth richiesto</string>
@@ -145,7 +147,7 @@
   <string name="status_unknown_error">Errore sconosciuto.</string>
   <string name="switch_audio_device_bt">Bluetooth</string>
   <string name="switch_audio_device_phone">Questo dispositivo</string>
-  <string name="switch_audio_notification_content">Dispositivo di uscita audio attuale:</string>
+  <string name="switch_audio_notification_content">"Dispositivo di uscita audio attuale:"</string>
   <string name="switch_audio_notification_title">Connettività dispositivo</string>
   <string name="transfer_clear_dlg_msg">Tutti gli elementi verranno cancellati dall\'elenco.</string>
   <string name="transfer_clear_dlg_title">Cancella</string>

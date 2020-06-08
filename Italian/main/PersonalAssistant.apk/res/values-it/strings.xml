@@ -177,10 +177,14 @@
   <string name="alipay_msp_bl_bt_shutdown">蓝牙未开启，无法使用智能免密功能</string>
   <string name="alipay_msp_bl_timeout">蓝牙连接异常，无法使用智能设备免密支付</string>
   <string name="alipay_msp_bl_verify_error">智能设备校验失败，请使用支付密码进行支付</string>
+  <string name="alipay_msp_image_loader_view_tag">alipay_msp_image_loader_view_tag</string>
+  <string name="alipay_msp_tag_view_holder">alipay_msp_tag_view_holder</string>
+  <string name="alipay_msp_view_wrapper">alipay_msp_view_wrapper</string>
   <string name="alipay_net_error">不能连接到服务器，是否重试？</string>
   <string name="alipay_newUserRegister">新用户注册</string>
   <string name="alipay_password">密码</string>
   <string name="alipay_password_login">密码登录</string>
+  <string name="alipay_phoneNumber">+86</string>
   <string name="alipay_pre_router_alipay_account">用已登录支付宝账号</string>
   <string name="alipay_pre_router_cancel">取消</string>
   <string name="alipay_pre_router_has_auth_account">用已授权账号</string>
@@ -250,7 +254,7 @@
   <string name="alipay_verify_identity_fail">验证失败，请重新操作</string>
   <string name="alipay_wait">再等一会</string>
   <string name="alipay_want_to_register">我要注册</string>
-  <string name="all_function_title">All shortcuts</string>
+  <string name="all_function_title">Tutti i collegamenti</string>
   <string name="alphabet_and_number">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
   <string name="already">Completato:</string>
   <string name="already_connect">已连接</string>
@@ -260,13 +264,15 @@
   <string name="app_debug_settings">Impostazioni App di Debug</string>
   <string name="app_debug_settings_copied_to_clipboard">Copiato negli appunti</string>
   <string name="app_debug_settings_host_title">Cambia ambiente host</string>
-  <string name="app_debug_settings_id_title">Device ID Query</string>
+  <string name="app_debug_settings_id_title">Ricerca ID dispositivo</string>
   <string name="app_debug_settings_oaid">OAID</string>
   <string name="app_debug_settings_oaid_summary">(Clicca per copiare OAID)</string>
   <string name="app_debug_settings_online_title">Online</string>
   <string name="app_debug_settings_preview_title">Anteprima</string>
+  <string name="app_debug_settings_staging2_title">Staging2</string>
+  <string name="app_debug_settings_staging3_title">Staging3</string>
   <string name="app_debug_settings_staging_title">Staging</string>
-  <string name="app_debug_settings_toast_switch_error">Switch env error</string>
+  <string name="app_debug_settings_toast_switch_error">Errore interruttore env</string>
   <string name="app_debug_settings_vaid">VAID</string>
   <string name="app_debug_settings_vaid_summary">(Clicca per copiare VAID)</string>
   <string name="app_label">Assistente App</string>
@@ -432,7 +438,7 @@
   <string name="choose_upload">Seleziona file da inviare</string>
   <string name="city_name_spell">Imposta città</string>
   <string name="cleanup_garbage">Pulitore</string>
-  <string name="cleanup_memory">Ripulisci cache</string>
+  <string name="cleanup_memory">Svuota cache</string>
   <string name="cleanup_power">Pulizia profonda</string>
   <string name="clear">Cancella</string>
   <string name="clock_alarm">Sveglia</string>
@@ -531,7 +537,7 @@
   <string name="didi_close">Chiudi</string>
   <string name="didi_company">Vai a lavorare</string>
   <string name="didi_current_local">Posizione attuale</string>
-  <string name="didi_home">Premi Home</string>
+  <string name="didi_home">Home</string>
   <string name="didi_input">Seleziona</string>
   <string name="didi_local">Punto di inizio</string>
   <string name="didi_not_installed">Installa DiDi per utilizzare questa scheda</string>
@@ -609,6 +615,7 @@
   <string name="express_company_phone_prefix">"Contatto: "</string>
   <string name="express_company_pricing_details">Dettagli prezzo</string>
   <string name="express_complete">Accettato</string>
+  <string name="express_complete_flag">3</string>
   <string name="express_contact_address">Immetti indirizzo</string>
   <string name="express_contact_address_finding">Localizzazione…</string>
   <string name="express_contact_label">Informazioni servizio di ritiro</string>
@@ -620,6 +627,7 @@
   <string name="express_delete_order">Elimina</string>
   <string name="express_delete_tel">删除电话</string>
   <string name="express_delivery">In consegna</string>
+  <string name="express_delivery_flag">5</string>
   <string name="express_dest_city_label">Destinazione</string>
   <string name="express_detail_order_number_prefix">Numero: %s</string>
   <string name="express_detailed_address">Indirizzo</string>
@@ -629,6 +637,7 @@
   <string name="express_i_known">Fatto</string>
   <string name="express_icon_tip">Ottieni info sulla consegna veloce utilizzando il tuo numero di telefono e le info dell\'ordine.</string>
   <string name="express_icon_tip_link">Sicurezza e privacy</string>
+  <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Servizio corriere</string>
   <string name="express_inquiry">Tracciamento</string>
   <string name="express_inquiry_all_logistics">Tutti</string>
@@ -681,6 +690,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="express_order_failed">Non riuscito</string>
   <string name="express_order_ongoing">In elaborazione…</string>
   <string name="express_order_result">Risultato</string>
+  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Accettato</string>
   <string name="express_order_state_allograph">Firmato</string>
   <string name="express_order_state_cancelled">Annullato</string>
@@ -790,7 +800,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="express_state_transport">In viaggio</string>
   <string name="express_state_unknown">Dati non disponibili</string>
   <string name="express_submit_order">Invia</string>
-  <string name="express_support_app">App supportate</string>
+  <string name="express_support_app">App compatibili</string>
   <string name="express_tail_number">运单尾号：</string>
   <string name="express_taobao">Taobao</string>
   <string name="express_tmall">Tmall</string>
@@ -817,7 +827,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="fav_success">Aggiunti ai preferiti con successo</string>
   <string name="fav_support_introduce">Gestisci preferiti per app individualmente</string>
   <string name="fav_support_label">Preferiti app</string>
-  <string name="fav_support_more">Tutte le app supportate</string>
+  <string name="fav_support_more">Tutte le app compatibili</string>
   <string name="fav_support_not_title">"I preferiti non appariranno in lista"</string>
   <string name="fav_support_title">I preferiti appariranno in lista</string>
   <string name="fav_tab_all">Tutto</string>
@@ -987,6 +997,8 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="kakalib_bar_qr_code">条形码·二维码</string>
   <string name="kakalib_ok">确定</string>
   <string name="keyboard_alipay">支付宝安全键盘</string>
+  <string name="keyboard_more_abc">\#+=</string>
+  <string name="keyboard_more_num">123</string>
   <string name="keyboard_ok">完成</string>
   <string name="keyboard_space">空格</string>
   <string name="keyword_recommend">推荐您</string>
@@ -1154,6 +1166,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="mini_safe_no">安全码</string>
   <string name="mini_safe_no_hint">卡背面末三位数字</string>
   <string name="mini_start_download">开始下载...</string>
+  <string name="mini_str_null">xx</string>
   <string name="mini_temp_support_xiaomi">暂时仅支持小米手环</string>
   <string name="mini_to_open">去开通</string>
   <string name="mini_to_open_error">指纹采集软件启动异常，请检查</string>
@@ -1216,6 +1229,14 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="miuishare_title_share">Condivisione</string>
   <string name="miuishare_wechat_timeline_title">Sequenza temporale Wechat</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
   <string name="month_day_format">dd/MM</string>
   <string name="month_day_hour_minute_format_en">dd/MM HH:mm</string>
   <string name="month_format_en">dd/MM</string>
@@ -1227,6 +1248,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="monthly_report_entry_text">Visualizza rapporto mensile</string>
   <string name="monthly_report_lable">Rapporto mensile</string>
   <string name="more_express_numbers">Più numeri di corriere</string>
+  <string name="mru_setting_brief">Applicazioni rapide e collegamenti che appaiono dopo lo scorrimento verso il basso nell\'Assistente App</string>
   <string name="msp_btn_ok">确定</string>
   <string name="msp_memo_app_cancel">人气大爆发，一会再试试。</string>
   <string name="msp_memo_repeat_pay">同一订单禁止同时多次支付。</string>
@@ -1234,7 +1256,11 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="msp_memo_user_cancel">操作已经取消。</string>
   <string name="msp_mini_card_type_text">卡类型</string>
   <string name="msp_mini_choose_identitify">选择证件类别</string>
+  <string name="msp_mini_layout">mini_layout</string>
+  <string name="msp_mini_layout_parent">mini_layout_parent</string>
+  <string name="msp_mini_linblocksconpent">mini_linBlocksConpent</string>
   <string name="msp_mini_read_protocal_title">选择阅读协议</string>
+  <string name="msp_mini_root">mini_root</string>
   <string name="msp_mini_safty_code_info">安全码是打印在信用卡背面签名区的一组数字，一般是后3位数字</string>
   <string name="msp_mini_safty_code_title">安全码说明</string>
   <string name="msp_phone_num_info">"银行预留的手机号是办理该银行卡时所填写的手机号码。
@@ -1300,7 +1326,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="msp_symbol_b">b</string>
   <string name="msp_symbol_c">c</string>
   <string name="msp_symbol_comma">,</string>
-  <string name="msp_symbol_d">g</string>
+  <string name="msp_symbol_d">d</string>
   <string name="msp_symbol_dot">.</string>
   <string name="msp_symbol_e">e</string>
   <string name="msp_symbol_f">f</string>
@@ -1382,6 +1408,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="paycode_sdk_parent">Collegamento pagamento (nessuna app richiesta)</string>
   <string name="paycode_sdk_parent_title">Collegamento pagamento</string>
   <string name="payment">I miei pagamenti</string>
+  <string name="payment_amount_empty">0.00</string>
   <string name="payment_app_name">I miei pagamenti</string>
   <string name="payment_card_title">I miei pagamenti</string>
   <string name="payment_clear_records_dialog_message">Eliminare tutte le registrazioni dei pagamenti?</string>
@@ -1442,11 +1469,13 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="payment_user_notice_bar_text">A proposito di \"I miei pagamenti\"</string>
   <string name="peccancy_acquire">Violazione del traffico</string>
   <string name="personalAssistant_mainpage">Pagina principale</string>
+  <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
   <string name="phone_check">Ottimizzazioni</string>
   <string name="pie_chart_label_atm">Ritiri ATM:</string>
   <string name="pie_chart_label_catering">Cibo:</string>
   <string name="pie_chart_label_education">Educazione:</string>
   <string name="pie_chart_label_entertainment">Intrattenimento:</string>
+  <string name="pie_chart_label_format">%1$s %2$s%%</string>
   <string name="pie_chart_label_go_dutch">Paga alla Romana:</string>
   <string name="pie_chart_label_life">Vita:</string>
   <string name="pie_chart_label_medical">Stato di salute:</string>
@@ -1455,6 +1484,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="pie_chart_label_remain">Rimanente:</string>
   <string name="pie_chart_label_remittance">Trasferito:</string>
   <string name="pie_chart_label_shopping">Acquisti:</string>
+  <string name="pie_chart_label_special">%1$s &lt;0.01%%</string>
   <string name="pie_chart_label_spending">Pagamenti:</string>
   <string name="pie_chart_label_telephone_charge">Comunicazioni:</string>
   <string name="pie_chart_label_tenement">Affitto:</string>
@@ -1467,9 +1497,6 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="preload_empty">Nessun elemento qui. Tira in giù per aggiornare.</string>
   <string name="qq_new">Nuovo stato</string>
   <string name="qq_qzone">Qzone</string>
-  <string name="quick_app_setting_brief">Scorri verso il basso nell\'Assistente App per visualizzare le app rapide usate di recente</string>
-  <string name="quick_app_setting_brief_detail">"Mostra tutte le app rapide che hai usato di recente"</string>
-  <string name="quick_app_title">App rapide recenti</string>
   <string name="quickstart_accessibility_description">"Il servizio Assistente App serve per fornire un supporto alle applicazioni di terzi, disattivandolo il servizio non funzionerà più correttamente."</string>
   <string name="quickstart_accessibility_service">Assistente App</string>
   <string name="recharge_flow">Acquista dati mobili</string>
@@ -1634,7 +1661,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="shopping_setting_taobao">Taobao</string>
   <string name="shopping_setting_tmall">Tmall</string>
   <string name="shopping_source">Da %s</string>
-  <string name="shopping_support">App supportate</string>
+  <string name="shopping_support">App compatibili</string>
   <string name="shortcut">Avvio rapido</string>
   <string name="show_more">Mostra altro</string>
   <string name="smart_assistant_enter_tip">Assistente App</string>
@@ -1664,6 +1691,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="sport_headline">"Attività di oggi"</string>
   <string name="sport_open">Mostra scheda Mi Fit</string>
   <string name="start_download">开始下载...</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="step_cal_unit">Cal.</string>
   <string name="step_km">km</string>
   <string name="step_setting_tip">Origine informazioni passi</string>
@@ -1684,6 +1712,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="steps_vip_des">Conta i passi senza installare applicazioni di terze parti.</string>
   <string name="stock_card_add">Aggiungi società</string>
   <string name="stock_card_title">Riserve</string>
+  <string name="stock_change_rate_format">%.2f%%</string>
   <string name="stock_color_schema">Schema colore</string>
   <string name="stock_list_empty_text">"Non stai seguendo alcuna compagnia."</string>
   <string name="stock_search_empty">"Impossibile trovare risultati"</string>
@@ -1698,6 +1727,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="system_favorite_dialog_negative">Annulla</string>
   <string name="system_favorite_dialog_positive">Consenti</string>
   <string name="system_favorite_dialog_title_confirm">Preferiti</string>
+  <string name="tag_view_nav">tag_view_nav</string>
   <string name="take_off">Partenza</string>
   <string name="taked_off">Partito</string>
   <string name="taobao_auth_login">淘宝用户快速登录</string>

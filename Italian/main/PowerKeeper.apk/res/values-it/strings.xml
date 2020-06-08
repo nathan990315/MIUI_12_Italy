@@ -60,7 +60,7 @@
   <string name="config_suggest_description">"Identifica app e attività per mantenere in corso processi importanti.
 Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
   <string name="config_suggest_suffix_title">Risparmio energetico (consigliato)</string>
-  <string name="confirm">Conferma</string>
+  <string name="confirm">OK</string>
   <string name="copy">Copia</string>
   <string name="current_cloud_addr_is">L\'indirizzo del server di controllo cloud è:</string>
   <string name="empty_title_apps_container_list">Nessuna app</string>
@@ -82,7 +82,7 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
   <string name="hide_mode_desc">Quando un\'app viene eseguita in background, le sue attività saranno monitorate per ridurre l\'utilizzo della batteria. Questa funzione otterrà e utilizzerà i dati utente secondo %s</string>
   <string name="hide_system_app">Nascondi app di sistema</string>
   <string name="high_temp_state">Surriscaldato</string>
-  <string name="high_temp_state_message">Il tuo dispositivo si sta surriscaldando. Dati mobili, hotspot WLAN, GPS e Fotocamera saranno limitati.</string>
+  <string name="high_temp_state_message">Il tuo dispositivo si sta surriscaldando. Dati mobili, hotspot Wi-Fi, GPS e Fotocamera saranno limitati.</string>
   <string name="hints_loading_text">Attendi…</string>
   <string name="important_warning">Attenzione</string>
   <string name="lasttime_applist_cloud">App aggiornate:</string>
@@ -118,8 +118,8 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
   <string name="power_checker_partial_wakelock_title">%1$s impedisce alla MIUI di entrare in modalità sospensione</string>
   <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s si avvia frequentemente</string>
   <string name="power_checker_wakeup_alarm_title">%1$s si avvia frequentemente</string>
-  <string name="power_checker_wifi_scan_multi_apps_title">%1$s cerca frequentemente reti WLAN</string>
-  <string name="power_checker_wifi_scan_title">%1$s cerca frequentemente reti WLAN</string>
+  <string name="power_checker_wifi_scan_multi_apps_title">%1$s cerca frequentemente reti Wi-Fi</string>
+  <string name="power_checker_wifi_scan_title">%1$s cerca frequentemente reti Wi-Fi</string>
   <string name="power_config_apps">Risparmio Energetico app</string>
   <string name="power_config_event_delete">Elimina</string>
   <string name="power_config_select_apps_title">Applicazioni</string>
@@ -138,8 +138,8 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
   <string name="search_menu_title">Ricerca</string>
   <string name="search_result_text">"Non è stato possibile trovare alcuna app"</string>
   <string name="show_system_app">Mostra app di sistema</string>
-  <string name="sleep_config_enhance_description">"Ogni volta che MIUI rileva che stai dormendo, chiuderà le app in background, limiterà NFC, Bluetooth, GPS, dati mobili e utilizzo WLAN e non attiverà lo schermo per le notifiche."</string>
-  <string name="sleep_config_enhance_description_non_nfc">"Ogni volta che MIUI rileva che stai dormendo, chiuderà le app in background, limiterà Bluetooth, GPS, dati mobili e utilizzo WLAN e non attiverà lo schermo per le notifiche."</string>
+  <string name="sleep_config_enhance_description">"Ogni volta che MIUI rileva che stai dormendo, chiuderà le app in background, limiterà NFC, Bluetooth, GPS, dati mobili e utilizzo Wi-Fi e non attiverà lo schermo per le notifiche."</string>
+  <string name="sleep_config_enhance_description_non_nfc">"Ogni volta che MIUI rileva che stai dormendo, chiuderà le app in background, limiterà Bluetooth, GPS, dati mobili e utilizzo Wi-Fi e non attiverà lo schermo per le notifiche."</string>
   <string name="sleep_config_enhance_title">Modalita Risparmio Notturno</string>
   <string name="sleepmode_disclaimer_agree">Accetto</string>
   <string name="sleepmode_disclaimer_cancel">Annulla</string>
@@ -149,7 +149,7 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="sucess">Fatto</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-  <string name="update_profile_failture_not_connect_wifi">"Impossibile aggiornare. Connettiti alla WLAN e riprova."</string>
+  <string name="update_profile_failture_not_connect_wifi">"Impossibile aggiornare. Connettiti al Wi-Fi e riprova."</string>
   <string name="update_profile_sucess">Aggiornato dal server con successo</string>
   <string name="v7_preference_off">Disattivato</string>
   <string name="v7_preference_on">Attivato</string>

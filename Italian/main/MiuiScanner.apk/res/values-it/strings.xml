@@ -12,12 +12,12 @@
   <string name="abc_capital_on">Attivato</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
-  <string name="abc_menu_enter_shortcut_label">enter</string>
-  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_delete_shortcut_label">elimina</string>
+  <string name="abc_menu_enter_shortcut_label">invio</string>
+  <string name="abc_menu_function_shortcut_label">Funzione+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
   <string name="abc_menu_shift_shortcut_label">Shift+</string>
-  <string name="abc_menu_space_shortcut_label">space</string>
+  <string name="abc_menu_space_shortcut_label">Spazio</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menù+</string>
   <string name="abc_search_hint">Cerca…</string>
@@ -93,7 +93,7 @@
   <string name="common_retry">Prova di nuovo</string>
   <string name="common_save">Salva</string>
   <string name="company">Compagnia:</string>
-  <string name="confirm">Conferma</string>
+  <string name="confirm">OK</string>
   <string name="connect_wifi">Connetti a questa rete</string>
   <string name="contact_details">Contatto codice QR:</string>
   <string name="continue_access_web_url">Vai al sito web</string>
@@ -112,6 +112,7 @@
   <string name="crop_done_description">Eseguito</string>
   <string name="crop_title_study">Ritaglia la foto</string>
   <string name="crop_title_translation">Seleziona il testo da tradurre</string>
+  <string name="default_language">@string/language_value_chinese_cn</string>
   <string name="delete">Elimina</string>
   <string name="document_color_picture">Colore</string>
   <string name="document_color_picture_tip">Conversione colore…</string>
@@ -147,9 +148,9 @@
   <string name="error_permissions">"Scanner non ha i permessi richiesti per funzionare normalmente. Per continuare controlla i permessi sulle Impostazioni."</string>
   <string name="error_server_error">Errore de server</string>
   <string name="expand_button_title">Avanzate</string>
-  <string name="experience_new_feature_tips">"Accedi al tuo account Mi per richiedere l\’accesso alla versione Beta. Sarete in grado di utilizzare la versione Beta dopo che  avremo esaminato la vostra richiesta.  La versione beta potrebbe contenere bug."</string>
+  <string name="experience_new_feature_tips">"Accedi al tuo Mi Account per richiedere l\’accesso alla versione Beta. Sarete in grado di utilizzare la versione Beta dopo che avremo esaminato la vostra richiesta. La versione beta potrebbe contenere bug."</string>
   <string name="experience_new_features">Versione beta</string>
-  <string name="experiential_version_of_the_prompt_content">Accedi al tuo account Mi per accedere alla beta di Scanner . Accedi ora?</string>
+  <string name="experiential_version_of_the_prompt_content">Accedi al tuo Mi Account per accedere alla beta di Scanner. Accedi ora?</string>
   <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
   <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
   <string name="failed_to_get_xiaomi_account">"Impossibile accedere"</string>
@@ -160,7 +161,7 @@
   <string name="feedback_description_save_photo">"Impossibile salvare foto o video"</string>
   <string name="feedback_phone">Info contatti (opzionale)</string>
   <string name="feedback_title">Feedback</string>
-  <string name="flight_mode_connecting_to_wifi">Attiva manualmente la funzione WLAN quando è attiva la modalità Aereo </string>
+  <string name="flight_mode_connecting_to_wifi">Attiva manualmente la funzione Wi-Fi quando è attiva la modalità Aereo</string>
   <string name="food_identification_fail_tips">Scansiona frutta, verdura e altri alimenti. Questa funzione funziona anche con le immagini.</string>
   <string name="food_identification_tip_msg">Riconosco cibo...</string>
   <string name="food_make_complaints_hint">Inserisci feedback qui</string>
@@ -172,6 +173,7 @@
   <string name="food_module_thumbs_up">Mi piace</string>
   <string name="food_module_tip">Posizionare il cibo all\'interno del frame</string>
   <string name="food_module_title_food">Calorie</string>
+  <string name="global_default_language">@string/language_value_english</string>
   <string name="got_it">Fatto</string>
   <string name="gps">Naviga</string>
   <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
@@ -366,7 +368,7 @@
   <string name="translation_type_chat">Chat</string>
   <string name="translation_type_sentence">Frase</string>
   <string name="translation_type_word">Parola</string>
-  <string name="uninstall_prompt">Se si verificano problemi durante l\'installazione, vai in Impostazioni > Applicazioni > Gestisci app > Scanner, tocca \"Disinstalla\" e prova a installare nuovamente l\'app.</string>
+  <string name="uninstall_prompt">Se si verificano problemi durante l\'installazione, vai in Impostazioni &gt; Applicazioni &gt; Gestisci app &gt; Scanner, tocca \"Disinstalla\" e prova a installare nuovamente l\'app.</string>
   <string name="url_is_phish">Questo può essere un sito phishing</string>
   <string name="url_is_safety">Questo sito web è sicuro</string>
   <string name="url_is_unknown">"Impossibile verificare se il sito web è sicuro"</string>

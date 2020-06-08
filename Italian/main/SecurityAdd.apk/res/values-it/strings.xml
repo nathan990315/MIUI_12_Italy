@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="_00_00">00:00</string>
-  <string name="abc_action_bar_home_description">Vai alla Home</string>
+  <string name="abc_action_bar_home_description">Naviga nella home</string>
   <string name="abc_action_bar_up_description">Vai in alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -40,6 +40,8 @@
   <string name="app_market_title">应用市场</string>
   <string name="app_name">Plugin Servizio di Sicurezza</string>
   <string name="app_select_title">Aggiungi app usate di frequente</string>
+  <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+  <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
   <string name="btn_connecting">连接中</string>
   <string name="btn_holding">等待安装</string>
   <string name="btn_install">安装</string>
@@ -103,6 +105,7 @@
   <string name="duration_time_end">Fine</string>
   <string name="duration_time_start">开始时间</string>
   <string name="duration_use_interval_title">每次使用不超过(分钟)</string>
+  <string name="empty">" "</string>
   <string name="ew_detail_earthquake_center_title">Epicentro</string>
   <string name="ew_detail_earthquake_feel_little">Leggero scuotimento</string>
   <string name="ew_detail_earthquake_feel_max">Molto forte</string>
@@ -212,7 +215,7 @@
   <string name="no_net_dialog_positive_text">前往开启网络</string>
   <string name="no_net_dialog_title">提示</string>
   <string name="no_network_btn">Riprova</string>
-  <string name="ok_button">Conferma</string>
+  <string name="ok_button">OK</string>
   <string name="open_browser">Apri nel browser</string>
   <string name="parent_center">家长中心</string>
   <string name="parent_control_center">家长中心</string>
@@ -228,6 +231,10 @@
   <string name="password_protect">密码保护</string>
   <string name="password_toggle_content_description">Mostra/Nascondi password</string>
   <string name="password_verify_checkbox_title">退出儿童模式需要验证密码，如设有锁屏密码，退出时需要验证锁屏密码</string>
+  <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+  <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="pc_activity_title">Ottimizza batteria</string>
   <string name="permission_control">权限管理</string>
   <string name="playing">播放中</string>
@@ -248,6 +255,7 @@
   <string name="size_unit_megabyte">%1$sMB</string>
   <string name="sound_control_desc">欢快的背景音乐让宝贝获得更多乐趣</string>
   <string name="sound_control_title">打开音效</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="superpower_app_add">Aggiungi</string>
   <string name="superpower_app_contact">Contatti</string>
   <string name="superpower_app_delete">Elimina</string>

@@ -18,7 +18,9 @@
   <string name="dialog_data_limit_button1">Attendi WI-Fi</string>
   <string name="dialog_data_limit_button2">Scarica ora</string>
   <string name="dialog_data_limit_msg1">Verranno utilizzati %s di traffico dati mobile per scaricare questo file. Scaricare adesso?</string>
+  <string name="dialog_data_limit_msg2">@string/dialog_tip_limit</string>
   <string name="dialog_data_limit_msg3">Cambia limite</string>
+  <string name="dialog_data_limit_sel_title">@string/dialog_tip_limit</string>
   <string name="dialog_data_limit_title">Avviso di utilizzo dati</string>
   <string name="dialog_insufficient_space_on_cache">Spazio insufficiente sulla memoria interna</string>
   <string name="dialog_insufficient_space_on_external">Spazio insufficiente sulla memoria esterna</string>
@@ -36,6 +38,7 @@
   <string name="download_queued">In coda</string>
   <string name="download_remaining">%s rimanenti</string>
   <string name="download_running">In corso</string>
+  <string name="download_running_percent">In corso, %d%%</string>
   <string name="download_unknown_title">&lt;Senza nome&gt;</string>
   <string name="enter_garbage_clean">Cancella memoria interna.</string>
   <string name="insufficient_space">"Spazio insufficiente sul tuo dispositivo"</string>

@@ -11,9 +11,11 @@
   <string name="beam_handover_not_supported">"Il dispositivo ricevente non supporta file di grandi dimensioni tramite Trasferimento NFC."</string>
   <string name="beam_outgoing">Trasferimento NFC...</string>
   <string name="beam_progress">Trasferimento NFC in arrivo...</string>
+  <string name="beam_requires_external_storage_permission">L\'applicazione non ha il permesso per l\'archiviazione esterna. E\' necessario per trasferire questo file</string>
   <string name="beam_requires_nfc_enabled">Android Beam richiede l\'attivazione dell\'NFC. Vuoi abilitarlo?</string>
   <string name="beam_tap_to_view">Tocca per vedere</string>
   <string name="beam_try_again">Unisci di nuovo i dispositivi</string>
+  <string name="bluetooth_package">com.android.bluetooth</string>
   <string name="cancel">Ferma</string>
   <string name="complete_with">Completa con</string>
   <string name="confirm_pairing">Sei sicuro di voler abbinare il dispositivo Bluetooth %1$s?</string>
@@ -27,19 +29,11 @@
   <string name="disconnecting_peripheral">Disconnessione %1$s</string>
   <string name="failed_to_enable_bt">Impossibile abilitare il Bluetooth</string>
   <string name="nfcUserLabel">NFC</string>
-  <string name="nfc_enabled_dialog">"NFC attualmente disabilitato. 
-Attivalo per i tuoi Servizi NFC"</string>
-  <string name="no">NO</string>
-  <string name="ok">Conferma</string>
   <string name="pair_no">No</string>
   <string name="pair_yes">Sì</string>
   <string name="pairing_peripheral">Associazione %1$s</string>
   <string name="pairing_peripheral_failed">Impossibile associare %1$s</string>
   <string name="pay_with">Paga con</string>
-  <string name="permdesc_nfcReceiveEvent">Consente all\'applicazione di ricevere informazioni sulla transazione NFC eseguita</string>
-  <string name="permgroupdesc_NFC">Accedi a varie funzionalità NFC</string>
-  <string name="permgrouplab_NFC">NFC-Near Field Communication</string>
-  <string name="permlab_nfcReceiveEvent">Sensibilizzazione alle transazioni NFC</string>
   <string name="prompt_connect_to_network">Connettersi alla rete %1$s?</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_unable_to_connect">Impossibile connettersi alla rete</string>

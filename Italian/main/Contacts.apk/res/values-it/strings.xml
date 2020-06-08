@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Vai in home</string>
+  <string name="abc_action_bar_home_description">Naviga nella home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -138,7 +138,8 @@
   <string name="call_sim_menu_title_suffix">(Primaria)</string>
   <string name="call_telex">Chiama telex</string>
   <string name="call_tty_tdd">Chiama TTY/TDD</string>
-  <string name="call_unit">USD</string>
+  <string name="call_type_and_date">%1$s %2$s</string>
+  <string name="call_unit">CNY</string>
   <string name="call_work">Chiama n. lavoro</string>
   <string name="call_work_mobile">Chiama n. cellulare lavoro</string>
   <string name="call_work_pager">Chiama cercapersone lavoro</string>
@@ -311,6 +312,8 @@
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"></string>
   <string name="config_export_file_suffix"></string>
+  <string name="config_export_vcard_type">v30_generic</string>
+  <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp"></string>
   <string name="confirm_call_log_dial_summary">Chiedi conferma prima di comporre dal registro chiamate per evitare chiamate accidentali.</string>
   <string name="confirm_call_log_dial_title">Conferma prima di comporre dal registro chiamate</string>
@@ -374,7 +377,7 @@ Le schede contatti sono disattivate"</string>
   <string name="contact_editor_prompt_multiple_accounts">Sincronizzare il nuovo contatto con:</string>
   <string name="contact_editor_prompt_one_account">Il nuovo contatto verrà sincronizzato con %1$s.</string>
   <string name="contact_editor_prompt_zero_accounts">Non verrà effettuato il backup del nuovo contatto. Vuoi aggiungere un account per gestire il backup dei contatti online?</string>
-  <string name="contact_import_methods_dialog_bluetooth">Condivisione Bluetooth</string>
+  <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
   <string name="contact_import_methods_dialog_mi_mover">Trasferisci</string>
   <string name="contact_import_methods_dialog_title">Seleziona il metodo di importazione</string>
   <string name="contact_is_deleted">Questo contatto è stato eliminato</string>
@@ -623,7 +626,7 @@ Per evitare richieste frequenti, noi aggiorneremo le informazioni del saldo una 
 Motivo: \"%s\""</string>
   <string name="exporting_contact_failed_title">"Impossibile esportare"</string>
   <string name="exporting_contact_list_message">I dati dei contatti sono in fase di esportazione in: %s.</string>
-  <string name="exporting_contact_list_progress">%1$s of %2$s contacts</string>
+  <string name="exporting_contact_list_progress">%1$s di %2$s contatti</string>
   <string name="exporting_contact_list_title">Esportazione dati contatti</string>
   <string name="exporting_vcard_canceled_title">Esportazione di %s annullata.</string>
   <string name="exporting_vcard_finished_title">Esportazione di %s terminata.</string>
@@ -654,13 +657,13 @@ Motivo: \"%s\""</string>
   <string name="fmt_date_long_year_month">MMMM, yyyy</string>
   <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_day">d</string>
-  <string name="fmt_date_numeric_month">M</string>
-  <string name="fmt_date_numeric_month_day">d-M</string>
+  <string name="fmt_date_numeric_month">MM</string>
+  <string name="fmt_date_numeric_month_day">dd/MM</string>
   <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">M-yyyy</string>
-  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-  <string name="fmt_date_short_month">MMM</string>
-  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_numeric_year_month">MM/yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+  <string name="fmt_date_short_month">MM</string>
+  <string name="fmt_date_short_month_day">dd/MM</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="fmt_date_time">D T</string>
@@ -689,10 +692,10 @@ Motivo: \"%s\""</string>
   <string name="fmt_time_timezone">T z</string>
   <string name="fmt_timezone">z</string>
   <string name="fmt_weekday">W</string>
-  <string name="fmt_weekday_date">W, D</string>
-  <string name="fmt_weekday_date_time">W, D T</string>
-  <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-  <string name="fmt_weekday_date_timezone">W, D z</string>
+  <string name="fmt_weekday_date">DW</string>
+  <string name="fmt_weekday_date_time">DW T</string>
+  <string name="fmt_weekday_date_time_timezone">zDW T</string>
+  <string name="fmt_weekday_date_timezone">zDW</string>
   <string name="fmt_weekday_long">EEEE</string>
   <string name="fmt_weekday_short">E</string>
   <string name="fmt_weekday_time">W T</string>
@@ -705,6 +708,7 @@ Motivo: \"%s\""</string>
   <string name="friday">Venerdì</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">V</string>
+  <string name="from_account_format">%1$s</string>
   <string name="full_name">Nome</string>
   <string name="gallery">Galleria</string>
   <string name="generic_no_account_prompt">Tieni al sicuro i tuoi contatti anche se perdi il telefono: sincronizzali con un servizio online.</string>
@@ -864,7 +868,7 @@ Motivo: \"%s\""</string>
   <string name="menu_display_all">Mostra tutto</string>
   <string name="menu_display_selected">Mostra selezionati</string>
   <string name="menu_doNotSave">Annulla</string>
-  <string name="menu_done">Fine</string>
+  <string name="menu_done">OK</string>
   <string name="menu_editContact">Modifica</string>
   <string name="menu_editGroup">Modifica</string>
   <string name="menu_edit_mode">Modalità modifica</string>
@@ -909,6 +913,7 @@ Motivo: \"%s\""</string>
   <string name="miprofile_contact_header">Contatti con schede di contatto</string>
   <string name="miprofile_contact_meaasge">Contatti locali</string>
   <string name="miprofile_contact_verifying">Verifica</string>
+  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">Modifica profilo</string>
   <string name="miprofile_error_accept_self">"Non è possibile scambiare la tua scheda contatto"</string>
   <string name="miprofile_error_no_miaccount">Accedi al tuo Mi Account</string>
@@ -970,7 +975,7 @@ Motivo: \"%s\""</string>
   <string name="monday_short">Lun</string>
   <string name="monday_shortest">L</string>
   <string name="month_april">Aprile</string>
-  <string name="month_april_short">apr</string>
+  <string name="month_april_short">Apr</string>
   <string name="month_april_shortest">Apr</string>
   <string name="month_august">Agosto</string>
   <string name="month_august_short">Ago</string>
@@ -1122,7 +1127,10 @@ Per aggiungere un contatto alla lista dei Preferiti:
   <string name="path_wipe_data">Applicazioni di sistema/Contatti/Organizza Contatti/Cancella dati</string>
   <string name="payphone">Telefonata a pagamento</string>
   <string name="people">Contatti</string>
+  <string name="percent_sign">%1$s</string>
+  <string name="percentage">%1$s%2$s</string>
   <string name="phoneLabelsGroup">Telefono</string>
+  <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Numero troppo lungo</string>
   <string name="phone_primary">Primario</string>
   <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>
@@ -1391,6 +1399,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Nessun membro nel gruppo</string>
   <string name="six_letter">MNO</string>
+  <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">Per azienda</string>
   <string name="smart_group_company_unavailable">Senza azienda</string>
   <string name="smart_group_frequency_1">Nell\'ultimo mese</string>
@@ -1461,6 +1470,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
   <string name="starred_contacts">Preferiti</string>
   <string name="status_available">Disponibile</string>
   <string name="status_away">Assente</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_busy">Occupato</string>
   <string name="strequentList">Preferiti</string>
   <string name="success_message_import_from_account">Contato importato</string>
@@ -1613,6 +1623,7 @@ Scegli una delle seguenti opzioni:"</string>
   <string name="wednesday">Mercoledì</string>
   <string name="wednesday_short">Mer</string>
   <string name="wednesday_shortest">M</string>
+  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Cancella dati</string>
   <string name="yellowPageNavigationIconLabel">Directory</string>
   <string name="yellowPageNavigationLabel">Directory</string>
@@ -1629,7 +1640,7 @@ Scegli una delle seguenti opzioni:"</string>
   <string name="yellowpage_navigation_search_city_name_hint">Città</string>
   <string name="yellowpage_navigation_search_history">Cronologia</string>
   <string name="yellowpage_navigation_search_offline_hint">"Nessun accesso ad internet"</string>
-  <string name="yellowpage_navigation_search_result_average_price">Media %d RMB</string>
+  <string name="yellowpage_navigation_search_result_average_price">Media %d CNY</string>
   <string name="yellowpage_navigation_search_result_network_error">"Impossibile collegarsi alla rete"</string>
   <string name="yellowpage_navigation_search_result_no_more">Nessun altro risultato</string>
   <string name="yellowpage_navigation_search_result_service_error">Servizio attualmente non disponibile</string>

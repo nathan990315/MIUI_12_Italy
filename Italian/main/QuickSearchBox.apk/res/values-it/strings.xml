@@ -46,13 +46,13 @@
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
   <string name="entrance_setting">Apertura ricerca</string>
-  <string name="google_app_label">Google Search</string>
+  <string name="google_app_label">Ricerca Google</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
   <string name="google_search_description">Suggerimenti Ricerca Google</string>
-  <string name="google_search_hint">Google Search</string>
+  <string name="google_search_hint">Ricerca Google</string>
   <string name="google_search_label">Google</string>
-  <string name="google_settings_category_title">Google Search</string>
+  <string name="google_settings_category_title">Ricerca Google</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Ricerche frequenti</string>
   <string name="loading">Attendi…</string>
@@ -75,7 +75,7 @@ Puoi modificare in Impostazioni &gt; Applicazioni installate &gt; Ricerca"</stri
   <string name="recent_delete_content">"Nascondere queste applicazioni adesso?
 Puoi modificare in Impostazioni &gt; Applicazioni installate &gt; Ricerca"</string>
   <string name="recent_delete_negative">Annulla</string>
-  <string name="recent_delete_positive">Conferma</string>
+  <string name="recent_delete_positive">OK</string>
   <string name="recent_delete_title">Nascondi app</string>
   <string name="recent_edit">Modifica</string>
   <string name="recent_edit_done">Fatto</string>
@@ -99,6 +99,7 @@ Puoi modificare in Impostazioni &gt; Applicazioni installate &gt; Ricerca"</stri
   <string name="search_sources">Elementi ricercabili</string>
   <string name="search_sources_summary">Scegli cosa cercare nel dispositivo</string>
   <string name="search_suggestion">Suggerimenti</string>
+  <string name="search_title_quicksearchbox">@string/app_name</string>
   <string name="search_videos">Cerca video</string>
   <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
   <string name="search_widget">Ceerca</string>
