@@ -34,7 +34,7 @@
   <string name="account_settings_enforced_summary">Nessuno</string>
   <string name="account_settings_incoming_summary">Nome utente, password e altre impostazioni del server in entrata</string>
   <string name="account_settings_login_dialog_content_fmt">"Il nome utente o la password per %s non sono corretti. Aggiornarli ora?"</string>
-  <string name="account_settings_login_dialog_reason_fmt">"Accesso a %s fallito; il server dice: %s Vuoi aggiornare il nome utente e/o la password?"</string>
+  <string name="account_settings_login_dialog_reason_fmt formatted=false">"Accesso a %s fallito; il server dice: %s Vuoi aggiornare il nome utente e/o la password?"</string>
   <string name="account_settings_login_dialog_title">"Impossibile accedere"</string>
   <string name="account_settings_mail_check_frequency_dialog_title">Devi aggiornare manualmente l\'app Mail per sincronizzare al posta</string>
   <string name="account_settings_mail_check_frequency_dialog_title_eas">"Quando passi alla modifica manuale, devi aggiornare manualmente per sincronizzare messaggi e calendario"</string>
@@ -248,7 +248,7 @@
   <string name="bill_center_setting">Impostazioni di addebito</string>
   <string name="bill_center_setting_head">Importa le informazioni da questi account</string>
   <string name="bill_cycle_text">Ciclo di addebito</string>
-  <string name="bill_list_card_name_fmt">%s | %s</string>
+  <string name="bill_list_card_name_fmt formatted=false">%s | %s</string>
   <string name="bill_list_card_num_fmt">**** **** **** %s</string>
   <string name="bill_remind">Promemoria rinnovo</string>
   <string name="bill_remind_due">Rinnovo pagamento il %s, tocca per vedere</string>
@@ -1060,7 +1060,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
   <string name="reply">Rispondi</string>
   <string name="reply_add_bodycontent">Aggiungere un messaggio di risposta rapida al contenuto?</string>
   <string name="reply_all">Rispondi a tutti</string>
-  <string name="reply_attribution">Il %s, %s ha scritto:</string>
+  <string name="reply_attribution formatted=false">Il %s, %s ha scritto:</string>
   <string name="report_phishing">Segnala come phishing</string>
   <string name="report_rendering_improvement">Sembra buono</string>
   <string name="report_rendering_improvement_desc">Questo messaggio sembra buono.</string>
@@ -1164,7 +1164,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
   <string name="storage">Memoria</string>
   <string name="str_select_all">Seleziona tutto</string>
   <string name="str_select_none">Deseleziona tutto</string>
-  <string name="subject_and_snippet">%s — %s</string>
+  <string name="subject_and_snippet formatted=false">%s — %s</string>
   <string name="subject_hint">Oggetto</string>
   <string name="suffix_sancharnet">sancharnet.in</string>
   <string name="suffix_vsnl">vsnl.com</string>
