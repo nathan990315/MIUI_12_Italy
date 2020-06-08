@@ -65,7 +65,6 @@
   <string name="accessibility_camera_button">Fotocamera</string>
   <string name="accessibility_carrier_network_change_mode">Cambio rete operatore.</string>
   <string name="accessibility_cast_name">Connesso a %s.</string>
-  <string name="accessibility_casting">@string/quick_settings_casting</string>
   <string name="accessibility_casting_turned_off">Proiezione schermo interrotta.</string>
   <string name="accessibility_cell_data">Dati Mobili</string>
   <string name="accessibility_cell_data_off">Dati Mobili Disattivati</string>
@@ -351,14 +350,7 @@
   <string name="battery_low_title">Collega l\'alimentatore</string>
   <string name="battery_low_title_power_save">Risparmio batteria</string>
   <string name="battery_low_why">Impostazioni</string>
-  <string name="battery_meter_bg_path">M18.2555408,13 L59.7444592,13 C63.3105342,13 64.6036791,13.3713024 65.9073828,14.0685308 C67.2110865,14.7657592 68.2342408,15.7889135 68.9314692,17.0926172 C69.6286976,18.3963209 70,19.6894658 70,23.2555408 L70,32.7444592 C70,36.3105342 69.6286976,37.6036791 68.9314692,38.9073828 C68.2342408,40.2110865 67.2110865,41.2342408 65.9073828,41.9314692 C64.6036791,42.6286976 63.3105342,43 59.7444592,43 L18.2555408,43 C14.6894658,43 13.3963209,42.6286976 12.0926172,41.9314692 C10.7889135,41.2342408 9.76575919,40.2110865 9.06853082,38.9073828 C8.37130244,37.6036791 8,36.3105342 8,32.7444592 L8,23.2555408 C8,19.6894658 8.37130244,18.3963209 9.06853082,17.0926172 C9.76575919,15.7889135 10.7889135,14.7657592 12.0926172,14.0685308 C13.3963209,13.3713024 14.6894658,13 18.2555408,13 Z M18.2555408,17 C15.6081331,17 14.8019229,17.1556864 13.9790126,17.5957836 C13.3723828,17.9202128 12.9202128,18.3723828 12.5957836,18.9790126 C12.1556864,19.8019229 12,20.6081331 12,23.2555408 L12,32.7444592 C12,35.3918669 12.1556864,36.1980771 12.5957836,37.0209874 C12.9202128,37.6276172 13.3723828,38.0797872 13.9790126,38.4042164 C14.8019229,38.8443136 15.6081331,39 18.2555408,39 L59.7444592,39 C62.3918669,39 63.1980771,38.8443136 64.0209874,38.4042164 C64.6276172,38.0797872 65.0797872,37.6276172 65.4042164,37.0209874 C65.8443136,36.1980771 66,35.3918669 66,32.7444592 L66,23.2555408 C66,20.6081331 65.8443136,19.8019229 65.4042164,18.9790126 C65.0797872,18.3723828 64.6276172,17.9202128 64.0209874,17.5957836 C63.1980771,17.1556864 62.3918669,17 59.7444592,17 L18.2555408,17 Z M74,23 C75.1045695,23 76,23.8954305 76,25 L76,31 C76,32.1045695 75.1045695,33 74,33 C72.8954305,33 72,32.1045695 72,31 L72,25 C72,23.8954305 72.8954305,23 74,23 Z</string>
-  <string name="battery_meter_charging_mask_path">M44.98169 12.995727L27.492101 31.243375c-0.382155 0.398719 -0.368727 1.031741 0.02999 1.413896 0.184016 0.17637 0.428434 0.275817 0.683313 0.278019l8.295572 0.07167 -3.523194 10.060547 7.10315 0 17.347191 -18.375047c0.379131 -0.401595 0.36092 -1.034498 -0.04068 -1.413628 -0.185614 -0.175232 -0.431214 -0.272849 -0.686477 -0.272849l-8.119673 0 3.481811 -10.010254 -7.08142 0z</string>
-  <string name="battery_meter_charging_path">M11.671 26H19L3 43L7.571 30.474L7.329 30H0L16 13L11.428 25.526L11.671 26Z</string>
   <string name="battery_meter_percent_sign">%</string>
-  <string name="battery_meter_progress_mask_path">M2.5638852 0C1.6723665 0 1.3490802 0.09282561 1.0231543 0.2671327 0.69722837 0.4414398 0.4414398 0.69722837 0.2671327 1.0231543 0.09282561 1.3490802 0 1.6723665 0 2.5638852L0 0 2.5638852 0Zm0 18L0 18 0 15.436115c0 0.891518 0.09282561 1.214805 0.2671327 1.540731 0.1743071 0.325926 0.43009567 0.581714 0.7560216 0.756021C1.3490802 17.907174 1.6723665 18 2.5638852 18Z</string>
-  <string name="battery_meter_progress_path">M3.8458278,-1.55376046e-16 L44.1541722,1.55376046e-16 C45.4914503,-9.02779573e-17 45.9763797,0.139238417 46.4652686,0.400699056 C46.9541574,0.662159695 47.3378403,1.04584256 47.5993009,1.53473144 C47.8607616,2.02362033 48,2.50854969 48,3.8458278 L48,12.1541722 C48,13.4914503 47.8607616,13.9763797 47.5993009,14.4652686 C47.3378403,14.9541574 46.9541574,15.3378403 46.4652686,15.5993009 C45.9763797,15.8607616 45.4914503,16 44.1541722,16 L3.8458278,16 C2.50854969,16 2.02362033,15.8607616 1.53473144,15.5993009 C1.04584256,15.3378403 0.662159695,14.9541574 0.400699056,14.4652686 C0.139238417,13.9763797 6.01853049e-17,13.4914503 -1.03584031e-16,12.1541722 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z</string>
-  <string name="battery_meter_quick_charging_mask_path">M49.4995 13L48 18H54.9024C55.4546 18 55.9024 18.4477 55.9024 19C55.9024 19.2292 55.8236 19.4515 55.6792 19.6296L50.1111 26.5H54.5955C55.1478 26.5 55.5955 26.9477 55.5955 27.5C55.5955 27.7301 55.5162 27.9532 55.3709 28.1316L43.2575 43H33.9995L35.3954 38.1155L28.4446 38.0606C28.3713 38.0806 28.2976 38.0919 28.2247 38.0951C27.7681 38.1153 27.342 37.8184 27.2167 37.3589C27.1248 37.022 27.2154 36.6616 27.4555 36.4081L34 29.5H29.2155C28.6632 29.5 28.2155 29.0523 28.2155 28.5C28.2155 28.2564 28.3044 28.0212 28.4655 27.8385L41.5535 13H49.4995Z</string>
-  <string name="battery_meter_quick_charging_path">M13.368 13L11 20.5H18L11 29.5H17L5.677 43H4.632L7 35.5H0L8 26.5H1L12.323 13H13.368Z</string>
   <string name="battery_meter_very_low_overlay_symbol">!</string>
   <string name="battery_panel_title">Utilizzo batteria</string>
   <string name="battery_saver_confirmation_ok">Attiva</string>
@@ -509,7 +501,6 @@ Frequenza Campione"</string>
   <string name="car_lockscreen_disclaimer_title">Guida in sicurezza</string>
   <string name="category_personal">Personale</string>
   <string name="category_work">Lavoro</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change_theme_reboot">Il cambio del tema richiede un riavvio.</string>
   <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
@@ -544,8 +535,6 @@ Frequenza Campione"</string>
   <string name="config_rat_3g">3G</string>
   <string name="config_rat_4g">4G</string>
   <string name="config_rat_unknown"></string>
-  <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.StatusBar</string>
-  <string name="config_systemUIFactoryComponent">com.android.systemui.SystemUIFactory</string>
   <string name="confirm">Fatto</string>
   <string name="confirm_enable_oem_unlock_text">ATTENZIONE: La protezione dispositivo non funzionerà su questo dispositivo mentre questa opzione sarà attiva.</string>
   <string name="confirm_enable_oem_unlock_title">Permettere sblocco OEM?</string>
@@ -731,7 +720,6 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
   <string name="fingerprint_not_recognized">Non riconosciuto</string>
   <string name="fingerprint_try_again_msg">"Impossibile verificare impronta, riprova nuovamente."</string>
   <string name="fingerprint_try_again_text">Riprova</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="float_incall_ignore">Ignora</string>
   <string name="float_incall_message">Messaggio</string>
   <string name="force_allow_on_external">Forza app su archivio esterno</string>
@@ -936,10 +924,6 @@ Utilizza solo l'alimentatore in dotazione."</string>
   <string name="keyguard_charging_back_to_lockscreen">Torna alla schermata di blocco</string>
   <string name="keyguard_charging_battery_level">%s%%</string>
   <string name="keyguard_charging_info_battery_used_time_text">Su batteria</string>
-  <string name="keyguard_charging_info_data_c">%s°C</string>
-  <string name="keyguard_charging_info_data_ma">%smA</string>
-  <string name="keyguard_charging_info_data_percent">%s%%</string>
-  <string name="keyguard_charging_info_data_v">%sV</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Esaurita</string>
   <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Oggi %s</string>
@@ -954,7 +938,6 @@ Utilizza solo l'alimentatore in dotazione."</string>
   <string name="keyguard_charging_normal_and_level_tip">In carica %d%%</string>
   <string name="keyguard_charging_quick_and_level_tip">Carica rapida %d%%</string>
   <string name="keyguard_charging_super_quick_and_level_tip">Caricamento rapido %d%%</string>
-  <string name="keyguard_fancy_colon"></string>
   <string name="keyguard_indication_charging_time">In carica (%s al completamento)</string>
   <string name="keyguard_indication_charging_time_fast">Carica rapida (%s al completamento)</string>
   <string name="keyguard_indication_charging_time_slowly">Carica lenta (%s al completamento)</string>
@@ -970,7 +953,6 @@ Utilizza solo l'alimentatore in dotazione."</string>
   <string name="keyguard_missing_sim_instructions_long">La SIM è illeggibile o mancante. Inserisci una SIM.</string>
   <string name="keyguard_missing_sim_message">Nessuna SIM nel telefono.</string>
   <string name="keyguard_missing_sim_message_short">Nessuna SIM</string>
-  <string name="keyguard_more_overflow_text">+%d</string>
   <string name="keyguard_network_locked_message">Rete bloccata</string>
   <string name="keyguard_password_enter_password_code">Digita la password per sbloccare</string>
   <string name="keyguard_password_enter_pin_code">Digita codice PIN</string>
@@ -1056,7 +1038,6 @@ Riprova tra %2$d secondi."</string>
   <string name="left_keycode">Chiave sinistra</string>
   <string name="left_nav_bar_button_type">Tipo di tasto sinistro extra</string>
   <string name="legacy_vpn_name">VPN</string>
-  <string name="list_delimeter">", "</string>
   <string name="loading_injected_setting_summary">Caricamento…</string>
   <string name="local_backup_password_summary_change">Premi per cambiare o rimuovere le password dei backup desktop completati</string>
   <string name="local_backup_password_summary_none">I backup desktop completati non sono attualmente protetti</string>
@@ -1135,7 +1116,6 @@ uno screenshot esteso"</string>
   <string name="miui_guide_dialog_message">I suoni multimediali (musica, video, etc.) verranno comunque riprodotti in modalità silenziosa. Potrai modificare questa funzionalità dalle Impostazioni.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Sbloccato da dispositivo Bluetooth</string>
   <string name="miui_ringer_count_down">Conto alla rovescia</string>
-  <string name="miui_ringer_count_down_time">%s</string>
   <string name="miui_ringer_standard">SILENZIA</string>
   <string name="miui_ringer_standard_description">Silenzia le suonerie per le chiamate in arrivo e le notifiche</string>
   <string name="miui_ringer_total">ND</string>
@@ -1172,14 +1152,12 @@ Sei collegato anche a %3$s, che può monitorare la tua attività di rete."</stri
 
 Contatta il tuo amministratore per maggiori informazioni."</string>
   <string name="monitoring_description_ca_cert_settings">Apri le credenziali sicure</string>
-  <string name="monitoring_description_ca_cert_settings_separator">" "</string>
   <string name="monitoring_description_ca_certificate">Un\'autorità di certificazione è installata su questo dispositivo. Il traffico di rete sicuro può essere monitorato o modificato.</string>
   <string name="monitoring_description_do_body">"Il tuo amministratore può monitorare e gestire le impostazioni, accessi aziendali, app, dati associati con il tuo dispositivo e informazioni sulla posizione della tuo dispositivo."</string>
   <string name="monitoring_description_do_body_vpn">"Sei collegato a %1$s, che può monitorare la tua attività di rete, incluse email, app e siti web."</string>
   <string name="monitoring_description_do_header_generic">Il tuo dispositivo è gestito da %1$s.</string>
   <string name="monitoring_description_do_header_with_name">%1$s utilizza %2$s per gestire il tuo dispositivo.</string>
   <string name="monitoring_description_do_learn_more">Scopri di più</string>
-  <string name="monitoring_description_do_learn_more_separator">" "</string>
   <string name="monitoring_description_managed_profile_ca_certificate">La tua organizzazione ha installato un certificato nel tuo profilo di lavoro. Il tuo traffico di rete sicuro potrebbe essere monitorato o modificato.</string>
   <string name="monitoring_description_managed_profile_named_vpn">Il tuo profilo di lavoro è collegato a %1$s, che può monitorare il tuo traffico di rete, incluse email, app e siti web.</string>
   <string name="monitoring_description_management">"Il dispositivo è gestito dalla tua organizzazione.
@@ -1211,7 +1189,6 @@ Per ulteriori informazioni, contatta l'amministratore.
 
 Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</string>
   <string name="monitoring_description_vpn_settings">Impostazioni VPN aperta</string>
-  <string name="monitoring_description_vpn_settings_separator">" "</string>
   <string name="monitoring_subtitle_ca_certificate">Certificati CA</string>
   <string name="monitoring_subtitle_network_logging">Registrazione della rete</string>
   <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1259,7 +1236,6 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
   <string name="nav_guide_message">Puoi utilizzare le gesture per nascondere/mostrare i tasti virtuali dopo le impostazioni.</string>
   <string name="nav_guide_ok">Impostazioni</string>
   <string name="nav_guide_title">Nascondi tasti virtuali</string>
-  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_application">Niente</string>
   <string name="no_bubbles">Nega</string>
   <string name="no_multi_window_app">Nessuna app funzionante con la modalità a schermo diviso.</string>
@@ -1329,7 +1305,6 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
   <string name="oem_preferred_feedback_reporter"></string>
   <string name="oem_unlock_enable">Sblocco OEM</string>
   <string name="oem_unlock_enable_summary">Permetti lo sblocco del bootloader</string>
-  <string name="ok">@android:string/ok</string>
   <string name="okay">OK</string>
   <string name="open_camera_hint_text">Scorri a sinistra per avviare la Fotocamera</string>
   <string name="open_lock_screen_magazine_hint_text">Scorri a destra per altre opzioni</string>
@@ -1369,7 +1344,6 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
   <string name="picture_color_mode_desc">Usa sRGB</string>
   <string name="pip_close">Chiudi PIP</string>
   <string name="pip_fullscreen">Schermo intero</string>
-  <string name="pip_menu_bounds">596 280 1324 690</string>
   <string name="pip_menu_title">Menu picture in picture</string>
   <string name="pip_notification_message">Se non vuoi utilizzare %s per questa funzionalità, tocca per aprire le impostazioni e disattivarlo.</string>
   <string name="pip_notification_title">%s è in picture-in-picture</string>
@@ -1380,14 +1354,12 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
   <string name="pip_phone_expand">Espandi</string>
   <string name="pip_phone_minimize">Riduci</string>
   <string name="pip_play">Riproduci</string>
-  <string name="pip_settings_bounds">662 756 1142 1026</string>
   <string name="pip_skip_to_next">Salta al prossimo</string>
   <string name="pip_skip_to_prev">Salta al precedente</string>
   <string name="please_slide_agian">Per favore trascina di nuovo</string>
   <string name="plugins">Plugin</string>
   <string name="pointer_location">Posizione puntatore</string>
   <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s fino al completamento</string>
   <string name="power_discharge_by">Dovrebbe durare circa fino al %1$s (%2$s)</string>
   <string name="power_discharge_by_enhanced">Dovrebbe durare almeno fino a %1$s in base al tuo utilizzo (%2$s)</string>
@@ -1443,16 +1415,11 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
   <string name="private_dns_mode_provider">DNS Hostname provider privato</string>
   <string name="private_dns_mode_provider_failure">"Impossibile collegare"</string>
   <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="profile_owned_footer">Il profilo potrebbe essere monitorato</string>
   <string name="prompt_danger">Pericoloso</string>
   <string name="prompt_detecting">Rilevamento</string>
   <string name="prompt_safe">Sicuro</string>
   <string name="prompt_unknown">Sconosciuto</string>
-  <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-  <string name="proxy_hostname_hint">proxy.example.com</string>
-  <string name="proxy_port_hint">8080</string>
-  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="qs_control_big_tile_state_closed">Spento</string>
   <string name="qs_control_big_tile_state_closing">Disattivazione…</string>
   <string name="qs_control_big_tile_state_connected">Connesso</string>
@@ -1577,11 +1544,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
   <string name="quick_settings_sim_disabled">" (Disabilitata)"</string>
   <string name="quick_settings_sync_label">Sincr.</string>
   <string name="quick_settings_tethering_label">Tethering</string>
-  <string name="quick_settings_tiles">default</string>
-  <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
   <string name="quick_settings_tiles_old_mode">cell,wifi,bt,flashlight,batterysaver,screenshot,edit</string>
-  <string name="quick_settings_tiles_retail_mode">cell,batterysaver,powermode,flashlight,rotation,location</string>
-  <string name="quick_settings_tiles_stock">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,powermode,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit,drivemode,workmode</string>
   <string name="quick_settings_tiles_super_save">cell,wifi,bt,gps,vibrate</string>
   <string name="quick_settings_time_label">Tempo</string>
   <string name="quick_settings_toast_drag_to_enable_custom_tile">Per aggiungere un elemento premi e tieni premuto, quindi trascinalo nella parte superiore del pannello.</string>
@@ -1715,7 +1678,6 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
   <string name="select_webview_provider_title">Implementazione WebView</string>
   <string name="select_webview_provider_toast_text">Questa scelta choice non è più valida. Riprova.</string>
   <string name="settings_custom_notification">Gestisci le notifiche</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="settings_toggle_position">Modifica posizione comandi</string>
   <string name="settings_toggle_position_divider_list">I comandi sopra questa barra saranno visibili</string>
   <string name="settings_toggle_position_reset">Ripristina comandi</string>
@@ -1783,7 +1745,6 @@ essere monitorata"</string>
   <string name="status_bar_network_flow_limit">"   Limite mensile: %1$s"</string>
   <string name="status_bar_network_flow_purchase">"   Acquista &gt;"</string>
   <string name="status_bar_network_flow_today">Oggi: %1$s</string>
-  <string name="status_bar_network_name_separator">-</string>
   <string name="status_bar_no_notifications_title">Nessuna notifica</string>
   <string name="status_bar_no_recent_apps">Nessuna applicazione in esecuzione</string>
   <string name="status_bar_notification_app_settings_title">%s impostazioni</string>
@@ -1807,7 +1768,6 @@ scorri in basso per bloccare"</string>
   <string name="status_bar_settings_airplane">Modalità aereo</string>
   <string name="status_bar_settings_auto_brightness_label">AUTO</string>
   <string name="status_bar_settings_auto_rotation">Auto-rotazione schermo</string>
-  <string name="status_bar_settings_battery_meter_format"></string>
   <string name="status_bar_settings_mute_label">Silenzioso</string>
   <string name="status_bar_settings_notifications">Notifiche</string>
   <string name="status_bar_settings_settings_button">Impostazioni</string>
@@ -1843,7 +1803,6 @@ scorri in basso per bloccare"</string>
   <string name="switch_bar_on">Attiva</string>
   <string name="switch_system_user">Apri Primo Spazio</string>
   <string name="symbol_colon">:</string>
-  <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
   <string name="system_ui_tuner">Messa a punto UI di Sistema</string>
   <string name="tap_to_sign_up">Tocca per iscriverti</string>
   <string name="task_access_locked_app_msg">Il contenuto dell\'applicazione è nascosto.</string>
@@ -1991,7 +1950,6 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
   <string name="user_remove_user_title">Rimuovere utente?</string>
   <string name="v7_preference_off">DISATTIVA</string>
   <string name="v7_preference_on">ATTIVA</string>
-  <string name="velocity_tracker_impl">piattaforma</string>
   <string name="verify_apps_over_usb_summary">Controlla le app installate tramite ADB/ADT per comportamenti dannosi.</string>
   <string name="verify_apps_over_usb_title">Verifica app da USB</string>
   <string name="voice_assist_label">Esegui Voce Assistente</string>
@@ -2048,7 +2006,6 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
   <string name="wapi_psk_type_ascii">ASCII</string>
   <string name="wapi_psk_type_hex">Esadecimale</string>
   <string name="wapi_yes">Sì</string>
-  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Aggiornato %1$s</string>
   <string name="wifi_ap_unable_to_handle_new_sta">Punto di accesso temporaneamente pieno</string>
   <string name="wifi_auto_sel_wapi_cert">Seleziona automaticamente</string>
@@ -2094,7 +2051,6 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
   <string name="wifi_security_none_owe">Nessuna/Aperta</string>
   <string name="wifi_security_owe">OWE</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
   <string name="wifi_security_sae">SAE</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
@@ -2106,7 +2062,6 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
   <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
   <string name="wifi_security_short_none_owe">Nessuna/OWE</string>
   <string name="wifi_security_short_owe">OWE</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
   <string name="wifi_security_short_sae">SAE</string>
   <string name="wifi_security_short_wep">WEP</string>

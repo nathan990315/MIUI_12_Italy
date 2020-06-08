@@ -322,14 +322,10 @@
   <string name="ringtone_other">Altre suonerie</string>
   <string name="ringtone_weather">Sveglia meteo</string>
   <string name="ringtone_week">Sveglia naturale</string>
-  <string name="search_alarm_clock">@string/alarm_list_title</string>
   <string name="search_alarm_clock_keywords">Sveglia;Sveglia;</string>
   <string name="search_menu_title">Cerca</string>
-  <string name="search_stopwatch">@string/stopwatch_title</string>
   <string name="search_stopwatch_keywords">Cronometro</string>
-  <string name="search_timer">@string/timer_title</string>
   <string name="search_timer_keywords">Conto alla rovescia</string>
-  <string name="search_worldclock">@string/worldclock_title</string>
   <string name="search_worldclock_keywords">Orario;Fuso orario;Orologio</string>
   <string name="set_alarm">Imposta sveglia</string>
   <string name="set_alarm_choose_ringtone">Seleziona suoneria</string>
@@ -351,7 +347,6 @@
   <string name="shutdown_alarm_enable_summary">"La sveglia si attiverà con dispositivo spento"</string>
   <string name="shutdown_alarm_title">Sveglia dopo spegnimento</string>
   <string name="silent_alarm_summary">Silenziosa</string>
-  <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">Disattiva una volta il %s</string>
   <string name="sleep_analysis">Statistiche</string>
   <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -401,13 +396,11 @@
   <string name="status_bar_clock_date_time_format">H:mm:ss</string>
   <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
   <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stopwatch_lap_empty_text">Nessun giro</string>
   <string name="stopwatch_reset_notification">Il cronometro è stato resettato</string>
   <string name="stopwatch_running_notification">Cronometro</string>
   <string name="stopwatch_title">Cronometro</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-  <string name="symbol_colon">:</string>
   <string name="system_permission_agree_desc">Consenti a questa applicazione di connettersi ad internet per accedere a tutte le sue funzioni.</string>
   <string name="system_permission_main_purpose">Visualizzare l\'ora, impostare sveglie e timer, utilizzare il cronometro</string>
   <string name="system_permission_purpose">Creare sveglie settimanali e impostare suonerie personalizzate</string>
