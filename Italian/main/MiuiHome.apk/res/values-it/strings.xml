@@ -308,7 +308,7 @@
   <string name="home_slide_up_action">Scorri in alto sulla Home</string>
   <string name="home_switch_personal_assistant">Schermata AppVault</string>
   <string name="icon_reorganize_channel">Organizza icone</string>
-  <string name="icon_size">Dimensione icona</string>
+  <string name="icon_size">Dimensione icone</string>
   <string name="image_too_small_message">"L'immagine originale non è abbastanza grande"</string>
   <string name="install">Installa</string>
   <string name="invalid_contact_shortcut">Collegamento non valido</string>
@@ -473,8 +473,8 @@
   <string name="reset_fail">"Reimpostazione fallita"</string>
   <string name="reset_scene_prompt">La scena verrà ripristinata alla disposizione predefinita</string>
   <string name="reset_title">reimposta</string>
-  <string name="screen_cells_config_title">Disposizione schermata Home</string>
-  <string name="screen_locked_toast">La disposizione della schermata home è bloccata</string>
+  <string name="screen_cells_config_title">Dimensione griglia Home</string>
+  <string name="screen_locked_toast">La modifica della schermata home è bloccata</string>
   <string name="screen_number">Schermata n° %d</string>
   <string name="search_in_apps_store">Cerca per \"%1$s\" in %2$s</string>
   <string name="search_menu_title">Cerca</string>
@@ -485,7 +485,7 @@
   <string name="setting_wallpaper_tip">Sposta o ridimensiona</string>
   <string name="settings">Impostazioni</string>
   <string name="settings_shortcut">Impostazioni collegamenti</string>
-  <string name="shake_to_align_icons">Scuotiil dispositivo per riempire le celle vuote con le icone</string>
+  <string name="shake_to_align_icons">Scuoti il dispositivo per riempire le celle vuote con le icone</string>
   <string name="shake_to_align_icons_summary">Scuoti il dispositivo mentre sei in modalità modifica per riempire le celle vuote con le icone automaticamente</string>
   <string name="shake_to_align_icons_title">Scuoti per riempire le celle vuote</string>
   <string name="share">Condividi</string>
@@ -496,7 +496,7 @@
   <string name="show_all">Mostra tutto</string>
   <string name="show_mem_info_title">Mostra stato memoria</string>
   <string name="show_most_popular_apps_you_used">Visualizza le app utilizzate di frequente nel drawer</string>
-  <string name="show_recents_recommend_title">Mostra suggerimenti</string>
+  <string name="show_recents_recommend_title">Mostra suggerimenti nei recenti</string>
   <string name="slide_to_open_newhome">Scorri verso l\'alto per aprire il Centro Contenuti</string>
   <string name="small_window_button_complete">Fatto</string>
   <string name="small_window_edit_content">Puoi aggiungere fino a %d app</string>
@@ -520,9 +520,9 @@
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="switch_personal_assistant_app_vault">Assistente app</string>
   <string name="switch_personal_assistant_google">Google Discover</string>
-  <string name="switch_personal_assistant_none">Non pulire niente</string>
+  <string name="switch_personal_assistant_none">Nessuno</string>
   <string name="system_shortcuts_more_operation">Info applicazione</string>
-  <string name="system_shortcuts_remove">Rimuovi dalle eccezioni</string>
+  <string name="system_shortcuts_remove">Rimuovi</string>
   <string name="system_text">Sistema</string>
   <string name="task_access_locked_app_msg">Il contenuto dell\'applicazione è nascosto.</string>
   <string name="title_jeejen">Schermata Home Jeejen</string>
