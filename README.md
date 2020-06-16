@@ -11,6 +11,15 @@ Based on a work at http://miui.com and http://miui.it
 Mantained by:
 - nathangiovannini3
 - BIOLorenz
+
+_________________
+Per segnalare un errore di traduzione:
+
+Descrivere nella sezione "Issues":
+- La problematica [Stringa in inglese, traduzione errata...]
+- In che applicazione è stata riscontrata
+- Allegare se possibile uno screenshot dell'errore
+- Fornire suggerimenti sulla traduzione
 _________________
 
 
