@@ -223,7 +223,9 @@
   <string name="float_todo_guide_cancel">Ferma</string>
   <string name="float_todo_guide_message">Il collegamento sulla schermata Home consente di scorrere dal bordo dello schermo per visualizzare e creare attività. Crearla ora?</string>
   <string name="float_todo_guide_ok">Crea</string>
+  <string name="float_todo_guide_ok_v2">Attiva</string>
   <string name="float_todo_guide_title">Collegamento Home</string>
+  <string name="float_todo_guide_title_v2">Gesto collegamento rapido</string>
   <string name="fmt_chinese_date">N e</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
@@ -335,6 +337,7 @@
   <string name="menu_unhide">Mostra</string>
   <string name="menu_unstick">Rimuovi spilla</string>
   <string name="merge_to_folder">Crea una cartella</string>
+ 
   <string name="midnight">AM</string>
   <string name="miuix_appcompat_cloud_state_disabled">La sincronizzazione col cloud è disattivata</string>
   <string name="miuix_appcompat_cloud_state_finished">Sincronizzato col cloud</string>
@@ -429,6 +432,7 @@
   <string name="pref_desc_todo_float_mode">Scorri dal bordo dello schermo per aprire la finestra attività</string>
   <string name="pref_remind_type_summary">Riproduci promemoria in modalità silenziosa</string>
   <string name="pref_remind_type_title">Ignora modalità silenziosa</string>
+  <string name="pref_remind_type_title_new">Promemoria ad Alta Priorità</string>
   <string name="pref_title_cloud_trash_bin">Elimina note dal Mi Cloud</string>
   <string name="pref_title_common">Impostazioni aggiuntive</string>
   <string name="pref_title_font_size">Dimensione testo</string>
@@ -699,6 +703,7 @@ Consenti di registrare audio."</string>
   <string name="toolbar_voice_description">Voce</string>
   <string name="trash_folder_name">Cestino</string>
   <string name="trash_folder_reminder">Le note eliminate verranno cancellate permanentemente tra 30 giorni.</string>
+  <string name="trash_folder_reminder_new">Le note vengono conservate nel cestino per %d giorni prima di essere eliminate definitivamente</string>
   <string name="tuesday">Martedì</string>
   <string name="tuesday_short">Mar</string>
   <string name="tuesday_shortest">M</string>

@@ -64,6 +64,7 @@
   <string name="confirm_save">Mantieni</string>
   <string name="connect_network">Collegati al Wi-Fi o inserisci una SIM</string>
   <string name="connect_wlan">Collegati al Wi-Fi</string>
+  <string name="connect_wlan_china">Collegati alla WLAN</string>
   <string name="copy">Copia</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Questo account è utilizzato anche su un altro dispositivo. Unire gli elementi da app (tra cui %1$s e %2$s) con gli elementi su questo dispositivo?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_one">Questo account è utilizzato anche su un altro dispositivo. Unire gli elementi da %s con gli elementi su questo dispositivo?</string>
@@ -99,6 +100,9 @@
   <string name="find_device_operation_failure_rpc">"Impossibile completare questa operazione a causa di un errore RPC"</string>
   <string name="find_device_send_sms_alert">Se cambi SIM, potrebbe essere inviato automaticamente un altro SMS per attivare questa funzione.</string>
   <string name="find_device_service_title">Trova dispositivo</string>
+  <string name="find_device_status_summary">Individua, blocca il dispositivo e cancella i dati da remoto</string>
+  <string name="find_device_status_title_pad">Trova dispositivo</string>
+  <string name="find_device_status_title_phone">Trova dispositivo</string>
   <string name="finddevice_miservice_notification_content">"Blocca il tuo dispositivo da remoto in caso di perdita"</string>
   <string name="finddevice_miservice_notification_title">Attiva Trova Dispositivo</string>
   <string name="forget_password"><u>Password dimenticata</u></string>
@@ -232,6 +236,7 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Attiva \"Trova Dispositivo\" per mettere al sicuro i tuoi dati Wechat</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay suggerisci di attivare Trova Telefono</string>
   <string name="micloud_find_device_guide_progress">Attivazione Trova Dispositivo…</string>
+  <string name="micloud_find_device_guide_title">Accedi su &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; col tuo Mi Account per individuare e bloccare il dispositivo, contrassegnarlo come smarrito o cancellare i dati da remoto. Visualizza i dettagli su &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;here&lt;/a&gt;.</string>
   <string name="micloud_find_device_open_fail">"Impossibile attivare Trova Dispositivo"</string>
   <string name="micloud_find_device_opened">Trova Dispositivo attivato</string>
   <string name="micloud_find_device_opened_content">Trova Dispositivo a %s</string>
@@ -297,7 +302,8 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
   <string name="micloud_notif_content_depend_wifi">Collegati ad una rete Wi-Fi per sincronizzare.</string>
   <string name="micloud_notif_content_depend_wifi_china">Collegati ad una rete Wi-Fi per sincronizzare.</string>
   <string name="micloud_notif_content_dirty_data">Dettagli</string>
-  <string name="micloud_notif_content_master_depend_wifi">Collegati prima alla rete Wi-Fi</string>
+  <string name="micloud_notif_content_master_depend_wifi">Collegati prima alla rete Wi-Fi o cambia le impostazioni di sincronizzazione. Tocca per modificare</string>
+  <string name="micloud_notif_content_master_depend_wifi_china">Collegati prima alla rete WLAN o cambia le impostazioni di sincronizzazione. Tocca per modificare.</string>
   <string name="micloud_notif_content_memory_low">Spazio di archiviazione insufficiente</string>
   <string name="micloud_notif_content_multi_user_error">Hai effettuato l\'accesso con lo stesso account dello spazio originario.</string>
   <string name="micloud_notif_content_privacy_reopen_failed">Mostra dettagli</string>
@@ -450,6 +456,8 @@ Questa funziona critta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
   <string name="search_finddevice_pref_key_words">trova telefono, trova telefono</string>
   <string name="search_finddevice_pref_path">Mi Account/Mi Cloud/TROVA TELEFONO</string>
   <string name="search_menu_title">Cerca</string>
+  <string name="send_last_location_summary">Sincornizza info sulla posizione mentre il dispositivo è spento</string>
+  <string name="send_last_location_title">Localizza prima dello spegnimento</string>
   <string name="share_cancel">Condivisione annullata</string>
   <string name="share_failed">"Impossibile condividere"</string>
   <string name="share_miliao_not_installed">"Mi Talk non è installato."</string>

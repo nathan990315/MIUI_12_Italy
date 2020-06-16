@@ -211,7 +211,6 @@
   <string name="cm_privacy_dialog_tips">"I servizi di messaggistica smart sono forniti dal tuo operatore. I messaggi necessitano di connessione internet e accesso alla tua posizione per fornire il servizio. Devi accettare %1s del tuo operatore per poter utilizzare questi servizi. Accetti?"</string>
   <string name="cm_privacy_dialog_title">Attenzione</string>
   <string name="cmcc_privacy">Accordo Privacy Operatore Cina Mobile</string>
-  <string name="com.crashlytics.android.build_id">779fcd77-aeed-479b-aedf-f3c6a828fc96</string>
   <string name="complain_message_title">Segnalazione</string>
   <string name="compressing">Immagine troppo grande. Compressione in corso…</string>
   <string name="confirm">OK</string>
@@ -264,12 +263,12 @@
   <string name="copy_to_sdcard">Copia allegato in scheda SD</string>
   <string name="copy_to_sdcard_fail">"Copia dell'allegato nella scheda SD non riuscita"</string>
   <string name="copy_to_sdcard_success">Allegato salvato come %s</string>
+  <string name="copy_verification_code_tip">Copiato</string>
   <string name="current_data_version">Versione Mi Message</string>
   <string name="date_picker_label_day"></string>
   <string name="date_picker_label_month"></string>
   <string name="date_picker_label_year"></string>
   <string name="date_picker_lunar">Calendario tradizionale cinese</string>
-  <string name="default_web_client_id">442074018142-eri5e8fk5h1pv23iej2aup5r7a4knsnj.apps.googleusercontent.com</string>
   <string name="delete">Elimina</string>
   <string name="delete_block_conversation">Elimina questa conversazione</string>
   <string name="delete_bookmark">Elimina messaggio</string>
@@ -531,6 +530,7 @@
   <string name="menu_make_call">Chiama</string>
   <string name="menu_mark">Segnala</string>
   <string name="menu_more">Altro</string>
+  <string name="menu_multi_select">Seleziona</string>
   <string name="menu_new_contact">Nuovo contatto</string>
   <string name="menu_new_manual">Inserisci numero manualmente</string>
   <string name="menu_pick_from_contact">Seleziona dai contatti</string>
@@ -727,6 +727,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
   <string name="nosend_message">"Non inviato"</string>
   <string name="not_prepare_for_send">Nessun messaggio da inviare</string>
   <string name="not_set">Non impostato</string>
+  <string name="not_support_audio_forward">"Impossibile inoltrare messaggi vocali"</string>
   <string name="notification_ad_content">Hai ricevuto un messaggio promozionale da %s</string>
   <string name="notification_add_todo">Ricordamelo</string>
   <string name="notification_add_todo_content">Codice di ritiro: %s</string>
@@ -804,6 +805,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
   <string name="pref_summary_on_system_mms_priority">"L'applicazione di sistema Messaggi riceverà messaggi per prima"</string>
   <string name="pref_summary_privacy_authority">Attiva/disattiva questo pulsante per concedere o revocare la tua autorizzazione</string>
   <string name="pref_summary_send_delivery_reports">Invia rapporto di consegna per i messaggi ricevuti</string>
+  <string name="pref_summary_voice_report">Attiva per la lettura dei messaggi ad alta voce quando vengono ricevuti. Premere il pulsante Volume giù o Ferma per interrompere la riproduzione.</string>
   <string name="pref_summary_wake_up_screen">Attiva lo schermo alla ricezione di un nuovo SMS</string>
   <string name="pref_switch_sdk_setting">Cambia servizio provider smart SMS</string>
   <string name="pref_system_title">Sistema</string>
@@ -835,6 +837,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
   <string name="pref_title_storage_status">Stato memoria messaggi</string>
   <string name="pref_title_system_mms_priority">Priorità messaggi</string>
   <string name="pref_title_vcard">Invia tramite vCard</string>
+  <string name="pref_title_voice_report">Leggi i messaggi ad alta voce</string>
   <string name="pref_title_wake_up_screen">Attivazione schermo</string>
   <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
   <string name="preferences_title">Impostazioni</string>
@@ -1336,6 +1339,7 @@ Dai un'occhiata alle app consigliate!"</string>
   <string name="too_many_attachments">"C'è un limite di %1$s allegati. Verranno aggiunti solo i primi %2$s."</string>
   <string name="too_many_recipients">"Questo messaggio ha troppi destinatari (%1$s). C'è un limite di %2$s destinatari."</string>
   <string name="too_many_unsent_mms">"Impossibile inviare il messaggio in questo momento. Troppi messaggi multimediali non inviati."</string>
+  <string name="top_conversation">Conversazioni fissate</string>
   <string name="try_to_send">Prova a inviare</string>
   <string name="tuesday">martedì</string>
   <string name="tuesday_short">mar</string>
@@ -1374,9 +1378,13 @@ Dai un'occhiata alle app consigliate!"</string>
   <string name="v7_preference_on">Attivato</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Codici di verifica</string>
+  <string name="verification_code_safety_warning">"Non divulgare questi codici ad altre persone"</string>
   <string name="view">Visualizza</string>
   <string name="view_bookmark">Mostra messaggio originale</string>
   <string name="view_message_details">Mostra dettagli</string>
+  <string name="voice_report_anytime">Sempre</string>
+  <string name="voice_report_off">Mai</string>
+  <string name="voice_report_wiredon">Con cuffie</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Invio tra %ds</string>
   <string name="wednesday">mercoledì</string>

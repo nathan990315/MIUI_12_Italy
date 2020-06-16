@@ -781,7 +781,7 @@ se dimenticata</string>
   <string name="card_main_netcheck_title">Test di rete</string>
   <string name="card_main_optimize_manage_action">Aumenta adesso</string>
   <string name="card_main_optimize_manage_summary">Cancella la cache per aumentare la velocità del dispositivo</string>
-  <string name="card_main_optimize_manage_title">Aumenta velocità</string>
+  <string name="card_main_optimize_manage_title">Velocizza</string>
   <string name="card_main_overscroll_tips">La sicurezza nella sua forma migliore</string>
   <string name="card_main_private_space_action">Crea</string>
   <string name="card_main_private_space_summary">Utilizzando il Secondo Spazio sarà come avere 2 dispositivi</string>
@@ -1821,6 +1821,7 @@ dall'operatore"</string>
   <string name="memory_check_content">%s liberati</string>
   <string name="memory_clean_memory_size_tip">Cache</string>
   <string name="memory_clean_no_need_clean">Sembra tutto OK</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">Liberati %s. Il tuo dispositivo è %d%% più veloce.</string>
   <string name="memory_clear_unused">Cancella cache (%s)</string>
   <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
   <string name="menu_add">Aggiungi</string>
@@ -1866,6 +1867,8 @@ dall'operatore"</string>
   <string name="menu_summary_networkassistants_2">Hai superato il limite</string>
   <string name="menu_summary_networkassistants_3">Hai abbastanza traffico dati</string>
   <string name="menu_summary_networkassistants_4">Sei a corto di traffico dati</string>
+  <string name="menu_summary_optimize_manage">Libera memoria</string>
+  <string name="menu_summary_optimize_manage_1">Rendi il tuo dispositivo più veloce del %d%%</string>
   <string name="menu_summary_power_manager">Il risparmio energetico ti fornirà più tempo tra una ricarica e l\'altra</string>
   <string name="menu_summary_power_manager_1">La batteria è carica</string>
   <string name="menu_summary_power_manager_2">%s rimanenti</string>
@@ -1882,7 +1885,8 @@ dall'operatore"</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
-  <string name="menu_text_optimize_manage">Aumenta velocità</string>
+  <string name="menu_text_optimize_manage">Velocizza</string>
+  <string name="menu_text_optimize_manage_1">Velocizza</string>
   <string name="menu_text_power_manager">Gestione energetica</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_wh_remove">Rimuovi dalle eccezioni</string>
@@ -2059,6 +2063,8 @@ dall'operatore"</string>
   <string name="om_locked_apps_summary">Le app bloccate verranno escluse dall\'incremento di velocità.</string>
   <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
   <string name="om_not_finish_speedboost">Incremento di velocità richiesto</string>
+  <string name="om_optimzing_big_button_text">Velocizza</string>
+  <string name="om_running_app_info_summary">Liberati %s</string>
   <string name="om_running_locked_apps">App bloccate in esecuzione</string>
   <string name="om_running_system_apps">App di sistema in esecuzione</string>
   <string name="om_running_third_apps">App di terze parti in esecuzione</string>
@@ -2073,6 +2079,9 @@ dall'operatore"</string>
   <string name="om_settings_notify_manage">Notifiche</string>
   <string name="om_settings_speed_up_auto">Aumento velocità automatico</string>
   <string name="om_settings_title">Impostazioni di ottimizzazione</string>
+  <string name="om_shortcut_added_toast_text">Aggiunto correttamente</string>
+  <string name="om_shortcut_dialog_summary">"RAM Jet consente di cancellare la memoria e aumentare la velocità del dispositivo con un solo tocco. Aggiungere RAM Jet alla Home?"</string>
+  <string name="om_shortcut_dialog_title">RAM Jet</string>
   <string name="one_address_choose_hint">%s1 posizione</string>
   <string name="open_activity_err">Applicazione non trovata</string>
   <string name="open_alarm_right_now">Apri adesso</string>
@@ -2095,7 +2104,7 @@ dall'operatore"</string>
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
-  <string name="optimize_manage_title">Aumenta velocità</string>
+  <string name="optimize_manage_title">Velocizza</string>
   <string name="optimize_result_available_memory_info">Memoria disponibile</string>
   <string name="optimize_result_button_cloudspace">Espandi spazio cloud</string>
   <string name="optimize_result_button_consume_power_analysis">Scansione batteria</string>
@@ -2792,7 +2801,11 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
   <string name="section_title_clear_acc">Svuota cache</string>
   <string name="section_title_security_defend">Sicurezza</string>
   <string name="section_title_system">Protezione sistema</string>
+  <string name="security_bottom_guide_to_pm_text">Apertura Kit Utilità…</string>
   <string name="security_center_slogan">Sicurezza. Sempre in guardia.</string>
+  <string name="security_guide_bubble_text">Apri</string>
+  <string name="security_guide_summary">Uno spazio unico per strumenti e servizi</string>
+  <string name="security_guide_title">Kit Utilità MIUI</string>
   <string name="security_scan_optimizing">Ottimizzazione…</string>
   <string name="securityadd_install_fail">"Non è stato possibile aggiornare il plug-in. Prova di nuovo."</string>
   <string name="securityadd_update_tips_cancle">Non adesso</string>
