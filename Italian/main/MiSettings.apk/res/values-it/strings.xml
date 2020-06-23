@@ -458,7 +458,9 @@
   <string name="usage_app_limit_alter_title">Controlla limite di tempo</string>
   <string name="usage_app_limit_prelong">Estendi tempo</string>
   <string name="usage_app_limit_reach_summay">%s rimanente</string>
+  <string name="usage_app_limit_reach_summay_new">Tocca per aggiungere %d min</string>
   <string name="usage_app_limit_reach_title">%s sta raggiungendo il suo limite di utilizzo</string>
+  <string name="usage_app_limit_reach_title_new" formatted="false">Tempo rimanente di utilizzo per %1s: %2s</string>
   <string name="usage_app_limit_summary">"Le app selezionate non saranno disponibili al raggiungimento del limite"</string>
   <string name="usage_app_limit_title">Limite utilizzo app</string>
   <string name="usage_app_other_settings">Impostazioni addizionali</string>
@@ -523,8 +525,10 @@ Questa app deve anche connettersi a internet e richiede le seguenti autorizzazio
   <string name="usage_new_home_dashboard">Cruscotto</string>
   <string name="usage_new_home_date_day_title">%s | Durata utilizzo</string>
   <string name="usage_new_home_day_category_title">Categorie app</string>
+  <string name="usage_new_home_day_category_title_new">Tempo di utilizzo per le categorie di %s</string>
   <string name="usage_new_home_day_title">Giorno</string>
   <string name="usage_new_home_day_usage_title">App singole</string>
+  <string name="usage_new_home_day_usage_title_new">Tempo di utilizzo per %s</string>
   <string name="usage_new_home_first_unlock">Primo Sblocco: %s</string>
   <string name="usage_new_home_name">Nome</string>
   <string name="usage_new_home_show_more_data_summary">Puoi anche limitare il tempo di utilizzo per le singole app</string>
@@ -554,7 +558,7 @@ Questa app deve collegarsi a internet e richiede le seguenti autorizzazioni per 
   <string name="usage_reach_device_limit">"Tempo scaduto! Hai raggiunto il tuo limite."</string>
   <string name="usage_reach_device_limit_warning_text">"Hai raggiunto il tuo limite di schermo attivo per oggi"</string>
   <string name="usage_refresh">Riprova</string>
-  <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
+  <string name="usage_remain_about_hour_miunte">≈%1$s%2$s</string>
   <string name="usage_remain_hour_miunte">%1$s%2$s</string>
   <string name="usage_request_error_summary">Errore sconosciuto</string>
   <string name="usage_request_timeout_summary">Richiesta scaduta</string>
@@ -669,6 +673,8 @@ Questa app deve collegarsi a internet e richiede le seguenti autorizzazioni per 
   <string name="usage_stats_week_day">Weekend</string>
   <string name="usage_total_days">Giorni totali</string>
   <string name="usage_total_times">Sessioni totali</string>
+  <string name="usage_week_avg_usage_title">Media questa settimana</string>
+  <string name="usage_week_avg_usage_title2">Tempo medio</string>
   <string name="usage_weekly_report_summary">Scopri come trascorri il tempo con il tuo dispositivo</string>
   <string name="usage_weekly_report_title">Report settimanale</string>
   <string name="usagestats_app_category_miui_education">Educazione</string>

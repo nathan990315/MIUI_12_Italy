@@ -30,6 +30,7 @@
   <string name="action_mode_deselect_all">Deseleziona tutto</string>
   <string name="action_mode_select_all">Seleziona tutto</string>
   <string name="ad_download">Scaricate</string>
+  <string name="add_one">(1)</string>
   <string name="add_private">Aggiungi file alle cartelle nascoste</string>
   <string name="add_private_files">Aggiungi file</string>
   <string name="aggree_desc">Consentire a questa app di connettersi a Internet e concedere le autorizzazioni obbligatorie elencate sopra.</string>
@@ -53,6 +54,7 @@
   <string name="can_not_send_with_too_many">"Impossibile inviare così tanti elementi"</string>
   <string name="cancel">Annulla</string>
   <string name="cancel_error">"Impossibile rimuovere, riprova"</string>
+  <string name="cancel_msg">Deselezionare tutti?</string>
   <string name="cancel_operation">Annulla operazione</string>
   <string name="cancel_success">Rimozione riuscita, tutti i file sono stati spostati %s</string>
   <string name="cancelled_by_user">Operazione annullata</string>
@@ -183,6 +185,7 @@
   <string name="file_info_modified">Modificato:</string>
   <string name="file_info_size">Dimensione:</string>
   <string name="file_loading">Attendi…</string>
+  <string name="file_name_existed">Nome già esistente</string>
   <string name="file_name_invalid">"I nomi dei file non possono contenere i seguenti caratteri: /\\:*?"</string>
   <string name="file_not_exist">"File inesistente"</string>
   <string name="folder_name_empty">"Il nome della cartella non può essere vuoto"</string>
@@ -372,9 +375,11 @@
   <string name="rename_alert2">Il file verrà nascosto.</string>
   <string name="rename_failed">"Impossibile rinominare %1$s"</string>
   <string name="rename_input_null">Nuovo nome file</string>
+  <string name="rename_msg">Un file chiamato \"%s\" esiste già.</string>
   <string name="repair_done">Ripristinato</string>
   <string name="repair_error">"Impossibile ripristinare"</string>
   <string name="repair_file">Ripristina file crittografati</string>
+  <string name="replace">Sostituisci</string>
   <string name="request_document_permission">Per gestire il file sulla scheda SD, concedi a File Manager i permessi richiesti.</string>
   <string name="request_document_permission_title">Permessi richiesti</string>
   <string name="request_timeout">Richiesta di rete scaduta</string>
@@ -419,7 +424,7 @@
   <string name="set_pattern_btn">Imposta</string>
   <string name="set_pattern_msg">Imposta di nuovo la tua password. La password per la protezione della privacy funziona anche per foto e messaggi.</string>
   <string name="sign_percent">%</string>
-  <string name="sk">3qy6ngTb0P+etx</string>
+  <string name="skip">Salta</string>
   <string name="skip_file">Salta</string>
   <string name="smb_loading">Attendi…</string>
   <string name="sort_hint_name">Ordinato per nome</string>
@@ -472,6 +477,7 @@
   <string name="unlock_pattern_title">Nuova password</string>
   <string name="upload_user_photo">Carica</string>
   <string name="usb_label">USB</string>
+   <string name="use_to_all">Applica a tutti</string>
   <string name="used">Utilizzato:\u0020</string>
   <string name="user_guide_continue_use">OK</string>
   <string name="user_not_login">Prima accedi</string>

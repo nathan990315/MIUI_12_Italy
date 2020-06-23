@@ -15,6 +15,7 @@
   <string name="btn_wrong_md5">MD5 invalido, tocca per eliminare il file</string>
   <string name="btn_yes">Si</string>
   <string name="channel_downloading">Avanzamento download</string>
+  <string name="channel_service">Servizio Aggiornamenti in background</string>
   <string name="channel_update">Nuova versione disponibile</string>
   <string name="check_new_version">Controlla aggiornamenti</string>
   <string name="default_filedownloader_notification_content">FileDownloader è in esecuzione.</string>
@@ -51,6 +52,8 @@ Nessun aggiornamento sarà disponibile per te!"</string>
   <string name="notif_install">Installa</string>
   <string name="notif_new_summary">Premi per ottenere informazioni</string>
   <string name="notif_new_title">Nuova versione disponibile!</string>
+  <string name="notif_service_summary">"Tenere premuto per disabilitare la notifica \"Servizio in background\"!"</string>
+  <string name="notif_service_title">L\'app è in esecuzione in background…</string>
   <string name="notifications_switch">Mostra notifiche</string>
   <string name="permdesc_cache_filesystem">Consenti all\'app di creare file nella directory /cache.</string>
   <string name="permdesc_reboot">Consenti all\'app di riavviare il dispositivo.</string>
@@ -62,8 +65,8 @@ Nessun aggiornamento sarà disponibile per te!"</string>
   <string name="server_error">Il server non risponde, l\'applicazione potrebbe non funzionare correttamente!</string>
   <string name="share_desc">La MIUI è stata aggiornata alla versione %1$s, controlla le novità: %2$s</string>
   <string name="share_title">Condividi con</string>
-  <string name="stable">stabile</string>
+  <string name="stable">Stabile</string>
   <string name="version">Attualmente installato:</string>
-  <string name="weekly">settimanale</string>
+  <string name="weekly">Settimanale</string>
   <string name="wifi_recommended">Nessuna connessione Wi-Fi per iniziare il download in modo sicuro!</string>
 </resources>

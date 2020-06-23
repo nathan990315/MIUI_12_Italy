@@ -78,14 +78,51 @@
         <item>1 ora</item>
         <item>2 ore</item>
     </string-array>
+	<string-array name="blood_types">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>0</item>
+        <item>A-</item>
+        <item>A+</item>
+        <item>B-</item>
+        <item>B+</item>
+        <item>AB-</item>
+        <item>AB+</item>
+        <item>0-</item>
+        <item>0+</item>
+    </string-array>
+	<string-array name="contact_relation_array">
+        <item>Non impostato</item>
+        <item>Familiare</item>
+        <item>Sorella</item>
+        <item>Fratello</item>
+        <item>Moglie</item>
+        <item>Partner</item>
+        <item>Amico</item>
+        <item>Collega</item>
+        <item>Comp. di Classe</item>
+    </string-array>
     <string-array name="energy_unit">
         <item>" kcal"</item>
         <item>" kJ"</item>
+    </string-array>
+	<string-array name="gender_array">
+        <item>Non impostato</item>
+        <item>Maschio</item>
+        <item>Femmina</item>
     </string-array>
     <string-array name="length_unit">
         <item>" cm"</item>
         <item>" m"</item>
         <item>" km"</item>
+    </string-array>
+	<string-array name="normal_blood_array">
+        <item>Not set</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>0</item>
     </string-array>
     <string-array name="pager_titles">
         <item>Giorno</item>
@@ -126,6 +163,11 @@
         <item>窗敲雨. 安全期真的安全吗[J]. 康复, 2013(1):16-16.</item>
         <item>肖玮, 阿丹. 安全期避孕安全吗?[J]. 健康必读, 2002(4).</item>
         <item>2018 - Rapporto scientifico del Comitato Consultivo per le Attività Fisiche</item>
+    </string-array>
+	<string-array name="rh_blood_array">
+        <item>Non impostato</item>
+        <item>Negativo</item>
+        <item>Positivo</item>
     </string-array>
     <string-array name="run_in_background_state">
         <item>Nessuna limitazione</item>
@@ -175,5 +217,10 @@
         <item>" liang"</item>
         <item>" jin"</item>
         <item>" lb"</item>
+    </string-array>
+	<string-array name="yes_no_array">
+        <item>Non impostato</item>
+        <item>Si</item>
+        <item>No</item>
     </string-array>
 </resources>

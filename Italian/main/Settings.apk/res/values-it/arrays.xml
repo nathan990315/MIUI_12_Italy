@@ -2689,6 +2689,12 @@
         <item>24-ore 13:00</item>
         <item>Auto (basato sulla lingua d sistema)</item>
     </string-array>
+	<string-array name="charge_animation_style_entries">
+        <item>Spento</item>
+        <item>Flusso</item>
+        <item>Bagliore</item>
+        <item>Onda</item>
+    </string-array>
     <string-array name="time_format_values">
         <item>12</item>
         <item>24</item>

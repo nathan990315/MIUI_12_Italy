@@ -134,6 +134,7 @@ Test caricabatterie terminato, prego scollega il caricabatterie"</string>
   <string name="cit_abnormal_reboot_title">Dati stabilità dispositivo</string>
   <string name="cit_ac_charger_in">Ricarica via AC</string>
   <string name="cit_ac_charger_out">Alimentatore AC scollegato</string>
+    <string name="cit_accdata_second_sensor_check_title">Il Secondo Accelerometrofv</string>
   <string name="cit_accdata_sensor_check_summary">I valori delle coordinate X, Y, Z, dovrebbero apparire in basso</string>
   <string name="cit_accdata_sensor_check_title">Accelerometro</string>
   <string name="cit_accelermeter_sensor_check_summary">"Muovi il dispositivo velocemente in una direzione. I valori delle coordinate X, Y e Z sono visualizzati di seguito. (quando il dispositivo è in movimento: X rappresenta sinistra/destra, Y rappresenta avanti/indietro, Z rappresenta su/giù).
@@ -360,6 +361,7 @@ Tocca lo schermo per attivare il GPS"</string>
   <string name="cit_gps_satellite_count">Numero satelliti: %d</string>
   <string name="cit_gps_satellite_prn">Prn: %s</string>
   <string name="cit_gps_satellite_snr">Snr: %s</string>
+  <string name="cit_gyrodata_second_sensor_check_title">Il secondo Giroscopio</string>
   <string name="cit_gyrodata_sensor_check_summary">I valori delle coordinate X，Y，Z, dovrebbero apparire in basso</string>
   <string name="cit_gyrodata_sensor_check_title">Giroscopio</string>
   <string name="cit_gyroscope_sensor_check_summary">I valori delle coordinate X, Y, Z dovrebbero comparire di seguito</string>
@@ -467,6 +469,7 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
   <string name="cit_proximity_us_summary">Calibrazione Sensore di Prossimità ad Ultrasuoni</string>
   <string name="cit_rear_dual_camera_check_title">Doppia fotocamera posteriore</string>
   <string name="cit_rear_dual_second_camera_check_title">Bokeh2 camera</string>
+  <string name="cit_rear_dual_third_camera_check_title">Bokeh3 camera</string>
   <string name="cit_rear_sub_camera_check_summary">"Istruzioni test:
 
 1. Tocca il pulsante Camera in basso per accedere all'interfaccia della camera secondaria posteriore
@@ -852,6 +855,7 @@ test fallito!"</string>
   <string name="cit_wifi_ap_scanning">Scansione…</string>
   <string name="cit_wifi_fail_to_scan">"Impossibile eseguire la scansione"</string>
   <string name="cit_wifi_state_refresh">Aggiorna</string>
+  <string name="cit_x_tele_camera_check_title">Tele5X camera</string>
   <string name="cit_yellow_torch_on">LED giallo del flash</string>
   <string name="close_third_color_led">disattiva il led a tre colori</string>
   <string name="confirm">确认</string>

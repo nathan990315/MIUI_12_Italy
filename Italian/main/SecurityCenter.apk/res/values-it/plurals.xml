@@ -160,6 +160,14 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%1$d persone stanno giocando</item>
         <item quantity="one">%1$d persona sta giocando</item>
     </plurals>
+	<plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">Disinstalla %2$d giochi (incluso %1$s)</item>
+        <item quantity="one">Disinstalla %2$d gioco (incluso %1$s)</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">Salvate %d registrazioni IA su Game Turbo</item>
+        <item quantity="one">Salavat %d registrazione IA su Game Turbo</item>
+    </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d sec</item>
         <item quantity="one">%d sec</item>
@@ -231,6 +239,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="install_game_count_title">
         <item quantity="other">%d giochi aggiunti</item>
         <item quantity="one">%d gioco aggiunto</item>
+    </plurals>
+	 <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">Puoi proteggere %d elementi</item>
+        <item quantity="one">Puoi proteggere %d elemento</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%s ore</item>
@@ -323,6 +335,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="om_locked_apps_title">
         <item quantity="other">%d app bloccate</item>
         <item quantity="one">%d app bloccata</item>
+    </plurals>
+	<plurals name="om_running_apps_num">
+        <item quantity="other">%d app</item>
+        <item quantity="one">%d app</item>
     </plurals>
 	<plurals name="om_running_apps_num">
         <item quantity="other">%d app</item>

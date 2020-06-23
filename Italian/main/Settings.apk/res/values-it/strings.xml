@@ -454,7 +454,7 @@ L'amministratore ha la capacità di monitorare e gestire le impostazioni, l'acce
   <string name="aod_settings_title">Always-on display</string>
   <string name="aod_show_mode_title">Mostra elementi</string>
   <string name="aod_style_description">Visualizza orologio, data, ora, notifiche e altri elementi quando lo schermo è spento</string>
-  <string name="aod_style_title">Stile note</string>
+  <string name="aod_style_title">Stile AOD</string>
   <string name="aod_to_close">Disattiva</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo di autenticazione</string>
@@ -1519,7 +1519,7 @@ Questa funzione può essere disattivata in [Settings]</string>
   <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
   <string name="character_counter_pattern">%1$d di %2$d</string>
-  <string name="charge_animation_style_summary">Scegli l'animazione di ricarica che preferisci</string>
+  <string name="charge_animation_style_summary">"Scegli l'animazione di ricarica che preferisci"</string>
   <string name="charge_animation_style_title">Animazione di Ricarica</string>
   <string name="charge_length_format">%1$s fa</string>
   <string name="charging_sounds_title">Suono di ricarica</string>
@@ -2563,7 +2563,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
   <string name="erase_sure">Dati personali</string>
   <string name="error_adding_apn_type">Il gestore non consente l\'aggiunta di tipi di APN %s.</string>
   <string name="error_apn_empty">Il campo APN non può essere vuoto.</string>
-  <string name="error_apn_not_allowed">"Questo APN non è consentito su questo dispositivo. Provane un altro."</string>
+  <string name="error_apn_not_allowed">"Questa APN non è consentito su questo dispositivo. Provane un altro."</string>
   <string name="error_apn_restrict_string">Il campo APN non può contenere %1$s</string>
   <string name="error_capturing_system_heap_dump_message">Impossibile ottenere il dump heap del sistema</string>
   <string name="error_mcc_not3">Il campo MCC deve contenere 3 cifre.</string>
@@ -7705,7 +7705,6 @@ Controlla la politica sulla privacy del tuo fornitore di servizi."</string>
   <string name="wifi_assistant">Assistente Wi-Fi</string>
   <string name="wifi_assistant_auto_confirm_data_help">È possibile disattivare questa funzione in Impostazioni &gt; Wi-Fi &gt; Assistente Wi-Fi.</string>
   <string name="wifi_assistant_auto_confirm_data_message">Utilizza i dati mobili quando il dispositivo non riesce a connettersi a Internet tramite Wi-Fi.</string>
-																																					  
   <string name="wifi_assistant_confirm_always">Non mostrare nuovamente</string>
   <string name="wifi_assistant_confirm_connection_title">Conferma</string>
   <string name="wifi_assistant_data_prompt">Mostra avviso utilizzo dati</string>

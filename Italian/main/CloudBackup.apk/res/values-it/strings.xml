@@ -57,7 +57,7 @@
   <string name="btn_restore_resume">Riprendi</string>
   <string name="btn_restore_retry">Riprova</string>
   <string name="btn_restore_wait">Attendi Wi-Fi</string>
-  <string name="btn_restore_wait_china">In attesa del Wi-Fi</string>
+  <string name="btn_restore_wait_china">In attesa della WLAN</string>
   <string name="btn_retry">Controlla di nuovo</string>
   <string name="btn_skip">Salta questo passaggio</string>
   <string name="button_cancel">Annulla</string>
@@ -82,12 +82,12 @@
   <string name="cloud_app_restore_wifi_prompt">Collegati ad una rete Wi-Fi per ripristinare le app.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Quando il dispositivo sarà connesso ad una rete Wi-Fi, verrà eseguito il backup su Mi Cloud di: 
-•\u0009\u0009\u0009\u0009 App, layout schermata Home e sfondi 
-•\u0009\u0009\u0009\u0009 Sveglie, orologio e impostazioni orario 
-•\u0009\u0009\u0009\u0009 Impostazioni delle notifiche 
-•\u0009\u0009\u0009\u0009 MIUI e impostazioni di sistema 
+• App, layout schermata Home e sfondi 
+• Sveglie, orologio e impostazioni orario 
+• Impostazioni delle notifiche 
+• MIUI e impostazioni di sistema 
 Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</string>
-  <string name="cloud_back_up_detail_discription_china">"Questi elementi verranno salvati su Xiaomi Cloud quando il dispositivo sarà connesso al Wi-Fi: 
+  <string name="cloud_back_up_detail_discription_china">"Questi elementi verranno salvati su Xiaomi Cloud quando il dispositivo sarà connesso alla WLAN: 
 * App, Layout della schermata Home e sfondi 
 * Sveglie, orologio, e impostazioni sull'ora 
 * Impostazioni notifiche 

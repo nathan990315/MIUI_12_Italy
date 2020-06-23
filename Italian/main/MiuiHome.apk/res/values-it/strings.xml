@@ -27,6 +27,11 @@
   <string name="abc_shareactionprovider_share_with">Condividi con</string>
   <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
   <string name="abc_toolbar_collapse_description">Riduci</string>
+  <string name="accessibility_all_app_custom_category_finish">Fatto</string>
+  <string name="accessibility_all_app_custom_category_item_remove">Rimuovi \"%1$s\" dalle categorie</string>
+  <string name="accessibility_clear_search_bar_text">Pulisci barra di ricerca</string>
+  <string name="accessibility_enter_all_app_mode">Apri cassetto app</string>
+  <string name="accessibility_enter_all_app_settings">Apri impostazioni cassetto app</string>
   <string name="accessibility_menu_item_smallwindow_disable">"Questa app non supporta le finestre fluttuanti"</string>
   <string name="accessibility_menu_item_smallwindow_enable">Questa app supporta le finestre fluttuanti</string>
   <string name="accessibility_menu_item_split_disable">"L'app non supporta la modalità Multi-finestra."</string>
@@ -54,6 +59,7 @@
   <string name="all_app_category_knowledge_education">Conoscenza ed educazione</string>
   <string name="all_app_category_lifestyle">Stile di vita</string>
   <string name="all_app_category_news_reading">Notizie e lettura</string>
+  <string name="all_app_category_personal">Personale</string>
   <string name="all_app_category_personalization">Personalizzazione</string>
   <string name="all_app_category_photography">Fotografia</string>
   <string name="all_app_category_shopping">Acquisti</string>
@@ -62,6 +68,7 @@
   <string name="all_apps_no_search_results">"Nessun risultato"</string>
   <string name="all_apps_search_app">Cerca app</string>
   <string name="all_apps_search_market_message">Cerca online</string>
+  <string name="all_apps_setting_classic_title">Classico</string>
   <string name="all_apps_setting_desktop_desc">"Mostra tutte le app nella schermata Home. Tieni premuto sull'icona dell'app per visualizzare le scorciatoie, gestirla o disinstallarla."</string>
   <string name="all_apps_setting_desktop_title">Normale</string>
   <string name="all_apps_setting_drawer_desc">"Visualizza tutte le app nel drawer che può essere aperto scorrendo verso l'alto nella schermata Home. Le app aggiunte alla schermata Home saranno comunque disponibli nel drawer."</string>
@@ -143,6 +150,7 @@
   <string name="auto_add_app_shortcut">Posiziona nuove app nella schermata Home</string>
   <string name="auto_delete_category_dialog_content">Le app attuali verranno rimosse da questa categoria e la categoria verrà eliminata. Continuare?</string>
   <string name="auto_delete_category_dialog_title">Eliminazione categoria</string>
+  <string name="back">Indietro</string>
   <string name="backup_fail">"Backup launcher non riuscito."</string>
   <string name="bad_wallpaper_source_prompt">"Impossibile caricare lo sfondo"</string>
   <string name="buffering">Buffering in corso…</string>
@@ -167,6 +175,10 @@
   <string name="choose_wallpaper">Scegli sfondo</string>
   <string name="chooser_wallpaper">Scegli sfondo</string>
   <string name="cloud_app_restore_title">In attesa</string>
+  <string name="common_home_search_delete">Rimozione barra di ricerca</string>
+  <string name="common_home_search_delete_cancle">Annulla</string>
+  <string name="common_home_search_delete_confirm">Rimuovi</string>
+  <string name="common_home_search_delete_content">"Non potrai utilizzare la ricerca rapida dopo aver rimosso la barra di ricerca dalla schermata Home. Rimuoverla comunque?"</string>
   <string name="configure_wallpaper">Impostazioni</string>
   <string name="confirm_btn_label">OK</string>
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Le app clonate saranno disinstallate insieme a questi.</string>
@@ -318,9 +330,11 @@
   <string name="launcher_global_search_provider_title">Provider di ricerca globale</string>
   <string name="launcher_not_exist">La Home si è bloccata, torna indietro e prova di nuovo.</string>
   <string name="launcher_pull_down_title">Scorri in basso sulla Home</string>
+  <string name="launcher_search_bar_provider_title">Fornitore Ricerca</string>
   <string name="launcher_search_bar_title">Barra di ricerca Home</string>
-  <string name="launcher_search_bar_value_disable">Spenta</string>
-  <string name="launcher_search_bar_value_enable">Attivo</string>
+  <string name="launcher_search_bar_value_disable">Nascosta</string>
+  <string name="launcher_search_bar_value_enable">Attiva</string>
+  <string name="launcher_slide_up_search_provider_title">Fornitore Ricerca a scorrimento</string>
   <string name="launcher_slide_up_title">Scorri in alto sulla Home</string>
   <string name="launcher_sliding_up_gesture">Scorri verso l\'alto nella Home per avviare la ricerca</string>
   <string name="launcher_title">Schermata Home e Recenti</string>
@@ -510,8 +524,10 @@
   <string name="sort_by_not_defined">Ordina automaticamente</string>
   <string name="start_activity_failed">"Avvio non riuscito, riprova"</string>
   <string name="starting_preset_app">Inizio…</string>
+  <string name="status_bar_recent_memory_giga">%1$s GB</string>
   <string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
   <string name="status_bar_recent_memory_info2"></string>
+  <string name="status_bar_recent_memory_mega">%1$s MB</string>
   <string name="status_downloaded">Scaricato</string>
   <string name="status_downloading">In download</string>
   <string name="status_installing">Installazione</string>
@@ -549,6 +565,8 @@
   <string name="uninstall_xspace_dialog_title_format">Disinstalla clone di \"%s\"</string>
   <string name="unknown_artist_name">Artista sconosciuto</string>
   <string name="unnamed_folder_name">Nuova cartella</string>
+  <string name="unstable_dialog_message">"Questo dispositivo è registrato nel Programma di anteprima per sviluppatori Android 11. Il programma consente agli sviluppatori e agli appassionati di Android di provare versioni pre-release di Android 11. Questa versione pre-release potrebbe contenere errori e difetti che possono influire sul normale funzionamento del dispositivo."</string>
+  <string name="unstable_dialog_title">Programma di anteprima per sviluppatori Android</string>
   <string name="v7_preference_off">ATTIVATO</string>
   <string name="v7_preference_on">DISATTIVATO</string>
   <string name="wallpaper">Sfondo</string>
@@ -565,4 +583,7 @@
   <string name="widget_global_search">Ricerca Globale</string>
   <string name="widget_quick_function">Funzione veloce</string>
   <string name="widgets_preview_title">Aggiungi widget</string>
+  <string name="work_mode_off_label">"Le notifiche sono disattivate e le app non sono disponibili al momento"</string>
+  <string name="work_mode_on_label">Gestito dalla tua organizzazione</string>
+  <string name="work_profile_toggle_label">Profilo di lavoro</string>
 </resources>

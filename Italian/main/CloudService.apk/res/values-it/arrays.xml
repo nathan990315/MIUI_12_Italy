@@ -33,6 +33,12 @@
         <item>Esegui il backup di applicazioni, layout Home e sfondi</item>
         <item>Esegui il backup di impostazioni importanti, incluse quelle di Wi-Fi e schermo</item>
         <item>"Controlla da remoto se hai perso il tuo dispositivo"</item>
+	</string-array>	
+	<string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sincronizza i tuoi contatti, messaggi, note, calendario ed altro</item>
+        <item>Esegui il backup di applicazioni, layout Home e sfondi</item>
+        <item>Esegui il backup di impostazioni importanti, incluse quelle di Wi-Fi e schermo</item>
+        <item>"Controlla da remoto se hai perso il tuo dispositivo"</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronizza dati app</item>
@@ -119,6 +125,11 @@
         <item>Attiva la sincronizzazione</item>
         <item>Note;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
     </string-array>
+	<string-array name="settings_search_phrase">
+        <item>Sincronizza le risposte rapide</item>
+        <item>Attiva la sincronizzazione</item>
+        <item>Risposte rapide;Appunti;Modifica;Cloud;Sync;Servizi Cloud</item>
+    </string-array>
     <string-array name="settings_search_personal_assistant">
         <item>Sincronizza Assistente App con Mi Cloud</item>
         <item>Attiva la sincronizzazione</item>
@@ -140,9 +151,9 @@
         <item>Cloud;Backup;Backup;Ripristino;Servizi Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Sincronizza Sicurezza con Mi Cloud</item>
+        <item>Sincronizza Sicurezza col Cloud</item>
         <item>Attiva la sincronizzazione</item>
-        <item>Sicurezza;Cloud;Sincronizzazione;Servizi cloud;Mi Cloud</item>
+        <item>Sicurezza;Cloud;Xiaomi Cloud;Sincronizzazione;Servizi cloud;</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>Sincronizza i Messagi con Mi Cloud</item>
@@ -160,6 +171,11 @@
         <item>menoria insufficiente;Paino;Archiviazione;Spazio di archiviazione;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud;Cestino;Eleemnti eliminati;Sicurezza</item>
     </string-array>
     <string-array name="settings_search_wlan">
+        <item>Sincronizzazione impostazioni WI-Fi con Mi Cloud</item>
+        <item>Attiva sincronizzazione</item>
+        <item>Wi-Fi;wifi;WLAN;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+    </string-array>
+	<string-array name="settings_search_wlan_china">
         <item>Sincronizzazione impostazioni WI-Fi con Mi Cloud</item>
         <item>Attiva sincronizzazione</item>
         <item>Wi-Fi;wifi;WLAN;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>

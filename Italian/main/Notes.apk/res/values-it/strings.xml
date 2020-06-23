@@ -222,6 +222,7 @@
   <string name="first_enter_custom_folder_hint">Puoi rinominare o eliminare le cartelle</string>
   <string name="float_todo_guide_cancel">Ferma</string>
   <string name="float_todo_guide_message">Il collegamento sulla schermata Home consente di scorrere dal bordo dello schermo per visualizzare e creare attività. Crearla ora?</string>
+  <string name="float_todo_guide_message_v2">Il gesto consente di visualizzare e creare attività scorrendo dal bordo dello schermo. Puoi attivare e disattivare questa funzione nelle Impostazioni.</string>
   <string name="float_todo_guide_ok">Crea</string>
   <string name="float_todo_guide_ok_v2">Attiva</string>
   <string name="float_todo_guide_title">Collegamento Home</string>
@@ -431,6 +432,7 @@
   <string name="pref_desc_skip_confirm_for_quick_delete">Non chiedere conferme quando si eliminano note con una gesture</string>
   <string name="pref_desc_todo_float_mode">Scorri dal bordo dello schermo per aprire la finestra attività</string>
   <string name="pref_remind_type_summary">Riproduci promemoria in modalità silenziosa</string>
+  <string name="pref_remind_type_summary_new">Ignora la modalità silenziosa e continua a riprodurre il suono fino a quando la sveglia non viene disattivata</string>
   <string name="pref_remind_type_title">Ignora modalità silenziosa</string>
   <string name="pref_remind_type_title_new">Promemoria ad Alta Priorità</string>
   <string name="pref_title_cloud_trash_bin">Elimina note dal Mi Cloud</string>
@@ -620,6 +622,7 @@
   <string name="toast_reach_text_limit_truncate">Il contenuto della nota è stato tagliato perché troppo lungo.</string>
   <string name="toast_refuse_to_record_when_in_call">"Impossibile utilizzare questa funzionalità durante le chiamate"</string>
   <string name="toast_refuse_to_record_when_in_multi_window">"Impossibile utilizzare questa funzionalità in modalità multi-finestra"</string>
+  <string name="toast_refuse_to_record_when_in_multi_window_new">"Impossibile utilizzare questa funzione nello schermo diviso o nelle finestre mobili"</string>
   <string name="toast_refuse_to_use_contact">"I permessi dei contatti sono ristretti.
 Consenti di leggere i tuoi contatti e trovare account nel dispositivo."</string>
   <string name="toast_refuse_to_use_external_storage">"I permessi di memoria sono ristretti.

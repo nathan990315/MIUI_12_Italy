@@ -782,7 +782,7 @@
   <string name="cityname_99">Prefettura autonoma Hainan Tibetan</string>
   <string name="cleaner_empty_value_description">Sembra tutto OK</string>
   <string name="cleaner_photo_pick_delete_selected">Elimina le foto selezionate</string>
-  <string name="cleaner_raw_action">Cancella</string>
+  <string name="cleaner_raw_action">Mostra dettagli</string>
   <string name="cleaner_raw_description">Libera spazio di archiviazione cancellando immagini RAW</string>
   <string name="cleaner_raw_title">Cancella file RAW</string>
   <string name="cleaner_scan_description">L\'ottimizzazione consente di liberare spazio sul dispositivo</string>
@@ -796,7 +796,7 @@
   <string name="cleaner_screen_shot_action">Cancella</string>
   <string name="cleaner_screen_shot_description">Elimina gli screenshot che non ti servono più.</string>
   <string name="cleaner_screen_shot_title">Elimina screenshot</string>
-  <string name="cleaner_similar_action">Elimina adesso</string>
+  <string name="cleaner_similar_action">Mostra dettagli</string>
   <string name="cleaner_similar_description">Elimina le foto doppie</string>
   <string name="cleaner_similar_title">Foto doppie</string>
   <string name="cleaner_slim_action">Avvio ottimizzazione…</string>
@@ -807,7 +807,7 @@
   <string name="cleaner_space_detail_description">Cancella alcune foto nella Galleria per liberare spazio</string>
   <string name="cleaner_stop_scan">Termina scansione</string>
   <string name="cleaner_title">libera spazio</string>
-  <string name="cleaner_video_action">Elimina adesso</string>
+  <string name="cleaner_video_action">Mostra dettagli</string>
   <string name="cleaner_video_description">Elimina video che occupano troppo spazio</string>
   <string name="cleaner_video_pick_delete_selected">Elimina i video selezionati</string>
   <string name="cleaner_video_title">Elimina i video</string>
@@ -1165,12 +1165,15 @@ Scatta più foto ai tuoi amici!"</string>
   <string name="filter_category_master">Maestro</string>
   <string name="filter_category_movie">Film</string>
   <string name="filter_category_sky">Cielo</string>
+  <string name="filter_general_blackice">Nero Glaciale</string>
   <string name="filter_general_blackwhite">B/N</string>
   <string name="filter_general_delicious">Cibo</string>
   <string name="filter_general_df">Chiarezza</string>
   <string name="filter_general_fairytale">Storia</string>
+  <string name="filter_general_greenorange">Lime</string>
   <string name="filter_general_japanese">Pastello</string>
   <string name="filter_general_lilt">Lilt</string>
+  <string name="filter_general_movie">Film</string>
   <string name="filter_general_nature">Natura</string>
   <string name="filter_general_pink">Rosa</string>
   <string name="filter_general_portrait">Verticale</string>
@@ -1193,6 +1196,7 @@ Scatta più foto ai tuoi amici!"</string>
   <string name="filter_movie_koizora">Fumetto</string>
   <string name="filter_movie_lost">Perso</string>
   <string name="filter_movie_nordic">Nordico</string>
+  <string name="filter_movie_portrait">Selettore colore</string>
   <string name="filter_movie_rome">Roma</string>
   <string name="filter_movie_summer">Estate</string>
   <string name="filter_movie_travel">Viaggio</string>
@@ -1304,7 +1308,7 @@ Scatta più foto ai tuoi amici!"</string>
   <string name="functions_are_being_developed">Questa funzionalità sarà presto disponibile. Attendi!</string>
   <string name="gallery_setting">Impostazioni</string>
   <string name="gallery_sync_disable_toast">La funzionalità di sincronizzazione della galleria non è attiva</string>
-  <string name="generate_story_summary">MIUI analizzerà le foto per creare album tematici. Disattiva questa funzione per evitare la creazione di album tematici.</string>
+  <string name="generate_story_summary">Scatta abbastanza foto, collega il caricabatterie e spegni lo schermo per far apparire i ricordi.</string>
   <string name="generate_story_title">Album tematici</string>
   <string name="get_album_info_in_process">"Richiesta informazioni album condiviso, attendere…"</string>
   <string name="gif_tip">GIF</string>
@@ -1623,10 +1627,15 @@ per personalizzare la Galleria"</string>
   <string name="onekey_none">Nessuna</string>
   <string name="onekey_portrait">Verticale</string>
   <string name="onekey_scene">Orizzontale</string>
+  <string name="online_video_normal_transcoding">Questo video è stato transcodificato. Aspetta un minuto o due e riprova.</string>
+  <string name="online_video_vip_tip">Diventa un membro VIP per lo streaming di video senza precaricarli completamente</string>
+  <string name="online_video_vip_transcoding">"Inizio dello streaming VIP ...
+La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzione per la prima volta."</string>
   <string name="open">Apri sincronizzazione</string>
   <string name="open_public_message">Genera un link ed invialo agli amici</string>
   <string name="open_public_title">Condividi pubblicamente</string>
   <string name="operate_processing_file_error">Attendi finché tutte lo foto non sono state elaborate.</string>
+  <string name="operate_with_metered_network_msg">Il dispositivo è connesso a una rete a pagamento. Continuare comunque?</string>
   <string name="operation_add_album">Aggiungi all\'album</string>
   <string name="operation_add_picture">Aggiungi immagini</string>
   <string name="operation_add_secret">Album nascosto</string>
@@ -1780,7 +1789,7 @@ per personalizzare la Galleria"</string>
   <string name="photo_editor_talkback_recently">Utilizzato di recente</string>
   <string name="photo_editor_talkback_redo">Aggiungi di nuovo</string>
   <string name="photo_editor_talkback_undo">Annulla</string>
-  <string name="photo_editor_text">Testo</string>
+  <string name="photo_editor_text">Filigrana</string>
   <string name="photo_font_cancel_download">Annulla</string>
   <string name="photo_font_download">Scarica</string>
   <string name="photo_font_download_failed_for_notwork">"Impossibile scaricare. Collegati alla rete e prova di nuovo."</string>
@@ -2155,6 +2164,7 @@ per personalizzare la Galleria"</string>
   <string name="sticker_fit">Pollo salutare</string>
   <string name="sticker_girl">Ragazza divertente</string>
   <string name="sticker_girly">Accessori</string>
+  <string name="sticker_graduation">Laurea</string>
   <string name="sticker_head">Capelli scomposti</string>
   <string name="sticker_pupil">Ragazza di scuola</string>
   <string name="sticker_rock">Boom!</string>
@@ -2223,6 +2233,10 @@ per personalizzare la Galleria"</string>
   <string name="text_edit_dialog_style_transparent">Opacità</string>
   <string name="text_edit_sub_menu_text">Bolla</string>
   <string name="text_tab_bubble">Bolle</string>
+  <string name="text_tab_city">Città</string>
+  <string name="text_tab_festival">Festività</string>
+  <string name="text_tab_scene">Scene</string>
+  <string name="text_tab_spot">Scenari</string>
   <string name="text_tab_watermark">Loghi</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
   <string name="the_anti_aggression_day">Giornata della pace</string>

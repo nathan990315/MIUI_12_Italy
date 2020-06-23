@@ -638,6 +638,8 @@ Frequenza Campione"</string>
   <string name="wifi_status_no_internet">Internet assente</string>
   <string name="wifi_status_sign_in_required">Accesso richiesto</string>
   <string name="wifi_unmetered_label">Non misurato</string>
+  <string name="wifi_unsaved_network_linking">Bridging SSID - Connessione automatica</string>
+  <string name="wifi_unsaved_network_linking_summary">Abilitare i tentativi di connessione automatica a un nuovo SSID WPA/WPA2-PSK 5GHz con credenziali SSID WPA/WPA2-PSK 2GHz connesse correnti su SSID e BSSID</string>
   <string name="wifi_verbose_logging">Attiva log WI-Fi verboso</string>
   <string name="wifi_verbose_logging_summary">Incrementa il livello di log Wi-Fi, mostra per SSID RSSI nella selezione Wi-Fi</string>
   <string name="wifi_wapi_as_certificate">Certificato AS</string>
@@ -647,6 +649,8 @@ Frequenza Campione"</string>
   <string name="wifi_wapi_fail_to_init">"Impossibile aprire i certificati WAPI L'archivio credenziali potrebbe non essere attivato"</string>
   <string name="wifi_wapi_psk_type">Tip di password</string>
   <string name="wifi_wapi_user_certificate">Certificato utente</string>
+  <string name="wifi_whitelist_roaming">SSID Bridging - Fast Handover</string>
+  <string name="wifi_whitelist_roaming_summary">Abilitare il roaming tra diversi ap SSID WPA/WPA2-PSK con lo stesso indirizzo MAC del gateway</string>
   <string name="window_animation_scale_title">Scala animazioni finestra</string>
   <string name="zen_alarm_warning">"Non sentirai la tua prossima sveglia %1$s"</string>
   <string name="zen_alarm_warning_indef">"Non sentirai la tua prossima sveglia %1$s a meno che non venga disattivata prima di allora"</string>

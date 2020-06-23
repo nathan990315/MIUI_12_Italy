@@ -29,10 +29,10 @@
   <string name="abc_toolbar_collapse_description">Riduci</string>
   <string name="actionbar_button_up_description">indietro</string>
   <string name="afternoon">PM</string>
+  <string name="already_newest_version">La versione attuale è aggiornata</string>
   <string name="am">AM</string>
   <string name="app_name">Sfondi</string>
-  <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
-  <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+  <string name="cancel_download">Download annullato</string>
   <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
   <string name="character_counter_pattern">%1$d di %2$d</string>
   <string name="chinese_day_1">初一</string>
@@ -111,7 +111,12 @@
   <string name="date_picker_label_month"></string>
   <string name="date_picker_label_year"></string>
   <string name="date_picker_lunar">Calendario Lunare</string>
+  <string name="download_failed">"Impossibile scaricare"</string>
   <string name="early_morning">AM</string>
+  <string name="earth_id">earth</string>
+  <string name="earth_summary">La Terra è la culla della civiltà umana</string>
+  <string name="earth_super_wallpaper_label">terra</string>
+  <string name="earth_title">Home</string>
   <string name="earthly_branches_chen">辰</string>
   <string name="earthly_branches_chou">丑</string>
   <string name="earthly_branches_hai">亥</string>
@@ -129,8 +134,6 @@
   <string name="eras_bc">DC</string>
   <string name="evening">PM</string>
   <string name="expand_button_title">Avanzate</string>
-  <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-  <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
   <string name="fmt_chinese_date">N月e</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
@@ -196,10 +199,47 @@
   <string name="heavenly_stems_wu">戊</string>
   <string name="heavenly_stems_xin">辛</string>
   <string name="heavenly_stems_yi">乙</string>
-  <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+  <string name="install_failed">"Installazione fallita"</string>  
+
+  <string name="mars_position_content_0">"Questa regione contiene scogliere, mesas e ampie valli pianeggianti, che si ritiene siano state causate da ghiacciai ricoperti di detriti. Sono stati rilevati anche minerali di argilla, che sono di grande interesse nella ricerca di prove di vita sull'antico Marte.
+
+NASA/JPL/University of Arizona"</string>
+  <string name="mars_position_content_1">"Preso quando il rover Marte Curiosity stava esplorando le colline di Pahrump nel cratere Gale. La regione contiene rocce sedimentarie che gli scienziati credono che si siano formate in presenza di acqua e che le aree scure siano sabbia.
+
+NASA/JPL/University of Arizona"</string>
+  <string name="mars_position_content_2">"La valle di Mawrth è un antico canale di deflusso dell'acqua con rocce ricche di argilla dai colori chiari. I minerali di argilla conservano facilmente la vita microscopica sulla Terra, quindi forse tracce di vita antica possono essere trovate su Mawrth.
+
+NASA/JPL/University of Arizona"</string>
+  <string name="mars_position_title_0">"Nilosyrtis
+Regionw Mensae"</string>
+  <string name="mars_position_title_1">Cratere Gale</string>
+  <string name="mars_position_title_2">"Cratere nella 
+valle di Mawrth"</string>
+  <string name="mars_summary">I vasti deserti di Marte hanno sempre mantenuto l'umanità in soggezione</string>
+  <string name="mars_super_wallpaper_label">marte</string>
+  <string name="mars_title">Il Pianeta Rosso</string>
   <string name="mi_wallpaper_loading">Caricamento…</string>
   <string name="mi_wallpaper_title">Sfondi Mi</string>
   <string name="midnight">AM</string>
+  <string name="no_cta_agreed">"GetApps non dispone di autorizzazioni CTA"</string>
+  <string name="no_install_permission">"Non si dispone delle autorizzazioni necessarie per installare questo elemento"</string>
+  <string name="miui_lock_screen_date">EEEE, dd/MMMM</string>
+  <string name="miui_lock_screen_date_12">EEEE, dd/MMMM</string>
+  <string name="miui_lock_screen_date_two_lines">"EEEE
+dd/MMMM"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd/MMMM"</string>
+  <string name="miui_lock_screen_large_date">"EEE
+dd/M"</string>
+  <string name="miui_lock_screen_large_date_12">"EEE
+dd/M"</string>
+  <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+  <string name="miui_vertical_time_format_24">"HH
+mm"</string>
+  <string name="miuix_appcompat_cloud_state_disabled">La sinc con il cloud è disattivata</string>
+  <string name="miuix_appcompat_cloud_state_finished">Sincronizzato con il cloud </string>
+  <string name="miuix_appcompat_cloud_state_syncing">Sincronizzazione con il cloud …</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">aggiornamento terminato</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">aggiornamento</string>
@@ -263,6 +303,10 @@
   <string name="saturday">Sabato</string>
   <string name="saturday_short">Sab</string>
   <string name="saturday_shortest">S</string>
+  <string name="saturn_id">saturn</string>
+  <string name="saturn_summary">Gli anelli di Saturno sono lo spettacolo più incredibile del Sistema Solare</string>
+  <string name="saturn_super_wallpaper_label">saturno</string>
+  <string name="saturn_title">Anelli lontani</string>
   <string name="search_menu_title">Cerca</string>
   <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
   <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
@@ -293,6 +337,13 @@
   <string name="sunday">Domenica</string>
   <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">D</string>
+  <string name="super_wallpaper_list_label">Super Sfondi</string>
+  <string name="super_wallpaper_setting_apply_success_toast">Applicato correttamente</string>
+  <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Applica</string>
+  <string name="super_wallpaper_setting_choose_position_btn_text">Scegli luogo</string>
+  <string name="super_wallpaper_setting_coordinate_title">Coordinate</string>
+  <string name="super_wallpaper_setting_view_height_title">Altitudine</string>
+  <string name="task_already_exist">Questa attività esiste già</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
   <string name="the_anti_aggression_day">Giornata della pace</string>
   <string name="the_arbor_day">Giorno dei mestieri</string>
@@ -344,8 +395,19 @@
   <string name="tuesday">Martedì</string>
   <string name="tuesday_short">Mar</string>
   <string name="tuesday_shortest">M</string>
+  <string name="update">Aggiorna</string>
   <string name="v7_preference_off">Disattivato</string>
   <string name="v7_preference_on">Attivato</string>
+  <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
+  <string name="wallpaper_setting_find_more_text">Altri sfondi online</string>
+  <string name="wallpaper_setting_home_wallpaper_banner_button_text">Schermata Home</string>
+  <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Schermata di blocco</string>
+  <string name="wallpaper_setting_online_wallpaper_actionbar_title">Sfondi Online</string>
+  <string name="wallpaper_setting_online_wallpaper_none_title">Scopri altri sfondi</string>
+  <string name="wallpaper_setting_online_wallpaper_title">Sfondi Online</string>
+  <string name="wallpaper_setting_super_wallpaper_banner_title">Super sfondi</string>
+  <string name="wallpaper_setting_super_wallpaper_more_button_text">Altro</string>
+  <string name="wallpaper_setting_title">Sfondi</string>
   <string name="wednesday">Mercoledì</string>
   <string name="wednesday_short">Mer</string>
   <string name="wednesday_shortest">M</string>

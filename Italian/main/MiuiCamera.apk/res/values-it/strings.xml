@@ -28,10 +28,10 @@
   <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
   <string name="abc_toolbar_collapse_description">Chiudi</string>
   <string name="access_sd_fail">"Impossibile accedere alla scheda SD."</string>
-  <string name="accessibility_8k_off">AI 8K,关闭状态</string>
-  <string name="accessibility_8k_on">AI 8K,开启状态</string>
-  <string name="accessibility_ai_scene_off">AI disattivata</string>
-  <string name="accessibility_ai_scene_on">AI attiva</string>
+  <string name="accessibility_8k_off">IA 8K,关闭状态</string>
+  <string name="accessibility_8k_on">IA 8K,开启状态</string>
+  <string name="accessibility_ai_scene_off">IA disattivata</string>
+  <string name="accessibility_ai_scene_on">IA attiva</string>
   <string name="accessibility_back_preview_status">Anteprima fotocamera posteriore</string>
   <string name="accessibility_beauty_panel_closed">Menu bellezza nascosto</string>
   <string name="accessibility_beauty_panel_open">Menu bellezza aperto</string>
@@ -116,7 +116,7 @@
   <string name="accessibility_video_pause_button">Pulsante pausa</string>
   <string name="accessibility_video_resume_button">Registrazione ripresa</string>
   <string name="accessibility_zoom_button">Modalità Zoom</string>
-  <string name="ai_scene_mode_use_hint_text">"Scena-AI identifica il tipo di scena 
+  <string name="ai_scene_mode_use_hint_text">"Scena-IA identifica il tipo di scena 
  ed ottimizza l'immagine"</string>
   <string name="ai_scene_top_moon_off">Modalità luce ridotta</string>
   <string name="ai_scene_top_tip">Modalità luna</string>
@@ -137,8 +137,8 @@
   <string name="ambilight_scene_silky_water">Acqua setosa</string>
   <string name="ambilight_scene_star_track">Tracce stellari</string>
   <string name="ambilight_scene_traffic_light">Sentieri al neon</string>
-  <string name="ambilight_tips_for_longtime_using_tripod">长时间拍摄, 请使用三脚架</string>
-  <string name="ambilight_tips_for_suggest_using_tripod">建议使用三脚架拍摄</string>
+  <string name="ambilight_tips_for_longtime_using_tripod">Usa un treppiede durante un'esposizione più lunga</string>
+  <string name="ambilight_tips_for_suggest_using_tripod">Usa un treppiede</string>
   <string name="ambilight_tips_for_using_tripod">Utilizza un treppiede</string>
   <string name="audio_focus_exit_button_text">Disattiva Messa a Fuoco Audio</string>
   <string name="autozoom_click_hint">"Tocca un oggetto per iniziare a tracciarlo. Rimani almeno a 3 metri di distanza per un effetto ottimale."</string>
@@ -178,6 +178,7 @@
   <string name="camera_disabled">La fotocamera è stata disabilitata.</string>
   <string name="camera_error_title">Errore fotocamera</string>
   <string name="camera_facedetection_sub_option_hint">Opzione sperimentale disponibile</string>
+  <string name="camera_fastmotion_title">Introduzione alla fotografia time-lapse</string>
   <string name="camera_label">Fotocamera</string>
   <string name="camera_liveshot_off_tip">Scatti dinamici disattivati</string>
   <string name="camera_liveshot_on_tip">Scatti dinamici</string>
@@ -688,7 +689,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
 Mantieni il soggetto nitido ed offusca lo sfondo."</string>
   <string name="pref_960_watermark_title">Filigrana 960FPS</string>
   <string name="pref_advance_settings">Impostazioni aggiuntive</string>
-  <string name="pref_ai_detect">Rilevamento AI</string>
+  <string name="pref_ai_detect">Rilevamento IA</string>
   <string name="pref_audio_focus_entry_front">Frontale</string>
   <string name="pref_audio_focus_entry_general">Normale</string>
   <string name="pref_audio_focus_entry_rear">Posteriore</string>
@@ -696,7 +697,8 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
   <string name="pref_burst_shoot_title">Scatto continuo</string>
   <string name="pref_camcorder_settings">Impostazioni videocamera</string>
   <string name="pref_camcorder_settings_category">Video</string>
-  <string name="pref_camera_ai_scene_title">Scena AI</string>
+  <string name="pref_camera_ai_audio">Audio IA</string>
+  <string name="pref_camera_ai_scene_title">Scena IA</string>
   <string name="pref_camera_antibanding_entry_0">Disattivato</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -817,6 +819,17 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
   <string name="pref_camera_face_info_watermark_title">Aggiungi età alle foto</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Rilevamento volto nascosto in automatico</string>
   <string name="pref_camera_facedetection_title">Rileva volti</string>
+  <string name="pref_camera_fastmotion_duration">Durata</string>
+  <string name="pref_camera_fastmotion_duration_description">"Viene utilizzato per impostare la durata totale dello scatto. L'impostazione predefinita è illimitata; maggiore è il tempo di scatto, più ricco è il contenuto della fotografia time-lapse. Quando il tempo impostato non è "illimitato", entra in time-lapse e si interrompe automaticamente dopo il time-lapse."</string>
+  <string name="pref_camera_fastmotion_duration_infinity">Tempo illimitato</string>
+  <string name="pref_camera_fastmotion_duration_unit">%1$s Min</string>
+  <string name="pref_camera_fastmotion_speed">Velocità</string>
+  <string name="pref_camera_fastmotion_speed_150x">Alba e tramonto</string>
+  <string name="pref_camera_fastmotion_speed_1800x">Piante</string>
+  <string name="pref_camera_fastmotion_speed_30x">Strada</string>
+  <string name="pref_camera_fastmotion_speed_750x">Notte</string>
+  <string name="pref_camera_fastmotion_speed_90x">Nuvole</string>
+  <string name="pref_camera_fastmotion_speed_description">"Compressione del tempo regolabile. Con lo stesso tempo di ripresa, maggiore è il valore di velocità selezionato, minore è la durata del video finale e maggiore è la velocità di riproduzione. Per alcuni scenari di ripresa, si consigliano i seguenti valori di velocità:"</string>
   <string name="pref_camera_first_tag_tips">Taggato correttamente</string>
   <string name="pref_camera_flashmode_entry_auto">Automatico</string>
   <string name="pref_camera_flashmode_entry_back_soft_light">Luce leggera</string>
@@ -833,8 +846,8 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
   <string name="pref_camera_focusmode_entry_manual">Manuale</string>
   <string name="pref_camera_focusmode_entry_normal">Normale</string>
   <string name="pref_camera_focusmode_title">Messa a fuoco</string>
-  <string name="pref_camera_front_ai_scene_entry_off">Scena AI disattivata</string>
-  <string name="pref_camera_front_ai_scene_entry_on">Scena AI</string>
+  <string name="pref_camera_front_ai_scene_entry_off">Scena IA disattivata</string>
+  <string name="pref_camera_front_ai_scene_entry_on">Scena IA</string>
   <string name="pref_camera_front_bokeh_entry_off">Disattivato</string>
   <string name="pref_camera_front_bokeh_entry_on">Attivato</string>
   <string name="pref_camera_gradienter_title">Prospettiva</string>
@@ -1059,7 +1072,8 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
   <string name="pref_dual_camera_video">Frontale e posteriore</string>
   <string name="pref_face_beauty_title">Bellezza</string>
   <string name="pref_fingerprint_capture_title">Scatto con impronta</string>
-
+  <string name="pref_front_denoise_summary">Attiva durante la pre-registrazione, è possibile filtrare i disturbi</string>
+  <string name="pref_front_denoise_title">Riduzione del rumore unidirezionale anteriore</string>
   <string name="pref_front_denoise_summary">Ridurre il rumore generato dalla fotocamera anteriore</string>
   <string name="pref_front_denoise_title">Filtro rumore Selfie</string>
   <string name="pref_front_mirror_entry_auto">Quando il volto viene rilevato</string>
@@ -1183,6 +1197,8 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
   <string name="search_menu_title">Cerca</string>
   <string name="search_settings">Impostazioni fotocamera;Qualità;Qualità immagine;Posizione immagine;Posizione foto;Riconoscimento volto;Suono fotocamera</string>
   <string name="see_qrcode_detals">Dettagli codice QR</string>
+  <string name="settings_camera_near_range_description">Rimuove l'effetto sfocatura della profondità di campo quando si riprendono oggetti ravvicinati</string>
+  <string name="settings_camera_near_range_title">Modalità primo piano</string>
   <string name="share">Condividi</string>
   <string name="simple_mode_button_asd_flash">Chiudi scatto Flash</string>
   <string name="simple_mode_button_asd_hdr">Chiudi scatto HDR</string>
@@ -1236,6 +1252,11 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
   <string name="timbre_normal">Originale</string>
   <string name="timbre_robot">Robot</string>
   <string name="time_lapse_error">"Dimensione video non valida per il Time-lapse."</string>
+  <string name="timer_burst">Raffica temporizzata</string>
+  <string name="timer_burst_manu_param_interval">Intervallo(non contiene tempo di esposizione)</string>
+  <string name="timer_burst_param_interval">Intervallo</string>
+  <string name="timer_burst_param_total_count">Conteggio totale di scatti</string>
+  <string name="timer_burst_setting_total_count">Conteggio:%1$s</string>
   <string name="title_snap_double_confirm">Conferma di nuovo</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Impossibile acquisire scatti multipli durante la registrazione audio"</string>
   <string name="toast_saving">Salvataggio foto...</string>

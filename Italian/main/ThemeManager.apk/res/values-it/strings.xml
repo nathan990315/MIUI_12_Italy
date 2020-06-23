@@ -47,14 +47,17 @@
   <string name="ad_begin_to_download_tip">Avvio download…</string>
   <string name="ad_begin_to_install_tip">Installazione…</string>
   <string name="ad_closed_tip">"Vedrai meno pubblicità di questo genere"</string>
+  <string name="ad_details">Dettagli</string>
   <string name="ad_download_download">Scarica</string>
   <string name="ad_download_download_now">Scarica</string>
   <string name="ad_download_install">Installa</string>
+  <string name="ad_download_now">Download</string>
   <string name="ad_download_open">Apri</string>
   <string name="ad_download_pause">Pausa</string>
   <string name="ad_download_pending">In attesa</string>
   <string name="ad_download_resume">Riprendi</string>
   <string name="ad_downloading_tip">Questo elemento è in download. Puoi vedere i progressi nel pannello delle notifiche.</string>
+  <string name="ad_experience_now">Apri</string>
   <string name="ad_tag_text_1">流行</string>
   <string name="ad_tag_text_2">时尚</string>
   <string name="add_resource_detail_fail">"Impossibile aggiungere risorsa"</string>
@@ -185,10 +188,17 @@
   <string name="common_downloading">Download…</string>
   <string name="common_format_date_no_year">dd/MM</string>
   <string name="common_skip">Salta</string>
-  <string name="community_cta_dialog_cancel">Annulla</string>
-  <string name="community_cta_dialog_des">Questo tema contiene un collegamento dell\'orologio che visualizza il tuo Mi Account ID e lo stato Mi Community. È possibile disattivare questa funzione passando a un tema diverso o rimuovendo il widget Orologio.</string>
-  <string name="community_cta_dialog_ok">Fatto</string>
-  <string name="community_cta_dialog_title">Collegamento orologio</string>
+  <string name="community_community_message_trigger_summary">Ricevi notifiche su risposte, "Mi piace" e aggiornamenti di stato della Mi Community utilizzando il tuo Mi Account ID</string>
+  <string name="community_community_message_trigger_title">Notifica sulle attività</string>
+  <string name="community_cta_dialog_cancel">No grazie</string>
+  <string name="community_cta_dialog_des">"I temi di terze parti ora supportano il widget Mi Community. Funziona come un collegamento che ti porta al forum Temi di Mi Community. È possibile disattivare questa funzione nelle Impostazioni.
+Consenti ai temi di accedere al tuo Mi Account ID e agli stati della Mi Community associati all'account per poterli visualizzare qui. È inoltre possibile attivare e disattivare le notifiche relative all'attività di Mi Comminity nelle impostazioni."</string>
+  <string name="community_cta_dialog_ok">Permetti</string>
+  <string name="community_cta_dialog_title">Permessi richiesti</string>
+  <string name="community_entrance_summary">Trova contenuti correlati al tema in Mi Community. Questa funzione è supportata dai temi selezionati.</string>
+  <string name="community_entrance_title">Mi Community widget</string>
+  <string name="community_message_trigger_disabled">Off</string>
+  <string name="community_message_trigger_triggered">On</string>
   <string name="component_backup_preference_title">Backup tema</string>
   <string name="component_category_finest_title">In evidenza</string>
   <string name="component_category_more_title">Altro</string>
@@ -387,6 +397,8 @@
   <string name="fmt_weekday_time">W T</string>
   <string name="fmt_weekday_time_timezone">W T z</string>
   <string name="fmt_weekday_timezone">W z</string>
+  <string name="forbid_transparent_wallpaper_by_second_space">Applica prima gli sfondi trasparenti nel primo spazio.</string>
+  <string name="forbid_video_wallpaper_by_second_space">Applica prima gli sfondi dinamici nel primo spazio.</string>
   <string name="friday">Venerdì</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">V</string>
@@ -462,6 +474,7 @@
   <string name="hide_pull_down_positive">Nascondi</string>
   <string name="home_apply_failured">"Impossibile applicare lo sfondo Home"</string>
   <string name="home_apply_success">Sfondo Home applicato</string>
+  <string name="i_know">Capito</string>
   <string name="icon_content_description">Icona di dialogo</string>
   <string name="in_the_end">Nient\'altro</string>
   <string name="incall_show_apply">Video profilo per le chiamate in uscita</string>
@@ -517,6 +530,24 @@ Tocca per accedere."</string>
   <string name="mine_tab_title_like">Mi piace</string>
   <string name="mine_tab_title_local">Locale</string>
   <string name="mine_tab_title_purchase">Ordini</string>
+  <string name="miui_clock_city_name_local">Locale</string>
+  <string name="miui_clock_city_name_second">Secondo orologio</string>
+  <string name="miui_clock_fancy_colon"></string>
+  <string name="miui_digital_clock_dot">:</string>
+  <string name="miui_lock_screen_date">EEEE, dd MMMM </string>
+  <string name="miui_lock_screen_date_12">EEEE,dd MMMM</string>
+  <string name="miui_lock_screen_date_two_lines">"EEEE
+dd MMMM"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd MMMM"</string>
+  <string name="miui_lock_screen_large_date">"EEE
+dd/M"</string>
+  <string name="miui_lock_screen_large_date_12">"EEE
+dd/M"</string>
+  <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+  <string name="miui_vertical_time_format_24">"HH
+mm"</string>
   <string name="miuishare_account_activate_confirmation">Attiva Mi Account</string>
   <string name="miuishare_account_activate_ok">Attiva</string>
   <string name="miuishare_account_login_cancel">Annulla</string>
@@ -780,7 +811,7 @@ Tocca per accedere."</string>
   <string name="resource_detail_window_title">%1$s dettagli</string>
   <string name="resource_download">Scarica</string>
   <string name="resource_download_notification_title_many">%1$s temi scaricati</string>
-  <string name="resource_download_notification_title_one">Temi scaricati</string>
+  <string name="resource_download_notification_title_one">%1$s Scaricato</string>
   <string name="resource_download_trial">Prova</string>
   <string name="resource_downloaded_title">Risorse scaricate</string>
   <string name="resource_downloading">Download in corso</string>
@@ -796,7 +827,7 @@ Tocca per accedere."</string>
   <string name="resource_exchange_share_code_content">"Hai ricevuto un codice per %1$s nello store dei Temi MIUI. Il tuo saldo Mi Credit è: %2$s. Tocca %3$s per utilizzarlo adesso."</string>
   <string name="resource_exchange_share_code_dlg_content">Il codice acquistato con successo per %1$s è: %2$s. Adesso puoi condividerlo con i tuoi amici.</string>
   <string name="resource_exchange_share_code_dlg_title">Invia codice</string>
-  <string name="resource_exchange_success">Transazione completata</string>
+  <string name="resource_exchange_success">Riscattato correttamente</string>
   <string name="resource_exchange_unavailable">"Il codice inserito non è valido per questo tema"</string>
   <string name="resource_exchange_universal_finish">Utilizza questo codice per scaricare un tema dallo store Temi MIUI.</string>
   <string name="resource_exchange_universal_goon">Questo codice può essere utilizzato per scaricare temi nello store Temi MIUI.</string>
@@ -1101,6 +1132,7 @@ Tocca per accedere."</string>
   <string name="theme_current_using_has_update">Aggiornamenti Temi disponibili</string>
   <string name="theme_description_title_customized">Modificato</string>
   <string name="theme_description_title_default">Predefinito</string>
+  <string name="theme_designer_products">Temi Designer</string>
   <string name="theme_detail_tab_comment">Commenti</string>
   <string name="theme_detail_tab_recommend">Consigliati</string>
   <string name="theme_detail_tab_theme">Temi</string>
@@ -1212,6 +1244,7 @@ Tocca per accedere."</string>
   <string name="update_latest">La tua app è aggiornata</string>
   <string name="update_no_net">Si è verificato un errore di rete. Riprova</string>
   <string name="update_title">NUOVO AGGIORNAMENTO DISPONIBILE</string>
+  <string name="use_hint">Avviso</string>
   <string name="using_theme_has_update_tips">Un aggiornamento per questo tema è disponibile.</string>
   <string name="using_theme_next_automatic_update">Aggiornamenti automatici</string>
   <string name="using_theme_next_automatic_update_summary">Aggiorna automaticamente i temi scaricati tramite Wi-Fi quando lo schermo è bloccato</string>

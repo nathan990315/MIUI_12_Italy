@@ -222,10 +222,14 @@ Vuoi chiuderlo?"</string>
   <string name="badPin">"Il PIN digitato è errato."</string>
   <string name="badPuk">"Il PUK digitato è errato."</string>
   <string name="battery_saver_charged_notification_title">Telefono %1$s caricato</string>
-  <string name="battery_saver_description">Per aumentare la durata della batteria, la funzionalità di Risparmio energetico riduce le prestazioni del dispositivo e limita vibrazione, servizi di localizzazione e la maggior parte dei dati in background. App di email, messaggi e altre app che si basano sulla sincronizzazione potrebbero essere aggiornate soltanto all\'apertura.
+  <string name="battery_saver_description">Per prolungare la durata della batteria, Risparmio batteria:
+· Attiva tema scuro
+· Disattiva o limita l'attività in background, alcuni effetti visivi e altre funzionalità come \"Ehi Google\""</string>
+  <string name="battery_saver_description_with_learn_more">"Per prolungare la durata della batteria, Risparmio batteria:
+· Attiva tema scuro
+· Disattiva o limita l'attività in background, alcuni effetti visivi e altre funzionalità come \"Ehi Google\"
 
-La funzionalità di risparmio energetico viene disattivata automaticamente quando il dispositivo è in carica.</string>
-  <string name="battery_saver_description_with_learn_more">\"Per aumentare l\'autonomia della batteria, Risparmio Batteria disattiverà alcune funzioni e limiterà alcune app.\" <annotation id="url">Altre informazioni</annotation></string>
+"&lt;annotation id="url"&gt;Scopri di più&lt;/annotation&gt;</string>
   <string name="battery_saver_notification_channel_name">Risparmio batteria</string>
   <string name="battery_saver_off_alternative_notification_summary">Risparmio batteria disattivato. Funzionalità non più limitate.</string>
   <string name="battery_saver_off_notification_summary">Risparmio batteria spento. Funzionalità non più limitate.</string>
@@ -588,13 +592,13 @@ utilizzando %s"</string>
   <string name="ext_media_unsupported_notification_title">%s non supportata</string>
   <string name="extract_edit_menu_button">Modifica</string>
   <string name="face_acquired_insufficient">Impossibile ottenere dati viso accurati. Riprova.</string>
-  <string name="face_acquired_not_detected">Non riesco a vedere il viso. Guarda il telefono.</string>
+  <string name="face_acquired_not_detected">Posizionare il viso direttamente davanti al telefono.</string>
   <string name="face_acquired_obscured">Rimuovi qualsiasi cosa copra il tuo viso.</string>
   <string name="face_acquired_pan_too_extreme">Gira un po\' meno la testa.</string>
   <string name="face_acquired_poor_gaze">Guarda il tuo dispositivo direttamente.</string>
   <string name="face_acquired_recalibrate">Per favore, reinserisci il viso.</string>
   <string name="face_acquired_roll_too_extreme">Gira un po\' meno la testa.</string>
-  <string name="face_acquired_sensor_dirty">Pulire il sensore sul bordo superiore dello schermo.</string>
+  <string name="face_acquired_sensor_dirty">Pulire la parte superiore dello schermo, inclusa la barra nera.</string>
   <string name="face_acquired_tilt_too_extreme">Gira un po\' meno la testa.</string>
   <string name="face_acquired_too_bright">Troppo luminoso. Trova un\'illuminazione minore.</string>
   <string name="face_acquired_too_close">Sposta il telefono più lontano.</string>
@@ -611,12 +615,12 @@ utilizzando %s"</string>
   <string name="face_authenticated_no_confirmation_required">Volto autenticato</string>
   <string name="face_error_canceled">Registrazione volto annullata</string>
   <string name="face_error_hw_not_available">Impossibile verificare il volto. Hardware non disponibile.</string>
-  <string name="face_error_hw_not_present">L\'autenticazione facciale non è supportata su questo dispositivo</string>
+  <string name="face_error_hw_not_present">Lo sblocco facciale non è supportato su questo dispositivo</string>
   <string name="face_error_lockout">Troppi tentativi. Riprova più tardi.</string>
   <string name="face_error_lockout_permanent">Troppi tentativi. Autenticazione facciale disabilitata.</string>
   <string name="face_error_no_space">Non è possibile memorizzare nuovi dati sul volto. Eliminane uno prima.</string>
-  <string name="face_error_not_enrolled">Non hai configurato l\'autenticazione facciale</string>
-  <string name="face_error_timeout">Prova nuovamente l\'autenticazione facciale.</string>
+  <string name="face_error_not_enrolled">Non hai configurato lo sblocco facciale</string>
+  <string name="face_error_timeout">Prova nuovamente lo sblocco facciale.</string>
   <string name="face_error_unable_to_process">Impossibile verificare il volto. Riprova.</string>
   <string name="face_error_user_canceled">Autenticazione facciale annullata dall\'utente</string>
   <string name="face_icon_content_description">Icona volto</string>
@@ -1169,6 +1173,7 @@ Riprova tra %2$d secondi."</string>
   <string name="notification_channel_retail_mode">Demo al dettaglio</string>
   <string name="notification_channel_security">Sicurezza</string>
   <string name="notification_channel_sim">Stato SIM</string>
+  <string name="notification_channel_sim_high_prio">Stato SIM prioritaria</string>
   <string name="notification_channel_sms">Messaggi SMS</string>
   <string name="notification_channel_system_changes">Modifiche di sistema</string>
   <string name="notification_channel_updates">Aggiornamenti</string>
@@ -1282,7 +1287,7 @@ Riprova tra %2$d secondi."</string>
   <string name="permdesc_readCalendar">Consente all\'applicazione di leggere tutti gli eventi di calendario memorizzati sul telefono, inclusi quelli di amici o colleghi. Ciò potrebbe consentire all\'applicazione di condividere o salvare i dati del tuo calendario, a prescindere dal livello di riservatezza o privacy.</string>
   <string name="permdesc_readCallLog">Consente all\'applicazione di leggere il registro chiamate del telefono, inclusi i dati sulle chiamate in arrivo e in uscita. Questa autorizzazione consente alle applicazioni di salvare i dati del tuo registro chiamate e applicazioni dannose potrebbero condividere i dati del registro chiamate a tua insaputa.</string>
   <string name="permdesc_readCellBroadcasts">Consente all\'applicazione di leggere i messaggi cell broadcast ricevuti dal dispositivo. Gli avvisi cell broadcast vengono trasmessi in alcune località per avvertire di eventuali situazioni di emergenza. Le applicazioni dannose potrebbero interferire con il rendimento o con il funzionamento del dispositivo quando si riceve un messaggio cell broadcast di emergenza.</string>
-  <string name="permdesc_readContacts">"Consente all'applicazione di leggere i dati relativi ai tuoi contatti memorizzati sul telefono, inclusa la frequenza con cui hai effettuato chiamate, inviato email o comunicato in altri modi con individui specifici. Questa autorizzazione consente alle applicazioni di salvare i dati dei tuoi contatti e applicazioni dannose potrebbero condividere i dati dei contatti a tua insaputa."</string>
+  <string name="permdesc_readContacts">"Consente all'app di leggere i dati sui contatti memorizzati sul telefono. Questa autorizzazione consente alle app di salvare i dati sui contatti e le app dannose potrebbero condividere i dati all'insaputa dell'utente.."</string>
   <string name="permdesc_readHistoryBookmarks">"Consente all'applicazione di leggere la cronologia di tutti gli URL che il Browser ha visitato e di tutti i segnalibri del Browser. Nota. È possibile che questa autorizzazione non sia applicabile da browser di terze parti o altre applicazioni con funzionalità di navigazione web."</string>
   <string name="permdesc_readInstallSessions">Consente a un\'applicazione di leggere le sessioni di installazione. L\'app può conoscere i dettagli sulle installazioni di pacchetti attive.</string>
   <string name="permdesc_readNetworkUsageHistory">Consente all\'applicazione di leggere dati storici di utilizzo della rete per reti e applicazioni specifiche.</string>
@@ -1324,7 +1329,7 @@ Riprova tra %2$d secondi."</string>
   <string name="permdesc_uninstall_shortcut">Consente all\'applicazione di rimuovere le scorciatoie della schermata Home automaticamente.</string>
   <string name="permdesc_useBiometric">Consenti all\'app di usare i dati biometrici per l\'autenticazione</string>
   <string name="permdesc_useDataInBackground">Questa app può utilizzare i dati in background. Questo potrebbe aumentare l\'utilizzo dei dati.</string>
-  <string name="permdesc_useFaceAuthentication">Consente all\'applicazione di utilizzare l\'hardware di autenticazione facciale per l\'autenticazione</string>
+  <string name="permdesc_useFaceAuthentication">Consente all\'applicazione di utilizzare l\'hardware di sblocco facciale per l\'autenticazione</string>
   <string name="permdesc_useFingerprint">Consente all\'applicazione di usare le impronte digitali per l\'autenticazione.</string>
   <string name="permdesc_use_sip">Consente all\'app di effettuare e ricevere chiamate SIP.</string>
   <string name="permdesc_vibrate">Consente all\'applicazione di controllare la vibrazione.</string>
@@ -1429,7 +1434,7 @@ per l'account %s."</string>
   <string name="permlab_install_shortcut">aggiunta di scorciatoie</string>
   <string name="permlab_invokeCarrierSetup">richiamo dell\'app di configurazione operatore-provider</string>
   <string name="permlab_killBackgroundProcesses">chiusura altre applicazioni</string>
-  <string name="permlab_manageFace">gestire l\'hardware di autenticazione facciale</string>
+  <string name="permlab_manageFace">gestire l\'hardware di sblocco facciale</string>
   <string name="permlab_manageFingerprint">gestione impronte digitali</string>
   <string name="permlab_manageNetworkPolicy">gestione norme rete</string>
   <string name="permlab_manageOwnCalls">inoltrare le chiamate attraverso il sistema</string>
@@ -1485,7 +1490,7 @@ per l'account %s."</string>
   <string name="permlab_uninstall_shortcut">eliminazione di scorciatoie</string>
   <string name="permlab_useBiometric">usare hardware biometrico</string>
   <string name="permlab_useDataInBackground">utilizzare i dati in background</string>
-  <string name="permlab_useFaceAuthentication">utilizzare l\'hardware di autenticazione facciale</string>
+  <string name="permlab_useFaceAuthentication">utilizzare l\'hardware di sblocco facciale</string>
   <string name="permlab_useFingerprint">sensore impronte digitali</string>
   <string name="permlab_use_sip">fare/ricevere chiamate SIP</string>
   <string name="permlab_vibrate">Controllo vibrazione</string>
@@ -1522,6 +1527,7 @@ per l'account %s."</string>
   <string name="phoneTypeWork">Lavoro</string>
   <string name="phoneTypeWorkMobile">Cellulare lavoro</string>
   <string name="phoneTypeWorkPager">Cercapersone lavoro</string>
+  <string name="pin_target">Fissa</string>
   <string name="policydesc_disableCamera">Impedisci l\'utilizzo di tutte le fotocamere del dispositivo.</string>
   <string name="policydesc_disableKeyguardFeatures">Impedisce l\'utilizzo di alcune funzionalità con il blocco tastiera.</string>
   <string name="policydesc_encryptedStorage">Richiede la crittografia dei dati applicazione memorizzati.</string>
@@ -1812,6 +1818,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
   <string name="tutorial_double_tap_to_zoom_message_short">Tocca due volte per il comando dello zoom</string>
   <string name="undo">Annulla</string>
   <string name="unknownName">(Sconosciuto)</string>
+  <string name="unpin_target">Rilascia</string>
   <string name="unsupported_compile_sdk_check_update">Cerca aggiornamenti</string>
   <string name="unsupported_compile_sdk_message">%1$s è stata sviluppata per una versione Android OS non compatibile e potrebbe non funzionare correttamente. Potrebbe essere disponibile una versione aggiornata.</string>
   <string name="unsupported_compile_sdk_show">Mostra sempre</string>
@@ -1855,8 +1862,8 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
   <string name="usb_unsupported_audio_accessory_title">Accessorio audio Analog rilevato</string>
   <string name="use_a_different_app">Utilizza un\'app diversa</string>
   <string name="user_authentication_failed"></string>
-  <string name="user_creation_account_exists">Permetti a %1$s di creare un nuovo Utente con %2$s ?</string>
-  <string name="user_creation_adding">Permetti a %1$s di creare un nuovo Utente con %2$s (un Utente con questo account è attualmente esistente) ?</string>
+  <string name="user_creation_adding">Permetti a %1$s di creare un nuovo Utente con %2$s ?</string>
+  <string name="user_creation_account_exists">Permetti a %1$s di creare un nuovo Utente con %2$s (un Utente con questo account è attualmente esistente) ?</string>
   <string name="user_logging_out_message">Disconnessione %1$s…</string>
   <string name="user_owner_label">App personali</string>
   <string name="user_switched">Utente corrente %1$s.</string>
@@ -1914,6 +1921,7 @@ Vuoi chiuderla?"</string>
   <string name="wfcSpnFormat_wifi_calling_wo_hyphen">Chiamata Wi-Fi</string>
   <string name="wfcSpnFormat_wlan_call">Chiamata Wi-Fi</string>
   <string name="wfc_mode_cellular_preferred_summary">Rete cellulare preferita</string>
+  <string name="wfc_mode_ims_preferred_summary">Ims Preferito</string>
   <string name="wfc_mode_wifi_only_summary">Solo Wi-Fi</string>
   <string name="wfc_mode_wifi_preferred_summary">Wi-Fi preferito</string>
   <string name="whichApplication">Completa l\'azione con</string>
@@ -1954,9 +1962,19 @@ Vuoi chiuderla?"</string>
   <string name="wifi_available_title_connecting">Connettiti alla rete Wi-Fi</string>
   <string name="wifi_available_title_failed_to_connect">Impossibile collegarsi alla rete Wi‑Fi</string>
   <string name="wifi_calling_off_summary">Disattivato</string>
+  <string name="wifi_cannot_connect_with_randomized_mac_message">Toccare per modificare le impostazioni sulla privacy e riprova</string>
+  <string name="wifi_cannot_connect_with_randomized_mac_title">Impossibile connettersi a %1$s</string>
   <string name="wifi_connect_alert_message">L\'app %1$s vorrebbe connettersi alla rete Wi-Fi %2$s</string>
   <string name="wifi_connect_alert_title">Consentire la connessione?</string>
   <string name="wifi_connect_default_application">Un\'applicazione</string>
+  <string name="wifi_disable_mac_randomization_dialog_confirm_text">Cambia impostazione</string>
+  <string name="wifi_disable_mac_randomization_dialog_failure">Impossibile modificare l'impostazione sulla privacy</string>
+  <string name="wifi_disable_mac_randomization_dialog_message">"%1$s potrebbe voler connettersi utilizzando l'indirizzo MAC del dispositivo, un identificatore univoco. Ciò potrebbe consentire il tracciamento della posizione del dispositivo da parte dei dispositivi nelle vicinanze. 
+
+Se si continua, %1$s modificherà l'impostazione della privacy e tenterà di connettersi di nuovo."</string>
+  <string name="wifi_disable_mac_randomization_dialog_network_not_found">Rete non trovata</string>
+  <string name="wifi_disable_mac_randomization_dialog_success">Impostazione aggiornata. Riprova a connetterti.</string>
+  <string name="wifi_disable_mac_randomization_dialog_title">Modificare le impostazioni sulla privacy?</string>
   <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
   <string name="wifi_no_internet">Il Wi-Fi non ha accesso ad internet</string>
   <string name="wifi_no_internet_detailed">Tocca per le opzioni</string>
@@ -1975,10 +1993,10 @@ Vuoi chiuderla?"</string>
   <string name="wifi_softap_config_change">Modifiche alle impostazioni del tuo hotspot</string>
   <string name="wifi_softap_config_change_detailed">Questo dispositivo non supporta la tua preferenza solo per 5GHz. Per questo motivo utilizzerà la banda 5GHz quando disponibile.</string>
   <string name="wifi_softap_config_change_summary">La banda del tuo hospot è cambiata.</string>
-  <string name="wifi_suggestion_action_allow_app">Sì</string>
-  <string name="wifi_suggestion_action_disallow_app">No</string>
-  <string name="wifi_suggestion_content">Consigliato da %s</string>
-  <string name="wifi_suggestion_title">Connettersi alle reti Wi‐Fi?</string>
+  <string name="wifi_suggestion_action_allow_app">Permetti</string>
+  <string name="wifi_suggestion_action_disallow_app">No grazie</string>
+  <string name="wifi_suggestion_content">%s reti suggerite. Il dispositivo potrebbe connettersi automaticamente</string>
+  <string name="wifi_suggestion_title">Connettersi alle reti Wi-Fi suggerite?</string>
   <string name="wifi_tether_configure_ssid_default">TetheringAP</string>
   <string name="wifi_wakeup_enabled_content">"Sei vicino ad una rete salvata: %1$s"</string>
   <string name="wifi_wakeup_enabled_title">Wi‑Fi attivato automaticamente</string>
