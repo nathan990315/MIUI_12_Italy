@@ -169,6 +169,9 @@
   <string name="antivirus_privacy_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_summary">"Questa caratteristica cifra e carica l'ID del dispositivo sui server (%s) di AVL e Tencent."</string>
   <string name="antivirus_privacy_dialog_summary_link">visualizza l\'informativa sulla Privacy</string>
+  <string name="antivirus_privacy_dialog_summary_new">&lt;Data&gt;Questa funzionalità utilizza definizioni antivirus fornite da Avast, AVL e Tencent. Leggi le informazioni sui &amp;lt;a href=\"%1$s\"&amp;gt;contratti di licenza&amp;lt;/a&amp;gt; per saperne di più.&lt;/Data&gt;</string>
+  <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data&gt;Questa funzionalità utilizza definizioni antivirus fornite da AVL e Tencent. Leggi le informazioni sui &amp;lt;a href=\"%1$s\"&amp;gt;contratti di licenza&amp;lt;/a&amp;gt; per saperne di più.&lt;/Data&gt;</string>
+  <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data&gt;Questa funzionalità utilizza definizioni antivirus fornite da Avast e AVL. Leggi le informazioni sui &amp;lt;a href=\"%1$s\"&amp;gt;contratti di licenza&amp;lt;/a&amp;gt; per saperne di più.&lt;/Data&gt;</string>
   <string name="antivirus_privacy_dialog_title">Informativa sulla Privacy</string>
   <string name="antivirus_sec_network_unavailable">"L'app sicurezza non può essere aggiornata perché hai limitato la connessione internet. Consentire a Sicurezza di accedere ad internet?"</string>
   <string name="antivirus_toast_already_update">Aggiornato</string>

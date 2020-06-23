@@ -84,6 +84,7 @@
   <string name="album_camera_name">Fotocamera</string>
   <string name="album_cloud_list_page_title">Gestisci album sincronizzati</string>
   <string name="album_creative">Le mie foto modificate</string>
+  <string name="album_detail_default_sort_tip">Passato all\'ordine cronologico</string>
   <string name="album_detail_page_empty">Nessuna foto o video</string>
   <string name="album_download">Download</string>
   <string name="album_faces_name">Volto</string>
@@ -267,6 +268,8 @@
   <string name="blur_refocus_enter"></string>
   <string name="browse_category_title">Sfoglia</string>
   <string name="btn_cancel">Ferma</string>
+  <string name="btn_cancel_send">Ferma il trasferimento</string>
+  <string name="btn_exit_send">Esci</string>
   <string name="btn_sure">OK</string>
   <string name="burst_image_download_item_title" formatted="false">Scarica l\'originale (%s|%s)</string>
   <string name="burst_photo_enter"></string>
@@ -1453,6 +1456,10 @@ per personalizzare la Galleria"</string>
   <string name="member_menu_vipname_premium">Premium</string>
   <string name="member_menu_vipname_ultra">Ultra</string>
   <string name="menu_album_new_album">Nuovo album</string>
+  <string name="menu_detail_sort_create_date">Creato</string>
+  <string name="menu_detail_sort_name">Nome File</string>
+  <string name="menu_detail_sort_size">Dimensione</string>
+  <string name="menu_detail_sort_update_date">Ultima modifica</string>
   <string name="menu_item_sort_date">Data</string>
   <string name="menu_item_sort_name">Nome</string>
   <string name="menu_item_sort_size">Dim.</string>
@@ -1654,6 +1661,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
   <string name="operation_favorites">Preferiti</string>
   <string name="operation_force_top">Fissa</string>
   <string name="operation_hide">Nascondi</string>
+  <string name="operation_hide_time">Nascondi date</string>
   <string name="operation_in_process">Elaborazione…</string>
   <string name="operation_move">Sposta</string>
   <string name="operation_move_to_other_albums">Sposta in Altri album</string>
@@ -1678,7 +1686,9 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
   <string name="operation_share_manage">Gestisci gli elementi condivisi</string>
   <string name="operation_show_in_photos_tab">Mostra in home</string>
   <string name="operation_show_on_map">Mostra sulla mappa</string>
+  <string name="operation_show_time">Mostra date</string>
   <string name="operation_slide_show">Avvia presentazione</string>
+  <string name="operation_sort">Ordina</string>
   <string name="operation_successful">Condiviso correttamente</string>
   <string name="operation_too_often">L\'operazione supera il limite di frequenza, riprova più tardi.</string>
   <string name="operation_unforce_top">Non fissare</string>
@@ -2084,6 +2094,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
   <string name="share_album">Condividi album</string>
   <string name="share_album_needs_auto_upload_tip">"L'album condiviso non può disattivare il backup automatico"</string>
   <string name="share_album_qr_code">"Album codici QR code"</string>
+  <string name="share_and_delete_screenshot">Elimina dopo aver condiviso</string>
   <string name="share_by_email_start">Tentativo di condivisione in background per %1$s </string>
   <string name="share_by_email_successfully">Condivisione %1$s tramite email completata</string>
   <string name="share_public_url_text">"Ho condiviso l'album %1$s. Esplora %2$s"</string>
@@ -2143,6 +2154,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
   <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
   <string name="sort">Ordina</string>
   <string name="special_type_8k">IA 8K</string>
+  <string name="special_type_ai_audio">Audio IA</string>
   <string name="special_type_eye_repair">Sistema gli occhi chiusi con l\'IA</string>
   <string name="special_type_hdr">HDR</string>
   <string name="special_type_log">LOG</string>
