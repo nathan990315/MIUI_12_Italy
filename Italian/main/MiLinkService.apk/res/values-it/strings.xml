@@ -19,6 +19,7 @@
   <string name="dialog_connected">Connesso</string>
   <string name="dialog_connecting">Connessione…</string>
   <string name="dialog_nfc_cast_wifi_off">Attiva il Wi-Fi per eseguire la proiezione tramite NFC. Attivarlo ora?</string>
+  <string name="dialog_no_device_message">&lt;Data&gt;1. Collegare il telefono e la TV alla stessa rete Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Su alcuni modelli TV, questa funzione è disponibile solo quando il mirroring dello schermo è attivo. Vai su &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; per saperne di più.&lt;/Data&gt;</string>
   <string name="dialog_ok">OK</string>
   <string name="dialog_only_suport_content">Trasmetti foto, video o musica</string>
   <string name="dialog_open_wifi_bt">Apri sincronizzazione</string>
@@ -26,6 +27,9 @@
 Visualizza la guida se hai problemi di connessione."</string>
   <string name="dialog_recent_connected">Recenti</string>
   <string name="dialog_retry">Riprova</string>
+  <string name="dialog_scan_message">"1. Collegare il telefono e la TV alla stessa rete Wi-Fi.
+
+2. Su alcuni modelli TV, questa funzione è disponibile solo quando il mirroring dello schermo è attivo. Vai su \"Aiuto\" per saperne di più."</string>
   <string name="dialog_scanning_device">Ricerca dispositivi nelle vicinanze…</string>
   <string name="dialog_scanning_precondition">Attiva il Wi-Fi e il Bluetooth del tuo telefono per utilizzare lo Schermo Wireless.</string>
   <string name="dialog_select_tv">Seleziona dispositivo (%d)</string>
