@@ -3,14 +3,17 @@
   <string name="action_missing_private_key">Chiave privata necessaria per installare un certificato</string>
   <string name="action_missing_user_cert">Certificato richiesto per installare una chiave privata</string>
   <string name="app_name">Gestore installazione certificati</string>
-  <string name="cert_is_added">%s è installato.</string>
-  <string name="cert_missing_error">"Installazione impossibile: file del certificato non trovato."</string>
+<string name="ca_cert_is_added">Certificato CA installato</string>
+  <string name="ca_certificate">Certificato CA</string>  
+  <string name="cert_missing_error">"Installazione fallita: file del certificato non trovato."</string>
   <string name="cert_not_saved">Il certificato non è installato.</string>
-  <string name="cert_read_error">"Installazione impossibile: file del certificato non leggibile."</string>
-  <string name="cert_too_large_error">"Installazione impossibile: dimensioni del certificato troppo grandi."</string>
+  <string name="cert_read_error">"Installazione fallita: file del certificato non leggibile."</string>
+    <string name="cert_temp_error">Installazione fallita. Riprova più tardi.</string>
+  <string name="cert_too_large_error">"Installazione fallita: dimensioni del certificato troppo grandi."</string>
+    <string name="certificate">Certificato</string>
   <string name="certificate_capabilities_warning">Nota: l\'autore di questo certificato potrebbe monitorare tutto il traffito in entrata e in unsita dal dispositivo.</string>
+    <string name="certificate_name">Nome Certificato</string>
   <string name="credential_info">Il pacchetto contiene:</string>
-  <string name="credential_name">Nome certificato:</string>
   <string name="credential_password">Digita la password per l\'estrazione dei certificati.</string>
   <string name="credential_usage_label">Utilizzo della credenziale: </string>
   <string name="done_label">OK</string>
@@ -18,6 +21,9 @@
   <string name="install_done">%1$s credenziali sono state aggiunte alle reti Wi-Fi salvate.</string>
   <string name="install_done_title">Credenziali installate</string>
   <string name="invalid_cert">Il certificato non è valido.</string>
+  <string name="invalid_certificate_close_button">Chiudi</string>
+  <string name="invalid_certificate_message">"Questo file non può essere utilizzato come %1$s"</string>
+  <string name="invalid_certificate_title">"Impossibile utilizzare questo file"</string>
   <string name="n_cacrts">%d certificati CA</string>
   <string name="name_char_error">Digita un nome contenente soltanto lettere e numeri.</string>
   <string name="name_credential_dialog_title">Specifica un nome per il certificato</string>
@@ -33,9 +39,17 @@
   <string name="pick_file_title">Scegli un certificato</string>
   <string name="pkcs12_file_password_dialog_title">Estrazione da %s</string>
   <string name="pkcs12_password_dialog_title">Estrai certificato</string>
+   <string name="redirect_ca_certificate_close_button">Chiudi</string>
+  <string name="redirect_ca_certificate_message">I Certificati CA possono mettere a rischio la tua privacy e devono essere installati in Impostazioni</string>
+  <string name="redirect_ca_certificate_title">"Impossibile installare i Certificati CA"</string>
+  <string name="select_certificate_usage_title">Scegli tipo di certificato</string>
   <string name="unable_to_save_cert">"Impossibile salvare il certificato. L'archivio credenziali non è attivo o non è stato inizializzato correttamente."</string>
+  <string name="user_cert_is_added">Certificato utente installato</string>
+  <string name="user_certificate">Certificato utente e VPN</string>
   <string name="userkey_type">Algoritmo:</string>
   <string name="wifi_cancel_label">Annulla</string>
+  <string name="wifi_cert_is_added">Certificato Wi-Fi installato</string>
+  <string name="wifi_certificate">Certificato Wi-Fi</string>
   <string name="wifi_config_text">"Nome: %1$s
 FQDN: %2$s
 Società Roaming: %3$s

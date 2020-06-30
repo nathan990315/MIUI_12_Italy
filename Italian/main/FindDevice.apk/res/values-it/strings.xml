@@ -46,7 +46,7 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
   <string name="passport_trust_device">Dispositivo attendibile</string>
   <string name="passport_vcode_prompt_long">Inserisci il codice di verifica</string>
   <string name="passport_verify">Verifica</string>
-  <string name="password">password</string>
+  <string name="password">Inserisci password</string>
   <string name="phone_locked">Questo dispositivo è associato ad un Mi Account (%s). Esegui l\'accesso per attivare il dispositivo.</string>
   <string name="phone_locked_account_email">, email associata: %s</string>
   <string name="phone_locked_account_phone">, numero associato: %s</string>
@@ -74,14 +74,14 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
   <string name="unlock_error_unknown">"Impossibile accedere"</string>
   <string name="unlock_error_user_name">Nome utente non valido</string>
   <string name="unlock_error_wrong_vcode">Il codice inserito non è corretto</string>
-  <string name="unlock_help">"Rimani collegato alla rete
-Assicurati di aver inserito una SIM funzionante, e che il dispositivo sia collegato ad una rete Wi-Fi funzionante
+  <string name="unlock_help">"Connettiti alla rete.
+Inserisci una scheda SIM funzionante e non connetterti a reti Wi-Fi non valide
 
 Password dimenticata?
-Vai su id.mi.com per ripristinare la tua password
+Vai su id.mi.com seleziona \"Password dimenticata?\" e segui le istruzioni.
 
-Altri motivi
-Vai su id.mi.com e prova a sbloccare il dispositivo da qui"</string>
+Non riesci ad attivare il dispositivo?
+Vai su i.mi.com/ss e invia il modulo per sbloccare il dispositivo."</string>
   <string name="unlock_help_title">Suggerimento di sblocco:</string>
   <string name="unlock_number">Codice di sblocco: %s</string>
   <string name="unlock_wrong_captcha">Il codice inserito non è corretto</string>
