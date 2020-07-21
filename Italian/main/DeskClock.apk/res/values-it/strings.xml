@@ -57,6 +57,7 @@
   <string name="alarmclock_silent_hint">Sveglia silenziata</string>
   <string name="alert">Suoneria</string>
   <string name="alert_ringtone">Suoneria sveglia</string>
+  <string name="alert_vibrate_enable_summary">Vibra quando viene disattivata la sveglia</string>
   <string name="alert_volume">Volume suoneria</string>
   <string name="alert_volume_summary">Imposta il volume della suoneria per sveglie e timer</string>
   <string name="already_exist">Questo timer esiste già</string>
@@ -319,10 +320,11 @@
   <string name="ringtone_digital_timer">Conto alla rovescia</string>
   <string name="ringtone_dream">Daydream</string>
   <string name="ringtone_firefly">Lucciole</string>
+  <string name="ringtone_more">Altri</string>
   <string name="ringtone_other">Altre suonerie</string>
   <string name="ringtone_weather">Sveglia meteo</string>
   <string name="ringtone_week">Sveglia naturale</string>
-  <string name="search_alarm_clock_keywords">Sveglia;Sveglia;</string>
+  <string name="search_alarm_clock_keywords">Sveglia;Sveglia;Orologio Sveglia;Allarme</string>
   <string name="search_menu_title">Cerca</string>
   <string name="search_stopwatch_keywords">Cronometro</string>
   <string name="search_timer_keywords">Conto alla rovescia</string>

@@ -164,6 +164,20 @@
         <item>肖玮, 阿丹. 安全期避孕安全吗?[J]. 健康必读, 2002(4).</item>
         <item>2018 - Rapporto scientifico del Comitato Consultivo per le Attività Fisiche</item>
     </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Lun, Mer, Ven</item>
+        <item>Mar, Gio, Sab</item>
+        <item>Mer, Ven, Dom</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Ogni Lunedì</item>
+        <item>Ogni Martedì</item>
+        <item>Ogni Mercoledì</item>
+        <item>Ogni Giovedì</item>
+        <item>Ogni Venerdì</item>
+        <item>Ogni Sabato</item>
+        <item>Ogni Domenica</item>
+    </string-array>
 	<string-array name="rh_blood_array">
         <item>Non impostato</item>
         <item>Negativo</item>

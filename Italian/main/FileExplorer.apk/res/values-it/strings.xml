@@ -33,7 +33,7 @@
   <string name="add_private">Aggiungi file alle cartelle nascoste</string>
   <string name="add_private_files">Aggiungi file</string>
   <string name="aggree_desc">Consentire a questa app di connettersi a Internet e concedere le autorizzazioni obbligatorie elencate sopra.</string>
-  <string name="app_all_purpose">欢迎您使用文件管理器。您可使用本应用以实现管理手机内文件的功能。</string>
+  <string name="app_all_purpose">Benvenuti in Gestore File! È possibile utilizzare questa applicazione per gestire i file memorizzati sul dispositivo</string>
   <string name="app_function">Gestisci i file sul tuo dispositivo</string>
   <string name="app_name">Esplora File</string>
   <string name="app_name_bluetooth">Bluetooth</string>
@@ -128,8 +128,8 @@
   <string name="delete_files">Eliminare %1$d file?</string>
   <string name="delete_folder">\u0020Eliminare questa cartella?</string>
   <string name="delete_folders">\u0020Eliminare %1$d cartelle?</string>
-  <string name="des_hide_pwd">隐藏密码</string>
-  <string name="des_show_pwd">显示密码</string>
+  <string name="des_hide_pwd">Nascondi password</string>
+  <string name="des_show_pwd">Mostra password</string>
   <string name="dialog_select_type">Seleziona il tipo di file</string>
   <string name="dialog_type_audio">Audio</string>
   <string name="dialog_type_image">Immagine</string>
@@ -147,7 +147,7 @@
   <string name="doc_xls">XLS</string>
   <string name="downloading">Download in corso</string>
   <string name="enable_documentsui">Attiva prima %s in Impostazioni/App installate</string>
-  <string name="enable_sd_card">Abilita scheda SD</string>
+  <string name="enable_sd_card">Inserire la scheda SD o disabilitare la memoria di massa USB</string>
   <string name="enable_usb">Collega dispositivo USB</string>
   <string name="encrypt_error">"Impossibile nascondere, riprova"</string>
   <string name="encrypt_prefix">NASCOSTO</string>
@@ -233,7 +233,7 @@
   <string name="kilobyteShort">KB</string>
   <string name="list_mode">Visualizzazione elenco</string>
   <string name="load_more">Altro</string>
-  <string name="load_more_fail">加载失败</string>
+  <string name="load_more_fail">Caricamento fallito</string>
   <string name="loading">Attendi…</string>
   <string name="local_image">Foto</string>
   <string name="local_music">Musica</string>
@@ -364,12 +364,12 @@
   <string name="private_toast_hint2">Per nascondere un file toccalo e tieni premuto, poi aggiungilo alla cartella nascosta.</string>
   <string name="promot_enctypt_password">Inserisci la password utilizzata per sbloccare il dispositivo o disattiva la modalità Genitore</string>
   <string name="pull_to_enter_private">Trascina verso il basso per aprire la cartella privata</string>
-  <string name="pull_to_refresh">下拉刷新</string>
-  <string name="refresh_fail">刷新失败</string>
+  <string name="pull_to_refresh">Trascina per aggiornare</string>
+  <string name="refresh_fail">Aggiornamento fallito</string>
   <string name="refresh_success">Aggiornamento completato</string>
-  <string name="refreshing">正在刷新</string>
+  <string name="refreshing">Aggiornamento</string>
   <string name="release_enter_private">Rilascia per aprire la cartella privata</string>
-  <string name="release_refresh">释放立即刷新</string>
+  <string name="release_refresh">Rilascia per aggiornare</string>
   <string name="rename_alert">"Modificando l'estensione di questo file potresti non essere più in grado di aprirlo."</string>
   <string name="rename_alert2">Il file verrà nascosto.</string>
   <string name="rename_failed">"Impossibile rinominare %1$s"</string>
@@ -441,6 +441,7 @@
   <string name="storage_cloned_app">Spazio per app clonate</string>
   <string name="storage_info_detail">Disponibile: %1$s Totale: %1$s</string>
   <string name="storage_internal">Archivio interno</string>
+  <string name="storage_maintenance_mode">Archivio per la mod. manutenzione</string>
   <string name="storage_sd_card">Scheda SD</string>
   <string name="storage_usb">Archivio USB</string>
   <string name="storage_warning">"Archiviazione esterna non disponibile."</string>
