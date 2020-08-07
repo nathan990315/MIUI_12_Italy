@@ -18,6 +18,8 @@ Per segnalare un errore di traduzione:
 Descrivere nella sezione "Issues":
 - La problematica [Stringa in inglese, traduzione errata...]
 - In che applicazione è stata riscontrata
+- La versione della Xiaomi.eu utilizzata
+- Il dispositivo in cui si verifica l'errore
 - Allegare se possibile uno screenshot dell'errore
 - Fornire suggerimenti sulla traduzione
 _________________
