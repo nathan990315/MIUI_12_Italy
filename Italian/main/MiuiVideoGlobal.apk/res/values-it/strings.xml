@@ -107,15 +107,12 @@
   <string name="alert_dialog_download_prepare">Preparazione al download…</string>
   <string name="alert_dialog_download_progress">"Download dell'app: "</string>
   <string name="all">Visualizza tutti</string>
-  <string name="app_code">MOVIE-ANDROID-MIVIDEO</string>
   <string name="app_name">Mi Video</string>
-  <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
   <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo.</string>
   <string name="auto_play_next_off">Riproduzione automatica spenta</string>
   <string name="auto_play_next_on">Riproduzione automatica attiva</string>
   <string name="before_yestoday">2 giorni fa</string>
   <string name="bind_sign_in_title">Aggiungi Mi Account</string>
-  <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
   <string name="cancel">Annulla</string>
   <string name="cancel_choose">Deseleziona</string>
   <string name="cancel_subscribe_tips">Smettere di seguire?</string>
@@ -137,9 +134,6 @@
   <string name="cast_forward">Avanti</string>
   <string name="cast_forward_10">Avanti dieci secondi</string>
   <string name="cast_forward_30">Avanti trenta secondi</string>
-  <string name="cast_intro_overlay_button_text">@android:string/ok</string>
-  <string name="cast_invalid_stream_duration_text">--:--</string>
-  <string name="cast_invalid_stream_position_text">--:--</string>
   <string name="cast_live_label">LIVE</string>
   <string name="cast_mute">Muto</string>
   <string name="cast_notification_connected_message">Collegato a %1$s</string>
@@ -334,8 +328,6 @@ Invia questo codice al supervisore."</string>
   <string name="exo_track_unknown">Sconosciuto</string>
   <string name="explore">Scopri</string>
   <string name="explore_on_mi_video">Trova di più su Mi Video</string>
-  <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-  <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
   <string name="facebook_application_id"></string>
   <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
   <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
@@ -483,7 +475,6 @@ Invia questo codice al supervisore."</string>
   <string name="have_learned">Fatto</string>
   <string name="hidden_channels">"I seguenti canali non saranno visualizzati nella pagina iniziale."</string>
   <string name="hide">Nascondi</string>
-  <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
   <string name="history">Cronologia</string>
   <string name="history_local_video">Dispositivo</string>
   <string name="history_online_video">Online</string>
@@ -504,15 +495,7 @@ per i video"</string>
   <string name="language_setting_tips">Seleziona le tue preferenze linguistiche per ricevere contenuti più rilevanti. Puoi cambiare le tue preferenze linguistiche in Profilo &gt; Lingua.</string>
   <string name="language_setting_tips_dialog">È possibile selezionare le preferenze della lingua per i contenuti in Account &gt; Lingua.</string>
   <string name="later">Più tardi</string>
-  <string name="library_roundedimageview_author">Vince Mi</string>
-  <string name="library_roundedimageview_authorWebsite">https://github.com/vinc3m1</string>
-  <string name="library_roundedimageview_isOpenSource">true</string>
   <string name="library_roundedimageview_libraryDescription">Una vista veloce (e disegnabile) che supporta angoli arrotondati (e ovali o cerchi) in base all\'esempio originale di Romain Guy.</string>
-  <string name="library_roundedimageview_libraryName">RoundedImageView</string>
-  <string name="library_roundedimageview_libraryVersion">1.3.0</string>
-  <string name="library_roundedimageview_libraryWebsite">https://github.com/vinc3m1/RoundedImageView</string>
-  <string name="library_roundedimageview_licenseId">apache_2_0</string>
-  <string name="library_roundedimageview_repositoryLink">https://github.com/vinc3m1/RoundedImageView.git</string>
   <string name="live_now">In diretta ora</string>
   <string name="live_title">Live HDR</string>
   <string name="live_tv_title">Live TV</string>
@@ -722,7 +705,6 @@ per i video"</string>
   <string name="notification_open_tip">Attiva per ricevere le notifiche</string>
   <string name="notify_apk_installed">Scaricato con successo</string>
   <string name="ok">OK</string>
-  <string name="order_alphabet">A-Z</string>
   <string name="order_recently_subscribe">Iscrizioni recenti</string>
   <string name="order_recently_updated">Aggiornati di recente</string>
   <string name="ovp_alert_dialog_download_install_task">Download plug-in HD…</string>
@@ -816,7 +798,6 @@ Aggiorna prima Mi Video all'ultima versione."</string>
   <string name="ovp_video_plugin_installation_failure">"Impossibile installare %1$s"</string>
   <string name="ovp_video_plugin_installation_two">Attendi…</string>
   <string name="page_title_language">Impostazioni lingua</string>
-  <string name="partner_id">3041</string>
   <string name="passport_access_denied">Accesso negato</string>
   <string name="passport_account_label">Account</string>
   <string name="passport_account_name">"Account: %1$s"</string>
@@ -909,10 +890,6 @@ Aggiorna prima Mi Video all'ultima versione."</string>
   <string name="passport_wrong_vcode">Il captcha inserito non è corretto</string>
   <string name="passport_wrong_voice">Il captcha inserito non è corretto</string>
   <string name="password_toggle_content_description">Mostra password</string>
-  <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-  <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-  <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-  <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="permission_continue">Continua</string>
   <string name="permission_info">"Mi Video ha bisogno di accedere al numero IMEI del tuo dispositivo per:
  
@@ -1175,7 +1152,6 @@ Aumentare la sicurezza del tuo account."</string>
   <string name="srl_header_secondary">Rilascia Al Secondo Piano</string>
   <string name="srl_header_update">"'Ultimo aggiornamento' d-M HH:mm"</string>
   <string name="start_download_tip">Aggiunto alla coda. Controlla lo stato di avanzamento su Profilo e Download.</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_external_sdcard">Scheda SD</string>
   <string name="storage_internal_sdcard">Memoria interna</string>
   <string name="submit">Invia</string>
@@ -1219,11 +1195,7 @@ Aumentare la sicurezza del tuo account."</string>
   <string name="tab_name_moment">Momenti</string>
   <string name="tab_name_trending">Di tendenza</string>
   <string name="tab_name_video">Video</string>
-  <string name="tag_index">tag_index</string>
-  <string name="tag_key">tag_key</string>
-  <string name="tag_object">tag_object</string>
   <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>
-  <string name="theme_id">com_7idear.framework.theme</string>
   <string name="thursday">Giovedì</string>
   <string name="ticket_hint">Codice di verifica</string>
   <string name="ticket_invalid">Il captcha inserito non è corretto</string>
