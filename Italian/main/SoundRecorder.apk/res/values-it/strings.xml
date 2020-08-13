@@ -37,7 +37,7 @@
   <string name="app_record_preference_title">Registrazioni app</string>
   <string name="back">Indietro</string>
   <string name="button_queue_for_wifi">Coda</string>
-  <string name="button_start_now">Download</string>
+  <string name="button_start_now">Scarica</string>
   <string name="call_record">Chiamate registrate</string>
   <string name="call_record_list_group_all">Tutte</string>
   <string name="call_record_list_group_connected">Connesso</string>
@@ -292,6 +292,11 @@
   <string name="recording_quality_low">Bassa</string>
   <string name="recording_quality_standard">Standard</string>
   <string name="recording_stopped">Registrazione interrotta</string>
+  <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
+  <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
+  <string name="recovery">Ripristina</string>
+  <string name="recovery_failed_dialog_button">Fatto</string>
+  <string name="recovery_failed_dialog_title">Attenzione</string>
   <string name="reg_error_audio_exist">audio esistente</string>
   <string name="reg_error_audio_large">"l'audio non dovrebbe essere più grande di 500MB"</string>
   <string name="reg_error_audio_short">l\'audio è troppo piccolo</string>
@@ -311,6 +316,7 @@
   <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.RECORD_AUDIO;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
   <string name="retry">Riprova</string>
   <string name="runtime_permission_ungranted">"Impossibile utilizzare il Registratore per mancanza di autorizzazioni"</string>
+  <string name="save_record_dialog_title">Save recording</string>
   <string name="search_app">Registratore</string>
   <string name="search_empty">"Impossibile trovare risultati"</string>
   <string name="search_enable_earpiece_title">Utilizza il ricevitore per riprodurre audio</string>
@@ -358,7 +364,11 @@
   <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
   <string name="toast_max_record_time">App: %1$s tempo di registrazione massima %2$s</string>
   <string name="toast_uninstall_fileexplorer">"File Explorer non è installato!"</string>
+  <string name="trash_box">Recently deleted items</string>
+  <string name="trash_box_close_tip">Chiudi avviso</string>
+  <string name="trash_box_delete_all">Delete all items from the trash permanently?</string>
   <string name="usage_description">Trascrizione dell\'audio e sincronizzazione di elementi con il cloud</string>
+  <string name="user_feedback">Feedback</string>
   <string name="v7_preference_off">Disattivato</string>
   <string name="v7_preference_on">Attivato</string>
   <string name="webview_check_network">Impostazioni di rete</string>
@@ -370,4 +380,5 @@
   <string name="webview_try_again">Prova di nuovo</string>
   <string name="wifi_recommended_body" formatted="false">L\'utilizzo della rete dati cellulare per il download di questo file (%s) aumenterà il consumo dei dati. Se superi il limite previsto dal piano del tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il download di questo file tocca %s.</string>
   <string name="wifi_recommended_title">Avviso traffico</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

@@ -67,7 +67,7 @@
   <string name="check_in_todo_app">Vedi attività</string>
   <string name="chinese_day_1">1</string>
   <string name="chinese_day_10">10</string>
-  <string name="chinese_day_11">11</string>
+  <string name="chinese_day_11">11</string>
   <string name="chinese_day_12">12</string>
   <string name="chinese_day_13">13</string>
   <string name="chinese_day_14">14</string>
@@ -137,6 +137,7 @@
   <string name="chinese_symbol_animals_tiger">虎</string>
   <string name="clearable_edittext_clear_description">Cancella</string>
   <string name="cloud_service_state_open_reminder">Attiva la sincronizzazione con Mi Cloud per sincronizzare le note.</string>
+  <string name="cloud_service_state_open_reminder_note_and_todo">Apri sincronizzazione cloud</string>
   <string name="cloud_trash_bin_title">Elimina le note su Mi Cloud</string>
   <string name="confirm_cancel">"Non accetto"</string>
   <string name="confirm_ok">Accetto</string>
@@ -147,6 +148,7 @@
   <string name="cta_dialog_message">Le note hanno bisogno di permessi per connettersi ad internet, registrare audio e accedere ai tuoi contatti per funzionare correttamente. Consentire?</string>
   <string name="cta_dialog_title">Permessi richiesti</string>
   <string name="cta_reminder">Questa app necessita di collegarsi alla rete per eseguire il backup delle note su Mi Cloud, oltre che per leggere i tuoi contati per etichettare le note che prendi durante le chiamate.</string>
+  <string name="cta_v2_agree_desc">Consentire a questa applicazione di connettersi a Internet e concedere le autorizzazioni obbligatorie elencate sopra.</string>
   <string name="cta_v2_app_purpose">Creare, visualizzare e gestire le note</string>
   <string name="cta_v2_app_purpose_v12">Benvenuto in Note! Puoi usare questa app per creare attività e note che contengono testo, immagini e audio.</string>
   <string name="data_empty_note">Non ci sono ancora note</string>
@@ -338,7 +340,7 @@
   <string name="menu_unhide">Mostra</string>
   <string name="menu_unstick">Rimuovi spilla</string>
   <string name="merge_to_folder">Crea una cartella</string>
- 
+  <string name="micloud_state_total_count">%1$s</string>
   <string name="midnight">AM</string>
   <string name="miuix_appcompat_cloud_state_disabled">La sincronizzazione col cloud è disattivata</string>
   <string name="miuix_appcompat_cloud_state_finished">Sincronizzato col cloud</string>
@@ -413,6 +415,7 @@
   <string name="note_sort_way">Ordinamento note</string>
   <string name="notealert_enter">Controlla</string>
   <string name="notealert_ok">Ignora</string>
+  <string name="notelist_string_info">…</string>
   <string name="notification_content_add_todo_from_other_app">Hai aggiunto una nuova attività. Tocca per vederla.</string>
   <string name="notify_alarm_title">Promemoria sveglia</string>
   <string name="permdesc_accessNote">Le applicazioni dannose potrebbero sfruttare questa possibilità per accedere alle tue informazioni personali.</string>
@@ -496,6 +499,7 @@
   <string name="search_menu_title">Cerca</string>
   <string name="search_path_notes">App di sistema/Note</string>
   <string name="search_setting_description">Testo nelle note</string>
+  <string name="search_title_notes">@string/app_name</string>
   <string name="select_account_prompt">Abilita sincronizzazione note</string>
   <string name="set_alarm_description">Imposta sveglia</string>
   <string name="setting_other">ALTRO</string>
@@ -547,6 +551,10 @@
   <string name="sunday">Domenica</string>
   <string name="sunday_short">Dom</string>
   <string name="sunday_shortest">D</string>
+  <string name="sync_all_terms">%1$s, %2$s, and %3$s</string>
+  <string name="sync_folder_todo">%1$s e %2$s</string>
+  <string name="sync_note_folder">%1$s e %2$s</string>
+  <string name="sync_note_todo">%1$s e %2$s</string>
   <string name="sync_tips">Tocca per sincronizzare le note con Mi Cloud.</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
   <string name="the_anti_aggression_day">Giornata della pace</string>
@@ -720,5 +728,6 @@ Consenti di registrare audio."</string>
   <string name="wednesday_shortest">M</string>
   <string name="widget_content_loading">Attendi…</string>
   <string name="widget_havenot_content">Nessuna nota associata trovata, premere per crearne una.</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="yesterday">ieri</string>
 </resources>

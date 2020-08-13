@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="are_you_sure_you_want_delete_file">
+        <item quantity="other">Eliminare %1$d file ora?</item>
+        <item quantity="one">Eliminare %1$d file ora?</item>
+    </plurals>
+    <plurals name="are_you_sure_you_want_delete_this">
+        <item quantity="other">Eliminare %1$d immagini ora?</item>
+        <item quantity="one">Eliminare %1$d immagine ora?</item>
+    </plurals>
     <plurals name="choosed">
         <item quantity="other">%1$d selezionati</item>
         <item quantity="one">%1$d selezionato</item>
+    </plurals>
+    <plurals name="monitoringHistory_deleteAlert">
+        <item quantity="one">Sei sicuro di voler eliminare questo elemento ?</item>
+        <item quantity="other">Sei sicuro di voler eliminare questi elementi ?</item>
     </plurals>
 </resources>

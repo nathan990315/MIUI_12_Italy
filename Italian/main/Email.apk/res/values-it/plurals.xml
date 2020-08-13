@@ -116,6 +116,46 @@
         <item quantity="other">%d selezionati</item>
         <item quantity="one">%d selezionato</item>
     </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">%1$d giorni dopo</item>
+        <item quantity="one">%1$d giorno dopo</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">%1$d giorni fa</item>
+        <item quantity="one">%1$d giorno fa</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">%1$d ore dopo</item>
+        <item quantity="one">%1$d ora dopo</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">%1$d ore fa</item>
+        <item quantity="one">%1$d ora fa</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">%1$d minuti dopo</item>
+        <item quantity="one">%1$d minuto dopo</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">%1$d minuti fa</item>
+        <item quantity="one">%1$d minuto fa</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d secondi dopo</item>
+        <item quantity="one">%1$d secondo dopo</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">%1$d secondi fa</item>
+        <item quantity="one">%1$d secondo fa</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">%1$d settimane dopo</item>
+        <item quantity="one">%1$d settimana dopo</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">%1$d settimane fa</item>
+        <item quantity="one">%1$d settimana fa</item>
+    </plurals>
     <plurals name="quick_reply_hint">
         <item quantity="other">Rispondi a %1$d persone</item>
         <item quantity="one">Rispondi a %1$d persona</item>

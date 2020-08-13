@@ -30,6 +30,7 @@
   <string name="action_mode_deselect_all">Deseleziona tutto</string>
   <string name="action_mode_select_all">Seleziona tutto</string>
   <string name="ad_download">Scaricate</string>
+  <string name="add_one">(1)</string>
   <string name="add_private">Aggiungi file alle cartelle nascoste</string>
   <string name="add_private_files">Aggiungi file</string>
   <string name="aggree_desc">Consentire a questa app di connettersi a Internet e concedere le autorizzazioni obbligatorie elencate sopra.</string>
@@ -135,6 +136,7 @@
   <string name="dialog_type_image">Immagine</string>
   <string name="dialog_type_text">Testo</string>
   <string name="dialog_type_video">Video</string>
+  <string name="directory_info_divider">"  |  "</string>
   <string name="disk_available">Disponibile:</string>
   <string name="disk_total">Totale:</string>
   <string name="doc_all">Tutto</string>
@@ -146,7 +148,7 @@
   <string name="doc_wps">WPS</string>
   <string name="doc_xls">XLS</string>
   <string name="downloading">Download in corso</string>
-  <string name="enable_documentsui">Attiva prima %s in Impostazioni/App installate</string>
+  <string name="drag_not_support_with_dir">"Impossibile riordinare o inviare cartelle"</string>
   <string name="enable_sd_card">Inserire la scheda SD o disabilitare la memoria di massa USB</string>
   <string name="enable_usb">Collega dispositivo USB</string>
   <string name="encrypt_error">"Impossibile nascondere, riprova"</string>
@@ -177,6 +179,7 @@
   <string name="favorite_photo">Foto</string>
   <string name="favorite_ringtone">Suoneria</string>
   <string name="favorite_screen_cap">Screenshot MIUI</string>
+  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_info_canread">Lettura:</string>
   <string name="file_info_canwrite">Scrittura:</string>
   <string name="file_info_ishidden">Nascosto:</string>
@@ -246,7 +249,7 @@
   <string name="menu_item_cleanup">Pulizia file</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_midrop">Mi Drop</string>
-  <string name="menu_item_router">Router</string>
+  <string name="menu_item_router">Gateway</string>
   <string name="menu_item_search">Ricerca</string>
   <string name="menu_item_sort">Ordina</string>
   <string name="menu_item_sort_add_time">"Creato "</string>
@@ -255,6 +258,8 @@
   <string name="menu_item_sort_name">Nome</string>
   <string name="menu_item_sort_type">Tipo</string>
   <string name="menu_item_usb">USB</string>
+  <string name="menu_new_display_open">用新窗口打开</string>
+  <string name="menu_pc_open">用电脑程序打开</string>
   <string name="menu_set_wallpaper">Imposta come sfondo</string>
   <string name="mi_router_label">Mi Router</string>
   <string name="mi_share">MiShare</string>
@@ -288,7 +293,6 @@
   <string name="no_enough_storage_title">Spazio insufficiente</string>
   <string name="no_file">Nessun file</string>
   <string name="no_wifi">Nessuna rete Wi-Fi</string>
-  <string name="not_installed_documentsui">DocumentsUI non installato</string>
   <string name="not_set">Non impostato</string>
   <string name="not_support_documentui">"DocumentUI non è supportato su questo dispositivo"</string>
   <string name="notif_server_starting">Avviato server FTP</string>
@@ -354,6 +358,7 @@
   <string name="phone_storage_zip_title">Archivio: </string>
   <string name="pick_file">Seleziona file</string>
   <string name="pick_folder">Scegli cartella</string>
+  <string name="pkgname_zsxq">知识星球</string>
   <string name="port_range">La porta deve essere compresa nell\'intervallo 1024–65535</string>
   <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
   <string name="privacy_policy">Informativa sulla Privacy</string>
@@ -389,7 +394,7 @@
   <string name="rlv_pull_to_refresh">Tira per aggiornare</string>
   <string name="rlv_refreshing">Scansione file…</string>
   <string name="rlv_release_to_refresh">Rilascia per aggiornare</string>
-  <string name="save">Salva</string>
+  <string name="save_file_to_mishare">"Salvato nella cartella Mi Share"</string>
   <string name="search_app">Fonte</string>
   <string name="search_app_more">Altro</string>
   <string name="search_description">Cerca tutti i file sul dispositivo</string>
@@ -406,9 +411,6 @@
   <string name="search_menu_title">Cerca</string>
   <string name="search_result">Risultati</string>
   <string name="search_result_more">Altro</string>
-  <string name="search_statistic_appname">fonte</string>
-  <string name="search_statistic_keyword">keyin</string>
-  <string name="search_statistic_tag">tag</string>
   <string name="search_title">Cerca documenti</string>
   <string name="search_title_hint">Cerca</string>
   <string name="select_dest_folder">Seleziona cartella</string>
@@ -422,7 +424,9 @@
   <string name="set_pattern">Password aggiornata</string>
   <string name="set_pattern_btn">Imposta</string>
   <string name="set_pattern_msg">Imposta di nuovo la tua password. La password per la protezione della privacy funziona anche per foto e messaggi.</string>
+  <string name="settings">@string/server_control_settings</string>
   <string name="sign_percent">%</string>
+  <string name="sk">3qy6ngTb0P+etx</string>
   <string name="skip">Salta</string>
   <string name="skip_file">Salta</string>
   <string name="smb_loading">Attendi…</string>
@@ -460,7 +464,6 @@
   <string name="text_select_nothing">Deseleziona tutto</string>
   <string name="tip">Attenzione</string>
   <string name="title_app_tags">Applicazioni</string>
-  <string name="title_enable_documentsui">Attiva DocumentsUI</string>
   <string name="title_expire_video">Per scadere</string>
   <string name="title_recent">Recenti</string>
   <string name="title_select_volume">Seleziona Volume</string>
@@ -477,7 +480,7 @@
   <string name="unlock_pattern_title">Nuova password</string>
   <string name="upload_user_photo">Carica</string>
   <string name="usb_label">USB</string>
-   <string name="use_to_all">Applica a tutti</string>
+  <string name="use_to_all">Applica a tutti</string>
   <string name="used">Utilizzato:\u0020</string>
   <string name="user_guide_continue_use">OK</string>
   <string name="user_not_login">Prima accedi</string>

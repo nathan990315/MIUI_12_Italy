@@ -16,25 +16,25 @@
         <item quantity="other">%1$d applicazioni hanno accesso completo al dispositivo</item>
         <item quantity="one">1 app ha accesso completo al dispositivo</item>
     </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
-        <item quantity="other">Ritardo estremamente breve (%1$d ms)</item>
-        <item quantity="one">Ritardo estremamente breve (%1$d ms)</item>
+    <plurals name="accessibilty_autoclick_delay_unit_second">
+        <item quantity="other">%1$s seconds</item>
+        <item quantity="one">%1$s second</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
         <item quantity="other">Lungo ritardo (%1$d ms)</item>
         <item quantity="one">Lungo ritardo (%1$d ms)</item>
     </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
+        <item quantity="other">Medium (%1$s seconds)</item>
+        <item quantity="one">Medium (%1$s second)</item>
+    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
         <item quantity="other">Breve ritardo (%1$d ms)</item>
         <item quantity="one">Breve ritardo (%1$d ms)</item>
     </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
-        <item quantity="other">Ritardo molto lungo (%1$d ms)</item>
-        <item quantity="one">Ritardo molto lungo (%1$d ms)</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
-        <item quantity="other">Ritardo molto breve (%1$d ms)</item>
-        <item quantity="one">Ritardo molto breve (%1$d ms)</item>
+    <plurals name="app_link_open_always_summary">
+        <item quantity="other">App claims to handle %d links</item>
+        <item quantity="one">App claims to handle %d link</item>
     </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Disattivato per %d app</item>
@@ -152,6 +152,10 @@
         <item quantity="other">%s ore</item>
         <item quantity="one">1 ora</item>
     </plurals>
+    <plurals name="interact_across_profiles_number_of_connected_apps">
+        <item quantity="other">%d apps connected</item>
+        <item quantity="one">%d app connected</item>
+    </plurals>
     <plurals name="location_app_permission_summary_location_on">
         <item quantity="other">%1$d di %2$d applicazioni hanno accesso alla posizione</item>
         <item quantity="one">%1$d di %2$d applicazione ha accesso alla posizione</item>
@@ -171,6 +175,10 @@
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">La password deve contenere almeno %d caratteri non costituiti da lettere</item>
         <item quantity="one">La password deve contenere almeno un carattere non costituito da una lettera</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonnumerical">
+        <item quantity="other">Must contain at least %d non-numerical characters</item>
+        <item quantity="one">Must contain at least 1 non-numerical character</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
         <item quantity="other">La password deve contenere almeno %d cifre numeriche</item>
@@ -244,13 +252,13 @@
         <item quantity="other">%1$d restrizioni</item>
         <item quantity="one">1 restrizione</item>
     </plurals>
-    <plurals name="notification_few_channel_count_summary">
-        <item quantity="other">%1$d canali di notifica.</item>
-        <item quantity="one">%1$d canale di notifica.</item>
-    </plurals>
     <plurals name="notification_group_summary">
         <item quantity="other">%d categorie</item>
         <item quantity="one">%d categoria</item>
+    </plurals>
+    <plurals name="notification_history_count">
+        <item quantity="other">%d notifiche</item>
+        <item quantity="one">%d notifica</item>
     </plurals>
     <plurals name="notification_summary">
         <item quantity="other">Invio bloccato per %d app</item>
@@ -296,6 +304,10 @@
         <item quantity="other">%1$d servizi di stampa attivi</item>
         <item quantity="one">Un servizio di stampa attivo</item>
     </plurals>
+    <plurals name="priority_conversation_count">
+        <item quantity="other">%d priority conversations</item>
+        <item quantity="one">%d priority conversation</item>
+    </plurals>
     <plurals name="restricted_app_summary">
         <item quantity="other">Limite utilizzo batteria per %1$d app</item>
         <item quantity="one">Limite utilizzo batteria per %1$d app</item>
@@ -320,13 +332,13 @@
         <item quantity="other">%1$d impronte impostate</item>
         <item quantity="one">%1$d impronta impostata</item>
     </plurals>
+    <plurals name="see_all_apps_title">
+        <item quantity="other">See all %1$d apps</item>
+        <item quantity="one">See all apps</item>
+    </plurals>
     <plurals name="settings_suggestion_header_summary_hidden_items">
         <item quantity="other">Mostra %d elementi nascosti</item>
         <item quantity="one">Mostra %d elemento nascosto</item>
-    </plurals>
-    <plurals name="show_bluetooth_devices">
-        <item quantity="other">%1$d dispositivi connessi</item>
-        <item quantity="one">%1$d dispositivo connesso</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">"Ti mancano %1$d tocchi per avviare la diagnostica"</item>
@@ -496,9 +508,21 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
         <item quantity="other">Le notifiche da %1$d app possono sovrascrivere la modalità Non Disturbare</item>
         <item quantity="one">Le notifiche da 1 app possono sovrascrivere la modalità Non Disturbare</item>
     </plurals>
+    <plurals name="zen_mode_contacts_count">
+        <item quantity="other">%d contacts</item>
+        <item quantity="one">1 contact</item>
+    </plurals>
+    <plurals name="zen_mode_conversations_count">
+        <item quantity="other">%d conversations</item>
+        <item quantity="one">1 conversation</item>
+    </plurals>
     <plurals name="zen_mode_duration_summary_time_hours">
         <item quantity="other">%d ore (se non attivato automaticamente)</item>
         <item quantity="one">1 ora (se non attivato automaticamente)</item>
+    </plurals>
+    <plurals name="zen_mode_other_sounds_summary">
+        <item quantity="other">Le notifiche da %1$d app possono sovrascrivere la modalità Non Disturbare</item>
+        <item quantity="one">Le notifiche da 1 app possono sovrascrivere la modalità Non Disturbare</item>
     </plurals>
     <plurals name="zen_mode_settings_summary_on">
         <item quantity="other">%d regole automatiche attivate</item>

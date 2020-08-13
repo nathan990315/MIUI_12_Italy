@@ -100,13 +100,13 @@
         <item quantity="other">In media %.2f volte al giorno</item>
         <item quantity="one">In media %.2f volta al giorno</item>
     </plurals>
-	 <plurals name="usage_new_home_total_unlocks_new">
-        <item quantity="other">Sbloccato %1$d volte alle %2$s</item>
-        <item quantity="one">Sbloccato %1$d volta alle %2$s</item>
-    </plurals>
     <plurals name="usage_new_home_total_unlocks">
         <item quantity="other">Sbloccato %d volte</item>
         <item quantity="one">Sbloccato %d volta</item>
+    </plurals>
+    <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">Sbloccato %1$d volte alle %2$s</item>
+        <item quantity="one">Sbloccato %1$d volta alle %2$s</item>
     </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">Sbloccato %d volte</item>

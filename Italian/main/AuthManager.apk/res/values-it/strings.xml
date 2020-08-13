@@ -83,6 +83,8 @@
   <string name="HIPS_Perm_get_tasks_Desc">Recupera operazioni</string>
   <string name="HIPS_Perm_install_shortcut">Collegamenti Home</string>
   <string name="HIPS_Perm_install_shortcut_Desc">Aggiungere collegamenti alla Home</string>
+  <string name="HIPS_Perm_mediaVolume">Regola volume multimediale</string>
+  <string name="HIPS_Perm_mediaVolume_Desc">Consenti all\'applicazione di regolare il volume multimediale</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>
   <string name="HIPS_Perm_process_nfc_Desc">Accesso hardware Near Field Communication (NFC)</string>
   <string name="HIPS_Perm_process_outgoing_calls">Accesso all\'applicazione Telefono</string>
@@ -118,6 +120,10 @@
   <string name="location_warning">%1$s è un provider di servizi di localizzazione per questo dispositivo. L\'accesso alla posizione può essere modificato nelle impostazioni di localizzazione.</string>
   <string name="never_ask_again">"Non chiedere più"</string>
   <string name="ok">OK</string>
+  <string name="perm_action_allow">Concorda e Scarica</string>
+  <string name="perm_action_deny">Non consentire mai</string>
+  <string name="perm_modem_location">Accedi alla tua posizione</string>
+  <string name="perm_modem_location_desc">Il tuo operatore sta cercando di accedere alle informazioni sulla tua posizione. Condividerle?</string>
   <string name="permdesc_camera">Scattare foto e registrare video</string>
   <string name="permdesc_in_calls">Monitorare le chiamate in arrivo</string>
   <string name="permdesc_location">Accedere alle informazioni sulla posizione</string>
@@ -154,6 +160,7 @@
   <string name="screen_overlay_button">Apri impostazioni</string>
   <string name="screen_overlay_message">Per modificare queste impostazioni di autorizzazione, devi prima disattivare la sovrapposizione dello schermo in Impostazioni &gt; Applicazioni</string>
   <string name="screen_overlay_title">Sovrapposizione schermo rilevato</string>
+  <string name="static_cache_db_md5">ca8b2bf664b02208f1bbe2344e93a705</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="virtual_reject_notice_content">È stata inviata una risposta vuota all\'app per proteggere le informazioni personali</string>
   <string name="virtual_reject_notice_title_calendar">Accesso al calendario tramite %1$s</string>

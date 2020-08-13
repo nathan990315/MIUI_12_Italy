@@ -34,6 +34,7 @@
   <string name="actionbar_button_up_description">indietro</string>
   <string name="activity_not_found">Applicazione non installata sul telefono.</string>
   <string name="activity_not_found_uri">Impossibile trovare programmi per questo</string>
+  <string name="ad_close_button_text">Promotional</string>
   <string name="addBlackList">Blacklist</string>
   <string name="add_attachment">Allega</string>
   <string name="add_contact">vCard</string>
@@ -122,12 +123,12 @@
   <string name="cannot_send_message_reason">Il messaggio non ha destinatari validi.</string>
   <string name="card_insert_to_contact">Importa contatto</string>
   <string name="change_duration_activity">Modifica durata</string>
-  <string name="chatbox_list_title">Le mie mini app</string>
-  <string name="chatbox_main_title">Mini app</string>
+  <string name="chatbot_list_title">5G Messaging</string>
+  <string name="chatbot_main_title">Mini app</string>
   <string name="check_all">Seleziona tutto</string>
   <string name="chinese_day_1">1</string>
   <string name="chinese_day_10">10</string>
-  <string name="chinese_day_11">11</string>
+  <string name="chinese_day_11">11</string>
   <string name="chinese_day_12">12</string>
   <string name="chinese_day_13">13</string>
   <string name="chinese_day_14">14</string>
@@ -387,7 +388,7 @@
   <string name="file_size">Dimensione:</string>
   <string name="file_title">Nome:</string>
   <string name="file_width_height">Dimensione:</string>
-  <string name="firebase_database_url">https://global-sms-ab3bc.firebaseio.com</string>
+  <string name="flatshow_page_no">%1$d</string>
   <string name="fmt_chinese_date">N月e</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">dd</string>
@@ -457,11 +458,6 @@
   <string name="from_pkg_name">Dall\'app:</string>
   <string name="ft_cfs_dialog_content">"I file non possono essere inviati usando RCS. Inviare invece un link in un messaggio di testo?"</string>
   <string name="ft_cfs_dialog_title">Trasferimento file alternativo</string>
-  <string name="gcm_defaultSenderId">442074018142</string>
-  <string name="google_api_key">AIzaSyDJSJKMSCw0P0F9WfIIELP_I-z58k3QKYA</string>
-  <string name="google_app_id">1:442074018142:android:1dd1f9d142d1661a12dfcf</string>
-  <string name="google_crash_reporting_api_key">AIzaSyDJSJKMSCw0P0F9WfIIELP_I-z58k3QKYA</string>
-  <string name="google_storage_bucket">global-sms-ab3bc.appspot.com</string>
   <string name="group_already_kicked_hint">"Impossibile inviare messaggi. Non sei un membro di questa chat di gruppo."</string>
   <string name="group_member_is_composing">Scrivendo…</string>
   <string name="group_message">Messaggio di Gruppo</string>
@@ -774,6 +770,9 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
   <string name="play">Riproduci</string>
   <string name="playing_failed">"Impossibile riprodurre"</string>
   <string name="pm">PM</string>
+  <string name="prefDefault_vibrateWhen">never</string>
+  <string name="prefDefault_vibrate_false">never</string>
+  <string name="prefDefault_vibrate_true">always</string>
   <string name="pref_advanced_settings_title">Impostazioni avanzate</string>
   <string name="pref_allow_network_access_summary">Attiva per ricevere le ultime informazioni sulla consegna ed altri servizi.</string>
   <string name="pref_cell_broadcast">Trasmissioni cella</string>
@@ -787,6 +786,8 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
   <string name="pref_msg_trash_bin_title">Messaggi eliminati di recente</string>
   <string name="pref_notification_settings_title">Notifiche</string>
   <string name="pref_other_title">Altro</string>
+  <string name="pref_rcs_show_report_message">回执报告</string>
+  <string name="pref_rcs_show_report_message_tip">对方收到短信后返回已读状态</string>
   <string name="pref_show_blocked_messages_summary">Mostra gli SMS bloccati nella lista delle conversazioni</string>
   <string name="pref_show_list_avatar_summary">Visualizza foto ed altre informazioni di contatto nella lista</string>
   <string name="pref_show_photo_word_summary">Assegna automaticamente una foto ai contatti che ne sono sprovvisti</string>
@@ -873,7 +874,6 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
   <string name="private_protect">Protezione Privata</string>
   <string name="private_settings">Impostazioni Private</string>
   <string name="processing">Elaborazione…</string>
-  <string name="project_id">global-sms-ab3bc</string>
   <string name="prompt_area_code">+39</string>
   <string name="prompt_otp">Codice</string>
   <string name="prompt_phone">Numero di telefono</string>
@@ -914,6 +914,7 @@ Attiva i dati mobili e riapri questa pagina."</string>
 Dai un'occhiata alle app consigliate!"</string>
   <string name="rcs_chatbot_near_tab_empty">Nessuna mini app.</string>
   <string name="rcs_chatbot_net_error">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
+  <string name="rcs_chatbot_no_waring">消息免打扰</string>
   <string name="rcs_chatbot_normal_message">Hai ricevuto un messaggio. Tocca per vedere i dettagli.</string>
   <string name="rcs_chatbot_notification">Mini app: %s</string>
   <string name="rcs_chatbot_progress_failed">"Impossibile caricare le informazioni. Tocca per riprovare."</string>
@@ -1082,6 +1083,8 @@ Dai un'occhiata alle app consigliate!"</string>
   <string name="rms_text_body">[Text]</string>
   <string name="rms_vcard_body">[Contact]</string>
   <string name="rms_video_body">[Video]</string>
+  <string name="rsc_chatbot_back">返回</string>
+  <string name="rsc_chatbot_detail">商户信息入口</string>
   <string name="saturday">sabato</string>
   <string name="saturday_short">sab</string>
   <string name="saturday_shortest">Sab</string>
@@ -1139,6 +1142,7 @@ Dai un'occhiata alle app consigliate!"</string>
   <string name="send_signature_confirm_dialog_title">Invio conferma</string>
   <string name="send_sms">Invia messaggio</string>
   <string name="send_to">A:</string>
+  <string name="send_to_index_contact">%1$s/%2$s</string>
   <string name="sent_at_time">Inviato alle: %1s</string>
   <string name="sent_label">"Inviato: "</string>
   <string name="service_message_not_found">Messaggio scaduto o non disponibile.</string>

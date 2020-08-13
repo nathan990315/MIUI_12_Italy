@@ -41,7 +41,7 @@
   <string name="character_counter_pattern">%1$d di %2$d</string>
   <string name="chinese_day_1">1</string>
   <string name="chinese_day_10">10</string>
-  <string name="chinese_day_11">11</string>
+  <string name="chinese_day_11">11</string>
   <string name="chinese_day_12">12</string>
   <string name="chinese_day_13">13</string>
   <string name="chinese_day_14">14</string>
@@ -154,6 +154,7 @@
   <string name="feedback_tip_msg">Per raggruppare le notifiche in modo più accurato, dobbiamo raccogliere il nome dell\'app, il titolo, la descrizione e il momento in cui la notifica è stata inviata. Vuoi inviare il tuo feedback?</string>
   <string name="feedback_tip_title">Feedback sulle categorie di notifica</string>
   <string name="float_notifications">Notifiche flottanti</string>
+  <string name="float_notifications_short">Floating</string>
   <string name="fmt_chinese_date">N月e</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">dd</string>
@@ -231,6 +232,7 @@
   <string name="lock_screen_display_rules">Formattazione</string>
   <string name="lock_screen_tip_toast">Consenti notifiche nella schermata di blocco in \"Format\"</string>
   <string name="lockscreen_notifications">Notifiche Schermata di blocco</string>
+  <string name="lockscreen_notifications_short">Schemata di blocco</string>
   <string name="menu_setting_recommend_to_minus">Mostra meno notifiche</string>
   <string name="menu_setting_recommend_to_normal">"Non ridurre le notifiche"</string>
   <string name="menu_setting_show_in_home">"Non raggruppare"</string>
@@ -301,6 +303,8 @@
   <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
   <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
   <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
+  <string name="mtrl_picker_cancel">@android:string/cancel</string>
+  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Scegli una data</string>
   <string name="mtrl_picker_date_header_unselected">Seleziona data</string>
@@ -361,6 +365,7 @@ Segnala questo problema &gt;"</string>
   <string name="search_menu_title">Ricerca</string>
   <string name="settings_guide_title">Hai bisogno di altre impostazioni?</string>
   <string name="show_badge_notifications">Badge di notifica</string>
+  <string name="show_badge_notifications_short">Badge</string>
   <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
   <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
   <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
@@ -385,6 +390,7 @@ Segnala questo problema &gt;"</string>
   <string name="solar_term_white_dews">Rugiada</string>
   <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
   <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_setting">Barra di stato</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="summary_disable_float_notification">"Notifiche fluttuanti non consentite"</string>

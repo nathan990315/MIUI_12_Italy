@@ -32,6 +32,10 @@
         <item quantity="other">%d mesi</item>
         <item quantity="one">%d mese</item>
     </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d anni</item>
+        <item quantity="one">%d anno</item>
+    </plurals>
     <plurals name="a_hour_ago">
         <item quantity="one">un\'ora fa</item>
         <item quantity="other">un\'ora fa</item>
@@ -99,9 +103,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
-    </plurals>
-	<plurals name="tenure_years">
-        <item quantity="other">%d anni</item>
-        <item quantity="one">%d anno</item>
     </plurals>
 </resources>

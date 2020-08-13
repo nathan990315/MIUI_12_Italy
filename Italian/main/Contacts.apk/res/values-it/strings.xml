@@ -138,6 +138,7 @@
   <string name="call_sim_menu_title_suffix">(Primaria)</string>
   <string name="call_telex">Chiama telex</string>
   <string name="call_tty_tdd">Chiama TTY/TDD</string>
+  <string name="call_type_and_date">%1$s %2$s</string>
   <string name="call_unit">CNY</string>
   <string name="call_work">Chiama n. lavoro</string>
   <string name="call_work_mobile">Chiama n. cellulare lavoro</string>
@@ -208,7 +209,8 @@
   <string name="checkhint">Controlla l\'altro dispositivo</string>
   <string name="china_mobile_palm_hall">Servizi online CMCC</string>
   <string name="chinese_day_1">1</string>
-  <string name="chinese_day_10">10</string>  <string name="chinese_day_11">11</string>
+  <string name="chinese_day_10">10</string>
+  <string name="chinese_day_11">11</string>
   <string name="chinese_day_12">12</string>
   <string name="chinese_day_13">13</string>
   <string name="chinese_day_14">14</string>
@@ -310,6 +312,8 @@
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"></string>
   <string name="config_export_file_suffix"></string>
+  <string name="config_export_vcard_type">v30_generic</string>
+  <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp"></string>
   <string name="confirm_call_log_dial_summary">Chiedi conferma prima di comporre dal registro chiamate per evitare chiamate accidentali.</string>
   <string name="confirm_call_log_dial_title">Conferma prima di comporre dal registro chiamate</string>
@@ -703,6 +707,7 @@ Motivo: \"%s\""</string>
   <string name="friday">Venerdì</string>
   <string name="friday_short">Ven</string>
   <string name="friday_shortest">V</string>
+  <string name="from_account_format">%1$s</string>
   <string name="full_name">Nome</string>
   <string name="gallery">Galleria</string>
   <string name="generic_no_account_prompt">Tieni al sicuro i tuoi contatti anche se perdi il telefono: sincronizzali con un servizio online.</string>
@@ -907,6 +912,7 @@ Motivo: \"%s\""</string>
   <string name="miprofile_contact_header">Contatti con schede di contatto</string>
   <string name="miprofile_contact_meaasge">Contatti locali</string>
   <string name="miprofile_contact_verifying">Verifica</string>
+  <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
   <string name="miprofile_edit_title">Modifica profilo</string>
   <string name="miprofile_error_accept_self">"Non è possibile scambiare la tua scheda contatto"</string>
   <string name="miprofile_error_no_miaccount">Accedi al tuo Mi Account</string>
@@ -1120,7 +1126,10 @@ Per aggiungere un contatto alla lista dei Preferiti:
   <string name="path_wipe_data">Applicazioni di sistema/Contatti/Organizza Contatti/Cancella dati</string>
   <string name="payphone">Telefonata a pagamento</string>
   <string name="people">Contatti</string>
+  <string name="percent_sign">%1$s</string>
+  <string name="percentage">%1$s%2$s</string>
   <string name="phoneLabelsGroup">Telefono</string>
+  <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Numero troppo lungo</string>
   <string name="phone_primary">Primario</string>
   <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>
@@ -1389,6 +1398,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Nessun membro nel gruppo</string>
   <string name="six_letter">MNO</string>
+  <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">Per azienda</string>
   <string name="smart_group_company_unavailable">Senza azienda</string>
   <string name="smart_group_frequency_1">Nell\'ultimo mese</string>
@@ -1459,6 +1469,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
   <string name="starred_contacts">Preferiti</string>
   <string name="status_available">Disponibile</string>
   <string name="status_away">Assente</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_busy">Occupato</string>
   <string name="strequentList">Preferiti</string>
   <string name="success_message_import_from_account">Contato importato</string>
@@ -1614,6 +1625,7 @@ Scegli una delle seguenti opzioni:"</string>
   <string name="wednesday">Mercoledì</string>
   <string name="wednesday_short">Mer</string>
   <string name="wednesday_shortest">M</string>
+  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Cancella dati</string>
   <string name="yellowPageNavigationIconLabel">Directory</string>
   <string name="yellowPageNavigationLabel">Directory</string>
@@ -1639,7 +1651,7 @@ Scegli una delle seguenti opzioni:"</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Download icona…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"Impossibile connettersi alla rete. Verifica la tua connessione dati e riprova."</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Aggiunto alla Home</string>
-  <string name="yellowpage_provider_label">"Supporto tecnico per il riconoscimento dell'ID chiamante/mittente fornito da"</string>
+  <string name="yellowpage_provider_label">Supporto tecnico per il riconoscimento dell\'ID chiamante/mittente fornito da</string>
   <string name="yellowpage_search_the_yellowpage">Cerca nella cartella</string>
   <string name="yellowpage_user_profile">Profilo</string>
   <string name="yesterday">ieri</string>

@@ -4,6 +4,12 @@
         <item quantity="other">Il telefono rimarrà in modalità Solo chiamate di emergenza per %s minuti. Quando è attiva questa modalità non sarà possibile usare nessuna applicazione che necessiti di una connessione dati. Desideri uscire ora?</item>
         <item quantity="one">Il telefono rimarrà in modalità Solo chiamate di emergenza per %s minuto. Quando è attiva questa modalità non sarà possibile usare nessuna applicazione che necessiti di una connessione dati. Desideri uscire ora?</item>
     </plurals>
+    <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
+        <item quantity="other">"The phone will be in emergency callback mode for %s minutes.
+Do you want to exit now?"</item>
+        <item quantity="one">"The phone will be in emergency callback mode for %s minute.
+Do you want to exit now?"</item>
+    </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
         <item quantity="other">"L'azione selezionata non è disponibile in modalità Solo chiamate di emergenza. Il telefono rimarrà in questa modalità per %s minuti. Desideri uscire ora?"</item>
         <item quantity="one">"L'azione selezionata non è disponibile in modalità Solo chiamate di emergenza. Il telefono rimarrà in questa modalità per %s minuto. Desideri uscire ora?"</item>

@@ -20,7 +20,7 @@
   <string name="check_phone_io_error">"Errore di rete."</string>
   <string name="chinese_day_1">1</string>
   <string name="chinese_day_10">10</string>
-  <string name="chinese_day_11">11</string>
+  <string name="chinese_day_11">11</string>
   <string name="chinese_day_12">12</string>
   <string name="chinese_day_13">13</string>
   <string name="chinese_day_14">14</string>
@@ -109,12 +109,12 @@
   <string name="com_xiaomi_youpin">Youpin</string>
   <string name="confirm_description">Conferma</string>
   <string name="copyright">Copyright</string>
-  <string name="country_name_ac">AC</string>
+  <string name="country_name_ac">CA</string>
   <string name="country_name_ad">AD</string>
   <string name="country_name_ae">AE</string>
   <string name="country_name_af">AF</string>
   <string name="country_name_ag">AG</string>
-  <string name="country_name_ai">AI</string>
+  <string name="country_name_ai">IA</string>
   <string name="country_name_al">AL</string>
   <string name="country_name_am">AM</string>
   <string name="country_name_an">AN</string>
@@ -201,7 +201,7 @@
   <string name="country_name_id">ID</string>
   <string name="country_name_ie">IE</string>
   <string name="country_name_il">IL</string>
-  <string name="country_name_im">IM</string>
+  <string name="country_name_im">Chat</string>
   <string name="country_name_in">IN</string>
   <string name="country_name_io">IO</string>
   <string name="country_name_iq">IQ</string>
@@ -257,10 +257,10 @@
   <string name="country_name_mz">MZ</string>
   <string name="country_name_na">NA</string>
   <string name="country_name_nc">NC</string>
-  <string name="country_name_ne">NE</string>
+  <string name="country_name_ne">NO</string>
   <string name="country_name_ng">NG</string>
   <string name="country_name_ni">NI</string>
-  <string name="country_name_nl">NL</string>
+  <string name="country_name_nl">N</string>
   <string name="country_name_no">NO</string>
   <string name="country_name_np">NP</string>
   <string name="country_name_nr">NR</string>
@@ -290,7 +290,7 @@
   <string name="country_name_sb">SB</string>
   <string name="country_name_sc">SC</string>
   <string name="country_name_sd">SD</string>
-  <string name="country_name_se">SE</string>
+  <string name="country_name_se">S-E</string>
   <string name="country_name_sg">SG</string>
   <string name="country_name_sh">SH</string>
   <string name="country_name_si">SI</string>
@@ -365,6 +365,7 @@
   <string name="earthly_branches_you">酉</string>
   <string name="earthly_branches_zi">子</string>
   <string name="email">E-mail</string>
+  <string name="empty"></string>
   <string name="eras_ad">DC</string>
   <string name="eras_bc">AC</string>
   <string name="error_forbidden">Si sono verificati dei problemi con il tuo account: sincronizzazione disattivata.</string>
@@ -459,7 +460,7 @@
   <string name="month_december_shortest">D</string>
   <string name="month_february">Febbraio</string>
   <string name="month_february_short">Feb</string>
-  <string name="month_february_shortest">F</string>
+  <string name="month_february_shortest">Ven</string>
   <string name="month_january">Gennaio</string>
   <string name="month_january_short">Gen</string>
   <string name="month_january_shortest">G</string>
@@ -529,6 +530,7 @@
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="size_peta_byte">PB</string>
+  <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
   <string name="solar_term_autumn_begins">Inizio dell\'autunno</string>
   <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>

@@ -28,6 +28,7 @@
   <string name="abc_shareactionprovider_share_with">Condividi con</string>
   <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
   <string name="abc_toolbar_collapse_description">Comprimi</string>
+  <string name="action_bar_report_link_des">App alert</string>
   <string name="adb_install_no_network">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
   <string name="adb_install_open">Apertura…</string>
   <string name="adb_install_open_error">"Impossibile aprire. Controlla le impostazioni di rete e riprova."</string>
@@ -92,6 +93,7 @@
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"Questa è un applicazione di sistema. Tutti i dati utente precedenti verranno salvati."</string>
   <string name="done">Fine</string>
+  <string name="exit_install_button">"Don't install"</string>
   <string name="expand_button_title">Avanzato</string>
   <string name="external_sources_settings">Impostazioni</string>
   <string name="external_sources_settings_negative">Limita</string>
@@ -117,18 +119,27 @@
   <string name="increment_preparing">Preparazione…</string>
   <string name="install">Installa</string>
   <string name="install_app_progress_clear_apk">Elimina APK</string>
+  <string name="install_confirm_dialog_message">Questa app è realizzata da Google. Dovresti installare i servizi Google Play per poter utilizzare questa app normalmente. L\'installazione di questa app ora potrebbe provocare anomalie. Installarla comunque?</string>
+  <string name="install_confirm_dialog_negative_button">Annulla</string>
+  <string name="install_confirm_dialog_positive_button">Installa</string>
+  <string name="install_confirm_dialog_title">Attenzione</string>
   <string name="install_confirm_question">Vuoi installare questa applicazione? Avrà accesso a:</string>
+  <string name="install_confirm_question_des_10">"Se siete disposti a correre i rischi e volete procedere con l'installazione, autorizzare l'installazione in Sicurezza &gt; Gestione applicazioni &gt; Autorizzazioni &gt; Applicazioni con possibili rischi. Se non riesci a trovare \"Applicazioni con possibili rischi\", aggiorna l'app Sicurezza e riprova."</string>
   <string name="install_confirm_question_no_perms">"Vuoi installare questa applicazione? Non richiede alcun accesso speciale."</string>
   <string name="install_confirm_question_update">"Vuoi installare un aggiornamento per questa applicazione esistente? I tuoi dati esistenti non andranno persi. L'applicazione aggiornata avrà accesso a:"</string>
   <string name="install_confirm_question_update_no_perms">"Vuoi installare un aggiornamento di questa applicazione esistente? I dati correnti verranno conservati. Non occorrono accessi speciali."</string>
   <string name="install_confirm_question_update_system">"Vuoi installare un aggiornamento per questa applicazione integrata? I tuoi dati esistenti non andranno persi. L'applicazione aggiornata avrà accesso a:"</string>
   <string name="install_confirm_question_update_system_no_perms">"Vuoi installare un aggiornamento di questa applicazione integrata? I dati correnti verranno conservati. Non occorrono accessi speciali."</string>
+  <string name="install_confirm_text_gms">Questa app è realizzata da Google. Installa i servizi Google Play prima di installare questa app. Senza questo framework l\'app potrebbe non funzionare correttamente.</string>
+  <string name="install_continue">继续安装</string>
   <string name="install_control_cancel_install">"Non installare"</string>
+  <string name="install_control_cancel_vip_account_install">Esci</string>
   <string name="install_control_continue_install">Installa comunque</string>
   <string name="install_control_lite_mode_explain_des">Questa app proviene da una sorgente sconosciuta e potrebbe non funzionare in modalità Semplificata.</string>
   <string name="install_control_lite_mode_solution_des">"Puoi scegliere di installare questa app manualmente.
 In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string>
   <string name="install_control_normal_mode_explain_des">"Impossibile installare questa app a causa di restrizioni legali"</string>
+  <string name="install_control_vip_account_install">Registrati per la Beta</string>
   <string name="install_done">App installata.</string>
   <string name="install_failed">"App non installata."</string>
   <string name="install_failed_blocked">È stata bloccata l\'installazione del pacchetto.</string>
@@ -140,7 +151,12 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
   <string name="install_finished_notification_summary">Tocca per liberare spazio di archiviazione</string>
   <string name="install_finished_notification_title">%1$s installato con successo. È possibile liberare %2$s di spazio di archiviazione.</string>
   <string name="install_from_appstore_hint">Ti consigliamo di installare l\'app da &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="install_vip_account_mode_explain_des">Questa è una versione Beta dell\'app. Richiedi i permessi di Beta test prima di installarla.</string>
+  <string name="install_vip_account_mode_solution_des">Registrati per la Beta</string>
   <string name="installing">Installazione...</string>
+  <string name="intercept_confirm_dialog_message">%1$s sta cercando di installare %2$s. Verifica la tua identità per continuare.</string>
+  <string name="intercept_confirm_dialog_positive">Verifica</string>
+  <string name="intercept_confirm_dialog_title">Attenzione</string>
   <string name="intercept_install">Installa</string>
   <string name="launch">Apri</string>
   <string name="lift_ban">Concorda e Scarica</string>
@@ -322,6 +338,7 @@ In alternativa, puoi disattivare la modalità Semplificata e riprovare."</string
  \"&lt;li&gt;Se il pacchetto di installazione proviene da una fonte sconosciuta.&lt;/li&gt;</string>
   <string name="settings_warning_dialog_msg">"Il telefono è soggetto a rischi per la sicurezza. Non ti verrà richiesto di installare versioni sicure dell'applicazione se disattivi questa funzione. Disattivarla?"</string>
   <string name="settings_warning_dialog_title">Notifiche utente</string>
+  <string name="spannable_continue_text">Capisco i rischi. Installa comunque.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="system_warning">Se neghi questa autorizzazione, le funzionalità di base del dispositivo potrebbero non funzionare più come previsto.</string>

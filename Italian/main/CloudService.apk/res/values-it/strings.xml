@@ -63,6 +63,7 @@
   <string name="confirm_delete">Elimina</string>
   <string name="confirm_save">Mantieni</string>
   <string name="connect_network">Collegati al Wi-Fi o inserisci una SIM</string>
+  <string name="connect_network_china">Connettiti al Wi-Fi o inserisci una scheda SIM</string>
   <string name="connect_wlan">Collegati al Wi-Fi</string>
   <string name="connect_wlan_china">Collegati alla WLAN</string>
   <string name="copy">Copia</string>
@@ -94,6 +95,8 @@
   <string name="feedback_custom_hint">"Descrivi qui i problemi che hai riscontrato. Se fornisci dei suggerimenti, cercheremo di applicarli!"</string>
   <string name="find_device">Trova dispositivo abilitato</string>
   <string name="find_device_dspt_provision">Nel caso dovessi smarrire il tuo dispositivo, dirigiti su %s per localizzarlo, bloccarlo, o resettarlo. Puoi abilitare o disabilitare questa funzionalità quando vuoi dalle Impostazioni.</string>
+  <string name="find_device_dspt_provision_2">i.mi.com</string>
+  <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_error_network">Verifica la connessione dati e riprova.</string>
   <string name="find_device_error_server">Qualcosa non ha funzionato sul nostro server.</string>
   <string name="find_device_gdpr_prompt">Attivando Trova Dispositivo, accetti \"Informativa sulla Privacy\". Se devi revocare la tua autorizzazione per la privacy, disattiva questa funzione.</string>
@@ -116,8 +119,13 @@
   <string name="ks_download_success">Scaricato correttamente</string>
   <string name="ks_fingerprint_payment">Pagamenti con impronta</string>
   <string name="ks_fingerprint_status">Stato pagamenti</string>
+  <string name="ks_key_download_button">ks_key_download_button</string>
+  <string name="ks_key_status">ks_key_status</string>
+  <string name="ks_key_udpate_time">ks_key_udpate_time</string>
+  <string name="ks_key_version">ks_key_version</string>
   <string name="ks_name_alipay">Alipay</string>
   <string name="ks_name_fido">FIDO</string>
+  <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
   <string name="ks_name_soter">WeChat</string>
   <string name="ks_name_widevine">Widevine (L1)</string>
   <string name="ks_status_available">Disponibile</string>
@@ -240,11 +248,14 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
   <string name="micloud_find_device_open_fail">"Impossibile attivare Trova Dispositivo"</string>
   <string name="micloud_find_device_opened">Trova Dispositivo attivato</string>
   <string name="micloud_find_device_opened_content">Trova Dispositivo a %s</string>
+  <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_sms_alert">Potrebbe essere richiesto un messaggio SMS in uscita per attivare questo servizio. Il tuo operatore ti addebiterà il costo di questo messaggio. Quando sostituirai la scheda SIM, è possibile che venga inviato automaticamente un messaggio per riattivare questa funzionalità.</string>
   <string name="micloud_find_device_verify_button">Riattiva Trova dispositivo</string>
   <string name="micloud_find_device_verify_close">Disattiva Trova dispositivo</string>
   <string name="micloud_find_device_verify_fail">"Impossibile riattivare Trova dispositivo"</string>
   <string name="micloud_find_device_verify_progress">Riattivazione Trova dispositivo…</string>
+  <string name="micloud_footer_international_url">mi.com/micloud</string>
+  <string name="micloud_footer_normal_url">i.mi.com</string>
   <string name="micloud_last_sync_canceled">La sincronizzazione è stata annullata. Riprova.</string>
   <string name="micloud_main_head_menu_cloud_backup">Backup cloud</string>
   <string name="micloud_main_head_menu_cloud_backup_summary">Layout schermata home, app e impostazioni di sistema</string>
@@ -391,6 +402,15 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
   <string name="micloud_wipe_data_confirm_title">Alcuni elementi delle seguenti app sono sincronizzati con Mi Cloud. Puoi eliminarli da questo dispositivo mantenendoli nel cloud.</string>
   <string name="micloud_wipe_data_remove">Rimuovi</string>
   <string name="micloud_wipe_data_retain">Lascia</string>
+  <string name="midrive_guide1_desc">Esegui il backup degli elementi sul cloud per liberare spazio di archiviazione sul tuo dispositivo.</string>
+  <string name="midrive_guide1_title">Backup protetto</string>
+  <string name="midrive_guide2_desc">Scarica elementi alla velocità della luce.</string>
+  <string name="midrive_guide2_title">Download rapidi</string>
+  <string name="midrive_guide3_desc">Usa Mi Drive su dispositivi mobili, computer e nei browser.</string>
+  <string name="midrive_guide3_title">Funziona dappertutto</string>
+  <string name="midrive_guide_btn_install">Installa Mi Drive</string>
+  <string name="midrive_guide_btn_installed">Apri Mi Drive</string>
+  <string name="midrive_guide_btn_installing">Installazione…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">aggiornamento terminato</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">aggiornamento</string>
@@ -437,7 +457,9 @@ Questa funziona critta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
   <string name="privacy_dialog_finddevice_all_purpose_pad">"Benvenuto in Trova dispositivo! Puoi utilizzare questo servizio per localizzare, bloccare o cancellare i dati sul tuo dispositivo se perso."</string>
   <string name="privacy_dialog_finddevice_all_purpose_phone">"Benvenuto in Trova dispositivo! Puoi utilizzare questo servizio per localizzare, bloccare o cancellare i dati sul tuo dispositivo se perso."</string>
   <string name="privacy_dialog_sync_all_purpose">Benvenuto nei servizi Xiaomi Cloud! Puoi utilizzare Xiaomi Cloud per sincronizzare messaggi, cronologia chiamate, contatti, note, impostazioni del browser, canzoni, foto e video, Impostazioni Wi-Fi, registrazioni, layout schermata Home, applicazioni, eventi del calendario, Lista Chiamate Bloccate e Appvault su tutti i dispositivi connessi.</string>
+  <string name="privacy_dialog_sync_all_purpose_china">Benvenuto nei servizi Xiaomi Cloud! È possibile utilizzare Xiaomi Cloud per sincronizzare messaggi, cronologia chiamate, contatti, note, impostazioni del browser, canzoni, foto e video, Impostazioni Wi-Fi, registrazioni, layout della schermata home, app, eventi di calendario, Lista Blocchi e App Vault su tutti i dispositivi collegati.</string>
   <string name="privacy_doc_cloudservice">"Benvenuto nei servizi Xiaomi Cloud! Puoi utilizzare Xiaomi Cloud per sincronizzare messaggi, cronologia chiamate, contatti, note, impostazioni del browser, canzoni, foto e video, Impostazioni Wi-Fi, registrazioni, layout schermata Home, applicazioni, eventi di calendario, Lista Chiamate Bloccate e Appvault su tutti i dispositivi connessi. Accedi alle cose che sincronizzi da qualsiasi browser su &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.&lt;br /&gt;&lt;br /&gt;Potrebbe essere necessario un SMS per attivare questi servizi. Il tuo operatore potrebbe addebitarti il costo di questo messaggio. Quando cambi SIM, potrebbe essere inviato automaticamente un messaggio per riattivare questi servizi.&lt;br /&gt;&lt;br /&gt;Proteggeremo i tuoi dati personali in conformità con le leggi, i regolamenti e le politiche sulla privacy.&lt;br /&gt;Per essere in grado di funzionare normalmente, questi servizi devono connettersi ad internet e richiedono le seguenti autorizzazioni al fine di raccogliere le tue informazioni personali:&lt;br /&gt;• Calendario:&lt;br /&gt;per la sincronizzazione degli eventi&lt;br /&gt;• Accesso agli SMS:&lt;br /&gt;Per i messaggi di sincronizzazione&lt;br /&gt;• Accesso a MMS:&lt;br /&gt;per la sincronizzazione dei messaggi&lt;br /&gt;• Accesso ai contatti:&lt;br /&gt;Per la sincronizzazione dei contatti&lt;br /&gt;• Modifica dei contatti:&lt;br /&gt;Per la sincronizzazione dei contatti&lt;br /&gt;• Archivio:&lt;br /&gt;per il salvataggio degli elementi sul tuo dispositivo (es.: immagini, video, brani)&lt;br /&gt;Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali non sarai in grado di utilizzare questi servizi. In questo caso puoi scegliere di disinstallare l'applicazione, disconnetterti o limitare le autorizzazioni nelle impostazioni.&lt;br /&gt;Leggi e accetta il nostro &lt;a href=%1$s&gt;&lt;u&gt;Accordo utente&lt;/u&gt;&lt;/a&gt; e &lt;a href=%2$s&gt;&lt;u&gt;Politica sulla Privacy&lt;/u&gt;&lt;/a&gt; prima di usare Xiaomi Cloud.&lt;br /&gt;"</string>
+  <string name="privacy_doc_cloudservice_china">"Benvenuto nei servizi Xiaomi Cloud! È possibile utilizzare Xiaomi Cloud per sincronizzare messaggi, cronologia chiamate, contatti, note, impostazioni del browser, canzoni, foto e video, Impostazioni Wi-Fi, registrazioni, layout della schermata home, app, eventi di calendario, Lista Blocchi e App Vault su tutti i dispositivi collegati. Accedi alle cose che sincronizzi da qualsiasi browser su &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.&lt;br /&gt;&lt;br /&gt;Potrebbe essere necessario un messaggio SMS in uscita per attivare questi servizi. Il tuo operatore potrebbe addebitarti questo messaggio. Quando si cambia la scheda SIM, un messaggio può essere inviato automaticamente per riattivare questi servizi.&lt;br /&gt;&lt;br /&gt;Proteggeremo le tue informazioni personali in conformità con le pertinenti leggi, regolamenti e politiche sulla privacy.&lt;br /&gt;Per poter lavorare normalmente, questi servizi devono connettersi a Internet e richiedere le seguenti autorizzazioni per raccogliere le informazioni personali:&lt;br /&gt;• Calendario:&lt;br /&gt;Per sincronizzare gli eventi&lt;br /&gt;• Accesso SMS:&lt;br /&gt;Per sincronizzare i messaggi&lt;br /&gt;• Accesso a MMS:&lt;br /&gt;Per sincronizzare i messaggi&lt;br /&gt;• Accesso contatti:&lt;br /&gt;Per sincronizzare i contatti&lt;br /&gt;• Modificare i contatti:&lt;br /&gt;Per sincronizzare i contatti&lt;br /&gt;• Archiviazione:&lt;br /&gt;Per salvare gli elementi sul dispositivo (e.. immagini, video, canzoni)&lt;br /&gt;Se non accetti di concedere tali autorizzazioni o condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questi servizi. Puoi scegliere di disinstallare questa app, uscire o limitare i permessi nelle Impostazioni in questi casi.&lt;br /&gt;Leggi e accetta il nostro &lt;a href=%1$s&gt;&lt;u&gt;Accordo utente&lt;/u&gt;&lt;/a&gt; e &lt;a href=%2$s&gt;&lt;u&gt;Informativa sulla privacy&lt;/u&gt;&lt;/a&gt; prima di utilizzare Xiaomi Cloud.&lt;br /&gt;"</string>
   <string name="privacy_doc_finddevice_pad">"Benvenuto in Trova dispositivo! Puoi utilizzare questo servizio per localizzare, bloccare o cancellare i dati sul tuo dispositivo se vanno persi. Puoi andare a &lt;font color=#0097FF&gt;&lt;b&gt;i.mi. om&lt;/b&gt;&lt;/font&gt; per localizzare, bloccare o resettare.&lt;br /&gt;&lt;br /&gt;Proteggeremo le tue informazioni personali in conformità con le leggi, i regolamenti e le politiche sulla privacy.&lt;br /&gt;Per poter lavorare normalmente, questo servizio deve collegarsi ad internet e richiede le seguenti autorizzazioni al fine di raccogliere le tue informazioni personali:&lt;br /&gt;• Accesso alle informazioni del dispositivo:&lt;br /&gt;Per identificare il tuo dispositivo&lt;br /&gt;• Posizione:&lt;br /&gt;per individuare il dispositivo e passare alla modalità persa&lt;br /&gt;Se non accetti di concedere tali autorizzazioni o condividere e caricare le tue informazioni personali non sarai in grado di utilizzare questo servizio. In questi casi puoi scegliere di disinstallare l'applicazione, disconnetterti o limitare le autorizzazioni nelle impostazioni.&lt;br /&gt;Leggi e accetta il nostro &lt;a href=%1$s&gt;&lt;u&gt;Contratto utente&lt;/u&gt;&lt;/a&gt; e &lt;a href=%2$s&gt;&lt;u&gt;Informativa sulla privacy&lt;/u&gt;&lt;/a&gt; prima di utilizzare Trova dispositivo.&lt;br /&gt;"</string>
   <string name="privacy_doc_finddevice_phone">"Benvenuto in Trova dispositivo! Puoi utilizzare questo servizio per localizzare, bloccare o cancellare i dati sul tuo dispositivo se vanno persi. Puoi andare a &lt;font color=#0097FF&gt;&lt;b&gt;i.mi. om&lt;/b&gt;&lt;/font&gt; per localizzare, bloccare o resettare.&lt;br /&gt;&lt;br /&gt;Proteggeremo le tue informazioni personali in conformità con le leggi, i regolamenti e le politiche sulla privacy.&lt;br /&gt;Per poter lavorare normalmente, questo servizio deve collegarsi ad internet e richiede le seguenti autorizzazioni al fine di raccogliere le tue informazioni personali:&lt;br /&gt;• Accesso alle informazioni del dispositivo:&lt;br /&gt;Per identificare il tuo dispositivo&lt;br /&gt;• Posizione:&lt;br /&gt;per individuare il dispositivo e passare alla modalità persa&lt;br /&gt;Se non accetti di concedere tali autorizzazioni o condividere e caricare le tue informazioni personali non sarai in grado di utilizzare questo servizio. In questi casi puoi scegliere di disinstallare l'applicazione, disconnetterti o limitare le autorizzazioni nelle impostazioni.&lt;br /&gt;Leggi e accetta il nostro &lt;a href=%1$s&gt;&lt;u&gt;Contratto utente&lt;/u&gt;&lt;/a&gt; e &lt;a href=%2$s&gt;&lt;u&gt;Informativa sulla privacy&lt;/u&gt;&lt;/a&gt; prima di utilizzare Trova dispositivo.&lt;br /&gt;"</string>
   <string name="privacy_doc_finddevice_with_telephony_feature_pad">"Benvenuto in Trova dispositivo! Puoi utilizzare questo servizio per localizzare, bloccare o cancellare i dati sul tuo dispositivo se perso. Puoi andare su &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; per localizzarlo, bloccarlo o resettarlo.&lt;br /&gt;&lt;br /&gt;Proteggeremo le tue informazioni personali in conformità con le leggi, i regolamenti e le politiche sulla privacy.&lt;br /&gt;Per poter lavorare normalmente, questo servizio deve collegarsi ad internet e richiede le seguenti autorizzazioni al fine di raccogliere le tue informazioni personali:&lt;br /&gt;• Accesso alle informazioni del dispositivo:&lt;br /&gt;Per identificare il tuo dispositivo&lt;br /&gt;• Posizione:&lt;br /&gt;per individuare il dispositivo e passare alla modalità persa&lt;br /&gt;Se non accetti di concedere tali autorizzazioni o condividere e caricare le tue informazioni personali non sarai in grado di utilizzare questo servizio. In questi casi puoi scegliere di disinstallare l'applicazione, disconnetterti o limitare le autorizzazioni nelle impostazioni.&lt;br /&gt;Leggi e accetta il nostro &lt;a href=%1$s&gt;&lt;u&gt;Accordo Utente&lt;/u&gt;&lt;/a&gt; e&lt;a href=%2$s&gt;&lt;u&gt;Politica sulla Privacy&lt;/u&gt;&lt;/a&gt; prima di utilizzare Trova dispositivo.&lt;br /&gt;"</string>
@@ -447,14 +469,6 @@ Questa funziona critta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
   <string name="provision_sync_items_loading">Preparazione alla sincronizzaizone degli elementi</string>
   <string name="reading_status">Caricamento stato…</string>
   <string name="reading_status_failure">"Impossibile caricare lo stato."</string>
-  <string name="search_cloudbackup_pref">Backup Cloud</string>
-  <string name="search_cloudbackup_pref_desc">Attiva/disattiva il backup cloud</string>
-  <string name="search_cloudbackup_pref_key_words">cloud backup, backup cloud</string>
-  <string name="search_cloudbackup_pref_path">Mi Account/Mi Cloud/BACKUP E RIPRISTINO</string>
-  <string name="search_finddevice_pref">Trova Telefono</string>
-  <string name="search_finddevice_pref_desc">Attiva/disattiva Trova Telefono</string>
-  <string name="search_finddevice_pref_key_words">trova telefono, trova telefono</string>
-  <string name="search_finddevice_pref_path">Mi Account/Mi Cloud/TROVA TELEFONO</string>
   <string name="search_menu_title">Cerca</string>
   <string name="send_last_location_summary">Sincornizza info sulla posizione mentre il dispositivo è spento</string>
   <string name="send_last_location_title">Localizza prima dello spegnimento</string>
@@ -481,7 +495,7 @@ Questa funziona critta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_manage_cloud_data_title">Visualizza gli elementi nel cloud</string>
   <string name="storage_manage_expansion">Ottieni altro</string>
-    <string name="storage_manage_full_summary">Spazio di archiviazione sul cloud esaurito. Aggiorna il tuo piano.</string>
+  <string name="storage_manage_full_summary">Spazio di archiviazione sul cloud esaurito. Aggiorna il tuo piano.</string>
   <string name="storage_manage_list_title">Dati cloud</string>
   <string name="storage_manage_list_title_action">Vedi altro</string>
   <string name="storage_manage_normal_summary">Modifica piano di archiviazione cloud</string>
@@ -509,6 +523,8 @@ Questa funziona critta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
   <string name="sync_dspt_entrance_provision_network_china">Quest\'app deve connettersi a internet per funzionare normalmente. La sincronizzazione dei dati potrebbe richiedere la connessione dati mobile e l\'attivazione del Wi-Fi.</string>
   <string name="sync_dspt_entrance_provision_skip"><u>Salta questo passaggio</u></string>
   <string name="sync_dspt_provision">"Sincronizza le foto, i contatti, le note e molto altro su tutti i tuoi dispositivi o accedi da "</string>
+  <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Puoi disattivare questa funzione in qualsiasi momento nelle Impostazioni."</string>
   <string name="sync_item_calllog_summary">Sincronizza le chiamate effettuate e ricevute su questo dispositivo</string>
   <string name="sync_item_calllog_title">Sincronizza registro chiamate</string>

@@ -19,6 +19,7 @@
   <string name="application_package_introduction">Questa app consente di installare applicazioni di terze parti, scansionarle prima dell\'installazione e fornire consigli dopo l\'installazione.</string>
   <string name="application_permissions">Permessi Applicazioni</string>
   <string name="back">Indietro</string>
+  <string name="backup_introduction">You can use this app to back up and restore items on your device.</string>
   <string name="calculator_introduction">È possibile utilizzare questa app per calcoli, conversione di unità e valute e per la stima del rimborso del mutuo.</string>
   <string name="camera_introduction">È possibile utilizzare Fotocamera per scattare foto e girare video.</string>
   <string name="carrier_introduction">"Al fine di fornire servizi migliori, il dispositivo può inviare periodicamente le informazioni sulla versione del dispositivo, i dati di identificazione del dispositivo (compreso l'indirizzo IMEI/IMSI/MSISDN/MAC, MEID/ICCID) e informazioni approssimative di localizzazione (incluso l'ID della cella) all'operatore via Wi-Fi, rete dati mobile o SMS gratuito. L'operatore promette di analizzare le informazioni rilevanti solo per migliorare la qualità dei servizi o per fornire servizi o tecnologie personalizzate, e non divulgherà informazioni rilevanti a terzi in qualsiasi forma che ti identifichi personalmente. La dichiarazione specifica dell'operatore prevarrà. Consulta il tuo operatore in merito al costo di utilizzo di questo servizio."</string>
@@ -72,16 +73,27 @@
   <string name="install_preinstall_app">Caricamento applicazioni…</string>
   <string name="item_fingerprint">Impronta digitale</string>
   <string name="item_lock_screen_password">Solo schermata di blocco</string>
+  <string name="ktlocation_U">(KT Service Agent)</string>
+  <string name="ktposition_header">Sharing location information with emergency rescue agencies</string>
   <string name="language_picker_other_languages_title">Altre lingue</string>
   <string name="language_settings">Seleziona lingua</string>
   <string name="locale_picker_other_locale_title">Altre regioni</string>
   <string name="locale_picker_title">Scegli il paese</string>
+  <string name="location_U">U+ GPSnWPS</string>
+  <string name="location_content">In accordance with the law, mobile carriers can obtain the location information of mobile devices to comply with the requirements of emergency rescue agencies (fire departments and the police) which pursue security and emergency rescue purposes.</string>
   <string name="location_introduction">I servizi basati sulla posizione trovano prodotti e servizi più vicini a te.</string>
+  <string name="location_location">Emergency rescue agencies can obtain your current location upon request</string>
   <string name="lockscreen_introduction">Il Carosello Sfondo ti permette di ricevere nuove immagini per la schermata di blocco ogni giorno.</string>
   <string name="mint_keyboard_oobe_checkbox">"Ho letto e accettato l'Informativa sulla Privacy della Tastiera Mint"</string>
   <string name="mint_keyboard_oobe_terms">Informativa sulla Privacy della Tastiera Mint</string>
   <string name="miui_privacy_policy_no_network">"Nessuna connessione di rete. Leggi l'informativa sulla privacy su %s"</string>
   <string name="miui_terms_no_network">"Nessuna connessione di rete. Leggi i termini del servizio su %s"</string>
+  <string name="mobile_network">Utilizzo dati rete mobile</string>
+  <string name="move_data_dialog_box_le">"This allows using mobile data and GPS connection based on the user's request. Syncing accounts and other items may require using mobile data depending on the smartphone specifications."</string>
+  <string name="move_data_dialog_box_title">Unless you have a plan with unlimited data, using mobile data may generate additional carrier fees. Use mobile data anyway?</string>
+  <string name="move_data_dialog_cancel">Annulla</string>
+  <string name="move_data_dialog_title">You can restrict mobile data connection in the Settings later</string>
+  <string name="move_data_dialog_use">Usa</string>
   <string name="multisim_settings_category">Impostazioni preferite SIM</string>
   <string name="multisim_settings_title">Scheda SIM 2 rilevata</string>
   <string name="navigation_picker_gesture_guide">Guida gesture</string>
@@ -113,6 +125,8 @@ Disattivare gli annunci personalizzati?"</string>
   <string name="permission_account">Accedere agli account sul dispositivo:</string>
   <string name="permission_account_introduction">Per accedere con Mi Account</string>
   <string name="permission_application_package_introduction">Accedere all\'archiviazione per analizzare i pacchetti di installazione</string>
+  <string name="permission_backup">Accedere all\'archiviazione</string>
+  <string name="permission_backup_introduction">For accessing and saving backups on your device</string>
   <string name="permission_call_records">Accedere alla cronologia delle chiamate:</string>
   <string name="permission_call_records_introduction">Per accedere alla cronologia chiamate per visualizzare gli elementi bloccati</string>
   <string name="permission_call_state_introduction">Per accedere allo stato del telefono, registrare le chiamate e mettere in pausa le registrazioni durante le chiamate in arrivo</string>
@@ -154,6 +168,8 @@ Disattivare gli annunci personalizzati?"</string>
   <string name="poco_agree_terms_other">(Inclusi l\'Informativa sulla Privacy ed l\'Accordo Utente di POCO Launcher)</string>
   <string name="poco_launcher_privacy_policy">Informativa sulla privacy di POCO Launcher</string>
   <string name="poco_launcher_user_agreement">Accordo utente di POCO Launcher</string>
+  <string name="position_header">Sharing location information</string>
+  <string name="position_subheading">Informazioni di contatto</string>
   <string name="pref_title_data_slot">SIM Dati</string>
   <string name="pref_title_voice_slot">SIM Voce</string>
   <string name="privacy_policy">Informativa sulla Privacy</string>
@@ -170,6 +186,7 @@ Leggi questo documento per la tastiera: "</string>
   <string name="service_agreement">"Ho letto e accettato i termini e le condizioni."</string>
   <string name="service_name_album">Galleria</string>
   <string name="service_name_application_package">Installazione pacchetti</string>
+  <string name="service_name_backup">Backups</string>
   <string name="service_name_calculator">Calcolatrice</string>
   <string name="service_name_camera">Fotocamera</string>
   <string name="service_name_carrier">Dichiarazione sui servizi dell\'operatore</string>
@@ -210,6 +227,7 @@ Leggi questo documento per la tastiera: "</string>
   <string name="skip_gesture_guide_dialog_title">Gesture a schermo intero</string>
   <string name="skip_underline"><u>Salta questo passaggio</u></string>
   <string name="start_up_slogan">Solo tua</string>
+  <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
   <string name="summary_not_set">Non impostato</string>
   <string name="system_navigation_mode">Modalità di navigazione di sistema</string>
   <string name="terms_of_use">Condizioni del Servizio</string>
@@ -248,5 +266,6 @@ Devi accettare l'Informativa sulla privacy della Tastiera Mint prima di utilizza
   <string name="voice_assist_desp">Pronuncia \"Mi AI\" davanti al telefono. Mi AI riconoscerà la tua voce e sarà in grado di controllare il tuo dispositivo.</string>
   <string name="voice_assist_title">Attiva con la voce</string>
   <string name="welcome">Benvenuto</string>
+  <string name="wizard_script_uri">android.resource://com.android.provision/raw/wizard_script</string>
   <string name="zone_picker_title">Scegli il fuso orario</string>
 </resources>

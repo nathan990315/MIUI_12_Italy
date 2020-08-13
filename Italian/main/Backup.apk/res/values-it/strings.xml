@@ -160,6 +160,7 @@ https://appleid.apple.com/#!&amp;page=signin per chiudere"</string>
   <string name="dialog_backup_password_change_machine_tips">"Non sarai in grado di trasferire i backup portetti da password. Disattiva la password backup prima di utilizzare Mi Mover."</string>
   <string name="dialog_backup_password_restore_tips">"Impossibile ripristinare gli elementi quando la password di backup è attiva. Disattivala prima."</string>
   <string name="dialog_backup_password_to_settings">Impostazioni</string>
+  <string name="digit_percent">%</string>
   <string name="dir_date_format">ddMMyyyy_HHmmss</string>
   <string name="disable_encrypt_description">Nessuna crittografia</string>
   <string name="disable_encrypt_title">Crittografia disabilitata</string>
@@ -254,6 +255,7 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
 2.\u0009Entra nelle impostazioni di Mi Talk e seleziona \"Backup contatti sul tuo Mi Account\""</string>
   <string name="import_from_xiaomi_account_hint2">Nota: Vai al prossimo punto se il backup è già esistente</string>
   <string name="import_from_xiaomi_account_hint_title">Usa Mi Talk per il backup dei contatti su dispositivi di altre marche</string>
+  <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
   <string name="import_tip_summary">Per ragioni di compatibilità, sono supportati solo Contatti e Foto. Devi prima caricare i dati dei vecchi dispositivi su iCloud.</string>
   <string name="lack_perm_msg">Mi Mover necessita dei seguenti permessi: &lt;b&gt;%s&lt;/b&gt;.</string>
   <string name="lack_perm_title">Permessi richiesti</string>
@@ -432,7 +434,7 @@ devi caricare i dati dei vecchi dispositivi su iCloud"</string>
   <string name="recreate_soft_ap_tips">Tocca il tasto quasotto per provare di nuovo.</string>
   <string name="refresh">Aggiorna</string>
   <string name="remote_receive">Ricevi</string>
-
+  <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.GET_ACCOUNTS;android.permission.ACCESS_COARSE_LOCATION;android.permission.READ_CALENDAR;android.permission.WRITE_CALENDAR;android.permission.READ_SMS;android.permission.CAMERA;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
   <string name="restore">Ripristino</string>
   <string name="restore_backup">Ripristina</string>
   <string name="restore_contact">Ripristino contatti</string>
@@ -759,8 +761,12 @@ Libera spazio o trasferisci solo gli elementi più importanti."</string>
 Non uscire da quea pagina finché non è stata stabilita una connessione."</string>
   <string name="waiting">Solo un secondo…</string>
   <string name="wifi_title">Impostazioni Wi-Fi</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">"Connessione Download Manager fallita, controlla lo stato del Download Manager nella Gestione Applicazioni."</string>
   <string name="xiaomi_external_storage_unavailable">"Memoria non disponibile, verifica la scheda SD."</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
   <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s

@@ -60,6 +60,14 @@
         <item quantity="other">%1$d altri commenti</item>
         <item quantity="one">%1$d altro commento</item>
     </plurals>
+    <plurals name="detail_reward_few_times">
+        <item quantity="other">%s rewards</item>
+        <item quantity="one">%s reward</item>
+    </plurals>
+    <plurals name="detail_reward_times">
+        <item quantity="other">%s rewards</item>
+        <item quantity="one">%s reward</item>
+    </plurals>
     <plurals name="detail_update_time_hour">
         <item quantity="other">%d ore fa</item>
         <item quantity="one">%d ora fa</item>
@@ -116,7 +124,7 @@
         <item quantity="other">%d commento</item>
         <item quantity="one">%d commento</item>
     </plurals>
-	<plurals name="resource_download_notification_title_many">
+    <plurals name="resource_download_notification_title_many">
         <item quantity="other">Scaricati %1$d elementi</item>
         <item quantity="one">Scaricato %1$d elemento</item>
     </plurals>

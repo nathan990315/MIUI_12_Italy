@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">Vai alla Home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -27,6 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Condividi con</string>
   <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
   <string name="abc_toolbar_collapse_description">Riduci</string>
+  <string name="alipay_package">com.eg.android.AlipayGphone</string>
   <string name="app_name">Assistente Touch</string>
   <string name="app_not_installed">Non installato</string>
   <string name="applications">Applicazioni</string>
@@ -54,10 +55,10 @@
   <string name="miuix_sbl_tracking_progress_labe_refreshed">aggiornamento completato</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">aggiornamento...</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">rilascia per aggiornare</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">nessun dato</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">non farlo</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"nessun dato"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"non farlo"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">aggiornamento</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fallito</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"fallito"</string>
   <string name="motion_behavior">Gesto preferito</string>
   <string name="name_alipay_payment_code">Pagamento veloce Alipay</string>
   <string name="name_alipay_scan">Scansiona codice Alipay</string>
@@ -80,6 +81,7 @@
   <string name="name_trans_cards">Carta di trasporto</string>
   <string name="name_wechat_payment_code">Pagamento rapido Wechat</string>
   <string name="name_wechat_scan">Scansiona codice Wechat</string>
+  <string name="name_xiao_ai">Mi IA</string>
   <string name="nfc_all_mipay_card_not_in_use">"Mi Pay non è attivo"</string>
   <string name="nfc_trans_card_not_in_use">"La carta di trasporto non è attiva"</string>
   <string name="not_set">Non impostato</string>
@@ -108,4 +110,5 @@
   <string name="vector_large_circle">m93,200c0,-59.11602 47.88398,-107 107,-107c59.11602,0 107,47.88398 107,107c0,59.11602 -47.88398,107 -107,107c-59.11602,0 -107,-47.88398 -107,-107z</string>
   <string name="vector_large_crossA">M160,160 L240,240</string>
   <string name="vector_large_crossB">M240,160 L160,240</string>
+  <string name="wechat_package">com.tencent.mm</string>
 </resources>
