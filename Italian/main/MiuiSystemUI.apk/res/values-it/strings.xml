@@ -1160,8 +1160,8 @@ MMMM EEEE"</string>
   <string name="lockscreen_access_pattern_start">Sequenza avviata</string>
   <string name="lockscreen_carrier_default">Nessun servizio</string>
   <string name="lockscreen_charging_msg">In carica</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe">Hai cercato di sbloccare il telefono %d volte senza successo. Dopo altri %d tentativi sbagliati, il telefono verrà ripristinato alle condizioni di fabbrica e tutti i dati utente verranno persi.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin">"Hai inserito la password %d volte in modo sbagliato. Dopo altri %d tentativi falliti, ti verrà chiesto di sbloccare accedendo al tuo Mi Account.
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Hai cercato di sbloccare il telefono %d volte senza successo. Dopo altri %d tentativi sbagliati, il telefono verrà ripristinato alle condizioni di fabbrica e tutti i dati utente verranno persi.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Hai inserito la password %d volte in modo sbagliato. Dopo altri %d tentativi falliti, ti verrà chiesto di sbloccare accedendo al tuo Mi Account.
 
  Riprova tra %d secondi."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Hai cercato di sbloccare il telefono %d volte senza successo. Il telefono verrà ripristinato alle condizioni di fabbrica.</string>
