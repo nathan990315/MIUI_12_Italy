@@ -99,7 +99,6 @@
   <string name="app_self_upgrade_dlg_postive_btn">Aggiorna ora</string>
   <string name="app_self_upgrade_dlg_title">Aggiornamento disponibile</string>
   <string name="app_self_upgrade_toast_downloading_install">Inizio aggiornamento…</string>
-  <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
   <string name="apply">Applica</string>
   <string name="apply_to_above_all">Imposta su entrambi</string>
   <string name="apply_to_screenlock">Imposta su Schermata di blocco</string>
@@ -110,7 +109,6 @@
   <string name="auto_interval">Dopo ogni sblocco del dispositivo</string>
   <string name="back_icon_content_description">Indietro</string>
   <string name="bind_sign_in_title">Aggiungi Mi Account</string>
-  <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
   <string name="cancel">Annulla</string>
   <string name="cancel_international">Annulla</string>
   <string name="cancel_lockscreen">Annulla</string>
@@ -132,7 +130,6 @@
   <string name="change_time">Cambia sfondo</string>
   <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
-  <string name="character_counter_pattern">%1$d di %2$d</string>
   <string name="chip_text">Testo Chip</string>
   <string name="choose_to_signin">Si</string>
   <string name="choose_to_signup">"No, ne creerò uno"</string>
@@ -273,7 +270,6 @@ Invia questo codice al supervisore."</string>
   <string name="goto_sign_up">Crea account</string>
   <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
   <string name="history_list_no_data">Nessun elemento trovato</string>
-  <string name="homepaperchanged">@string/theme_apply_success</string>
   <string name="hour_1">Ogni ora</string>
   <string name="hour_3">Ogni 3 ore</string>
   <string name="icon_content_description">Icona di dialogo</string>
@@ -342,7 +338,6 @@ Invia questo codice al supervisore."</string>
   <string name="lockscreen_magazine_summary">Seleziona categorie</string>
   <string name="lockscreen_magazine_system_title">Predefinito</string>
   <string name="lockscreen_magazine_title">Sfondi Carousel</string>
-  <string name="lockscreen_wallpaper_changed">@string/theme_apply_success</string>
   <string name="logout_account">Disconetti</string>
   <string name="look_str">Popolari</string>
   <string name="main_fragment_title_discover">Scopri</string>
@@ -401,8 +396,6 @@ mm"</string>
   <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
   <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
   <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
-  <string name="mtrl_picker_cancel">@android:string/cancel</string>
-  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Scegli una data</string>
   <string name="mtrl_picker_date_header_unselected">Seleziona data</string>
@@ -717,7 +710,6 @@ mm"</string>
   <string name="sst_wallpaper_history_title">Cronologia</string>
   <string name="sst_wifi_only_desc">Disattiva per aggiornare gli sfondi solo mediante Wi-Fi</string>
   <string name="sst_wifi_only_title">Aggiorna gli sfondi utilizzando i dati mobili</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_wallpaper_loop_not_start">Spenta</string>
   <string name="status_wallpaper_loop_start">Attivata</string>
   <string name="subscribe_apply_wp">Sfondo schermata di blocco applicato correttamente</string>
