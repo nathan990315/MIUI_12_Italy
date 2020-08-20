@@ -36,13 +36,13 @@
   <string name="animatable_view_tag">animatable_view_tag</string>
   <string name="animation_clock_panel">Composizione Onda</string>
   <string name="aod_close_color_inversion">"Questa funzione non può essere combinata con l'inversione dei colori. Disattivala prima."</string>
-  <string name="aod_component">Displayed items</string>
+  <string name="aod_component">Elementi visualizzati</string>
   <string name="aod_dual_togother">H:mm</string>
   <string name="aod_dual_togother_12">hh:mm aa</string>
   <string name="aod_lock_screen_date">d MMMM, EE</string>
   <string name="aod_lock_screen_date_12">d MMMM, EE</string>
   <string name="aod_lock_screen_date_12_signature">d/M</string>
-  <string name="aod_lock_screen_date_lunar">YY年 N月e</string>
+  <string name="aod_lock_screen_date_lunar">dd/MM</string>
   <string name="aod_lock_screen_date_signature">d/M</string>
   <string name="aod_lock_screen_date_smartcover">"EE
 dd/MM"</string>
@@ -60,6 +60,7 @@ dd/MM"</string>
   <string name="aod_style">Tema</string>
   <string name="aod_to_close">Disattiva</string>
   <string name="app_name">recyclerview-animator</string>
+  <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
   <string name="apply">Applica</string>
   <string name="apply_succeed">Sfondo applicato con successo</string>
   <string name="background_icon">Sfondo</string>
@@ -71,6 +72,7 @@ dd/MM"</string>
   <string name="battery_meter_quick_charging_mask_path">M44.4006489,17.7753262 L48.9816895,12.9957275 L56.0631104,12.9957275 L52.5812988,23.0059814 L60.7009725,23.0059814 C60.9562352,23.0059814 61.2018346,23.1035978 61.3874492,23.2788297 C61.7890441,23.6579603 61.8072549,24.2908633 61.4281243,24.6924582 L44.0809326,43.0675049 L36.9777832,43.0675049 L38.6860448,38.1895308 L34.0809326,43.0675049 L26.9777832,43.0675049 L30.5009766,33.006958 L22.2054052,32.9352898 C21.9505261,32.9330878 21.7061075,32.8336414 21.5220923,32.6572707 C21.1233739,32.2751161 21.1099462,31.6420936 21.4921007,31.2433751 L38.9816895,12.9957275 L46.0631104,12.9957275 L44.4006489,17.7753262 Z</string>
   <string name="battery_meter_quick_charging_path">M40.7647059,26 L53,13 L48.428,25.526 L48.671,26 L56,26 L40,43 L44.571,30.474 L44.329,30 L42.2352941,30 L30,43 L34.571,30.474 L34.329,30 L27,30 L43,13 L38.428,25.526 L38.671,26 L40.7647059,26 Z</string>
   <string name="below_image">Sotto</string>
+  <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
   <string name="btn_know">Ok</string>
   <string name="cancel">Ferma</string>
   <string name="character_counter_content_description">Caratteri inseriti %1$d di %2$d</string>
@@ -85,7 +87,7 @@ dd/MM"</string>
   <string name="color_change_with_time_title">Cambia colore automaticamente</string>
   <string name="component_battery">Batteria</string>
   <string name="component_date_time">Data e ora</string>
-  <string name="component_lunar">Traditional Chinese calendar</string>
+  <string name="component_lunar">Calendario Cinese Tradizionale</string>
   <string name="component_notification">Notifiche</string>
   <string name="component_step">Passi</string>
   <string name="continue_to_use">Continua</string>
@@ -101,8 +103,11 @@ dd/MM"</string>
   <string name="error_icon_content_description">Errore</string>
   <string name="expand_button_title">Avanzate</string>
   <string name="exposed_dropdown_menu_content_description">Mostra menu a tendina</string>
+  <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+  <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
   <string name="font_thickness">Grassetto</string>
   <string name="gradient_vectorpath">gradient_vector_path</string>
+  <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
   <string name="icon_content_description">Icona di dialogo</string>
   <string name="large_time">Orologio grande</string>
   <string name="letter_space">Spaziatura lettere</string>
@@ -125,6 +130,8 @@ dd/MM"</string>
   <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
   <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
   <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
+  <string name="mtrl_picker_cancel">@android:string/cancel</string>
+  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Scegli una data</string>
   <string name="mtrl_picker_date_header_unselected">Seleziona data</string>
@@ -165,6 +172,10 @@ dd/MM"</string>
   <string name="paper_mode_end_time_title">Fine</string>
   <string name="paper_mode_start_time_title">Inizio</string>
   <string name="password_toggle_content_description">Attiva visibilità password</string>
+  <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+  <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="photo_editor_saving">Salvataggio</string>
   <string name="please_input_signature">Inserisci firma</string>
   <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
@@ -199,17 +210,19 @@ dd/MM"</string>
 wonderful is about to happen"</string>
   <string name="standard_clock_panel">Normale</string>
   <string name="standard_style">Normale</string>
-  <string name="step_component_info_active_tip">Step count is provided by Xiaomi Health. Agree to Xiaomi Health terms and conditions to continue.</string>
-  <string name="step_component_info_desc">Step count will turn into a trophy when your goal is reached. Step count is provided by Xiaomi Health.</string>
-  <string name="step_component_info_tip">Step count is provided by Xiaomi Health. Install or update Xiaomi Health and agree to its terms and conditions to continue.</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="step_component_info_active_tip">Il conteggio dei passaggi è fornito da Xiaomi Health. Accetta
+ i termini e le condizioni di Salute per continuare.</string>
+  <string name="step_component_info_desc">Il conteggio dei passi si trasformerà in un trofeo quando il tuo obiettivo sarà raggiunto. Il conteggio dei passi è fornito da Xiaomi Health.</string>
+  <string name="step_component_info_tip">Il conteggio dei passi è fornito da Xiaomi Health. Installa o aggiorna Xiaomi Health e accetta i termini e le condizioni per continuare.</string>
   <string name="summary">"Per ridurre il consumo di energia, gli elementi non verranno visualizzati quando il dispositivo si trova al buio per molto tempo."</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="super_wallpaper_date">"EEaa
 dd/M"</string>
   <string name="super_wallpaper_date_inter">"EEEE
 dd/M"</string>
-  <string name="super_wallpaper_date_lunar">"YY年
-N月e"</string>
+  <string name="super_wallpaper_date_lunar">"EEEE
+dd/MM"</string>
   <string name="temporary_style">Per 10 secondi dopo aver toccato</string>
   <string name="text_color">Colore del testo</string>
   <string name="text_length_exceed_limit_alert">*Il testo inserito è troppo lungo</string>

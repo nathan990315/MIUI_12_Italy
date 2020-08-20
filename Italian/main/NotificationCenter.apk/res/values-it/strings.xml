@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Naviga nella home</string>
-  <string name="abc_action_bar_up_description">Nabiga in alto</string>
+  <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
   <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
@@ -303,6 +303,8 @@
   <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
   <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
   <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
+  <string name="mtrl_picker_cancel">@android:string/cancel</string>
+  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Scegli una data</string>
   <string name="mtrl_picker_date_header_unselected">Seleziona data</string>
@@ -388,6 +390,7 @@ Segnala questo problema &gt;"</string>
   <string name="solar_term_white_dews">Rugiada</string>
   <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
   <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_setting">Barra di stato</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="summary_disable_float_notification">"Notifiche fluttuanti non consentite"</string>

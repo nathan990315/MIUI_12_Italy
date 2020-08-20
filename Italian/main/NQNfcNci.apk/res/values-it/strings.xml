@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">Vai alla Home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -28,7 +28,7 @@
   <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
   <string name="abc_toolbar_collapse_description">Riduci</string>
   <string name="accessibility_nfc_enabled">NFC attivato.</string>
-  <string name="action_confirm_url_open">Open link</string>
+  <string name="action_confirm_url_open">Apri link</string>
   <string name="android_beam">Android Beam</string>
   <string name="app_name">Servizio NFC</string>
   <string name="ask_nfc_tap">Tocca un altro dispositivo per completare</string>
@@ -67,13 +67,13 @@
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_unable_to_connect">Impossibile connettersi alla rete</string>
   <string name="status_wifi_connected">Connesso</string>
-  <string name="summary_confirm_url_open">Your phone received a link through NFC:</string>
-  <string name="tag_dispatch_failed">No supported application for this NFC Tag</string>
-  <string name="tag_read_error">NFC read error. Try again.</string>
+  <string name="summary_confirm_url_open">Il telefono ha ricevuto un link tramite NFC:</string>
+  <string name="tag_dispatch_failed">Nessuna applicazione supportata per questo Tag NFC</string>
+  <string name="tag_read_error">Errore di lettura NFC. Riprova.</string>
   <string name="tap_again_to_complete">Tocca nuovamente per completare con %1$s</string>
   <string name="tap_again_to_pay">Tocca di nuovo per pagare con %1$s</string>
   <string name="tap_to_beam">Tocca per la Trasmissione NFC</string>
-  <string name="title_confirm_url_open">Open link?</string>
+  <string name="title_confirm_url_open">Aprire il link?</string>
   <string name="title_connect_to_network">Collegato alla rete</string>
   <string name="transaction_failure">"Questa transazione non può essere completata con %1$s."</string>
   <string name="wifi_connect">Connetti</string>

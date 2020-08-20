@@ -340,6 +340,7 @@
   <string name="menu_unhide">Mostra</string>
   <string name="menu_unstick">Rimuovi spilla</string>
   <string name="merge_to_folder">Crea una cartella</string>
+  <string name="micloud_state_total_count">%1$s</string>
   <string name="midnight">AM</string>
   <string name="miuix_appcompat_cloud_state_disabled">La sincronizzazione col cloud è disattivata</string>
   <string name="miuix_appcompat_cloud_state_finished">Sincronizzato col cloud</string>
@@ -414,6 +415,7 @@
   <string name="note_sort_way">Ordinamento note</string>
   <string name="notealert_enter">Controlla</string>
   <string name="notealert_ok">Ignora</string>
+  <string name="notelist_string_info">…</string>
   <string name="notification_content_add_todo_from_other_app">Hai aggiunto una nuova attività. Tocca per vederla.</string>
   <string name="notify_alarm_title">Promemoria sveglia</string>
   <string name="permdesc_accessNote">Le applicazioni dannose potrebbero sfruttare questa possibilità per accedere alle tue informazioni personali.</string>
@@ -497,6 +499,7 @@
   <string name="search_menu_title">Cerca</string>
   <string name="search_path_notes">App di sistema/Note</string>
   <string name="search_setting_description">Testo nelle note</string>
+  <string name="search_title_notes">@string/app_name</string>
   <string name="select_account_prompt">Abilita sincronizzazione note</string>
   <string name="set_alarm_description">Imposta sveglia</string>
   <string name="setting_other">ALTRO</string>
@@ -725,5 +728,6 @@ Consenti di registrare audio."</string>
   <string name="wednesday_shortest">M</string>
   <string name="widget_content_loading">Attendi…</string>
   <string name="widget_havenot_content">Nessuna nota associata trovata, premere per crearne una.</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="yesterday">ieri</string>
 </resources>

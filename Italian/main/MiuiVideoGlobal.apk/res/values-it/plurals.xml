@@ -9,7 +9,7 @@
         <item quantity="one">Ritorno alla home page tra %1$d secondo…</item>
     </plurals>
     <plurals name="follower">
-        <item quantity="other">%d followers</item>
+        <item quantity="other">%d follower</item>
         <item quantity="one">%d follower</item>
     </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
@@ -29,8 +29,8 @@
         <item quantity="one">%d video</item>
     </plurals>
     <plurals name="mediation_animate_close_after">
-        <item quantity="other">%s secs left</item>
-        <item quantity="one">%s sec left</item>
+        <item quantity="other">%s sec rimasti</item>
+        <item quantity="one">%s sec rimasto</item>
     </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Il tuo contenuto contiene elementi (%1$s) che violano gli standard della nostra comunità. Il tuo account è sospeso per %2$d giorni fino al %3$s.</item>

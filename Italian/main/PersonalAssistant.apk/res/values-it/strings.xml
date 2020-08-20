@@ -177,10 +177,14 @@
   <string name="alipay_msp_bl_bt_shutdown">蓝牙未开启，无法使用智能免密功能</string>
   <string name="alipay_msp_bl_timeout">蓝牙连接异常，无法使用智能设备免密支付</string>
   <string name="alipay_msp_bl_verify_error">智能设备校验失败，请使用支付密码进行支付</string>
+  <string name="alipay_msp_image_loader_view_tag">alipay_msp_image_loader_view_tag</string>
+  <string name="alipay_msp_tag_view_holder">alipay_msp_tag_view_holder</string>
+  <string name="alipay_msp_view_wrapper">alipay_msp_view_wrapper</string>
   <string name="alipay_net_error">不能连接到服务器，是否重试？</string>
   <string name="alipay_newUserRegister">新用户注册</string>
   <string name="alipay_password">密码</string>
   <string name="alipay_password_login">密码登录</string>
+  <string name="alipay_phoneNumber">+86</string>
   <string name="alipay_pre_router_alipay_account">用已登录支付宝账号</string>
   <string name="alipay_pre_router_cancel">取消</string>
   <string name="alipay_pre_router_has_auth_account">用已授权账号</string>
@@ -611,6 +615,7 @@
   <string name="express_company_phone_prefix">"Contatto: "</string>
   <string name="express_company_pricing_details">Dettagli prezzo</string>
   <string name="express_complete">Accettato</string>
+  <string name="express_complete_flag">3</string>
   <string name="express_contact_address">Immetti indirizzo</string>
   <string name="express_contact_address_finding">Localizzazione…</string>
   <string name="express_contact_label">Informazioni servizio di ritiro</string>
@@ -622,6 +627,7 @@
   <string name="express_delete_order">Elimina</string>
   <string name="express_delete_tel">删除电话</string>
   <string name="express_delivery">In consegna</string>
+  <string name="express_delivery_flag">5</string>
   <string name="express_dest_city_label">Destinazione</string>
   <string name="express_detail_order_number_prefix">Numero: %s</string>
   <string name="express_detailed_address">Indirizzo</string>
@@ -631,6 +637,7 @@
   <string name="express_i_known">Fatto</string>
   <string name="express_icon_tip">Ottieni info sulla consegna veloce utilizzando il tuo numero di telefono e le info dell\'ordine.</string>
   <string name="express_icon_tip_link">Sicurezza e privacy</string>
+  <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Servizio corriere</string>
   <string name="express_inquiry">Tracciamento</string>
   <string name="express_inquiry_all_logistics">Tutti</string>
@@ -683,6 +690,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="express_order_failed">Non riuscito</string>
   <string name="express_order_ongoing">In elaborazione…</string>
   <string name="express_order_result">Risultato</string>
+  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Accettato</string>
   <string name="express_order_state_allograph">Firmato</string>
   <string name="express_order_state_cancelled">Annullato</string>
@@ -989,6 +997,8 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="kakalib_bar_qr_code">条形码·二维码</string>
   <string name="kakalib_ok">确定</string>
   <string name="keyboard_alipay">支付宝安全键盘</string>
+  <string name="keyboard_more_abc">\#+=</string>
+  <string name="keyboard_more_num">123</string>
   <string name="keyboard_ok">完成</string>
   <string name="keyboard_space">空格</string>
   <string name="keyword_recommend">推荐您</string>
@@ -1156,6 +1166,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="mini_safe_no">安全码</string>
   <string name="mini_safe_no_hint">卡背面末三位数字</string>
   <string name="mini_start_download">开始下载...</string>
+  <string name="mini_str_null">xx</string>
   <string name="mini_temp_support_xiaomi">暂时仅支持小米手环</string>
   <string name="mini_to_open">去开通</string>
   <string name="mini_to_open_error">指纹采集软件启动异常，请检查</string>
@@ -1247,7 +1258,11 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="msp_memo_user_cancel">操作已经取消。</string>
   <string name="msp_mini_card_type_text">卡类型</string>
   <string name="msp_mini_choose_identitify">选择证件类别</string>
+  <string name="msp_mini_layout">mini_layout</string>
+  <string name="msp_mini_layout_parent">mini_layout_parent</string>
+  <string name="msp_mini_linblocksconpent">mini_linBlocksConpent</string>
   <string name="msp_mini_read_protocal_title">选择阅读协议</string>
+  <string name="msp_mini_root">mini_root</string>
   <string name="msp_mini_safty_code_info">安全码是打印在信用卡背面签名区的一组数字，一般是后3位数字</string>
   <string name="msp_mini_safty_code_title">安全码说明</string>
   <string name="msp_phone_num_info">"银行预留的手机号是办理该银行卡时所填写的手机号码。
@@ -1395,6 +1410,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="paycode_sdk_parent">Collegamento pagamento (nessuna app richiesta)</string>
   <string name="paycode_sdk_parent_title">Collegamento pagamento</string>
   <string name="payment">I miei pagamenti</string>
+  <string name="payment_amount_empty">0.00</string>
   <string name="payment_app_name">I miei pagamenti</string>
   <string name="payment_card_title">I miei pagamenti</string>
   <string name="payment_clear_records_dialog_message">Eliminare tutte le registrazioni dei pagamenti?</string>
@@ -1455,11 +1471,13 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="payment_user_notice_bar_text">A proposito di \"I miei pagamenti\"</string>
   <string name="peccancy_acquire">Violazione del traffico</string>
   <string name="personalAssistant_mainpage">Pagina principale</string>
+  <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
   <string name="phone_check">Ottimizzazioni</string>
   <string name="pie_chart_label_atm">Ritiri ATM:</string>
   <string name="pie_chart_label_catering">Cibo:</string>
   <string name="pie_chart_label_education">Educazione:</string>
   <string name="pie_chart_label_entertainment">Intrattenimento:</string>
+  <string name="pie_chart_label_format">%1$s %2$s%%</string>
   <string name="pie_chart_label_go_dutch">Paga alla Romana:</string>
   <string name="pie_chart_label_life">Vita:</string>
   <string name="pie_chart_label_medical">Stato di salute:</string>
@@ -1468,6 +1486,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="pie_chart_label_remain">Rimanente:</string>
   <string name="pie_chart_label_remittance">Trasferito:</string>
   <string name="pie_chart_label_shopping">Acquisti:</string>
+  <string name="pie_chart_label_special">%1$s &lt;0.01%%</string>
   <string name="pie_chart_label_spending">Pagamenti:</string>
   <string name="pie_chart_label_telephone_charge">Comunicazioni:</string>
   <string name="pie_chart_label_tenement">Affitto:</string>
@@ -1674,6 +1693,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="sport_headline">"Attività di oggi"</string>
   <string name="sport_open">Mostra scheda Mi Fit</string>
   <string name="start_download">开始下载...</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="step_cal_unit">Cal.</string>
   <string name="step_km">km</string>
   <string name="step_setting_tip">Origine informazioni passi</string>
@@ -1694,6 +1714,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="steps_vip_des">Conta i passi senza installare applicazioni di terze parti.</string>
   <string name="stock_card_add">Aggiungi società</string>
   <string name="stock_card_title">Riserve</string>
+  <string name="stock_change_rate_format">%.2f%%</string>
   <string name="stock_color_schema">Schema colore</string>
   <string name="stock_list_empty_text">"Non stai seguendo alcuna compagnia."</string>
   <string name="stock_search_empty">"Impossibile trovare risultati"</string>
@@ -1708,6 +1729,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="system_favorite_dialog_negative">Annulla</string>
   <string name="system_favorite_dialog_positive">Consenti</string>
   <string name="system_favorite_dialog_title_confirm">Preferiti</string>
+  <string name="tag_view_nav">tag_view_nav</string>
   <string name="take_off">Partenza</string>
   <string name="taked_off">Partito</string>
   <string name="taobao_auth_login">淘宝用户快速登录</string>

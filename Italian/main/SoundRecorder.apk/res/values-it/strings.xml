@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Naviga nella home</string>
-  <string name="abc_action_bar_up_description">Nabiga in alto</string>
+  <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
   <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
@@ -364,7 +364,7 @@
   <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
   <string name="toast_max_record_time">App: %1$s tempo di registrazione massima %2$s</string>
   <string name="toast_uninstall_fileexplorer">"File Explorer non è installato!"</string>
-  <string name="trash_box">Recently deleted items</string>
+  <string name="trash_box">Elementi eliminati di recente</string>
   <string name="trash_box_close_tip">Chiudi avviso</string>
   <string name="trash_box_delete_all">Delete all items from the trash permanently?</string>
   <string name="usage_description">Trascrizione dell\'audio e sincronizzazione di elementi con il cloud</string>
@@ -380,4 +380,5 @@
   <string name="webview_try_again">Prova di nuovo</string>
   <string name="wifi_recommended_body" formatted="false">L\'utilizzo della rete dati cellulare per il download di questo file (%s) aumenterà il consumo dei dati. Se superi il limite previsto dal piano del tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il download di questo file tocca %s.</string>
   <string name="wifi_recommended_title">Avviso traffico</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

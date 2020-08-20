@@ -501,7 +501,7 @@ Se il tuo dispositivo è elencato qui, puoi aggiungere le sorgenti dati manualme
   <string name="exercise_reminder_unaccomplished">"Non hai ancora raggiunto il tuo obiettivo. Forza!"</string>
   <string name="exercise_result_reminder_content">%1$d min di esercizio (%2$d Cal). Tocca per i dettagli.</string>
   <string name="exercise_result_reminder_title">"Hai fatto %1$d passi oggi. Obiettivo raggiunto!"</string>
-  <string name="exercise_result_reminder_title_unaccomplished">"Hai fatto %1$d passi oggi. Puoi ancora raggiungere l'obiettivo!"</string>
+  <string name="exercise_result_reminder_title_unaccomplished">"Fatti %1$d passi oggi. Manca poco all'obiettivo!"</string>
   <string name="exercise_setting_label_reach_standard_remind">Avviso attività</string>
   <string name="exercise_setting_page_title">Impostazioni attività</string>
   <string name="exercise_speed">Velocità</string>
@@ -853,6 +853,8 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="mtrl_badge_numberless_content_description">Nuove notifiche</string>
   <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+  <string name="mtrl_picker_cancel">@android:string/cancel</string>
+  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Scegli una data</string>

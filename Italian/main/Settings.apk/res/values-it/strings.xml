@@ -317,10 +317,10 @@ To switch between features, swipe up with 3 fingers and hold."</string>
   <string name="accessibility_wifi_three_bars">Wi-Fi tre barre.</string>
   <string name="accessibility_wifi_two_bars">Wi-Fi due barre.</string>
   <string name="accessibility_work_account_title">Account di lavoro - %s</string>
-  <string name="accessibility_work_profile_app_description">Work %s</string>
-  <string name="accessor_expires_text">Lease expires at %s</string>
-  <string name="accessor_info_title">Apps sharing data</string>
-  <string name="accessor_no_description_text">No description provided by the app.</string>
+  <string name="accessibility_work_profile_app_description">Lavoro %s</string>
+  <string name="accessor_expires_text">Il lease scade alle %s</string>
+  <string name="accessor_info_title">App che condividono dati</string>
+  <string name="accessor_no_description_text">Nessuna descrizione fornita dall\'app.</string>
   <string name="account_add">Aggiungi</string>
   <string name="account_autostar_label">Avvio automatico</string>
   <string name="account_confirmation_class"></string>
@@ -365,36 +365,36 @@ To switch between features, swipe up with 3 fingers and hold."</string>
   <string name="adaptive_sleep_title_no_permission">Camera access needed</string>
   <string name="adb_authorization_timeout_summary">Disable automatic revocation of adb authorizations for systems that have not reconnected within the default (7 days) or user-configured (minimum 1 day) amount of time.</string>
   <string name="adb_authorization_timeout_title">Disable adb authorization timeout</string>
-  <string name="adb_device_fingerprint_title_format">Device fingerprint: %1$s</string>
-  <string name="adb_device_forget">Forget</string>
+  <string name="adb_device_fingerprint_title_format">Impronta del dispositivo: %1$s</string>
+  <string name="adb_device_forget">Dimentica</string>
   <string name="adb_keys_warning_message">"Revocare l'accesso al debug USB da tutti i computer precedentemente autorizzati?"</string>
-  <string name="adb_pair_method_code_summary">Pair new devices using six digit code</string>
-  <string name="adb_pair_method_code_title">Pair device with pairing code</string>
-  <string name="adb_pair_method_qrcode_summary">Pair new devices using QR code scanner</string>
-  <string name="adb_pair_method_qrcode_title">Pair device with QR code</string>
-  <string name="adb_paired_devices_title">Paired devices</string>
-  <string name="adb_pairing_device_dialog_failed_msg">Make sure the device is connected to the same network.</string>
-  <string name="adb_pairing_device_dialog_failed_title">Pairing unsuccessful</string>
-  <string name="adb_pairing_device_dialog_pairing_code_label">Wi‑Fi pairing code</string>
-  <string name="adb_pairing_device_dialog_title">Pair with device</string>
-  <string name="adb_qrcode_pairing_device_failed_msg">Failed to pair the device. Either the QR code was incorrect, or the device is not connected to the same network.</string>
+  <string name="adb_pair_method_code_summary">Associa nuovi dispositivi utilizzando il codice a sei cifre</string>
+  <string name="adb_pair_method_code_title">Associa dispositivo con codice associazione</string>
+  <string name="adb_pair_method_qrcode_summary">Associa nuovi dispositivi utilizzando lo scanner di codici QR</string>
+  <string name="adb_pair_method_qrcode_title">Associa dispositivo con codice QR</string>
+  <string name="adb_paired_devices_title">Dispositivi associati</string>
+  <string name="adb_pairing_device_dialog_failed_msg">Assicurati che il dispositivo sia connesso alla stessa rete.</string>
+  <string name="adb_pairing_device_dialog_failed_title">Associazione fallita</string>
+  <string name="adb_pairing_device_dialog_pairing_code_label">Codice associazione Wi-Fi</string>
+  <string name="adb_pairing_device_dialog_title">Associa con dispositivo</string>
+  <string name="adb_qrcode_pairing_device_failed_msg">Impossibile associare il dispositivo. O il codice QR non è corretto, o il dispositivo non è connesso alla stessa rete.</string>
   <string name="adb_warning_message">Il debug USB è solo a scopo di sviluppo. Utilizzalo per copiare dati tra il computer e il dispositivo, per installare applicazioni sul tuo dispositivo senza notifica e per leggere i dati dei log.</string>
   <string name="adb_warning_title">Consentire debug USB?</string>
-  <string name="adb_wireless_connection_failed_message">Make sure %1$s is connected to the correct network</string>
-  <string name="adb_wireless_connection_failed_title">Connection unsuccessful</string>
-  <string name="adb_wireless_device_connected_summary">Currently connected</string>
-  <string name="adb_wireless_device_details_title">Device details</string>
+  <string name="adb_wireless_connection_failed_message">Assicurati che %1$s sia connesso alla rete corretta</string>
+  <string name="adb_wireless_connection_failed_title">Connessione fallita</string>
+  <string name="adb_wireless_device_connected_summary">Attualmente connessi</string>
+  <string name="adb_wireless_device_details_title">Dettagli dispositivo</string>
   <string name="adb_wireless_error">Errore</string>
-  <string name="adb_wireless_ip_addr_preference_title">IP address &amp; Port</string>
-  <string name="adb_wireless_list_empty_off">To see and use available devices, turn on wireless debugging</string>
-  <string name="adb_wireless_no_network_msg">Please connect to a Wi‑Fi network</string>
-  <string name="adb_wireless_qrcode_pairing_description">Pair device over Wi‑Fi by scanning a QR code</string>
+  <string name="adb_wireless_ip_addr_preference_title">Indirizzo IP e Porta</string>
+  <string name="adb_wireless_list_empty_off">Per vedere e utilizzare i dispositivi disponibili, attiva il debug wireless</string>
+  <string name="adb_wireless_no_network_msg">Connettiti a una rete Wi-Fi</string>
+  <string name="adb_wireless_qrcode_pairing_description">Associa il dispositivo tramite Wi‐Fi scansionando un codice QR</string>
   <string name="adb_wireless_qrcode_pairing_title">Rileva codice QR</string>
-  <string name="adb_wireless_qrcode_summary">Pair device over Wi‑Fi by scanning a QR code</string>
-  <string name="adb_wireless_settings">Wireless debugging</string>
-  <string name="adb_wireless_verifying_qrcode_text">Pairing device…</string>
-  <string name="adbwifi_warning_message">Wireless debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.</string>
-  <string name="adbwifi_warning_title">Allow wireless debugging?</string>
+  <string name="adb_wireless_qrcode_summary">Associa il dispositivo tramite Wi‐Fi scansionando un codice QR</string>
+  <string name="adb_wireless_settings">Debug wireless</string>
+  <string name="adb_wireless_verifying_qrcode_text">Associazione dispositivo…</string>
+  <string name="adbwifi_warning_message">Il debug wireless è destinato solo a fini di sviluppo. Usalo per copiare i dati tra il computer e il dispositivo, installare applicazioni sul dispositivo senza notifica e leggere i dati di log.</string>
+  <string name="adbwifi_warning_title">Consentire il debug wireless?</string>
   <string name="add">Aggiungi</string>
   <string name="add_a_language">Aggiungi una lingua</string>
   <string name="add_account_label">Aggiungi account</string>
@@ -743,7 +743,7 @@ Vuoi abilitare le finestre flottanti?"</string>
 2. Se l'altoparlante è bloccato pesantemente, eseguire questa funzione 2-5 volte mentre si agita il dispositivo con l'altoparlante rivolto verso il basso."</string>
   <string name="auto_clean_summary">Riproduce un audio di 30 secondi per ripulire l\'altoparlante</string>
   <string name="auto_clean_title">Pulisci altoparlante</string>
-  <string name="auto_connect_disable">Auto-connect is off</string>
+  <string name="auto_connect_disable">Connessione automatica spenta</string>
   <string name="auto_disable_screenbuttons_ask">Chiedi se disattivare</string>
   <string name="auto_disable_screenbuttons_auto">Disattiva sempre</string>
   <string name="auto_disable_screenbuttons_cancel">Annulla</string>
@@ -794,7 +794,7 @@ Ultimo utilizzo il %2$s"</string>
   <string name="automatic_system_heap_dump_summary">Cattura automaticamente un dump heap del Sistema Android quando usa troppa memoria</string>
   <string name="automatic_system_heap_dump_title">Acquisisci automaticamente dump dell\'heap del sistema</string>
   <string name="available_size">%s disponibile</string>
-  <string name="available_via_app">Available via %1$s</string>
+  <string name="available_via_app">Disponibile tramite %1$s</string>
   <string name="available_via_carrier">Disponibile via %1$s</string>
   <string name="available_via_passpoint">Disponibile via %1$s</string>
   <string name="available_virtual_keyboard_category">Tastiera virtuale disponibile</string>
@@ -931,8 +931,8 @@ I backup sono archiviati in Xiaomi Cloud e possono essere accessibili in modalit
   <string name="battery_info_screen_on">Tempo accensione schermo:</string>
   <string name="battery_info_status_charging">In carica</string>
   <string name="battery_info_status_charging_ac">(CA)</string>
-  <string name="battery_info_status_charging_fast">Charging rapidly</string>
-  <string name="battery_info_status_charging_slow">Charging slowly</string>
+  <string name="battery_info_status_charging_fast">Carica rapida</string>
+  <string name="battery_info_status_charging_slow">Carica lenta</string>
   <string name="battery_info_status_charging_usb">(USB)</string>
   <string name="battery_info_status_charging_wireless">(wireless)</string>
   <string name="battery_info_status_discharging">Non in carica</string>
@@ -990,6 +990,7 @@ I backup sono archiviati in Xiaomi Cloud e possono essere accessibili in modalit
   <string name="battery_stats_duration">%1$s dallo scollegamento</string>
   <string name="battery_stats_flashlight_on_label">Torcia attivata</string>
   <string name="battery_stats_gps_on_label">GPS attivato</string>
+  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">%1$s con la batteria</string>
   <string name="battery_stats_phone_signal_label">Segnale rete cellulare</string>
   <string name="battery_stats_screen_on_label">Schermo acceso</string>
@@ -1056,8 +1057,8 @@ App:
   <string name="biometric_weak_liveliness_summary">Richiede la chiusura degli occhi durante il riconoscimento</string>
   <string name="biometric_weak_liveliness_title">Controllo essere vivente</string>
   <string name="ble_scan_notify_text">Per maggiore precisione nella localizzazione, applicazioni e servizi di sistema possono ancora rilevare i dispositivi Bluetooth. Tu puoi cambiare questo su LINK_BEGINscanning ImpostazioniLINK_END.</string>
-  <string name="blob_expires_text">Expires at %s</string>
-  <string name="blob_id_text">Shared data ID: %d</string>
+  <string name="blob_expires_text">Scade alle %s</string>
+  <string name="blob_id_text">ID dati condivisi: %d</string>
   <string name="block_list_connected_devices">Dispositivi connessi</string>
   <string name="block_list_diaglog_cancle">Annulla</string>
   <string name="block_list_diaglog_ok">OK</string>
@@ -1171,8 +1172,8 @@ App:
   <string name="bluetooth_empty_list_user_restricted">Non hai i permessi per modificare le impostazioni Bluetooth</string>
   <string name="bluetooth_enable">Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">Il PIN contiene lettere o simboli</string>
-  <string name="bluetooth_enable_gabeldorsche">Enable Gabeldorsche</string>
-  <string name="bluetooth_enable_gabeldorsche_summary">Enables the Bluetooth Gabeldorsche feature stack.</string>
+  <string name="bluetooth_enable_gabeldorsche">Abilita Gabeldorsche</string>
+  <string name="bluetooth_enable_gabeldorsche_summary">Abilita lo stack delle funzionalità Gabeldorsche Bluetooth.</string>
   <string name="bluetooth_enter_passkey_msg">Digita il codice di abbinamento e premi Invio</string>
   <string name="bluetooth_enter_passkey_other_device">Potrebbe essere necessario digitare questa passkey anche sull\'altro dispositivo.</string>
   <string name="bluetooth_enter_pin_other_device">Potrebbe essere necessario digitare questo PIN anche sull\'altro dispositivo.</string>
@@ -1320,11 +1321,11 @@ Frequenza Campione"</string>
   <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
   <string name="bluetooth_select_a2dp_codec_type">Codec Audio Bluetooth</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Seleziona Codec Audio Bluetooth"</string>
-  <string name="bluetooth_select_a2dp_codec_type_help_info">Gray-out means not supported by phone or headset</string>
+  <string name="bluetooth_select_a2dp_codec_type_help_info">Grigio significa che non è supportato dal telefono o dalle cuffie</string>
   <string name="bluetooth_select_avrcp_version_dialog_title">Seleziona versione AVRCP Bluetooth</string>
   <string name="bluetooth_select_avrcp_version_string">Versione AVRCP Bluetooth</string>
-  <string name="bluetooth_select_map_version_dialog_title">Select Bluetooth MAP Version</string>
-  <string name="bluetooth_select_map_version_string">Bluetooth MAP Version</string>
+  <string name="bluetooth_select_map_version_dialog_title">Seleziona Versione MAP Bluetooth</string>
+  <string name="bluetooth_select_map_version_string">Versione MAP Bluetooth</string>
   <string name="bluetooth_settings">Bluetooth</string>
   <string name="bluetooth_settings_summary">Gestisci le connessioni, imposta il nome e la visibilità del dispositivo</string>
   <string name="bluetooth_settings_title">Bluetooth</string>
@@ -1428,6 +1429,7 @@ Frequenza Campione"</string>
   <string name="bootloader_tips">"Dopo aver aggiunto il tuo Mi Account, non disconnetterti da esso, esegui un ripristino dei dati di fabbrica o cancella i dati delle app di sistema. Se deciderai di eseguire una delle operazioni precedenti, assicurati di riaggiungi nuovamente il tuo account o non sarai in grado di sbloccare il dispositivo."</string>
   <string name="bootloader_tips_ok">Fatto</string>
   <string name="bootloader_tips_warning">"Non disconnetterti dalla rete, uscire dal tuo Mi Account, eseguire un reset di fabbrica o cancellare i dati di sistema."</string>
+  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="bottom_function_settings">Funzioni dei pulsanti aggiuntivi</string>
   <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
   <string name="breathing_light_color_menu_title">Colore LED</string>
@@ -1521,10 +1523,10 @@ Questa funzione può essere disattivata in [Settings]</string>
   <string name="cache_size_label">Cache</string>
   <string name="cached">Processo in background memorizzato nella cache</string>
   <string name="cached_apps_freezer">Suspend execution for cached apps</string>
-  <string name="cached_apps_freezer_device_default">Device default</string>
+  <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
   <string name="cached_apps_freezer_disabled">Disabilitato</string>
   <string name="cached_apps_freezer_enabled">Attivato</string>
-  <string name="cached_apps_freezer_reboot_dialog_text">Your device must be rebooted for this change to apply. Reboot now or cancel.</string>
+  <string name="cached_apps_freezer_reboot_dialog_text">Il tuo dispositivo deve essere riavviato perché questa modifica possa essere applicata. Riavvia ora o annulla.</string>
   <string name="calendar_remind">Agenda</string>
   <string name="calendar_sound_dialog_title">Scegli suono calendario</string>
   <string name="calendar_sound_title">Suono calendario</string>
@@ -1533,6 +1535,7 @@ Questa funzione può essere disattivata in [Settings]</string>
   <string name="call_example_name">Nome</string>
   <string name="call_manager_enable_summary">Consenti questo servizio per gestire come sono state fatte le vostre chiamate.</string>
   <string name="call_manager_enable_title">Attiva il Manager chiamate</string>
+  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Manager chiamate</string>
   <string name="call_records_name_1">Debbie Smith</string>
   <string name="call_records_name_2">Jason Lee</string>
@@ -1633,6 +1636,7 @@ Questa funzione può essere disattivata in [Settings]</string>
   <string name="cert_not_installed">Certificate not installed</string>
   <string name="certificate_warning_dont_install">Don’t install</string>
   <string name="certificate_warning_install_anyway">Installa comunque</string>
+  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Cambia</string>
   <string name="change_lock_screen_password_title">Cambia blocco schermo</string>
   <string name="change_password">Cambia password</string>
@@ -1789,6 +1793,7 @@ Questa funzione può essere disattivata in [Settings]</string>
   <string name="condition_hotspot_title">Hotspot attivo</string>
   <string name="condition_night_display_summary">Lo schermo diventa di colore ambra. Potrebbe aiutarti a prendere sonno.</string>
   <string name="condition_night_display_title">Luce Notturna attivata</string>
+  <string name="condition_summary">%1$d</string>
   <string name="condition_turn_off">Disattiva</string>
   <string name="condition_turn_on">Attivo</string>
   <string name="condition_work_summary">App, sincronizzazione background ed altre funzionalità relative al tuo profilo di lavoro sono disattivate.</string>
@@ -2267,8 +2272,8 @@ avviso</string>
   <string name="default_usb_mode">Connessione USB</string>
   <string name="default_vol_stream_title">Flusso di controllo volume predefinito</string>
   <string name="delete">Elimina</string>
-  <string name="delete_blob_confirmation_text">Are you sure you want to delete this shared data?</string>
-  <string name="delete_blob_text">Delete shared data</string>
+  <string name="delete_blob_confirmation_text">Sei sicuro di voler eliminare questi dati condivisi?</string>
+  <string name="delete_blob_text">Elimina dati condivisi</string>
   <string name="delete_fingerprint_confirm_msg">Vuoi rimuovere l\'impronta digitale?</string>
   <string name="delete_fingerprint_confirm_title">Attenzione</string>
   <string name="delete_fingerprint_text">Rimuovi impronta digitale</string>
@@ -2313,7 +2318,7 @@ avviso</string>
   <string name="device_build_id">Numero versione</string>
   <string name="device_camera">Fotocamera</string>
   <string name="device_complete_parameters">Completo</string>
-  <string name="device_controls_sentence">Device controls</string>
+  <string name="device_controls_sentence">Controlli dispositivo</string>
   <string name="device_controls_setting_subtitle">To access controls for connected devices, hold the Power button</string>
   <string name="device_controls_setting_toggle">Show device controls</string>
   <string name="device_cpu">CPU</string>
@@ -2407,6 +2412,7 @@ Se il problema continua a verificarsi, potrebbe essere necessario disinstallare 
   <string name="dialog_title_hdmi_color_calibration">Preimpostazione correzione colore</string>
   <string name="dialog_title_login">Accedi al tuo Mi Account</string>
   <string name="dialog_yes">Sì</string>
+  <string name="digital_clock_dot">:</string>
   <string name="direct_boot_unaware_dialog_message">"Nota: dopo un riavvio, questa app non potrà avviarsi finché non sblocchi il telefono"</string>
   <string name="disableNetwork">Disattiva rete</string>
   <string name="disable_overlays">Disabilita overlay HW</string>
@@ -2491,6 +2497,7 @@ Se il problema continua a verificarsi, potrebbe essere necessario disinstallare 
   <string name="dndm_auto_button_title">Programmato</string>
   <string name="dndm_auto_setting_group">Programmazione</string>
   <string name="dndm_auto_time_setting">Fascia oraria</string>
+  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Alle</string>
   <string name="dndm_auto_time_turn_off_title">Disattiva Non disturbare automaticamente</string>
   <string name="dndm_auto_time_turn_on">Dalle</string>
@@ -2635,8 +2642,8 @@ Puoi vedere i log generati in File Manager."</string>
   <string name="enableNetwork">Attiva rete</string>
   <string name="enable_adb">Debug USB</string>
   <string name="enable_adb_summary">Modalità debug con connessione USB</string>
-  <string name="enable_adb_wireless">Wireless debugging</string>
-  <string name="enable_adb_wireless_summary">Debug mode when Wi‑Fi is connected</string>
+  <string name="enable_adb_wireless">Debug wireless</string>
+  <string name="enable_adb_wireless_summary">Modalità debug quando il Wi‐Fi è connesso</string>
   <string name="enable_blurs_on_windows_summary">Enables window blurs at compositor level. Requires device reboot.</string>
   <string name="enable_blurs_on_windows_title">Enable blurs</string>
   <string name="enable_compatibility">Scala applicazione</string>
@@ -2665,8 +2672,8 @@ Puoi vedere i log generati in File Manager."</string>
   <string name="enable_terminal_summary">Abilita l\'app Terminale che offre l\'accesso alla shell locale</string>
   <string name="enable_terminal_title">Terminale locale</string>
   <string name="enable_text">Attiva</string>
-  <string name="enable_verbose_vendor_logging">Enable verbose vendor logging</string>
-  <string name="enable_verbose_vendor_logging_summary">Include additional device-specific vendor logs in bug reports, which may contain private information, use more battery, and/or use more storage.</string>
+  <string name="enable_verbose_vendor_logging">Abilita la registrazione dettagliata del venditore</string>
+  <string name="enable_verbose_vendor_logging_summary">Includi ulteriori log dei fornitori specifici del dispositivo nelle segnalazioni di bug, che possono contenere informazioni private, utilizza più batteria e/o più spazio di archiviazione.</string>
   <string name="enable_wifi_display">Abilita schermo wireless</string>
   <string name="enabled_5g_mode_title">Enable 5G</string>
   <string name="enabled_authorised_apps_summary">La tua autorizzazione verrà revocata dopo aver modificato le app individuali.</string>
@@ -2718,8 +2725,8 @@ Questa funzionalità aiuta a proteggere i propri dati su dispositivi persi o rub
   <string name="enhanced_4g_lte_mode_title">Modalità 4G LTE avanzata</string>
   <string name="enhanced_4g_lte_mode_title_4g_calling">Chiamata 4G</string>
   <string name="enhanced_4g_lte_mode_title_advanced_calling">Chiamata Avanzata</string>
-  <string name="enhanced_connectivity">Enhanced Connectivity</string>
-  <string name="enhanced_connectivity_summary">Enables the Enhanced Connectivity feature.</string>
+  <string name="enhanced_connectivity">Connettività Migliorata</string>
+  <string name="enhanced_connectivity_summary">Abilita la funzionalità di connettività migliorata.</string>
   <string name="enrol_fingerprint_data">Aggiungi impronta</string>
   <string name="enter_password">Digita la password per decrittare l\'archivio</string>
   <string name="enter_pattern">Inizia ad usare Android, esegui la sequenza di sblocco</string>
@@ -3424,7 +3431,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
   <string name="ims_reg_status_not_registered">Non registrato</string>
   <string name="ims_reg_status_registered">Registrato</string>
   <string name="ims_reg_title">Stato di registrazione IMS</string>
-  <string name="imsi_protection_warning">This network receives a unique ID that can be used to track device location. &lt;annotation id=\"url\"&gt;Learn more&lt;/annotation&gt;</string>
+  <string name="imsi_protection_warning">Questa rete riceve un ID univoco che può essere utilizzato per tracciare la posizione del dispositivo. &lt;annotation id=\"url\"&gt;Scopri di più&lt;/annotation&gt;</string>
   <string name="inactive_app_active_summary">Attivata. Tocca per disattivare.</string>
   <string name="inactive_app_inactive_summary">Disattivata. Tocca per attivare.</string>
   <string name="inactive_apps_title">App disattivate</string>
@@ -3581,6 +3588,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
   <string name="keyguard_notification_status_title">Notifiche</string>
   <string name="keyguard_security_setting_others">Altri</string>
   <string name="keyguard_security_setting_privacy_policy">Informativa sulla Privacy</string>
+  <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
   <string name="keywords_accounts">account</string>
   <string name="keywords_adb_wireless">adb, debug, dev</string>
   <string name="keywords_add_bt_device">bluetooth</string>
@@ -3766,6 +3774,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
   <string name="lights_title">Luce lampeggiante</string>
   <string name="line_breaking_summary">Ottimizza testo a capo nei paragrafi</string>
   <string name="line_breaking_title">Ottimizza testo</string>
+  <string name="link_speed">%1$d Mbps</string>
   <string name="link_turbo_prompt">"Le statistiche di questa pagina mostrano solo la quantità di dati utilizzati per aumentare la velocità di connessione Wi-Fi. Queste statistiche non riflettono l'utilizzo effettivo dei dati mobili."</string>
   <string name="link_turbo_settings_all_app_display_loading">Attendi…</string>
   <string name="link_turbo_settings_all_app_reach_max">Puoi selezionare fino a 15 app</string>
@@ -3964,7 +3973,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
   <string name="lockpassword_choose_your_pin_header_second_space">"Imposta PIN 
  per il Secondo Spazio"</string>
   <string name="lockpassword_choose_your_pin_message">Per sicurezza, imposta un PIN</string>
-  <string name="lockpassword_choose_your_pin_title" formatted="false">Immetti %d-%d numeri</string>
+  <string name="lockpassword_choose_your_pin_title">Immetti %d-%d numeri</string>
   <string name="lockpassword_choose_your_screen_lock_header">Imposta schermata di blocco</string>
   <string name="lockpassword_clear_label">Pulisci</string>
   <string name="lockpassword_confirm_for_second_user">Conferma la password per il Secondo Spazio</string>
@@ -4205,8 +4214,8 @@ Ci sono altri utenti presenti su questo dispositivo.
   <string name="media_output_switching">Switching…</string>
   <string name="media_output_title">Riproduci contenuti multimediali su</string>
   <string name="media_transfer_this_device_name">Questo dispositivo</string>
-  <string name="media_transfer_wired_device_name">Wired audio device</string>
-  <string name="media_transfer_wired_usb_device_name">Wired headphone</string>
+  <string name="media_transfer_wired_device_name">Dispositivo audio cablato</string>
+  <string name="media_transfer_wired_usb_device_name">Cuffie cablate</string>
   <string name="media_volume_option_title">Media</string>
   <string name="media_volume_summary">Imposta il volume di musica e video</string>
   <string name="media_volume_title">Applicazioni multimediali</string>
@@ -4244,6 +4253,7 @@ Ci sono altri utenti presenti su questo dispositivo.
   <string name="memory_title">Disponibile: %1$s\u0009\u0009Totale: %2$s</string>
   <string name="memory_usage">Memoria occupata</string>
   <string name="memory_usage_apps">Memoria usata dalle app</string>
+  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">%1$s di memoria usati in media nelle ultime 3 ore</string>
   <string name="menu_cancel">Ignora</string>
   <string name="menu_check">Esperienza</string>
@@ -4621,7 +4631,7 @@ ed esegui il software.</string>
   <string name="network_operator_category">Rete</string>
   <string name="network_operators_settings">Operatori rete</string>
   <string name="network_query_error">Impossibile trovare reti. Riprova.</string>
-  <string name="network_recommended">" (recommended)"</string>
+  <string name="network_recommended">" (consigliata)"</string>
   <string name="network_reset_not_available">Non puoi eseguire il ripristino delle impostazioni di rete</string>
   <string name="network_restrictions">Limitazioni di rete</string>
   <string name="network_scorer_change_active_dialog_text">Utilizzare %1$s invece di %2$s per gestire le connessioni di rete?</string>
@@ -4661,6 +4671,7 @@ ed esegui il software.</string>
   <string name="nfc_how_it_works_got_it">Ho capito</string>
   <string name="nfc_how_it_works_title">Pagamento al terminale</string>
   <string name="nfc_more_title">Altro…</string>
+  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
   <string name="nfc_payment_btn_text_set_deault">Imposta come predefinito</string>
   <string name="nfc_payment_btn_text_update">Aggiorna</string>
   <string name="nfc_payment_default">Pagamento predefinito</string>
@@ -4832,6 +4843,7 @@ Questo darà anche all'app la possibilità di attivare o disattivare la funzione
   <string name="notification_fold_summary">Tutte le notifiche non importanti verranno spostate in una cartella separata</string>
   <string name="notification_fold_title">Cartella delle notifiche</string>
   <string name="notification_group_title">Gruppo di categorie notifiche</string>
+  <string name="notification_header_divider_symbol_with_spaces">" • "</string>
   <string name="notification_history">Notification history</string>
   <string name="notification_history_dismiss">Recently dismissed</string>
   <string name="notification_history_off_summary">Turn on notification history to see recent notifications and snoozed notifications</string>
@@ -5017,6 +5029,7 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
   <string name="overlay_settings_title">Allow screen overlays on Settings</string>
   <string name="overlay_toast_failed_to_apply">Applicazione dell\'overlay non riuscita</string>
   <string name="owner_info_settings_edit_text_hint">Testo da visualizzare sulla Schermata di blocco</string>
+  <string name="owner_info_settings_status">%1$d di %2$d</string>
   <string name="owner_info_settings_summary">Nessuno</string>
   <string name="owner_info_settings_title">Info proprietario</string>
   <string name="owner_space">Primo Spazio</string>
@@ -5190,6 +5203,7 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
   <string name="power_cell">Cellulare in standby</string>
   <string name="power_center">Ottimizzazione</string>
   <string name="power_charge_remaining">%1$s carica</string>
+  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s fino alla carica completa</string>
   <string name="power_checker">Controllo batteria</string>
   <string name="power_discharge_by">Dovrebbe durare all\'incirca %1$s (%2$s)</string>
@@ -5246,9 +5260,10 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
   <string name="power_remaining_less_than_duration_only">Meno di %1$s rimanenti</string>
   <string name="power_remaining_more_than_subtext">Più di %1$s rimanenti (%2$s)</string>
   <string name="power_remaining_only_more_than_subtext">Più di %1$s rimanenti</string>
+  <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
   <string name="power_screen">Schermo</string>
   <string name="power_settings_title">Prestazioni del sistema</string>
-  <string name="power_suggestion_battery_run_out">Battery may run out by %1$s</string>
+  <string name="power_suggestion_battery_run_out">La batteria potrebbe esaurirsi tra %1$s</string>
   <string name="power_unaccounted">Varie</string>
   <string name="power_usage_enhanced_debug">%1$s rimanenti (utilizzo migliorato)</string>
   <string name="power_usage_history">Consumo batteria</string>
@@ -5302,7 +5317,7 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
   <string name="preferred_network_mode_global_summary">Modalità di rete preferita: Globale (CDMA/EVDO/LTE/GSM/WCDMA)</string>
   <string name="preferred_network_mode_gsm_only_summary">Modalità di rete preferita: solo GSM</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Modalità di rete preferita: GSM / WCDMA</string>
-  <string name="preferred_network_mode_lte_cdma_evdo_gsm_wcdma_summary">Preferred network mode: LTE/CDMA/EvDo/GSM/WCDMA</string>
+  <string name="preferred_network_mode_lte_cdma_evdo_gsm_wcdma_summary">Modalità di rete preferita: LTE/CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Modalità di rete preferita: CDMA+LTE/EVDO</string>
   <string name="preferred_network_mode_lte_cdma_summary">Modalità di rete preferita: LTE/CDMA</string>
   <string name="preferred_network_mode_lte_gsm_umts_summary">Modalità di rete preferita: LTE/GSM/UMTS</string>
@@ -5314,17 +5329,17 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
   <string name="preferred_network_mode_lte_tdscdma_summary">Modalità rete preferita: LTE / TDSCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_wcdma_summary">Modalità rete preferita: LTE/TDSCDMA/WCDMA</string>
   <string name="preferred_network_mode_lte_wcdma_summary">Modalità di rete preferita: LTE / WCDMA</string>
-  <string name="preferred_network_mode_nr_lte_cdma_evdo_gsm_wcdma_summary">Preferred network mode: NR/LTE/CDMA/EvDo/GSM/WCDMA</string>
-  <string name="preferred_network_mode_nr_lte_cdma_evdo_summary">Preferred network mode: NR/LTE/CDMA/EvDo</string>
-  <string name="preferred_network_mode_nr_lte_gsm_wcdma_summary">Preferred network mode: NR/LTE/GSM/WCDMA</string>
-  <string name="preferred_network_mode_nr_lte_summary">Preferred network mode: NR / LTE</string>
-  <string name="preferred_network_mode_nr_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">Preferred network mode: NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
-  <string name="preferred_network_mode_nr_lte_tdscdma_gsm_summary">Preferred network mode: NR/LTE/TDSCDMA/GSM</string>
-  <string name="preferred_network_mode_nr_lte_tdscdma_gsm_wcdma_summary">Preferred network mode: NR/LTE/TDSCDMA/GSM/WCDMA</string>
-  <string name="preferred_network_mode_nr_lte_tdscdma_summary">Preferred network mode: NR/LTE/TDSCDMA</string>
-  <string name="preferred_network_mode_nr_lte_tdscdma_wcdma_summary">Preferred network mode: NR/LTE/TDSCDMA/WCDMA</string>
-  <string name="preferred_network_mode_nr_lte_wcdma_summary">Preferred network mode: NR/LTE/WCDMA</string>
-  <string name="preferred_network_mode_nr_only_summary">Preferred network mode: NR only</string>
+  <string name="preferred_network_mode_nr_lte_cdma_evdo_gsm_wcdma_summary">Modalità di rete preferita: NR/LTE/CDMA/EvDo/GSM/WCDMA</string>
+  <string name="preferred_network_mode_nr_lte_cdma_evdo_summary">Modalità di rete preferita: NR/LTE/CDMA/EvDo</string>
+  <string name="preferred_network_mode_nr_lte_gsm_wcdma_summary">Modalità di rete preferita: NR/LTE/GSM/WCDMA</string>
+  <string name="preferred_network_mode_nr_lte_summary">Modalità di rete preferita: NR / LTE</string>
+  <string name="preferred_network_mode_nr_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">Modalità di rete preferita: NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
+  <string name="preferred_network_mode_nr_lte_tdscdma_gsm_summary">Modalità di rete preferita: NR/LTE/TDSCDMA/GSM</string>
+  <string name="preferred_network_mode_nr_lte_tdscdma_gsm_wcdma_summary">Modalità di rete preferita: NR/LTE/TDSCDMA/GSM/WCDMA</string>
+  <string name="preferred_network_mode_nr_lte_tdscdma_summary">Modalità di rete preferita: NR/LTE/TDSCDMA</string>
+  <string name="preferred_network_mode_nr_lte_tdscdma_wcdma_summary">Modalità di rete preferita: NR/LTE/TDSCDMA/WCDMA</string>
+  <string name="preferred_network_mode_nr_lte_wcdma_summary">Modalità di rete preferita: NR/LTE/WCDMA</string>
+  <string name="preferred_network_mode_nr_only_summary">Modalità di rete preferita: solo NR</string>
   <string name="preferred_network_mode_summary">Cambia la modalità operativa della rete</string>
   <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">Modalità rete preferita: TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_tdscdma_gsm_summary">Modalità rete preferita: TDSCDMA / GSM</string>
@@ -5471,7 +5486,7 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
   <string name="privacy_settings_title">Backup e ripristino</string>
   <string name="privacy_thumbnail_blur_progress_message">Attendi…</string>
   <string name="privacy_thumbnail_blur_title">Sfoca le anteprime delle app</string>
-  <string name="private_dns_broken">Private DNS server cannot be accessed</string>
+  <string name="private_dns_broken">Impossibile accedere al server DNS privato</string>
   <string name="private_dns_help_message"><annotation id="url">Per saperne di più</annotation>sulle funzionalità DNS private</string>
   <string name="private_dns_mode_off">Disattiva</string>
   <string name="private_dns_mode_on">Attivata</string>
@@ -5486,6 +5501,8 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
   <string name="private_sms_recording_intro_header">Disegna una sequenza di sblocco:</string>
   <string name="private_sms_reset_by_account">Per reimpostare la tua password, accedi al tuo Mi Account</string>
   <string name="process_dex2oat_label">Ottimizzazione app</string>
+  <string name="process_format">%1$s (%2$d)</string>
+  <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Server media</string>
   <string name="process_provider_in_use_description">Il provider %1$s è in uso.</string>
   <string name="process_service_in_use_description">Il servizio %1$s è in uso.</string>
@@ -5505,7 +5522,7 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
   <string name="process_stats_type_cached">Nella cache</string>
   <string name="process_stats_type_foreground">in primo piano</string>
   <string name="processes_subtitle">Processi</string>
-  <string name="profile_connect_timeout_subtext">Problem connecting. Turn device off &amp; back on</string>
+  <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
   <string name="profile_info_settings_title">Informazioni profilo</string>
   <string name="profile_owner_add_title">Attivare gestione profilo?</string>
   <string name="profile_owner_add_title_simplified">Vuoi consentire la supervisione?</string>
@@ -5528,11 +5545,15 @@ OTG si disattiva automaticaemnte dopo 10 minuti di inattività."</string>
   <string name="proxy_error_invalid_exclusion_list">L\'elenco di eccezioni digitato non è nel formato corretto. Digita un elenco di domini esclusi separati da virgole.</string>
   <string name="proxy_error_invalid_host">Il nome host specificato non è valido.</string>
   <string name="proxy_error_invalid_port">La porta specificata non è valida.</string>
+  <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
   <string name="proxy_exclusionlist_label">Ignora per</string>
+  <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_hostname_label">Nome Host</string>
+  <string name="proxy_port_hint">8080</string>
   <string name="proxy_port_label">Porta</string>
   <string name="proxy_settings_label">Impostazioni proxy</string>
   <string name="proxy_settings_title">Proxy</string>
+  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="proxy_url_title">"PAC URL: "</string>
   <string name="proxy_warning_limited_support">Il proxy HTTP viene utilizzato dal browser ma potrebbe non essere utilizzato da altre applicazioni.</string>
   <string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
@@ -6200,6 +6221,7 @@ To use app pinning: \u0009
   <string name="security_encryption_attention_3">"Dovrai impostare una nuova password della Schermata di blocco."</string>
   <string name="security_encryption_attention_4">"Assicurati di ricordare la tua password della Schermata di blocco, altrimenti dovrai eseguire un ripristino completo e perderai tutti i dati sul dispositivo."</string>
   <string name="security_encryption_attention_info">Puoi crittare account, impostazioni, app scaricate e relativi dati, file multimediali, e altri file.</string>
+  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Importante</string>
   <string name="security_encryption_close_dialog_info">Scegliendo di non crittare il dispositivo usando la password della Schermata di blocco potrebbe rendere non utilizzabili alcuni dei servizi di Google.</string>
   <string name="security_encryption_close_dialog_title">Ritorna alla protezione predefinita mediante password</string>
@@ -6381,9 +6403,11 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
   <string name="select_webview_provider_toast_text">Questa scelta non è più valida. Prova di nuovo.</string>
   <string name="sensors_off_quick_settings_title">Sensori disattivati</string>
   <string name="service_background_processes">%1$s liberi</string>
+  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s usati</string>
   <string name="service_manage">Impostazioni</string>
   <string name="service_manage_description">%1$s: attualmente in uso. Tocca le Impostazioni per gestirlo.</string>
+  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">In fase di riavvio</string>
   <string name="service_started_by_app">Avviato dall\'applicazione.</string>
   <string name="service_stop">Interrompi</string>
@@ -6411,6 +6435,7 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
   <string name="settings_notify_need_backup">Esegui il backup delle Impostazioni su Mi Cloud per accedervi anche quando cambi telefono.</string>
   <string name="settings_notify_new_version">È disponibile un aggiornamento. Tocca per vedere i dettagli.</string>
   <string name="settings_notify_phone_recycled">Il tuo numero di telefono è stato cestinato. Tocca per aggiungere un altro numero.</string>
+  <string name="settings_package">com.android.settings</string>
   <string name="settings_panel_title">Pannello Impostazioni</string>
   <string name="settings_safetylegal_activity_loading">Caricamento…</string>
   <string name="settings_safetylegal_activity_title">Informazioni sulla sicurezza</string>
@@ -6443,12 +6468,12 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
   <string name="share_remote_bugreport_dialog_message_finished">Il tuo amministratore IT ha richiesto una segnalazione bug per risolvere le problematiche di questo dispositivo. Le app e i dati potrebbero essere condivisi.</string>
   <string name="share_remote_bugreport_dialog_title">Condividere segnalazione bug?</string>
   <string name="share_this_wifi">Estendi copertura Wi-Fi</string>
-  <string name="shared_data_delete_failure_text">There was an error deleting the shared data.</string>
-  <string name="shared_data_no_accessors_dialog_text">There are no leases acquired for this shared data. Would you like to delete it?</string>
-  <string name="shared_data_no_blobs_text">There is no shared data for this user.</string>
-  <string name="shared_data_query_failure_text">There was an error fetching shared data. Try again.</string>
-  <string name="shared_data_summary">View and modify shared data</string>
-  <string name="shared_data_title">Shared data</string>
+  <string name="shared_data_delete_failure_text">Si è verificato un errore durante l\'eliminazione dei dati condivisi.</string>
+  <string name="shared_data_no_accessors_dialog_text">Non ci sono lease acquisiti per questi dati condivisi. Vuoi eliminarlo?</string>
+  <string name="shared_data_no_blobs_text">Non ci sono dati condivisi per questo utente.</string>
+  <string name="shared_data_query_failure_text">Si è verificato un errore nel recupero dei dati condivisi. Riprova.</string>
+  <string name="shared_data_summary">Visualizza e modifica i dati condivisi</string>
+  <string name="shared_data_title">Dati condivisi</string>
   <string name="sharing_remote_bugreport_dialog_message">Questo segnalazione bug è stato condiviso con il tuo amministratore IT. Contattalo per maggiori dettagli.</string>
   <string name="short_summary_font_size">Rendi il testo più grande e più piccolo</string>
   <string name="show_all_anrs">Mostra tutti gli errori ANR</string>
@@ -6569,6 +6594,7 @@ Il PIN potrebbe essere errato."</string>
   <string name="sim_select_card">Seleziona una SIM</string>
   <string name="sim_selection_channel_title">Selezione SIM</string>
   <string name="sim_selection_required_pref">Selezione richiesta</string>
+  <string name="sim_settings_summary">%1$s - %2$s</string>
   <string name="sim_settings_title">SIM</string>
   <string name="sim_setup_wizard_title">SIM</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -6583,6 +6609,7 @@ Il PIN potrebbe essere errato."</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="size_peta_byte">PB</string>
+  <string name="size_suffix">%1$s %2$s</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Salta comunque</string>
   <string name="skip_label">Ignora</string>
@@ -6735,8 +6762,10 @@ Questo è reso possibile da credenziali attendibili installate sul tuo dispositi
   <string name="status_bar_app_enable_keyguard">Schermata di blocco</string>
   <string name="status_bar_app_enable_message">Badge</string>
   <string name="status_bar_carrier_settings_no_sim_card">Nessuna scheda SIM</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_settings">Notifiche</string>
   <string name="status_bar_settings_all_app_display_loading">Attendi…</string>
+  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_manage_notification">Gestisci notifiche</string>
   <string name="status_bar_settings_notification_bar">Pannello delle notifiche</string>
   <string name="status_bar_settings_notification_use_app_icon">Utilizza le icone app per le notifiche</string>
@@ -7048,7 +7077,9 @@ Prova ad utilizzare una ^3 più veloce, o usa questa ^4 come memoria portatile"<
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_empty"></string>
+  <string name="summary_font_size">%1$s</string>
   <string name="summary_placeholder"> </string>
+  <string name="summary_range_symbol_combination">%1$s - %2$s</string>
   <string name="summary_range_verbal_combination">%1$s di %2$s</string>
   <string name="summary_separator">" / "</string>
   <string name="summary_two_lines_placeholder">" 
@@ -7122,7 +7153,7 @@ L\'approccio di Google alla sincronizzazione di dati per consentirti l\'accesso 
   <string name="talkback_summary">Lettore schermo principalmente per persone ipovedenti</string>
   <string name="talkback_title">Talkback</string>
   <string name="talkback_watermark_enable">Logo TalkBack</string>
-  <string name="tap_to_renew_subscription_and_connect">Tap to renew subscription and connect</string>
+  <string name="tap_to_renew_subscription_and_connect">Tocca per rinnovare l\'abbonamento e connetterti</string>
   <string name="tap_to_sign_up">Tocca per iscriverti</string>
   <string name="tap_to_wake">Tocca per riattivare</string>
   <string name="tap_to_wake_summary">Tocca due volte un punto qualsiasi dello schermo per riattivare il dispositivo</string>
@@ -7415,7 +7446,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
   <string name="unlock_set_unlock_password_title">Password</string>
   <string name="unlock_set_unlock_pattern_summary">Sicurezza media</string>
   <string name="unlock_set_unlock_pattern_title">Sequenza</string>
-  <string name="unlock_set_unlock_pin_summary" formatted="false">Immetti %d-%d numeri per sbloccare il dispositivo</string>
+  <string name="unlock_set_unlock_pin_summary">Immetti %d-%d numeri per sbloccare il dispositivo</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Imposta un blocco schermo</string>
   <string name="unlock_setup_wizard_fingerprint_details">Una volta impostato il blocco dello schermo, è possibile impostare anche la propria impronta digitale in Impostazioni &gt; Schermata di blocco e password.</string>
@@ -7455,31 +7486,31 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
   <string name="usage_app_set_limit_time">Imposta limite</string>
   <string name="usage_app_system_app_summary">"Impossibile limitare il tempo di utilizzo per le app di sistema"</string>
   <string name="usage_app_weekday_limit">Infrasettimanale</string>
-  <string name="usage_app_weekend_limit">Fine Settimana</string>
+  <string name="usage_app_weekend_limit">Weekend</string>
   <string name="usage_log">Statistiche uso app</string>
   <string name="usage_state_app_timer">Schermo acceso</string>
   <string name="usage_state_app_usage_detail_title">Dettagli utilizzo app</string>
   <string name="usage_state_app_usage_list_title">"Schermo attivo oggi per le app"</string>
   <string name="usage_state_app_usage_list_week_title">"Schermo attivo per le app (ultimi 7 giorni)"</string>
-  <string name="usage_state_app_usage_tip_title" formatted="false">Schermo attivo tra le %d:00 e le %d:00</string>
+  <string name="usage_state_app_usage_tip_title">Schermo attivo tra le %d:00 e le %d:00</string>
   <string name="usage_state_app_use_time">Schermo attivo app</string>
   <string name="usage_state_channel_mouth">Ultimi 30 giorni</string>
   <string name="usage_state_channel_week">Ultimi 7 giorni</string>
   <string name="usage_state_date">d MMM</string>
-  <string name="usage_state_device_noti_today_tip_title" formatted="false">Notifiche tra le %d:00 e le %d:00</string>
-  <string name="usage_state_device_unlock_today_tip_title" formatted="false">Dispositivo sbloccato tra le %d:00 e le %d:00</string>
+  <string name="usage_state_device_noti_today_tip_title">Notifiche tra le %d:00 e le %d:00</string>
+  <string name="usage_state_device_unlock_today_tip_title">Dispositivo sbloccato tra le %d:00 e le %d:00</string>
   <string name="usage_state_friday">Ven</string>
   <string name="usage_state_go_more">Altre app</string>
-  <string name="usage_state_hour_minute" formatted="false">%do %dm</string>
+  <string name="usage_state_hour_minute">%do %dm</string>
   <string name="usage_state_less_one_minute">Meno di 1 minuto</string>
   <string name="usage_state_monday">Lun</string>
   <string name="usage_state_mourth_day">Ora schermo %s</string>
   <string name="usage_state_noti_mourth_day">Notifiche %s</string>
   <string name="usage_state_notification">Gestisci notifiche</string>
   <string name="usage_state_notification_manager">Gestisci notifiche app</string>
-  <string name="usage_state_remind_summary">Attiva per ricevere avvisi per lo schermo attivo. Puoi impostare diversi limiti di tempo per i giorni infrasettimanali e Fine Settimana.</string>
+  <string name="usage_state_remind_summary">Attiva per ricevere avvisi per lo schermo attivo. Puoi impostare diversi limiti di tempo per i giorni infrasettimanali e weekend.</string>
   <string name="usage_state_remind_title">Avviso schermo attivo</string>
-  <string name="usage_state_rest_day">Fine Settimana</string>
+  <string name="usage_state_rest_day">Weekend</string>
   <string name="usage_state_saturday">Sab</string>
   <string name="usage_state_set_invalid_time_toast">"Impossibile impostare limiti di tempo inferiori ad 1 minuto"</string>
   <string name="usage_state_sunday">Dom</string>
@@ -7492,14 +7523,14 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
   <string name="usage_state_usage_time_remind">Avviso schermo attivo</string>
   <string name="usage_state_use_time_remind_title">Avviso schermo attivo</string>
   <string name="usage_state_wednesday">Mer</string>
-  <string name="usage_state_week_day_hour_minute" formatted="false">Fine Settimana: %dh %dm</string>
+  <string name="usage_state_week_day_hour_minute">Weekend: %dh %dm</string>
   <string name="usage_state_week_total_text">Schermo attivo (ultimi 7 giorni)</string>
   <string name="usage_state_which_mouth">MMM</string>
   <string name="usage_state_work_day">Infrasettimanale</string>
-  <string name="usage_state_work_day_hour_minute" formatted="false">Infrasettimanale: %dh %dm</string>
+  <string name="usage_state_work_day_hour_minute">Infrasettimanale: %dh %dm</string>
   <string name="usage_stats_label">Statistiche di utilizzo</string>
   <string name="usage_stats_normal_day">Infraasettimanale</string>
-  <string name="usage_stats_week_day">Fine Settimana</string>
+  <string name="usage_stats_week_day">Weekend</string>
   <string name="usage_time_label">Tempo di utilizzo</string>
   <string name="usage_type_actual_power">Consumi osservati</string>
   <string name="usage_type_audio">Audio</string>
@@ -7534,9 +7565,9 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
   <string name="usagestats_app_category_miui_video_etc">Musica e video</string>
   <string name="usagestats_device_notification_des">Limite schermo attivo per oggi: %s</string>
   <string name="usagestats_device_notification_des_over">"Hai raggiunto il tuo limite di schermo attivo per oggi."</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">"Limite schermo attivo per oggi: %s | %s rimanente"</string>
+  <string name="usagestats_device_notification_des_reset">"Limite schermo attivo per oggi: %s | %s rimanente"</string>
   <string name="usagestats_device_notification_title">Avviso schermo attivo</string>
-  <string name="usagestats_device_timeout_des" formatted="false">"Oggi hai usato il dispositivo per %dh %dm. Riposa un po'!"</string>
+  <string name="usagestats_device_timeout_des">"Oggi hai usato il dispositivo per %dh %dm. Riposa un po'!"</string>
   <string name="usagestats_device_timeout_negative">Ricordamelo tra 1 ora</string>
   <string name="usagestats_device_timeout_positive">Ho capito</string>
   <string name="usagestats_device_timeout_title">Avviso schermo attivo</string>
@@ -7729,7 +7760,7 @@ Aggiungi una parola toccando il tasto +."</string>
   <string name="user_summary_not_set_up">Non configurato</string>
   <string name="user_summary_restricted_not_set_up">Non impostato - Profilo con limitazioni</string>
   <string name="user_summary_restricted_profile">Profilo con limitazioni</string>
-  <string name="user_switch_to_user">Switch to %s</string>
+  <string name="user_switch_to_user">Passa a %s</string>
   <string name="user_you">Tu (%s)</string>
   <string name="users_summary">Accesso eseguito come %1$s</string>
   <string name="v7_preference_off">Disattivato</string>
@@ -8082,6 +8113,7 @@ Controlla la politica sulla privacy del tuo fornitore di servizi."</string>
   <string name="wifi_calling_off_explanation_2"></string>
   <string name="wifi_calling_pref_managed_by_carrier">Impostazione gestita dall\'operatore</string>
   <string name="wifi_calling_roaming_mode_dialog_title">Preferenze roaming</string>
+  <string name="wifi_calling_roaming_mode_summary">%1$s</string>
   <string name="wifi_calling_roaming_mode_title">Preferenza roaming</string>
   <string name="wifi_calling_settings_activation_instructions">Attiva chiamata in Wi-Fi</string>
   <string name="wifi_calling_settings_title">Chiamata Wi-Fi</string>
@@ -8224,8 +8256,8 @@ Controlla la politica sulla privacy del tuo fornitore di servizi."</string>
   <string name="wifi_empty_list_wifi_on">Ricerca reti Wi-Fi in corso…</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_watchdog_service_summary">Evita connessioni di scarsa qualità</string>
-  <string name="wifi_enhanced_mac_randomization">Wi‑Fi‑enhanced MAC randomization</string>
-  <string name="wifi_enhanced_mac_randomization_summary">When this mode is enabled, this device’s MAC address may change each time it connects to a network that has MAC randomization enabled.</string>
+  <string name="wifi_enhanced_mac_randomization">Randomizzazione MAC potenziata</string>
+  <string name="wifi_enhanced_mac_randomization_summary">Quando questa modalità è abilitata, l\'indirizzo MAC di questo dispositivo può cambiare ogni volta che si connette a una rete con MAC Casuale abilitato.</string>
   <string name="wifi_error">Errore</string>
   <string name="wifi_expiry_time">Scaduta il %1$s</string>
   <string name="wifi_fail_to_scan">"Impossibile cercare reti"</string>
@@ -8354,7 +8386,7 @@ L'impostazione della rete come nascosta non cambierà le impostazioni del router
   <string name="wifi_password">Password</string>
   <string name="wifi_poor_network_detection">Evita connessioni deboli</string>
   <string name="wifi_poor_network_detection_summary">"Non utilizzare una rete Wi-Fi a meno che non abbia una buona connessione a Internet"</string>
-  <string name="wifi_priority_changed" formatted="false">Valore vecchia priorità = %s, nuova priorità = %s</string>
+  <string name="wifi_priority_changed">Valore vecchia priorità = %s, nuova priorità = %s</string>
   <string name="wifi_priority_label">Priorità</string>
   <string name="wifi_priority_settings_label">Impostazioni priorità</string>
   <string name="wifi_priority_settings_summary">Tocca per impostare la priorità di ciascun punto d\'accesso</string>
@@ -8375,6 +8407,7 @@ L'impostazione della rete come nascosta non cambierà le impostazioni del router
   <string name="wifi_sap_no_channel_error">Banda 5GHz non disponibile in questa nazione</string>
   <string name="wifi_save">Salva</string>
   <string name="wifi_saved_access_points_label">Reti salvate</string>
+  <string name="wifi_saved_access_points_tab">@string/wifi_access_points</string>
   <string name="wifi_scan_always_available">Scansione sempre disponibile</string>
   <string name="wifi_scan_always_available_summary">"Consenti al servizio di geolocalizzazione di Google e ad altre app di eseguire la scansione delle reti, anche quando il Wi-Fi non è attivo"</string>
   <string name="wifi_scan_always_confirm_allow">Consenti</string>
@@ -8403,6 +8436,7 @@ Consentirlo a tutte le app che vogliono eseguire la ricerca?"</string>
   <string name="wifi_security_none_owe">Nessuna/Aperta</string>
   <string name="wifi_security_owe">OWE</string>
   <string name="wifi_security_passpoint">Passpoint</string>
+  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
   <string name="wifi_security_sae">SAE</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
@@ -8414,6 +8448,7 @@ Consentirlo a tutte le app che vogliono eseguire la ricerca?"</string>
   <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
   <string name="wifi_security_short_none_owe">Nessuna/OWE</string>
   <string name="wifi_security_short_owe">OWE</string>
+  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
   <string name="wifi_security_short_sae">SAE</string>
   <string name="wifi_security_short_wep">WEP</string>
@@ -8943,8 +8978,10 @@ Aggiorna le impostazioni a:
   <string name="zone_auto_summaryOn">Utilizza il fuso orario fornito dalla rete</string>
   <string name="zone_auto_title">Usa fuso orario fornito dalla rete</string>
   <string name="zone_change_to_from_dst">%1$s inizia alle %2$s.</string>
+  <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
   <string name="zone_info_footer">%1$s in uso. %2$s inizia alle %3$s.</string>
   <string name="zone_info_footer_no_dst">%1$s in uso. Nessuna ora legale.</string>
+  <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
   <string name="zone_list_menu_sort_alphabetically">Ordine alfabetico</string>
   <string name="zone_list_menu_sort_by_timezone">Ordina per fuso orario</string>
   <string name="zone_menu_by_offset">Seleziona limite UTC</string>

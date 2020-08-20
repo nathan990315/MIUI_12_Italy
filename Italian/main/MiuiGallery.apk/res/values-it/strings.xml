@@ -292,6 +292,7 @@
   <string name="by_sms">SMS di gruppo</string>
   <string name="byteShort">B</string>
   <string name="camera_needs_auto_backup_tip">Backup album fotocamera eseguito</string>
+  <string name="camera_path">/DCIM/Camera</string>
   <string name="can_authorize_owner_albums_share_to_tv">Autorizza la visualizzazione degli album sulla tua TV</string>
   <string name="can_not_transfer_when_screening">"Impossibile proiettare durante i trasferimenti"</string>
   <string name="cancel">Annulla</string>
@@ -313,6 +314,7 @@
   <string name="card_description_annual_peoples">Visi, storie, luoghi</string>
   <string name="card_description_annual_pets">Code, zampe e baffi</string>
   <string name="card_description_annual_travel">Cose che hai visto per strada</string>
+  <string name="card_description_from_to">%1$s - %2$s</string>
   <string name="card_title_activities">Eventi</string>
   <string name="card_title_annual_babys">Il tesoro a %1$s</string>
   <string name="card_title_annual_events">Le mie feste nel %1$s</string>
@@ -327,6 +329,7 @@
   <string name="card_title_pastyear_party">Feste dell\'anno scorso</string>
   <string name="card_title_pastyear_sports">Gli allenamenti dell\'anno scorso</string>
   <string name="card_title_recent_memory">Ricordi recenti</string>
+  <string name="card_title_somewhere">%1$s</string>
   <string name="card_title_sports">Allenamenti</string>
   <string name="card_title_three_month_baby">Il tempo vola</string>
   <string name="cast_devices_unavailable_desc">Assicurati che questo dispositivo e il proiettore siano collegati alla stessa rete Wi-Fi</string>
@@ -1163,6 +1166,7 @@ Scatta più foto ai tuoi amici!"</string>
   <string name="face_name_edit">Modifica</string>
   <string name="face_name_input">Nome</string>
   <string name="face_recommend">Suggerimenti</string>
+  <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="fail_hint">"Operazione fallita."</string>
   <string name="fail_to_pick_email">Email selezionata non valida</string>
   <string name="fail_to_sync_album">"Impossibile sincronizzare l'album con il server. Verifica la connessione di rete."</string>
@@ -1172,9 +1176,11 @@ Scatta più foto ai tuoi amici!"</string>
   <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
   <string name="feature_guidance_photo_effects">"Effetti foto"</string>
   <string name="feature_guidance_video_editor_smart_effects">Sono disponibili nuovi effetti</string>
+  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="file_cannot_print">"Impossibile stampare questo elemento."</string>
   <string name="file_cannot_screen_throw">"Impossibile trasmettere questo elemento."</string>
   <string name="file_sending">Trasferimento file…</string>
+  <string name="filter_bg_color_component">0.968</string>
   <string name="filter_category_classic">Classico</string>
   <string name="filter_category_general">Preferenze generali</string>
   <string name="filter_category_master">Maestro</string>
@@ -1352,6 +1358,7 @@ Scatta più foto ai tuoi amici!"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
   <string name="grant_permission_go_and_set">Imposta</string>
+  <string name="grant_permission_item">\"%s\"</string>
   <string name="grant_permission_text">"La galleria necessita dell'accesso a 
 %s
  per funzionare correttamente, tocca Imposta per vedere i permessi."</string>
@@ -1773,6 +1780,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
   <string name="people_mark_mode_title_no_mark_name">Seleziona una persona</string>
   <string name="people_page_label">Volto</string>
   <string name="people_page_unname">Senza nome</string>
+  <string name="percent_sign">%</string>
   <string name="permission_contacts_desc">Per assegnare i contatti alle persone sulle foto</string>
   <string name="permission_contacts_name">Contatti</string>
   <string name="permission_optional_category">Permessi opzionali</string>
@@ -1860,11 +1868,14 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
   <string name="photo_editor_talkback_redo">Aggiungi di nuovo</string>
   <string name="photo_editor_talkback_undo">Annulla</string>
   <string name="photo_editor_text">Filigrana</string>
+  <string name="photo_editor_transition_image_view">photo_view</string>
   <string name="photo_font_cancel_download">Annulla</string>
   <string name="photo_font_download">Scarica</string>
   <string name="photo_font_download_failed_for_notwork">"Impossibile scaricare. Collegati alla rete e prova di nuovo."</string>
   <string name="photo_font_download_without_wifi_msg">"L'utilizzo della connessione dati per scaricare i file incrementa il consumo dei dati. Se superi le soglie previste dal tuo piano tariffario, il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
   <string name="photo_font_download_without_wifi_title">Avvso utilizzo dati</string>
+  <string name="photo_movie_menu_loading">@string/photo_print_menu_loading</string>
+  <string name="photo_movie_module_failed">@string/error_install_connect_fail</string>
   <string name="photo_movie_module_finish">Video caricati correttamente</string>
   <string name="photo_movie_module_loading">Caricamento video…</string>
   <string name="photo_movie_select_image_range">Le clip possono contenere da 3 a 6 foto</string>
@@ -1881,6 +1892,8 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
   <string name="photo_purge_dialog_message_image">"Non potrai ripristinare gli elementi se li elimini. Eliminarli comunque?"</string>
   <string name="photo_purge_dialog_message_video">"Non potrai ripristinare gli elementi se li elimini. Eliminarli comunque?"</string>
   <string name="photo_save_to_msg">Salvato in %s</string>
+  <string name="photo_vlog_menu_loading">@string/photo_print_menu_loading</string>
+  <string name="photo_vlog_module_failed">@string/error_install_connect_fail</string>
   <string name="photo_vlog_module_finish">Editor video scaricato con successo</string>
   <string name="photo_vlog_module_loading">Download dell\'editor video…</string>
   <string name="pick_from_contact">Scegli dai contatti</string>
@@ -1938,6 +1951,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
   <string name="projection_switch_title">Passa a</string>
   <string name="projection_video_quit">Tocca per uscire</string>
   <string name="prompt_not_support_format">"Non è possibile usare questa immagine per creare una vignetta magica"</string>
+  <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
   <string name="public_url_descript">Chiunque può accedere al tuo album utilizzando questo link</string>
   <string name="publish_failed">"Pubblicazione fallita"</string>
   <string name="publish_succeeded">Album pubblicato</string>
@@ -2040,13 +2054,18 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
   <string name="screen_editor_btn_save">Salva</string>
   <string name="screen_editor_btn_shell_off">Rimuovi cornice dispositivo</string>
   <string name="screen_editor_btn_shell_on">Aggiungi cornice dispositivo</string>
+  <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
   <string name="screen_editor_crop_disallowed_with_shell">"Impossibile ritagliare gli screenshot con cornice del dispositivo"</string>
   <string name="screen_editor_delete_dialog_msg">Eliminare questo screenshot?</string>
+  <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
   <string name="screen_editor_finish">Fatto</string>
+  <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+  <string name="screen_editor_send">@string/operation_send</string>
   <string name="screen_editor_shell_disallowed_with_crop">"Impossibile aggiungere il frame del dispositivo agli screenshot ritagliati"</string>
   <string name="screen_editor_shell_net_error">Connettiti alla rete per scaricare la cornice del dispositivo</string>
   <string name="screen_editor_shell_res_downloading">Download cornice dispositivo…</string>
   <string name="screen_editor_shell_storage_insufficient">"Impossibile scaricare la cornice del dispositivo a causa di spazio insufficiente"</string>
+  <string name="screen_editor_text">@string/photo_editor_text</string>
   <string name="screen_save_dialog_btn_cancel">Annulla</string>
   <string name="screen_save_dialog_btn_delete">Elimina screenshot</string>
   <string name="screen_save_dialog_btn_save">Salva in Galleria</string>
@@ -2106,6 +2125,9 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
   <string name="search_title_recommend">Consigliati</string>
   <string name="search_title_suggestion">Suggerimenti</string>
   <string name="search_title_tag">Oggetti</string>
+  <string name="search_transition_element_icon">search_icon</string>
+  <string name="search_transition_element_input">search_input</string>
+  <string name="search_transition_element_voice">search_voice</string>
   <string name="searching_cast_devices">Ricerca proiettore…</string>
   <string name="secret_album_card_description">Il posto migliore per i tuoi piccoli segreti</string>
   <string name="secret_album_card_title">Prova gli album privati</string>
@@ -2169,6 +2191,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
   <string name="share_with_family">Condividi con la famiglia</string>
   <string name="sharer_quota_fulfiled">"Impossibile aggiungere un partecipante, è stato raggiunto il numero massimo di condivisioni."</string>
   <string name="show_cloud_albumlist_summary">Gestisci gli album sincronizzati con il cloud</string>
+  <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
   <string name="show_hidden_album_summary">Visualizza e gestisci gli album nascosti</string>
   <string name="show_hidden_album_title">Mostra gli album nascosti</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Spostato correttamente, vai in Altri Album per vedere</string>
@@ -2736,6 +2759,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
   <string name="wednesday">Mercoledì</string>
   <string name="wednesday_short">Mer</string>
   <string name="wednesday_shortest">Mer</string>
+  <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
   <string name="welcome_to_micloud">Benvenuto in Mi Cloud</string>
   <string name="where_is_barcode">"Dov'è il Codice QR?"</string>
   <string name="who_is_this">Chi è?</string>

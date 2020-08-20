@@ -107,12 +107,15 @@
   <string name="alert_dialog_download_prepare">Preparazione al download…</string>
   <string name="alert_dialog_download_progress">"Download dell'app: "</string>
   <string name="all">Visualizza tutti</string>
+  <string name="app_code">MOVIE-ANDROID-MIVIDEO</string>
   <string name="app_name">Mi Video</string>
+  <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
   <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo.</string>
   <string name="auto_play_next_off">Riproduzione automatica spenta</string>
   <string name="auto_play_next_on">Riproduzione automatica attiva</string>
   <string name="before_yestoday">2 giorni fa</string>
   <string name="bind_sign_in_title">Aggiungi Mi Account</string>
+  <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
   <string name="cancel">Annulla</string>
   <string name="cancel_choose">Deseleziona</string>
   <string name="cancel_subscribe_tips">Smettere di seguire?</string>
@@ -126,7 +129,7 @@
   <string name="cast_expanded_controller_ad_image_description">Immagine mostrata mentre il ricevitore sta riproducendo un annuncio</string>
   <string name="cast_expanded_controller_ad_in_progress">Annuncio in corso…</string>
   <string name="cast_expanded_controller_background_image">Immagine Album</string>
-  <string name="cast_expanded_controller_live_head_description">Current position is at the head of the live stream</string>
+  <string name="cast_expanded_controller_live_head_description">La posizione attuale è all\'inizio della diretta</string>
   <string name="cast_expanded_controller_live_stream_indicator">Stream in diretta</string>
   <string name="cast_expanded_controller_loading">Caricamento…</string>
   <string name="cast_expanded_controller_skip_ad_label">Salta annuncio</string>
@@ -134,6 +137,9 @@
   <string name="cast_forward">Avanti</string>
   <string name="cast_forward_10">Avanti dieci secondi</string>
   <string name="cast_forward_30">Avanti trenta secondi</string>
+  <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+  <string name="cast_invalid_stream_duration_text">--:--</string>
+  <string name="cast_invalid_stream_position_text">--:--</string>
   <string name="cast_live_label">LIVE</string>
   <string name="cast_mute">Muto</string>
   <string name="cast_notification_connected_message">Collegato a %1$s</string>
@@ -267,7 +273,7 @@
 ID:%s
 Invia questo codice al supervisore."</string>
   <string name="dialog_privacy_info_new2">"Per essere in grado di utilizzare i servizi, è necessario accettare che %1$s raccoglierà, elaborerà e utilizzerà le informazioni personali. Confermerai di aver letto e accettato la nostra &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt; quando avrei premuto \"Accetta\" qui sotto."</string>
-  <string name="dialog_privacy_info_new3">"To be able to use this service, you need to allow %1$s to collect, process, and use your personal information in accordance with the Privacy Policy. By tapping \"Agree\" below, you're agreeing to Xiaomi's &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt; and &lt;a href=%3$s&gt;User Agreement&lt;/a&gt;."</string>
+  <string name="dialog_privacy_info_new3">"Per poter utilizzare questo servizio, è necessario consentire a %1$s di raccogliere, elaborare, e utilizzare le tue informazioni personali in conformità con l'Informativa sulla privacy. Cliccando su \"Accetta\" qui sotto, accetti l'&lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; e l'&lt;a href=%3$s&gt;Accordo utente&lt;/a&gt; di Xiaomi."</string>
   <string name="dialog_privacy_title">Autorizzazione</string>
   <string name="dialog_revoke_privacy_info_new2">Dopo aver revocato l\'autorizzazione, l\'app interromperà la raccolta dei dati e tutti i dati correlati verranno eliminati dai nostri server. Questo potrebbe rendere l\'applicazione inutilizzabile. Revocare l\'autorizzazione?</string>
   <string name="dialog_revoke_privacy_title">Revoca autorizzazione in corso</string>
@@ -284,7 +290,7 @@ Invia questo codice al supervisore."</string>
   <string name="download_progress">%d%%</string>
   <string name="download_retry">Riprova</string>
   <string name="download_space_info" formatted="false">%s, %s</string>
-  <string name="download_unable_tip">"Can't download this item"</string>
+  <string name="download_unable_tip">"Impossibile scaricare questo elemento"</string>
   <string name="download_video">Download del video</string>
   <string name="downloading">Download…</string>
   <string name="empty_channels">Gestisci canali</string>
@@ -328,6 +334,8 @@ Invia questo codice al supervisore."</string>
   <string name="exo_track_unknown">Sconosciuto</string>
   <string name="explore">Scopri</string>
   <string name="explore_on_mi_video">Trova di più su Mi Video</string>
+  <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+  <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
   <string name="facebook_application_id"></string>
   <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
   <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
@@ -356,7 +364,7 @@ Invia questo codice al supervisore."</string>
   <string name="feedback_success_toast">Inviato con successo. Grazie per il tuo feedback!</string>
   <string name="feedback_tag_title">Categoria</string>
   <string name="feedback_text_empty_toast">Inserisci il tuo feedback.</string>
-  <string name="file_cant_rename">File with %1$s name already exists. Please rename</string>
+  <string name="file_cant_rename">Il file %1$s esiste già. Scegli un altro nome</string>
   <string name="find_psw">Password dimenticata</string>
   <string name="finish">Fatto</string>
   <string name="firebase_database_url">https://global-video-5cd70.firebaseio.com</string>
@@ -384,14 +392,14 @@ Invia questo codice al supervisore."</string>
   <string name="gallery_folder_alias_youku_video">Youku</string>
   <string name="gallery_tab_all">Tutti</string>
   <string name="gallery_tab_videos">Video</string>
-  <string name="galleryplus_already_cloud_member">Using VIP membership to play</string>
+  <string name="galleryplus_already_cloud_member">Usa l\'abbonamento VIP per riprodurre</string>
   <string name="galleryplus_check_network">Impostazioni</string>
   <string name="galleryplus_chose_play_speed">Riproduzione a %1$.1fX</string>
   <string name="galleryplus_chose_play_speed_failure">"Impossibile regolare la velocità di riproduzione"</string>
   <string name="galleryplus_click_to_higher_definition">Tocca due volte per l\'anteprima HD</string>
   <string name="galleryplus_cta_tips">Puoi aiutarci a migliorare i nostri servizi iscrivendoti al Programma di Esperienza Utente e consentendo a Mi Video di connettersi a Internet. Accettare?</string>
   <string name="galleryplus_double_tap_to_higher_definition">Tocca nuovamente per l\'anteprima HD</string>
-  <string name="galleryplus_fr_unsupport_restore_speed">Unsupported frame rate. Switched back to regular speed.</string>
+  <string name="galleryplus_fr_unsupport_restore_speed">Frequenza non supportata. Ripristinata velocità normale.</string>
   <string name="galleryplus_gallery_fold_tags">Nascondi segnalini</string>
   <string name="galleryplus_gallery_video_adjust_hint">Sono supportati solo video a 960fps</string>
   <string name="galleryplus_gallery_video_adjust_text">Correggi</string>
@@ -412,10 +420,10 @@ Invia questo codice al supervisore."</string>
   <string name="galleryplus_gallery_view_tags">Mostra segnalini</string>
   <string name="galleryplus_is_higher_definition">Anteprima HD</string>
   <string name="galleryplus_network_connect_check">"Impossibile connettersi alla rete"</string>
-  <string name="galleryplus_network_connect_confirm">Connect to Wi-Fi or turn on mobile data in the network settings.</string>
+  <string name="galleryplus_network_connect_confirm">Connettiti al Wi-Fi o attiva i dati mobili nelle impostazioni di rete.</string>
   <string name="galleryplus_network_error">"Impossibile connettersi alla rete"</string>
-  <string name="galleryplus_network_not_wifi">Using mobile data to stream videos may generate additional carrier fees</string>
-  <string name="galleryplus_online_cta">Mi Video needs to connect to the internet to work normally. Agree?</string>
+  <string name="galleryplus_network_not_wifi">L\'utilizzo di dati mobili per lo streaming video può generare costi aggiuntivi</string>
+  <string name="galleryplus_online_cta">Mi Video ha bisogno di connettersi a internet per funzionare normalmente. Accetti?</string>
   <string name="galleryplus_online_cta_agree">Accetto</string>
   <string name="galleryplus_online_cta_disagree">"Non accetto"</string>
   <string name="galleryplus_online_cta_title">Termini e condizioni</string>
@@ -475,6 +483,7 @@ Invia questo codice al supervisore."</string>
   <string name="have_learned">Fatto</string>
   <string name="hidden_channels">"I seguenti canali non saranno visualizzati nella pagina iniziale."</string>
   <string name="hide">Nascondi</string>
+  <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
   <string name="history">Cronologia</string>
   <string name="history_local_video">Dispositivo</string>
   <string name="history_online_video">Online</string>
@@ -495,7 +504,15 @@ per i video"</string>
   <string name="language_setting_tips">Seleziona le tue preferenze linguistiche per ricevere contenuti più rilevanti. Puoi cambiare le tue preferenze linguistiche in Profilo &gt; Lingua.</string>
   <string name="language_setting_tips_dialog">È possibile selezionare le preferenze della lingua per i contenuti in Account &gt; Lingua.</string>
   <string name="later">Più tardi</string>
+  <string name="library_roundedimageview_author">Vince Mi</string>
+  <string name="library_roundedimageview_authorWebsite">https://github.com/vinc3m1</string>
+  <string name="library_roundedimageview_isOpenSource">true</string>
   <string name="library_roundedimageview_libraryDescription">Una vista veloce (e disegnabile) che supporta angoli arrotondati (e ovali o cerchi) in base all\'esempio originale di Romain Guy.</string>
+  <string name="library_roundedimageview_libraryName">RoundedImageView</string>
+  <string name="library_roundedimageview_libraryVersion">1.3.0</string>
+  <string name="library_roundedimageview_libraryWebsite">https://github.com/vinc3m1/RoundedImageView</string>
+  <string name="library_roundedimageview_licenseId">apache_2_0</string>
+  <string name="library_roundedimageview_repositoryLink">https://github.com/vinc3m1/RoundedImageView.git</string>
   <string name="live_now">In diretta ora</string>
   <string name="live_title">Live HDR</string>
   <string name="live_tv_title">Live TV</string>
@@ -631,7 +648,7 @@ per i video"</string>
   <string name="lv_video_null">Cache video vuota</string>
   <string name="lv_volume">Volume</string>
   <string name="manage">Gestisci</string>
-  <string name="mediation_ad_can_not_share">"Can't share this video"</string>
+  <string name="mediation_ad_can_not_share">"Impossibile condividere questo video"</string>
   <string name="mi_video">Mi Video</string>
   <string name="mnc_live_tv">Live TV</string>
   <string name="moment_guide_desc">Usa i gesti per ingrandire e rimpicciolire</string>
@@ -700,11 +717,12 @@ per i video"</string>
   <string name="notice_message_title">Notifiche</string>
   <string name="notice_title">SMS</string>
   <string name="notification_bar">Pannello delle notifiche</string>
-  <string name="notification_bar_player_subtitle">Show minimized player in the Notification shade</string>
+  <string name="notification_bar_player_subtitle">Mostra il player minimizzato nella barra delle notifiche</string>
   <string name="notification_bar_player_title">Minimizza il riproduttore</string>
   <string name="notification_open_tip">Attiva per ricevere le notifiche</string>
   <string name="notify_apk_installed">Scaricato con successo</string>
   <string name="ok">OK</string>
+  <string name="order_alphabet">A-Z</string>
   <string name="order_recently_subscribe">Iscrizioni recenti</string>
   <string name="order_recently_updated">Aggiornati di recente</string>
   <string name="ovp_alert_dialog_download_install_task">Download plug-in HD…</string>
@@ -798,6 +816,7 @@ Aggiorna prima Mi Video all'ultima versione."</string>
   <string name="ovp_video_plugin_installation_failure">"Impossibile installare %1$s"</string>
   <string name="ovp_video_plugin_installation_two">Attendi…</string>
   <string name="page_title_language">Impostazioni lingua</string>
+  <string name="partner_id">3041</string>
   <string name="passport_access_denied">Accesso negato</string>
   <string name="passport_account_label">Account</string>
   <string name="passport_account_name">"Account: %1$s"</string>
@@ -890,6 +909,10 @@ Aggiorna prima Mi Video all'ultima versione."</string>
   <string name="passport_wrong_vcode">Il captcha inserito non è corretto</string>
   <string name="passport_wrong_voice">Il captcha inserito non è corretto</string>
   <string name="password_toggle_content_description">Mostra password</string>
+  <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+  <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="permission_continue">Continua</string>
   <string name="permission_info">"Mi Video ha bisogno di accedere al numero IMEI del tuo dispositivo per:
  
@@ -1152,6 +1175,7 @@ Aumentare la sicurezza del tuo account."</string>
   <string name="srl_header_secondary">Rilascia Al Secondo Piano</string>
   <string name="srl_header_update">"'Ultimo aggiornamento' d-M HH:mm"</string>
   <string name="start_download_tip">Aggiunto alla coda. Controlla lo stato di avanzamento su Profilo e Download.</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_external_sdcard">Scheda SD</string>
   <string name="storage_internal_sdcard">Memoria interna</string>
   <string name="submit">Invia</string>
@@ -1195,13 +1219,17 @@ Aumentare la sicurezza del tuo account."</string>
   <string name="tab_name_moment">Momenti</string>
   <string name="tab_name_trending">Di tendenza</string>
   <string name="tab_name_video">Video</string>
+  <string name="tag_index">tag_index</string>
+  <string name="tag_key">tag_key</string>
+  <string name="tag_object">tag_object</string>
   <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>
+  <string name="theme_id">com_7idear.framework.theme</string>
   <string name="thursday">Giovedì</string>
   <string name="ticket_hint">Codice di verifica</string>
   <string name="ticket_invalid">Il captcha inserito non è corretto</string>
   <string name="ticket_sign_in">Accedi via SMS</string>
-  <string name="tip_author_click">Tap to view more videos from this account</string>
-  <string name="tip_topic_click">Tap to find more videos on this topic</string>
+  <string name="tip_author_click">Tocca per visualizzare altri video di questo account</string>
+  <string name="tip_topic_click">Tocca per trovare altri video su questo argomento</string>
   <string name="title_publisher">Creatori</string>
   <string name="title_subscribe">Sottoscrizioni</string>
   <string name="toast_no_data">"Questo elemento non è disponibile ora. Torna più tardi."</string>

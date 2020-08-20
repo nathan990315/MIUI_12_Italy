@@ -104,6 +104,7 @@
   <string name="birthday_event_description_today">Oggi</string>
   <string name="birthday_event_description_tomorrow">Domani</string>
   <string name="birthday_event_description_yesterday">Ieri</string>
+  <string name="birthday_event_title">@string/birthday_notification_title_today</string>
   <string name="birthday_notification_text_days_later">%1$s giorni a %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"Non dimenticare di fare gli auguri."</string>
   <string name="birthday_notification_title_days_later">"Si avvicina il %2$s di %1$s"</string>
@@ -269,6 +270,7 @@
   <string name="date_picker_label_month"></string>
   <string name="date_picker_label_year"></string>
   <string name="date_picker_lunar">Calendario Lunare</string>
+  <string name="date_time_fmt">%1$s, %2$s</string>
   <string name="date_today">"(oggi)"</string>
   <string name="day_view_new_event_hint">Nuovo evento</string>
   <string name="default_reminder_later_time">Intervallo predefinito per \"Ricordami dopo\"</string>
@@ -771,6 +773,8 @@
   <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
   <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
   <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
+  <string name="mtrl_picker_cancel">@android:string/cancel</string>
+  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Scegli una data</string>
   <string name="mtrl_picker_date_header_unselected">Seleziona data</string>
@@ -857,6 +861,9 @@ Controlla le impostazioni di rete e riprova."</string>
   <string name="phone_num">Telefono</string>
   <string name="pm">PM</string>
   <string name="portrait_week_view">Agenda settimanale in orientamento verticale</string>
+  <string name="prefDefault_alerts_vibrateWhen">never</string>
+  <string name="prefDefault_alerts_vibrate_false">never</string>
+  <string name="prefDefault_alerts_vibrate_true">always</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrazione</string>
   <string name="pref_default_popup_alert_value">smart</string>
   <string name="pref_reminder_time">Orario promemoria</string>
@@ -1127,6 +1134,8 @@ Controlla le impostazioni di rete e riprova."</string>
   <string name="tab_title_day">Giorno</string>
   <string name="tab_title_month">Mese</string>
   <string name="tab_title_week">Settimana</string>
+  <string name="tag_action_bar_in_feed">action_bar_in_feed</string>
+  <string name="tag_feed_list_container">feed_list_container</string>
   <string name="taishen">胎神</string>
   <string name="talk_back_description_close_ad_card">关闭广告卡片</string>
   <string name="talk_back_description_close_ad_text">关闭广告短链</string>
@@ -1205,6 +1214,8 @@ Controlla le impostazioni di rete e riprova."</string>
   <string name="time_format_12_hours_smaller_than_10">h:mma</string>
   <string name="time_format_24_hours_bigger_than_10">H:mm</string>
   <string name="time_format_24_hours_smaller_than_10">H:mm</string>
+  <string name="time_line_format_12_hours_bigger_than_10">@string/time_format_12_hours_bigger_than_10</string>
+  <string name="time_line_format_12_hours_smaller_than_10">@string/time_format_12_hours_smaller_than_10</string>
   <string name="time_picker_dialog_title">Imposta ora</string>
   <string name="time_picker_label_hour">O</string>
   <string name="time_picker_label_minute">Min</string>
