@@ -45,7 +45,7 @@
   <string name="abc_search_hint">Ricerca…</string>
   <string name="abc_searchview_description_clear">Cancella termine</string>
   <string name="abc_searchview_description_query">Pulisci query</string>
-  <string name="abc_searchview_description_search">Ceerca</string>
+  <string name="abc_searchview_description_search">Cerca</string>
   <string name="abc_searchview_description_submit">Invia termine</string>
   <string name="abc_searchview_description_voice">RIcerca vocale</string>
   <string name="abc_shareactionprovider_share_with">Condividi con</string>
@@ -226,6 +226,7 @@
   <string name="app_behavior_key_camera">Scattare foto</string>
   <string name="app_behavior_key_location">Piattaforma</string>
   <string name="app_behavior_key_protect">Proteggere le informazioni personali</string>
+  <string name="app_behavior_kill_process">@string/menu_item_force_stop</string>
   <string name="app_behavior_list_load_more">Caricamento…</string>
   <string name="app_behavior_location">%1s ha ottenuto l\'accesso alla tua posizione</string>
   <string name="app_behavior_location_bg">%1s ha ottenuto l\'accesso alla tua posizione in background</string>
@@ -278,7 +279,7 @@
   <string name="app_behavior_privacy_manager">Notifiche su azioni sensibili</string>
   <string name="app_behavior_recognition">%1s ha ottenuto l\'accesso alle informazioni sulle tue attività</string>
   <string name="app_behavior_recognition_single">Questa app ha ottenuto l\'accesso alle informazioni sulle tue attività</string>
-  <string name="app_behavior_search">Ceerca</string>
+  <string name="app_behavior_search">Cerca</string>
   <string name="app_behavior_sensor">%1s ha ottenuto l\'accesso ai dati dei sensori</string>
   <string name="app_behavior_sensor_single">Questa app ha ottenuto l\'accesso ai dati dei sensori</string>
   <string name="app_behavior_settings_category_perm">Notifica le azioni sensibili</string>
@@ -792,6 +793,7 @@ se dimenticata</string>
   <string name="card_main_private_space_summary">Utilizzando il Secondo Spazio sarà come avere 2 dispositivi</string>
   <string name="card_main_private_space_title">Secondo spazio</string>
   <string name="card_main_sectool_title">Strumenti</string>
+  <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
   <string name="card_main_xspace_action">Crea</string>
   <string name="card_main_xspace_summary">Crea un doppio account per le applicazioni</string>
   <string name="card_main_xspace_title">Clona app</string>
@@ -844,7 +846,17 @@ se dimenticata</string>
   <string name="cpu_usage_view_action_btn_text">Tocca per visualizzare</string>
   <string name="create_gamebooster_destop">Collegamento Home creato correttamente</string>
   <string name="create_shortcut">Crea un collegamento sulla schermata Home per Turbo videogiochi</string>
+  <string name="create_table_aaid">CREATE TABLE AAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, aaid TEXT NOT NULL );</string>
+  <string name="create_table_keyword">CREATE TABLE keyword( _id INTEGER PRIMARY KEY AUTOINCREMENT, data TEXT DEFAULT NULL, type INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
+  <string name="create_table_mode">CREATE TABLE mode( _id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT DEFAULT NULL, state TEXT DEFAULT NULL );</string>
+  <string name="create_table_oaid">CREATE TABLE OAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, oaid TEXT NOT NULL );</string>
+  <string name="create_table_phonelist">CREATE TABLE phone_list( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, display_number TEXT DEFAULT NULL, notes TEXT DEFAULT NULL, state INTEGER NOT NULL DEFAULT 0, isdisplay INTEGER NOT NULL DEFAULT 1, type INTEGER NOT NULL DEFAULT 1, cloudUid TEXT DEFAULT NULL, sync_dirty INTEGER DEFAULT 0, e_tag TEXT DEFAULT NULL, record_id TEXT DEFAULT NULL, location INTEGER DEFAULT 0, sim_id INTEGER NOT NULL DEFAULT 1 );</string>
+  <string name="create_table_report_sms">CREATE TABLE reportSms( id TEXT NOT NULL );</string>
+  <string name="create_table_report_sms_pending">CREATE TABLE reportSmsPending( id TEXT NOT NULL, address TEXT, body TEXT, date TEXT );</string>
+  <string name="create_table_sim">CREATE TABLE sim( _id INTEGER PRIMARY KEY AUTOINCREMENT, sim_id TEXT NOT NULL, call_wait TEXT DEFAULT -1, name TEXT DEFAULT NULL, backsound_mode INTEGER DEFAULT 0 );</string>
   <string name="create_table_thirddesktop">CREATE TABLE THIRD_DESKTOP( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, application_name TEXT NOT NULL, type INTEGER NOT NULL );</string>
+  <string name="create_table_vaid">CREATE TABLE VAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, vaid TEXT NOT NULL );</string>
+  <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, mode INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
   <string name="cta_HIPS_Perm_Location_Desc">Per visualizzare gli avvisi anticipati sui terremoti relativi alla tua posizione</string>
   <string name="cta_agree_desc">Per essere in grado di utilizzare i nostri servizi, consenti a questa app di connettersi a Internet e concedi i permessi sopra elencati.</string>
   <string name="cta_close_dialog_cancel">Cancella</string>
@@ -1016,6 +1028,8 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
   <string name="doze_optimization_title">Controlli touch ottimizzati</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
+  <string name="dynamic_md5">cf22c9ca95b12a9404c0b7c59515f3e3</string>
+  <string name="ellipsis">…</string>
   <string name="email">E-mail</string>
   <string name="empty_activity_title">" "</string>
   <string name="empty_app">Nessuna app</string>
@@ -1061,7 +1075,13 @@ scheda medica"</string>
   <string name="ew_button_confirm">Accetto</string>
   <string name="ew_button_exit">"Non accetto"</string>
   <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;\"Questa funzione ti fornisce la funzionalità di avvertimento sui terremoti. Ti avviserà sui prossimi terremoti e riprodurrà il suono di avvertimento. Potrai trovare il riparo più vicino, chiamare il tuo contatto di emergenza e presentare la tua carta medica, se necessario. &amp;lt;br&amp;gt;Noi proteggeremo le tue informazioni personali in conformità con le leggi, i regolamenti e le politiche sulla privacy. &amp;lt;br&amp;gt; Per essere in grado di funzionare normalmente, questa funzione richiede i seguenti permessi al fine di raccogliere le informazioni personali: &amp;lt; r&amp;gt;&amp;#8226; Info località: &amp;lt;br&amp;gt;Per accedere alla tua posizione e fornire avvisi accurati sui terremoti. &amp;lt;br&amp;gt; Se non accetti di concedere tali autorizzazioni o condividere e caricare le tue informazioni personali, non potrai utilizzare questa funzione. Puoi scegliere di disattivare questa funzione o non attivarla in questo caso. &amp;lt;br&amp;gt;Devi leggere e accettare la nostra &amp;lt;a href=\"http://api.sec.miui. om/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt; prima di utilizzare questa funzione.\"&lt;/Data&gt;</string>
+  <string name="ew_city_support_tip">*仅支持为其下辖的%s预警</string>
   <string name="ew_close">Disattiva avvisi</string>
+  <string name="ew_close_warning">Disattiva</string>
+  <string name="ew_concern_city">Città aggiunte</string>
+  <string name="ew_concern_date_empty">Nessuno</string>
+  <string name="ew_concern_manage">Gestisci</string>
+  <string name="ew_current_location">Posizione attuale</string>
   <string name="ew_emergency_allergy">Allergie</string>
   <string name="ew_emergency_basic_info">Info di base</string>
   <string name="ew_emergency_birthday">Data di nascita</string>
@@ -1086,6 +1106,7 @@ scheda medica"</string>
   <string name="ew_emergency_recent_medicine">Farmaci presi di recente</string>
   <string name="ew_emergency_title">Scheda medica</string>
   <string name="ew_first_start_network_title">Termini e condizioni</string>
+  <string name="ew_get_location">Individua</string>
   <string name="ew_guide_law_agree">Accetto</string>
   <string name="ew_guide_law_done">Fatto</string>
   <string name="ew_guide_law_exit">"Non accetto"</string>
@@ -1094,11 +1115,21 @@ scheda medica"</string>
   <string name="ew_guide_next_text">Successivo</string>
   <string name="ew_guide_play_audio">Riproduci suono di avviso</string>
   <string name="ew_guide_play_audio_last">Riproduci suono di avviso (%ds)</string>
+  <string name="ew_guide_start">Attiva</string>
+  <string name="ew_guide_start_agree">Attiva</string>
+  <string name="ew_guide_start_find_area">Cerca per aree</string>
+  <string name="ew_guide_start_warning_range">目前地震预警为成都高新减灾研究所大陆地震预警网覆盖区域提供服务。具体地区可在【城市管理】中查找。</string>
   <string name="ew_guide_statement_text">&lt;Data&gt;\"Questa esclusione di responsabilità si applica a tutti gli utenti (di seguito «tu») che attivano la funzione di avvertimento sui terremoti. Accettando questa clausola di esclusione di responsabilità, stipulate un contratto giuridicamente vincolante con Xiaomi Inc. e le sue affiliate (di seguito «Xiaomi»). L\'utente riconosce di aver letto tutti i contenuti di questa clausola di esclusione di responsabilità, e comprendi e accetti pienamente tutti i termini e le condizioni di questa esclusione di responsabilità; in caso contrario, si dovrebbe spegnere immediatamente la funzione di allarme terremoto.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Special statement&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; La funzionalità di avviso terremoto è disponibile nelle regioni selezionate ora (&amp;lt;a href=\"https://sec-cdn. tatic.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index. tml?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Tocca per visualizzare&amp;lt;/a&amp;gt;). Altre regioni saranno disponibili presto.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Disclaimer&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Le funzioni di avvertimento terremoto sono fornite da Xiaomi nell\'app Sicurezza. Dovete capire che le informazioni di allarme terremoto sono fornite dalle agenzie di allerta precoce del governo. Xiaomi non sovrintende a tali agenzie e non ha alcun controllo su di esse.&amp;lt;br&amp;gt; Xiaomi non promette né garantisce l\'accuratezza, la validità e la tempestività delle informazioni di allarme terremoto, né garantisce che il servizio di allarme terremoto soddisferà tutte le vostre esigenze.&amp;lt;br&amp;gt; Ricevere le informazioni di avvertimento terremoto richiede di mantenere il dispositivo collegato alla rete mobile. Guasti di linea di comunicazione di terze parti, problemi tecnici, guasti delle apparecchiature di rete o terminali, instabilità del sistema, e altri vari eventi di forza maggiore potrebbero impedirti di ricevere informazioni di allarme terremoto. Xiaomi non è responsabile delle perdite causate da tali eventi.&amp;lt;br&amp;gt; Devi capire che questa funzione è fornita solo per il tuo riferimento. L\'avvertimento che ricevete potrebbe venire secondi prima dell\'insorgenza di un terremoto. Sei l\'unico responsabile per i rischi e le conseguenze di qualsiasi azione eseguita in base alle informazioni fornite da questa funzione.&amp;lt;br&amp;gt;\"&lt;/Data&gt;</string>
   <string name="ew_guide_tips_1">"Verrai avvisato sui prossimi terremoti e sentirai il suono di avvertimento"</string>
   <string name="ew_guide_tips_2">Informazioni e avvertimenti sonori saranno aggiornati durante il terremoto</string>
   <string name="ew_guide_tips_3">"Potrai trovare il rifugio più vicino, chiamare il tuo contatto di emergenza e presentare la tua carta medica se necessario"</string>
   <string name="ew_guide_title">Visualizza demo</string>
+  <string name="ew_info_agreement">Esclusione di Responsabilità</string>
+  <string name="ew_info_other">Altro</string>
+  <string name="ew_info_range">Ambito del servizio</string>
+  <string name="ew_info_rule">Regolamento</string>
+  <string name="ew_info_rule_warning">Informazioni sul sistema di allerta</string>
+  <string name="ew_info_service_range">Ambito del servizio</string>
   <string name="ew_list_all">Tutti</string>
   <string name="ew_list_empty_text">Nessun avviso</string>
   <string name="ew_list_not_receive_tips">*L\'epicentro è lontano da te. Potresti non sentire il terremoto.</string>
@@ -1107,6 +1138,7 @@ scheda medica"</string>
   <string name="ew_list_receive_time">Ora di inizio: %s</string>
   <string name="ew_list_receive_time_title">Orario di inizio</string>
   <string name="ew_list_title">Avvisi</string>
+  <string name="ew_location_failed">Posizione non rilevata</string>
   <string name="ew_main_close_text">"Non sarai in grado di ricevere informazioni aggiornate su questo terremoto se spegni gli avvisi. Disattivarlo comunque?"</string>
   <string name="ew_main_close_title">Attenzione</string>
   <string name="ew_main_contact_change">Cambia</string>
@@ -1126,9 +1158,11 @@ scheda medica"</string>
   <string name="ew_main_setting_show_desc">Demo</string>
   <string name="ew_main_setting_warning_desc">Maggiori informazioni</string>
   <string name="ew_main_settings">Impostazioni</string>
+  <string name="ew_main_warning_all_title">Visualizza avvisi emessi in precedenza</string>
   <string name="ew_main_warning_list">Visualizza avvisi</string>
   <string name="ew_main_warning_list_tips">Vedi</string>
   <string name="ew_main_warning_list_title">Cronologia avvisi</string>
+  <string name="ew_not_support_area">"Gli avvisi non sono supportati in quest'area"</string>
   <string name="ew_push_message">Intensità stimata: %s. Aspettati un leggero scuotimento vicino a te.</string>
   <string name="ew_push_title">Avviso terremoto per %s</string>
   <string name="ew_safe_place_no_maps_tips">"Impossibile cercare ora. Installa prima Baidu Maps o Amap."</string>
@@ -1139,6 +1173,19 @@ scheda medica"</string>
   <string name="ew_setting_normal_push_title">Ricevi notifiche di sistema</string>
   <string name="ew_setting_strong_push_message">Per terremoti con intensità 2.0 e superiore</string>
   <string name="ew_setting_strong_push_title">Avvisa riguardo forti terremoti (attivo per impostazione predefinita)</string>
+  <string name="ew_settings_choose_level">Imposta soglia di avvertimento</string>
+  <string name="ew_settings_choose_level_title">Intensità stimata: %s</string>
+  <string name="ew_settings_choose_level_value_1">" (Vibrazione in edifici alti come i grattacieli)"</string>
+  <string name="ew_settings_choose_level_value_2">" (Vibrazione)"</string>
+  <string name="ew_settings_choose_level_value_3">" (Forte vibrazione)"</string>
+  <string name="ew_settings_choose_level_value_4">" (Vibrazione intensa)"</string>
+  <string name="ew_settings_push_tips">Gli avvertimenti sulle aree vicine alla tua posizione avverranno solo sotto forma di notifiche.</string>
+  <string name="ew_signature_default">成都高新减灾研究所 大陆地震预警中心</string>
+  <string name="ew_subscribe_area_title">Gestisci aree aggiunte</string>
+  <string name="ew_subscribe_city">Aree aggiunte</string>
+  <string name="ew_subscribe_city_count">最多可以订阅%s个城市</string>
+  <string name="ew_subscribe_search_hint">Cerca per aree</string>
+  <string name="ew_subscribe_title">地震预警 | %1$s发生%2$s级左右地震，%3$s可能有震感</string>
   <string name="examination_score_100">Sembra tutto a posto!</string>
   <string name="examination_score_60_0">Dovresti davvero ottimizzare il tuo dispositivo</string>
   <string name="examination_score_80_100">Alcune cose possono essere ottimizzate</string>
@@ -1178,7 +1225,9 @@ scheda medica"</string>
   <string name="exo_download_notification_channel_name">Download</string>
   <string name="exo_download_removing">Rimuovi download</string>
   <string name="exo_item_list">%1$s, %2$s</string>
+  <string name="exo_track_bitrate">%1$.2f Mbps</string>
   <string name="exo_track_mono">Mono</string>
+  <string name="exo_track_resolution">%1$d × %2$d</string>
   <string name="exo_track_selection_auto">Automatico</string>
   <string name="exo_track_selection_none">Nessuno</string>
   <string name="exo_track_selection_title_audio">Audio</string>
@@ -1409,7 +1458,7 @@ scheda medica"</string>
   <string name="gamecenter_install_sucessfull">Installato correttamente</string>
   <string name="gateway_exception_summary">Controlla il tuo router e riprova.</string>
   <string name="gateway_exception_summary2">"Impossibile connettersi al server"</string>
-  <string name="gateway_exception_title">Test router</string>
+  <string name="gateway_exception_title">Test connessione</string>
   <string name="gb_ad_game_size">MB</string>
   <string name="gb_add_game_hint">Aggiungi elementi dalla lista delle app</string>
   <string name="gb_add_game_loading_tips">Attendi…</string>
@@ -1635,7 +1684,7 @@ I video saranno salvati in Turbo Videogiochi &gt; Momenti salienti.</string>
   <string name="hints_virus_app_list_item_summary">Virus (app)</string>
   <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hints_virus_lib_update_default_summary">Ultimo aggiornamento: Sconosciuto</string>
-  <string name="hongbao_cancel">取消</string>
+  <string name="hongbao_cancel">Annulla</string>
   <string name="hongbao_message_slogon">小米手机就是快!</string>
   <string name="hongbao_name">小米红包助手</string>
   <string name="hot">Popolari</string>
@@ -1765,7 +1814,7 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continuerai ad utilizzare l
   <string name="lucky_alarm_count_down">0:00:00</string>
   <string name="lucky_alarm_count_down_default">0:00:00</string>
   <string name="lucky_alarm_item_date">27</string>
-  <string name="lucky_alarm_item_month">11月</string>
+  <string name="lucky_alarm_item_month">Novembre</string>
   <string name="lucky_alarm_open_summary">开启后，在红包活动开始前1分钟将弹窗提醒，并可通过悬浮窗查看所有红包活动时间。</string>
   <string name="lucky_alarm_open_title">红包闹钟</string>
   <string name="lucky_alarm_sound_title">活动声音提醒</string>
@@ -1783,7 +1832,7 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continuerai ad utilizzare l
   <string name="main_activity_content_summary_root">Accesso root</string>
   <string name="main_activity_content_summary_update">Aggiornamento del sistema</string>
   <string name="main_alert_message_no_imsi">Nessuna SIM rilevata</string>
-  <string name="main_alert_message_open_traffic_ctrl">È in uso una restrizione di dati</string>
+  <string name="main_alert_message_open_traffic_ctrl">È consigliato impostare un piano dati</string>
   <string name="main_bill_remained">Saldo telefonico</string>
   <string name="main_button_mi_sim_close">Attiva Mi SIM</string>
   <string name="main_button_mi_sim_open">Mostra dettagli</string>
@@ -1918,9 +1967,11 @@ dall'operatore"</string>
   <string name="menu_text_antispam">Blacklist</string>
   <string name="menu_text_antivirus">Antivirus</string>
   <string name="menu_text_garbage_cleanup">Pulizia</string>
+  <string name="menu_text_garbage_cleanup_danger">%s</string>
   <string name="menu_text_license_manager">Permessi</string>
   <string name="menu_text_networkassistants">Utilizzo dati</string>
   <string name="menu_text_networkassistants_danger">%s oltre la soglia</string>
+  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s rimasti</string>
   <string name="menu_text_networkassistants_unit_b">B</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1930,6 +1981,7 @@ dall'operatore"</string>
   <string name="menu_text_optimize_manage_1">Velocizza</string>
   <string name="menu_text_power_manager">Batteria</string>
   <string name="menu_text_power_percent">%s</string>
+  <string name="menu_text_power_percent_title">%s</string>
   <string name="menu_wh_remove">Rimuovi dalle eccezioni</string>
   <string name="menu_white">Eccezione</string>
   <string name="mi_pay_lucky">小米钱包</string>
@@ -2350,6 +2402,11 @@ dall'operatore"</string>
   <string name="power_center_dialog_msg_top">Quando il risparmio energetico è attivo, MIUI attuerà le seguenti ottimizzazioni:</string>
   <string name="power_center_hints_scan_danger_result">Puoi correggere i problemi di batteria ora</string>
   <string name="power_center_list_item_auto_brightness">Regola automaticamente la luminosità dello schermo</string>
+  <string name="power_center_list_item_battery_health_model_temperature">%d °C</string>
+  <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+  <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+  <string name="power_center_list_item_battery_status_capacity">mAh</string>
+  <string name="power_center_list_item_battery_status_temperature">°C</string>
   <string name="power_center_list_item_battery_status_time">o</string>
   <string name="power_center_list_item_close_bluetooth">Disattiva Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Impostazioni avanzate</string>
@@ -2526,6 +2583,7 @@ dall'operatore"</string>
   <string name="pref_normal_traffic_limit">Utilizzo dati giornalieri</string>
   <string name="pref_open_adjust_traffic">Aggiorna utilizzo dati ogni giorno utilizzando le statistiche del tuo operatore</string>
   <string name="pref_operator_not_set">"Operatore non impostato"</string>
+  <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_over_traffic_limit">Quando superi il limite del tuo piano dati</string>
   <string name="pref_package_traffic_settings">Limite dati mobili</string>
   <string name="pref_pkg_begin_date">Data azzeramento dati</string>
@@ -2552,6 +2610,7 @@ dall'operatore"</string>
   <string name="pref_traffic_unlimited_package">Piano dati illimitato</string>
   <string name="pref_warning_values">Livello per avviso utilizzo dati</string>
   <string name="pref_whitelist_setting">Eccezioni roaming dati</string>
+  <string name="preference_category_information_setting">category_information_setting</string>
   <string name="preference_category_key_antivirus_setting">key_category_antivirus_setting</string>
   <string name="preference_category_videobox_app_group">category_videobox_app_group</string>
   <string name="preference_category_videobox_line_group">category_videobox_line_group</string>
@@ -2574,6 +2633,8 @@ dall'operatore"</string>
   <string name="preference_key_cta_settings">key_cta_settings</string>
   <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
   <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
+  <string name="preference_key_information_setting_close">key_information_setting_close</string>
+  <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
   <string name="preference_key_manual_update_virus_db">key_manual_update_virus_db</string>
   <string name="preference_key_module_antipam">module_antipam</string>
   <string name="preference_key_module_antivirus">key_module_antivirus</string>
@@ -2729,6 +2790,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
   <string name="privacy_using_record">Registrare audio</string>
   <string name="privacyapp_number_masked_text">Il contenuto delle notifiche è nascosto</string>
   <string name="privacyapp_number_unmasked_text">Il contenuto delle notifiche può essere nascosto</string>
+  <string name="process_kernel_label">Dispositivo MIUI</string>
   <string name="process_mediaserver_label">Server Multimediale</string>
   <string name="process_vpnsdkmanager_label">Turbo videogiochi</string>
   <string name="promotion">Pubblicità</string>
@@ -2779,7 +2841,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
   <string name="report_success">Messaggio segnalato</string>
   <string name="report_warning">"Segnalare %1$s SMS a Xiaomi? I messaggi ed i numeri telefonici associati verranno inviati ai server Xiaomi per l'analisi. Ogni informazione personale resterà comunque anonima."</string>
   <string name="report_warning_title">Segnala SMS</string>
-  <string name="required_permissions">Permessi obbligatori</string>
+  <string name="required_permissions">Permessi obbligatori </string>
   <string name="required_permissions_desc">Queste autorizzazioni sono necessarie per rendere disponibili le funzionalità e i servizi di base di questa app.</string>
   <string name="reset_data_dialog_message">"Questo dispositivo non è associato al tuo Mi Account. Non è possibile recuperare o ripristinare la password. Esegui il backup di tutti i dati importanti ed esegui un ripristino alle impostazioni di fabbrica. Tutti i dati verranno eliminati in modo permanente e la scheda SD verrà formattata durante il ripristino."</string>
   <string name="reset_data_dialog_ok">Ripristino impostazioni di fabbrica</string>
@@ -2999,15 +3061,20 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
   <string name="st_antispam_des_uesless">Inutile</string>
   <string name="st_antispam_mode_add_new">Aggiungi regola</string>
   <string name="st_antispam_mode_blacklist">Numeri bloccati</string>
+  <string name="st_antispam_mode_blacklist_state">11112121</string>
   <string name="st_antispam_mode_blacklist_sum">"Blocca chiamate e SMS da numeri aggiunti manualmente alla lista blocchi"</string>
   <string name="st_antispam_mode_denyownself_sum">Regole personalizzate</string>
   <string name="st_antispam_mode_only_all_deny">Blocca tutto</string>
+  <string name="st_antispam_mode_only_all_deny_state">10000000</string>
   <string name="st_antispam_mode_only_all_deny_sum">Blocca tutte le chiamate e i messaggi</string>
   <string name="st_antispam_mode_only_contacts">Consenti solo i contatti</string>
+  <string name="st_antispam_mode_only_contacts_state">11110000</string>
   <string name="st_antispam_mode_only_contacts_sum">Consenti solo chiamate e messaggi dai Contatti</string>
   <string name="st_antispam_mode_only_whitelist">Consenti solo eccezioni</string>
+  <string name="st_antispam_mode_only_whitelist_state">11000000</string>
   <string name="st_antispam_mode_only_whitelist_sum">Consenti solo chiamate e messaggi da numeri della lista delle eccezioni</string>
   <string name="st_antispam_mode_smart">Numeri segnalati</string>
+  <string name="st_antispam_mode_smart_state">11111111</string>
   <string name="st_antispam_mode_smart_sum">"Blocca i numeri che hai aggiunto manualmente e i numeri riportati dagli altri utenti"</string>
   <string name="st_antispam_title_anoy_incoming">Chiamate da sconosciuti</string>
   <string name="st_antispam_title_anoy_sms">Messaggi da sconosciuti</string>

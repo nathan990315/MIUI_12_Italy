@@ -21,7 +21,7 @@
   <string name="abc_search_hint">Ricerca…</string>
   <string name="abc_searchview_description_clear">Cancella termine</string>
   <string name="abc_searchview_description_query">Pulisci query</string>
-  <string name="abc_searchview_description_search">Ceerca</string>
+  <string name="abc_searchview_description_search">Cerca</string>
   <string name="abc_searchview_description_submit">Invia termine</string>
   <string name="abc_searchview_description_voice">RIcerca vocale</string>
   <string name="abc_shareactionprovider_share_with">Condividi con</string>
@@ -316,7 +316,7 @@
   <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.RECORD_AUDIO;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
   <string name="retry">Riprova</string>
   <string name="runtime_permission_ungranted">"Impossibile utilizzare il Registratore per mancanza di autorizzazioni"</string>
-  <string name="save_record_dialog_title">Save recording</string>
+  <string name="save_record_dialog_title">Salva registrazione</string>
   <string name="search_app">Registratore</string>
   <string name="search_empty">"Impossibile trovare risultati"</string>
   <string name="search_enable_earpiece_title">Utilizza il ricevitore per riprodurre audio</string>
@@ -366,7 +366,7 @@
   <string name="toast_uninstall_fileexplorer">"File Explorer non è installato!"</string>
   <string name="trash_box">Elementi eliminati di recente</string>
   <string name="trash_box_close_tip">Chiudi avviso</string>
-  <string name="trash_box_delete_all">Delete all items from the trash permanently?</string>
+  <string name="trash_box_delete_all">Eliminare definitivamente tutti gli elementi dal cestino?</string>
   <string name="usage_description">Trascrizione dell\'audio e sincronizzazione di elementi con il cloud</string>
   <string name="user_feedback">Feedback</string>
   <string name="v7_preference_off">Disattivato</string>
@@ -380,4 +380,5 @@
   <string name="webview_try_again">Prova di nuovo</string>
   <string name="wifi_recommended_body" formatted="false">L\'utilizzo della rete dati cellulare per il download di questo file (%s) aumenterà il consumo dei dati. Se superi il limite previsto dal piano del tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il download di questo file tocca %s.</string>
   <string name="wifi_recommended_title">Avviso traffico</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

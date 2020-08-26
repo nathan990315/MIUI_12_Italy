@@ -116,6 +116,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Tra %d secondi</item>
         <item quantity="one">Tra %d secondo</item>
     </plurals>
+    <plurals name="ew_concern_date">
+        <item quantity="other">%d giorni fa</item>
+        <item quantity="one">%d giorno fa</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Cerca tra %d app</item>
         <item quantity="one">Cerca tra %d app</item>

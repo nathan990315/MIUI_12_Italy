@@ -365,6 +365,7 @@
   <string name="earthly_branches_you">酉</string>
   <string name="earthly_branches_zi">子</string>
   <string name="email">E-mail</string>
+  <string name="empty"></string>
   <string name="eras_ad">DC</string>
   <string name="eras_bc">AC</string>
   <string name="error_forbidden">Si sono verificati dei problemi con il tuo account: sincronizzazione disattivata.</string>
@@ -372,7 +373,7 @@
   <string name="error_title">"Errore di sincronizzazione"</string>
   <string name="error_unauthorized">Troppi tentativi di accesso: sincronizzazione disattivata.</string>
   <string name="evening">PM</string>
-  <string name="fmt_chinese_date">N月e</string>
+  <string name="fmt_chinese_date">dd/MM</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -394,7 +395,7 @@
   <string name="fmt_date_timezone">D z</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time">T</string>
-  <string name="fmt_time_12hour">"h 'o''clock'"</string>
+  <string name="fmt_time_12hour">"h"</string>
   <string name="fmt_time_12hour_minute">h:mm</string>
   <string name="fmt_time_12hour_minute_pm">h:mma</string>
   <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
@@ -529,6 +530,7 @@
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="size_peta_byte">PB</string>
+  <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
   <string name="solar_term_autumn_begins">Inizio dell\'autunno</string>
   <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>

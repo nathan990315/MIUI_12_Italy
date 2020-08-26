@@ -52,7 +52,7 @@
   <string name="ad_card_download_use_count">%1$d人正在用</string>
   <string name="ad_card_download_use_count_million">%1$d万人正在用</string>
   <string name="ad_card_downloading">下载中</string>
-  <string name="ad_card_install">立即安装</string>
+  <string name="ad_card_install">Installa</string>
   <string name="ad_card_installing">安装中</string>
   <string name="ad_card_network_error">无网络连接，请稍后重试！</string>
   <string name="ad_card_open_app">马上打开</string>
@@ -104,6 +104,7 @@
   <string name="birthday_event_description_today">Oggi</string>
   <string name="birthday_event_description_tomorrow">Domani</string>
   <string name="birthday_event_description_yesterday">Ieri</string>
+  <string name="birthday_event_title">@string/birthday_notification_title_today</string>
   <string name="birthday_notification_text_days_later">%1$s giorni a %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">"Non dimenticare di fare gli auguri."</string>
   <string name="birthday_notification_title_days_later">"Si avvicina il %2$s di %1$s"</string>
@@ -269,6 +270,7 @@
   <string name="date_picker_label_month"></string>
   <string name="date_picker_label_year"></string>
   <string name="date_picker_lunar">Calendario Lunare</string>
+  <string name="date_time_fmt">%1$s, %2$s</string>
   <string name="date_today">"(oggi)"</string>
   <string name="day_view_new_event_hint">Nuovo evento</string>
   <string name="default_reminder_later_time">Intervallo predefinito per \"Ricordami dopo\"</string>
@@ -283,8 +285,8 @@
   <string name="directory_searching_fmt">Ricerca %s…</string>
   <string name="discard_label">Annulla</string>
   <string name="does_not_repeat">Evento singolo</string>
-  <string name="double_seventh_day">七夕</string>
-  <string name="double_seventh_day_tradition">七夕</string>
+  <string name="double_seventh_day">Tanabata</string>
+  <string name="double_seventh_day_tradition">Tanabata</string>
   <string name="downloading">下载中</string>
   <string name="dropdown_delete_button_desc">Rumuovi %s dai destinatari</string>
   <string name="early_morning">AM</string>
@@ -379,7 +381,7 @@
   <string name="event_info_when">Quando</string>
   <string name="event_info_where">Luogo</string>
   <string name="event_lunar_month">Mese</string>
-  <string name="event_reminder_allday_day_zero">Quel giorno alle %2$s</string>
+  <string name="event_reminder_allday_day_zero"> quel giorno alle %2$s</string>
   <string name="event_reminder_custom">Personalizza</string>
   <string name="event_reminder_value_zero">Prima dell\'evento</string>
   <string name="event_title">Titolo</string>
@@ -403,7 +405,7 @@
   <string name="flight_seat_no">Posto %1$s</string>
   <string name="flight_state">Stato del volo</string>
   <string name="flight_time">Stimato %1$s</string>
-  <string name="fmt_chinese_date">N月e</string>
+  <string name="fmt_chinese_date">dd/MM</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -614,7 +616,7 @@
   <string name="load_more_events_default">Visualizza eventi del prossimo anno</string>
   <string name="load_more_hint">Aggiorna gli eventi di %1$d</string>
   <string name="loading">Attendi…</string>
-  <string name="loading_tips">加载中</string>
+  <string name="loading_tips">Caricamento...</string>
   <string name="loan">贷款还款</string>
   <string name="loan_event_delete_successfully">贷款还款事件删除成功</string>
   <string name="loan_event_title">贷款账单</string>
@@ -647,7 +649,7 @@
   <string name="lunar_to_solar"></string>
   <string name="lunar_to_solar_chinese_calendar">Da cinese a Gregoriano</string>
   <string name="lunar_wu">5</string>
-  <string name="lunar_year">年</string>
+  <string name="lunar_year">Anno</string>
   <string name="lunar_yi">1</string>
   <string name="lunar_yue">Mese</string>
   <string name="lunar_zheng">Gennaio</string>
@@ -771,6 +773,8 @@
   <string name="mtrl_picker_a11y_next_month">Passa al mese successivo</string>
   <string name="mtrl_picker_a11y_prev_month">Passa al mese precedente</string>
   <string name="mtrl_picker_announce_current_selection">Selezione corrente: %1$s</string>
+  <string name="mtrl_picker_cancel">@android:string/cancel</string>
+  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Scegli una data</string>
   <string name="mtrl_picker_date_header_unselected">Seleziona data</string>
@@ -857,6 +861,9 @@ Controlla le impostazioni di rete e riprova."</string>
   <string name="phone_num">Telefono</string>
   <string name="pm">PM</string>
   <string name="portrait_week_view">Agenda settimanale in orientamento verticale</string>
+  <string name="prefDefault_alerts_vibrateWhen">never</string>
+  <string name="prefDefault_alerts_vibrate_false">never</string>
+  <string name="prefDefault_alerts_vibrate_true">always</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrazione</string>
   <string name="pref_default_popup_alert_value">smart</string>
   <string name="pref_reminder_time">Orario promemoria</string>
@@ -1127,6 +1134,8 @@ Controlla le impostazioni di rete e riprova."</string>
   <string name="tab_title_day">Giorno</string>
   <string name="tab_title_month">Mese</string>
   <string name="tab_title_week">Settimana</string>
+  <string name="tag_action_bar_in_feed">action_bar_in_feed</string>
+  <string name="tag_feed_list_container">feed_list_container</string>
   <string name="taishen">胎神</string>
   <string name="talk_back_description_close_ad_card">关闭广告卡片</string>
   <string name="talk_back_description_close_ad_text">关闭广告短链</string>
@@ -1197,7 +1206,7 @@ Controlla le impostazioni di rete e riprova."</string>
   <string name="tian_gan">天干</string>
   <string name="ticket_activity_card_date_day">日</string>
   <string name="ticket_activity_card_date_month">Mese</string>
-  <string name="ticket_card_date">%1$s月%2$s日</string>
+  <string name="ticket_card_date">%2$s/%1$s</string>
   <string name="ticket_card_description">今日可预定</string>
   <string name="ticket_card_lunar">%1$s的火车票</string>
   <string name="ticket_card_phase">- 第%1$s期</string>
@@ -1205,6 +1214,8 @@ Controlla le impostazioni di rete e riprova."</string>
   <string name="time_format_12_hours_smaller_than_10">h:mma</string>
   <string name="time_format_24_hours_bigger_than_10">H:mm</string>
   <string name="time_format_24_hours_smaller_than_10">H:mm</string>
+  <string name="time_line_format_12_hours_bigger_than_10">@string/time_format_12_hours_bigger_than_10</string>
+  <string name="time_line_format_12_hours_smaller_than_10">@string/time_format_12_hours_smaller_than_10</string>
   <string name="time_picker_dialog_title">Imposta ora</string>
   <string name="time_picker_label_hour">O</string>
   <string name="time_picker_label_minute">Min</string>

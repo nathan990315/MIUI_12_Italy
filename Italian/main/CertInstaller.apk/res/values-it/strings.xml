@@ -41,8 +41,8 @@
   <string name="pkcs12_file_password_dialog_title">Estrazione da %s</string>
   <string name="pkcs12_password_dialog_title">Estrai certificato</string>
   <string name="redirect_ca_certificate_close_button">Chiudi</string>
-  <string name="redirect_ca_certificate_message">I Certificati CA possono mettere a rischio la tua privacy e devono essere installati in Impostazioni</string>
-  <string name="redirect_ca_certificate_title">"Impossibile installare i Certificati CA"</string>
+  <string name="redirect_ca_certificate_title">Impossibile installare i Certificati CA</string>
+  <string name="redirect_ca_certificate_with_app_info_message">This certificate from %1$s must be installed in Settings. Only install CA certificates from organizations you trust.</string>
   <string name="select_certificate_usage_title">Scegli tipo di certificato</string>
   <string name="unable_to_save_cert">"Impossibile salvare il certificato. L'archivio credenziali non è attivo o non è stato inizializzato correttamente."</string>
   <string name="user_cert_is_added">Certificato utente installato</string>

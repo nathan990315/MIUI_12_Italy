@@ -18,7 +18,9 @@
   <string name="dialog_data_limit_button1">Attendi WI-Fi</string>
   <string name="dialog_data_limit_button2">Scarica ora</string>
   <string name="dialog_data_limit_msg1">Verranno utilizzati %s di traffico dati mobile per scaricare questo file. Scaricare adesso?</string>
+  <string name="dialog_data_limit_msg2">@string/dialog_tip_limit</string>
   <string name="dialog_data_limit_msg3">Cambia limite</string>
+  <string name="dialog_data_limit_sel_title">@string/dialog_tip_limit</string>
   <string name="dialog_data_limit_title">Avviso di utilizzo dati</string>
   <string name="dialog_insufficient_space_on_cache">Spazio insufficiente sulla memoria interna</string>
   <string name="dialog_insufficient_space_on_external">Spazio insufficiente sulla memoria esterna</string>
@@ -36,6 +38,7 @@
   <string name="download_queued">In coda</string>
   <string name="download_remaining">%s rimanenti</string>
   <string name="download_running">In corso</string>
+  <string name="download_running_percent">In corso, %d%%</string>
   <string name="download_unknown_title">&lt;Senza nome&gt;</string>
   <string name="enter_garbage_clean">Cancella memoria interna.</string>
   <string name="insufficient_space">"Spazio insufficiente sul tuo dispositivo"</string>
@@ -85,11 +88,11 @@
   <string name="warning_tip_content">"Non sei più connesso alla rete Wi-Fi. L'utilizzo della connessione dati cellulare influirà sul tuo piano dati. Se superi la soglia prevista il tuo operatore potrebbe addebitarti costi aggiuntivi."</string>
   <string name="warning_tip_ok">Pausa</string>
   <string name="warning_tip_title">Avviso utilizzo dati</string>
-  <string name="wifi_recommended_body" formatted="false">"Questo download di %s  potrebbe ridurre la durata della batteria e/o causare un uso eccessivo della connessione dati cellulare con conseguente addebito da parte dell'operatore.
+  <string name="wifi_recommended_body">"Questo download di %s  potrebbe ridurre la durata della batteria e/o causare un uso eccessivo della connessione dati cellulare con conseguente addebito da parte dell'operatore.
 
  Tocca %s per avviarlo quando sarai connesso a una rete Wi-Fi."</string>
-  <string name="wifi_recommended_title" formatted="false">Mettere in coda per scaricare più tardi?</string>
-  <string name="wifi_required_body" formatted="false">"Devi utilizzare la rete Wi-Fi per completare questo download di %s . 
+  <string name="wifi_recommended_title">Mettere in coda per scaricare più tardi?</string>
+  <string name="wifi_required_body">"Devi utilizzare la rete Wi-Fi per completare questo download di %s . 
 
 Tocca %s per avviare il download la prossima volta che sei connesso a una rete Wi-Fi."</string>
   <string name="wifi_required_title">Download troppo grande per rete cellulare</string>

@@ -25,7 +25,7 @@
   <string name="abc_search_hint">Ricerca…</string>
   <string name="abc_searchview_description_clear">Cancella termine</string>
   <string name="abc_searchview_description_query">Pulisci query</string>
-  <string name="abc_searchview_description_search">Ceerca</string>
+  <string name="abc_searchview_description_search">Cerca</string>
   <string name="abc_searchview_description_submit">Invia termine</string>
   <string name="abc_searchview_description_voice">RIcerca vocale</string>
   <string name="abc_shareactionprovider_share_with">Condividi con</string>
@@ -45,6 +45,7 @@
   <string name="am">AM</string>
   <string name="angle">grad</string>
   <string name="app_name">Calcolatrice</string>
+  <string name="app_name_danfa">@string/app_name</string>
   <string name="app_notification_info">La Calcolatrice è in esecuzione in background</string>
   <string name="arccos">arccos</string>
   <string name="arcsin">arcsin</string>
@@ -71,16 +72,16 @@
   <string name="cancel">Annulla</string>
   <string name="children_education">"Educazione dei bambini"</string>
   <string name="chinese_character_cross_check">互查</string>
-  <string name="chinese_character_daughter">女</string>
-  <string name="chinese_character_elder_brother">兄</string>
-  <string name="chinese_character_elder_sister">姐</string>
-  <string name="chinese_character_father">父</string>
-  <string name="chinese_character_husband">夫</string>
-  <string name="chinese_character_mother">母</string>
+  <string name="chinese_character_daughter">Figlia</string>
+  <string name="chinese_character_elder_brother">Fratellone</string>
+  <string name="chinese_character_elder_sister">Sorellona</string>
+  <string name="chinese_character_father">Padre</string>
+  <string name="chinese_character_husband">Marito</string>
+  <string name="chinese_character_mother">Madre</string>
   <string name="chinese_character_son">子</string>
-  <string name="chinese_character_wife">妻</string>
-  <string name="chinese_character_younger_brother">弟</string>
-  <string name="chinese_character_younger_sister">妹</string>
+  <string name="chinese_character_wife">Moglie</string>
+  <string name="chinese_character_younger_brother">Fratellino</string>
+  <string name="chinese_character_younger_sister">Sorellina</string>
   <string name="chinese_day_1">1</string>
   <string name="chinese_day_10">10</string>
   <string name="chinese_day_11">11</string>
@@ -184,12 +185,12 @@
   <string name="date_picker_label_year"></string>
   <string name="date_time_picker_dialog_title">Imposta data ed ora</string>
   <string name="dateformat">dd,MM,yyyy</string>
-  <string name="daughter">女儿</string>
+  <string name="daughter">Figlia</string>
   <string name="day">giorno</string>
-  <string name="default_separator_text">的</string>
-  <string name="default_text">我</string>
+  <string name="default_separator_text">di</string>
+  <string name="default_text">Io</string>
   <string name="degDesc">Angolo</string>
-  <string name="del">DEL</string>
+  <string name="del">CANC</string>
   <string name="deleteDesc">elimina</string>
   <string name="description_content">Oltre alle funzionalità base, l\'app Calcolatrice funziona anche da multi convertitore, calcolo finanziamenti e tasse. Assicurati di non aver necessità di queste funzionalità prima di eliminare l\'app</string>
   <string name="description_title">Informazioni</string>
@@ -232,8 +233,8 @@
   <string name="earthly_branches_yin">寅</string>
   <string name="earthly_branches_you">酉</string>
   <string name="earthly_branches_zi">子</string>
-  <string name="elder_brother">哥哥</string>
-  <string name="elder_sister">姐姐</string>
+  <string name="elder_brother">Fratello</string>
+  <string name="elder_sister">Sorella</string>
   <string name="empty"></string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
@@ -250,9 +251,9 @@
   <string name="factorial">!</string>
   <string name="factorialDesc">fattoriale</string>
   <string name="far_relationship_result">关系有点远，年长就叫老祖宗，同龄人就叫美女帅哥吧~</string>
-  <string name="father">爸爸</string>
+  <string name="father">Padre</string>
   <string name="float_window_guide_text">Tocca qui per minmizzare la Calcolatrice</string>
-  <string name="fmt_chinese_date">N月e</string>
+  <string name="fmt_chinese_date">dd/MM</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -274,7 +275,7 @@
   <string name="fmt_date_timezone">D z</string>
   <string name="fmt_date_year">yyyy</string>
   <string name="fmt_time">T</string>
-  <string name="fmt_time_12hour">"h 'o''clock'"</string>
+  <string name="fmt_time_12hour">"h"</string>
   <string name="fmt_time_12hour_minute">h:mm</string>
   <string name="fmt_time_12hour_minute_pm">h:mm a</string>
   <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
@@ -282,7 +283,7 @@
   <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
   <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
   <string name="fmt_time_12hour_pm">ha</string>
-  <string name="fmt_time_24hour">"H 'o''clock'"</string>
+  <string name="fmt_time_24hour">"H"</string>
   <string name="fmt_time_24hour_minute">H:mm</string>
   <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
   <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
@@ -314,8 +315,8 @@
   <string name="fund"></string>
   <string name="fund_loan">Fondo di credito</string>
   <string name="further_education">Educazione aggiuntiva</string>
-  <string name="gay_other_search_result">暂时不支持同性婚姻称呼查询，怎么称呼你决定~</string>
-  <string name="gay_search_result">是男是女不重要，是你就好</string>
+  <string name="gay_other_search_result">Temporaneamente non supporta titoli di matrimonio tra persone dello stesso sesso, decidi tu come chiamarli</string>
+  <string name="gay_search_result">Non importa che tu sia maschio o femmina</string>
   <string name="global_network_confirm_content">Il convertitore di valuta deve utilizzare la connessione di rete per funzionare correttamente.</string>
   <string name="global_search_key_area_convertion">Area;Convertitore di Area;Conversione Area</string>
   <string name="global_search_key_calculation">Calcola;Calcolatrice;Unità di conversione;Convertitore;Convertitore di unità</string>
@@ -351,7 +352,7 @@
   <string name="home_loan">Interessi mutuo</string>
   <string name="home_title_calculator">Calcolatrice</string>
   <string name="house_rent">Affitto</string>
-  <string name="husband">丈夫</string>
+  <string name="husband">Marito</string>
   <string name="income_type"></string>
   <string name="install">Installa</string>
   <string name="install_scanner_to_continued_use">Scanner non installato. Installare di nuovo</string>
@@ -407,7 +408,7 @@
   <string name="label_statistics">Statistiche</string>
   <string name="label_to_date">A</string>
   <string name="label_total_interest">Interessi totali</string>
-  <string name="label_total_investment">Total investment</string>
+  <string name="label_total_investment">Investimento totale</string>
   <string name="label_total_payment">Pagamento totale</string>
   <string name="label_total_principal">Totale generale</string>
   <string name="label_total_value">Valore totale</string>
@@ -449,6 +450,7 @@
   <string name="loan_pay_years">Periodo prestito</string>
   <string name="loan_payback_way">Pagamento</string>
   <string name="loan_repayment_detail_loading">Caricamento dettagli rimborso…</string>
+  <string name="loan_type_summary_base">@string/base_rate</string>
   <string name="loan_type_summary_lpr">LPR</string>
   <string name="loan_type_title">Tasso di interesse standard</string>
   <string name="loan_unit">×10K</string>
@@ -527,6 +529,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
   <string name="mortgage_input_error">Inserisci l\'importo del mutuo</string>
   <string name="mortgage_interest_amount">Totale interessi</string>
   <string name="mortgage_interest_rate">Tasso di interesse</string>
+  <string name="mortgage_item_loan_ruler">@string/loan_type_title</string>
   <string name="mortgage_item_repayment">Rimborso</string>
   <string name="mortgage_item_start_time">Inizio data</string>
   <string name="mortgage_item_years">Durata</string>
@@ -540,7 +543,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
   <string name="mortgage_tab_combining_loan">Combinato</string>
   <string name="mortgage_tab_commercial_loan">Commerciale</string>
   <string name="mortgage_years_amount">Durata mutuo</string>
-  <string name="mother">妈妈</string>
+  <string name="mother">Madre</string>
   <string name="mt_max">La somma inserita è troppo grande</string>
   <string name="mul">×</string>
   <string name="mulDesc">moltiplica</string>
@@ -611,8 +614,8 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
   <string name="reciprocal">1/X</string>
   <string name="reciprocalDesc">Reciproci</string>
   <string name="relationship_cross_check_suggestion">TA称呼我</string>
-  <string name="relationship_default_separator_text">的</string>
-  <string name="relationship_default_text">我</string>
+  <string name="relationship_default_separator_text">di</string>
+  <string name="relationship_default_text">Io</string>
   <string name="required_permissions">android.permission.READ_PHONE_STATE;</string>
   <string name="reverceDesc">arc</string>
   <string name="rightParen">)</string>
@@ -657,7 +660,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
   <string name="solar_term_white_dews">Rugiada bianca</string>
   <string name="solar_term_winter_begins">Inizio dell\'inverno</string>
   <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
-  <string name="son">儿子</string>
+  <string name="son">Figlio</string>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">radice quadrata</string>
   <string name="start_calculate"></string>
@@ -852,6 +855,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
   <string name="unit_data_display_currency_btn">Bhutanese ngultrum</string>
   <string name="unit_data_display_currency_bwp">Pula del Botswana</string>
   <string name="unit_data_display_currency_byn">Rublo Bielorusso</string>
+  <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
   <string name="unit_data_display_currency_cad">Dollaro Canadese</string>
   <string name="unit_data_display_currency_cdf">Franco Congolese</string>
   <string name="unit_data_display_currency_chf">Franco Svizzero</string>
@@ -1189,8 +1193,11 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
   <string name="word_figure_unit_shi">拾</string>
   <string name="word_figure_yuan">元</string>
   <string name="word_figure_zheng">整</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">"Connessione a Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni."</string>
   <string name="xiaomi_external_storage_unavailable">"Archivio non disponibile, verifica la scheda SD."</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s
 Dimensione: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Presentazione versione %1$s

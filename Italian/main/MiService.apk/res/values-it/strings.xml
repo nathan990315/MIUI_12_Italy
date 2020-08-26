@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">Vai alla Home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -21,7 +21,7 @@
   <string name="abc_search_hint">Ricerca…</string>
   <string name="abc_searchview_description_clear">Cancella campo</string>
   <string name="abc_searchview_description_query">Cerca termine</string>
-  <string name="abc_searchview_description_search">Ceerca</string>
+  <string name="abc_searchview_description_search">Cerca</string>
   <string name="abc_searchview_description_submit">Avvia ricerca</string>
   <string name="abc_searchview_description_voice">RIcerca vocale</string>
   <string name="abc_shareactionprovider_share_with">Condividi con</string>
@@ -123,7 +123,7 @@
   <string name="eras_ad">AC</string>
   <string name="eras_bc">DC</string>
   <string name="evening">Pomeriggio</string>
-  <string name="fmt_chinese_date">N月e</string>
+  <string name="fmt_chinese_date">dd/MM</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -194,8 +194,8 @@
   <string name="miservice_channel_guide_name">guida</string>
   <string name="miservice_channel_update_notification_info">\"Servizi e feedback\" sta richiedendo dati online…</string>
   <string name="miservice_notification_boot_content">Scopri di più su ciò che MIUI può fare</string>
-  <string name="miservice_notification_boot_sub_title">为您介绍本机特色功能，玩转MIUI</string>
-  <string name="miservice_notification_boot_title">快速了解您的新机</string>
+  <string name="miservice_notification_boot_sub_title">Ti presentiamo le caratteristiche di questo dispositivo, goditi MIUI</string>
+  <string name="miservice_notification_boot_title">Conosci rapidamente il tuo nuovo dispositivo</string>
   <string name="miservice_notification_huanji_content">Trasferiscili usando Mi Mover</string>
   <string name="miservice_notification_huanji_title">Hai elementi importanti sul tuo vecchio telefono?</string>
   <string name="miservice_notification_open_feedback_content">Tutte le funzionalità di feedback sono state spostate nella nuova app</string>
@@ -309,8 +309,8 @@
   <string name="miui_mine_address_choose_province_hotcity">热门省市</string>
   <string name="miui_mine_address_info_">热门省市</string>
   <string name="miui_mine_lbs_title_nostore_text">你的城市暂无%s</string>
-  <string name="miui_mine_loading_text">加载中</string>
-  <string name="miui_mine_net_error_retry">刷新试试</string>
+  <string name="miui_mine_loading_text">Caricamento...</string>
+  <string name="miui_mine_net_error_retry">Aggiorna la pagina</string>
   <string name="miui_mine_net_error_sub_title">请检查您的网络连接是否正常</string>
   <string name="miui_mine_net_error_title">网络无法连接</string>
   <string name="miui_mine_repair_mode_sub_title">售后维修时保证您的数据安全</string>

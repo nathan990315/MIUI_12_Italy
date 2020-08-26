@@ -25,7 +25,7 @@
   <string name="abc_search_hint">Cerca…</string>
   <string name="abc_searchview_description_clear">Cancella termine</string>
   <string name="abc_searchview_description_query">Cerca termine</string>
-  <string name="abc_searchview_description_search">Ceerca</string>
+  <string name="abc_searchview_description_search">Cerca</string>
   <string name="abc_searchview_description_submit">Avvia ricerca</string>
   <string name="abc_searchview_description_voice">Ricerca vocale</string>
   <string name="abc_shareactionprovider_share_with">Condividi con</string>
@@ -120,6 +120,7 @@
   <string name="crop_title_study">Ritaglia la foto</string>
   <string name="crop_title_translation">Seleziona il testo da tradurre</string>
   <string name="cropping">Ritaglio…</string>
+  <string name="default_language">@string/language_value_chinese_cn</string>
   <string name="delete">Elimina</string>
   <string name="document_color_picture">Colore</string>
   <string name="document_color_picture_tip">Conversione colore…</string>
@@ -198,8 +199,12 @@
   <string name="general_location">La funzione di identificazione del negozio deve ottenere informazioni sulla posizione</string>
   <string name="general_location_dialog">Alcune funzioni del riconoscimento degli oggetti sono fornite da Dianping. Se vuoi riconoscere gli oggetti nei negozi, Dianping deve utilizzare le foto scattate durante l\'utilizzo di questa funzione insieme alle loro informazioni sulla posizione al fine di fornire i risultati rilevanti per voi.</string>
   <string name="general_location_prompt">Accesso alla posizione</string>
+  <string name="general_no">Informazioni elemento non trovate</string>
+  <string name="general_no_found">Visualizza prodotti consigliati per te</string>
+  <string name="general_plant">Ciò che stai cercando può essere:</string>
   <string name="general_recognized">"Risultato: "</string>
   <string name="general_title">Scatta una foto di un oggetto per riconoscerlo</string>
+  <string name="global_default_language">@string/language_value_english</string>
   <string name="got_it">Fatto</string>
   <string name="gps">Naviga</string>
   <string name="grayscale">Scala di grigi</string>
@@ -241,8 +246,8 @@
   <string name="language_value_spanish">spanish</string>
   <string name="logistics">Consegna rapida</string>
   <string name="low_version_tip">La versione della MIUI è troppo vecchia. Aggiorna la MIUI per usare Scanner.</string>
-  <string name="mihome_goto_install">立即安装</string>
-  <string name="mihome_goto_update">立即更新</string>
+  <string name="mihome_goto_install">Installa</string>
+  <string name="mihome_goto_update">Aggiorna</string>
   <string name="mihome_install_message">绑定设备需安装米家APP，请安装并登录后，再次尝试。</string>
   <string name="mihome_install_title">安装米家APP</string>
   <string name="mihome_update_message">当前米家APP版本过低，请更新后，再次尝试。</string>

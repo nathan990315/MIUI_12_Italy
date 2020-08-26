@@ -5,9 +5,9 @@
   <string name="access_deselected">%s deselezionato</string>
   <string name="access_select">%s selezionati</string>
   <string name="access_selected">%s selezionati</string>
-  <string name="accessibilty_back_button">返回</string>
-  <string name="accessibilty_move_down">下移</string>
-  <string name="accessibilty_move_up">上移</string>
+  <string name="accessibilty_back_button">Indietro</string>
+  <string name="accessibilty_move_down">Vai giù</string>
+  <string name="accessibilty_move_up">Vai su</string>
   <string name="accordingto_position">Definisce la meta in base ai servizi di localizzazione</string>
   <string name="account_address">Indirizzo</string>
   <string name="add_stock">Aggiungi</string>
@@ -47,14 +47,14 @@
   <string name="alipay_alipayAccountHint">手机号/邮箱/淘宝会员名</string>
   <string name="alipay_ant_group_brand">蚂蚁金服旗下品牌</string>
   <string name="alipay_application_name">支付宝</string>
-  <string name="alipay_back_button">返回</string>
+  <string name="alipay_back_button">Indietro</string>
   <string name="alipay_bindIKnow">好的，我知道了</string>
   <string name="alipay_bind_alipayaccount">绑定支付宝账户</string>
   <string name="alipay_bind_now">立即绑定</string>
   <string name="alipay_bind_success">绑定成功</string>
   <string name="alipay_bind_success_tip">你的支付宝账户名和登录密码，与淘宝账户一致。</string>
-  <string name="alipay_cancel">取消</string>
-  <string name="alipay_cancel_sel">取消</string>
+  <string name="alipay_cancel">Annulla</string>
+  <string name="alipay_cancel_sel">Annulla</string>
   <string name="alipay_changeAccountRegister">换个号码，继续注册</string>
   <string name="alipay_change_account">登录其他账号</string>
   <string name="alipay_change_account_login">换个账号登录</string>
@@ -64,7 +64,7 @@
   <string name="alipay_clearInput">清空输入内容</string>
   <string name="alipay_comfirm">确定</string>
   <string name="alipay_confirm">确定</string>
-  <string name="alipay_confirm_cancel">取消</string>
+  <string name="alipay_confirm_cancel">Annulla</string>
   <string name="alipay_confirm_title">提示</string>
   <string name="alipay_conn_check_3g">• 蜂窝移动网络已开启</string>
   <string name="alipay_conn_check_alipay">• 支付宝的网络权限已开启</string>
@@ -166,7 +166,7 @@
   <string name="alipay_login">登录</string>
   <string name="alipay_loginImmediate">立即登录</string>
   <string name="alipay_loginProblems">遇到问题?</string>
-  <string name="alipay_login_cancel">取消</string>
+  <string name="alipay_login_cancel">Annulla</string>
   <string name="alipay_login_error">人气大爆发，一会接待您</string>
   <string name="alipay_login_query_pwd_tip">请为您的账号 %s 设置登录密码，方便以后快速登录支付宝。</string>
   <string name="alipay_login_rds_suspect">登录失败，请重新登录</string>
@@ -177,14 +177,18 @@
   <string name="alipay_msp_bl_bt_shutdown">蓝牙未开启，无法使用智能免密功能</string>
   <string name="alipay_msp_bl_timeout">蓝牙连接异常，无法使用智能设备免密支付</string>
   <string name="alipay_msp_bl_verify_error">智能设备校验失败，请使用支付密码进行支付</string>
+  <string name="alipay_msp_image_loader_view_tag">alipay_msp_image_loader_view_tag</string>
+  <string name="alipay_msp_tag_view_holder">alipay_msp_tag_view_holder</string>
+  <string name="alipay_msp_view_wrapper">alipay_msp_view_wrapper</string>
   <string name="alipay_net_error">不能连接到服务器，是否重试？</string>
   <string name="alipay_newUserRegister">新用户注册</string>
   <string name="alipay_password">密码</string>
   <string name="alipay_password_login">密码登录</string>
+  <string name="alipay_phoneNumber">+86</string>
   <string name="alipay_pre_router_alipay_account">用已登录支付宝账号</string>
-  <string name="alipay_pre_router_cancel">取消</string>
+  <string name="alipay_pre_router_cancel">Annulla</string>
   <string name="alipay_pre_router_has_auth_account">用已授权账号</string>
-  <string name="alipay_processing">加载中</string>
+  <string name="alipay_processing">Caricamento...</string>
   <string name="alipay_protocol">服务协议</string>
   <string name="alipay_pwd_input_dialog_disc">说明</string>
   <string name="alipay_pwd_input_dialog_titile">标题</string>
@@ -213,7 +217,7 @@
   <string name="alipay_reigsterSuccess">注册成功</string>
   <string name="alipay_reinput">重新输入</string>
   <string name="alipay_risk_account_dialog_tip">该账号暂无法登录，可通过以下方式完成操作</string>
-  <string name="alipay_risk_process_cancel">取消</string>
+  <string name="alipay_risk_process_cancel">Annulla</string>
   <string name="alipay_risk_process_change_account">换个账号</string>
   <string name="alipay_risk_process_verify_by_alipay">去手机支付宝验证</string>
   <string name="alipay_scan">Scanner</string>
@@ -239,11 +243,11 @@
   <string name="alipay_sms_verify_alert">短信可能有延迟，请再等一会。</string>
   <string name="alipay_system_error">人气大爆发，一会接待您</string>
   <string name="alipay_system_error_try_later">人气太旺啦，稍候再试试</string>
-  <string name="alipay_template_month_dialog_cancel">取消</string>
+  <string name="alipay_template_month_dialog_cancel">Annulla</string>
   <string name="alipay_template_month_dialog_confirm">确定</string>
   <string name="alipay_template_month_dialog_title">有效期</string>
   <string name="alipay_text_phone_register">手机号注册</string>
-  <string name="alipay_title_back">返回</string>
+  <string name="alipay_title_back">Indietro</string>
   <string name="alipay_tryAgain">刷新</string>
   <string name="alipay_use_follow_service">可直接使用以下服务</string>
   <string name="alipay_used_other_account">换个账号登录</string>
@@ -310,7 +314,7 @@
   <string name="assistant_place">Assistente per luoghi frequentati</string>
   <string name="assistant_summary">Suggerimenti importanti, al momento giusto</string>
   <string name="authorize_button">Consenti</string>
-  <string name="baidu_map">Baidu Maps</string>
+  <string name="baidu_map">Mappe Baidu</string>
   <string name="ball_dialog_confirm">Installa</string>
   <string name="ball_dialog_content">Installa %s per utilizzare questa funzionalità. Installare ora?</string>
   <string name="ball_dialog_tip">"Non mostrare nuovamente"</string>
@@ -456,10 +460,10 @@
   <string name="commute_pop_disclaimer">Fornito da %s</string>
   <string name="commute_preference">Trasporti</string>
   <string name="commute_privacy_page_preference_text">Suggerimenti automatici</string>
-  <string name="commute_service_provider_baidu">Baidu Map</string>
+  <string name="commute_service_provider_baidu">Mappe Baidu</string>
   <string name="commute_service_provider_chelaile">Chelaile</string>
   <string name="commute_service_provider_didi">Didi</string>
-  <string name="commute_service_provider_gaode">Gaode Map</string>
+  <string name="commute_service_provider_gaode">Mappe Gaode</string>
   <string name="commute_setting_brief">Ricevi percorsi e suggerimenti prima della partenza</string>
   <string name="commute_setting_input_car_number">Inserisci il numero di targa</string>
   <string name="commute_setting_input_car_number_alert">Inserire un numero di targa valido</string>
@@ -611,6 +615,7 @@
   <string name="express_company_phone_prefix">"Contatto: "</string>
   <string name="express_company_pricing_details">Dettagli prezzo</string>
   <string name="express_complete">Accettato</string>
+  <string name="express_complete_flag">3</string>
   <string name="express_contact_address">Immetti indirizzo</string>
   <string name="express_contact_address_finding">Localizzazione…</string>
   <string name="express_contact_label">Informazioni servizio di ritiro</string>
@@ -622,6 +627,7 @@
   <string name="express_delete_order">Elimina</string>
   <string name="express_delete_tel">删除电话</string>
   <string name="express_delivery">In consegna</string>
+  <string name="express_delivery_flag">5</string>
   <string name="express_dest_city_label">Destinazione</string>
   <string name="express_detail_order_number_prefix">Numero: %s</string>
   <string name="express_detailed_address">Indirizzo</string>
@@ -631,6 +637,7 @@
   <string name="express_i_known">Fatto</string>
   <string name="express_icon_tip">Ottieni info sulla consegna veloce utilizzando il tuo numero di telefono e le info dell\'ordine.</string>
   <string name="express_icon_tip_link">Sicurezza e privacy</string>
+  <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Servizio corriere</string>
   <string name="express_inquiry">Tracciamento</string>
   <string name="express_inquiry_all_logistics">Tutti</string>
@@ -683,6 +690,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="express_order_failed">Non riuscito</string>
   <string name="express_order_ongoing">In elaborazione…</string>
   <string name="express_order_result">Risultato</string>
+  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Accettato</string>
   <string name="express_order_state_allograph">Firmato</string>
   <string name="express_order_state_cancelled">Annullato</string>
@@ -844,7 +852,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="favorite_title_modify">Modifica</string>
   <string name="favorite_title_modify_failed">"Impossibile cambiare il titolo"</string>
   <string name="favorite_title_modify_success">Modificato correttamente</string>
-  <string name="feedback_cancel">取消</string>
+  <string name="feedback_cancel">Annulla</string>
   <string name="feedback_ok">反馈</string>
   <string name="feedback_tip_msg">亲，您是否遇到了支付问题？您可以选择告诉我们。</string>
   <string name="flight">Volo</string>
@@ -989,6 +997,8 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="kakalib_bar_qr_code">条形码·二维码</string>
   <string name="kakalib_ok">确定</string>
   <string name="keyboard_alipay">支付宝安全键盘</string>
+  <string name="keyboard_more_abc">\#+=</string>
+  <string name="keyboard_more_num">123</string>
   <string name="keyboard_ok">完成</string>
   <string name="keyboard_space">空格</string>
   <string name="keyword_recommend">推荐您</string>
@@ -1098,7 +1108,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="mini_app_error">人气太旺啦，稍候再试试。</string>
   <string name="mini_auth_bracelet">验证手环</string>
   <string name="mini_auth_service_down_tips">支付宝安全插件被拦截，请确保手机未安装拦截软件，如:绿色守护、LBE安全大师、360卫士极客版</string>
-  <string name="mini_back">返回</string>
+  <string name="mini_back">Indietro</string>
   <string name="mini_bl_open_failed">手环开通失败,你可以点击其它手环再试</string>
   <string name="mini_bl_open_failed_exit">手环开通失败</string>
   <string name="mini_bl_setting">正在设置</string>
@@ -1107,7 +1117,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="mini_bracelet">绑定手环</string>
   <string name="mini_bracelet_connected">我的手环...</string>
   <string name="mini_bracelet_scan">附近手环...</string>
-  <string name="mini_cancel">取消</string>
+  <string name="mini_cancel">Annulla</string>
   <string name="mini_cannot_get_download_url">获取不到安全服务下载地址</string>
   <string name="mini_card_no">卡号</string>
   <string name="mini_card_type">卡类型</string>
@@ -1156,6 +1166,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="mini_safe_no">安全码</string>
   <string name="mini_safe_no_hint">卡背面末三位数字</string>
   <string name="mini_start_download">开始下载...</string>
+  <string name="mini_str_null">xx</string>
   <string name="mini_temp_support_xiaomi">暂时仅支持小米手环</string>
   <string name="mini_to_open">去开通</string>
   <string name="mini_to_open_error">指纹采集软件启动异常，请检查</string>
@@ -1247,7 +1258,11 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="msp_memo_user_cancel">操作已经取消。</string>
   <string name="msp_mini_card_type_text">卡类型</string>
   <string name="msp_mini_choose_identitify">选择证件类别</string>
+  <string name="msp_mini_layout">mini_layout</string>
+  <string name="msp_mini_layout_parent">mini_layout_parent</string>
+  <string name="msp_mini_linblocksconpent">mini_linBlocksConpent</string>
   <string name="msp_mini_read_protocal_title">选择阅读协议</string>
+  <string name="msp_mini_root">mini_root</string>
   <string name="msp_mini_safty_code_info">安全码是打印在信用卡背面签名区的一组数字，一般是后3位数字</string>
   <string name="msp_mini_safty_code_title">安全码说明</string>
   <string name="msp_phone_num_info">"银行预留的手机号是办理该银行卡时所填写的手机号码。
@@ -1395,6 +1410,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="paycode_sdk_parent">Collegamento pagamento (nessuna app richiesta)</string>
   <string name="paycode_sdk_parent_title">Collegamento pagamento</string>
   <string name="payment">I miei pagamenti</string>
+  <string name="payment_amount_empty">0.00</string>
   <string name="payment_app_name">I miei pagamenti</string>
   <string name="payment_card_title">I miei pagamenti</string>
   <string name="payment_clear_records_dialog_message">Eliminare tutte le registrazioni dei pagamenti?</string>
@@ -1455,11 +1471,13 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="payment_user_notice_bar_text">A proposito di \"I miei pagamenti\"</string>
   <string name="peccancy_acquire">Violazione del traffico</string>
   <string name="personalAssistant_mainpage">Pagina principale</string>
+  <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
   <string name="phone_check">Ottimizzazioni</string>
   <string name="pie_chart_label_atm">Ritiri ATM:</string>
   <string name="pie_chart_label_catering">Cibo:</string>
   <string name="pie_chart_label_education">Educazione:</string>
   <string name="pie_chart_label_entertainment">Intrattenimento:</string>
+  <string name="pie_chart_label_format">%1$s %2$s%%</string>
   <string name="pie_chart_label_go_dutch">Paga alla Romana:</string>
   <string name="pie_chart_label_life">Vita:</string>
   <string name="pie_chart_label_medical">Stato di salute:</string>
@@ -1468,6 +1486,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="pie_chart_label_remain">Rimanente:</string>
   <string name="pie_chart_label_remittance">Trasferito:</string>
   <string name="pie_chart_label_shopping">Acquisti:</string>
+  <string name="pie_chart_label_special">%1$s &lt;0.01%%</string>
   <string name="pie_chart_label_spending">Pagamenti:</string>
   <string name="pie_chart_label_telephone_charge">Comunicazioni:</string>
   <string name="pie_chart_label_tenement">Affitto:</string>
@@ -1674,6 +1693,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="sport_headline">"Attività di oggi"</string>
   <string name="sport_open">Mostra scheda Mi Fit</string>
   <string name="start_download">开始下载...</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="step_cal_unit">Cal.</string>
   <string name="step_km">km</string>
   <string name="step_setting_tip">Origine informazioni passi</string>
@@ -1694,6 +1714,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="steps_vip_des">Conta i passi senza installare applicazioni di terze parti.</string>
   <string name="stock_card_add">Aggiungi società</string>
   <string name="stock_card_title">Riserve</string>
+  <string name="stock_change_rate_format">%.2f%%</string>
   <string name="stock_color_schema">Schema colore</string>
   <string name="stock_list_empty_text">"Non stai seguendo alcuna compagnia."</string>
   <string name="stock_search_empty">"Impossibile trovare risultati"</string>
@@ -1708,6 +1729,7 @@ Verifica il tuo numero di tracciabilità"</string>
   <string name="system_favorite_dialog_negative">Annulla</string>
   <string name="system_favorite_dialog_positive">Consenti</string>
   <string name="system_favorite_dialog_title_confirm">Preferiti</string>
+  <string name="tag_view_nav">tag_view_nav</string>
   <string name="take_off">Partenza</string>
   <string name="taked_off">Partito</string>
   <string name="taobao_auth_login">淘宝用户快速登录</string>

@@ -173,11 +173,11 @@
         <item quantity="one">Received %2$d image from %1$s. Tap to view.</item>
     </plurals>
     <plurals name="successfully_sent_files">
-        <item quantity="other">Sent %2$d files to %1$s successfully</item>
-        <item quantity="one">Sent %2$d file to %1$s successfully</item>
+        <item quantity="other">Inviati %2$d file a %1$s correttamente</item>
+        <item quantity="one">Inviati %2$d file a %1$s correttamente</item>
     </plurals>
     <plurals name="successfully_sent_images">
-        <item quantity="other">Sent %2$d images to %1$s successfully</item>
-        <item quantity="one">Sent %2$d image to %1$s successfully</item>
+        <item quantity="other">Inviati %2$d immagini a %1$s correttamente</item>
+        <item quantity="one">Inviati %2$d immagine a %1$s correttamente</item>
     </plurals>
 </resources>

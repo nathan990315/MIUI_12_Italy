@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">Vai alla Home</string>
   <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
   <string name="abc_action_menu_overflow_description">Altre opzioni</string>
   <string name="abc_action_mode_done">Fatto</string>
@@ -21,21 +21,22 @@
   <string name="abc_search_hint">Ricerca…</string>
   <string name="abc_searchview_description_clear">Cancella campo</string>
   <string name="abc_searchview_description_query">Cerca termine</string>
-  <string name="abc_searchview_description_search">Ceerca</string>
+  <string name="abc_searchview_description_search">Cerca</string>
   <string name="abc_searchview_description_submit">Avvia ricerca</string>
   <string name="abc_searchview_description_voice">RIcerca vocale</string>
   <string name="abc_shareactionprovider_share_with">Condividi con</string>
   <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
   <string name="abc_toolbar_collapse_description">Riduci</string>
   <string name="add_alarm_text">Aggiungi</string>
-  <string name="add_notification_text">Add notification</string>
-  <string name="add_ringtone_text">Add ringtone</string>
+  <string name="add_notification_text">Aggiungi notifica</string>
+  <string name="add_ringtone_text">Aggiungi suoneria</string>
   <string name="alarm_sound_default">Imposta suoneria sveglia predefinita</string>
+  <string name="app_label">Effetti audio</string>
   <string name="delete_ringtone_text">Elimina</string>
   <string name="notification_sound_default">Suoneria notifiche predefinita</string>
   <string name="ringtone_default">Suoneria predefinita</string>
-  <string name="search_menu_title">Ceerca</string>
+  <string name="search_menu_title">Cerca</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="unable_to_add_ringtone">Unable to add custom ringtone</string>
-  <string name="unable_to_delete_ringtone">Unable to delete custom ringtone</string>
+  <string name="unable_to_add_ringtone">Impossibile aggiungere una suoneria personalizzata</string>
+  <string name="unable_to_delete_ringtone">Impossibile eliminare la suoneria personalizzata</string>
 </resources>

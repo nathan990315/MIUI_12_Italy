@@ -21,7 +21,7 @@
   <string name="abc_search_hint">Ricerca…</string>
   <string name="abc_searchview_description_clear">Cancella campo</string>
   <string name="abc_searchview_description_query">Cerca termine</string>
-  <string name="abc_searchview_description_search">Ceerca</string>
+  <string name="abc_searchview_description_search">Cerca</string>
   <string name="abc_searchview_description_submit">Avvia ricerca</string>
   <string name="abc_searchview_description_voice">RIcerca vocale</string>
   <string name="abc_shareactionprovider_share_with">Condividi con</string>
@@ -529,7 +529,7 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="finish">Finito</string>
   <string name="finish_stand">mi sono seduto</string>
   <string name="finished_rate">Completato %1$d%%</string>
-  <string name="fmt_chinese_date">N月e</string>
+  <string name="fmt_chinese_date">dd/MM</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -853,6 +853,8 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="mtrl_badge_numberless_content_description">Nuove notifiche</string>
   <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+  <string name="mtrl_picker_cancel">@android:string/cancel</string>
+  <string name="mtrl_picker_confirm">@android:string/ok</string>
   <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Scegli una data</string>
@@ -984,7 +986,7 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
   <string name="remind_query_menstruation_end">"Il tuo ciclo è finito? Non dimenticarti di registrarlo."</string>
   <string name="remind_query_menstruation_start">"Il tuo ciclo è iniziato? Non dimenticarti di registrarlo."</string>
   <string name="remind_sleep_report_complete">Le statistiche sul sonno sono pronte</string>
-  <string name="remind_sleep_report_content">Hai dormito %1$d o %2$d min la scorsa notte. Toccare per vedere i dettagli.</string>
+  <string name="remind_sleep_report_content">Hai dormito %1$d o %2$d min la scorsa notte. Tocca per vedere i dettagli.</string>
   <string name="remind_sleep_report_content_1">Hai dormito %1$d ora/e la scorsa notte. Tocca per vedere i dettagli.</string>
   <string name="remind_sleep_report_title">Le statistiche sul sonno sono pronte</string>
   <string name="remind_subtitle_menstruation_start">Ricevi un promemoria 2 giorni prima dell\'inizio del prossimo ciclo</string>

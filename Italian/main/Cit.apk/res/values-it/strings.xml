@@ -62,7 +62,7 @@
   <string name="algo_version">算法版本:</string>
   <string name="all_tilt_angle">全局倾斜度:</string>
   <string name="allow_gpu_maxfreq_summary">La modalità sperimentale overclock GPU potrebbe introdurre problemi di alimentazione o anche più gravi. Tuttavia, verranno ripristinati una volta disattivata questa modalità. Vuoi attivare la modalità overclock GPU?</string>
-  <string name="app_name">CIT</string>
+  <string name="app_name">Diagnostica</string>
   <string name="app_name_far_frr">FRR/FAR测试</string>
   <string name="app_name_goodix">Goodix指纹测试</string>
   <string name="audio_rule">Parser audio xml</string>
@@ -605,15 +605,15 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
   <string name="cit_tool_bluetooth_le_rx_msg_old">Avvia la modalità di test Bluetooth LE 4.x modalità test RX:</string>
   <string name="cit_tool_bluetooth_le_rx_num">num. pacchetti rx:</string>
   <string name="cit_tool_bluetooth_le_tx_4x">TX: BLE 4.x</string>
-  <string name="cit_tool_bluetooth_le_tx_4x_antenna">antenna:</string>
+  <string name="cit_tool_bluetooth_le_tx_4x_antenna">Antenna:</string>
   <string name="cit_tool_bluetooth_le_tx_4x_channel">canale:</string>
   <string name="cit_tool_bluetooth_le_tx_4x_payload">carico utile:</string>
   <string name="cit_tool_bluetooth_le_tx_50">TX: BLE 5.0</string>
-  <string name="cit_tool_bluetooth_le_tx_50_antenna">antenna:</string>
+  <string name="cit_tool_bluetooth_le_tx_50_antenna">Antenna:</string>
   <string name="cit_tool_bluetooth_le_tx_50_channel">canale:</string>
   <string name="cit_tool_bluetooth_le_tx_50_payload">carico utile:</string>
   <string name="cit_tool_bluetooth_le_tx_50_phy">PHY:</string>
-  <string name="cit_tool_bluetooth_le_tx_antenna">antenna:</string>
+  <string name="cit_tool_bluetooth_le_tx_antenna">Antenna:</string>
   <string name="cit_tool_bluetooth_le_tx_ch0">Avvia la modalità di test Bluetooth LE 2.402GHz test freq. TX</string>
   <string name="cit_tool_bluetooth_le_tx_ch1">Avvia la modalità di test Bluetooth LE 2.404GHz test freq. TX</string>
   <string name="cit_tool_bluetooth_le_tx_ch10">Avvia la modalità di test Bluetooth LE 2.422GHz test freq. TX</string>
@@ -666,7 +666,7 @@ Dopo aver copiato \"traccia.mp3\" sulla scheda SD, tocca lo schermo per riprodur
   <string name="cit_tool_bluetooth_on">Attiva Bluetooth</string>
   <string name="cit_tool_bluetooth_tx_burst">TX: BR/EDR</string>
   <string name="cit_tool_bluetooth_tx_burst_run">ESEGUI</string>
-  <string name="cit_tool_bluetooth_tx_chain">antenna:</string>
+  <string name="cit_tool_bluetooth_tx_chain">Antenna:</string>
   <string name="cit_tool_bluetooth_tx_channel">canale:</string>
   <string name="cit_tool_bluetooth_tx_h">Avvia la modalità di test Bluetooth freq. BR/EDR 2.480GHz</string>
   <string name="cit_tool_bluetooth_tx_l">Avvia la modalità di test Bluetooth freq. BR/EDR 2.402GHz</string>
@@ -740,7 +740,7 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
   <string name="cit_tool_modem_test_will_set">aprirà la modalità test e riavvierà il dut</string>
   <string name="cit_tool_nfc">Test NFC</string>
   <string name="cit_tool_nfc_st">NFC ST:</string>
-  <string name="cit_tool_nfc_st_confreq">freq:</string>
+  <string name="cit_tool_nfc_st_confreq">Freq:</string>
   <string name="cit_tool_nfc_st_run">Avvia</string>
   <string name="cit_tool_nfc_st_stop">Ferma</string>
   <string name="cit_tool_no_repeat">Nessuna ripetizione!</string>
@@ -1481,7 +1481,7 @@ Clicca sul pulsante appropriato in base al numero che ascolterai"</string>
   <string name="title_screen_off_valid_touch_frame_threshold">灭屏有效按压数据帧数</string>
   <string name="title_screen_on_authenticate_fail_retry_count">亮屏识别失败重试次数</string>
   <string name="title_screen_on_valid_touch_frame_threshold">亮屏有效按压数据帧数</string>
-  <string name="title_spi">spi</string>
+  <string name="title_spi">Spi</string>
   <string name="title_support_bio_assay">心率</string>
   <string name="title_support_ff_mode">灭屏解锁</string>
   <string name="title_support_key_mode">Home按键功能</string>

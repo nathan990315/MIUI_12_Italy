@@ -21,7 +21,7 @@
   <string name="abc_search_hint">Ricerca…</string>
   <string name="abc_searchview_description_clear">Cancella campo</string>
   <string name="abc_searchview_description_query">Cerca termine</string>
-  <string name="abc_searchview_description_search">Ceerca</string>
+  <string name="abc_searchview_description_search">Cerca</string>
   <string name="abc_searchview_description_submit">Avvia ricerca</string>
   <string name="abc_searchview_description_voice">RIcerca vocale</string>
   <string name="abc_shareactionprovider_share_with">Condividi con</string>
@@ -318,6 +318,7 @@
   <string name="home_gesture_global_search">Cerca</string>
   <string name="home_gesture_no_action">Nessuno</string>
   <string name="home_gesture_notification_bar">Notifiche</string>
+  <string name="home_indicator">bottom_point</string>
   <string name="home_pull_down_action">Scorri in basso sulla Home</string>
   <string name="home_screen">Schermata Home</string>
   <string name="home_slide_up_action">Scorri in alto sulla Home</string>
@@ -368,6 +369,8 @@
   <string name="menu_launcher_setting">Launcher</string>
   <string name="menu_lock">Blocca spazi vuoti icone</string>
   <string name="menu_more">Altro</string>
+  <string name="menu_new_display_open">用新窗口打开</string>
+  <string name="menu_pc_open">用电脑程序打开</string>
   <string name="menu_picktheme">Seleziona tema</string>
   <string name="menu_reset_scene">Torna a scena predefinita</string>
   <string name="menu_search">Cerca</string>
@@ -417,6 +420,10 @@
   <string name="navigation_guide_settings">Lezioni</string>
   <string name="navigation_type_full_screen">Gesti</string>
   <string name="navigation_type_title">Navigazione di sistema</string>
+  <string name="navigation_type_title_synonyms_1">全面屏</string>
+  <string name="navigation_type_title_synonyms_2">小白条</string>
+  <string name="navigation_type_title_synonyms_3">全面屏手势</string>
+  <string name="navigation_type_title_synonyms_4">导航键</string>
   <string name="navigation_type_virtual_key">Pulsanti</string>
   <string name="no_detail_page">Nessuna pagina per i dettagli</string>
   <string name="no_space_toast">Nessun spazio</string>
@@ -434,6 +441,7 @@
   <string name="open_personal_assistant_dialog_desc_international">"Non sarai più in grado di utilizzare le schede dell'Assistente (Azioni, scorciatoie, ecc.) e ricevere aggiornamenti, dopo aver disattivato questa funzionalità."</string>
   <string name="open_personal_assistant_dialog_title">Disattiva Assistente</string>
   <string name="open_personal_assistant_title">Attiva Assistente App</string>
+  <string name="open_personal_assistant_title_synonyms">负一屏</string>
   <string name="out_of_space">Spazio esaurito in questa schermata</string>
   <string name="perfect_icons_switch_summary">Renderizza le animazioni su icone di terze parti</string>
   <string name="perfect_icons_switch_title">Animazioni icone globale</string>
@@ -517,6 +525,8 @@
   <string name="reset_fail">"Reimpostazione fallita"</string>
   <string name="reset_scene_prompt">La scena verrà ripristinata alla disposizione predefinita</string>
   <string name="reset_title">reimposta</string>
+  <string name="resource_canary_leak_tip">it has leak!</string>
+  <string name="resource_canary_wait_for_heapdump_message">Dumping heap snapshot...</string>
   <string name="screen_cells_config_title">Dimensione griglia Home</string>
   <string name="screen_locked_toast">La modifica della schermata home è bloccata</string>
   <string name="screen_number">Schermata n° %d</string>
@@ -554,6 +564,7 @@
   <string name="sort_by_not_defined">Ordina automaticamente</string>
   <string name="start_activity_failed">"Avvio non riuscito, riprova"</string>
   <string name="starting_preset_app">Inizio…</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_recent_memory_giga">%1$s GB</string>
   <string name="status_bar_recent_memory_info1">%1$s | %2$s</string>
   <string name="status_bar_recent_memory_info2"></string>

@@ -49,6 +49,8 @@
   <string name="cant_set_up_device">"Impossibile configurare il dispositivo"</string>
   <string name="cant_set_up_profile">"Impossibile configurare il profilo"</string>
   <string name="car_ui_alert_dialog_default_button">Chiudi</string>
+  <string name="car_ui_dialog_preference_negative">@android:string/cancel</string>
+  <string name="car_ui_dialog_preference_positive">@android:string/ok</string>
   <string name="car_ui_ellipsis">…</string>
   <string name="car_ui_installer_process_name"></string>
   <string name="car_ui_preference_switch_off">Spento</string>
@@ -61,6 +63,7 @@
   <string name="car_ui_toolbar_menu_item_overflow_title">Overflow</string>
   <string name="car_ui_toolbar_menu_item_search_title">Cerca</string>
   <string name="car_ui_toolbar_menu_item_settings_title">Impostazioni</string>
+  <string name="car_ui_toolbar_nav_icon_content_description">indietro</string>
   <string name="change_device_launcher">Cambia launcher del dispositivo</string>
   <string name="close_list">Chiudi elenco</string>
   <string name="collapse">Riduci</string>

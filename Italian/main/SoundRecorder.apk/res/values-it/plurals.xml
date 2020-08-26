@@ -29,8 +29,8 @@
         <item quantity="one">%d registrazione scaricata</item>
     </plurals>
     <plurals name="recovery_failed_dialog_message">
-        <item quantity="other">"Couldn't restore %d items due to an unknown error."</item>
-        <item quantity="one">"Couldn't restore %d item due to an unknown error."</item>
+        <item quantity="other">"Impossibile ripristinare %d elementi a causa di un errore sconosciuto."</item>
+        <item quantity="one">"Impossibile ripristinare %d elemento a causa di un errore sconosciuto."</item>
     </plurals>
     <plurals name="search_alll_records_hint">
         <item quantity="other">Cerca tra %d registrazioni</item>
@@ -53,12 +53,12 @@
         <item quantity="one">%d giorno rimanente</item>
     </plurals>
     <plurals name="trash_box_delete_items">
-        <item quantity="other">Delete %d selected recordings permanently?</item>
-        <item quantity="one">Delete %d selected recording permanently?</item>
+        <item quantity="other">Eliminare %d registrazioni selezionate in modo permanente?</item>
+        <item quantity="one">Eliminare %d registrazione selezionata in modo permanente?</item>
     </plurals>
     <plurals name="trash_box_tip">
-        <item quantity="other">Deleted items can be stored in the trash for up to %d days</item>
-        <item quantity="one">Deleted items can be stored in the trash for up to %d day</item>
+        <item quantity="other">Gli elementi eliminati possono essere memorizzati nel cestino per %d giorni</item>
+        <item quantity="one">Gli elementi eliminati possono essere memorizzati nel cestino per %d giorno</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d non sincronizzati</item>

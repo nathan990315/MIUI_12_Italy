@@ -149,16 +149,16 @@
   <string name="app_task_download_exists_text">Download già esistente</string>
   <string name="app_update_install">Nuova versione scaricata e pronta per l\'installazione</string>
   <string name="appbar_scrolling_view_behavior">androidy.coordinatorlayout.widget.behavior.AppBarLayout$ScrollingViewBehavior</string>
-  <string name="appdownloader_button_cancel_download">取消</string>
+  <string name="appdownloader_button_cancel_download">Annulla</string>
   <string name="appdownloader_button_queue_for_wifi">排队</string>
   <string name="appdownloader_button_start_now">立即开始</string>
   <string name="appdownloader_download_percent">%1$d%%</string>
   <string name="appdownloader_download_remaining">剩余时间：%1$s</string>
   <string name="appdownloader_download_unknown_title">&lt;未命名&gt;</string>
-  <string name="appdownloader_duration_hours">%1$d 小时</string>
-  <string name="appdownloader_duration_minutes">%1$d 分钟</string>
-  <string name="appdownloader_duration_seconds">%1$d 秒</string>
-  <string name="appdownloader_label_cancel">取消</string>
+  <string name="appdownloader_duration_hours">%1$d o</string>
+  <string name="appdownloader_duration_minutes">%1$d min</string>
+  <string name="appdownloader_duration_seconds">%1$d sec</string>
+  <string name="appdownloader_label_cancel">Annulla</string>
   <string name="appdownloader_label_ok">确定</string>
   <string name="appdownloader_notification_download">下载</string>
   <string name="appdownloader_notification_download_complete_open">下载完成，点击打开。</string>
@@ -190,12 +190,12 @@
 触摸“%2$s ”可在下次连接到 WLAN 网络时开始下载此内容。"</string>
   <string name="appdownloader_wifi_required_title">文件太大，不适于通过运营商网络下载</string>
   <string name="application_name">Browser</string>
-  <string name="aqi_excellent">优</string>
-  <string name="aqi_good">良</string>
-  <string name="aqi_light_pollution">轻度</string>
-  <string name="aqi_moderately_polluted">中度</string>
-  <string name="aqi_severe_pollution">重度</string>
-  <string name="aqi_very_polluted">严重</string>
+  <string name="aqi_excellent">Eccellente</string>
+  <string name="aqi_good">Buono</string>
+  <string name="aqi_light_pollution">Poco Inquinato</string>
+  <string name="aqi_moderately_polluted">Inquinato</string>
+  <string name="aqi_severe_pollution">Molto Inquinato</string>
+  <string name="aqi_very_polluted">Estremamente Inquinato</string>
   <string name="at_miui_browser">\@小米浏览器</string>
   <string name="atlas_next">左滑进入下一图集</string>
   <string name="atlas_recommend">相关推荐</string>
@@ -225,7 +225,7 @@
   <string name="book_mark_search_hint">Cerca contenuto %1$s</string>
   <string name="book_mark_spinner_name">Raggruppamento</string>
   <string name="bookcity_downloadcenter__shared__download_font_immediately">后台下载</string>
-  <string name="bookcity_downloadcenter__shared__download_font_later">以后再说</string>
+  <string name="bookcity_downloadcenter__shared__download_font_later">Più tardi</string>
   <string name="bookcity_downloadcenter__shared__download_font_prompt">多看精品电子书使用多种专业字体排版，为了保证最佳阅读效果，我们免费为您提供正版字库下载，强烈建议您升级字库。（不消耗任何2G/3G流量）</string>
   <string name="bookcity_downloadcenter__shared__download_font_title">WLAN网络自动下载字库</string>
   <string name="bookcity_store__redemption_code__error">使用兑换码出错，错误码: %d</string>
@@ -247,7 +247,7 @@
   <string name="bookcity_store__shared__invalid_order_status">订单状态异常，请联系客服人员</string>
   <string name="bookcity_store__shared__notify_repeat_update">提交支付完成信息失败, 是否重新提交?</string>
   <string name="bookcity_store__shared__payment_ok">订单支付成功！</string>
-  <string name="bookcity_store__shared__reverify_order_cancel">取消</string>
+  <string name="bookcity_store__shared__reverify_order_cancel">Annulla</string>
   <string name="bookcity_store__shared__reverify_order_confirm">重试</string>
   <string name="bookmark">Segnalibro</string>
   <string name="bookmark_cannot_save_url">"L'URL non può essere aggiunto ai segnalibri."</string>
@@ -275,6 +275,7 @@
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Scorri verso il basso per chiudere</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Questa è l\'ultima scheda</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Scorri verso l\'alto per chiudere</string>
+  <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
   <string name="browserFrameFormResubmitLabel"></string>
   <string name="browserFrameFormResubmitMessage">"La pagina che stai tentando di visualizzare contiene dati già inviati (\"POSTDATA\"). Se invii di nuovo i dati, ogni azione effettuata dal modulo nella pagina (come una ricerca o un acquisto online) verrà ripetuta."</string>
   <string name="browser_default_setting_cancel">Annulla</string>
@@ -665,6 +666,8 @@ per supportare il nostro lavoro"</string>
   <string name="exo_track_unknown">Sconosciuto</string>
   <string name="expand_article">Vedi articolo completo</string>
   <string name="expand_button_title">Avanzate</string>
+  <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+  <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
   <string name="fast_app_card_bottom_text" formatted="false">%s  %s</string>
   <string name="favorite">Preferito</string>
   <string name="feedback_not_interested_response">"Vedrai meno elementi di questo tipo"</string>
@@ -678,7 +681,7 @@ per supportare il nostro lavoro"</string>
   <string name="find_on_page_next">Avanti</string>
   <string name="find_on_page_prev">Indietro</string>
   <string name="finish_sync_cloud_tabs">Sincronizzazione completata</string>
-  <string name="fmt_chinese_date">N月e</string>
+  <string name="fmt_chinese_date">dd/MM</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">dd</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -812,7 +815,7 @@ per supportare il nostro lavoro"</string>
   <string name="leto_btn_play_now">马上玩</string>
   <string name="leto_btn_send_sms">获取验证码</string>
   <string name="leto_btn_yes">是</string>
-  <string name="leto_cancel">取消</string>
+  <string name="leto_cancel">Annulla</string>
   <string name="leto_clear_cache_content">清除缓存会使我的收藏、最近使用都消失哦</string>
   <string name="leto_close">Spegni</string>
   <string name="leto_coin">金币</string>
@@ -998,7 +1001,7 @@ per supportare il nostro lavoro"</string>
   <string name="leto_share_install_wechat_first">您还未安装微信客户端</string>
   <string name="leto_share_wechat">微信好友</string>
   <string name="leto_share_wechatmoment">微信朋友圈</string>
-  <string name="leto_title_back">返回</string>
+  <string name="leto_title_back">Indietro</string>
   <string name="leto_title_cancel_favorite">您确定取消收藏吗?</string>
   <string name="leto_title_clear_cache">您确定清除缓存吗</string>
   <string name="leto_title_favorite_latest_play">最近使用</string>
@@ -1264,7 +1267,10 @@ Sei scuro di voler uscire da questa pagina?"</string>
   <string name="mw_save_password_never">Mai</string>
   <string name="mw_save_password_notnow">Non adesso</string>
   <string name="mw_save_password_remember">Memorizza</string>
+  <string name="mw_status_bar_notification_info_overflow">999+</string>
   <string name="mw_time_picker_dialog_am">AM</string>
+  <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+  <string name="mw_time_picker_dialog_minute_second_separator">:</string>
   <string name="mw_time_picker_dialog_pm">PM</string>
   <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="mw_time_picker_dialog_title">Imposta tempo</string>
@@ -1290,6 +1296,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
   <string name="navigate_feedback_dislike_tips">Ridurrà certi suggerimenti video</string>
   <string name="navigate_feedback_input_report_label">Altri motivi</string>
   <string name="navigate_feedback_report">segnala</string>
+  <string name="navigate_feedback_report_input_length">%1$d/100</string>
   <string name="navigate_feedback_report_input_tips">Lascia la tua domanda, risponderemo al più presto</string>
   <string name="navigate_feedback_report_success">Segnalazione completata</string>
   <string name="navigate_feedback_report_title">Motivi della segnalazione</string>
@@ -1343,6 +1350,10 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
   <string name="passport_oauth_sucess_tip">Autorizzato con successo</string>
   <string name="password">Password</string>
   <string name="password_toggle_content_description">Mostra password</string>
+  <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+  <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="pause_download">Pausa</string>
   <string name="paused_queued_for_wifi">In attesa di connessione…</string>
   <string name="paused_unknown">In pausa</string>
@@ -1456,6 +1467,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
   <string name="pref_tab_restore">Ripristina l\'ultima pagina aperta all\'avvio</string>
   <string name="pref_ua_string">Stringa user agent</string>
   <string name="pref_version_info">Info versione</string>
+  <string name="pref_web_translation">翻译弹窗</string>
   <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
   <string name="progress_dialog_setting_wallpaper">Impostazione sfondo…</string>
   <string name="pull_refresh_begin">Trascina in basso per aggiornare</string>
@@ -1688,6 +1700,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
   <string name="ssl_unknown">Errore certificato sconosciuto.</string>
   <string name="ssl_untrusted">"Questo certificato non proviene da un'autorità attendibile."</string>
   <string name="ssl_warnings_header">Problemi con il certificato di sicurezza del sito.</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_close">Chiudi</string>
   <string name="storage_internal">Memoria interna</string>
   <string name="storage_open">Apri</string>
@@ -2117,6 +2130,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
   <string name="suggestion_more_news_start_title_text">Notizie Correlate</string>
   <string name="suggestion_sliding_item_more_text">VEDI ALTRO</string>
   <string name="suggestion_topic_subtitle_hyphen">Focalizzazione</string>
+  <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
   <string name="suggestion_translation_more">PIÙ TRADUZIONI</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sunday">Domenica</string>
@@ -2211,17 +2225,17 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
   <string name="tt_ad">Annuncio</string>
   <string name="tt_ad_logo_txt">广告</string>
   <string name="tt_app_name">tt_open_ad_sdk</string>
-  <string name="tt_auto_play_cancel_text">取消</string>
-  <string name="tt_cancel">取消</string>
+  <string name="tt_auto_play_cancel_text">Annulla</string>
+  <string name="tt_cancel">Annulla</string>
   <string name="tt_comment_num">%1$s个评分</string>
   <string name="tt_comment_num_backup">(%1$s个评论)</string>
   <string name="tt_comment_score">评价</string>
   <string name="tt_confirm_download">正在使用非Wifi网络，确认要进行下载吗？</string>
   <string name="tt_confirm_download_have_app_name">准备下载%s应用</string>
-  <string name="tt_dislike_header_tv_back">返回</string>
+  <string name="tt_dislike_header_tv_back">Indietro</string>
   <string name="tt_dislike_header_tv_title">选择</string>
   <string name="tt_full_screen_skip_tx">5s后可跳过</string>
-  <string name="tt_label_cancel">取消</string>
+  <string name="tt_label_cancel">Annulla</string>
   <string name="tt_label_ok">确定</string>
   <string name="tt_no_network">无网络，请稍后再试</string>
   <string name="tt_permission_denied">您已禁止授权操作，请授权</string>
@@ -2381,7 +2395,7 @@ feedsContentId:
   <string name="vo_info_flow_refresh_empty">Nessun aggiornamento per ora. Controlla gli altri canali!</string>
   <string name="vo_info_flow_refresh_error">"Impossibile collegarsi alla rete. Controlla le impostazioni e riprova."</string>
   <string name="vo_info_flow_refresh_sever_data_error">服务端开小差了，请稍后再试～</string>
-  <string name="vo_info_flow_rs_hint">Ceerca</string>
+  <string name="vo_info_flow_rs_hint">Cerca</string>
   <string name="vo_like_text">Mi piace</string>
   <string name="vo_location_change_cancel">Non adesso</string>
   <string name="vo_location_change_content">Sembra che la tua posizione sia cambiata. Passare alla città attuale?</string>
@@ -2428,6 +2442,7 @@ feedsContentId:
   <string name="web_translation_failed_toast">翻译出错，请重试</string>
   <string name="web_translation_non_en_toast">请在英文网页上使用此功能</string>
   <string name="web_translation_pop_text">可在工具箱中使用网页翻译</string>
+  <string name="web_translation_tip">可在高级设置中关闭翻译弹窗</string>
   <string name="webpage_title">Segnalibri e cronologia</string>
   <string name="wechat_not_installed">Wechat non installato</string>
   <string name="wednesday">Mercoledì</string>
