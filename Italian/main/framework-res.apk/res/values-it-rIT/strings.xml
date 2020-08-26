@@ -452,15 +452,12 @@ Vuoi chiuderlo?"</string>
   <string name="common_name_suffixes"></string>
   <string name="condition_provider_service_binding_label">Provider condizioni</string>
   <string name="conference_call">Conferenza telefonica</string>
-  <string name="config_UsbDeviceConnectionHandling_component">\@null</string>
-  <string name="config_activityRecognitionHardwarePackageName">\@null</string>
   <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
   <string name="config_appsNotReportingCrashes"></string>
   <string name="config_bandwidthEstimateSource">carrier_config</string>
   <string name="config_batterySaverDeviceSpecificConfig"></string>
   <string name="config_batterySaverScheduleProvider"></string>
   <string name="config_batterymeterBoltPath">M5,17.5 V12 H3 L7,4.5 V10 h2 L5,17.5 z</string>
-  <string name="config_batterymeterErrorPerimeterPath">@string/config_batterymeterPerimeterPath</string>
   <string name="config_batterymeterFillMask">M2,18 v-14 h8 v14 z</string>
   <string name="config_batterymeterPerimeterPath">M3.5,2 v0 H1.33 C0.6,2 0,2.6 0,3.33 V13v5.67 C0,19.4 0.6,20 1.33,20 h9.33 C11.4,20 12,19.4 12,18.67 V13V3.33 C12,2.6 11.4,2 10.67,2 H8.5 V0 H3.5 z M2,18v-7V4h8v9v5H2L2,18z</string>
   <string name="config_batterymeterPowersavePath">M9,10l-2,0l0,-2l-2,0l0,2l-2,0l0,2l2,0l0,2l2,0l0,-2l2,0z</string>
@@ -494,7 +491,6 @@ Vuoi chiuderlo?"</string>
   <string name="config_defaultAttentionService"></string>
   <string name="config_defaultAugmentedAutofillService"></string>
   <string name="config_defaultAutofillService">com.miui.contentcatcher/.autofill.services.MiuiAutofillService</string>
-  <string name="config_defaultBrowser">@string/default_browser</string>
   <string name="config_defaultBugReportHandlerApp"></string>
   <string name="config_defaultCallRedirection"></string>
   <string name="config_defaultCallScreening"></string>
@@ -508,7 +504,6 @@ Vuoi chiuderlo?"</string>
   <string name="config_defaultNetworkRecommendationProviderPackage"></string>
   <string name="config_defaultNetworkScorerPackageName"></string>
   <string name="config_defaultPictureInPictureScreenEdgeInsets">16x16</string>
-  <string name="config_defaultSms">@string/default_sms_application</string>
   <string name="config_defaultSupervisionProfileOwnerComponent"></string>
   <string name="config_defaultSystemCaptionsManagerService"></string>
   <string name="config_defaultSystemCaptionsService"></string>
@@ -539,16 +534,12 @@ Vuoi chiuderlo?"</string>
   <string name="config_foldedArea"></string>
   <string name="config_forceVoiceInteractionServicePackage"></string>
   <string name="config_fusedLocationProviderPackageName">com.xiaomi.location.fused</string>
-  <string name="config_geocoderProviderPackageName">com.xiaomi.metoknlp</string>
-  <string name="config_geofenceProviderPackageName">\@null</string>
   <string name="config_headlineFontFamily"></string>
-  <string name="config_headlineFontFamilyMedium">@string/font_family_button_material</string>
   <string name="config_headlineFontFeatureSettings"></string>
   <string name="config_helpIntentExtraKey"></string>
   <string name="config_helpIntentNameKey"></string>
   <string name="config_helpPackageNameKey"></string>
   <string name="config_helpPackageNameValue"></string>
-  <string name="config_iccHotswapPromptForRestartDialogComponent">\@null</string>
   <string name="config_icon_mask">M96.4286 62.2772C96.4286 72.1118 96.4286 77.029 94.7547 82.3225C92.6512 88.1016 88.0988 92.654 82.3196 94.7576C77.6553 96.2326 73.278 96.4076 65.575 96.4284H50H34.425C26.722 96.4076 22.3446 96.2326 17.6803 94.7576C11.9012 92.654 7.34879 88.1016 5.24522 82.3225C3.57141 77.029 3.57141 72.1118 3.57141 62.2772V49.9999V37.7225C3.57141 27.888 3.57141 22.9707 5.24522 17.6772C7.34879 11.8981 11.9012 7.34569 17.6803 5.24212C22.3446 3.76712 26.722 3.59212 34.425 3.57129H50H65.575C73.278 3.59212 77.6553 3.76712 82.3196 5.24212C88.0988 7.34569 92.6512 11.8981 94.7547 17.6772C96.4286 22.9707 96.4286 27.888 96.4286 37.7225V49.9999V62.2772Z</string>
   <string name="config_inCallNotificationSound">/product/media/audio/ui/InCallNotification.ogg</string>
   <string name="config_incidentReportApproverPackage">com.android.permissioncontroller</string>
@@ -556,7 +547,6 @@ Vuoi chiuderlo?"</string>
   <string name="config_isoImagePath"></string>
   <string name="config_keyguardComponent">com.android.systemui/com.android.systemui.keyguard.KeyguardService</string>
   <string name="config_mainBuiltInDisplayCutout"></string>
-  <string name="config_mainBuiltInDisplayCutoutRectApproximation">@string/config_mainBuiltInDisplayCutout</string>
   <string name="config_managed_provisioning_package">com.android.managedprovisioning</string>
   <string name="config_mediaProjectionPermissionDialogComponent">com.android.systemui/com.android.systemui.media.MediaProjectionPermissionActivity</string>
   <string name="config_misprovisionedBrandValue"></string>
@@ -566,7 +556,6 @@ Vuoi chiuderlo?"</string>
   <string name="config_mobile_hotspot_provision_app_no_ui"></string>
   <string name="config_mobile_hotspot_provision_response"></string>
   <string name="config_networkCaptivePortalServerUrl"></string>
-  <string name="config_networkLocationProviderPackageName">com.xiaomi.metoknlp</string>
   <string name="config_networkLocationProviderPackageNameGms">com.google.android.gms</string>
   <string name="config_networkOverLimitComponent">com.android.systemui/com.android.systemui.net.NetworkOverLimitActivity</string>
   <string name="config_networkPolicyNotificationComponent"></string>
@@ -680,9 +669,6 @@ utilizzando %s"</string>
   <string name="date_time_set">Imposta</string>
   <string name="day">giorno</string>
   <string name="days">giorni</string>
-  <string name="db_default_journal_mode">PERSIST</string>
-  <string name="db_default_sync_mode">NORMAL</string>
-  <string name="db_wal_sync_mode">NORMAL</string>
   <string name="decline">Rifiuto</string>
   <string name="decline_remote_bugreport_action">RIFIUTO</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
@@ -696,7 +682,6 @@ utilizzando %s"</string>
   <string name="default_browser"></string>
   <string name="default_notification_channel_label">Non categorizzato</string>
   <string name="default_sms_application">com.android.mms</string>
-  <string name="default_wallpaper_component">\@null</string>
   <string name="delete">Elimina</string>
   <string name="deleteText">Elimina</string>
   <string name="deleted_key">%1$s eliminato</string>
@@ -851,7 +836,6 @@ utilizzando %s"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Codice funzione completo.</string>
   <string name="fcError">Problema di connessione o codice funzione non valido.</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="find">Trova</string>
   <string name="find_next">Trova successivo</string>
   <string name="find_on_page">Trova nella pagina</string>
@@ -1077,7 +1061,6 @@ Visita \"<b>google.com/accounts/recovery</b>.</string>
   <string name="kg_reordering_delete_drop_target_text">Rimuovi</string>
   <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
   <string name="kg_sim_unlock_progress_dialog_message">Sblocco scheda SIM…</string>
-  <string name="kg_text_message_separator">" — "</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message">"Hai digitato la tua password %1$d volte in modo errato. 
 
 Riprova tra %2$d secondi."</string>
@@ -1344,7 +1327,6 @@ Riprova tra %2$d secondi."</string>
   <string name="needPuk2">Digita il PUK2 per sbloccare la SIM.</string>
   <string name="negative_duration">−%1$s</string>
   <string name="network_available_sign_in">Accedi alla rete</string>
-  <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="network_logging_notification_text">La tua organizzazione gestisce questo dispositivo e potrebbe monitorare il traffico di rete. Tocca per dettagli.</string>
   <string name="network_logging_notification_title">Il dispositivo è gestito</string>
   <string name="network_partial_connectivity">%1$s ha connettività limitata</string>
@@ -1408,7 +1390,6 @@ Riprova tra %2$d secondi."</string>
   <string name="notification_history_title_placeholder">Custom app notification</string>
   <string name="notification_inbox_ellipsis">…</string>
   <string name="notification_listener_binding_label">Listener di notifica</string>
-  <string name="notification_messaging_title_template">%1$s: %2$s</string>
   <string name="notification_ranker_binding_label">Servizio di notifiche classificate</string>
   <string name="notification_reply_button_accessibility">Rispondi</string>
   <string name="notification_title">Errore di accesso per %1$s</string>
@@ -1990,40 +1971,13 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
   <string name="ssl_certificate">Certificato di sicurezza</string>
   <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
   <string name="status_bar_airplane">aereo</string>
-  <string name="status_bar_alarm_clock">alarm_clock</string>
-  <string name="status_bar_battery">battery</string>
-  <string name="status_bar_bluetooth">bluetooth</string>
   <string name="status_bar_camera">camera</string>
-  <string name="status_bar_cast">cast</string>
-  <string name="status_bar_cdma_eri">cdma_eri</string>
-  <string name="status_bar_clock">clock</string>
-  <string name="status_bar_data_connection">data_connection</string>
-  <string name="status_bar_data_saver">data_saver</string>
   <string name="status_bar_ethernet">ethernet</string>
-  <string name="status_bar_headset">headset</string>
-  <string name="status_bar_hotspot">hotspot</string>
-  <string name="status_bar_ime">ime</string>
-  <string name="status_bar_location">location</string>
-  <string name="status_bar_managed_profile">managed_profile</string>
   <string name="status_bar_microphone">microphone</string>
   <string name="status_bar_mobile">mobile</string>
-  <string name="status_bar_mute">mute</string>
-  <string name="status_bar_nfc">nfc</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="status_bar_phone_evdo_signal">phone_evdo_signal</string>
-  <string name="status_bar_phone_signal">phone_signal</string>
-  <string name="status_bar_rotate">rotate</string>
   <string name="status_bar_screen_record">screen_record</string>
-  <string name="status_bar_secure">secure</string>
   <string name="status_bar_sensors_off">sensors_off</string>
-  <string name="status_bar_speakerphone">speakerphone</string>
-  <string name="status_bar_sync_active">sync_active</string>
-  <string name="status_bar_sync_failing">sync_failing</string>
-  <string name="status_bar_tty">tty</string>
-  <string name="status_bar_volume">volume</string>
   <string name="status_bar_vpn">vpn</string>
-  <string name="status_bar_wifi">wifi</string>
-  <string name="status_bar_zen">zen</string>
   <string name="status_communication_speaker_summary">Una chiamata in vivavoce è in corso. L\'audio continuerà ad essere riprodotto attraverso l\'altoparlante quando le cuffie sono collegate.</string>
   <string name="status_communication_summary">Una chiamata è in corso. È possibile regolare solo il volume delle chiamate.</string>
   <string name="stk_cc_ss_to_dial">La richiesta SS è stata modificata in richiesta DIAL.</string>
@@ -2050,7 +2004,6 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
   <string name="sync_undo_deletes">Annulla le eliminazioni</string>
   <string name="system_error_manufacturer">"Si è verificato un problema interno con il dispositivo. Per informazioni dettagliate, contatta il produttore."</string>
   <string name="system_error_wipe_data">"Si è verificato un problema interno con il dispositivo, che potrebbe essere instabile fino al ripristino dei dati di fabbrica."</string>
-  <string name="system_ui_date_pattern">@string/icu_abbrev_wday_month_day_no_year</string>
   <string name="taking_remote_bugreport_notification_title">Esecuzione bug report…</string>
   <string name="terabyteShort">TB</string>
   <string name="test_harness_mode_notification_message">Eseguire un reset di fabbrica per disabilitare la modalità di prova.</string>
@@ -2245,7 +2198,6 @@ Vuoi chiuderla?"</string>
   <string name="zen_mode_feature_name">Non disturbare</string>
   <string name="zen_mode_forever">Fino alla disattivazione</string>
   <string name="zen_mode_forever_dnd">Fino alla disattivazione di Non disturbare</string>
-  <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Fino alle ore %1$s</string>
   <string name="zen_upgrade_notification_content">"Tocca per verificare cosa è bloccato."</string>
   <string name="zen_upgrade_notification_title">La modalità Non Disturbare è stata modificata</string>

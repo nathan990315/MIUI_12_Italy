@@ -199,8 +199,6 @@ Nota: I dati delle applicazioni installate non verranno salvati su Xiaomi Cloud.
   <string name="open_backup_switch">Attiva lo switch backup</string>
   <string name="other_device_main_space">Primo spazio</string>
   <string name="other_device_second_space">Secondo spazio</string>
-  <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-  <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
   <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
   <string name="process_whole_recovery">Ripristino di \"%s\"</string>
   <string name="provision_background_restore_more_data">Ripristina altri elementi in background</string>
@@ -280,5 +278,4 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
   <string name="v7_preference_off">Disattivato</string>
   <string name="v7_preference_on">Attivato</string>
   <string name="wait_icon_download">Download icona applicazione</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

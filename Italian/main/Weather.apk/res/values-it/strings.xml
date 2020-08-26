@@ -168,12 +168,9 @@
   <string name="daily_forecast_add_city_message">Segui il meteo in %1$s per una previsione più dettagliata.</string>
   <string name="daily_forecast_add_city_title">Segui in metro in %1$s</string>
   <string name="daily_forecast_detail_date">d/M</string>
-  <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
   <string name="daily_forecast_no_data">"Impossibile recuperare i dati
 trascina verso il basso per aggiornare o verifica le impostazioni di rete"</string>
   <string name="data_provided_by">Fornito in parte da</string>
-  <string name="data_source_time_fromat">"dd/MM/yyyy'T'HH:mm:ssz"</string>
-  <string name="data_source_timezone">GMT%1$s</string>
   <string name="default_web_client_id">555345638765-9lct5s57ied6eqd72cf7drf6baqta1o6.apps.googleusercontent.com</string>
   <string name="dialog_msg_score_midrop">Che ne pensi di Meteo?</string>
   <string name="dialog_msg_score_not_good">Potresti darci anche il tuo feedback?</string>
@@ -181,7 +178,6 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
   <string name="dialog_title_score">Valuta Meteo</string>
   <string name="dislike_alert_dialog_title">Perché non vuoi vedere questo contenuto?</string>
   <string name="edit_city">Modifica</string>
-  <string name="empty">" "</string>
   <string name="empty_view_net_loading">Aggiornamento…</string>
   <string name="empty_view_net_unavailable">"Impossibile collegarsi alla rete"</string>
   <string name="empty_view_refresh">Prova di nuovo</string>
@@ -243,8 +239,6 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
   <string name="google_storage_bucket">globalmiuiweather.appspot.com</string>
   <string name="hour_minute_time_format">H:mm</string>
   <string name="hourly_forcast_now">Adesso</string>
-  <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
-  <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
   <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title_24_hours_desc">Previsioni per 24 ore</string>
   <string name="hourly_forecast_title_hourly_desc">Previsioni orarie</string>
@@ -258,7 +252,6 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
   <string name="index_item_installing">Installazione</string>
   <string name="index_item_installing2">Installazione</string>
   <string name="indices_desc_humidity">Umidità %1$s%%</string>
-  <string name="indices_desc_humidity_without_pic">%1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
   <string name="indices_title_chance_of_rain">Possibilità di pioggia</string>
   <string name="indices_title_feel">PERCEPITA</string>
@@ -266,19 +259,14 @@ trascina verso il basso per aggiornare o verifica le impostazioni di rete"</stri
   <string name="indices_title_wind_speed">Velocità del vento</string>
   <string name="information_settings_title">Informazioni meteo</string>
   <string name="install">Installa</string>
-  <string name="install_progress">%1$s%%</string>
   <string name="international_details_chance_of_rain">POSSIBILITÀ DI PIOGGIA</string>
   <string name="international_details_humidity">UMIDITÀ</string>
-  <string name="international_details_no_data">@string/item_city_list_temperature_no_data</string>
   <string name="international_details_pressure_title">PRESSIONE</string>
   <string name="international_details_real_feel_title">REAL FEEL®</string>
   <string name="international_details_title">Dettagli</string>
   <string name="international_details_uv_index_title">INDICE UV</string>
-  <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">VENTO</string>
   <string name="it_is_going_to_rain">"Sta iniziando a piovere"</string>
-  <string name="item_city_list_region_no_data">-- / --</string>
-  <string name="item_city_list_temperature_no_data">--</string>
   <string name="life_index_title">Indice meteo</string>
   <string name="locate_fail_detail_err">"Impossibile localizzare il dispositivo
 Tocca lo schermo per aggiungere manualmente o riprovare"</string>
@@ -413,7 +401,6 @@ Tocca lo schermo per aggiungere manualmente o riprovare"</string>
   <string name="share_menu_title">Condividi</string>
   <string name="share_subject">Condividi</string>
   <string name="share_weather_desc">\#MIUI Meteo#Oggi %1$s %2$s</string>
-  <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">"Impossibile salvare lo screenshot"</string>
   <string name="shortcut_short_label_24_hour_forecast">previsine a 24 ore</string>

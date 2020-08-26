@@ -95,8 +95,6 @@
   <string name="feedback_custom_hint">"Descrivi qui i problemi che hai riscontrato. Se fornisci dei suggerimenti, cercheremo di applicarli!"</string>
   <string name="find_device">Trova dispositivo abilitato</string>
   <string name="find_device_dspt_provision">Nel caso dovessi smarrire il tuo dispositivo, dirigiti su %s per localizzarlo, bloccarlo, o resettarlo. Puoi abilitare o disabilitare questa funzionalità quando vuoi dalle Impostazioni.</string>
-  <string name="find_device_dspt_provision_2">i.mi.com</string>
-  <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_error_network">Verifica la connessione dati e riprova.</string>
   <string name="find_device_error_server">Qualcosa non ha funzionato sul nostro server.</string>
   <string name="find_device_gdpr_prompt">Attivando Trova Dispositivo, accetti \"Informativa sulla Privacy\". Se devi revocare la tua autorizzazione per la privacy, disattiva questa funzione.</string>
@@ -119,10 +117,6 @@
   <string name="ks_download_success">Scaricato correttamente</string>
   <string name="ks_fingerprint_payment">Pagamenti con impronta</string>
   <string name="ks_fingerprint_status">Stato pagamenti</string>
-  <string name="ks_key_download_button">ks_key_download_button</string>
-  <string name="ks_key_status">ks_key_status</string>
-  <string name="ks_key_udpate_time">ks_key_udpate_time</string>
-  <string name="ks_key_version">ks_key_version</string>
   <string name="ks_name_alipay">Alipay</string>
   <string name="ks_name_fido">FIDO</string>
   <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
@@ -250,14 +244,11 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
   <string name="micloud_find_device_open_fail">"Impossibile attivare Trova Dispositivo"</string>
   <string name="micloud_find_device_opened">Trova Dispositivo attivato</string>
   <string name="micloud_find_device_opened_content">Trova Dispositivo a %s</string>
-  <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_sms_alert">Potrebbe essere richiesto un messaggio SMS in uscita per attivare questo servizio. Il tuo operatore ti addebiterà il costo di questo messaggio. Quando sostituirai la scheda SIM, è possibile che venga inviato automaticamente un messaggio per riattivare questa funzionalità.</string>
   <string name="micloud_find_device_verify_button">Riattiva Trova dispositivo</string>
   <string name="micloud_find_device_verify_close">Disattiva Trova dispositivo</string>
   <string name="micloud_find_device_verify_fail">"Impossibile riattivare Trova dispositivo"</string>
   <string name="micloud_find_device_verify_progress">Riattivazione Trova dispositivo…</string>
-  <string name="micloud_footer_international_url">mi.com/micloud</string>
-  <string name="micloud_footer_normal_url">i.mi.com</string>
   <string name="micloud_last_sync_canceled">La sincronizzazione è stata annullata. Riprova.</string>
   <string name="micloud_main_head_menu_cloud_backup">Backup cloud</string>
   <string name="micloud_main_head_menu_cloud_backup_summary">Layout schermata home, app e impostazioni di sistema</string>
@@ -526,8 +517,6 @@ Location info might not be reported when network connection is poor."</string>
   <string name="sync_dspt_entrance_provision_network_china">Quest\'app deve connettersi a internet per funzionare normalmente. La sincronizzazione dei dati potrebbe richiedere la connessione dati mobile e l\'attivazione del Wi-Fi.</string>
   <string name="sync_dspt_entrance_provision_skip"><u>Salta questo passaggio</u></string>
   <string name="sync_dspt_provision">"Sincronizza le foto, i contatti, le note e molto altro su tutti i tuoi dispositivi o accedi da "</string>
-  <string name="sync_dspt_provision2">i.mi.com</string>
-  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Puoi disattivare questa funzione in qualsiasi momento nelle Impostazioni."</string>
   <string name="sync_item_calllog_summary">Sincronizza le chiamate effettuate e ricevute su questo dispositivo</string>
   <string name="sync_item_calllog_title">Sincronizza registro chiamate</string>
