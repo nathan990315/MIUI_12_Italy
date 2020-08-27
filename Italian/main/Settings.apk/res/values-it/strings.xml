@@ -3968,7 +3968,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
   <string name="lockpassword_choose_your_pin_header_second_space">"Imposta PIN 
  per il Secondo Spazio"</string>
   <string name="lockpassword_choose_your_pin_message">Per sicurezza, imposta un PIN</string>
-  <string name="lockpassword_choose_your_pin_title">Immetti %d-%d numeri</string>
+  <string name="lockpassword_choose_your_pin_title" formatted="false">Immetti %d-%d numeri</string>
   <string name="lockpassword_choose_your_screen_lock_header">Imposta schermata di blocco</string>
   <string name="lockpassword_clear_label">Pulisci</string>
   <string name="lockpassword_confirm_for_second_user">Conferma la password per il Secondo Spazio</string>
@@ -7422,7 +7422,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
   <string name="unlock_set_unlock_password_title">Password</string>
   <string name="unlock_set_unlock_pattern_summary">Sicurezza media</string>
   <string name="unlock_set_unlock_pattern_title">Sequenza</string>
-  <string name="unlock_set_unlock_pin_summary">Immetti %d-%d numeri per sbloccare il dispositivo</string>
+  <string name="unlock_set_unlock_pin_summary" formatted="false">Immetti %d-%d numeri per sbloccare il dispositivo</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Imposta un blocco schermo</string>
   <string name="unlock_setup_wizard_fingerprint_details">Una volta impostato il blocco dello schermo, è possibile impostare anche la propria impronta digitale in Impostazioni &gt; Schermata di blocco e password.</string>
@@ -7468,16 +7468,12 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
   <string name="usage_state_app_usage_detail_title">Dettagli utilizzo app</string>
   <string name="usage_state_app_usage_list_title">"Schermo attivo oggi per le app"</string>
   <string name="usage_state_app_usage_list_week_title">"Schermo attivo per le app (ultimi 7 giorni)"</string>
-  <string name="usage_state_app_usage_tip_title">Schermo attivo tra le %d:00 e le %d:00</string>
   <string name="usage_state_app_use_time">Schermo attivo app</string>
   <string name="usage_state_channel_mouth">Ultimi 30 giorni</string>
   <string name="usage_state_channel_week">Ultimi 7 giorni</string>
   <string name="usage_state_date">d MMM</string>
-  <string name="usage_state_device_noti_today_tip_title">Notifiche tra le %d:00 e le %d:00</string>
-  <string name="usage_state_device_unlock_today_tip_title">Dispositivo sbloccato tra le %d:00 e le %d:00</string>
   <string name="usage_state_friday">Ven</string>
   <string name="usage_state_go_more">Altre app</string>
-  <string name="usage_state_hour_minute">%do %dm</string>
   <string name="usage_state_less_one_minute">Meno di 1 minuto</string>
   <string name="usage_state_monday">Lun</string>
   <string name="usage_state_mourth_day">Ora schermo %s</string>
@@ -7499,11 +7495,8 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
   <string name="usage_state_usage_time_remind">Avviso schermo attivo</string>
   <string name="usage_state_use_time_remind_title">Avviso schermo attivo</string>
   <string name="usage_state_wednesday">Mer</string>
-  <string name="usage_state_week_day_hour_minute">Weekend: %dh %dm</string>
   <string name="usage_state_week_total_text">Schermo attivo (ultimi 7 giorni)</string>
-  <string name="usage_state_which_mouth">MMM</string>
   <string name="usage_state_work_day">Infrasettimanale</string>
-  <string name="usage_state_work_day_hour_minute">Infrasettimanale: %dh %dm</string>
   <string name="usage_stats_label">Statistiche di utilizzo</string>
   <string name="usage_stats_normal_day">Infraasettimanale</string>
   <string name="usage_stats_week_day">Weekend</string>
@@ -7541,9 +7534,9 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
   <string name="usagestats_app_category_miui_video_etc">Musica e video</string>
   <string name="usagestats_device_notification_des">Limite schermo attivo per oggi: %s</string>
   <string name="usagestats_device_notification_des_over">"Hai raggiunto il tuo limite di schermo attivo per oggi."</string>
-  <string name="usagestats_device_notification_des_reset">"Limite schermo attivo per oggi: %s | %s rimanente"</string>
+  <string name="usagestats_device_notification_des_reset">"Limite schermo attivo per oggi: %1$s | %2$s rimanente"</string>
   <string name="usagestats_device_notification_title">Avviso schermo attivo</string>
-  <string name="usagestats_device_timeout_des">"Oggi hai usato il dispositivo per %dh %dm. Riposa un po'!"</string>
+  <string name="usagestats_device_timeout_des">"Oggi hai usato il dispositivo per %1$dh %2$dm. Riposa un po'!"</string>
   <string name="usagestats_device_timeout_negative">Ricordamelo tra 1 ora</string>
   <string name="usagestats_device_timeout_positive">Ho capito</string>
   <string name="usagestats_device_timeout_title">Avviso schermo attivo</string>
@@ -8361,7 +8354,6 @@ L'impostazione della rete come nascosta non cambierà le impostazioni del router
   <string name="wifi_password">Password</string>
   <string name="wifi_poor_network_detection">Evita connessioni deboli</string>
   <string name="wifi_poor_network_detection_summary">"Non utilizzare una rete Wi-Fi a meno che non abbia una buona connessione a Internet"</string>
-  <string name="wifi_priority_changed">Valore vecchia priorità = %s, nuova priorità = %s</string>
   <string name="wifi_priority_label">Priorità</string>
   <string name="wifi_priority_settings_label">Impostazioni priorità</string>
   <string name="wifi_priority_settings_summary">Tocca per impostare la priorità di ciascun punto d\'accesso</string>
