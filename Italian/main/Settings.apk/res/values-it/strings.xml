@@ -4689,7 +4689,7 @@ ed esegui il software.</string>
   <string name="nfc_repair_btn_reboot_later">Più tardi</string>
   <string name="nfc_repair_btn_retry">Riprova</string>
   <string name="nfc_repair_btn_yes">Sì</string>
-  <string name="nfc_repair_confirm_desc">"Hai riscontrato uno di questi problemi?
+  <string name="nfc_repair_confirm_desc" formatted="false">"Hai riscontrato uno di questi problemi?
 %d. Non è possibile aggiungere o ricaricare una scheda NFC.
 %d. La tua carta NFC non ha funzionato.
 %d. Altre funzioni NFC non funzionano."</string>
