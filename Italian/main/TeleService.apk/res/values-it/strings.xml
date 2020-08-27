@@ -1293,8 +1293,8 @@ Le chiamate di emergenza sono possibili solo in aree con copertura cellulare.\"<
   <string name="messageCFNRc">Numero a cui inoltrare se non raggiungibile</string>
   <string name="messageCFNRy">Numero a cui inoltrare se non rispondi</string>
   <string name="messageCFU">Usa sempre questo numero</string>
-  <string name="messageCFU_kr">Un servizio di rete che trasferisce tutte le chiamate in arrivo e i messaggi di testo verso un numero specificato. Devi iscriverti a questo servizio. Ti verrà addebitato un canone mensile. Contatta il centro clienti (114+[Send]) per iscriverti o annullare l\'iscrizione a questo servizio. Inserisci %s+[numero a cui inoltrare le chiamate][Send] per abilitare, o %s[Send] per disabilitare.</string>
-  <string name="messageCW_kr">Un servizio di rete gratuito che consente di rispondere a una seconda chiamata durante una chiamata, mettendo la prima chiamata in attesa. Inserisci %s[Send] per abilitare, o %s[Send] per disabilitare.</string>
+  <string name="messageCFU_kr" formatted="false">Un servizio di rete che trasferisce tutte le chiamate in arrivo e i messaggi di testo verso un numero specificato. Devi iscriverti a questo servizio. Ti verrà addebitato un canone mensile. Contatta il centro clienti (114+[Send]) per iscriverti o annullare l\'iscrizione a questo servizio. Inserisci %s+[numero a cui inoltrare le chiamate][Send] per abilitare, o %s[Send] per disabilitare.</string>
+  <string name="messageCW_kr" formatted="false">Un servizio di rete gratuito che consente di rispondere a una seconda chiamata durante una chiamata, mettendo la prima chiamata in attesa. Inserisci %s[Send] per abilitare, o %s[Send] per disabilitare.</string>
   <string name="messageCallBarring">Inserisci password</string>
   <string name="message_decode_error">Si è verificato un errore durante la decodificazione del messaggio.</string>
   <string name="mhh_disable">Medicina, Salute, Ospedali disattivate</string>
