@@ -41,6 +41,22 @@
   <string name="accessibility_year_item_selected">Mese selezionato: %d. Tocca per aprire la vista mensile.</string>
   <string name="accessibility_year_page_selected">Vista anno per %d. Scorri a sinistra o a destra per cambiare gli anni, tocca per selezionare i mesi.</string>
   <string name="account_and_calendar">Account e calendario</string>
+  <string name="account_import_calendar">Importa calendario</string>
+  <string name="account_manager_delete">Elimina Account</string>
+  <string name="account_manager_delete_calendar_tips">Eliminare il calendario associato a questo account ora?</string>
+  <string name="account_manager_delete_dialog">Eliminare questo account ora?</string>
+  <string name="account_manager_delete_events">Elimina eventi</string>
+  <string name="account_manager_install_email">Installa client email</string>
+  <string name="account_manager_install_email_tips">Il client email di sistema è stato disinstallato. Dopo aver reinstallato il client email, è possibile ripristinare l'account del calendario correlato o aggiungere un nuovo account</string>
+  <string name="account_manager_install_immediately">Installa ora</string>
+  <string name="account_manager_installing">Installazione attendere...</string>
+  <string name="account_manager_not_display">Non mostrare</string>
+  <string name="account_manager_settings_sync">Imposta la frequenza di sincronizzazione</string>
+  <string name="account_manager_settings_sync_immediately">Sincronizza ora</string>
+  <string name="account_manager_tips">Impossibile eliminare l\'account, perfavore vai all\'account per aggungere un applicazione da eliminare.</string>
+  <string name="account_name_calendar">Calendario</string>
+  <string name="account_not_exist">L\'account non esiste</string>
+  <string name="account_read_only">L\'evento è di sola lettura in questo account</string> 
   <string name="action_bar_cancel">Annulla</string>
   <string name="action_bar_confirm">OK</string>
   <string name="action_bar_return">Invio</string>
@@ -58,8 +74,9 @@
   <string name="ad_card_open_app">马上打开</string>
   <string name="ad_card_paused">继续下载</string>
   <string name="ad_card_spread">广告</string>
-  <string name="ad_card_try">立即体验</string>
+  <string name="ad_card_try">立即体验</string> 
   <string name="add_anniversary">Aggiungi anniversario</string>
+  <string name="add_caldav_account">Aggiungi account caldav</string>  
   <string name="add_countdown">Aggiungi conto alla rovescia</string>
   <string name="add_event">Aggiungi evento</string>
   <string name="address">Indirizzo</string>
@@ -82,6 +99,7 @@
   <string name="anti_aggression_day">反侵略日</string>
   <string name="anti_aggression_day_tradition">反侵略日</string>
   <string name="app_label">Calendario</string>
+  <string name="app_name">Calendario</string>  
   <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
   <string name="arbor_day">Giornata degli alberi</string>
   <string name="arbor_day_tradition">植樹節</string>
@@ -115,6 +133,8 @@
   <string name="book_card_free">免费</string>
   <string name="book_card_rating_text">%1$s 条评论</string>
   <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+  <string name="calendar_account_settings">Impostazioni account</string> 
+  <string name="calendar_import_source">Origine percorso</string>   
   <string name="can_not_create_long_event">Contenuto troppo lungo</string>
   <string name="can_not_modify_allday_event">"Gli eventi che durano tutto il giorno non possono essere modificati"</string>
   <string name="can_not_modify_event">"Impossibile modificare"</string>
@@ -129,6 +149,8 @@
   <string name="card_detail_hint">Il contenuto verrà mostrato nella home ed aggiornato giornalmente dopo l\'iscrizione</string>
   <string name="card_detail_title">Dettagli</string>
   <string name="card_title_change">Altro</string>
+  <string name="certificate_notification_connection_security">Sicurezza della connessione</string>
+  <string name="certificate_notification_user_interaction">Si prega di rivedere il certificato</string>  
   <string name="change_response_title">Cambia risultato</string>
   <string name="character_counter_content_description">Caratteri inseriti %1$d di %2$d</string>
   <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
@@ -282,6 +304,7 @@
   <string name="di_zhi">地支</string>
   <string name="directory_searching_fmt">Ricerca %s…</string>
   <string name="discard_label">Annulla</string>
+  <string name="display_to_calendar">Mostra nel calendario</string>  
   <string name="does_not_repeat">Evento singolo</string>
   <string name="double_seventh_day">Tanabata</string>
   <string name="double_seventh_day_tradition">Tanabata</string>
@@ -365,6 +388,7 @@
   <string name="event_created_text">已创建赛事提醒</string>
   <string name="event_delete">Elimina evento</string>
   <string name="event_edit">Modifica evento</string>
+  <string name="event_import">Importa evento</string> 
   <string name="event_info_descrip">Descrizione</string>
   <string name="event_info_end">Fine</string>
   <string name="event_info_jump_to_email">Vai all\'email</string>
