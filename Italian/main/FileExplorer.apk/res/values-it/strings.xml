@@ -151,6 +151,7 @@
   <string name="enable_usb">Collega dispositivo USB</string>
   <string name="encrypt_error">"Impossibile nascondere, riprova"</string>
   <string name="encrypt_prefix">NASCOSTO</string>
+  <string name="encrypt_setting">Crittografia</string>
   <string name="encrypt_success">Tutti i file adesso sono nascosti</string>
   <string name="encrypt_success_first_five">"\"Crittografato correttamente. Tira in basso nella pagina principale di File Explorer per vedere i file."</string>
   <string name="encrypting">Crittografia…</string>
@@ -292,6 +293,7 @@
   <string name="no_wifi">Nessuna rete Wi-Fi</string>
   <string name="not_set">Non impostato</string>
   <string name="not_support_documentui">"DocumentUI non è supportato su questo dispositivo"</string>
+  <string name="not_use">Non ora</string>
   <string name="notif_server_starting">Avviato server FTP</string>
   <string name="notif_title">Server FTP in esecuzione</string>
   <string name="online_not_support">"In questo momento non è possibile vedere il file."</string>
@@ -309,6 +311,8 @@
   <string name="operation_delete_confirm_message">Confermare l\'eliminazione?</string>
   <string name="operation_delete_confirm_message_folder">"Il contenuto della cartella verrà eliminato. "</string>
   <string name="operation_deleting">Eliminazione…</string>
+  <string name="operation_encrypt_summary">Crittografare i file nella cartella privata. La decrittografia di file di grandi dimensioni potrebbe richiedere più tempo del previsto.</string>
+  <string name="operation_encrypt_title">Crittografare i file privati</string>
   <string name="operation_favorite">Aggiungi ai Preferiti</string>
   <string name="operation_hide_sys">"Nascondi file di sistema e cache"</string>
   <string name="operation_info">Informazioni</string>
@@ -362,7 +366,10 @@
   <string name="private_files">Nascosti</string>
   <string name="private_folder">Cartella nascosta</string>
   <string name="private_folder_no_file_hints">Tieni premuto sul file o la cartella per nasconderli.</string>
-  <string name="private_folder_update">Aggiornamento cartelle nascoste</string>
+  <string name="private_folder_update">Aggiornamento files nascosti...</string>
+  <string name="private_folder_update_msg">File Manager sta introducendo una nuova misura di sicurezza aggiuntiva: da ora è possibile crittografare i file privati.</string>
+  <string name="private_folder_update_msg_summary">La decrittografia renderà più lenta la rimozione dei file dalla cartella privata. È possibile attivare e disattivare la crittografia nelle impostazioni.</string>
+  <string name="private_folder_update_tips">Nuova funzione</string>
   <string name="private_toast_hint2">Per nascondere un file toccalo e tieni premuto, poi aggiungilo alla cartella nascosta.</string>
   <string name="promot_enctypt_password">Inserisci la password utilizzata per sbloccare il dispositivo o disattiva la modalità Genitore</string>
   <string name="pull_to_enter_private">Trascina verso il basso per aprire la cartella privata</string>
@@ -476,6 +483,7 @@
   <string name="unlock_pattern_title">Nuova password</string>
   <string name="upload_user_photo">Carica</string>
   <string name="usb_label">USB</string>
+  <string name="use">Usa</string>
   <string name="use_to_all">Applica a tutti</string>
   <string name="used">Utilizzato:\u0020</string>
   <string name="user_guide_continue_use">OK</string>
