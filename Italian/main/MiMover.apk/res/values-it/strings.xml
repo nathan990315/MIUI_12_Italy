@@ -413,6 +413,9 @@ Visita https://appleid.apple.com/#!&amp;page=signin per disattivarlo"</string>
   <string name="dialog_backup_password_cancel">Annulla</string>
   <string name="dialog_backup_password_change_machine_tips">"Non sarai in grado di trasferire i backup portetti da password. Disattiva la password backup prima di utilizzare Mi Mover."</string>
   <string name="dialog_backup_password_verify">OK</string>
+  <string name="dialog_connect_ap_timeout_button">Connetti</string>
+  <string name="dialog_connect_ap_timeout_message">Sembra che la connessione automatica stia richiedendo troppo tempo. Provare a connettersi manualmente. </string>
+  <string name="dialog_connect_ap_timeout_title">Connetti manualmente</string>
   <string name="dialog_forbidden_use_tips">"Mi Mover al momento non supporta il trasferimento di dati da o verso tablet."</string>
   <string name="dialog_rating_desc_ask">Come valuteresti Mi Mover?</string>
   <string name="dialog_rating_desc_less">Vuoi fornirci alcuni suggerimenti in modo da poter migliorare la nostra app?</string>
@@ -538,6 +541,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
   <string name="guest_install_app_hint_ensure">Scarica</string>
   <string name="guest_install_app_hint_summary">"La nuova versione di Mi Mover non è compatibile con quella installata su questo dispositivo. Scarica e installa la nuova versione."</string>
   <string name="guest_install_app_hint_title">Scarica la nuova versione di Mi Mover</string>
+  <string name="guest_manual_connect_link_text">Connettersi manualmente al nuovo dispositivo</string>
   <string name="guest_unfinished_task_alert_btn_negative">Ricomincia</string>
   <string name="guest_unfinished_task_alert_btn_positive">Continua</string>
   <string name="guest_unfinished_task_alert_message">Sembra che tu abbia attività di trasferimento non completate. Continuare con il trasferimento?</string>
@@ -571,6 +575,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
   <string name="host_dialog_known_button">Capito</string>
   <string name="host_dialog_message">Assicurarsi che l\'ultima versione di Mi Mover sia installata sull\'altro dispositivo; in caso contrario i due dispositivi potrebbero non essere in grado di connettersi.</string>
   <string name="host_dialog_title">"Impossibile connettersi, connessione scaduta"</string>
+   <string name="host_manual_connect_link_text">Se il vecchio dispositivo richiede troppo tempo per trovare l'hotspot, prova a connetterti manualmente.</string>
   <string name="host_memory_insuff_cancel">Annulla</string>
   <string name="host_memory_insuff_confirm">Seleziona di nuovo</string>
   <string name="host_memory_insuff_summary">"Non c'è abbastanza spazio di archiviazione sul nuovo dispositivo per avviare un trasferimento."</string>
@@ -645,6 +650,11 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
   <string name="main_chooser_item_android_others">Importa da un altro telefono Android</string>
   <string name="main_chooser_item_ios">Importa da un iPhone</string>
   <string name="main_chooser_title">Seleziona il vecchio dispositivo</string>
+  <string name="manual_connection_content1">1. Seleziona \"Connetti manualmente al nuovo dispositivo \" sul vecchio dispositivo.</string>
+  <string name="manual_connection_content2">2. Seleziona il seguente hotspot Wi-FI</string>
+  <string name="manual_connection_content3">3. Inserisci questa password nel vecchio dispositivo per connetterlo.</string>
+  <string name="manual_connection_summary2">"Se non trovi questo hotspot Wi-Fi, aggiorna l\'elenco delle reti Wi-Fi disponibili e riprova."</string>
+  <string name="manual_connection_title">connetti il vecchio dispositivo manualmente</string>
   <string name="message_request_package_stats_perm">Premi \"Continua\" per aprire le impostazioni e dare a Mi Mover le autorizzazioni necessarie.</string>
   <string name="midnight">AM</string>
   <string name="miui_need_location_permission_summary">"Consenti a Mi Mover di accedere alla tua posizione per trovare i dispositivi nelle vicinanze. Non sarai in grado di utilizzare Mi Mover a meno che non concedi questo permesso."</string>
@@ -732,11 +742,9 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
   <string name="new_wait_link_first">"1. Apri Mi Mover sul vecchio dispositivo.
 2. Tocca \"Sono un mittente\" e attendi.
 3. Seleziona il seguente hotspot sul vecchio dispositivo."</string>
-  <string name="new_wait_link_message_1">Vai su Impostazioni, inserisci \"Mi Mover\" nella barra di ricerca e tocca \"Mi Mover\" nei risultati di ricerca.</string>
   <string name="new_wait_link_message_2">"Il pulsante \"Sono un mittente\" è proprio sulla pagina iniziale di Mi Mover."</string>
-  <string name="new_wait_link_title_1">1. Vai in Impostazioni sul tuo vecchio dispositivo.</string>
-  <string name="new_wait_link_title_2">2. Inserisci \"Mi Mover\" nella barra di ricerca.</string>
-  <string name="new_wait_link_title_3">3. Tocca \"Mi Mover\" nei risultati di ricerca.</string>
+  <string name="new_wait_link_title_2">"1. Premi \"Sono un mittente\" e aspetta un momento."</string>
+  <string name="new_wait_link_title_3">2. Seleziona il seguente hotspot Wi-Fi sul vecchio dispositivo.</string>
   <string name="next">Avanti</string>
   <string name="nickname">Soprannome</string>
   <string name="night">PM</string>
@@ -744,6 +752,16 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
   <string name="no_network">"Impossibile collegarsi alla rete"</string>
   <string name="no_sim">Nessuna SIM rilevata.</string>
   <string name="noon">PM</string>
+  <string name="not_support_data_content1">1. Specifica il modello del tuo dispositivo</string>
+  <string name="not_support_data_content2">2. Dati delle app selezionate</string>
+  <string name="not_support_data_content3">3. Dati secondo spazio</string>
+  <string name="not_support_data_content4">4. Dual app</string>
+  <string name="not_support_data_link">"I seguenti elementi non possono essere trasferiti"</string>
+  <string name="not_support_data_summary1">"Temi, Sfondi, Biglietti per mezzi di trasporto e key cards non possono essere trasferiti usando Mi Mover."</string>
+  <string name="not_support_data_summary2">Alcune app mettono in atto misure di sicurezza restrittive per impedire il trasferimento dei dati. Tali applicazioni possono includere applicazioni bancarie o servizi finanziari. </string>
+  <string name="not_support_data_summary3">"A causa delle restrizioni di sistema, gli elementi del secondo spazio non possono essere trasferiti utilizzando Mi Mover."</string>
+  <string name="not_support_data_summary4">"Non è possibile trasferire le Dual app e i relativi dati. Tuttavia è possibile trasferire le app principali corrispondenti."</string>
+  <string name="not_support_data_title">"Questi elementi non possono essere trasferiti"</string>
   <string name="note">Note</string>
   <string name="nothing_chosen">Seleziona prima degli elementi</string>
   <string name="notif_icloud_canceled_summary">Annullato</string>
@@ -772,6 +790,11 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
   <string name="old_task_cleared">Rimosse vecchie attività con successo</string>
   <string name="old_wait_link">Seleziona gli elementi da trasferire sul vecchio dispositivo</string>
   <string name="old_wait_link_extra">Tocca \"Trasferisci\"</string>
+  <string name="open_photo_and_contacts_cloud_sync_complete">Avvia</string>
+  <string name="open_photo_and_contacts_cloud_sync_content1">%d. Attiva la sincronizzazione per i contatti e la galleria.</string>
+  <string name="open_photo_and_contacts_cloud_sync_content2">%d. Premi \"Sincronizza ora\".</string>
+  <string name="open_photo_and_contacts_cloud_sync_summary">Attiva la sincronizzazione per visualizzare i contatti e le immagini della galleria su questo dispositivo.</string>
+  <string name="open_photo_and_contacts_cloud_sync_title">Sincronizza contatti e galleria</string>
   <string name="option_feedback_title">Feedback</string>
   <string name="option_privacy_policy">Informativa sulla Privacy</string>
   <string name="organization">Società</string>
@@ -932,7 +955,7 @@ Libera almeno %s."</string>
   <string name="sunday">domenica</string>
   <string name="sunday_short">dom</string>
   <string name="sunday_shortest">D</string>
-  <string name="switching_to_5g">Passaggio alla rete 5 GHz…</string>
+  <string name="switching_to_5g">Passaggio alla rete ad alta velocità…</string>
   <string name="sync_data_to_mi_cloud_content1">%d. Tocca \"Sincronizza ora\" nella scheda \"Contatti\".</string>
   <string name="sync_data_to_mi_cloud_content2">%d. Tocca \"Esegui il backup\" nella scheda \"Foto\".</string>
   <string name="sync_data_to_mi_cloud_summary">Apri Xiaomi Cloud sul tuo iPhone e segui questi passaggi per sincronizzare i dati. Tocca il pulsante qui sotto quando la sincronizzazione è completata.</string>
