@@ -88,6 +88,9 @@
   <string name="auto_identify_btn_title">Questo messaggio è stato inviato da un numero sconosciuto.</string>
   <string name="auto_identify_confirmation">L\'attivazione potrebbe richiedere alcuni minuti.</string>
   <string name="back_to_message_list">Torna alla lista messaggi</string>
+  <string name="banner_btn_install">Installa</string>
+  <string name="banner_btn_not_now">Non ora</string>
+  <string name="banner_btn_open">Apri</string>
   <string name="batch_adding_progress_message">Operazione in corso…</string>
   <string name="batch_deleting_message_progress_message">Eliminazione messaggi selezionati</string>
   <string name="batch_deleting_progress_message">Eliminazione conversazioni selezionate</string>
@@ -112,7 +115,7 @@
   <string name="button_resend_message">Invia nuovamente</string>
   <string name="button_unfold">Dispiega</string>
   <string name="call_sender">Chiama mittente</string>
-  <string name="can_not_send_by_rcs">"Impossibile utilizzare la messaggistica di Cina Mobile"</string>
+  <string name="can_not_send_by_rcs">"Impossibile utilizzare la messaggistica 5G"</string>
   <string name="can_not_view_group_chat_stranger">"Impossibile leggere i dettagi degli sconosciuti."</string>
   <string name="cannot_add_picture_and_video">"Impossibile aggiungere video e immagine a una diapositiva."</string>
   <string name="cannot_add_slide_anymore">"Impossibile aggiungere altre diapositive."</string>
@@ -277,6 +280,7 @@
   <string name="debug_enable_success">Debug disponibile</string>
   <string name="debug_export_db">Esporta Database</string>
   <string name="debug_title">Debug</string>
+  <string name="default_google_message_promo_content">"Hai impostato l\'app messaggi di Google come applicazione di messaggistica predefinita. Premi \"Apri\" per usare l’app."</string>
   <string name="delete">Elimina</string>
   <string name="delete_block_conversation">Elimina questa conversazione</string>
   <string name="delete_bookmark">Elimina messaggio</string>
@@ -343,6 +347,7 @@
   <string name="edit_slide_activity">Modifica diapositiva</string>
   <string name="edit_slideshow_activity">Modifica presentazione</string>
   <string name="empty"></string>
+  <string name="enable_classify_tip_dialog_content">L\'app Di messaggistica verrà riavviata. Continuare comunque? </string>
   <string name="enabled">Attivato</string>
   <string name="english_subject_limit">Limite di 40 caratteri</string>
   <string name="enter_edit_mode">Elimina</string>
@@ -457,6 +462,8 @@
   <string name="from_pkg_name">Dall\'app:</string>
   <string name="ft_cfs_dialog_content">"I file non possono essere inviati usando RCS. Inviare invece un link in un messaggio di testo?"</string>
   <string name="ft_cfs_dialog_title">Trasferimento file alternativo</string>
+  <string name="google_message_promo_content">Xiaomi raccomanda di passare al applicazione  Messaggi di Google. Questa app permette di inviare messaggi di testo tramite WI-FI, inviare media con una qualità superiore, molto altro. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;View details&lt;/a&gt;&lt;/font&gt;.</string>
+  <string name="google_message_promo_title">Aggiorna la tua app di messaggistica</string>
   <string name="group_already_kicked_hint">"Impossibile inviare messaggi. Non sei un membro di questa chat di gruppo."</string>
   <string name="group_member_is_composing">Scrivendo…</string>
   <string name="group_message">Messaggio di Gruppo</string>
@@ -504,6 +511,8 @@
   <string name="imageview_ad">Scelte dagli editori</string>
   <string name="importing_progress_private_message">Importazione messaggi nell\'Archivio Messaggi Privati</string>
   <string name="in_sms">Messaggio</string>
+  <string name="installed_google_message_promo_content">Xiaomi raccomanda di passare al applicazione  Messaggi di Google. Questa app permette di inviare messaggi di testo tramite WI-FI, inviare media con una qualità superiore, molto altro.</string>
+  <string name="installed_google_message_promo_title">Inizia ad usare Messaggi</string>
   <string name="insufficient_drm_rights">Diritti DRM insufficienti.</string>
   <string name="invalid_conversation">Conversazione non valida</string>
   <string name="invalid_destination">Indirizzo di destinazione non valido.</string>
@@ -762,6 +771,9 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
   <string name="perm_purpose_rcs_phone_state">Per l\'accesso IMEI per identificare il tuo dispositivo</string>
   <string name="perm_purpose_rcs_storage">Per salvare immagini, video, file e altri allegati RCS</string>
   <string name="phrase_confirm_delete_message">Il modello selezionato sarà eliminato</string>
+  <string name="permission_retry_deny">Cancella</string>
+  <string name="permission_retry_dialog_msg">L\'app di messaggistica necessita dei permessi per funzionare normalmente. Per dare i permessi necessari  vai in  \"impostazioni\", seleziona \"permessi\", e consenti all\'app  di accedere a Telefono, SMS, e contatti.</string>
+  <string name="permission_retry_setting">Impostazioni</string>
   <string name="phrase_empty">Nessuna anteprima</string>
   <string name="phrase_from">Da %1s</string>
   <string name="phrase_list_title">Modelli</string>
@@ -799,6 +811,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
   <string name="pref_summary_collapse_ad_notification_mms">Mostra tutti i messaggi promozionali in una scheda separata</string>
   <string name="pref_summary_delete_limit">%1$s messaggi per conversazione</string>
   <string name="pref_summary_delivery_reports">Ricezione del rapporto di consegna SMS</string>
+  <string name="pref_summary_enable_classify">Spostare i messaggi promozionali e finanziari in schede separate </string>
   <string name="pref_summary_delivery_ringtone">Ricevi una notifica sonora per i messaggi inviati.</string>
   <string name="pref_summary_manage_sim_messages">Gestisci i messaggi sulla tua scheda SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Prova automaticamente a recuperare il messaggio</string>

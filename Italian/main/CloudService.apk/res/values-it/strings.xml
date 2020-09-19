@@ -48,6 +48,7 @@
   <string name="cloud_find_device_off">Disattiva</string>
   <string name="cloud_find_device_on">Attiva</string>
   <string name="cloud_lab_title">Lab</string>
+   <string name="cloud_space_full_gallery_notification_content_text">Esegui l\'upgrade per ottenere più spazio di archiviazione cloud</string>
   <string name="cloud_storage_already_full">Lo spazio su cloud è esaurito: %1$s/%2$s</string>
   <string name="cloud_storage_already_used">Occupati: %1$s/%2$s</string>
   <string name="cloud_storage_default_title">Archiviazione Cloud</string>
@@ -67,6 +68,8 @@
   <string name="connect_wlan">Collegati al Wi-Fi</string>
   <string name="connect_wlan_china">Collegati alla WLAN</string>
   <string name="copy">Copia</string>
+  <string name="cta_notification_content_text">Consenti a %s di connettersi a Internet per poter ripristinare gli elementi</string>
+  <string name="cta_notification_content_title">"Impossibile ripristinare gli elementi da %s"</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Questo account è utilizzato anche su un altro dispositivo. Unire gli elementi da app (tra cui %1$s e %2$s) con gli elementi su questo dispositivo?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_one">Questo account è utilizzato anche su un altro dispositivo. Unire gli elementi da %s con gli elementi su questo dispositivo?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_two">Questo account è utilizzato anche su un altro dispositivo. Unire gli elementi da %1$s e %2$s con gli elementi su questo dispositivo?</string>
@@ -291,6 +294,11 @@ al tuo Mi Account per riattivare Mi Cloud."</string>
   <string name="micloud_manual_pausing">Sincronizzazione in pausa</string>
   <string name="micloud_manual_pending">In attesa</string>
   <string name="micloud_manual_reactivate">Riattiva</string>
+  <string name="micloud_manual_request_permission_cancel">Cancella</string>
+  <string name="micloud_manual_request_permission_confirm">impostazioni</string>
+  <string name="micloud_manual_request_permission_content">Per usare i nostri servizi, devi prima fornire a Xiaomi Cloud  i seguenti permessi nelle impostazioni : \"%s\".</string>
+  <string name="micloud_manual_request_permission_content_on_provision">Concedere prima i permessi necessari nell\'app sicurezza</string>
+  <string name="micloud_manual_request_permission_title">Permessi richiesti</string>
   <string name="micloud_manual_sync_all">Sincronizza</string>
   <string name="micloud_manual_sync_now">Sincronizza</string>
   <string name="micloud_manual_sync_now_retry">Riprova</string>
@@ -433,7 +441,7 @@ Questa funziona critta ed invia l'ID del tuo dispositivo ai server Xiaomi."</str
   <string name="no_sim">"SIM non rilevata"</string>
   <string name="not_set">Non impostato</string>
   <string name="pay_info_dialog_confirm_to_pay">Paga %s</string>
-  <string name="pay_info_dialog_mibi_balance_prefix">Usa i Crediti Mi rimanenti: %s</string>
+  <string name="pay_info_dialog_mibi_balance_prefix">Usa i Mi Coins rimanenti: %s</string>
   <string name="pay_info_dialog_title">Seleziona metodo di pagamento</string>
   <string name="phone_number_required_dspt_provision">"Questo servizio richiede il tuo numero di telefono."</string>
   <string name="picker_list_empty">Nessun contatto</string>
