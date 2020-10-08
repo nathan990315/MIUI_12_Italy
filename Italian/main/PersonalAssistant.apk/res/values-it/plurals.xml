@@ -1,12 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="agenda_anniversary_day">
+        <item quantity="other">·%1$d days</item>
+        <item quantity="one">·%1$d day</item>
+    </plurals>
+    <plurals name="agenda_anniversary_year">
+        <item quantity="other">·%1$d years</item>
+        <item quantity="one">·%1$d year</item>
+    </plurals>
     <plurals name="agenda_count_down">
         <item quantity="other">Tra %d minuti</item>
         <item quantity="one">Tra %d minuto</item>
     </plurals>
+    <plurals name="agenda_countdown_day">
+        <item quantity="other">·In %1$d days</item>
+        <item quantity="one">·In %1$d day</item>
+    </plurals>
+    <plurals name="agenda_tip_count_down">
+        <item quantity="other">Starts in %1$d minutes</item>
+        <item quantity="one">Starts in %1$d minute</item>
+    </plurals>
+    <plurals name="app_express_content_title_1">
+        <item quantity="other">%d packages are on their way</item>
+        <item quantity="one">%d package is on its way</item>
+    </plurals>
+    <plurals name="app_express_settings_title_2">
+        <item quantity="other">Added %d phone numbers</item>
+        <item quantity="one">Added %d phone number</item>
+    </plurals>
+    <plurals name="app_miot_total_device">
+        <item quantity="other">%1$d devices</item>
+        <item quantity="one">%1$d device</item>
+    </plurals>
     <plurals name="assistant_day">
         <item quantity="other">In %d giorni</item>
         <item quantity="one">In %d giorno</item>
+    </plurals>
+    <plurals name="base_time_hour_ago">
+        <item quantity="other">%d hours ago</item>
+        <item quantity="one">%d hour ago</item>
+    </plurals>
+    <plurals name="base_time_minute_ago">
+        <item quantity="other">%d minutes ago</item>
+        <item quantity="one">%d minute ago</item>
     </plurals>
     <plurals name="book_start_interval">
         <item quantity="other">Partenza tra %d giorni</item>
@@ -28,9 +100,33 @@
         <item quantity="other">Aggiunti %d numeri di telefono</item>
         <item quantity="one">Aggiunto %d numero di telefono</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
     <plurals name="hours_ago">
         <item quantity="one">%1$d ora fa</item>
         <item quantity="other">%1$d ore fa</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
     </plurals>
     <plurals name="main_delete_desc">
         <item quantity="other">Rimuovere %s elementi da preferiti?</item>
@@ -47,6 +143,10 @@
     <plurals name="mins_ago">
         <item quantity="one">%1$d minuto fa</item>
         <item quantity="other">%1$d minuti fa</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="payment_record_dialog_delete_message">
         <item quantity="other">Eliminare %s elementi dai pagamenti?</item>

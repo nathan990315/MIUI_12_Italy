@@ -56,6 +56,14 @@
         <item quantity="other">%1$d giorni</item>
         <item quantity="one">%1$d giorno</item>
     </plurals>
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Durata delle mestruazioni: %1$d giorni</item>
+        <item quantity="one">Durata delle mestruazioni: %1$d giorno</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Durata del ciclo: %1$d giorni</item>
+        <item quantity="one">Durata del ciclo: %1$d giorno</item>
+    </plurals>
     <plurals name="dialog_choose_items">
         <item quantity="other">%1$d elementi selezionati</item>
         <item quantity="one">%1$d elemento selezionato</item>
@@ -100,6 +108,10 @@
         <item quantity="other">%1$d passi</item>
         <item quantity="one">%1$d passo</item>
     </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d cicli</item>
+        <item quantity="one">%1$d ciclo</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Mezz\'ora fa</item>
         <item quantity="other">Mezz\'ora fa</item>
@@ -139,6 +151,10 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="one">Proprio ora</item>
         <item quantity="other">Proprio ora</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Probabilmente le mestruazioni inizieranno tra %1$d giorni</item>
+        <item quantity="one">Probabilmente le mestruazioni inizieranno tra %1$d giorno</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">Ciclo di %1$d giorni</item>
@@ -255,6 +271,10 @@
     <plurals name="unit_days">
         <item quantity="other">" giorni"</item>
         <item quantity="one">" giorno"</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" cicli"</item>
+        <item quantity="one">" ciclo"</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" ore"</item>

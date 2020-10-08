@@ -4,6 +4,10 @@
         <item quantity="other">Segnalato da %d utenti MIUI</item>
         <item quantity="one">Segnalato da %d utente MIUI</item>
     </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Chiusura tra %1$s sec…</item>
+        <item quantity="one">Chiusura tra %1$s sec…</item>
+    </plurals>
     <plurals name="call_recording_notification_complete">
         <item quantity="other">%d chiamate registrate.</item>
         <item quantity="one">%d chiamata registrata.</item>

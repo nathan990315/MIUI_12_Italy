@@ -5,28 +5,36 @@
         <item quantity="one">A fuoco. %d volto rilevato</item>
     </plurals>
     <plurals name="accessibility_timer_burst_count">
-        <item quantity="other">%d photos in a burst shot</item>
-        <item quantity="one">%d photo in a burst shot</item>
+        <item quantity="other">%d foto in una raffica</item>
+        <item quantity="one">%d foto in una raffica</item>
     </plurals>
     <plurals name="accessibility_timer_burst_interval">
-        <item quantity="other">Interval: %d seconds</item>
-        <item quantity="one">Interval: %d second</item>
+        <item quantity="other">Intervallo: %d secondi</item>
+        <item quantity="one">Intervallo: %d secondo</item>
     </plurals>
     <plurals name="accessibility_vv_duartion">
-        <item quantity="other">Duration: %d seconds</item>
-        <item quantity="one">Duration: %d second</item>
+        <item quantity="other">Durata: %d secondi</item>
+        <item quantity="one">Durata: %d secondo</item>
     </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">Puoi creare fino a %d cloni alla volta.</item>
         <item quantity="one">Puoi creare fino a %d clone alla volta.</item>
+    </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="one">%1$d minuto</item>
+        <item quantity="other">%1$d minuti</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="one">%1$d secondo</item>
+        <item quantity="other">%1$d secondi</item>
     </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s min</item>
         <item quantity="one">%1$s min</item>
     </plurals>
     <plurals name="timer_burst_setting_total_count">
-        <item quantity="other">%1$s photos</item>
-        <item quantity="one">%1$s photo</item>
+        <item quantity="other">%1$s foto</item>
+        <item quantity="one">%1$s foto</item>
     </plurals>
     <plurals name="toast_burst_snap_finished_summary">
         <item quantity="other">Scatto multiplo eseguito, %1$s foto scattate</item>

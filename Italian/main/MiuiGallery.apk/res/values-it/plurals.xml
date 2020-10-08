@@ -312,6 +312,14 @@
         <item quantity="other">%d ore</item>
         <item quantity="one">%d ora</item>
     </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">Filtrati %d elementi non supportati</item>
+        <item quantity="one">Filtrato %d elemento non supportato</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">I file PDF possono contenere fino a %d immagini</item>
+        <item quantity="one">I file PDF possono contenere fino a %d immagine</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">"Le foto selezionate non sono su questo dispositivo. Vuoi scaricarle tramite la rete dati cellulare?"</item>
         <item quantity="one">"La foto selezionata non è su questo dispositivo. Vuoi scaricarla tramite la rete dati cellulare?"</item>
