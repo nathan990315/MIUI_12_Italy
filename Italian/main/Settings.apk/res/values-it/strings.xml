@@ -4722,10 +4722,10 @@ ed esegui il software.</string>
     <string name="nfc_repair_btn_reboot_later">Più tardi</string>
     <string name="nfc_repair_btn_retry">Riprova</string>
     <string name="nfc_repair_btn_yes">Sì</string>
-    <string name="nfc_repair_confirm_desc">"Hai riscontrato uno di questi problemi?
-%d. Non è possibile aggiungere o ricaricare una scheda NFC.
-%d. La tua carta NFC non ha funzionato.
-%d. Altre funzioni NFC non funzionano."</string>
+    <string name="nfc_repair_confirm_desc">"Have you experienced any of these issues?
+%1$d. You couldn't add or top up an NFC card.
+%2$d. Your NFC card didn't work.
+%3$d. Other NFC features won't load."</string>
     <string name="nfc_repair_fail_desc">Si è verificato un errore che ha impedito il ripristino della funzionalità NFC. Riprova.</string>
     <string name="nfc_repair_fail_title">"Impossibile ripristinare"</string>
     <string name="nfc_repair_ongoing">"Ripristino… Non lasciare questa pagina."</string>
