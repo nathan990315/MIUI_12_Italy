@@ -104,8 +104,6 @@
     <string name="ble_device_profile_header_title">Impostazioni</string>
     <string name="ble_device_profile_title">Dispositivi smart abbinati via bluetooth</string>
     <string name="ble_device_rename">Rinomina</string>
-    <string name="ble_profile_1">ble_profile_mi_band</string>
-    <string name="ble_profile_2">ble_profile_mi_key</string>
     <string name="blob_expires_text">Scade alle %s</string>
     <string name="blob_id_text">ID dati condivisi: %d</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Collegato ad audio media</string>
@@ -729,7 +727,6 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_security_none_owe">Nessuna/Aperta</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
@@ -741,7 +738,6 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
     <string name="wifi_security_short_none_owe">Nessuna/OWE</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>

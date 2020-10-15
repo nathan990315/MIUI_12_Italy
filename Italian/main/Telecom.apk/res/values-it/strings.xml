@@ -240,7 +240,6 @@ Sample Rate"</string>
     <string name="cant_call_due_to_ongoing_unknown_call">La chiamata non può essere effettuata. Una chiamata in un\'altra app.</string>
     <string name="category_personal">Personale</string>
     <string name="category_work">Lavoro</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="change_default_call_screening_dialog_affirmative">Imposta come predefinito</string>
     <string name="change_default_call_screening_dialog_negative">Annulla</string>
     <string name="change_default_call_screening_dialog_title">Rendere %s la tua app di screening chiamate predefinita?</string>
@@ -306,7 +305,6 @@ Sample Rate"</string>
     <string name="development_settings_title">Opzioni sviluppatore</string>
     <string name="dial_conference_fail_prompt">"Impossibile avviare l'audioconferenza, la rete non supporta la tecnologia VoLTE."</string>
     <string name="dial_vt_fail_prompt">"La rete non supporta VoLTE. Effettuare una chiamata normale?"</string>
-    <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
     <string name="direct_boot_unaware_dialog_message">"Nota: dopo un riavvio, questa app non potrà avviarsi finché non sblocchi il telefono"</string>
     <string name="disable_overlays">Disabilita overlay HW</string>
     <string name="disable_overlays_summary">Usa sempre GPU per la composizione dello schermo</string>
@@ -363,7 +361,6 @@ Sample Rate"</string>
     <string name="inactive_app_active_summary">Attivata. Tocca per disattivare.</string>
     <string name="inactive_app_inactive_summary">Disattivata. Tocca per attivare.</string>
     <string name="inactive_apps_title">Inactive apps</string>
-    <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
     <string name="incall_error_call_failed">"Impossibile effettuare la chiamata"</string>
     <string name="incall_error_power_off">Turn off airplane mode to make a call.</string>
     <string name="incall_error_supp_service_unknown">"Servizio non supportato."</string>
@@ -445,7 +442,6 @@ Sample Rate"</string>
     <string name="notification_missedCallsMsg">%s chiamate perse</string>
     <string name="notification_missedCallsTitle">Chiamate perse</string>
     <string name="notification_missedWorkCallTitle">Chiamata lavoro persa</string>
-    <string name="number_tag_divider">" ｜ "</string>
     <string name="oem_preferred_feedback_reporter"></string>
     <string name="oem_unlock_enable">Sblocco OEM</string>
     <string name="oem_unlock_enable_summary">Consenti al dispositivo lo sblocco OEM</string>
@@ -476,7 +472,6 @@ Sample Rate"</string>
     <string name="picture_color_mode_desc">Usa sRGB</string>
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s until full</string>
     <string name="power_discharge_by">Dovrebbe durare circa %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Dovrebbe durare circa %1$s in base al tuo utilizzo (%2$s)</string>
@@ -505,13 +500,8 @@ Sample Rate"</string>
     <string name="private_dns_mode_provider">Hostname provider DNS privato</string>
     <string name="private_dns_mode_provider_failure">"Impossibile collegarsi"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
-    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-    <string name="proxy_hostname_hint">proxy.esempio.com</string>
-    <string name="proxy_port_hint">8000</string>
-    <string name="proxy_url_hint">https://www.esempio.com/proxy.pac</string>
     <string name="remaining_length_format">%1$s rimanenti</string>
     <string name="respond_via_sms_canned_response_1">"Non posso parlare ora. Ci sentiamo dopo."</string>
     <string name="respond_via_sms_canned_response_2">"Ti chiamo appena posso"</string>
@@ -550,7 +540,6 @@ Sample Rate"</string>
     <string name="select_webview_provider_dialog_title">Imposta l\'implementazione di WebView</string>
     <string name="select_webview_provider_title">Implementazione WebView</string>
     <string name="select_webview_provider_toast_text">Questa scelta non è più valida. Prova di nuovo.</string>
-    <string name="settings_package">com.android.settings</string>
     <string name="shared_data_delete_failure_text">Si è verificato un errore durante l\'eliminazione dei dati condivisi.</string>
     <string name="shared_data_no_accessors_dialog_text">Non ci sono lease acquisiti per questi dati condivisi. Vuoi eliminarlo?</string>
     <string name="shared_data_no_blobs_text">Non ci sono dati condivisi per questo utente.</string>
@@ -639,8 +628,6 @@ Sample Rate"</string>
     <string name="tts_status_ok">%1$s completamente supportato</string>
     <string name="tts_status_requires_network">%1$s richiede connessione di rete</string>
     <string name="tts_status_title">Stato lingua predefinita</string>
-    <string name="ui_default_package">com.android.incallui</string>
-    <string name="ui_default_package_dialer">com.android.contacts</string>
     <string name="unblock_button">Annulla schermata</string>
     <string name="unblock_dialog_body">Sbloccare %1$s?</string>
     <string name="unknown">Sconosciuto</string>
@@ -745,7 +732,6 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_security_none_owe">Nessuna/Aperta</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_dpp">DPP</string>
@@ -755,7 +741,6 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
     <string name="wifi_security_short_none_owe">Nessuna/OWE</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>

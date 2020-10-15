@@ -41,7 +41,6 @@
     <string name="am">AM</string>
     <string name="angle">grad</string>
     <string name="app_name">Calcolatrice</string>
-    <string name="app_name_danfa">@string/app_name</string>
     <string name="app_notification_info">La Calcolatrice è in esecuzione in background</string>
     <string name="arccos">arccos</string>
     <string name="arcsin">arcsin</string>
@@ -476,7 +475,6 @@
     <string name="loan_pay_years">Periodo prestito</string>
     <string name="loan_payback_way">Pagamento</string>
     <string name="loan_repayment_detail_loading">Caricamento dettagli rimborso…</string>
-    <string name="loan_type_summary_base">@string/base_rate</string>
     <string name="loan_type_summary_lpr">LPR</string>
     <string name="loan_type_title">Tasso di interesse standard</string>
     <string name="loan_unit">×10K</string>
@@ -555,7 +553,6 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="mortgage_input_error">Inserisci l\'importo del mutuo</string>
     <string name="mortgage_interest_amount">Totale interessi</string>
     <string name="mortgage_interest_rate">Tasso di interesse</string>
-    <string name="mortgage_item_loan_ruler">@string/loan_type_title</string>
     <string name="mortgage_item_repayment">Rimborso</string>
     <string name="mortgage_item_start_time">Inizio data</string>
     <string name="mortgage_item_years">Durata</string>
@@ -887,7 +884,6 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="unit_data_display_currency_btn">Ngultrum del Bhutan</string>
     <string name="unit_data_display_currency_bwp">Pula del Botswana</string>
     <string name="unit_data_display_currency_byn">Rublo Bielorusso</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Dollaro Canadese</string>
     <string name="unit_data_display_currency_cdf">Franco Congolese</string>
     <string name="unit_data_display_currency_chf">Franco Svizzero</string>
@@ -1237,11 +1233,8 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="word_figure_unit_shi">shi</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">"Connessione a Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni."</string>
     <string name="xiaomi_external_storage_unavailable">"Archivio non disponibile, verifica la scheda SD."</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s
 Dimensione: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Presentazione versione %1$s
