@@ -608,7 +608,7 @@
     <string name="font_underline">Sottolineato</string>
     <string name="font_underline_remove">Rimuovi Sottolineatura</string>
     <string name="forever">Sempre</string>
-    <string name="formatted_email_address">&lt;%1$s&gt;</string>
+    <string name="formatted_email_address">&lt;%1$s></string>
     <string name="forward">Inoltra</string>
     <string name="forward_attachment">Avanti</string>
     <string name="forward_attribution">---------- Messaggio inoltrato ----------<br/>Da: %1$s<br/>Data: %2$s<br/>Oggetto: %3$s<br/>A: %4$s<br/></string>
@@ -630,7 +630,7 @@
     <string name="general_preference_text_zoom_small">Testo piccolo</string>
     <string name="general_preference_text_zoom_tiny">Testo molto piccolo</string>
     <string name="generic_attachment_problem">"Impossibile allegare il file."</string>
-    <string name="get_database_exception">"Per pulire i dati di questa applicazione andare in Impostazioni &gt; Applicazioni di sistema e riprovare."</string>
+    <string name="get_database_exception">"Per pulire i dati di questa applicazione andare in Impostazioni > Applicazioni di sistema e riprovare."</string>
     <string name="get_oauth_code">Ottieni codice</string>
     <string name="gmail_acceleration">Utilizza un server di proxy per l\'account di Gmail</string>
     <string name="gmail_login_confirm_to_use_proxy">Vuoi utilizzare un server di proxy per accedere al tuo account di Gmail?</string>
@@ -1060,7 +1060,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
     <string name="qq_login_help_title">QQ/PAssword/Codice di autorizzazione:</string>
     <string name="qq_login_notice">"Avviso importante: Se hai impostato una password indipendente, devi inserire una password indipendente per verificare l'accesso alla casella."</string>
     <string name="qq_login_open_imap">Premi su \"Help\" per abilitare IMAP/SMTP</string>
-    <string name="qq_login_origin_setting">Inserisci nome utente e password per accedere &gt;</string>
+    <string name="qq_login_origin_setting">Inserisci nome utente e password per accedere ></string>
     <string name="qq_login_send_message">Premi su \"Invia SMS\" per ottenere un codice di verifica</string>
     <string name="qq_login_sent_setting">Sincronizza messaggi inviati</string>
     <string name="qq_login_webview">Accedi alla webmail QQ Mail. Immetti la password.</string>
@@ -1091,7 +1091,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
     <string name="quick_reply_hint_reply_only_from">Risposta rapida (solo mittente)</string>
     <string name="quick_reply_pattern">.*审批.*|.*批准.*|.*申请.*|.*申报.*|.*请示.*|.*请求.*</string>
     <string name="quick_responses_empty_view">Nessuna risposta rapida</string>
-    <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
+    <string name="quote_begin">&lt;div class=\"wps_quotion\"></string>
     <string name="quote_divider_1">-------- Messaggio originale --------</string>
     <string name="quote_divider_11">----- Originale -----</string>
     <string name="quote_divider_12"> Messaggio originale </string>
@@ -1102,7 +1102,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
     <string name="quote_divider_6">---Originale---</string>
     <string name="quote_divider_7">Messaggio originale</string>
     <string name="quote_divider_apple">"
-&gt;"</string>
+>"</string>
     <string name="quote_divider_huawei_zh">Inviato dal mio Huawei</string>
     <string name="quote_divider_ipad_zh">Inviato dal mio iPad</string>
     <string name="quote_divider_iphone_en">Inviato dal mio iPhone</string>
@@ -1397,7 +1397,7 @@ Interrompere adesso?"</string>
     <string name="user_new_auth_code">Accedi con un nuovo codice di autorizzazione</string>
     <string name="user_privacy_settings">Impostazioni sulla privacy</string>
     <string name="user_privacy_settings_agreement_authorization">"(Cliccando \"Accetta\", fornirai tutti i permessi necessari a Email)"</string>
-    <string name="user_privacy_settings_path">Per revocare la tua autorizzazione, vai su Impostazioni &gt; Impostazioni Privacy.</string>
+    <string name="user_privacy_settings_path">Per revocare la tua autorizzazione, vai su Impostazioni > Impostazioni Privacy.</string>
     <string name="user_privacy_settings_summary">"Raccoglieremo il tuo ID Android nel modulo crittografato e lo utilizzeremo come identificatore utente univoco in Mail. Potremmo anche raccogliere i log di utilizzo. Puoi revocare l'autorizzazione nelle Impostazioni sulla Privacy in qualsiasi momento."</string>
     <string name="user_privacy_settings_title">Informativa sulla privacy Mail</string>
     <string name="validation_failed_prompt">"Validazione fallita, imposta il server %s"</string>

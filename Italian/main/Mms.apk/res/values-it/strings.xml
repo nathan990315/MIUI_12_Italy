@@ -385,9 +385,9 @@
     <string name="favorite_at_time">Aggiunto ai preferiti alle: %1s</string>
     <string name="fdn_check_failure">Puoi inviare messaggi solo ai numeri memorizzati.</string>
     <string name="feature_mx">Mi Message</string>
-    <string name="feature_mx_summary">&lt;b&gt;Mi Message consente di inviare messaggi ad altri utenti di Mi Message senza costi aggiuntivi&lt;/b&gt;. Per attivare questo servizio è necessario l\'invio di un SMS. Il tuo operatore potrebbe addebitarti questo messaggio. Leggi e accetta il nostro &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url1\"&gt;Contratto con l\'utente&lt;/a&gt;&lt;/font&gt; e &lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url2\"&gt;Informativa sulla privacy&lt;/a&gt;&lt;/font&gt; prima di utilizzare questa funzione.</string>
+    <string name="feature_mx_summary">&lt;b>Mi Message consente di inviare messaggi ad altri utenti di Mi Message senza costi aggiuntivi&lt;/b>. Per attivare questo servizio è necessario l\'invio di un SMS. Il tuo operatore potrebbe addebitarti questo messaggio. Leggi e accetta il nostro &lt;font color=\"#B3000000\">&lt;a href=\"http://url1\">Contratto con l\'utente&lt;/a>&lt;/font> e &lt;font color=\"#B3000000\">&lt;a href=\"http://url2\">Informativa sulla privacy&lt;/a>&lt;/font> prima di utilizzare questa funzione.</string>
     <string name="feature_smart_sms">Messaggi smart</string>
-    <string name="feature_smart_sms_summary">&lt;b&gt;Messaggi Smart fornisce il Riconoscimento ID mittente e i menu intelligenti&lt;/b&gt;\". I Messaggi Smart sono forniti in parte da Yulore. Leggi e accetta l\'\"&lt;font color=\"#B3000000\"&gt;&lt;a href=\"http://url3\"&gt;Informativa sulla Privacy&lt;/a&gt;&lt;/font&gt; di Yulore prima di utilizzare questa funzione.</string>
+    <string name="feature_smart_sms_summary">&lt;b>Messaggi Smart fornisce il Riconoscimento ID mittente e i menu intelligenti&lt;/b>\". I Messaggi Smart sono forniti in parte da Yulore. Leggi e accetta l\'\"&lt;font color=\"#B3000000\">&lt;a href=\"http://url3\">Informativa sulla Privacy&lt;/a>&lt;/font> di Yulore prima di utilizzare questa funzione.</string>
     <string name="festival_sms_loading">Caricamento…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">Creato alle:</string>
@@ -463,7 +463,7 @@
     <string name="from_pkg_name">Dall\'app:</string>
     <string name="ft_cfs_dialog_content">"I file non possono essere inviati usando RCS. Inviare invece un link in un messaggio di testo?"</string>
     <string name="ft_cfs_dialog_title">Trasferimento file alternativo</string>
-    <string name="google_message_promo_content">Xiaomi raccomanda di passare al applicazione  Messaggi di Google. Questa app permette di inviare messaggi di testo tramite WI-FI, inviare media con una qualità superiore, molto altro. &lt;font color=\"#B3000000\"&gt;&lt;a href=\"https://support.google.com/messages/answer/6089066\"&gt;View details&lt;/a&gt;&lt;/font&gt;.</string>
+    <string name="google_message_promo_content">Xiaomi raccomanda di passare al applicazione  Messaggi di Google. Questa app permette di inviare messaggi di testo tramite WI-FI, inviare media con una qualità superiore, molto altro. &lt;font color=\"#B3000000\">&lt;a href=\"https://support.google.com/messages/answer/6089066\">View details&lt;/a>&lt;/font>.</string>
     <string name="google_message_promo_title">Aggiorna la tua app di messaggistica</string>
     <string name="group_already_kicked_hint">"Impossibile inviare messaggi. Non sei un membro di questa chat di gruppo."</string>
     <string name="group_member_is_composing">Scrivendo…</string>
@@ -481,7 +481,7 @@
     <string name="guild_add_attachments">Premi qui per aggiungere allegati o smileys al messaggio</string>
     <string name="guild_add_recipients">Premi qui per aggiungere destinatari dalla rubrica</string>
     <string name="guild_msim_switcher">Tocca per cambiare SIM</string>
-    <string name="has_invalid_recipient">Destinatari non validi: &lt;%1$s&gt;</string>
+    <string name="has_invalid_recipient">Destinatari non validi: &lt;%1$s></string>
     <string name="heavenly_stems_bing">丙</string>
     <string name="heavenly_stems_ding">丁</string>
     <string name="heavenly_stems_geng">庚</string>
@@ -695,7 +695,7 @@ Questo messaggio potrebbe non essere apprezzato."</string>
     <string name="mx_enable_ex">Mi Message e Voce</string>
     <string name="mx_enable_popup_msg">Questo servizio consente di scambiare messaggi tramite la rete dati. È necessario inviare un SMS per attivare il servizio, verranno applicate le tariffe previste dall\'operatore. Continuare?</string>
     <string name="mx_filter_message_from_stranger">Blocca Mi Message da numeri sconosciuti</string>
-    <string name="mx_filter_message_from_stranger_dialog_desc">"Potrai ancora ricevere SMS normali da numeri sconosciuti. Puoi attivare e disattivare questa funzionalità in qualsiasi momento da Messaggi &gt; Impostazioni.\""</string>
+    <string name="mx_filter_message_from_stranger_dialog_desc">"Potrai ancora ricevere SMS normali da numeri sconosciuti. Puoi attivare e disattivare questa funzionalità in qualsiasi momento da Messaggi > Impostazioni.\""</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Blocca Mi Message da numeri sconosciuti</string>
     <string name="mx_filter_message_from_stranger_summary">"Potrai ancora ricevere SMS normali da numeri sconosciuti"</string>
     <string name="mx_main_purpose">"Mi Message ti permette di inviare messaggi ad altri utenti di Mi Message senza costi aggiuntivi.

@@ -297,18 +297,18 @@ per aggiungere schede"</string>
     <string name="data_delete_tip">Eliminazione dati sulla salute da questo dispositivo…</string>
     <string name="data_details">Dettagli sui dati</string>
     <string name="data_empty">Nessun dato</string>
-    <string name="data_safety_tip_details">I tuoi dati sulla salute verranno conservati su questo dispositivo dopo la disconnessione. È possibile eliminarli in Salute &gt; Fonti di dati.</string>
+    <string name="data_safety_tip_details">I tuoi dati sulla salute verranno conservati su questo dispositivo dopo la disconnessione. È possibile eliminarli in Salute > Fonti di dati.</string>
     <string name="data_safety_tip_details2">"Alcuni dei tuoi dati sulla salute sono stati caricati nel cloud. Puoi scegliere di conservare i tuoi dati su questo dispositivo o eliminarli. Selezionando \"Elimina\" qui sotto verranno eliminati solo i dati da questo dispositivo, gli elementi sincronizzati saranno ancora memorizzati nel cloud.
-Se decidi di eliminare i tuoi dati di salute dopo aver scelto di conservarli puoi farlo in Salute &gt; Fonti di dati."</string>
+Se decidi di eliminare i tuoi dati di salute dopo aver scelto di conservarli puoi farlo in Salute > Fonti di dati."</string>
     <string name="data_safety_tip_title">Eliminazione dati salute</string>
     <string name="data_source">Sorgenti dati</string>
     <string name="data_source_cannot_be_synchronized">"Impossibile sincronizzare i dati"</string>
     <string name="data_source_data_updating">Aggiornamento dati salute…</string>
     <string name="data_source_list_description">"Xiaomi Health ottiene dati sulla salute (%1$s) da queste fonti. Se i dati vengono duplicati, vedrai i dati delle fonti che appaiono per prime nella lista su Xiaomi Health."</string>
     <string name="data_source_manage">Gestisci sorgenti dati</string>
-    <string name="data_source_not_support_hm_description">"%1$s non fornisce il conteggio dei passi dettagliati. Puoi provare a passare ad altre fonti dati in Altro &gt; Fonti dati."</string>
-    <string name="data_source_not_support_hm_description_consume">"%1$s non fornisce il conteggio delle Calorie. Puoi provare a passare ad altre fonti dati in Altro &gt; Fonti dati."</string>
-    <string name="data_source_not_support_hm_description_duration">"%1$s non fornisce informazioni dettagliate sugli allenamenti di intensità moderata e alta. Puoi provare a passare ad altre fonti dati in Altro &gt; Fonti dati."</string>
+    <string name="data_source_not_support_hm_description">"%1$s non fornisce il conteggio dei passi dettagliati. Puoi provare a passare ad altre fonti dati in Altro > Fonti dati."</string>
+    <string name="data_source_not_support_hm_description_consume">"%1$s non fornisce il conteggio delle Calorie. Puoi provare a passare ad altre fonti dati in Altro > Fonti dati."</string>
+    <string name="data_source_not_support_hm_description_duration">"%1$s non fornisce informazioni dettagliate sugli allenamenti di intensità moderata e alta. Puoi provare a passare ad altre fonti dati in Altro > Fonti dati."</string>
     <string name="date">Data</string>
     <string name="date_format_h_m">H:mm</string>
     <string name="date_format_h_m_s">HH:mm:ss</string>
@@ -406,7 +406,7 @@ Xiaomi Health ti informerà solo sugli articoli importanti."</string>
     <string name="dialog_feedback_title">Segnalazione</string>
     <string name="dialog_health_applicator">Xiaomi Health attualmente offre servizi solo agli adulti.</string>
     <string name="dialog_juveniles_details">Secondo la nostra politica sulla privacy, l\'età minima per l\'utilizzo di questo prodotto è di 18 anni.</string>
-    <string name="dialog_juveniles_link">Secondo la nostra &lt;font color=\"#FE6D67\"&gt;&lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt;&lt;/font&gt;, l\'età minima per utilizzare questo prodotto è di 18 anni.</string>
+    <string name="dialog_juveniles_link">Secondo la nostra &lt;font color=\"#FE6D67\">&lt;a href=\"%1$s\">Informativa sulla privacy&lt;/a>&lt;/font>, l\'età minima per utilizzare questo prodotto è di 18 anni.</string>
     <string name="dialog_keep">Mantieni</string>
     <string name="dialog_known">Ok</string>
     <string name="dialog_menstruation_purpose">Benvenuto su Xiaomi Health! \"Mestruazioni\" ti permette di registrare il ciclo, determinarne le date stimate e ricevere promemoria. Tutti i dati correlati saranno memorizzati localmente sul tuo dispositivo, il che ti permette di gestirli facilmente.</string>
@@ -482,11 +482,11 @@ Xiaomi Health ti informerà solo sugli articoli importanti."</string>
     <string name="exercise_correct">Correggi</string>
     <string name="exercise_detail_duration">%1$s…%2$s…-…%3$s…%4$s</string>
     <string name="exercise_detail_no_consume_hint">"La fonte dati selezionata (%1$s) non fornisce informazioni sul conteggio delle calorie.
-È possibile selezionare una fonte di dati diversa in Altro &gt; Fonti dati."</string>
+È possibile selezionare una fonte di dati diversa in Altro > Fonti dati."</string>
     <string name="exercise_detail_no_exercise_hint">"La fonte dati selezionata (%1$s) non fornisce informazioni sulla durata degli esercizi.
-È possibile selezionare una fonte di dati diversa in Altro &gt; Fonti dati."</string>
+È possibile selezionare una fonte di dati diversa in Altro > Fonti dati."</string>
     <string name="exercise_detail_no_steps_hint">"La fonte dati selezionata (%1$s) non fornisce informazioni sul conteggio dei passi.
-È possibile selezionare una fonte di dati diversa in Altro &gt; Fonti dati."</string>
+È possibile selezionare una fonte di dati diversa in Altro > Fonti dati."</string>
     <string name="exercise_duration">Durata esercizio</string>
     <string name="exercise_duration_consume">Durata: %1$s | Bruciate: %2$s</string>
     <string name="exercise_fast_description">%1$s(%2$s)</string>
@@ -506,7 +506,7 @@ Xiaomi Health ti informerà solo sugli articoli importanti."</string>
     <string name="exercise_notification_meet_title">"Passi di oggi: %d. Obiettivo raggiunto!"</string>
     <string name="exercise_notification_no_meet_title">"Passi di oggi: %d. Continua a raggiungere il tuo obiettivo!"</string>
     <string name="exercise_question_answer_one">"1. Alcuni dispositivi non sono dotati con sensori a basso consumo energetico. Xiaomi Health non tiene traccia dei dati sulle attività per risparmiare batteria sui seguenti dispositivi: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Note Redmi e Redmi Note 2, Note Redmi 3, Note Redmi 4, Mi 2, Mi 3, Mi 4
-Se il tuo dispositivo è elencato qui, puoi aggiungere le sorgenti dati manualmente in Xiaomi Health &gt; Menu &gt; Sorgenti dati &gt; Aggiungi sorgenti dati."</string>
+Se il tuo dispositivo è elencato qui, puoi aggiungere le sorgenti dati manualmente in Xiaomi Health > Menu > Sorgenti dati > Aggiungi sorgenti dati."</string>
     <string name="exercise_question_answer_two">2. Occasionalmente, i sensori di movimento potrebbero non riuscire ad avviarsi. Riavvia il telefono e controlla se il monitoraggio funziona normalmente in questo caso.</string>
     <string name="exercise_question_title">"Perché non riesco a vedere le mie statistiche?"</string>
     <string name="exercise_recog_confirm_ridding">Stavi pedalando tra le %1$s e le %2$s?</string>
@@ -635,7 +635,7 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
     <string name="goal_title">Resta in salute</string>
     <string name="goto_setting_auto_start">Impostazioni</string>
     <string name="group">Cicli</string>
-    <string name="guide_data_cloud_sync_tip">Puoi disattivare la sincronizzazione in Impostazioni &gt; Servizi Cloud.</string>
+    <string name="guide_data_cloud_sync_tip">Puoi disattivare la sincronizzazione in Impostazioni > Servizi Cloud.</string>
     <string name="guide_exit">Uscita da Xiaomi Health</string>
     <string name="guide_exit_description">"Non possiamo fornire servizi a persone che non hanno ancora compiuto 14 anni. Assicurati di usare questo dispositivo con il permesso del tuo tutore legale. Tocca il pulsante qui sotto per uscire dall'app."</string>
     <string name="guide_exit_title">Puoi iniziare a usare Xiaomi Health dopo aver compiuto 14 anni</string>
@@ -1278,7 +1278,7 @@ non rilevati"</string>
     <string name="snore_detection_enable">Rileva quando russi e parli nel sonno</string>
     <string name="snore_detection_guide_one_description">Il suono verrà registrato mentre dormi. L\'apprendimento automatico consente a Xiaomi Health di rilevare russate, rumori forti e quando parli nel sonno, e salva le registrazioni sul tuo dispositivo.</string>
     <string name="snore_detection_guide_one_title">Registra audio con il microfono</string>
-    <string name="snore_detection_guide_schedule_suggest">Il microfono verrà attivato e disattivato secondo il programma di riposo. Imposta la pianificazione di quando vai a letto per farlo funzionare&gt;</string>
+    <string name="snore_detection_guide_schedule_suggest">Il microfono verrà attivato e disattivato secondo il programma di riposo. Imposta la pianificazione di quando vai a letto per farlo funzionare></string>
     <string name="snore_detection_guide_schedule_suggest_details">Il microfono verrà acceso durante il tempo in cui sei a letto per analizzare il tuo ciclo di sonno. Per rendere più accurate le statistiche, impostare l\'ora in cui vai a letto in Orologio.</string>
     <string name="snore_detection_guide_three_description">Assicurati che il dispositivo sia sufficientemente carico prima di andare a letto. Una batteria scarica potrebbe interrompere la registrazione dei suoni.</string>
     <string name="snore_detection_guide_three_title">Mantieni il dispositivo in carica</string>

@@ -463,7 +463,7 @@
     <string name="installed">Installata</string>
     <string name="installing">Installazione</string>
     <string name="item_title_process_mode">Scegli un\'azione</string>
-    <string name="junk_syscache_alert_desc">Non è consigliato pulire questa cache, &lt;font color=#d64438&gt;potrebbe influire sul normale funzionamento dell\'app&lt;/font&gt;</string>
+    <string name="junk_syscache_alert_desc">Non è consigliato pulire questa cache, &lt;font color=#d64438>potrebbe influire sul normale funzionamento dell\'app&lt;/font></string>
     <string name="junk_tag_RF_DalvikCacheLeftovers">Residuo di sistema (Dalvik-Cache)</string>
     <string name="junk_tag_RF_DemoVideo_LG">LG手机演示用视频</string>
     <string name="junk_tag_RF_DemoVideo_MIUI">小米手机品牌展示视频</string>
@@ -488,18 +488,18 @@
     <string name="junk_tag_big_file_from_name_musicfiles">音乐目录</string>
     <string name="junk_tag_big_file_from_name_sdcard">存储卡根目录</string>
     <string name="junk_tag_big_file_from_name_videofiles">视频目录</string>
-    <string name="junk_tag_big_file_mergedfile_desc_aura">它是Sygic GPS下载的地图，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
-    <string name="junk_tag_big_file_mergedfile_desc_baidumap">它是百度地图下载的地图，&lt;font color=#d64438 &gt;清理后需要重新下载才能离线使用&lt;/font&gt;</string>
-    <string name="junk_tag_big_file_mergedfile_desc_baofeng">这是暴风影音下载的视频，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
-    <string name="junk_tag_big_file_mergedfile_desc_downloader">它是使用Downloader下载的文件，&lt;font color=#d64438 &gt;清理后文件会被删除&lt;/font&gt;</string>
-    <string name="junk_tag_big_file_mergedfile_desc_duokan">这是多看阅读中的我的书架书籍，&lt;font color=#d64438 &gt;清理后将无法查看&lt;/font&gt;</string>
-    <string name="junk_tag_big_file_mergedfile_desc_goapk">这是安智市场中下载的安装包，&lt;font color=#d64438 &gt;清理后将无法使用&lt;/font&gt;</string>
-    <string name="junk_tag_big_file_mergedfile_desc_googletransfer">它是翻译下载的离线语言包，&lt;font color=#d64438 &gt;清理后需要联网重新下载才能离线使用&lt;/font&gt;</string>
-    <string name="junk_tag_big_file_mergedfile_desc_navitel">它是Navitel下载的地图，&lt;font color=#d64438 &gt;清理后下载的 地图会被删除，需要联网重新下载&lt;/font&gt;</string>
-    <string name="junk_tag_big_file_mergedfile_desc_sygic">它是Sygic GPS下载的地图，&lt;font color=#d64438 &gt;清理后无法恢复&lt;/font&gt;</string>
-    <string name="junk_tag_big_file_mergedfile_desc_ucbrowser">这是UC Browser的可离线阅读的小说，&lt;font color=#d64438 &gt;清理后可离线阅读的小说会被删除&lt;/font&gt;</string>
-    <string name="junk_tag_big_file_mergedfile_desc_vk">它是使用VK播放音乐的时候缓存的语音文件，&lt;font color=#d64438 &gt;清理后不能离线收听&lt;/font&gt;</string>
-    <string name="junk_tag_big_file_mergedfile_desc_yandex">它是使用Яндекс.Маркет下载的所有地图，&lt;font color=#d64438 &gt;清理后不能离线使用&lt;/font&gt;</string>
+    <string name="junk_tag_big_file_mergedfile_desc_aura">它是Sygic GPS下载的地图，&lt;font color=#d64438 >清理后无法恢复&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_baidumap">它是百度地图下载的地图，&lt;font color=#d64438 >清理后需要重新下载才能离线使用&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_baofeng">这是暴风影音下载的视频，&lt;font color=#d64438 >清理后无法恢复&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_downloader">它是使用Downloader下载的文件，&lt;font color=#d64438 >清理后文件会被删除&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_duokan">这是多看阅读中的我的书架书籍，&lt;font color=#d64438 >清理后将无法查看&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_goapk">这是安智市场中下载的安装包，&lt;font color=#d64438 >清理后将无法使用&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_googletransfer">它是翻译下载的离线语言包，&lt;font color=#d64438 >清理后需要联网重新下载才能离线使用&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_navitel">它是Navitel下载的地图，&lt;font color=#d64438 >清理后下载的 地图会被删除，需要联网重新下载&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_sygic">它是Sygic GPS下载的地图，&lt;font color=#d64438 >清理后无法恢复&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_ucbrowser">这是UC Browser的可离线阅读的小说，&lt;font color=#d64438 >清理后可离线阅读的小说会被删除&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_vk">它是使用VK播放音乐的时候缓存的语音文件，&lt;font color=#d64438 >清理后不能离线收听&lt;/font></string>
+    <string name="junk_tag_big_file_mergedfile_desc_yandex">它是使用Яндекс.Маркет下载的所有地图，&lt;font color=#d64438 >清理后不能离线使用&lt;/font></string>
     <string name="junk_tag_big_file_mergedfile_name_aura">下载的地图(Sygic)</string>
     <string name="junk_tag_big_file_mergedfile_name_downloader">下载的文件(Downloader)</string>
     <string name="junk_tag_big_file_mergedfile_name_duokan">我的书架书籍(多看)</string>
@@ -728,9 +728,9 @@
     <string name="recommended">In evidenza</string>
     <string name="remain_item_name_n7p"></string>
     <string name="remain_item_name_pamp"></string>
-    <string name="resutl_function_deep_clean_summary"><Data>&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; di file possono essere eliminati. Libera altro spazio.</Data></string>
-    <string name="resutl_function_qq_clean_summary"><Data>Puoi ripulire &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; della cache generata da QQ</Data></string>
-    <string name="resutl_function_wechat_clean_summary"><Data>&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; di cache WeChat. Libera altro spazio.</Data></string>
+    <string name="resutl_function_deep_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> di file possono essere eliminati. Libera altro spazio.</Data></string>
+    <string name="resutl_function_qq_clean_summary"><Data>Puoi ripulire &lt;font color=#ff0000 >%1$s&lt;/font> della cache generata da QQ</Data></string>
+    <string name="resutl_function_wechat_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> di cache WeChat. Libera altro spazio.</Data></string>
     <string name="sc_allow_network_dialog_button">Consenti</string>
     <string name="sc_allow_network_dialog_message">Consentire a questa applicazione di connettersi alla rete per ricevere i dati?</string>
     <string name="scanning">Scansione…</string>

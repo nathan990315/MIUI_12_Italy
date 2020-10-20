@@ -19,7 +19,7 @@
     <string name="EmergencyCallWarningSummary">Non è possibile effettuare chiamate di emergenza tramite Wi‑Fi</string>
     <string name="EmergencyCallWarningTitle">Chiamate di emergenza non disponibili</string>
     <string name="Midnight">Mezzanotte</string>
-    <string name="NetworkPreferenceSwitchSummary">To improve reception, try changing the type selected at System &gt; Network &amp; Internet &gt; Mobile networks &gt; Preferred network type.</string>
+    <string name="NetworkPreferenceSwitchSummary">To improve reception, try changing the type selected at System > Network &amp; Internet > Mobile networks > Preferred network type.</string>
     <string name="NetworkPreferenceSwitchTitle">Can’t reach network</string>
     <string name="Noon">Mezzogiorno</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">Sblocco PIN aziendale RUIM</string>
@@ -177,13 +177,13 @@
 
 Caratteristiche attuali:
 %1$s
-È possibile modificare le funzioni selezionate in Impostazioni &gt; Accessibilità."</string>
+È possibile modificare le funzioni selezionate in Impostazioni > Accessibilità."</string>
     <string name="accessibility_shortcut_multiple_service_warning_title">Attivare le funzioni di accessibilità?</string>
     <string name="accessibility_shortcut_off">Non attivare</string>
     <string name="accessibility_shortcut_on">Attiva</string>
     <string name="accessibility_shortcut_single_service_warning">"Tenendo premuto entrambi i tasti del volume per alcuni secondi si attiva %1$s, una funzione di accessibilità. Questo potrebbe cambiare il funzionamento del dispositivo.
 
-Puoi cambiare questo collegamento con un'altra funzione in Impostazioni &gt; Accessibilità."</string>
+Puoi cambiare questo collegamento con un'altra funzione in Impostazioni > Accessibilità."</string>
     <string name="accessibility_shortcut_single_service_warning_title">Attivare %1$s?</string>
     <string name="accessibility_shortcut_spoken_feedback">Tieni premuti entrambi i tasti volume per tre secondi per usare %1$s</string>
     <string name="accessibility_shortcut_toogle_warning">Quando il collegamento è attivo, premendo entrambi i pulsanti del volume per 3 secondi si avvia una funzione di accessibilità.
@@ -191,7 +191,7 @@ Puoi cambiare questo collegamento con un'altra funzione in Impostazioni &gt; Acc
  Funzione di accessibilità attuale:
  %1$s
 
- È possibile modificare la funzione in Impostazioni &gt; Accessibilità.</string>
+ È possibile modificare la funzione in Impostazioni > Accessibilità.</string>
     <string name="accessibility_shortcut_warning_dialog_title">Utilizzare il collegamento Accessibilità?</string>
     <string name="accessibility_system_action_back_label">indietro</string>
     <string name="accessibility_system_action_hardware_a11y_shortcut_label">Collegamento Accessibilità</string>
@@ -346,10 +346,10 @@ Vuoi chiuderlo?"</string>
     <string name="autofill_save_never">Mai</string>
     <string name="autofill_save_no">No grazie</string>
     <string name="autofill_save_notnow">Non adesso</string>
-    <string name="autofill_save_title">Salvare in &lt;b&gt;%1$s&lt;/b&gt;?</string>
-    <string name="autofill_save_title_with_2types">Salvare %1$s e %2$s in &lt;b&gt;%3$s&lt;/b&gt;?</string>
-    <string name="autofill_save_title_with_3types">Salvare %1$s, %2$s e %3$s in &lt;b&gt;%4$s&lt;/b&gt;?</string>
-    <string name="autofill_save_title_with_type">Salvare %1$s in &lt;b&gt;%2$s&lt;/b&gt;?</string>
+    <string name="autofill_save_title">Salvare in &lt;b>%1$s&lt;/b>?</string>
+    <string name="autofill_save_title_with_2types">Salvare %1$s e %2$s in &lt;b>%3$s&lt;/b>?</string>
+    <string name="autofill_save_title_with_3types">Salvare %1$s, %2$s e %3$s in &lt;b>%4$s&lt;/b>?</string>
+    <string name="autofill_save_title_with_type">Salvare %1$s in &lt;b>%2$s&lt;/b>?</string>
     <string name="autofill_save_type_address">address</string>
     <string name="autofill_save_type_credit_card">credit card</string>
     <string name="autofill_save_type_debit_card">debit card</string>
@@ -363,10 +363,10 @@ Vuoi chiuderlo?"</string>
     <string name="autofill_state">Stato</string>
     <string name="autofill_state_re">state|county|region|province|land|county|principality|都道府県|estado|provincia|область|省|地區</string>
     <string name="autofill_this_form">Compilazione autom.</string>
-    <string name="autofill_update_title">Aggiornare in &lt;b&gt;%1$s&lt;/b&gt;?</string>
-    <string name="autofill_update_title_with_2types">Aggiornare %1$s e %2$s in &lt;b&gt;%3$s&lt;/b&gt;?</string>
-    <string name="autofill_update_title_with_3types">Aggiornare questi elementi in &lt;b&gt;%4$s&lt;/b&gt;: %1$s, %2$s, e %3$s?</string>
-    <string name="autofill_update_title_with_type">Aggiornare %1$s in &lt;b&gt;%2$s&lt;/b&gt;?</string>
+    <string name="autofill_update_title">Aggiornare in &lt;b>%1$s&lt;/b>?</string>
+    <string name="autofill_update_title_with_2types">Aggiornare %1$s e %2$s in &lt;b>%3$s&lt;/b>?</string>
+    <string name="autofill_update_title_with_3types">Aggiornare questi elementi in &lt;b>%4$s&lt;/b>: %1$s, %2$s, e %3$s?</string>
+    <string name="autofill_update_title_with_type">Aggiornare %1$s in &lt;b>%2$s&lt;/b>?</string>
     <string name="autofill_update_yes">Aggiorna</string>
     <string name="autofill_username_re">user.?name|user.?id|vollständiger.?name|用户名</string>
     <string name="autofill_window_title">Completamento automatico con %1$s</string>
@@ -384,7 +384,7 @@ Vuoi chiuderlo?"</string>
 · Attiva tema scuro
 · Disattiva o limita l\'attività in background, alcuni effetti visivi e altre funzionalità come \"Ehi Google\"
 
-\"&lt;annotation id=\"url\"&gt;Scopri di più&lt;/annotation&gt;</string>
+\"&lt;annotation id=\"url\">Scopri di più&lt;/annotation></string>
     <string name="battery_saver_notification_channel_name">Risparmio batteria</string>
     <string name="battery_saver_off_notification_title">Risparmio batteria disattivato</string>
     <string name="beforeOneMonthDurationPast">Oltre 1 mese fa</string>
@@ -441,7 +441,7 @@ Vuoi chiuderlo?"</string>
     <string name="chooser_all_apps_button_label">Elenco app</string>
     <string name="chooser_no_direct_share_targets">Condivisione diretta non disponibile</string>
     <string name="chooser_wallpaper">Cambia sfondo</string>
-    <string name="clearDefaultHintMsg">Modifica l\'applicazione predefinita in Impostazioni di sistema &gt; Applicazioni &gt; Scaricate.</string>
+    <string name="clearDefaultHintMsg">Modifica l\'applicazione predefinita in Impostazioni di sistema > Applicazioni > Scaricate.</string>
     <string name="close_button_text">Chiudi</string>
     <string name="color_correction_feature_name">Correzione del colore</string>
     <string name="color_inversion_feature_name">Inversione del colore</string>
@@ -1870,7 +1870,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="save_password_never">Mai</string>
     <string name="save_password_notnow">Non ora</string>
     <string name="save_password_remember">Memorizza</string>
-    <string name="screen_compat_mode_hint">Riattivala in Impostazioni di sistema &gt; Applicazioni &gt; Scaricate.</string>
+    <string name="screen_compat_mode_hint">Riattivala in Impostazioni di sistema > Applicazioni > Scaricate.</string>
     <string name="screen_compat_mode_scale">Scala</string>
     <string name="screen_compat_mode_show">Mostra sempre</string>
     <string name="screen_lock">Blocco schermo</string>
@@ -1950,7 +1950,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="skip_button_label">Ignora</string>
     <string name="slice_more_content">+ %1$d</string>
     <string name="slices_permission_request">%1$s vuole mostrare %2$s fette</string>
-    <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; sta inviando molti SMS. Vuoi consentire all\'applicazione di continuare a inviare messaggi?</string>
+    <string name="sms_control_message">&lt;b>%1$s&lt;/b> sta inviando molti SMS. Vuoi consentire all\'applicazione di continuare a inviare messaggi?</string>
     <string name="sms_control_no">Nega</string>
     <string name="sms_control_title">Invio SMS</string>
     <string name="sms_control_yes">Consenti</string>
@@ -1962,7 +1962,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="sms_short_code_confirm_never_allow">Non consentire mai</string>
     <string name="sms_short_code_details"><b>Potrebbero essere effettuati addebiti</b>\" sull\'account del tuo gestore di telefonia mobile.</string>
     <string name="sms_short_code_remember_choice">Memorizza la mia scelta</string>
-    <string name="sms_short_code_remember_undo_instruction">Modifica: Impostazioni &gt; Applicazioni</string>
+    <string name="sms_short_code_remember_undo_instruction">Modifica: Impostazioni > Applicazioni</string>
     <string name="smv_application">L\'applicazione %1$s (processo %2$s) ha violato la norma StrictMode autoimposta.</string>
     <string name="smv_process">Il processo %1$s ha violato la norma StrictMode autoimposta.</string>
     <string name="ssl_ca_cert_noti_by_administrator">Dall\'amministratore del profilo di lavoro</string>
@@ -2048,7 +2048,7 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="unsupported_compile_sdk_show">Mostra sempre</string>
     <string name="unsupported_display_size_message">%1$s non supporta le attuali impostazioni di grandezza del Display e potrebbe comportarsi in modo inaspettato.</string>
     <string name="unsupported_display_size_show">Sempre visibile</string>
-    <string name="untitled">&lt;Senza nome&gt;</string>
+    <string name="untitled">&lt;Senza nome></string>
     <string name="upload_file">Scegli file</string>
     <string name="usb_accessory_notification_title">Collegato a un accessorio USB</string>
     <string name="usb_cd_installer_notification_title">Collegato come installer</string>

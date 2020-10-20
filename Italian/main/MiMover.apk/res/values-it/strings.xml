@@ -427,7 +427,7 @@ Visita https://appleid.apple.com/#!&amp;page=signin per disattivarlo"</string>
     <string name="dialog_request_permission_message_buttom_content">Consentire a questa applicazione di connettersi a Internet e concedere le autorizzazioni obbligatorie elencate sopra.</string>
     <string name="dialog_request_permission_message_extra_summary">用于该应用的基本服务与功能</string>
     <string name="dialog_request_permission_message_extra_title">必要权限</string>
-    <string name="dialog_request_permission_message_link" formatted="false">&lt;Data&gt;\"Per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro &amp;lt; href=\'%1s\'&amp;gt;Accordo Utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\'%2s\'&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="dialog_request_permission_message_link" formatted="false">&lt;Data>\"Per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro &amp;lt; href=\'%1s\'&amp;gt;Accordo Utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\'%2s\'&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;.&lt;/Data></string>
     <string name="dialog_request_permission_message_provision_link">Per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro %1$s e %2$s.</string>
     <string name="dialog_request_permission_title">Attenzione</string>
     <string name="dialog_tip_upgrade_summary">Sembra che Mi Mover sia troppo vecchio. Aggiorna Mi Mover all\'ultima versione per poter trasferire file.</string>
@@ -436,7 +436,7 @@ Visita https://appleid.apple.com/#!&amp;page=signin per disattivarlo"</string>
     <string name="dialog_version_title_tip">Aggiornamento disponibile</string>
     <string name="dialog_wechat_data_transfer_fail_button">Fatto</string>
     <string name="dialog_wechat_data_transfer_fail_message">"Impossibile trasferire i dati di WeChat e la cronologia chat a causa di restrizioni delle app. Prova la funzione di backup in-app.
-Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il backup &amp; Migra le chat."</string>
+Apri WeChat e vai su Profilo > Impostazioni > Generale > Esegui il backup &amp; Migra le chat."</string>
     <string name="dialog_wechat_data_transfer_fail_title">"Impossibile trasferire i dati di WeChat"</string>
     <string name="document">Documenti</string>
     <string name="early_morning">AM</string>
@@ -636,7 +636,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="international_scanner_send_dialog_message">"I messaggi di testo e i dati delle app di alcune app di terze parti non possono essere trasferiti. Non spegnere il Wi-Fi o cambiare rete durante il trasferimento."</string>
     <string name="label">MIUI SDK</string>
     <string name="label_null"></string>
-    <string name="lack_perm_msg">Mi Mover necessita dei seguenti permessi: &lt;b&gt;%s&lt;/b&gt;.</string>
+    <string name="lack_perm_msg">Mi Mover necessita dei seguenti permessi: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">Permessi richiesti</string>
     <string name="launcher">Layout schermata Home</string>
     <string name="less_than_1_minute">Meno di 1 minuto</string>
@@ -1012,7 +1012,7 @@ Libera almeno %s."</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="time_picker_label_hour">O</string>
     <string name="time_picker_label_minute">Min</string>
-    <string name="time_spent">Tempo: &lt;g id=\"time\"&gt;%1$s&lt;/g&gt;</string>
+    <string name="time_spent">Tempo: &lt;g id=\"time\">%1$s&lt;/g></string>
     <string name="title_request_package_stats_perm">Permessi richiesti</string>
     <string name="title_request_write_settings_perm">Permesso di modificare le impostazioni di sistema richiesto</string>
     <string name="today">Oggi</string>

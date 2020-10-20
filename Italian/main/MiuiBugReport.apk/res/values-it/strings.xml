@@ -32,7 +32,7 @@
     <string name="account_crop_user_avatar">Ritaglia foto</string>
     <string name="account_empty_user_name">Inserisci il nome utente del tuo Mi Account</string>
     <string name="account_error_all_space_user_name">"\"Il nome utente non può contenere  spazi"</string>
-    <string name="account_error_invalid_user_name">"Il nome utente non può contenere: &lt;, &gt;, o /"</string>
+    <string name="account_error_invalid_user_name">"Il nome utente non può contenere: &lt;, >, o /"</string>
     <string name="account_error_longer_user_name">"Il nome utente non può essere più lungo di 20 caratteri"</string>
     <string name="account_error_shorter_user_name">Il nome deve essere più lungo di 2 caratteri</string>
     <string name="account_error_user_birthday">Il compleanno inserito non è valido</string>
@@ -76,7 +76,7 @@
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="btn_send">Invia</string>
     <string name="bugreport_dialog_not_show_again">"Non mostrare più"</string>
-    <string name="bugreport_dialog_submit_content">&lt;Data&gt;\"Stai salvando i log software sul dispositivo. I log possono contenere informazioni personali e dati sulla posizione. Se non vuoi che queste informazioni siano esposte, non condividere i log con nessuno. \"Accetto\" significa che hai letto e accettato la nostra &amp;lt;a href=\"%1$s\"&amp;gt;Informativa sulla privacy&amp;lt; a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="bugreport_dialog_submit_content">&lt;Data>\"Stai salvando i log software sul dispositivo. I log possono contenere informazioni personali e dati sulla posizione. Se non vuoi che queste informazioni siano esposte, non condividere i log con nessuno. \"Accetto\" significa che hai letto e accettato la nostra &amp;lt;a href=\"%1$s\"&amp;gt;Informativa sulla privacy&amp;lt; a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt;.&lt;/Data></string>
     <string name="bugreport_dump_complete_notification_summary">Tocca per vedere.</string>
     <string name="bugreport_dump_complete_notification_title">Segnalazione bug creata</string>
     <string name="bugreport_dump_start_notification_summary">Questa operazione potrebbe richiedere alcuni minuti.</string>
@@ -477,8 +477,8 @@ Invia questo codice al supervisore."</string>
     <string name="passport_unknow_error">Siamo spiacenti, si è verificato un errore sconosciuto</string>
     <string name="passport_unknow_host_network_error">Controlla le tue impostazioni di rete e prova di nuovo</string>
     <string name="passport_unknow_network_error">Siamo spiacenti, si è verificato un errore di rete</string>
-    <string name="passport_user_agreement_link">"&lt;Data&gt;Ho letto e accettato il &lt;a href=%1$s&gt;Contratto Utente&lt;/a&gt; e&lt;a href=%2$s&gt;Informativa sulla Privacy&lt;/a&gt;.&lt;/Data&gt; Xiaomi"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Ho letto e accettato i seguenti documenti: &lt;a href=%1$s&gt;Contratto Utente&lt;/a&gt; e &lt;a href=%4$s&gt;Informativa sulla Privacy&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt; Xiaomi"</string>
+    <string name="passport_user_agreement_link">"&lt;Data>Ho letto e accettato il &lt;a href=%1$s>Contratto Utente&lt;/a> e&lt;a href=%2$s>Informativa sulla Privacy&lt;/a>.&lt;/Data> Xiaomi"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>Ho letto e accettato i seguenti documenti: &lt;a href=%1$s>Contratto Utente&lt;/a> e &lt;a href=%4$s>Informativa sulla Privacy&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data> Xiaomi"</string>
     <string name="passport_user_id_intro">Accedi con %1$s</string>
     <string name="passport_v_code_error">Il codice di verifica non è corretto</string>
     <string name="passport_vcode_notification_title">La tua verifica di accesso è incompleta</string>
@@ -518,7 +518,7 @@ Invia questo codice al supervisore."</string>
     <string name="reply_select_log_hint">Seleziona log</string>
     <string name="reply_successful">Risposta inviata</string>
     <string name="report_miui">Segnala un bug</string>
-    <string name="request_camera_permission_message">Questo servizio richiede la tua autorizzazione, rispetteremo rigorosamente le leggi pertinenti per proteggere le tue informazioni personali: &lt;br&gt;&lt;br&gt;&lt;b&gt; Accesso Fotocamera: necessario per l\'impostazione di Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Se non accetti di consentire i permessi di cui sopra, questa funzione non funzionerà correttamente, ma non influenzerà l\'uso delle funzioni di base di questa applicazione. È possibile scegliere di disattivare l\'autorizzazione di cui sopra nelle impostazioni di sistema.</string>
+    <string name="request_camera_permission_message">Questo servizio richiede la tua autorizzazione, rispetteremo rigorosamente le leggi pertinenti per proteggere le tue informazioni personali: &lt;br>&lt;br>&lt;b> Accesso Fotocamera: necessario per l\'impostazione di Avatar &lt;/b>&lt;br>&lt;br> Se non accetti di consentire i permessi di cui sopra, questa funzione non funzionerà correttamente, ma non influenzerà l\'uso delle funzioni di base di questa applicazione. È possibile scegliere di disattivare l\'autorizzazione di cui sopra nelle impostazioni di sistema.</string>
     <string name="resend_active_email">Invia di nuovo</string>
     <string name="resend_email_reach_limit_message">"Hai richiesto troppe email di verifica. Assicurati che l'email di verifica non sia nella cartella Spam."</string>
     <string name="resend_email_reach_limit_title">Troppi tentativi</string>
@@ -554,8 +554,8 @@ Invia questo codice al supervisore."</string>
     <string name="stop_full_log_dialog_title">Generazione dei log…</string>
     <string name="submit_dialog_cancel">"Non accetto"</string>
     <string name="submit_dialog_confirm">Accetto</string>
-    <string name="submit_dialog_content">&lt;Data&gt;\"È necessario accettare la nostra &amp;lt;a href=\"%1$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; per poter utilizzare il feedback. I problemi segnalati insieme agli elementi allegati (potrebbero contenere informazioni personali così come le informazioni sul tuo dispositivo e sulla tua rete) verranno caricate sui server MIUI. Questo ci aiuterà a individuare e risolvere i problemi segnalati.\"&lt;/Data&gt;</string>
-    <string name="submit_dialog_content_global">&lt;Data&gt;\"Il tuo feedback, insieme agli allegati (se presenti) e ai log (puoi deselezionare le caselle corrispondenti per gli elementi che non vuoi caricare) saranno inviati ai server MIUI. I log possono contenere informazioni personali e i dati della tua posizione. \"Accetto\" significa che hai letto e accettato la nostra &amp;lt;a href=\"%1$s\"&amp;gt;Informativa sulla privacy&amp;lt; a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="submit_dialog_content">&lt;Data>\"È necessario accettare la nostra &amp;lt;a href=\"%1$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; per poter utilizzare il feedback. I problemi segnalati insieme agli elementi allegati (potrebbero contenere informazioni personali così come le informazioni sul tuo dispositivo e sulla tua rete) verranno caricate sui server MIUI. Questo ci aiuterà a individuare e risolvere i problemi segnalati.\"&lt;/Data></string>
+    <string name="submit_dialog_content_global">&lt;Data>\"Il tuo feedback, insieme agli allegati (se presenti) e ai log (puoi deselezionare le caselle corrispondenti per gli elementi che non vuoi caricare) saranno inviati ai server MIUI. I log possono contenere informazioni personali e i dati della tua posizione. \"Accetto\" significa che hai letto e accettato la nostra &amp;lt;a href=\"%1$s\"&amp;gt;Informativa sulla privacy&amp;lt; a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt;.&lt;/Data></string>
     <string name="submit_dialog_title">Invia segnalazione</string>
     <string name="submit_feedback_info_failed">"Impossibile inviare segnalazione"</string>
     <string name="suggest_upload_log_dialog_cancel">Non ora</string>

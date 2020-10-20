@@ -36,7 +36,7 @@
     <string name="account_crop_user_avatar">Taglia immagine</string>
     <string name="account_empty_user_name">Inserisci il nome utente del tuo Mi Account</string>
     <string name="account_error_all_space_user_name">"\"Il nome utente non può contenere  spazi"</string>
-    <string name="account_error_invalid_user_name">"Il nome utente non può contenere: &lt;, &gt;, o /"</string>
+    <string name="account_error_invalid_user_name">"Il nome utente non può contenere: &lt;, >, o /"</string>
     <string name="account_error_longer_user_name">"Il nome utente non può essere più lungo di 20 caratteri"</string>
     <string name="account_error_shorter_user_name">Il nome deve essere più lungo di 2 caratteri</string>
     <string name="account_error_user_birthday">La data di compleanno indicata non è valida</string>
@@ -252,7 +252,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_giftcard_used">rinnovato</string>
     <string name="mibi_giftcard_vaild_util">valido fino al %1$s</string>
     <string name="mibi_giftcard_will_expire">Scaduta il %1$s</string>
-    <string name="mibi_giftcard_with_num">&lt;Data&gt;&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Sconto Mi Credit disponibile&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+    <string name="mibi_giftcard_with_num">&lt;Data>&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Sconto Mi Credit disponibile&amp;lt;/font&amp;gt;&lt;/Data></string>
     <string name="mibi_header_network_error">"Impossibile connettersi alla rete"</string>
     <string name="mibi_illegal_intent">Richiesta di intenti non valida</string>
     <string name="mibi_is_what">Cosa puoi acquistare con i Mi Credit?</string>
@@ -278,7 +278,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_msg_order_hint_1_1">Dopo aver toccato \'Conferma Acquisto\', il telefono eseguirà l\'operazione</string>
     <string name="mibi_msg_order_hint_1_2">Contatta automaticamente il tuo fornitore di servizi.</string>
     <string name="mibi_msg_picker_hint_1_1">1.</string>
-    <string name="mibi_msg_picker_hint_1_2">Il riempimento testuale potrebbe essere più costoso: &lt;font color=red&gt;￥%1$d = %2$d Mi Credit&lt;/font&gt;</string>
+    <string name="mibi_msg_picker_hint_1_2">Il riempimento testuale potrebbe essere più costoso: &lt;font color=red>￥%1$d = %2$d Mi Credit&lt;/font></string>
     <string name="mibi_msg_picker_hint_2_1">2.</string>
     <string name="mibi_msg_picker_hint_2_a">L\'operatore ha ricaricato ￥%1$s in base al costo del servizio ricarica</string>
     <string name="mibi_msg_picker_hint_2_b">Un SMS ti verrà recapitato dal tuo operatore dopo che toccherai il pulsante \"Ricarica\". L\'operatore ti addebiterà il costo di un normale SMS.</string>
@@ -347,7 +347,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_prepaid_picker_hint_1_2">Supportato solo addebito una tantum;</string>
     <string name="mibi_prepaid_picker_hint_2_1">2.</string>
     <string name="mibi_prepaid_picker_hint_2_2_a">"Il valore nominale selezionato deve essere coerente con quello della carta prepagata. La scelta di un altro valore invaliderà la carta. Questa azione non può essere annullata."</string>
-    <string name="mibi_prepaid_picker_hint_2_2_b">Se il valore nominale della carta prepagata non lo è del &lt;font color=red&gt;￥%1$s&lt;/font&gt;, la carta verrà invalidata. Xiaomi non si riterrà responsabile per eventuali perdite monetarie che potrebbero verificarsi a seguito di un errore dell\'utente.</string>
+    <string name="mibi_prepaid_picker_hint_2_2_b">Se il valore nominale della carta prepagata non lo è del &lt;font color=red>￥%1$s&lt;/font>, la carta verrà invalidata. Xiaomi non si riterrà responsabile per eventuali perdite monetarie che potrebbero verificarsi a seguito di un errore dell\'utente.</string>
     <string name="mibi_prepaid_picker_title_default">Seleziona ammontare</string>
     <string name="mibi_prepaid_picker_title_selected">Ammontare</string>
     <string name="mibi_privacy_license_name">Informativa sulla Privacy</string>
@@ -526,8 +526,8 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="passport_unknow_error">Siamo spiacenti, si è verificato un errore sconosciuto</string>
     <string name="passport_unknow_host_network_error">Verifica le impostazioni di rete e riprova</string>
     <string name="passport_unknow_network_error">Siamo spiacenti, si è verificato un errore di rete</string>
-    <string name="passport_user_agreement_link">"&lt;Data&gt;Ho letto e accettato il &lt;a href=%1$s&gt;Contratto Utente&lt;/a&gt; e&lt;a href=%2$s&gt;Informativa sulla Privacy&lt;/a&gt;.&lt;/Data&gt; Xiaomi"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Ho letto e accettato i seguenti documenti: &lt;a href=%1$s&gt;Contratto Utente&lt;/a&gt; e &lt;a href=%4$s&gt;Informativa sulla Privacy&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt; Xiaomi"</string>
+    <string name="passport_user_agreement_link">"&lt;Data>Ho letto e accettato il &lt;a href=%1$s>Contratto Utente&lt;/a> e&lt;a href=%2$s>Informativa sulla Privacy&lt;/a>.&lt;/Data> Xiaomi"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>Ho letto e accettato i seguenti documenti: &lt;a href=%1$s>Contratto Utente&lt;/a> e &lt;a href=%4$s>Informativa sulla Privacy&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data> Xiaomi"</string>
     <string name="passport_user_id_intro">Accedi con %1$s</string>
     <string name="passport_v_code_error">Il codice di verifica non è corretto</string>
     <string name="passport_vcode_notification_title">La tua verifica di accesso è incompleta</string>
@@ -554,7 +554,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="psw_sign_in">Accedi con password</string>
     <string name="qq_application_id"></string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
-    <string name="request_camera_permission_message">Questo servizio richiede la tua autorizzazione, rispetteremo rigorosamente le leggi pertinenti per proteggere le tue informazioni personali: &lt;br&gt;&lt;br&gt;&lt;b&gt; Accesso Fotocamera: necessaria per l\'impostazione di Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Se non accetti di consentire i permessi di cui sopra, questa funzione non funzionerà correttamente, ma non influenzerà l\'uso delle funzioni di base di questa applicazione. È possibile scegliere di disattivare l\'autorizzazione di cui sopra nelle impostazioni di sistema in seguito.</string>
+    <string name="request_camera_permission_message">Questo servizio richiede la tua autorizzazione, rispetteremo rigorosamente le leggi pertinenti per proteggere le tue informazioni personali: &lt;br>&lt;br>&lt;b> Accesso Fotocamera: necessaria per l\'impostazione di Avatar &lt;/b>&lt;br>&lt;br> Se non accetti di consentire i permessi di cui sopra, questa funzione non funzionerà correttamente, ma non influenzerà l\'uso delle funzioni di base di questa applicazione. È possibile scegliere di disattivare l\'autorizzazione di cui sopra nelle impostazioni di sistema in seguito.</string>
     <string name="resend_active_email">Invia di nuovo</string>
     <string name="resend_email_reach_limit_message">"Hai richiesto troppe email di verifica. Assicurati che l'email di verifica non sia nella cartella Spam."</string>
     <string name="resend_email_reach_limit_title">Troppi tentativi</string>

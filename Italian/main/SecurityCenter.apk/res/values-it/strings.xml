@@ -460,7 +460,7 @@
     <string name="app_permission_use_group_storage">Archiviazione</string>
     <string name="app_permission_use_group_storage_des">Accesso e salvataggio in memoria</string>
     <string name="app_permission_use_neccesary">Permessi richiesti</string>
-    <string name="app_permission_use_no_neccesary">Permessi opzionali</string>
+    <string name="app_permission_use_no_neccesary">Permessi opzionali </string>
     <string name="app_permission_use_title">Permessi</string>
     <string name="app_right">Produzione ufficiale Xiaomi</string>
     <string name="app_running_tip_dialog_negative">Annulla</string>
@@ -691,8 +691,8 @@ se dimenticata</string>
     <string name="begin_date">Data di azzeramento utilizzo</string>
     <string name="best_booster_status">La velocità di gioco è la migliore in questo momento.</string>
     <string name="best_warning_dialog_button">我知道了</string>
-    <string name="best_warning_dialog_message">"温馨提示：使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～"</string>
-    <string name="best_warning_dialog_message1">"使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～～"</string>
+    <string name="best_warning_dialog_message">"温馨提示：使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'>有一定几率会被微信误认为使用了自动抢红包插件&lt;/font>，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～"</string>
+    <string name="best_warning_dialog_message1">"使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'>有一定几率会被微信误认为使用了自动抢红包插件&lt;/font>，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～～"</string>
     <string name="best_warning_dialog_title">温馨提示</string>
     <string name="bg_network_exception_title">Connessione in background limitata</string>
     <string name="bill_limit_notification_text_format">Carta: %1$s | Saldo: %2$s CNY</string>
@@ -957,7 +957,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
     <string name="dialog_app_roaming_title">"Il Roaming estero non è attivo per %1$s"</string>
     <string name="dialog_change_package_type_summary">Modificare la tipogia del piano dati reimposterá tutte le preferenze di utilizzo (ad esempio il limite di utilizzo dati) ai valori predefiniti. Procedere?</string>
     <string name="dialog_change_package_type_title">Modifica della tipologia di piano dati</string>
-    <string name="dialog_msg_auto_start_declare">Alcune app di sicurezza potrebbero erroneamente indicare che la MIUI sta impedendo alle app di avviarsi. Per verificare i permessi concessi alle singole app, vai in Impostazioni &gt; Applicazioni</string>
+    <string name="dialog_msg_auto_start_declare">Alcune app di sicurezza potrebbero erroneamente indicare che la MIUI sta impedendo alle app di avviarsi. Per verificare i permessi concessi alle singole app, vai in Impostazioni > Applicazioni</string>
     <string name="dialog_msg_stop_virus_scan">"Interrompe la scansione antivirus prima che sia terminata"</string>
     <string name="dialog_no_longer_alert">"Non mostrare più"</string>
     <string name="dialog_remobe_luckymoney_cancle">使用单发版</string>
@@ -1002,7 +1002,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
     <string name="dlg_import_blacklist">Importazione nella blacklist</string>
     <string name="dlg_import_whitelist">Inserimento nelle eccezioni…</string>
     <string name="dlg_keyword_ok">Salva</string>
-    <string name="dlg_message_not_open_stranger_identify">Devi attivare l\'identificazione dei numeri sconosciuti in \"Telefono &gt; Impostazioni\" prima di segnalare un numero.</string>
+    <string name="dlg_message_not_open_stranger_identify">Devi attivare l\'identificazione dei numeri sconosciuti in \"Telefono > Impostazioni\" prima di segnalare un numero.</string>
     <string name="dlg_move_to_white">Aggiungi alle eccezioni</string>
     <string name="dlg_no_block">"Sbloccare questo numero?"</string>
     <string name="dlg_no_block_ok">Non bloccare</string>
@@ -1080,8 +1080,8 @@ scheda medica"</string>
     <string name="ew_alert_help_place_title">Rifugio nelle vicinanze</string>
     <string name="ew_alert_help_safe_title">Evita il pericolo</string>
     <string name="ew_alert_help_tips">"Mantenere la calma e stare attenti. Stare lontano da oggetti appesi, non prendere l'ascensore. Trovare uno spazio o copertura sicuri e tenere duro."</string>
-    <string name="ew_alert_no_contact">Imposta prima un contatto di emergenza in Sicurezza &gt; Avvisi sui terremoti</string>
-    <string name="ew_alert_no_emergency">Aggiungi i tuoi dati medici in Sicurezza &gt; Avvisi sui terremoti</string>
+    <string name="ew_alert_no_contact">Imposta prima un contatto di emergenza in Sicurezza > Avvisi sui terremoti</string>
+    <string name="ew_alert_no_emergency">Aggiungi i tuoi dati medici in Sicurezza > Avvisi sui terremoti</string>
     <string name="ew_alert_text_from">Dati forniti da %s</string>
     <string name="ew_app_name">Allerta terremoto</string>
     <string name="ew_app_name_exercise">Allerta terremoto (Demo)</string>
@@ -1090,7 +1090,7 @@ scheda medica"</string>
     <string name="ew_arrive_text_tips">Onda sismica arrivata: %s</string>
     <string name="ew_button_confirm">Accetto</string>
     <string name="ew_button_exit">"Non accetto"</string>
-    <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;\"Questa funzione ti fornisce la funzionalità di avvertimento sui terremoti. Ti avviserà sui prossimi terremoti e riprodurrà il suono di avvertimento. Potrai trovare il riparo più vicino, chiamare il tuo contatto di emergenza e presentare la tua carta medica, se necessario. &amp;lt;br&amp;gt;Noi proteggeremo le tue informazioni personali in conformità con le leggi, i regolamenti e le politiche sulla privacy. &amp;lt;br&amp;gt; Per essere in grado di funzionare normalmente, questa funzione richiede i seguenti permessi al fine di raccogliere le informazioni personali: &amp;lt; r&amp;gt;&amp;#8226; Info località: &amp;lt;br&amp;gt;Per accedere alla tua posizione e fornire avvisi accurati sui terremoti. &amp;lt;br&amp;gt; Se non accetti di concedere tali autorizzazioni o condividere e caricare le tue informazioni personali, non potrai utilizzare questa funzione. Puoi scegliere di disattivare questa funzione o non attivarla in questo caso. &amp;lt;br&amp;gt;Devi leggere e accettare la nostra &amp;lt;a href=\"http://api.sec.miui. om/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt; prima di utilizzare questa funzione.\"&lt;/Data&gt;</string>
+    <string name="ew_china_version_first_start_network_msg">&lt;Data>\"Questa funzione ti fornisce la funzionalità di avvertimento sui terremoti. Ti avviserà sui prossimi terremoti e riprodurrà il suono di avvertimento. Potrai trovare il riparo più vicino, chiamare il tuo contatto di emergenza e presentare la tua carta medica, se necessario. &amp;lt;br&amp;gt;Noi proteggeremo le tue informazioni personali in conformità con le leggi, i regolamenti e le politiche sulla privacy. &amp;lt;br&amp;gt; Per essere in grado di funzionare normalmente, questa funzione richiede i seguenti permessi al fine di raccogliere le informazioni personali: &amp;lt; r&amp;gt;&amp;#8226; Info località: &amp;lt;br&amp;gt;Per accedere alla tua posizione e fornire avvisi accurati sui terremoti. &amp;lt;br&amp;gt; Se non accetti di concedere tali autorizzazioni o condividere e caricare le tue informazioni personali, non potrai utilizzare questa funzione. Puoi scegliere di disattivare questa funzione o non attivarla in questo caso. &amp;lt;br&amp;gt;Devi leggere e accettare la nostra &amp;lt;a href=\"http://api.sec.miui. om/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt; prima di utilizzare questa funzione.\"&lt;/Data></string>
     <string name="ew_city_support_tip">*仅支持为其下辖的%s预警</string>
     <string name="ew_close">Disattiva avvisi</string>
     <string name="ew_close_warning">Disattiva</string>
@@ -1135,7 +1135,7 @@ scheda medica"</string>
     <string name="ew_guide_start_agree">Attiva</string>
     <string name="ew_guide_start_find_area">Cerca per aree</string>
     <string name="ew_guide_start_warning_range">目前地震预警为成都高新减灾研究所大陆地震预警网覆盖区域提供服务。具体地区可在【城市管理】中查找。</string>
-    <string name="ew_guide_statement_text">&lt;Data&gt;\"Questa esclusione di responsabilità si applica a tutti gli utenti (di seguito «tu») che attivano la funzione di avvertimento sui terremoti. Accettando questa clausola di esclusione di responsabilità, stipulate un contratto giuridicamente vincolante con Xiaomi Inc. e le sue affiliate (di seguito «Xiaomi»). L\'utente riconosce di aver letto tutti i contenuti di questa clausola di esclusione di responsabilità, e comprendi e accetti pienamente tutti i termini e le condizioni di questa esclusione di responsabilità; in caso contrario, si dovrebbe spegnere immediatamente la funzione di allarme terremoto.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Special statement&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; La funzionalità di avviso terremoto è disponibile nelle regioni selezionate ora (&amp;lt;a href=\"https://sec-cdn. tatic.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index. tml?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Tocca per visualizzare&amp;lt;/a&amp;gt;). Altre regioni saranno disponibili presto.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Disclaimer&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Le funzioni di avvertimento terremoto sono fornite da Xiaomi nell\'app Sicurezza. Dovete capire che le informazioni di allarme terremoto sono fornite dalle agenzie di allerta precoce del governo. Xiaomi non sovrintende a tali agenzie e non ha alcun controllo su di esse.&amp;lt;br&amp;gt; Xiaomi non promette né garantisce l\'accuratezza, la validità e la tempestività delle informazioni di allarme terremoto, né garantisce che il servizio di allarme terremoto soddisferà tutte le vostre esigenze.&amp;lt;br&amp;gt; Ricevere le informazioni di avvertimento terremoto richiede di mantenere il dispositivo collegato alla rete mobile. Guasti di linea di comunicazione di terze parti, problemi tecnici, guasti delle apparecchiature di rete o terminali, instabilità del sistema, e altri vari eventi di forza maggiore potrebbero impedirti di ricevere informazioni di allarme terremoto. Xiaomi non è responsabile delle perdite causate da tali eventi.&amp;lt;br&amp;gt; Devi capire che questa funzione è fornita solo per il tuo riferimento. L\'avvertimento che ricevete potrebbe venire secondi prima dell\'insorgenza di un terremoto. Sei l\'unico responsabile per i rischi e le conseguenze di qualsiasi azione eseguita in base alle informazioni fornite da questa funzione.&amp;lt;br&amp;gt;\"&lt;/Data&gt;</string>
+    <string name="ew_guide_statement_text">&lt;Data>\"Questa esclusione di responsabilità si applica a tutti gli utenti (di seguito «tu») che attivano la funzione di avvertimento sui terremoti. Accettando questa clausola di esclusione di responsabilità, stipulate un contratto giuridicamente vincolante con Xiaomi Inc. e le sue affiliate (di seguito «Xiaomi»). L\'utente riconosce di aver letto tutti i contenuti di questa clausola di esclusione di responsabilità, e comprendi e accetti pienamente tutti i termini e le condizioni di questa esclusione di responsabilità; in caso contrario, si dovrebbe spegnere immediatamente la funzione di allarme terremoto.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Special statement&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; La funzionalità di avviso terremoto è disponibile nelle regioni selezionate ora (&amp;lt;a href=\"https://sec-cdn. tatic.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index. tml?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Tocca per visualizzare&amp;lt;/a&amp;gt;). Altre regioni saranno disponibili presto.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Disclaimer&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Le funzioni di avvertimento terremoto sono fornite da Xiaomi nell\'app Sicurezza. Dovete capire che le informazioni di allarme terremoto sono fornite dalle agenzie di allerta precoce del governo. Xiaomi non sovrintende a tali agenzie e non ha alcun controllo su di esse.&amp;lt;br&amp;gt; Xiaomi non promette né garantisce l\'accuratezza, la validità e la tempestività delle informazioni di allarme terremoto, né garantisce che il servizio di allarme terremoto soddisferà tutte le vostre esigenze.&amp;lt;br&amp;gt; Ricevere le informazioni di avvertimento terremoto richiede di mantenere il dispositivo collegato alla rete mobile. Guasti di linea di comunicazione di terze parti, problemi tecnici, guasti delle apparecchiature di rete o terminali, instabilità del sistema, e altri vari eventi di forza maggiore potrebbero impedirti di ricevere informazioni di allarme terremoto. Xiaomi non è responsabile delle perdite causate da tali eventi.&amp;lt;br&amp;gt; Devi capire che questa funzione è fornita solo per il tuo riferimento. L\'avvertimento che ricevete potrebbe venire secondi prima dell\'insorgenza di un terremoto. Sei l\'unico responsabile per i rischi e le conseguenze di qualsiasi azione eseguita in base alle informazioni fornite da questa funzione.&amp;lt;br&amp;gt;\"&lt;/Data></string>
     <string name="ew_guide_tips_1">"Verrai avvisato sui prossimi terremoti e sentirai il suono di avvertimento"</string>
     <string name="ew_guide_tips_2">Informazioni e avvertimenti sonori saranno aggiornati durante il terremoto</string>
     <string name="ew_guide_tips_3">"Potrai trovare il rifugio più vicino, chiamare il tuo contatto di emergenza e presentare la tua carta medica se necessario"</string>
@@ -1214,12 +1214,12 @@ scheda medica"</string>
     <string name="exit">Esci</string>
     <string name="exit_dialog_exit">Esci</string>
     <string name="exit_dialog_garbage_clean_message">L\'ammontare di dati sul tuo dispositivo supera i %s. Pulire ora?</string>
-    <string name="exit_dialog_garbage_clean_message_new"><Data>Cleaner può liberare &lt;font color=#0099ff&gt;%s&lt;/font&gt; di spazio di archiviazione. Pulire ora?</Data></string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>Cleaner può liberare &lt;font color=#0099ff>%s&lt;/font> di spazio di archiviazione. Pulire ora?</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">Pulisci</string>
     <string name="exit_dialog_garbage_clean_title">Pulisci dati</string>
     <string name="exit_dialog_homepage_optimise_message">"Il punteggio prestazionale del tuo dispositivo è uguale o inferiore a 80 punti. Ottimizzare ora?"</string>
     <string name="exit_dialog_release_memory_positive_button">Chiudi</string>
-    <string name="exit_dialog_release_memory_title"><Data>Accelera il tuo dispositivo di &lt;font color=#0099ff&gt;%d%%&lt;/font&gt;</Data></string>
+    <string name="exit_dialog_release_memory_title"><Data>Accelera il tuo dispositivo di &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Piú dell\'80% della memoria sul tuo dispositivo è occupata. Libera spazio disinstallando le app inutilizzate.</string>
     <string name="exit_dialog_release_storage_positive_button">Libera spazio</string>
     <string name="exit_dialog_release_storage_title">Libera spazio</string>
@@ -1608,7 +1608,7 @@ scheda medica"</string>
     <string name="gb_xunyou_gift_type_one">Incremento Xunyou per 1-giorno</string>
     <string name="gb_xunyou_gift_type_three">Incremento Xunyou per 3-giorni</string>
     <string name="gb_xunyou_gift_type_two">Incremento Xunyou per 2-giorni</string>
-    <string name="gdpr_msg">Per utilizzare le funzionalità di base dell\'app Sicurezza, dovrai acconsentire al raccoglimento e l\'elaborazione dei tuoi dati da parte di Xiaomi, incluse le informazioni sulle modalità di utilizzo delle funzionalità di Sicurezza (ad esempio, statistiche sull\'utilizzo dei dati mobili, informazioni sui malware, nonché informazioni di base sul dispositivo) e altri tipi di informazioni specificate nella nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Informativa sulla Privacy&lt;/a&gt;.</string>
+    <string name="gdpr_msg">Per utilizzare le funzionalità di base dell\'app Sicurezza, dovrai acconsentire al raccoglimento e l\'elaborazione dei tuoi dati da parte di Xiaomi, incluse le informazioni sulle modalità di utilizzo delle funzionalità di Sicurezza (ad esempio, statistiche sull\'utilizzo dei dati mobili, informazioni sui malware, nonché informazioni di base sul dispositivo) e altri tipi di informazioni specificate nella nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Informativa sulla Privacy&lt;/a>.</string>
     <string name="ge">Uno</string>
     <string name="get_detail_by_click">点击查看详情</string>
     <string name="get_sys_info">Recupero informazioni…</string>
@@ -1639,7 +1639,7 @@ scheda medica"</string>
     <string name="gs_autobooster_dialog_message">"Se stai utilizzando l'incrementatore di velocità Xunyou, apri i giochi nell'apposita pagina."</string>
     <string name="gs_call_handsfree">Rispondi alle chiamate a mani libere</string>
     <string name="gs_call_handsfree_mute">Modalità silenziosa</string>
-    <string name="gs_dialog_confirm_close_msg">La scorciatoia verrà rimossa dalla schermata Home. Vai su Sicurezza &gt; Impostazioni per ripristinarla.</string>
+    <string name="gs_dialog_confirm_close_msg">La scorciatoia verrà rimossa dalla schermata Home. Vai su Sicurezza > Impostazioni per ripristinarla.</string>
     <string name="gs_dialog_confirm_close_title">Disattiva</string>
     <string name="gs_forbid_autosync">Limita la sincronizzazione in background</string>
     <string name="gs_game_ai_record">Registra usando l\'IA</string>
@@ -1648,7 +1648,7 @@ scheda medica"</string>
     <string name="gs_game_duration">Durata</string>
     <string name="gs_game_manual_record">Registra manualmente</string>
     <string name="gs_game_manual_record_subtitle">È possibile iniziare a registrare dalla Barra Rapida mentre giochi. Possono essere registrati fino a 30 secondi di video dopo aver toccato il pulsante \"Registra\".
-I video saranno salvati in Turbo Videogiochi &gt; Momenti salienti.</string>
+I video saranno salvati in Turbo Videogiochi > Momenti salienti.</string>
     <string name="gs_game_manual_record_subtitle_child">È possibile incontrare alcuni problemi durante l\'utilizzo di questa funzionalità:</string>
     <string name="gs_game_manual_record_subtitle_child_carton">Registrare le sessioni di gioco richiede un maggiore consumo di energia che può causare del lag.</string>
     <string name="gs_game_manual_record_subtitle_child_conflict">Altre funzioni di registrazione dello schermo potrebbero non funzionare correttamente.</string>
@@ -1671,7 +1671,7 @@ I video saranno salvati in Turbo Videogiochi &gt; Momenti salienti.</string>
     <string name="gs_slip_gamebox_detail">Utilizza lo slider per mostrare il pannello dei collegamenti. Sono disponibili risposte rapide e opzioni di registrazione dello schermo.</string>
     <string name="gtb_dialog_btn_close">Disattiva</string>
     <string name="gtb_dialog_btn_open">Attiva</string>
-    <string name="gtb_dialog_hint_smart_5g">Puoi attivare e disattivare questa funzione in Turbo Videogiochi &gt; Impostazioni.</string>
+    <string name="gtb_dialog_hint_smart_5g">Puoi attivare e disattivare questa funzione in Turbo Videogiochi > Impostazioni.</string>
     <string name="gtb_dialog_summary_smart_5g">Ogni volta che Turbo Videogiochi rileva una rete 5G, può connettere il tuo dispositivo alla migliore rete disponibile per ridurre il ping. Attivare questa funzione ora?</string>
     <string name="gtb_dialog_title_smart_5g">Ottimizzazioni rete 5G</string>
     <string name="gtb_exit_game_to_gtb">Apri gamebox</string>
@@ -2046,7 +2046,7 @@ dall'operatore"</string>
     <string name="mixed_recording_intro_header">Inserisci almeno 4 caratteri</string>
     <string name="mixed_retry_button_text">Annulla</string>
     <string name="mixed_settings_help_how_to_record">Come impostare la password</string>
-    <string name="modify_password_mode">&lt;u&gt;Cambia tipo di password&lt;/u&gt;</string>
+    <string name="modify_password_mode">&lt;u>Cambia tipo di password&lt;/u></string>
     <string name="modifypassword">Cambia password</string>
     <string name="monitor_app_add">Aggiungi</string>
     <string name="monitor_app_more">Altro</string>
@@ -2272,7 +2272,7 @@ dall'operatore"</string>
     <string name="optimize_result_title_uninstall_apps">App</string>
     <string name="optimize_result_toast_system_default_settings">Impostazioni predefinite ripristinate</string>
     <string name="optimize_result_toast_system_no_item_selected">Nessun elemento selezionato</string>
-    <string name="optional_permissions">Permessi opzionali</string>
+    <string name="optional_permissions">Permessi opzionali </string>
     <string name="optional_permissions_desc">"Questi permessi sono richiesti quando stai utilizzando funzionalità aggiuntive."</string>
     <string name="optmizingbar_optimize_done">Ottimizzato</string>
     <string name="optmizingbar_ready">Ottimizzazione…</string>
@@ -2301,7 +2301,7 @@ dall'operatore"</string>
     <string name="password_promotion_postbutton_text">Vai nelle Impostazioni</string>
     <string name="password_promotion_title">Password di protezione privacy</string>
     <string name="password_type">Cambia password</string>
-    <string name="password_type_underline">&lt;u&gt;Cambia password&lt;/u&gt;</string>
+    <string name="password_type_underline">&lt;u>Cambia password&lt;/u></string>
     <string name="password_xspace_forget_pattern_message">Per modificare la password del tuo Secondo Spazio dovresti eliminare il tuo Secondo Spazio e crearlo nuovamente.</string>
     <string name="pc_abnormal_scan_button_text">Chiudi apps</string>
     <string name="pc_abnormal_scan_reason_prevent_standby">Impedisci al sistema di andare in standby</string>
@@ -2388,7 +2388,7 @@ dall'operatore"</string>
     <string name="permission_exception_title">Verifica permessi rete</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">"Le applicazioni non chiederanno il permesso per leggere i tuoi contatti, accedere al registro chiamate, modificare le impostazioni di sistema o accedere alla fotocamera ed altre risorse. Puoi disattivare questa funzionalità nelle impostazioni dei Permessi."</string>
     <string name="permission_permission_control_closed_desc_dialog_title">Gestione Permessi disattivato</string>
-    <string name="permission_privacy_link">&lt;Data&gt;&amp;lt;a href=\"%1$s\"&amp;gt;%2$s&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+    <string name="permission_privacy_link">&lt;Data>&amp;lt;a href=\"%1$s\"&amp;gt;%2$s&amp;lt;/a&amp;gt;&lt;/Data></string>
     <string name="permission_upgrade_more">Altre funzionalità di protezione della privacy</string>
     <string name="permission_upgrade_privacy_title">"I permessi per registrare l'audio e accedere ai contatti ora hanno un'opzione che consente di dare tali permessi solo mentre si utilizza l'app corrispondente. Per proteggere la privacy delle tue informazioni personali, le app non eseguiranno queste azioni in background."</string>
     <string name="permission_upgrade_runtime">"I permessi per accedere alla tua posizione o scattare foto ora hanno un'opzione che consente di dare tali permessi una sola volta. Per proteggere la privacy dei tuoi dati personali, queste azioni non saranno eseguite dopo aver lasciato l'app. Ti verrà chiesto nuovamente l'autorizzazione quando utilizzerai le funzioni correlate."</string>
@@ -2944,7 +2944,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="sd_insert_summary">Inserisci la scheda SD da montare</string>
     <string name="sd_mount">Monta scheda SD</string>
     <string name="sd_mount_summary"></string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_menu_title">Ricerca</string>
     <string name="search_result_text">"Nessuna app trovata"</string>
     <string name="secondart_setting_title">红包提醒设置</string>
@@ -2995,7 +2995,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="settings_share_enable_summary">Gli elementi condivisi su WeChat appariranno con un badge MIUI</string>
     <string name="settings_share_info">Ecco le opzioni di condivisione sicure disponibili per gli elementi condivisi da Galleria e Gestore File:</string>
     <string name="settings_show_detail">Vedi dettagli</string>
-    <string name="settings_tip">Vai in Galleria &gt; Impostazioni per visualizzare più opzioni</string>
+    <string name="settings_tip">Vai in Galleria > Impostazioni per visualizzare più opzioni</string>
     <string name="settings_title">Condivisione sicura</string>
     <string name="shake_send_sticker_summary">在微信与QQ中，摇一摇随机出现搞笑表情。逢年过节拼表情，从此易如反掌！</string>
     <string name="shield_keyboard_detail">Doppio tap per riattivarli</string>
@@ -3005,7 +3005,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="shortcut_title_scan">Scansione</string>
     <string name="shortcut_title_whatsapp_clean">Puliza Whatsapp</string>
     <string name="show_system_app">Mostra app di sistema</string>
-    <string name="show_traffic_dialog_message">Le informazioni di utilizzo dati verranno mostrate nel pannello delle notifiche. Puoi attivare o disattivare questa funzionalità in Utilizzo dati &gt; Impostazioni</string>
+    <string name="show_traffic_dialog_message">Le informazioni di utilizzo dati verranno mostrate nel pannello delle notifiche. Puoi attivare o disattivare questa funzionalità in Utilizzo dati > Impostazioni</string>
     <string name="show_traffic_dialog_title">Mostra utilizzo nel pannello delle notifiche</string>
     <string name="showpattern">Mostra sequenza</string>
     <string name="shutdown_cancel_reminder">"Il dispositivo non si è spento"</string>
@@ -3203,10 +3203,10 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="status_bar_network_flow_content">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Rimasti: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Questo mese: %2$s</string>
     <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
-    <string name="status_bar_network_flow_exceed_content">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Superamento piano: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+    <string name="status_bar_network_flow_exceed_content">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Superamento piano: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_phone_balance">"   Saldo:%1$s "</string>
-    <string name="status_bar_network_flow_purchase">"   Acquista &gt;"</string>
-    <string name="status_bar_network_flow_setup_data_plan">"   Imposta piano dati &gt;"</string>
+    <string name="status_bar_network_flow_purchase">"   Acquista >"</string>
+    <string name="status_bar_network_flow_setup_data_plan">"   Imposta piano dati >"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_retain_btn">Mantieni</string>
     <string name="stop_milink_connect">Proiezione interrotta</string>
@@ -3380,24 +3380,24 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="system_permission_declare_agree">Accetto</string>
     <string name="system_permission_declare_analytics_declare">"Ti invitiamo a iscriverti al nostro programma di esperienza utente. Questa app deve connettersi a Internet e utilizzare le seguenti autorizzazioni o funzioni per raccogliere statistiche al fine di migliorare i servizi che forniamo. Raccogliamo i dati qui solo a fini statistici e non possiamo identificarti personalmente in base ai dati che raccogliamo."</string>
     <string name="system_permission_declare_disagree">Non accetto</string>
-    <string name="system_permission_declare_double_link">&lt;Data&gt;Per comprendere appieno i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro &amp;lt; href=\"%1$s\"&amp;gt;Contratto Utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_double_link">&lt;Data>Per comprendere appieno i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro &amp;lt; href=\"%1$s\"&amp;gt;Contratto Utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;.&lt;/Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">Benvenuto in %1s! Questa app ti permette di utilizzare la seguente funzione: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;Allo stesso tempo, per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro &amp;lt; href=\"%1$s\"&amp;gt;Contratto Utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;Allo stesso tempo, per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggere e accettare la nostra &amp;lt; href=\"%1$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;Allo stesso tempo, per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggere e accettare il nostro &amp;lt; href=\"%1$s\"&amp;gt;Contratto Utente&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_meanwhile_double_link">&lt;Data>Allo stesso tempo, per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro &amp;lt; href=\"%1$s\"&amp;gt;Contratto Utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;.&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data>Allo stesso tempo, per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggere e accettare la nostra &amp;lt; href=\"%1$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;.&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data>Allo stesso tempo, per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggere e accettare il nostro &amp;lt; href=\"%1$s\"&amp;gt;Contratto Utente&amp;lt;/a&amp;gt;.&lt;/Data></string>
     <string name="system_permission_declare_no_say_no">"Se scegli di non dare i permessi richiesti o non consentirci di raccogliere e utilizzare i tuoi dati, questa app non sarà in grado di funzionare normalmente."</string>
-    <string name="system_permission_declare_no_say_no_analytics">"Se non si desidera concedere queste autorizzazioni, è possibile annullare la registrazione in Impostazioni &gt; Impostazioni aggiuntive &gt; Privacy &gt; Programma esperienza utente."</string>
+    <string name="system_permission_declare_no_say_no_analytics">"Se non si desidera concedere queste autorizzazioni, è possibile annullare la registrazione in Impostazioni > Impostazioni aggiuntive > Privacy > Programma esperienza utente."</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">"Se scegli di non dare le autorizzazioni richieste o non consentirci di raccogliere e utilizzare i tuoi dati, questa applicazione non sarà in grado di funzionare normalmente."</string>
     <string name="system_permission_declare_privacy_declare">Questa applicazione deve collegarsi ad internet e richiede le seguenti autorizzazioni per essere in grado di funzionare correttamente:</string>
     <string name="system_permission_declare_privacy_no_network">Questa app ha bisogno dei seguenti permessi per poter funzionare normalmente:</string>
     <string name="system_permission_declare_privacy_no_permission">Questa app deve connettersi a internet e raccogliere i dati personali necessari per poter funzionare normalmente.</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Per comprendere appieno i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggere e accettare la nostra &amp;lt; href=\"%1$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_privacy_policy">&lt;Data>Per comprendere appieno i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggere e accettare la nostra &amp;lt; href=\"%1$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;.&lt;/Data></string>
     <string name="system_permission_declare_revoke_system">Puoi uscire da questa app.</string>
-    <string name="system_permission_declare_revoke_uninstallable">Puoi disconnetterti, disinstallare questa app o revocare l\'autorizzazione in Sicurezza &gt; Gestione app &gt; Autorizzazioni.</string>
+    <string name="system_permission_declare_revoke_uninstallable">Puoi disconnetterti, disinstallare questa app o revocare l\'autorizzazione in Sicurezza > Gestione app > Autorizzazioni.</string>
     <string name="system_permission_declare_title">Attenzione</string>
     <string name="system_permission_declare_use_network">Connettiti alla rete</string>
     <string name="system_permission_declare_use_network_no_permission">Connettiti alla rete</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data&gt;Per comprendere appieno i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggere e accettare il nostro &amp;lt; href=\"%1$s\"&amp;gt;Contratto Utente&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_user_agreement">&lt;Data>Per comprendere appieno i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggere e accettare il nostro &amp;lt; href=\"%1$s\"&amp;gt;Contratto Utente&amp;lt;/a&amp;gt;.&lt;/Data></string>
     <string name="system_permission_perm_answer_call">Effettuare chiamate</string>
     <string name="system_permission_perm_optional">" (opzionale)"</string>
     <string name="system_permission_perm_read_mms">Leggere MMS</string>
@@ -3667,7 +3667,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="unknown_package">不清楚自己的套餐是什么？</string>
     <string name="unlike">No grazie</string>
     <string name="unlock_failed">Errore interno</string>
-    <string name="unlock_pattern">&lt;u&gt;Sequenza&lt;/u&gt;</string>
+    <string name="unlock_pattern">&lt;u>Sequenza&lt;/u></string>
     <string name="unlock_pattern_to_bind_fingerprint">Inserisci la password per attivare l\'impronta</string>
     <string name="unlock_set_unlock_password_summary">Combina caratteri diversi</string>
     <string name="unlock_set_unlock_password_title">Password</string>
@@ -3766,7 +3766,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="vtb_other_milink_connect">"Impossibile proiettare video ora. Stai per proiettare altri elementi…"</string>
     <string name="vtb_stop_milink_connect">Proiezione video interrotta</string>
     <string name="wakepath_confirm_start_activity">Consentire a %1$s di aprire %2$s?</string>
-    <string name="warn_function_no_work">&lt;u&gt;来红包时无法正常提醒？&lt;/u&gt;</string>
+    <string name="warn_function_no_work">&lt;u>来红包时无法正常提醒？&lt;/u></string>
     <string name="warningcenter_action_check">Vedi</string>
     <string name="warningcenter_alert_home">Piattaforma</string>
     <string name="warningcenter_alert_room">Stanza</string>
@@ -3847,7 +3847,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="warningcenter_disaster_zhongwuran">重污染</string>
     <string name="warningcenter_earthquake_info">Avvisi anticipati terremoto</string>
     <string name="warningcenter_mijia_alert_close">Chiudi</string>
-    <string name="warningcenter_mijia_alert_settings">Cambia le impostazioni in Sicurezza &gt; Avvisi da dispositivi Smart Home</string>
+    <string name="warningcenter_mijia_alert_settings">Cambia le impostazioni in Sicurezza > Avvisi da dispositivi Smart Home</string>
     <string name="warningcenter_mijia_alert_tips_1">Rilevata elevata concentrazione di gas</string>
     <string name="warningcenter_mijia_alert_tips_2">Fumo rilevato</string>
     <string name="warningcenter_mijia_alert_tips_3">Rilevato allagamento</string>
@@ -3874,7 +3874,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="wechat_lucky_warning">微信红包</string>
     <string name="whitelist_prefix_add_hint">Aggiungi alla lista eccezioni tutti i numeri con prefisso</string>
     <string name="wifi_danger_dialog_messgae">La rete Wi-Fi attuale potrebbe comportare rischi per la sicurezza. Usala con cautela.</string>
-    <string name="wifi_danger_dialog_tips">È possibile gestire la sicurezza Wi-Fi in Sicurezza &gt; Controllo sicurezza &gt; Impostazioni &gt; Wi-Fi.</string>
+    <string name="wifi_danger_dialog_tips">È possibile gestire la sicurezza Wi-Fi in Sicurezza > Controllo sicurezza > Impostazioni > Wi-Fi.</string>
     <string name="wifi_danger_dialog_title">"Rete Wi-Fi non sicura"</string>
     <string name="wifi_exception_summary">Testa le reti Wi-Fi disponibili</string>
     <string name="wifi_exception_title">Test rete Wi-Fi</string>

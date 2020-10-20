@@ -910,9 +910,9 @@
     <string name="confirm_merge_many_face_albums">" \"<data> Unire questi album con %s? </data>\" "</string>
     <string name="confirm_not_face">Non è questa persona</string>
     <string name="confirm_recommandation_face_is">" \"<data> Sei sicuro che sia <font color="#323232"><b>%1$s</b></font>? Questo volto verrà spostato in \"%2$s\" dopo la conferma. </data>\" "</string>
-    <string name="confirm_recommandation_face_not">" \"&lt;Data&gt;\" Sei sicuro che non sia &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? \"&lt;/Data&gt;\" "</string>
+    <string name="confirm_recommandation_face_not">" \"&lt;Data>\" Sei sicuro che non sia &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? \"&lt;/Data>\" "</string>
     <string name="confirm_recommandation_multiple_faces_are">" \"<data> Sei sicuro che siano <font color="#323232"><b>%1$s</b></font>? Questi volti verranno spostati in \"%2$s\" dopo la conferma. </data>\" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" \"&lt;Data&gt;\" Sei sicuro che non siano &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? \"&lt;/Data&gt;\" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" \"&lt;Data>\" Sei sicuro che non siano &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? \"&lt;/Data>\" "</string>
     <string name="contact_tip">Contatti</string>
     <string name="context_menu_add_contact">Aggiungi ai contatti</string>
     <string name="context_menu_copy">Copia</string>
@@ -1068,7 +1068,7 @@
     <string name="error_build_thumbnail_msg">"Impossibile scaricare l'anteprima. Prova a scaricar e il file originale."</string>
     <string name="error_build_thumbnail_tip">"Impossibile scaricare l'anteprima."</string>
     <string name="error_change_storage_action">cambia archiviazione</string>
-    <string name="error_change_storage_msg">Vai in Impostazioni &gt; Archivio, modifica l\'archiviazione e prova di nuovo.</string>
+    <string name="error_change_storage_msg">Vai in Impostazioni > Archivio, modifica l\'archiviazione e prova di nuovo.</string>
     <string name="error_cloud_not_active">Album Mi Cloud non attivo</string>
     <string name="error_connect_timeout_action">Seleziona la rete</string>
     <string name="error_connect_timeout_msg">Connettiti ad una rete diversa e prova di nuovo.</string>
@@ -1076,7 +1076,7 @@
     <string name="error_decode_tip">"Formato file non supportato o dati corrotti."</string>
     <string name="error_download_tip">"Impossibile scaricare"</string>
     <string name="error_external_sdcard_write_action">Cambia archiviazione</string>
-    <string name="error_external_sdcard_write_msg">Vai in Impostazioni &gt; Archivio, modifica l\'archiviazione e prova di nuovo.</string>
+    <string name="error_external_sdcard_write_msg">Vai in Impostazioni > Archivio, modifica l\'archiviazione e prova di nuovo.</string>
     <string name="error_external_sdcard_write_tip">"Impossibile salvare file sulla SD."</string>
     <string name="error_forbidden">Si sono verificati dei problemi con il tuo account: sincronizzazione disattivata.</string>
     <string name="error_install_connect_fail">"Impossibile caricare il plug-in. Controlla la connessione di rete."</string>
@@ -1135,7 +1135,7 @@
     <string name="expand_button_title">Avanzate</string>
     <string name="expand_desc">Altro</string>
     <string name="expand_people">Espandi altre persone</string>
-    <string name="ext_sdcard_first_entrance_request_failed_text">La galleria salverà invece gli elementi nella memoria interna. Potrai modificare questa scelta dal menù Impostazioni &gt; Archiviazione &gt; Impostazioni di archiviazione.</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">La galleria salverà invece gli elementi nella memoria interna. Potrai modificare questa scelta dal menù Impostazioni > Archiviazione > Impostazioni di archiviazione.</string>
     <string name="ext_sdcard_first_entrance_request_failed_title">"Impossibile fornire i permessi."</string>
     <string name="ext_sdcard_guide_first_page_button_text">Successivo</string>
     <string name="ext_sdcard_guide_last_page_button_text">Fornisci i permessi</string>
@@ -1444,8 +1444,8 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="kick_sharer_failed">"Rimozione partecipante fallita"</string>
     <string name="kick_sharer_successfully">Partecipante rimosso correttamente</string>
     <string name="kilobyteShort">KB</string>
-    <string name="limit_height">L\'altezza dovrebbe essere &gt; 0</string>
-    <string name="limit_width">La larghezza dovrebbe essere &gt; 0</string>
+    <string name="limit_height">L\'altezza dovrebbe essere > 0</string>
+    <string name="limit_width">La larghezza dovrebbe essere > 0</string>
     <string name="live_photo">Foto Dinamiche</string>
     <string name="load_complete">Nessun altro elemento</string>
     <string name="load_failed">"Impossibile caricare le informazioni, tocca per provare di nuovo"</string>
@@ -1793,10 +1793,10 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="people_page_unname">Senza nome</string>
     <string name="permission_contacts_desc">Per assegnare i contatti alle persone sulle foto</string>
     <string name="permission_contacts_name">Contatti</string>
-    <string name="permission_optional_category">Permessi opzionali</string>
+    <string name="permission_optional_category">Permessi opzionali </string>
     <string name="permission_phone_desc">Per richieste di rete basate su ID dispositivo</string>
     <string name="permission_phone_name">Telefono</string>
-    <string name="permission_require_category">Permessi obbligatori</string>
+    <string name="permission_require_category">Permessi obbligatori </string>
     <string name="permission_storage_desc">Per visualizzazione, modifica e salvataggio foto</string>
     <string name="permission_storage_name">Archiviazione</string>
     <string name="permission_use_desc">Permessi</string>
@@ -1816,7 +1816,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Disegna</string>
     <string name="photo_editor_filter">Filtro</string>
-    <string name="photo_editor_font_default">&gt;Mi Lanting (Normale)</string>
+    <string name="photo_editor_font_default">>Mi Lanting (Normale)</string>
     <string name="photo_editor_frame">Cornice</string>
     <string name="photo_editor_label">Modifica</string>
     <string name="photo_editor_long_crop">Taglia</string>
@@ -1904,7 +1904,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="photo_vlog_module_loading">Download dell\'editor video…</string>
     <string name="photodetail_failed_already_exist">Questo file esiste già</string>
     <string name="photodetail_rename_failed">"Impossibile rinominare"</string>
-    <string name="photodetail_rename_invalid">"I nomi dei file non possono contenere questi caratteri: /\\:*?&lt;&gt;|."</string>
+    <string name="photodetail_rename_invalid">"I nomi dei file non possono contenere questi caratteri: /\\:*?&lt;>|."</string>
     <string name="photodetail_rename_success">Rinominato correttamente</string>
     <string name="photodetail_rename_title">Rinomina</string>
     <string name="photodetail_rename_too_long">Il nome del file inserito è troppo lungo</string>

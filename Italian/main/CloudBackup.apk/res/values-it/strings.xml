@@ -201,9 +201,9 @@ Nota: I dati delle applicazioni installate non verranno salvati su Xiaomi Cloud.
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
     <string name="msg_alert_cancel_restore">Il backup da Cloud è in fase di ripristino, interrompere?</string>
     <string name="msg_alert_restore_error">"Ripristino backup da Cloud non riuscito, prego riprova."</string>
-    <string name="msg_restore_start_with_metered_network">"La tua Home verrà lanciata di nuovo. Le app salvate verranno scaricate automaticamente. Verranno scaricati &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s di file.&lt;/font&gt;&lt;/b&gt;"</string>
+    <string name="msg_restore_start_with_metered_network">"La tua Home verrà lanciata di nuovo. Le app salvate verranno scaricate automaticamente. Verranno scaricati &lt;br />&lt;b>&lt;font color='red'>%s di file.&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">Se procedi nel ripristino di questi file, verrà utilizzata la rete dati per il download.</string>
-    <string name="msg_restore_with_metered_network_pattern">"Verranno scaricati &lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; di file."</string>
+    <string name="msg_restore_with_metered_network_pattern">"Verranno scaricati &lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> di file."</string>
     <string name="network_error">Collegato alla rete</string>
     <string name="no_account">Accesso al Mi Account non eseguito.</string>
     <string name="no_backup">Nessun backup su Mi Cloud.</string>
@@ -236,7 +236,7 @@ Nota: I dati delle applicazioni installate non verranno salvati su Xiaomi Cloud.
     <string name="restore_app_order_retry_desc">"Impossibile collegarsi alla rete.
 Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="restore_app_order_search_hint">Cerca elementi di cui impostare la priorità</string>
-    <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'&gt;%s&lt;/font&gt;"</string>
+    <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'>%s&lt;/font>"</string>
     <string name="restore_app_order_search_installed">App sul dispositivo</string>
     <string name="restore_app_order_search_normal">App con priorità normale</string>
     <string name="restore_app_order_search_prior">App con priorità alta</string>

@@ -24,7 +24,7 @@
     <string name="camera_introduction">È possibile utilizzare Fotocamera per scattare foto e girare video.</string>
     <string name="carrier_introduction">"Al fine di fornire servizi migliori, il dispositivo può inviare periodicamente le informazioni sulla versione del dispositivo, i dati di identificazione del dispositivo (compreso l'indirizzo IMEI/IMSI/MSISDN/MAC, MEID/ICCID) e informazioni approssimative di localizzazione (incluso l'ID della cella) all'operatore via Wi-Fi, rete dati mobile o SMS gratuito. L'operatore promette di analizzare le informazioni rilevanti solo per migliorare la qualità dei servizi o per fornire servizi o tecnologie personalizzate, e non divulgherà informazioni rilevanti a terzi in qualsiasi forma che ti identifichi personalmente. La dichiarazione specifica dell'operatore prevarrà. Consulta il tuo operatore in merito al costo di utilizzo di questo servizio."</string>
     <string name="clock_introduction">È possibile utilizzare questa app per visualizzare l\'Ora, così come impostare Conti alla Rovescia (Timer), come Cronometro, impostare Sveglie e altro ancora.</string>
-    <string name="close_location_service_setting">Puoi scegliere di disattivare l\'accesso alla posizione in Impostazioni &gt; Impostazioni aggiuntive &gt; Privacy o limitare i permessi per le singole applicazioni in Sicurezza.</string>
+    <string name="close_location_service_setting">Puoi scegliere di disattivare l\'accesso alla posizione in Impostazioni > Impostazioni aggiuntive > Privacy o limitare i permessi per le singole applicazioni in Sicurezza.</string>
     <string name="cm_terms_content">"Per migliorare i servizi forniti, il tuo gestore potrebbe caricare i tuoi dati personali e informazioni su questo dispositivo sui suoi server tramite rete Wi-Fi o connessione dati mobile. Queste informazioni verranno usati solo per scopi statistici al fine di migliorare la qualità dei servizi e fornire altri contenuti personalizzati. Queste informazioni non verranno utilizzate per identificarti e non verranno divulgate a terze parti\""</string>
     <string name="cm_terms_title">Regolamento Operatore Rete Mobile</string>
     <string name="compass_introduction">È possibile utilizzare questa app per la navigazione e per vedere coordinate attuali, pressione atmosferica e altitudine.</string>
@@ -208,8 +208,8 @@ Leggi questo documento per la tastiera: "</string>
     <string name="service_name_screen_recording">Registrazione schermo</string>
     <string name="service_name_security">Sicurezza</string>
     <string name="service_name_service_framework">Framework dei Servizi Mi</string>
-    <string name="service_policy">&lt;Data&gt;Leggi e accetta la nostra &amp;lt;a href=%1$s&amp;gt;Informativa sulla Privacy&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
-    <string name="service_policy_download">&lt;Data&gt;Prima di utilizzare i nostri servizi, leggi e accetta l\'&amp;lt;a href=%1$s&amp;gt;Informativa sulla Privacy di Xunlei &amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
+    <string name="service_policy">&lt;Data>Leggi e accetta la nostra &amp;lt;a href=%1$s&amp;gt;Informativa sulla Privacy&amp;lt;/a &amp;gt;.&lt;/Data></string>
+    <string name="service_policy_download">&lt;Data>Prima di utilizzare i nostri servizi, leggi e accetta l\'&amp;lt;a href=%1$s&amp;gt;Informativa sulla Privacy di Xunlei &amp;lt;/a &amp;gt;.&lt;/Data></string>
     <string name="service_privacy_index">Termini di servizio</string>
     <string name="servicestate_title">Dichiarazione sui servizi base</string>
     <string name="setting_locale">Impostazione Paese…</string>

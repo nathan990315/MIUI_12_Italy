@@ -53,7 +53,7 @@
     <string name="account_crop_user_avatar">Ritaglia foto</string>
     <string name="account_empty_user_name">Inserisci il nome utente del tuo Mi Account</string>
     <string name="account_error_all_space_user_name">"\"Il nome utente non può contenere  spazi"</string>
-    <string name="account_error_invalid_user_name">"Il nome utente non può contenere: &lt;, &gt;, o /"</string>
+    <string name="account_error_invalid_user_name">"Il nome utente non può contenere: &lt;, >, o /"</string>
     <string name="account_error_longer_user_name">"Il nome utente non può essere più lungo di 20 caratteri"</string>
     <string name="account_error_shorter_user_name">Il nome deve essere più lungo di 2 caratteri</string>
     <string name="account_error_user_birthday">Il compleanno inserito non è valido</string>
@@ -180,7 +180,7 @@
     <string name="columbus_player_close_video">CHIUDI IL VIDEO</string>
     <string name="columbus_player_install_now">INSTALLA ORA</string>
     <string name="columbus_player_learn_more">Scopri di più</string>
-    <string name="com_facebook_device_auth_instructions">Visita &lt;b&gt;facebook.com/device&lt;/b&gt; ed inserisci il codice visualizzato sopra.</string>
+    <string name="com_facebook_device_auth_instructions">Visita &lt;b>facebook.com/device&lt;/b> ed inserisci il codice visualizzato sopra.</string>
     <string name="com_facebook_image_download_unknown_error">Errore inaspettato durante il download di un\'immagine.</string>
     <string name="com_facebook_internet_permission_error_message">Il login WebView richiede i permessi per accedere a internet</string>
     <string name="com_facebook_internet_permission_error_title">Errore AndroidManifest</string>
@@ -266,8 +266,8 @@
     <string name="diagnosis_log_sent_format">"Log inviati con successo.
 ID:%s
 Invia questo codice al supervisore."</string>
-    <string name="dialog_privacy_info_new2">"Per essere in grado di utilizzare i servizi, è necessario accettare che %1$s raccoglierà, elaborerà e utilizzerà le informazioni personali. Confermerai di aver letto e accettato la nostra &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt; quando avrei premuto \"Accetta\" qui sotto."</string>
-    <string name="dialog_privacy_info_new3">"Per poter utilizzare questo servizio, è necessario consentire a %1$s di raccogliere, elaborare, e utilizzare le tue informazioni personali in conformità con l'Informativa sulla privacy. Cliccando su \"Accetta\" qui sotto, accetti l'&lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; e l'&lt;a href=%3$s&gt;Accordo utente&lt;/a&gt; di Xiaomi."</string>
+    <string name="dialog_privacy_info_new2">"Per essere in grado di utilizzare i servizi, è necessario accettare che %1$s raccoglierà, elaborerà e utilizzerà le informazioni personali. Confermerai di aver letto e accettato la nostra &lt;a href=\"%2$s\">Informativa sulla privacy&lt;/a> quando avrei premuto \"Accetta\" qui sotto."</string>
+    <string name="dialog_privacy_info_new3">"Per poter utilizzare questo servizio, è necessario consentire a %1$s di raccogliere, elaborare, e utilizzare le tue informazioni personali in conformità con l'Informativa sulla privacy. Cliccando su \"Accetta\" qui sotto, accetti l'&lt;a href=%2$s>Informativa sulla privacy&lt;/a> e l'&lt;a href=%3$s>Accordo utente&lt;/a> di Xiaomi."</string>
     <string name="dialog_privacy_title">Autorizzazione</string>
     <string name="dialog_revoke_privacy_info_new2">Dopo aver revocato l\'autorizzazione, l\'app interromperà la raccolta dei dati e tutti i dati correlati verranno eliminati dai nostri server. Questo potrebbe rendere l\'applicazione inutilizzabile. Revocare l\'autorizzazione?</string>
     <string name="dialog_revoke_privacy_title">Revoca autorizzazione in corso</string>
@@ -424,7 +424,7 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_online_cta_title">Termini e condizioni</string>
     <string name="galleryplus_online_video_loading">Attendi…</string>
     <string name="galleryplus_permission_content">Dai a Mi Video i permessi necessari per poter usare questa funzione.</string>
-    <string name="galleryplus_permission_content2">"Per essere in grado di utilizzare questa funzione, vai in Impostazioni &gt; Applicazioni &gt; Mi Video &gt; Autorizzazioni App e consenti a Mi Video quanto segue:
+    <string name="galleryplus_permission_content2">"Per essere in grado di utilizzare questa funzione, vai in Impostazioni > Applicazioni > Mi Video > Autorizzazioni App e consenti a Mi Video quanto segue:
 
 1. Accesso all'archivio
 2. Accesso all'ID del dispositivo"</string>
@@ -492,11 +492,11 @@ Invia questo codice al supervisore."</string>
     <string name="isornot_your_mi_account">È questo il tuo Mi Account?</string>
     <string name="issue">Problema</string>
     <string name="just_a_second">Attendi…</string>
-    <string name="language_later_setting_tips">È possibile modificare le preferenze della lingua in Profilo &gt; Lingua.</string>
+    <string name="language_later_setting_tips">È possibile modificare le preferenze della lingua in Profilo > Lingua.</string>
     <string name="language_select_tips">"Seleziona la tua lingua preferita
 per i video"</string>
-    <string name="language_setting_tips">Seleziona le tue preferenze linguistiche per ricevere contenuti più rilevanti. Puoi cambiare le tue preferenze linguistiche in Profilo &gt; Lingua.</string>
-    <string name="language_setting_tips_dialog">È possibile selezionare le preferenze della lingua per i contenuti in Account &gt; Lingua.</string>
+    <string name="language_setting_tips">Seleziona le tue preferenze linguistiche per ricevere contenuti più rilevanti. Puoi cambiare le tue preferenze linguistiche in Profilo > Lingua.</string>
+    <string name="language_setting_tips_dialog">È possibile selezionare le preferenze della lingua per i contenuti in Account > Lingua.</string>
     <string name="later">Più tardi</string>
     <string name="library_roundedimageview_libraryDescription">Una vista veloce (e disegnabile) che supporta angoli arrotondati (e ovali o cerchi) in base all\'esempio originale di Romain Guy.</string>
     <string name="live_now">In diretta ora</string>
@@ -548,7 +548,7 @@ per i video"</string>
     <string name="lv_confirm_unhide_videos">Mostrare i video?</string>
     <string name="lv_deleting">Eliminazione in corso…</string>
     <string name="lv_device_list">Dispositivi</string>
-    <string name="lv_device_list_seaching">&lt;Nessun dispositivo per la trasmissione&gt;</string>
+    <string name="lv_device_list_seaching">&lt;Nessun dispositivo per la trasmissione></string>
     <string name="lv_do_not_show_this_again">"Non mostrare più"</string>
     <string name="lv_favor">Preferiti</string>
     <string name="lv_find_new_version">Aggiornamento disponibile</string>
@@ -612,7 +612,7 @@ per i video"</string>
     <string name="lv_subtitle_onlinesub_loading">Caricamento dei sottotitoli…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Caricamento dei sottotitoli…</string>
     <string name="lv_subtitle_onlinesub_right_declare">Avviso</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">Ottieni i sottotitoli &lt;br/&gt;&lt;br/&gt;da &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Tutti i sottotitoli online sono forniti da &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">Ottieni i sottotitoli &lt;br/>&lt;br/>da &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.&lt;br/>&lt;br/>Tutti i sottotitoli online sono forniti da &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.</string>
     <string name="lv_subtitle_onlinesub_save_failed">"Impossibile aggiungere sottotitoli"</string>
     <string name="lv_subtitle_onlinesub_save_success">Sottotitoli aggiunti correttamente</string>
     <string name="lv_subtitle_onlinesub_search_keyword">Inserisci le parole chiave da cercare</string>
@@ -837,7 +837,7 @@ Aggiorna prima Mi Video all'ultima versione."</string>
     <string name="passport_error_unknown">Errore sconosciuto</string>
     <string name="passport_error_user_agreement_error">Accettare i termini e le condizioni</string>
     <string name="passport_error_user_name">Il nome utente immesso non è valido</string>
-    <string name="passport_forget_password">&lt;u&gt;Password dimenticata &lt;/u&gt;</string>
+    <string name="passport_forget_password">&lt;u>Password dimenticata &lt;/u></string>
     <string name="passport_get_verify_code">Ottieni codice</string>
     <string name="passport_getting_verify_code">Attendi…</string>
     <string name="passport_identification_expired">Codice di verifica scaduto. Ricomincia da capo.</string>
@@ -881,8 +881,8 @@ Aggiorna prima Mi Video all'ultima versione."</string>
     <string name="passport_unknow_error">Siamo spiacenti, si è verificato un errore sconosciuto</string>
     <string name="passport_unknow_host_network_error">Controlla le tue impostazioni di rete e prova di nuovo</string>
     <string name="passport_unknow_network_error">Siamo spiacenti, si è verificato un errore di rete</string>
-    <string name="passport_user_agreement_link">"&lt;Data&gt;Ho letto e accettato il &lt;a href=\"%1$s\"&gt;Contratto Utente&lt;/a&gt; e&lt;a href=\"%2$s\"&gt;Informativa sulla Privacy&lt;/a&gt;.&lt;/Data&gt; Xiaomi"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Ho letto e accettato i seguenti documenti: &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%4$s\"&gt;Informativa sulla privacy di Xiaomi&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link">"&lt;Data>Ho letto e accettato il &lt;a href=\"%1$s\">Contratto Utente&lt;/a> e&lt;a href=\"%2$s\">Informativa sulla Privacy&lt;/a>.&lt;/Data> Xiaomi"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data>Ho letto e accettato i seguenti documenti: &lt;a href=\"%1$s\">Contratto utente&lt;/a> e &lt;a href=\"%4$s\">Informativa sulla privacy di Xiaomi&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data>"</string>
     <string name="passport_user_id_intro">Accedi con %1$s</string>
     <string name="passport_v_code_error">Il codice di verifica non è corretto</string>
     <string name="passport_vcode_notification_title">La tua verifica di accesso è incompleta</string>
@@ -988,7 +988,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="plus_player_subtitle_local_add_success">Sottotitoli aggiunti correttamente</string>
     <string name="plus_player_subtitle_no_file">Nessun sottotitolo.</string>
     <string name="plus_player_subtitle_online">Sottotitoli online</string>
-    <string name="plus_player_subtitle_online_declare_content">"Stai per cercare &lt;br/&gt;sottotitoli nel database &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;. &lt;br/&gt;Tutti i sottotitoli sono forniti da &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;."</string>
+    <string name="plus_player_subtitle_online_declare_content">"Stai per cercare &lt;br/>sottotitoli nel database &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>. &lt;br/>Tutti i sottotitoli sono forniti da &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>."</string>
     <string name="plus_player_subtitle_online_declare_title">Avviso</string>
     <string name="plus_player_subtitle_online_download_fail">"Download dei sottotitoli non riuscito"</string>
     <string name="plus_player_subtitle_online_download_start">Download dei sottotitoli…</string>

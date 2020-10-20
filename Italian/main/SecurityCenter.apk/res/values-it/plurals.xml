@@ -129,8 +129,8 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="one">%d giorno fa</item>
     </plurals>
     <plurals name="exit_dialog_release_memory_message">
-        <item quantity="other">&lt;Data&gt;Close &lt;font color=#0099ff&gt;%d&lt;/font&gt; apps to speed up your device?&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Close &lt;font color=#0099ff&gt;%d&lt;/font&gt; app to speed up your device?&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data>Close &lt;font color=#0099ff>%d&lt;/font> apps to speed up your device?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Close &lt;font color=#0099ff>%d&lt;/font> app to speed up your device?&lt;/Data></item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Cerca tra %d app</item>

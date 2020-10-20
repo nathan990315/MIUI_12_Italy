@@ -347,7 +347,7 @@
     <string name="as_unimportant">Non importante</string>
     <string name="ask_me_later_bubbles">Chiedi più tardi</string>
     <string name="aspect_cancel">Annualla</string>
-    <string name="aspect_message">Questa app verrà lanciata di nuovo a tutto schermo. In caso di problemi, puoi disattivare la modalità a tutto schermo in Impostazioni &gt; Visualizzazione atutto schermo &gt; Modalità a tutto schermo.</string>
+    <string name="aspect_message">Questa app verrà lanciata di nuovo a tutto schermo. In caso di problemi, puoi disattivare la modalità a tutto schermo in Impostazioni > Visualizzazione atutto schermo > Modalità a tutto schermo.</string>
     <string name="aspect_ok">OK</string>
     <string name="aspect_title">Modalità a tutto schermo</string>
     <string name="audio_effect_custom">Imposta</string>
@@ -559,7 +559,7 @@ Frequenza Campione"</string>
     <string name="call_status_dialing">Composizione</string>
     <string name="call_status_holding">Chiamata in attesa</string>
     <string name="call_status_ringing">Chiamata in corso</string>
-    <string name="camera_hint">&gt;\"Scorri icona per la Camera\"</string>
+    <string name="camera_hint">>\"Scorri icona per la Camera\"</string>
     <string name="camera_key_action_app_title">Apri applicazione</string>
     <string name="camera_key_action_category_title">"Utilizza se l'applicazione Fotocamera non è aperta"</string>
     <string name="camera_key_action_none_title">Nessuna azione</string>
@@ -919,7 +919,7 @@ Una volta raffreddato, funzionerà normalmente."</string>
     <string name="ims_reg_status_not_registered">Non registrato</string>
     <string name="ims_reg_status_registered">Registrato</string>
     <string name="ims_reg_title">Stato registrazione IMS</string>
-    <string name="imsi_protection_warning">Questa rete riceve un ID univoco che può essere utilizzato per tracciare la posizione del dispositivo. &lt;annotation id=\"url\"&gt;Scopri di più&lt;/annotation&gt;</string>
+    <string name="imsi_protection_warning">Questa rete riceve un ID univoco che può essere utilizzato per tracciare la posizione del dispositivo. &lt;annotation id=\"url\">Scopri di più&lt;/annotation></string>
     <string name="inactive_app_active_summary">Attiva. Premi per operazione rapida.</string>
     <string name="inactive_app_inactive_summary">Inattiva. Premi per operazione rapida.</string>
     <string name="inactive_apps_title">App inattive</string>
@@ -1357,6 +1357,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="notification_channel_tv_pip">Picture-in-Picture</string>
     <string name="notification_channel_usb">USB</string>
     <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
+    <string name="notification_control_center">Notifiche e Centro di Controllo</string>
     <string name="notification_default_channel_desc">"Questa app non ha categorie di notifica"</string>
     <string name="notification_done">Fatto</string>
     <string name="notification_group_collapse_button_text">Chiudi</string>
@@ -1846,9 +1847,9 @@ essere monitorata"</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Imposta metodi di input</string>
     <string name="status_bar_latest_events_title">Notifiche</string>
     <string name="status_bar_network_flow_content">"Oggi: %1$s   Rimanente: %2$s"</string>
-    <string name="status_bar_network_flow_exceed_content">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Superamento soglia: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+    <string name="status_bar_network_flow_exceed_content">Oggi: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Superamento soglia: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_limit">"   Limite mensile: %1$s"</string>
-    <string name="status_bar_network_flow_purchase">"   Acquista &gt;"</string>
+    <string name="status_bar_network_flow_purchase">"   Acquista >"</string>
     <string name="status_bar_network_flow_today">Oggi: %1$s</string>
     <string name="status_bar_no_notifications_title">Nessuna notifica</string>
     <string name="status_bar_no_recent_apps">Nessuna applicazione in esecuzione</string>

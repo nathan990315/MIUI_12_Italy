@@ -803,9 +803,9 @@
     <string name="default_carrier_mmi_msg_title">Messaggio Operatore</string>
     <string name="default_notification_description">Suono predefinito (%1$s)</string>
     <string name="default_preference_summary">@string/default_preference_summary_username</string>
-    <string name="default_preference_summary_domain_address">&lt;Non impostato&gt;</string>
-    <string name="default_preference_summary_password">&lt;Non impostato&gt;</string>
-    <string name="default_preference_summary_username">&lt;Non impostato&gt;</string>
+    <string name="default_preference_summary_domain_address">&lt;Non impostato></string>
+    <string name="default_preference_summary_password">&lt;Non impostato></string>
+    <string name="default_preference_summary_username">&lt;Non impostato></string>
     <string name="delete">Elimina</string>
     <string name="delete_blob_confirmation_text">Sei sicuro di voler eliminare questi dati condivisi?</string>
     <string name="delete_blob_text">Elimina dati condivisi</string>
@@ -1108,7 +1108,7 @@
     <string name="ims_reg_status_registered">Registrato</string>
     <string name="ims_reg_title">Stato registrazione IMS</string>
     <string name="ims_settings">Impostazioni IMS</string>
-    <string name="imsi_protection_warning">Questa rete riceve un ID univoco che può essere utilizzato per tracciare la posizione del dispositivo. &lt;annotation id=\"url\"&gt;Scopri di più&lt;/annotation&gt;</string>
+    <string name="imsi_protection_warning">Questa rete riceve un ID univoco che può essere utilizzato per tracciare la posizione del dispositivo. &lt;annotation id=\"url\">Scopri di più&lt;/annotation></string>
     <string name="inactive_app_active_summary">Attivo. Clicca per toggle.</string>
     <string name="inactive_app_inactive_summary">Inattivo. Clicca per toggle.</string>
     <string name="inactive_apps_title">App inattive</string>
@@ -1243,7 +1243,7 @@
     <string name="lgu_msim_emm_cause_7_14">"La rete a cui è connnessa la SIM %d non fornisce servizi di dati mobili"</string>
     <string name="lgu_msim_emm_cause_8">"La SIM %d non può registrarsi alla rete. Visitare un centro di assistenza clienti (+82-2-3416-7010)."</string>
     <string name="lgu_msim_emm_cause_others">"La SIM %d non può connettersi alla rete. Visitare un centro di assistenza clienti (+82-2-3416-7010)."</string>
-    <string name="limited_service_alert_dialog_description">&lt;b&gt;Chiamate di emergenza tramite Wi-Fi&lt;/b&gt;\"
+    <string name="limited_service_alert_dialog_description">&lt;b>Chiamate di emergenza tramite Wi-Fi&lt;/b>\"
 Le chiamate di emergenza non sono possibili tramite Wi-Fi. 
 
 Il dispositivo passa automaticamente a una rete cellulare (2G/3G) per effettuare una chiamata di emergenza. 
@@ -1958,7 +1958,7 @@ UT Interface: %5$s"</string>
     <string name="roaming_user_package_summary_kr">"Acquista, annulla e modifica il tuo pacchetto di roaming. Non ti verrà addebitato alcun costo per l'utilizzo di questo menu durante il roaming."</string>
     <string name="roaming_user_package_title_kr">Utilizza pacchetto roaming</string>
     <string name="roaming_warning">Consentire il roaming dati? Il tuo piano potrebbe non includere il traffico in roaming.</string>
-    <string name="rtt_mode_more_information">RTT assiste gli utenti sordi, con problemi di udito, con disturbi del linguaggio, o chi necessita di supporto.&lt;br&gt; &lt;a href=http://support.google.com/mobile?p=telephony_rtt&gt;Altre informazioni&lt;/a&gt; &lt;br&gt;&lt;br&gt; - Le chiamate RTT sono salvate sotto forma di messaggio trascritto &lt;br&gt; - RTT non è disponibile per le video chiamate</string>
+    <string name="rtt_mode_more_information">RTT assiste gli utenti sordi, con problemi di udito, con disturbi del linguaggio, o chi necessita di supporto.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt>Altre informazioni&lt;/a> &lt;br>&lt;br> - Le chiamate RTT sono salvate sotto forma di messaggio trascritto &lt;br> - RTT non è disponibile per le video chiamate</string>
     <string name="rtt_mode_summary">Consenti l\'invio di messaggi durante una chiamata vocale</string>
     <string name="rtt_mode_title">Chiamata testuale in tempo reale (RTT)</string>
     <string name="running_process_item_user_label">Utente: %1$s</string>
@@ -2444,7 +2444,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_call_available_title">Attivazione chiamate Wi-Fi</string>
     <string name="wifi_call_cancel">Maggior informazioni</string>
     <string name="wifi_call_help">Guida</string>
-    <string name="wifi_call_help_message_1">"Chiamate Wi-Fi è un servizio fornito da Orange che consente di effettuare e ricevere chiamate tramite il Wi-Fi. Questa funzione può essere utilizzata in aree con scarsa copertura della rete mobile. Per utilizzare chiamate Wi-Fi, attivala in Impostazioni &gt; Chiamate Wi-Fi. Per attivare il servizio, Orange ti invierà un messaggio di conferma non appena il servizio sarà disponibile. Sarete quindi in grado di connettervi a una rete Wi-Fi ed effettuare chiamate. Le chiamate effettuate tramite Wi-Fi verranno addebitate in base alle condizioni del piano tariffario. Ogni volta che questa funzione è disponibile, la seguente icona verrà visualizzata nella parte superiore dello schermo."</string>
+    <string name="wifi_call_help_message_1">"Chiamate Wi-Fi è un servizio fornito da Orange che consente di effettuare e ricevere chiamate tramite il Wi-Fi. Questa funzione può essere utilizzata in aree con scarsa copertura della rete mobile. Per utilizzare chiamate Wi-Fi, attivala in Impostazioni > Chiamate Wi-Fi. Per attivare il servizio, Orange ti invierà un messaggio di conferma non appena il servizio sarà disponibile. Sarete quindi in grado di connettervi a una rete Wi-Fi ed effettuare chiamate. Le chiamate effettuate tramite Wi-Fi verranno addebitate in base alle condizioni del piano tariffario. Ogni volta che questa funzione è disponibile, la seguente icona verrà visualizzata nella parte superiore dello schermo."</string>
     <string name="wifi_call_help_message_2">"Se si sceglie di preferire le reti Wi-Fi, verranno utilizzate per impostazione predefinita per effettuare chiamate telefoniche. Nel caso in cui non si è connessi alla rete Wi-Fi o il segnale è debole, i dati mobili verranno utilizzati per effettuare chiamate."</string>
     <string name="wifi_call_help_title">Aiuto chiamata Wi-Fi</string>
     <string name="wifi_call_notification_message">"Questo servizio è fornito da Orange. L'attivazione del servizio potrebbe richiedere diverse ore. Riceverai un SMS di conferma non appena sarà disponibile."</string>
