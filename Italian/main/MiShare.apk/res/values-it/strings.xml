@@ -109,6 +109,10 @@
     <string name="file_transfer_progress_title">Avanzamento</string>
     <string name="functions_are_being_developed">Questa funzionalità sarà presto disponibile. Attendi!</string>
     <string name="go_to_settings">Impostazioni</string>
+    <string name="guide_summary_1">L\'altra persona può toccare l\'interruttore nella tendina notifiche</string>
+    <string name="guide_summary_2">"Seleziona il dispositivo al quale desideri inviare gli elementi e tocca l'icona corrispondente"</string>
+    <string name="guide_title_1">Attiva Mi Share su entrambi i dispositivi</string>
+    <string name="guide_title_2">Seleziona il dispositivo da condividere</string>
     <string name="help">"Impossibile trovare dispositivi?"</string>
     <string name="help_content">"Se non riesci a trovare il dispositivo che ti serve, chiedi all'altra persona di attivare Mi Share."</string>
     <string name="hide">Nascondi</string>
@@ -116,12 +120,13 @@
     <string name="location_enabled">Mi Share ha attivato i servizi di localizzazione per trovare i dispositivi nelle vicinanze</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
+    <string name="menu_item_privacy_title">Informativa sulla Privacy</string>
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_drop">Mi Share</string>
     <string name="mi_note_10">Mi Note 10</string>
-    <string name="mishare_folder_in_file_explorer">Gestore File > MiShare</string>
+    <string name="mishare_folder_in_file_explorer">Gestore File &gt; MiShare</string>
     <string name="mishare_service_channel_desc">Notifica sui trasferimenti Mi Share</string>
     <string name="mishare_settings_summary_international">"Puoi usare Mi Share per inviare file ai dispositivi nelle vicinanze.
 Mi Share è compatibile con i telefoni Mi e Redmi.
@@ -134,10 +139,10 @@ OPPO, Vivo, Realme, e altri marchi saranno presto compatibili con Mi Share. È p
     <string name="miuix_sbl_tracking_progress_labe_refreshed">aggiornamento terminato</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">aggiornamento</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">E\' tutto per ora</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">E\' tutto per ora</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">aggiornamento</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fallito</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"fallito"</string>
     <string name="multi_file_name">%1$s, %2$s</string>
     <string name="name_with_ellipsize">%1$s … %2$s</string>
     <string name="no_longer_prompt">Blocca</string>
@@ -189,7 +194,6 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="redmi_note_9_pro_max">Redmi Note 9 Pro Max</string>
     <string name="redmi_note_9s">Redmi Note 9S</string>
     <string name="refuse_file">Rifiuta</string>
-    <string name="required_permissions">android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE</string>
     <string name="retry_task">Invia nuovamente</string>
     <string name="scanning_device_tips">Ricerca dispositivi nelle vicinanze… Assicurati che l\'altro dispositivo sia in modalità visibile.</string>
     <string name="scanning_only_xiaomi_device">You can send this item only to a Xiaomi device</string>
@@ -214,6 +218,9 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="support_device_type">Dispositivi supportati</string>
     <string name="throwing_print">Stampa</string>
     <string name="throwing_screen">Trasmetti</string>
+    <string name="tile_state_active">Attivata</string>
+    <string name="tile_state_inactive">Spenta</string>
+    <string name="tile_state_unavailable">Non disponibile</string>
     <string name="tips_prompt_enable_midrop">Condividi file con dispositivi vicini</string>
     <string name="to_feedback">Segnala</string>
     <string name="transfer_intercept_to_remote">"Impossibile inviare: %1$s"</string>

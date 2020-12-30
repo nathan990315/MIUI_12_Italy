@@ -10,18 +10,6 @@
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
     <string name="abc_capital_off">Disattivato</string>
     <string name="abc_capital_on">Attivato</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="abc_search_hint">Cerca…</string>
     <string name="abc_searchview_description_clear">Cancella termine</string>
     <string name="abc_searchview_description_query">Cerca termine</string>
@@ -36,7 +24,7 @@
     <string name="account_crop_user_avatar">Taglia immagine</string>
     <string name="account_empty_user_name">Inserisci il nome utente del tuo Mi Account</string>
     <string name="account_error_all_space_user_name">"\"Il nome utente non può contenere  spazi"</string>
-    <string name="account_error_invalid_user_name">"Il nome utente non può contenere: &lt;, >, o /"</string>
+    <string name="account_error_invalid_user_name">"Il nome utente non può contenere: &lt;, &gt;, o /"</string>
     <string name="account_error_longer_user_name">"Il nome utente non può essere più lungo di 20 caratteri"</string>
     <string name="account_error_shorter_user_name">Il nome deve essere più lungo di 2 caratteri</string>
     <string name="account_error_user_birthday">La data di compleanno indicata non è valida</string>
@@ -68,10 +56,8 @@
     <string name="activity_not_found_notice">"Impossibile trovare l'applicazione"</string>
     <string name="add_to_trust_device">Questo device è affidabile</string>
     <string name="app_name">Mi Credit</string>
-    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo.</string>
     <string name="bind_sign_in_title">Aggiungi Mi Account</string>
-    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
     <string name="change_activate_email">Modifica indirizzo email</string>
     <string name="change_password">Cambia password</string>
     <string name="character_counter_pattern">%1$d di %2$d</string>
@@ -89,7 +75,6 @@ Invia questo codice al supervisore."</string>
     <string name="error_dup_binded_email">Questo indirizzo email è già associato ad un altro Mi Account.</string>
     <string name="error_invalid_bind_address">L\'email inserita non è valida.</string>
     <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro Mi Account.</string>
-    <string name="facebook_application_id"></string>
     <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="failed_dup_secure_phone_number">Questo numero è già associato ad un Mi Account</string>
     <string name="find_psw">Password dimenticata</string>
@@ -98,7 +83,6 @@ Invia questo codice al supervisore."</string>
     <string name="get_ph_ticket">Ottieni codice</string>
     <string name="get_phone_bind_exceed_limit">"Il numero di telefono collegato all'account ha raggiunto il massimo di account collegati(3), non può essere collegato ad altri account"</string>
     <string name="get_phone_verifycode_exceed_limit">Sono stati inviati troppi codici di verifica su questo numero. Aspetta 24 ore e riprova.</string>
-    <string name="google_application_id"></string>
     <string name="goto_sign_up">Crea account</string>
     <string name="hybrid_provider">Fornito da %1$s</string>
     <string name="i_know">OK</string>
@@ -143,6 +127,7 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_button_cancel">Annulla</string>
     <string name="mibi_button_confirm">Conferma</string>
     <string name="mibi_button_count_down_finish">OK(%1$s)</string>
+    <string name="mibi_button_count_down_reget">%1$s</string>
     <string name="mibi_button_custom_service_phone">OK</string>
     <string name="mibi_button_next">Avanti</string>
     <string name="mibi_button_pay">Conferma</string>
@@ -163,7 +148,6 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_deduct_success_sub">Metodo di addebito:%1$s</string>
     <string name="mibi_deduct_type">Metodi pagamento</string>
     <string name="mibi_denomination_mibi_unit">Questo SMS viene utilizzato per attivare i tuoi servizi Mi</string>
-    <string name="mibi_denomination_money_unit">CNY</string>
     <string name="mibi_detail_consume_account">ID acquisto</string>
     <string name="mibi_detail_consume_amount">Totale</string>
     <string name="mibi_detail_consume_name">Prodotto</string>
@@ -252,7 +236,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_giftcard_used">rinnovato</string>
     <string name="mibi_giftcard_vaild_util">valido fino al %1$s</string>
     <string name="mibi_giftcard_will_expire">Scaduta il %1$s</string>
-    <string name="mibi_giftcard_with_num">&lt;Data>&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Sconto Mi Credit disponibile&amp;lt;/font&amp;gt;&lt;/Data></string>
+    <string name="mibi_giftcard_with_num">&lt;Data&gt;&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Sconto Mi Credit disponibile&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
     <string name="mibi_header_network_error">"Impossibile connettersi alla rete"</string>
     <string name="mibi_illegal_intent">Richiesta di intenti non valida</string>
     <string name="mibi_is_what">Cosa puoi acquistare con i Mi Credit?</string>
@@ -278,11 +262,10 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_msg_order_hint_1_1">Dopo aver toccato \'Conferma Acquisto\', il telefono eseguirà l\'operazione</string>
     <string name="mibi_msg_order_hint_1_2">Contatta automaticamente il tuo fornitore di servizi.</string>
     <string name="mibi_msg_picker_hint_1_1">1.</string>
-    <string name="mibi_msg_picker_hint_1_2">Il riempimento testuale potrebbe essere più costoso: &lt;font color=red>￥%1$d = %2$d Mi Credit&lt;/font></string>
+    <string name="mibi_msg_picker_hint_1_2">Il riempimento testuale potrebbe essere più costoso: &lt;font color=red&gt;￥%1$d = %2$d Mi Credit&lt;/font&gt;</string>
     <string name="mibi_msg_picker_hint_2_1">2.</string>
     <string name="mibi_msg_picker_hint_2_a">L\'operatore ha ricaricato ￥%1$s in base al costo del servizio ricarica</string>
     <string name="mibi_msg_picker_hint_2_b">Un SMS ti verrà recapitato dal tuo operatore dopo che toccherai il pulsante \"Ricarica\". L\'operatore ti addebiterà il costo di un normale SMS.</string>
-    <string name="mibi_msg_picker_hint_3_1">3.</string>
     <string name="mibi_msg_picker_hint_3_2">Ricarica mensile massima: ￥%1$s</string>
     <string name="mibi_msg_send_no_net_error">"Impossibile inviare il messaggio: impossibile connettersi al provider di rete"</string>
     <string name="mibi_msg_send_no_sim_error">Impossibile inviare messaggio: prova a reinserire la scheda SIM.</string>
@@ -327,8 +310,6 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_paytool_error_msp">%1$s non riuscito</string>
     <string name="mibi_paytool_mipay">Mi Pay</string>
     <string name="mibi_paytool_msp_not_installed">Non hai installato il plugin di sicurezza mobile %1$s, installare ora?</string>
-    <string name="mibi_paytool_paypal">Paypal</string>
-    <string name="mibi_paytool_tenpay">Tenpay</string>
     <string name="mibi_paytool_wechat_return_cancel">Annullamento ritorno WeChat</string>
     <string name="mibi_paytool_weixin">WeChat</string>
     <string name="mibi_permanently_denied_perm_camera">Consenti l\'uso della fotocamera in Impostazioni per utilizzare le funzionalità.</string>
@@ -347,7 +328,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_prepaid_picker_hint_1_2">Supportato solo addebito una tantum;</string>
     <string name="mibi_prepaid_picker_hint_2_1">2.</string>
     <string name="mibi_prepaid_picker_hint_2_2_a">"Il valore nominale selezionato deve essere coerente con quello della carta prepagata. La scelta di un altro valore invaliderà la carta. Questa azione non può essere annullata."</string>
-    <string name="mibi_prepaid_picker_hint_2_2_b">Se il valore nominale della carta prepagata non lo è del &lt;font color=red>￥%1$s&lt;/font>, la carta verrà invalidata. Xiaomi non si riterrà responsabile per eventuali perdite monetarie che potrebbero verificarsi a seguito di un errore dell\'utente.</string>
+    <string name="mibi_prepaid_picker_hint_2_2_b">Se il valore nominale della carta prepagata non lo è del &lt;font color=red&gt;￥%1$s&lt;/font&gt;, la carta verrà invalidata. Xiaomi non si riterrà responsabile per eventuali perdite monetarie che potrebbero verificarsi a seguito di un errore dell\'utente.</string>
     <string name="mibi_prepaid_picker_title_default">Seleziona ammontare</string>
     <string name="mibi_prepaid_picker_title_selected">Ammontare</string>
     <string name="mibi_privacy_license_name">Informativa sulla Privacy</string>
@@ -417,9 +398,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_sms_code_empty">Inserisci il codice di verifica inviato al tuo telefono.</string>
     <string name="mibi_sms_code_error">Si è verificato un errore nel codice di verifica del telefono, riprova</string>
     <string name="mibi_sms_code_hint">Immetti codice di verifica a 6 cifre</string>
-    <string name="mibi_string_with_bracket">(%s)</string>
     <string name="mibi_summary_bind_phone">Per garantire la sicurezza del tuo account, completa il pagamento dopo aver abbinato il numero di telefono.</string>
-    <string name="mibi_summary_custom_service_phone">Tel:</string>
     <string name="mibi_summary_sms_code">Immetti il codice di verifica inviato a %1$s，e quindi termina il pagamento</string>
     <string name="mibi_tianyi_create_order">SMS China Unicom</string>
     <string name="mibi_title_bind_phone">Abbina numero di telefono.</string>
@@ -454,7 +433,6 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="passport_account_name">"Account: %1$s"</string>
     <string name="passport_activate_token_expired">Codice dii verifica scaduto. Perfavore riprova.</string>
     <string name="passport_area_code_title">Codice regionale</string>
-    <string name="passport_auth_title"></string>
     <string name="passport_bad_authentication">Nome utente o password non validi</string>
     <string name="passport_barcode_add_account_prompt">Per connettere un account, scansiona il codice QR dopo aver completato l\'accesso.</string>
     <string name="passport_can_not_receive_verification_code">"Impossibile ottenere il codice di verifica?"</string>
@@ -526,8 +504,8 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="passport_unknow_error">Siamo spiacenti, si è verificato un errore sconosciuto</string>
     <string name="passport_unknow_host_network_error">Verifica le impostazioni di rete e riprova</string>
     <string name="passport_unknow_network_error">Siamo spiacenti, si è verificato un errore di rete</string>
-    <string name="passport_user_agreement_link">"&lt;Data>Ho letto e accettato il &lt;a href=%1$s>Contratto Utente&lt;/a> e&lt;a href=%2$s>Informativa sulla Privacy&lt;/a>.&lt;/Data> Xiaomi"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data>Ho letto e accettato i seguenti documenti: &lt;a href=%1$s>Contratto Utente&lt;/a> e &lt;a href=%4$s>Informativa sulla Privacy&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data> Xiaomi"</string>
+    <string name="passport_user_agreement_link">"&lt;Data&gt;Ho letto e accettato il &lt;a href=%1$s&gt;Contratto Utente&lt;/a&gt; e&lt;a href=%2$s&gt;Informativa sulla Privacy&lt;/a&gt;.&lt;/Data&gt; Xiaomi"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Ho letto e accettato i seguenti documenti: &lt;a href=%1$s&gt;Contratto Utente&lt;/a&gt; e &lt;a href=%4$s&gt;Informativa sulla Privacy&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt; Xiaomi"</string>
     <string name="passport_user_id_intro">Accedi con %1$s</string>
     <string name="passport_v_code_error">Il codice di verifica non è corretto</string>
     <string name="passport_vcode_notification_title">La tua verifica di accesso è incompleta</string>
@@ -541,10 +519,6 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="passport_wrong_vcode">Il codice immesso non è corretto</string>
     <string name="passport_wrong_voice">Il codice immesso non è corretto</string>
     <string name="password_toggle_content_description">Mostra/Nascondi password</string>
-    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="phone_bind_too_many">Questo telefono è stato associato a diversi Mi Account in un breve periodo di tempo. Prova ad utilizzare un altro numero di telefono.</string>
     <string name="phone_hint">Numero di telefono</string>
     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
@@ -552,9 +526,8 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
     <string name="psw_hint">Password</string>
     <string name="psw_sign_in">Accedi con password</string>
-    <string name="qq_application_id"></string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
-    <string name="request_camera_permission_message">Questo servizio richiede la tua autorizzazione, rispetteremo rigorosamente le leggi pertinenti per proteggere le tue informazioni personali: &lt;br>&lt;br>&lt;b> Accesso Fotocamera: necessaria per l\'impostazione di Avatar &lt;/b>&lt;br>&lt;br> Se non accetti di consentire i permessi di cui sopra, questa funzione non funzionerà correttamente, ma non influenzerà l\'uso delle funzioni di base di questa applicazione. È possibile scegliere di disattivare l\'autorizzazione di cui sopra nelle impostazioni di sistema in seguito.</string>
+    <string name="request_camera_permission_message">Questo servizio richiede la tua autorizzazione, rispetteremo rigorosamente le leggi pertinenti per proteggere le tue informazioni personali: &lt;br&gt;&lt;br&gt;&lt;b&gt; Accesso Fotocamera: necessaria per l\'impostazione di Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Se non accetti di consentire i permessi di cui sopra, questa funzione non funzionerà correttamente, ma non influenzerà l\'uso delle funzioni di base di questa applicazione. È possibile scegliere di disattivare l\'autorizzazione di cui sopra nelle impostazioni di sistema in seguito.</string>
     <string name="resend_active_email">Invia di nuovo</string>
     <string name="resend_email_reach_limit_message">"Hai richiesto troppe email di verifica. Assicurati che l'email di verifica non sia nella cartella Spam."</string>
     <string name="resend_email_reach_limit_title">Troppi tentativi</string>
@@ -576,6 +549,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="sns_access_token_expired_warning">Sessione scaduta. Effettua nuovamente l\'accesso per ricollegare questo account.</string>
     <string name="sns_bind_limit">Troppi tentativi. Prova ad accedere in altri modi.</string>
     <string name="sns_sign_in">Altri modo per accedere</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>
     <string name="ticket_hint">Codice di verifica</string>
     <string name="ticket_invalid">Il codice inserito non è corretto</string>
@@ -591,9 +565,4 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="web_sso_login_fail">Devi accedere di nuovo</string>
     <string name="web_sso_login_message">Accesso in corso…</string>
     <string name="webview_reload">Prova di nuovo</string>
-    <string name="wechat_application_id"></string>
-    <string name="wechat_scope"></string>
-    <string name="wechat_state"></string>
-    <string name="weibo_application_id"></string>
-    <string name="weibo_redirect_uri"></string>
 </resources>

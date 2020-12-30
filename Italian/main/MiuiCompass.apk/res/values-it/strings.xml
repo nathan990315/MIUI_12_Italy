@@ -37,7 +37,7 @@
     <string name="altitude_uncalibrate_tip">Impossibile calibrare l\'altitudine</string>
     <string name="altitude_unit">M</string>
     <string name="angle">%.0f</string>
-    <string name="app_description_content">La bussola è utilizzata per orientarsi ed indicare le direzioni. Assicurati di non aver bisogno di queste funzionalità prima di disinstallare questa app.</string>
+    <string name="app_description_content">"La bussola è utilizzata per orientarsi ed indicare le direzioni. Assicurati di non aver bisogno di queste funzionalità prima di disinstallare questa app."</string>
     <string name="app_description_title">Informazioni</string>
     <string name="app_label">Bussola</string>
     <string name="app_name">Gestione Effetti</string>
@@ -81,6 +81,7 @@
     <string name="location_enabled">Puoi disattivare i servizi di localizzazione in qualsiasi momento dalle Impostazioni.</string>
     <string name="location_north">N</string>
     <string name="location_not_enabled_summary">Il servizio necessita della tua posizione per funzionare correttamente.</string>
+    <string name="location_not_enabled_summary_no_pressure_sensor">Bussola deve accedere alla tua posizione per visualizzare le coordinate attuali.</string>
     <string name="location_not_enabled_title">Servizi di localizzazione</string>
     <string name="location_south">S</string>
     <string name="location_west">O</string>

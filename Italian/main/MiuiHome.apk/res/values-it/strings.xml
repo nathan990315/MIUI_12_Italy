@@ -228,8 +228,6 @@
     <string name="disable_wallpaper_scroll">Disattiva scorrimento sfondo</string>
     <string name="double_tap_to_lock_title">Doppio tocco per bloccare lo schermo</string>
     <string name="download_action">Scarica</string>
-    <string name="drag_multiple_item_name"></string>
-    <string name="drag_single_item_name"></string>
     <string name="drawer_background">Sfondi</string>
     <string name="drawer_background_dark">Scuro</string>
     <string name="drawer_background_light">Chiaro</string>
@@ -490,7 +488,6 @@
     <string name="preferred_app_settings_not_selected">Non selezionato</string>
     <string name="privacy_thumbnail_blur_summary">Sfoca le anteprime delle applicazioni nei recenti</string>
     <string name="privacy_thumbnail_blur_title">Sfoca le anteprime delle app</string>
-    <string name="process"></string>
     <string name="quick_app">App Veloci</string>
     <string name="recent_apps">Recenti</string>
     <string name="recent_menu_item_info">Info</string>
@@ -506,6 +503,9 @@
     <string name="recents_exit_multi_window_mode">Esci da modalità schermo diviso</string>
     <string name="recents_forbid_dock_when_screening_toast_text">"Impossibile utilizzare lo split screen durante la proiezione"</string>
     <string name="recents_incompatible_app_message">"L'app non supporta la modalità a schermo diviso"</string>
+    <string name="recents_layout_style">Visualizza app nei Recenti</string>
+    <string name="recents_layout_style_horizontal">Orizzontale</string>
+    <string name="recents_layout_style_vertical">Verticale</string>
     <string name="recents_smallwindow_text">Rilascia per aggiungere</string>
     <string name="recents_task_screening">Proiezione</string>
     <string name="recents_title_app_manager">Gestisci app</string>
@@ -553,7 +553,6 @@
     <string name="shake_to_align_icons_summary">Scuoti il dispositivo mentre sei in modalità modifica per riempire le celle vuote con le icone automaticamente</string>
     <string name="shake_to_align_icons_title">Scuoti per riempire le celle vuote</string>
     <string name="share">Condividi</string>
-    <string name="sharedUserId"></string>
     <string name="shortcut_share_dialog_content">"I file inviati dal telefono, così come i destinatari vengono selezionati e determinati da te. Prestare attenzione quando si scelgono i file da condividere e si selezionano i destinatari. Non è consentito utilizzare il telefono per trasmettere virus, malware, trojan, bombe a orologeria e altri oggetti dannosi ad altre persone. Non utilizzare il telefono per trasmettere alcun software che possa influire sull'utilizzo regolare del dispositivo del destinatario o di elementi che potrebbero danneggiare, interferire, intercettare o eliminare dati di sistema o informazioni personali sui dispositivi terminali mobili. Sarai responsabile di eventuali danni causati ad altri utenti o dispositivi terminali mobili. Xiaomi farà del suo meglio per garantire che le funzionalità di condivisione, così come la tecnologia e le informazioni coinvolte siano sicure, efficaci, accurate e affidabili. Tuttavia, a causa delle attuali limitazioni tecnologiche, Xiaomi non garantisce che la funzionalità di condivisione sia impeccabile e soddisfi tutte le tue esigenze."</string>
     <string name="shortcut_share_dialog_positive_button">Capito</string>
     <string name="shortcut_share_dialog_title">Avviso</string>
@@ -574,9 +573,9 @@
     <string name="sort_by_not_defined">Ordina automaticamente</string>
     <string name="start_activity_failed">"Avvio non riuscito, riprova"</string>
     <string name="starting_preset_app">Inizio…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s | %2$s</string>
-    <string name="status_bar_recent_memory_info2"></string>
     <string name="status_bar_recent_memory_mega">%1$s MB</string>
     <string name="status_downloaded">Scaricato</string>
     <string name="status_downloading">In download</string>
@@ -635,5 +634,10 @@
     <string name="widgets_preview_title">Aggiungi widget</string>
     <string name="work_mode_off_label">"Le notifiche sono disattivate e le app non sono disponibili al momento"</string>
     <string name="work_mode_on_label">Gestito dalla tua organizzazione</string>
+    <string name="work_profile_first_content">I dati personali sono separati &amp; e nascosti dalle app nel profilo di lavoro</string>
+    <string name="work_profile_got_button">Fatto</string>
+    <string name="work_profile_next_button">Successivo</string>
+    <string name="work_profile_second_content">Le app e i dati presenti nel profilo di lavoro  &amp; saranno visibili dal tuo admin IT</string>
+    <string name="work_profile_title">Profilo di lavoro</string>
     <string name="work_profile_toggle_label">Profilo di lavoro</string>
 </resources>

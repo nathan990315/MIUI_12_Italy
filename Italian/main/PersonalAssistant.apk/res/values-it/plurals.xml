@@ -37,48 +37,52 @@
         <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="agenda_anniversary_day">
-        <item quantity="other">·%1$d days</item>
-        <item quantity="one">·%1$d day</item>
+        <item quantity="other">·%1$d giorni</item>
+        <item quantity="one">·%1$d giorno</item>
     </plurals>
     <plurals name="agenda_anniversary_year">
-        <item quantity="other">·%1$d years</item>
-        <item quantity="one">·%1$d year</item>
+        <item quantity="other">·%1$d anni</item>
+        <item quantity="one">·%1$d anno</item>
     </plurals>
     <plurals name="agenda_count_down">
         <item quantity="other">Tra %d minuti</item>
         <item quantity="one">Tra %d minuto</item>
     </plurals>
     <plurals name="agenda_countdown_day">
-        <item quantity="other">·In %1$d days</item>
-        <item quantity="one">·In %1$d day</item>
+        <item quantity="other">·Tra %1$d giorni</item>
+        <item quantity="one">·Tra %1$d giorno</item>
     </plurals>
     <plurals name="agenda_tip_count_down">
-        <item quantity="other">Starts in %1$d minutes</item>
-        <item quantity="one">Starts in %1$d minute</item>
+        <item quantity="other">Inizia tra %1$d minuti</item>
+        <item quantity="one">Inizia tra %1$d minuto</item>
+    </plurals>
+    <plurals name="app_course_to_start">
+        <item quantity="other">Inizia tra %1$d min</item>
+        <item quantity="one">Inizia tra %1$d min</item>
     </plurals>
     <plurals name="app_express_content_title_1">
-        <item quantity="other">%d packages are on their way</item>
-        <item quantity="one">%d package is on its way</item>
+        <item quantity="other">%d pacchi sono in arrivo</item>
+        <item quantity="one">%d pacco è in arrivo</item>
     </plurals>
     <plurals name="app_express_settings_title_2">
-        <item quantity="other">Added %d phone numbers</item>
-        <item quantity="one">Added %d phone number</item>
+        <item quantity="other">Aggiunti %d numeri di telefono</item>
+        <item quantity="one">Aggiunto %d numero di telefono</item>
     </plurals>
     <plurals name="app_miot_total_device">
-        <item quantity="other">%1$d devices</item>
-        <item quantity="one">%1$d device</item>
+        <item quantity="other">%1$d dispositivi</item>
+        <item quantity="one">%1$d dispositivo</item>
     </plurals>
     <plurals name="assistant_day">
         <item quantity="other">In %d giorni</item>
         <item quantity="one">In %d giorno</item>
     </plurals>
     <plurals name="base_time_hour_ago">
-        <item quantity="other">%d hours ago</item>
-        <item quantity="one">%d hour ago</item>
+        <item quantity="other">%d ore fa</item>
+        <item quantity="one">%d ora fa</item>
     </plurals>
     <plurals name="base_time_minute_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">%d minute ago</item>
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">%d minuto fa</item>
     </plurals>
     <plurals name="book_start_interval">
         <item quantity="other">Partenza tra %d giorni</item>

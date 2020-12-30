@@ -80,17 +80,9 @@
         <item quantity="other">Non utilizzata da %d anni</item>
         <item quantity="one">Non utilizzata da %d anno</item>
     </plurals>
-    <plurals name="applock_app_suggest_lock">
-        <item quantity="other">You can use App lock with %1$s apps</item>
-        <item quantity="one">You can use App lock with %1$s app</item>
-    </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">Puoi proteggere almeno %s app</item>
         <item quantity="one">Puoi proteggere almeno %s app</item>
-    </plurals>
-    <plurals name="applock_one_key_lock">
-        <item quantity="other">%s apps will be protected with App lock</item>
-        <item quantity="one">%s app will be protected with App lock</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d app non possono collegarsi alla rete in background</item>
@@ -127,10 +119,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="ew_concern_date">
         <item quantity="other">%d giorni fa</item>
         <item quantity="one">%d giorno fa</item>
-    </plurals>
-    <plurals name="exit_dialog_release_memory_message">
-        <item quantity="other">&lt;Data>Close &lt;font color=#0099ff>%d&lt;/font> apps to speed up your device?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Close &lt;font color=#0099ff>%d&lt;/font> app to speed up your device?&lt;/Data></item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Cerca tra %d app</item>
@@ -320,6 +308,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%2$d app, incluso %1$s, stanno consumando la batteria</item>
         <item quantity="one">%2$d app, incluso %1$s, sta consumando la batteria</item>
     </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">Elimina %d pacchetti di installazione</item>
+        <item quantity="one">Elimina %d pacchetto di installazione</item>
+    </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d giorni dall\'ultimo controllo</item>
         <item quantity="one">%d giorno dall\'ultimo controllo</item>
@@ -436,6 +428,14 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">"%d giorni "</item>
         <item quantity="one">"%d giorno "</item>
     </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" ore"</item>
+        <item quantity="one">" ora"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ore "</item>
         <item quantity="one">"%d ora "</item>
@@ -447,10 +447,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d °C</item>
         <item quantity="one">%d °C</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="one">%d mAh</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Aggiungi %d minuti</item>
@@ -495,6 +491,26 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="privacy_pop_times">
         <item quantity="other">%s volte</item>
         <item quantity="one">%s volta</item>
+    </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d app</item>
+        <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d funzionalità che proteggono la tua privacy sono disattivate</item>
+        <item quantity="one">%d funzionalità che protegge la tua privacy è disattivata</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">%d permessi sensibili concessi</item>
+        <item quantity="one">%d permesso sensibili concessi</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Disinstalla %d app</item>
+        <item quantity="one">Disinstalla %d app</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d elementi necessitano di protezione extra</item>
+        <item quantity="one">%d elemento necessita protezione extra</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d problemi batteria</item>

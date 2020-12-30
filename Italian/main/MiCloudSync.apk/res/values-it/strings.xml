@@ -2,10 +2,11 @@
 <resources>
     <string name="app_name">MiCloudSync</string>
     <string name="error_data_in_transfer">Trasferimento dei dati in corso. Ci vorranno circa %s ore.</string>
-    <string name="error_forbidden">Si sono verificati dei problemi con il tuo account: sincronizzazione disattivata.</string>
-    <string name="error_not_acceptable">Sincronizzazione disattivata.</string>
-    <string name="error_title">"Errore di sincronizzazione"</string>
-    <string name="error_unauthorized">Troppi tentativi di accesso: sincronizzazione disattivata.</string>
+    <string name="error_forbidden">La sincronizzazione è stata disattivata a causa di problemi con il tuo Mi Account.</string>
+    <string name="error_not_acceptable">La sincronizzazione è stata disattivata.</string>
+    <string name="error_title">"Impossibile sincronizzare"</string>
+    <string name="error_unauthorized">La sincronizzazione è stata disattivata a causa di troppi tentativi di accesso.</string>
     <string name="micloud_downloading_clipboard_message_from_web">Appunti: Ricevuto un messaggio dal tuo computer</string>
     <string name="micloud_send_message_desc">Invio Mi Message</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

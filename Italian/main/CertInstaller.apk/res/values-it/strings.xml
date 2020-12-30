@@ -13,7 +13,6 @@
     <string name="certificate">Certificato</string>
     <string name="certificate_capabilities_warning">Nota: l\'autore di questo certificato potrebbe monitorare tutto il traffito in entrata e in unsita dal dispositivo.</string>
     <string name="certificate_name">Nome Certificato</string>
-    <string name="config_system_install_component">com.android.settings/com.android.settings.security.CredentialStorage</string>
     <string name="credential_info">Il pacchetto contiene:</string>
     <string name="credential_password">Digita la password per l\'estrazione dei certificati.</string>
     <string name="credential_usage_label">Utilizzo della credenziale: </string>
@@ -42,7 +41,7 @@
     <string name="pkcs12_password_dialog_title">Estrai certificato</string>
     <string name="redirect_ca_certificate_close_button">Chiudi</string>
     <string name="redirect_ca_certificate_title">Impossibile installare i Certificati CA</string>
-    <string name="redirect_ca_certificate_with_app_info_message">This certificate from %1$s must be installed in Settings. Only install CA certificates from organizations you trust.</string>
+    <string name="redirect_ca_certificate_with_app_info_message">Questo certificato da %1$s deve essere installato nelle Impostazioni. Installare solo i certificati CA dalle organizzazioni di cui ti fidi.</string>
     <string name="select_certificate_usage_title">Scegli tipo di certificato</string>
     <string name="unable_to_save_cert">"Impossibile salvare il certificato. L'archivio credenziali non è attivo o non è stato inizializzato correttamente."</string>
     <string name="user_cert_is_added">Certificato utente installato</string>

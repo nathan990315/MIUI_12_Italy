@@ -225,7 +225,6 @@ Sample Rate"</string>
     <string name="bugreport_in_power">Segnalazioni di bug nel menu di accensione</string>
     <string name="bugreport_in_power_summary">Includi opzione per aprire una segnalazione bug nel menu di accensione</string>
     <string name="button_convert_fbe">Cancella e converti</string>
-    <string name="cache_db_name">app_icons.db</string>
     <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
     <string name="cached_apps_freezer_disabled">Disabilitato</string>
     <string name="cached_apps_freezer_enabled">Attivato</string>
@@ -283,7 +282,7 @@ Sample Rate"</string>
     <string name="debug_drawing_category">Disegno</string>
     <string name="debug_hw_drawing_category">Rendering con accelerazione hardware</string>
     <string name="debug_hw_overdraw">Debug overdraw GPU</string>
-    <string name="debug_input_category">Input</string>
+    <string name="debug_input_category">Ingresso</string>
     <string name="debug_layout">Mostra limiti di disposizione</string>
     <string name="debug_layout_summary">Mostra limiti, margini dei clip e così via</string>
     <string name="debug_monitoring_category">Monitoraggio</string>
@@ -349,7 +348,6 @@ Sample Rate"</string>
     <string name="hdcp_checking_title">Controllo HDCP</string>
     <string name="help_feedback_label">Aiuto e segnalazione bug</string>
     <string name="help_label">Aiuto e segnalazione bug</string>
-    <string name="help_url_imsi_protection"></string>
     <string name="home">Impostazioni Home</string>
     <string name="ime_security_warning">Questo metodo di inserimento potrebbe raccogliere il testo che digiti, compresi dai personali come password e numeri di carte di credito. Questo tramite l\'app %1$s. Utilizzare questo metodo di inserimento?</string>
     <string name="immediately_destroy_activities">Non mantenere attività</string>
@@ -357,7 +355,7 @@ Sample Rate"</string>
     <string name="ims_reg_status_not_registered">Non registrato</string>
     <string name="ims_reg_status_registered">Registrato</string>
     <string name="ims_reg_title">Stato registrazione IMS</string>
-    <string name="imsi_protection_warning">Questa rete riceve un ID univoco che può essere utilizzato per tracciare la posizione del dispositivo. &lt;annotation id=\"url\">Scopri di più&lt;/annotation></string>
+    <string name="imsi_protection_warning">Questa rete riceve un ID univoco che può essere utilizzato per tracciare la posizione del dispositivo. &lt;annotation id=\"url\"&gt;Scopri di più&lt;/annotation&gt;</string>
     <string name="inactive_app_active_summary">Attivata. Tocca per disattivare.</string>
     <string name="inactive_app_inactive_summary">Disattivata. Tocca per attivare.</string>
     <string name="inactive_apps_title">Inactive apps</string>
@@ -417,7 +415,6 @@ Sample Rate"</string>
     <string name="no_vm_number_msg">Nessun numero segreteria telefonica è salvato sulla SIM.</string>
     <string name="non_primary_user">Soltanto il proprietario del dispositivo può visualizzare e gestire i numeri bloccati.</string>
     <string name="not_set">Non impostato</string>
-    <string name="notice_header"></string>
     <string name="notification_AllMissedCallTitle">Tutte le chiamate perse</string>
     <string name="notification_audioProcessing_body">%s ha effettuato una chiamata in background. Questa app può accedere e riprodurre audio durante la chiamata.</string>
     <string name="notification_audioProcessing_title">Chiamata in background</string>
@@ -442,7 +439,7 @@ Sample Rate"</string>
     <string name="notification_missedCallsMsg">%s chiamate perse</string>
     <string name="notification_missedCallsTitle">Chiamate perse</string>
     <string name="notification_missedWorkCallTitle">Chiamata lavoro persa</string>
-    <string name="oem_preferred_feedback_reporter"></string>
+    <string name="number_tag_divider">" ｜ "</string>
     <string name="oem_unlock_enable">Sblocco OEM</string>
     <string name="oem_unlock_enable_summary">Consenti al dispositivo lo sblocco OEM</string>
     <string name="okay">OK</string>
@@ -472,6 +469,7 @@ Sample Rate"</string>
     <string name="picture_color_mode_desc">Usa sRGB</string>
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s until full</string>
     <string name="power_discharge_by">Dovrebbe durare circa %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Dovrebbe durare circa %1$s in base al tuo utilizzo (%2$s)</string>
@@ -500,8 +498,13 @@ Sample Rate"</string>
     <string name="private_dns_mode_provider">Hostname provider DNS privato</string>
     <string name="private_dns_mode_provider_failure">"Impossibile collegarsi"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
+    <string name="process_kernel_label">Sistema Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_hint">proxy.esempio.com</string>
+    <string name="proxy_port_hint">8000</string>
+    <string name="proxy_url_hint">https://www.esempio.com/proxy.pac</string>
     <string name="remaining_length_format">%1$s rimanenti</string>
     <string name="respond_via_sms_canned_response_1">"Non posso parlare ora. Ci sentiamo dopo."</string>
     <string name="respond_via_sms_canned_response_2">"Ti chiamo appena posso"</string>
@@ -510,7 +513,6 @@ Sample Rate"</string>
     <string name="respond_via_sms_confirmation_format">Messaggio inviato a %s.</string>
     <string name="respond_via_sms_edittext_dialog_title">Risposte veloci</string>
     <string name="respond_via_sms_failure_format">Messaggio non inviato a %s.</string>
-    <string name="respond_via_sms_setting_summary"></string>
     <string name="respond_via_sms_setting_title">Risposte veloci</string>
     <string name="respond_via_sms_setting_title_2">Modifica risposte veloci</string>
     <string name="retail_demo_reset_message">Inserisci la password per eseguire un ripristino di fabbrica in modalità demo</string>
@@ -573,18 +575,14 @@ Sample Rate"</string>
     <string name="strict_mode">Attiva Modalità Strict</string>
     <string name="strict_mode_summary">Flash dello schermo in caso di lunghe operazioni sul thread principale</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="summary_empty"></string>
     <string name="summary_separator">" / "</string>
     <string name="tap_to_renew_subscription_and_connect">Tocca per rinnovare l\'abbonamento e connetterti</string>
     <string name="tap_to_sign_up">Tocca per iscriverti</string>
     <string name="telecommAppLabel">Telefono</string>
-    <string name="test_account_0_label">Q Mobile</string>
     <string name="test_account_0_short_description">Account con Q Mobile</string>
-    <string name="test_account_1_label">Market Wireless</string>
     <string name="test_account_1_short_description">Account con Market Wireless</string>
     <string name="test_account_2_label">Sonoma Circles Talk Plus</string>
     <string name="test_account_2_short_description">Parla con tutti della vostra Cerchia</string>
-    <string name="test_account_3_label">Bay Voice Chat Pro</string>
     <string name="test_account_3_short_description">Chatta con gli utenti di Chat Network</string>
     <string name="tether_settings_title_all">Hotspot personale</string>
     <string name="tether_settings_title_bluetooth">Tethering bluetooth</string>

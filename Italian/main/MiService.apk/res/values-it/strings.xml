@@ -61,7 +61,7 @@
     <string name="chinese_day_7">7</string>
     <string name="chinese_day_8">8</string>
     <string name="chinese_day_9">9</string>
-    <string name="chinese_day_elementary">初</string>
+    <string name="chinese_day_elementary">Primo</string>
     <string name="chinese_digit_eight">8</string>
     <string name="chinese_digit_five">5</string>
     <string name="chinese_digit_four">4</string>
@@ -75,7 +75,7 @@
     <string name="chinese_digit_twenty">20</string>
     <string name="chinese_digit_two">2</string>
     <string name="chinese_digit_zero">0</string>
-    <string name="chinese_leap">闰</string>
+    <string name="chinese_leap">Salto</string>
     <string name="chinese_month">Mese</string>
     <string name="chinese_month_april">Aprile</string>
     <string name="chinese_month_august">Agosto</string>
@@ -102,24 +102,20 @@
     <string name="chinese_symbol_animals_snake">Serpente</string>
     <string name="chinese_symbol_animals_tiger">Tigre</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
-    <string name="date_picker_label_day"></string>
-    <string name="date_picker_label_month"></string>
-    <string name="date_picker_label_year"></string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="early_morning">Mattina</string>
-    <string name="earthly_branches_chen">辰</string>
-    <string name="earthly_branches_chou">丑</string>
-    <string name="earthly_branches_hai">亥</string>
-    <string name="earthly_branches_mao">卯</string>
-    <string name="earthly_branches_shen">申</string>
-    <string name="earthly_branches_si">巳</string>
-    <string name="earthly_branches_wei">未</string>
-    <string name="earthly_branches_wu">午</string>
-    <string name="earthly_branches_xu">戌</string>
-    <string name="earthly_branches_yin">寅</string>
-    <string name="earthly_branches_you">酉</string>
-    <string name="earthly_branches_zi">子</string>
-    <string name="empty"></string>
+    <string name="earthly_branches_chen">Chen</string>
+    <string name="earthly_branches_chou">Chou</string>
+    <string name="earthly_branches_hai">Hai</string>
+    <string name="earthly_branches_mao">Mao</string>
+    <string name="earthly_branches_shen">Shen</string>
+    <string name="earthly_branches_si">Si</string>
+    <string name="earthly_branches_wei">Wei</string>
+    <string name="earthly_branches_wu">Wu</string>
+    <string name="earthly_branches_xu">Xu</string>
+    <string name="earthly_branches_yin">Yin</string>
+    <string name="earthly_branches_you">You</string>
+    <string name="earthly_branches_zi">Zi</string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
     <string name="evening">Pomeriggio</string>
@@ -178,16 +174,20 @@
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
-    <string name="heavenly_stems_bing">丙</string>
-    <string name="heavenly_stems_ding">丁</string>
-    <string name="heavenly_stems_geng">庚</string>
-    <string name="heavenly_stems_gui">癸</string>
-    <string name="heavenly_stems_ji">己</string>
-    <string name="heavenly_stems_jia">甲</string>
-    <string name="heavenly_stems_ren">壬</string>
-    <string name="heavenly_stems_wu">戊</string>
-    <string name="heavenly_stems_xin">辛</string>
-    <string name="heavenly_stems_yi">乙</string>
+    <string name="heavenly_stems_bing">Bing</string>
+    <string name="heavenly_stems_ding">Ding</string>
+    <string name="heavenly_stems_geng">Geng</string>
+    <string name="heavenly_stems_gui">Gui</string>
+    <string name="heavenly_stems_ji">Ji</string>
+    <string name="heavenly_stems_jia">Jia</string>
+    <string name="heavenly_stems_ren">Ren</string>
+    <string name="heavenly_stems_wu">Wu</string>
+    <string name="heavenly_stems_xin">Xin</string>
+    <string name="heavenly_stems_yi">Yi</string>
+    <string name="icon_add_description">Aggiungi collegamento sulla Home</string>
+    <string name="icon_remove_confirm">Rimuovi</string>
+    <string name="icon_remove_description_content">"\"Servizi e Feedback\" è un'app di sistema. Sarai comunque in grado di utilizzarla tramite Impostazioni dopo aver rimosso il collegamento sulla schermata iniziale."</string>
+    <string name="icon_remove_description_title">Rimuovere \"Servizi e Feedback\" dalla schermata Home?</string>
     <string name="mi_service_app_name">Servizi e feedback</string>
     <string name="midnight">Notte</string>
     <string name="miservice_channel_boot_name">avvio</string>
@@ -259,8 +259,8 @@
     <string name="miui_feedback_edit_storage_permission_name">Accesso alla memoria del dispositivo</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">"Non accetto"</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">Accetto</string>
-    <string name="miui_feedback_edit_submit_dialog_content">&lt;Data>\"Devi accettare i nostri &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt; e &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; per poter utilizzare Feedback. I problemi segnalati insieme agli elementi allegati (potrebbero contenere informazioni personali così come le informazioni sul tuo dispositivo e sulla tua rete) verranno caricate sui server MIUI. Questo ci aiuterà a individuare e risolvere i problemi segnalati.\"&lt;/Data></string>
-    <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data>\"Il tuo feedback, insieme agli allegati (se presenti) e ai log (puoi deselezionare le caselle corrispondenti per gli elementi che non vuoi caricare) saranno inviati ai server MIUI. I log possono contenere informazioni personali e i dati della tua posizione. Selezionando \"Accetto\" si intende che hai letto e accettato la nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt; e &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt;.\"&lt;/Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content">&lt;Data&gt;\"Devi accettare i nostri &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt; e &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; per poter utilizzare Feedback. I problemi segnalati insieme agli elementi allegati (potrebbero contenere informazioni personali così come le informazioni sul tuo dispositivo e sulla tua rete) verranno caricate sui server MIUI. Questo ci aiuterà a individuare e risolvere i problemi segnalati.\"&lt;/Data&gt;</string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data&gt;\"Il tuo feedback, insieme agli allegati (se presenti) e ai log (puoi deselezionare le caselle corrispondenti per gli elementi che non vuoi caricare) saranno inviati ai server MIUI. I log possono contenere informazioni personali e i dati della tua posizione. Selezionando \"Accetto\" si intende che hai letto e accettato la nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt; e &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt;.\"&lt;/Data&gt;</string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"Non mostrare più"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Invia segnalazione</string>
     <string name="miui_feedback_edit_submit_directly">Invia</string>
@@ -374,7 +374,7 @@
     <string name="night">Sera</string>
     <string name="noon">Mezzogiorno</string>
     <string name="permission_agree">Accetto</string>
-    <string name="permission_china_version_msg">&lt;Data>Prima di utilizzare \"Servizi e;amp;amp; feedback\", devi leggere e accettare i nostri &amp;lt;a href=%1$s&amp;gt; Contratto Utente&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;. Questa applicazione deve anche connettersi ad internet per funzionare correttamente.&lt;/Data></string>
+    <string name="permission_china_version_msg">&lt;Data&gt;Prima di utilizzare \"Servizi e;amp;amp; feedback\", devi leggere e accettare i nostri &amp;lt;a href=%1$s&amp;gt; Contratto Utente&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;. Questa applicazione deve anche connettersi ad internet per funzionare correttamente.&lt;/Data&gt;</string>
     <string name="permission_complete">Fatto</string>
     <string name="permission_contacts_info">Accesso alle informazioni dell\'account</string>
     <string name="permission_contacts_introduce">Per accedere tramite Mi Account</string>
@@ -388,7 +388,7 @@
     <string name="permission_location_introduce">Per visualizzare i centri assistenza nelle vicinanze</string>
     <string name="permission_main_purpose">Vedere e provare funzionalità MIUI, invio dei feedback e servizi post-vendita.</string>
     <string name="permission_privacy">Informativa Privacy (obbligatorio)</string>
-    <string name="permission_region_version_msg">&lt;Data>Prima di utilizzare \"Servizi e;amp;amp; feedback\", devi leggere e accettare i nostri &amp;lt;a href=%1$s&amp;gt; Contratto Utente&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;.&lt;/Data></string>
+    <string name="permission_region_version_msg">&lt;Data&gt;Prima di utilizzare \"Servizi e;amp;amp; feedback\", devi leggere e accettare i nostri &amp;lt;a href=%1$s&amp;gt; Contratto Utente&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
     <string name="permission_select_all">Seleziona tutto</string>
     <string name="permission_storage">Archiviazione</string>
     <string name="permission_storage_introduce">Per salvare elementi sul tuo dispositivo</string>

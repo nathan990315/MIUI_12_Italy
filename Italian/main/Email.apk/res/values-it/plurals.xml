@@ -92,17 +92,9 @@
         <item quantity="other">%s risultati nei messaggi sincronizzati</item>
         <item quantity="one">%s risultato nei messaggi sincronizzati</item>
     </plurals>
-    <plurals name="month">
-        <item quantity="other">%d mesi</item>
-        <item quantity="one">%d mese</item>
-    </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">%1$d altri rimanenti</item>
         <item quantity="one">%1$d altro rimanente</item>
-    </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">Sposta %1$d conversazioni</item>
-        <item quantity="one">Sposta conversazione</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Mostra %1$d nuovi messaggi.</item>
@@ -155,10 +147,6 @@
     <plurals name="number_of_week_before">
         <item quantity="other">%1$d settimane fa</item>
         <item quantity="one">%1$d settimana fa</item>
-    </plurals>
-    <plurals name="quick_reply_hint">
-        <item quantity="other">Rispondi a %1$d persone</item>
-        <item quantity="one">Rispondi a %1$d persona</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">%s risultati sul server</item>

@@ -168,6 +168,10 @@
         <item quantity="other">%d volte</item>
         <item quantity="one">%d volta</item>
     </plurals>
+    <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">Media %.2f volte</item>
+        <item quantity="one">Media %.2f volta</item>
+    </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">Weekend: %d ore</item>
         <item quantity="one">Weekend: %d ora</item>

@@ -199,7 +199,6 @@ Frequenza Campione"</string>
     <string name="bugreport_in_power">Collegamento segnalazione bug</string>
     <string name="bugreport_in_power_summary">Mostra il pulsante per generare una segnalazione bug nel power menù</string>
     <string name="button_convert_fbe">Pulisci e converti…</string>
-    <string name="cache_db_name">app_icons.db</string>
     <string name="cached_apps_freezer_device_default">Predefinito del dispositivo</string>
     <string name="cached_apps_freezer_disabled">Disabilitato</string>
     <string name="cached_apps_freezer_enabled">Attivato</string>
@@ -208,7 +207,6 @@ Frequenza Campione"</string>
     <string name="categories">Categorie</string>
     <string name="category_personal">Personale</string>
     <string name="category_work">Lavoro</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="charge_length_format">%1$s fa</string>
     <string name="choose_profile">Scegli profilo</string>
     <string name="clear">Cancella</string>
@@ -249,7 +247,7 @@ Frequenza Campione"</string>
     <string name="debug_drawing_category">Disegno</string>
     <string name="debug_hw_drawing_category">Rendering con accelerazione hardware</string>
     <string name="debug_hw_overdraw">Debug overdraw GPU</string>
-    <string name="debug_input_category">Input</string>
+    <string name="debug_input_category">Ingresso</string>
     <string name="debug_layout">Mostra misura disposizione</string>
     <string name="debug_layout_summary">Mostra misura taglio, margini, etc.</string>
     <string name="debug_monitoring_category">Monitoraggio</string>
@@ -259,7 +257,6 @@ Frequenza Campione"</string>
     <string name="default_categories">Predefinita</string>
     <string name="default_categories_restored">Categorie predefinite ripristinate</string>
     <string name="default_long_trace_duration">30</string>
-    <string name="default_long_trace_size">10240</string>
     <string name="delete_blob_confirmation_text">Sei sicuro di voler eliminare questi dati condivisi?</string>
     <string name="delete_blob_text">Elimina dati condivisi</string>
     <string name="dev_logpersist_clear_warning_message">Quando non monitoriamo più con il log persistente, chiediamo di eliminare i dati del log sul tuo dispositivo.</string>
@@ -316,8 +313,6 @@ Frequenza Campione"</string>
     <string name="hdcp_checking_title">Controllo HDCP</string>
     <string name="help_feedback_label">Aiuto e segnalazione bug</string>
     <string name="help_label">Aiuto e segnalazione bug</string>
-    <string name="help_url">https://developer.android.com/studio/command-line/systrace.html</string>
-    <string name="help_url_imsi_protection"></string>
     <string name="home">Impostazioni Home</string>
     <string name="ime_security_warning">Questo metodo di inserimento potrebbe raccogliere il testo che digiti, compresi dai personali come password e numeri di carte di credito. Questo tramite l\'app %1$s. Utilizzare questo metodo di inserimento?</string>
     <string name="immediately_destroy_activities">Non mantenere attività</string>
@@ -325,7 +320,7 @@ Frequenza Campione"</string>
     <string name="ims_reg_status_not_registered">Non registrato</string>
     <string name="ims_reg_status_registered">Registrato</string>
     <string name="ims_reg_title">Stato registrazione IMS</string>
-    <string name="imsi_protection_warning">Questa rete riceve un ID univoco che può essere utilizzato per tracciare la posizione del dispositivo. &lt;annotation id=\"url\">Scopri di più&lt;/annotation></string>
+    <string name="imsi_protection_warning">Questa rete riceve un ID univoco che può essere utilizzato per tracciare la posizione del dispositivo. &lt;annotation id=\"url\"&gt;Scopri di più&lt;/annotation&gt;</string>
     <string name="inactive_app_active_summary">Attiva. Premi per operazione rapida.</string>
     <string name="inactive_app_inactive_summary">Inattiva. Premi per operazione rapida.</string>
     <string name="inactive_apps_title">App inattive</string>
@@ -369,7 +364,6 @@ Frequenza Campione"</string>
     <string name="lb_playback_controls_thumb_down_outline">Seleziona Pollice Giù</string>
     <string name="lb_playback_controls_thumb_up">Deseleziona Pollice Su</string>
     <string name="lb_playback_controls_thumb_up_outline">Seleziona Pollice Su</string>
-    <string name="lb_playback_time_separator">/</string>
     <string name="lb_search_bar_hint">Cerca</string>
     <string name="lb_search_bar_hint_speech">Parla per cercare</string>
     <string name="lb_search_bar_hint_with_title">Cerca %1$s</string>
@@ -422,8 +416,6 @@ Frequenza Campione"</string>
     <string name="no_application">Niente</string>
     <string name="no_debuggable_apps">Nessuna applicazione disponibile per il debug</string>
     <string name="not_set">Non impostato</string>
-    <string name="notice_header"></string>
-    <string name="oem_preferred_feedback_reporter"></string>
     <string name="oem_unlock_enable">Sblocco OEM</string>
     <string name="oem_unlock_enable_summary">Permetti lo sblocco del bootloader</string>
     <string name="okay">OK</string>
@@ -461,14 +453,7 @@ Frequenza Campione"</string>
     <string name="power_remaining_only_more_than_subtext">Più di %1$s rimanente</string>
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_suggestion_battery_run_out">La batteria potrebbe esaurirsi tra %1$s</string>
-    <string name="pref_key_apps">all_apps</string>
-    <string name="pref_key_buffer_size">buffer_size</string>
-    <string name="pref_key_long_traces">long_traces</string>
-    <string name="pref_key_max_long_trace_duration">max_long_trace_duration</string>
-    <string name="pref_key_max_long_trace_size">max_long_trace_size</string>
-    <string name="pref_key_quick_setting">quick_setting_enabled</string>
     <string name="pref_key_tags">current_tags_2</string>
-    <string name="pref_key_tracing_on">tracing_on</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="preference_summary_default_combination">%1$s / %2$s</string>
     <string name="private_dns_broken">Impossibile accedere al server DNS privato</string>
@@ -477,7 +462,7 @@ Frequenza Campione"</string>
     <string name="private_dns_mode_provider">DNS Hostname provider privato</string>
     <string name="private_dns_mode_provider_failure">"Connessione fallita"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
-    <string name="process_kernel_label">Android OS</string>
+    <string name="process_kernel_label">Sistema Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
@@ -516,7 +501,6 @@ Frequenza Campione"</string>
     <string name="select_webview_provider_dialog_title">Imposta l\'implementazione di WebView</string>
     <string name="select_webview_provider_title">Implementazione WebView</string>
     <string name="select_webview_provider_toast_text">Questa scelta choice non è più valida. Riprova.</string>
-    <string name="settings_package">com.android.settings</string>
     <string name="share">Condividi</string>
     <string name="share_trace">Condividere la traccia?</string>
     <string name="shared_data_delete_failure_text">Si è verificato un errore durante l\'eliminazione dei dati condivisi.</string>
@@ -556,7 +540,6 @@ Frequenza Campione"</string>
     <string name="strict_mode">Abilita modalità rigorosa</string>
     <string name="strict_mode_summary">Fai lampeggiare lo schermo quando un\'applicazione esegue un\'operazione lunga sul thread principale</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="summary_empty"></string>
     <string name="summary_separator">" / "</string>
     <string name="system_trace_sensitive_data">Le Tracce di Sistema possono includere dati sensibili di sistema e app (come l\'utilizzo dell\'app). Condividere solo tracce di sistema con persone e applicazioni di cui ti fidi.</string>
     <string name="system_traces_storage_title">Tracce di sistema</string>

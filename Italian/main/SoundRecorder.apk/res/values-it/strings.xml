@@ -43,6 +43,8 @@
     <string name="call_record_list_group_connected">Connesso</string>
     <string name="call_record_list_group_unconnected">Non connesso</string>
     <string name="cancel_rename">Annulla</string>
+    <string name="clear_data_dialog_content">Verranno eliminati gli elementi, i dati delle app e le impostazioni personalizzate, ma le tue registrazioni rimarranno salvate.</string>
+    <string name="clear_data_dialog_title">Eliminare i dati ora?</string>
     <string name="clear_records">Elimina le registrazioni sincronizzate</string>
     <string name="cloud_record_open">Sincronizza le registrazioni</string>
     <string name="cloud_record_tip">Sincronizza le registrazioni con Mi Cloud.</string>
@@ -65,8 +67,8 @@
     <string name="dialog_title_storage_full">Spazio di archiviazione esaurito. Eliminare alcuni file?</string>
     <string name="download">Scaricate</string>
     <string name="duration_format_hour">%so</string>
-    <string name="duration_format_minute">%sm</string>
-    <string name="duration_format_second">%ss</string>
+    <string name="duration_format_minute">%s m</string>
+    <string name="duration_format_second">%s s</string>
     <string name="empty_recognition_tip">Vuoto</string>
     <string name="err_msg_abandon">Ordine annullato</string>
     <string name="err_msg_complete">Completato</string>
@@ -125,6 +127,7 @@
     <string name="low_battery_error_title">Batteria scarica</string>
     <string name="lyric_item_point_count">%1$d a %2$d</string>
     <string name="mark_point_list_title">Segna punto lista</string>
+    <string name="marketSdkVersion">3.2.5</string>
     <string name="menu">Premi Menu</string>
     <string name="message_file_size_error">La registrazione ha raggiunto la lunghezza massima per %s</string>
     <string name="mi_account_msg">Accedi al Mi Account per utilizzare il riconoscimento di precisione, entro 30 minuti libero per un nuovo utente</string>
@@ -145,6 +148,7 @@
     <string name="network_unavailable_tip">Collegati alla rete.</string>
     <string name="new_record_name">Nuova registrazione</string>
     <string name="no_file">Vuoto</string>
+    <string name="no_network">"Impossibile connettersi alla rete"</string>
     <string name="not_set">Non impostato</string>
     <string name="notification_message_all_paused">Potrebbe aumentare l\'utilizzo dei dati su rete cellulare.</string>
     <string name="notification_playback">Riproduzione in corso…</string>
@@ -188,6 +192,7 @@
     <string name="pay_error_unknown">Errore sconosciuto</string>
     <string name="playback_delete_records">Elimina la registrazione</string>
     <string name="playback_share_records">Condividi la registrazione</string>
+    <string name="preference_clear_data">Azzera dati</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="preference_enable_earpiece_summary">Permette di riprodurre la registrazione nell\'altoparlante utilizzato per le chiamate</string>
     <string name="preference_enable_earpiece_title">Riproduci nell\'altoparlante</string>
@@ -283,8 +288,6 @@
     <string name="record_list_fm">Registrazioni FM</string>
     <string name="record_list_item_recognize_text">Testo</string>
     <string name="record_mark_point">Segna %s</string>
-    <string name="record_name_hour">.</string>
-    <string name="record_name_minute"></string>
     <string name="record_quliaty_preference_title">Qualità di registrazione</string>
     <string name="record_resotre">Ripristina registrazioni</string>
     <string name="recording">Registrazione</string>
@@ -367,6 +370,8 @@
     <string name="trash_box">Elementi eliminati di recente</string>
     <string name="trash_box_close_tip">Chiudi avviso</string>
     <string name="trash_box_delete_all">Eliminare definitivamente tutti gli elementi dal cestino?</string>
+    <string name="uninstall_warning_content">"Registratore è un'app di sistema. Non sarai in grado di registrare e trascrivere le chiamate audio e vocali dopo la disinstallazione."</string>
+    <string name="uninstall_warning_title">Disinstallare Registratore?</string>
     <string name="usage_description">Trascrizione dell\'audio e sincronizzazione di elementi con il cloud</string>
     <string name="user_feedback">Segnalazione</string>
     <string name="v7_preference_off">Disattivato</string>
@@ -380,4 +385,8 @@
     <string name="webview_try_again">Prova di nuovo</string>
     <string name="wifi_recommended_body" formatted="false">L\'utilizzo della rete dati cellulare per il download di questo file (%s) aumenterà il consumo dei dati. Se superi il limite previsto dal piano del tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il download di questo file tocca %s.</string>
     <string name="wifi_recommended_title">Avviso traffico</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Non adesso</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>
 </resources>

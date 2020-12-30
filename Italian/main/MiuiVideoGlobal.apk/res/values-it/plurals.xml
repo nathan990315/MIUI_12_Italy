@@ -8,10 +8,6 @@
         <item quantity="other">Ritorno alla home page tra %1$d secondi…</item>
         <item quantity="one">Ritorno alla home page tra %1$d secondo…</item>
     </plurals>
-    <plurals name="follower">
-        <item quantity="other">%d follower</item>
-        <item quantity="one">%d follower</item>
-    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">I sottotitoli verranno mostrati %.1f secondi prima</item>
         <item quantity="one">I sottotitoli verranno mostrati %.1f secondo prima</item>
@@ -79,10 +75,6 @@
     <plurals name="s_double_tap_forward">
         <item quantity="other">Tocca due volte per avanzare di %d secondi</item>
         <item quantity="one">Tocca due volte per avanzare di %d secondo</item>
-    </plurals>
-    <plurals name="s_forward_tip">
-        <item quantity="other">%1$s sec</item>
-        <item quantity="one">%1$s sec</item>
     </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s iscritti</item>

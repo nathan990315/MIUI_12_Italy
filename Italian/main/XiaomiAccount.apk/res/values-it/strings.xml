@@ -38,7 +38,7 @@
     <string name="account_crop_user_avatar">Taglia immagine</string>
     <string name="account_empty_user_name">Inserisci il nome utente del tuo Mi Account</string>
     <string name="account_error_all_space_user_name">"Il nome non può essere composto solo da spazi"</string>
-    <string name="account_error_invalid_user_name">"Il nome non può contenere &lt;, >, /"</string>
+    <string name="account_error_invalid_user_name">"Il nome non può contenere &lt;, &gt;, /"</string>
     <string name="account_error_longer_user_name">"Il nome non può superare i 20 caratteri"</string>
     <string name="account_error_shorter_user_name">Il nome deve essere più lungo di 2 caratteri</string>
     <string name="account_error_user_birthday">La data di compleanno indicata non è valida</string>
@@ -85,7 +85,6 @@
     <string name="add_account">Aggiungi account</string>
     <string name="agreement_and_privacy">Accordo utente e Informativa sulla privacy</string>
     <string name="app_name">Account</string>
-    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo più tardi</string>
     <string name="authorize_title">Autorizzazione</string>
     <string name="bind_facebook">Collega  il tuo account Facebook</string>
@@ -99,7 +98,6 @@
     <string name="binded">Collegato</string>
     <string name="binded_description" formatted="false">"%s collegato correttamente. 
 Puoi accedere al tuo Mi Account con %s."</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="button_unbind">Scollega</string>
     <string name="change_activate_email">Modifica indirizzo email</string>
     <string name="change_email_address">Modifica indirizzo email</string>
@@ -111,7 +109,7 @@ Puoi accedere al tuo Mi Account con %s."</string>
     <string name="cloud_description_normal">Occupato</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="collect_diagnosis_log">Raccolta log diagnosi</string>
-    <string name="com_facebook_device_auth_instructions">Visita &lt;b>facebook.com/device&lt;/b> ed inserisci il codice visualizzato sopra.</string>
+    <string name="com_facebook_device_auth_instructions">Visita &lt;b&gt;facebook.com/device&lt;/b&gt; ed inserisci il codice visualizzato sopra.</string>
     <string name="com_facebook_image_download_unknown_error">\"Errore inastpettatto durante il downlaod dell\'immagine\".</string>
     <string name="com_facebook_internet_permission_error_message">Il login WebView richiede i permessi per accedere connessione internet</string>
     <string name="com_facebook_internet_permission_error_title">Errore AndroidManifest</string>
@@ -185,13 +183,9 @@ Invia questo codice ai tecnici."</string>
     <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro Mi Account.</string>
     <string name="exit">Esci</string>
     <string name="expand_button_title">Avanzate</string>
-    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="facebook">Facebook</string>
-    <string name="facebook_app_id">2263965750590514</string>
     <string name="facebook_login">Accedi con Facebook</string>
     <string name="failed_dup_secure_phone_number">Questo numero è già associato ad un Mi Account</string>
-    <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">Trova dispositivo</string>
     <string name="find_device_access_denied">"Impossibile recuperare lo stato, accesso negato"</string>
     <string name="find_device_account_error">"Impossibile recuperare lo stato a causa di un errore con l'account"</string>
@@ -237,7 +231,6 @@ Invia questo codice ai tecnici."</string>
     <string name="health_state_not_installed">Non installato</string>
     <string name="health_state_not_support">Non supportato in questa versione</string>
     <string name="help_center">Guida</string>
-    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="i_agree">OK</string>
     <string name="i_agree_continue">Continua</string>
     <string name="identity">Identificazione</string>
@@ -298,7 +291,7 @@ Invia questo codice ai tecnici."</string>
     <string name="notify_network_restricted_title">"Mi Account non è riuscito a connettersi alla rete"</string>
     <string name="oauth_get_scopes_failed">"Impossibile recuperare le informazioni account"</string>
     <string name="oauth_getting_scopes">Verifica account…</string>
-    <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> otterrà i seguenti permessi:&lt;br> &lt;br> %3$s</string>
+    <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; otterrà i seguenti permessi:&lt;br&gt; &lt;br&gt; %3$s</string>
     <string name="oauth_title">Accedi con il Mi Account</string>
     <string name="ok">OK</string>
     <string name="optional_permissions">Permessi opzionali </string>
@@ -332,15 +325,15 @@ Invia questo codice ai tecnici."</string>
     <string name="passport_completed">Finito</string>
     <string name="passport_confirm_login">Continua</string>
     <string name="passport_confirm_recycle_account">Sì</string>
-    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Sembra che&lt;/font> il numero %s sia stato riutilizzato dal tuo operatore e che ci sia un Mi Account collegato ad esso. E' il tuo?"</string>
+    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Sembra che&lt;/font&gt; il numero %s sia stato riutilizzato dal tuo operatore e che ci sia un Mi Account collegato ad esso. E' il tuo?"</string>
     <string name="passport_continue">Continua</string>
     <string name="passport_copy_message_text_success">Copiato correttamente</string>
     <string name="passport_copy_message_vcode">Copia codice</string>
-    <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">国内:SIM卡激活取号失败,运营商取号失败</string>
-    <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">国内:SIM卡激活取号失败,运营商取号成功(成功%s张)</string>
-    <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">国内:SIM卡激活取号成功(成功%s张)</string>
-    <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">国际:SIM卡激活取号失败</string>
-    <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">国际:SIM卡激活取号成功(成功%s张)</string>
+    <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">Nazionale: Attivazione SIM fallita, impossibile ottenere il numero di telefono</string>
+    <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">Nazionale: Attivazione della SIM fallita, impossibile ottenere il numero, l\'operatore ha ottenuto il numero con successo (%s riuscito)</string>
+    <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">Nazionale: Attivazione della SIM riuscita (%s riuscita)</string>
+    <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">Internazionale: Impossibile ottenere il numero di attivazione della SIM</string>
+    <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">Internazionale: Attivazione della scheda SIM riuscita (%s riuscita)</string>
     <string name="passport_delete_account">Esci</string>
     <string name="passport_downlink_reg">Crea account utilizzando il numero di telefono</string>
     <string name="passport_email">Indirizzo email</string>
@@ -434,7 +427,7 @@ Invia questo codice ai tecnici."</string>
     <string name="passport_quick_login_step2_title">Verifica in 2 passaggi</string>
     <string name="passport_quick_login_title">Inserisci la password</string>
     <string name="passport_quick_register">Registrati</string>
-    <string name="passport_quick_register_notice">&lt;u>Non hai un Mi Account? Creane uno.&lt;/u></string>
+    <string name="passport_quick_register_notice">&lt;u&gt;Non hai un Mi Account? Creane uno.&lt;/u&gt;</string>
     <string name="passport_re_get_verify_code">Ricevi di nuovo il codice</string>
     <string name="passport_re_register">Accedi di nuovo</string>
     <string name="passport_recycle_account_prompt">Questo è il tuo Mi Account?</string>
@@ -507,12 +500,19 @@ Invia questo codice ai tecnici."</string>
     <string name="passport_trust_device">Ricorda questo dispositivo</string>
     <string name="passport_trying_read_verify_code_sms">Recupero codice di verifica...</string>
     <string name="passport_uplink_reg">Usa il numero di telefono</string>
+    <string name="passport_uplink_send_sms_hint">"Premi \"Invia\" dopo aver reindirizzato alla pagina con un messaggio composto."</string>
     <string name="passport_uplink_slot1_reg">Usa SIM 1</string>
     <string name="passport_uplink_slot2_reg">Usa SIM 2</string>
+    <string name="passport_uplink_sms_send_cancel">Invio SMS annullato</string>
+    <string name="passport_uplink_sms_send_confirm">Inviato</string>
+    <string name="passport_uplink_sms_send_failed">"Impossibile verificare l'SMS"</string>
+    <string name="passport_uplink_sms_sending">Invio del messaggio a pagamento…</string>
+    <string name="passport_uplink_suggest_dialog_msg">"Impossibile ricevere il codice. Utilizzare un SMS a pagamento?"</string>
+    <string name="passport_uplink_suggest_dialog_title">Attenzione</string>
     <string name="passport_use_generated_pwd_message">Non dimenticare la password. Puoi utilizzarla per accedere ad altri servizi Mi.</string>
     <string name="passport_use_generated_pwd_title">Non dimenticare la password!</string>
     <string name="passport_user_agreement">Accordo Utente</string>
-    <string name="passport_user_agreement_link">&lt;Data>\"Ho letto e accettato il &amp;lt;a href=%1$s&amp;gt;Contratto con l\'utente&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;.\"&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data&gt;\"Ho letto e accettato il &amp;lt;a href=%1$s&amp;gt;Contratto con l\'utente&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;.\"&lt;/Data&gt;</string>
     <string name="passport_user_agreement_required">Accordo Utente (obbligatorio)</string>
     <string name="passport_user_id_notice">Il tuo ID Mi Account ID è %s.</string>
     <string name="passport_user_reg_region">Nazione/Regione</string>
@@ -531,10 +531,6 @@ Invia questo codice ai tecnici."</string>
     <string name="passport_wx_bind_account_limit">"Impossibile creare un account adesso. Prova altri metodi di accesso.\""</string>
     <string name="passport_yes">Sì</string>
     <string name="password_toggle_content_description">Mostra password</string>
-    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="permission_group_contacts">Contatti</string>
     <string name="permission_group_phone">Telefono</string>
     <string name="permission_group_sms">SMS di gruppo</string>
@@ -581,7 +577,6 @@ Invia questo codice ai tecnici."</string>
     <string name="send_diagnosis_log">Invio log di diagnosi</string>
     <string name="send_email_activate_message">Email di verifica inviata</string>
     <string name="sending">Invio in corso...</string>
-    <string name="server_client_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
     <string name="service_error">Errore di servizio</string>
     <string name="set_success">Modificato correttamente</string>
     <string name="sign_in">Accesso in corso</string>

@@ -108,6 +108,14 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">%d minuto fa</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avanti %d secondi</item>
+        <item quantity="one">Avanti %d secondo</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Riavvolgi %d secondi</item>
+        <item quantity="one">Riavvolgi %d secondo</item>
+    </plurals>
     <plurals name="guide_used_number">
         <item quantity="other">Applicato su %1$d dispositivi</item>
         <item quantity="one">Applicato su %1$d dispositivo</item>

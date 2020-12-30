@@ -73,6 +73,7 @@
     <string name="accessibility_delay_capture_5s_button">Timer impostato a 5 secondi</string>
     <string name="accessibility_delay_capture_close_button">Timer spento</string>
     <string name="accessibility_description_clone_button">Pannello Clona</string>
+    <string name="accessibility_description_dolly_zoom_button">Hhddbbjjggnnjjss</string>
     <string name="accessibility_deselect_all">Deseleziona tutto</string>
     <string name="accessibility_deselect_all_end">Deselezionati tutti</string>
     <string name="accessibility_document_blackwhite_button">Scansione documenti. Bianco e nero.</string>
@@ -150,6 +151,13 @@
     <string name="accessibility_portrait_depth_effect_panel_on">Pannello verticale</string>
     <string name="accessibility_preview_button">Anteprima</string>
     <string name="accessibility_preview_effect_button">Anteprima effetto</string>
+    <string name="accessibility_preview_expand">Aumenta zoom</string>
+    <string name="accessibility_preview_front">Anteprima fotocamera frontale</string>
+    <string name="accessibility_preview_remote">Anteprima remota</string>
+    <string name="accessibility_preview_select_tip">Posizione %1$d</string>
+    <string name="accessibility_preview_selected">Selezionato</string>
+    <string name="accessibility_preview_shrink">Riduci zoom</string>
+    <string name="accessibility_preview_zoom_tip">Anteprima zoom %1$.1fX</string>
     <string name="accessibility_pro_video_simple_mode">Modalità semplificata</string>
     <string name="accessibility_protrait">Ritratto</string>
     <string name="accessibility_pull_down_to_open_camera">Scorri in basso per aprire la fotocamera</string>
@@ -193,16 +201,16 @@
     <string name="accessibility_whitebalance_custom_panel_on">Pannello di regolazione manuale</string>
     <string name="accessibility_zoom_button">Modalità Zoom</string>
     <string name="ai">IA</string>
-    <string name="ai_agra_fort">Agra Fort</string>
-    <string name="ai_amber_fort">Amber Palace</string>
-    <string name="ai_baby">Baby</string>
+    <string name="ai_agra_fort">Forte Agra</string>
+    <string name="ai_amber_fort">Palazzo D\'Ambra</string>
+    <string name="ai_baby">Bambino</string>
     <string name="ai_beijing">Pechino</string>
     <string name="ai_charm_and_smile">Fascino e sorriso</string>
     <string name="ai_chengdu">Chengdu</string>
     <string name="ai_children_day">"Giornata dei bambini"</string>
     <string name="ai_chongqing">Chongqing</string>
     <string name="ai_christmas">Natale</string>
-    <string name="ai_coffee">Coffee</string>
+    <string name="ai_coffee">Caffè</string>
     <string name="ai_diwali">Diwali</string>
     <string name="ai_dussehra">Dussehra</string>
     <string name="ai_elephant_god">Ganesh Chaturthi</string>
@@ -222,7 +230,7 @@
     <string name="ai_namaste">Namaste</string>
     <string name="ai_nanjing">Nanjing</string>
     <string name="ai_new_year_day">Anno nuovo</string>
-    <string name="ai_new_year_eve">"Chinese New Year's Eve"</string>
+    <string name="ai_new_year_eve">"Capodanno Cinese"</string>
     <string name="ai_party">Festa</string>
     <string name="ai_rakhi">Raksha Bandhan</string>
     <string name="ai_red_fort">Forte Rosso</string>
@@ -294,6 +302,7 @@
     <string name="aiwatermark_location_absent_hint">"Impossibile ottenere info sulla posizione"</string>
     <string name="aiwatermark_location_list_title">Piattaforma</string>
     <string name="aiwatermark_location_tips">Consenti alla fotocamera di accedere alla tua posizione per ottenere filigrane più rilevanti</string>
+    <string name="altitude_text">Altitudine</string>
     <string name="ambi_file_name_format">"'AMBI'_ddMMyyyy_HHmmss"</string>
     <string name="ambilight_description_title">Informazioni sull\'esposizione lunga</string>
     <string name="ambilight_intro_crowd_moving_part1">Quando scatti su una strada affollata, chiedi al tuo soggetto di stare fermo. Altre persone appariranno come scie sfocate.</string>
@@ -317,6 +326,7 @@
     <string name="ambilight_tips_for_using_tripod">Utilizza un treppiede</string>
     <string name="app_name">Preferenze</string>
     <string name="audio_focus_exit_button_text">Disattiva Messa a Fuoco Audio</string>
+    <string name="auto_hibernation_enter_tip">Spegnimento dello schermo…</string>
     <string name="autozoom_click_hint">"Tocca un oggetto per iniziare a tracciarlo. Rimani almeno a 3 metri di distanza per un effetto ottimale."</string>
     <string name="autozoom_disabled_hint">Interruzione tracciamento dell\'oggetto in movimento</string>
     <string name="autozoom_hint">Traccia oggetto in movimento</string>
@@ -328,7 +338,6 @@
     <string name="back_apollo">3:SHOT ON MI PHONE:AI TRIPLE CAMERA:64MP TRIPLE CAMERA</string>
     <string name="back_apollo_global">3:SHOT ON MI PHONE:AI TRIPLE CAMERA:64MP TRIPLE CAMERA</string>
     <string name="back_apollo_india">3:SHOT ON MI PHONE:AI TRIPLE CAMERA:64MP TRIPLE CAMERA</string>
-    <string name="back_apollo_pro">3:SHOT ON MI PHONE:AI TRIPLE CAMERA:64MP TRIPLE CAMERA</string>
     <string name="back_apollo_pro_global">3:SHOT ON MI PHONE:AI TRIPLE CAMERA:64MP TRIPLE CAMERA</string>
     <string name="back_apollo_pro_india">3:SHOT ON MI PHONE:AI TRIPLE CAMERA:64MP TRIPLE CAMERA</string>
     <string name="back_apricot">3:SHOT ON REDMI 10X:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
@@ -340,11 +349,9 @@
     <string name="back_beryllium_india">0:POCO:SHOT ON POCO F1:SHOT ON POCO F1</string>
     <string name="back_bokeh_use_hint">Mantenere il soggetto entro 1,5 metri per ottenere il miglior effetto</string>
     <string name="back_bomb">4:REDMI 10X PRO:AI QUAD CAMERA:48MP QUAD CAMERA</string>
-    <string name="back_cas">4:MI 10 ULTRA</string>
     <string name="back_cepheus">3:SHOT ON MI 9:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
     <string name="back_cepheus_mi_9_explorer">3:SHOT ON MI 9 EXPLORER:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
     <string name="back_cepheus_mi_9_roy">3:SHOT ON MI 9 ROY:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
-    <string name="back_cezanne">4:REDMI K30 ULTRA</string>
     <string name="back_citrus">3:SHOT ON MI PHONE:AI TRIPLE CAMERA:64MP TRIPLE CAMERA</string>
     <string name="back_cmi">4:MI 10 PRO 5G:AI QUAD CAMERA:108MP QUAD CAMERA</string>
     <string name="back_common">2:SHOT ON MI PHONE:AI DUAL CAMERA:48MP DUAL CAMERA</string>
@@ -385,21 +392,18 @@
     <string name="back_laurus">3:SHOT ON MI CC 9e:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
     <string name="back_lavender">2:REDMI NOTE 7:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_lavender_india_s">2:REDMI NOTE 7S:AI DUAL CAMERA:48MP DUAL CAMERA</string>
+    <string name="back_lemon">4:SHOT ON MI PHONE:AI TRIPLE CAMERA:108MP TRIPLE CAMERA</string>
     <string name="back_lime">3:SHOT ON MI PHONE:AI TRIPLE CAMERA:64MP TRIPLE CAMERA</string>
     <string name="back_limein">4:SHOT ON MI PHONE:AI TRIPLE CAMERA:108MP TRIPLE CAMERA</string>
     <string name="back_lmi">4:REDMI K30 PRO:AI QUAD CAMERA:64MP QUAD CAMERA</string>
     <string name="back_lmi_global">0:POCO:SHOT ON POCO F2 PRO:SHOT ON POCO F2 PRO</string>
     <string name="back_lmiin_india">4:REDMI K30 PRO 5G:AI QUAD CAMERA:64MP QUAD CAMERA</string>
-    <string name="back_lmiinpro_pro_india">4:REDMI K30 PRO 5G ZOOM:AI QUAD CAMERA</string>
-    <string name="back_lmipro_pro">4:REDMI K30 PRO ZOOM:AI QUAD CAMERA</string>
     <string name="back_merlin">4:SHOT ON REDMI 10X:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="back_merlin_global">4:REDMI NOTE 9:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="back_merlin_india">4:REDMI NOTE 9:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="back_merlinnfc_global">4:REDMI NOTE 9:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="back_monet">4:MI10 LITE 5G:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="back_onc">2:SHOT ON REDMI Y3:AI DUAL CAMERA:48MP DUAL CAMERA</string>
-    <string name="back_onc_global_lite">2:SHOT ON REDMI 7:AI DUAL CAMERA</string>
-    <string name="back_onc_india_lite">2:SHOT ON REDMI 7:AI DUAL CAMERA</string>
     <string name="back_onc_lite">2:SHOT ON REDMI 7:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_perseus">2:SHOT ON MI MIX 3:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_phoenix">4:SHOT ON REDMI K30:AI QUAD CAMERA:64MP QUAD CAMERA</string>
@@ -408,6 +412,7 @@
     <string name="back_picasso_48m">4:REDMI K30i 5G:AI QUAD CAMERA:48MP QUAD CAMERA</string>
     <string name="back_picasso_speed">4:REDMI K30 5G SPEED:AI QUAD CAMERA:64MP QUAD CAMERA</string>
     <string name="back_picassoin">4:REDMI K30 5G:AI QUAD CAMERA:64MP QUAD CAMERA</string>
+    <string name="back_pomelo">4:SHOT ON MI PHONE:AI TRIPLE CAMERA:108MP TRIPLE CAMERA</string>
     <string name="back_pyxis">3:SHOT ON MI CC 9:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
     <string name="back_pyxis_global">3:SHOT ON MI 9 LITE:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
     <string name="back_raphael">3:REDMI K20 PRO:AI TRIPLE CAMERA:48MP TRIPLE CAMERA</string>
@@ -417,6 +422,7 @@
     <string name="back_shiva">0:POCO:SHOT ON POCO M2:SHOT ON POCO M2</string>
     <string name="back_sirius">2:SHOT ON MI 8 SE:AI DUAL CAMERA:48MP DUAL CAMERA</string>
     <string name="back_surya">4:REDMI NOTE 9S:AI QUAD CAMERA:64MP QUAD CAMERA</string>
+    <string name="back_thyme">4:SHOT ON MI PHONE:AI TRIPLE CAMERA:108MP TRIPLE CAMERA</string>
     <string name="back_toco">1:MI NOTE 10 LITE:AI QUAD CAMERA:64MP QUAD CAMERA</string>
     <string name="back_tocoin">1:SHOT ON MI 10i:AI QUAD CAMERA:64MP QUAD CAMERA</string>
     <string name="back_tucana">1:SHOT ON MI CC9 PRO:AI PENTA CAMERA:108MP PENTA CAMERA</string>
@@ -443,6 +449,10 @@
     <string name="beauty_fragment_tab_name_3d_remodeling">Rimodellazione</string>
     <string name="beauty_fragment_tab_name_beauty">Bellezza</string>
     <string name="beauty_fragment_tab_name_makeup">Avanzate</string>
+    <string name="beauty_level_1">1</string>
+    <string name="beauty_level_2">2</string>
+    <string name="beauty_level_3">3</string>
+    <string name="beauty_level_5">5</string>
     <string name="beauty_mode_reset_toast">Effetto Rimodellazione rimosso</string>
     <string name="beauty_reset">Azzera</string>
     <string name="beauty_reset_toast">Effeto Bellezza rimosso correttamente</string>
@@ -462,6 +472,7 @@
     <string name="camera_liveshot_off_tip">Scatti dinamici disattivati</string>
     <string name="camera_liveshot_on_tip">Scatti dinamici</string>
     <string name="camera_mode_options">Modalità</string>
+    <string name="camera_new_slow_motion_quality_default">5</string>
     <string name="camera_setting">Impostazioni fotocamera</string>
     <string name="camera_settings_category_development">Funzioni sperimentali</string>
     <string name="camera_settings_label">Fotocamera</string>
@@ -471,10 +482,10 @@
     <string name="cannot_connect_camera_twice">"Impossibile avviare la fotocamera, riavvia il dispositivo"</string>
     <string name="cannot_move_warning_message">Mantieni il dispositivo fermo</string>
     <string name="capture_back_pressed_hint">Tocca nuovamente per uscire</string>
+    <string name="capture_shortcut_long">自拍</string>
+    <string name="capture_shortcut_short">自拍</string>
     <string name="ccc_temperature_warning_msg">Il dispositivo è surriscaldato. La fotocamera verrà chiusa in %d secondi. Le foto o i video verranno salvati automaticamente.</string>
     <string name="ccc_temperature_warning_title">Il dispositivo è surriscaldato</string>
-    <string name="certificate_com_android_camera">27196e386b875e76adf700e7ea84e4c6eee33dfa</string>
-    <string name="certificate_com_xiaomi_wearable">1da20e2bdfa678ae888e81e5ca0ec4744ebbbbbd</string>
     <string name="clone_do_not_move_phone">"Non muovere il dispositivo"</string>
     <string name="clone_guide_tip1">La clonazione funziona solo con le persone.</string>
     <string name="clone_guide_tip3">Evitare lo spostamento di oggetti e dello sfondo.</string>
@@ -502,6 +513,7 @@
     <string name="close_front_flash_toast">"Il dispositivo è surriscaldato. Impossibile utilizzare il flash adesso."</string>
     <string name="color_effect_entry_berry">Frutti di bosco</string>
     <string name="color_effect_entry_blackgold">Rhodium</string>
+    <string name="color_effect_entry_blackgold_describe">Introduzione ai filtri</string>
     <string name="color_effect_entry_blackice">Nero Glaciale</string>
     <string name="color_effect_entry_blackwhite">B/N</string>
     <string name="color_effect_entry_classic">Classico</string>
@@ -513,7 +525,19 @@
     <string name="color_effect_entry_glimmer">Splendore</string>
     <string name="color_effect_entry_koizora">Amore</string>
     <string name="color_effect_entry_latte">Latte</string>
+    <string name="color_effect_entry_new_1">1</string>
+    <string name="color_effect_entry_new_1_describe">Introduzione ai filtri</string>
+    <string name="color_effect_entry_new_2">2</string>
+    <string name="color_effect_entry_new_2_describe">Introduzione ai filtri</string>
+    <string name="color_effect_entry_new_3">3</string>
+    <string name="color_effect_entry_new_3_describe">Introduzione ai filtri</string>
+    <string name="color_effect_entry_new_4_describe">Introduzione ai filtri</string>
+    <string name="color_effect_entry_new_5">5</string>
+    <string name="color_effect_entry_new_5_describe">Introduzione ai filtri</string>
+    <string name="color_effect_entry_new_bbp">BBP</string>
+    <string name="color_effect_entry_new_bbp_describe">Introduzione ai filtri</string>
     <string name="color_effect_entry_orange">Lime</string>
+    <string name="color_effect_entry_orange_describe">Introduzione ai filtri</string>
     <string name="color_effect_entry_quiet">Tranquillità</string>
     <string name="color_effect_entry_sibopenk">Cyberpunk</string>
     <string name="color_effect_entry_soda">Soda</string>
@@ -541,6 +565,7 @@
     <string name="config_name_super_resolution">Super risoluzione</string>
     <string name="config_name_tilt">Tilt-Shift</string>
     <string name="config_name_timer">Conto alla rovescia</string>
+    <string name="confirm_fastmotion_reset_manually_parameter_message">Reimpostare i parametri?</string>
     <string name="confirm_install_scanner_message">"Lo scanner ti permette di scansionare codici QR, a barre, ed altri. E non dovrai connetterti ad internet per installarlo."</string>
     <string name="confirm_install_scanner_title">Installa scanner</string>
     <string name="confirm_location_alert">Memorizza posizione GPS quando scatti una foto</string>
@@ -557,7 +582,7 @@
     <string name="cta_perm_dec">Per aggiungere informazioni sulla posizione a foto e video</string>
     <string name="cta_perm_loc">Piattaforma</string>
     <string name="cta_perm_type">"Autorizzazioni facoltative (utilizzate per funzioni aggiuntive mentre le stai utilizzando)"</string>
-    <string name="cta_user_tips">&lt;Data>To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href =%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href =%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data></string>
+    <string name="cta_user_tips">&lt;Data&gt;To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href =%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href =%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
     <string name="custom_sound_art">Retrò</string>
     <string name="custom_sound_default">Predefinito</string>
     <string name="custom_sound_modern">Moderno</string>
@@ -581,6 +606,8 @@
     <string name="dialog_ok_time">OK(%ds)</string>
     <string name="dirty_tip_toast">Le lenti sono sporche. Puliscile.</string>
     <string name="do_not_remind_me">"Non chiedere più"</string>
+    <string name="doc_shortcut_long">文档</string>
+    <string name="doc_shortcut_short">文档</string>
     <string name="document_blackwhite">B/N</string>
     <string name="document_blur_warn">Documento o testo sfocato</string>
     <string name="document_mode_use_hint_text_body">"Allinea e migliora
@@ -588,6 +615,12 @@ documenti scansionati automaticamente"</string>
     <string name="document_mode_use_hint_text_title">Scansiona documenti</string>
     <string name="document_origin">Originale</string>
     <string name="document_strengthen">Migliorato</string>
+    <string name="dolly_zoom_guide_tip1">qqxxzzyyzztthhzzssggbbjj</string>
+    <string name="download_cancel_hint">Annullare il download di %1$s?</string>
+    <string name="download_confirm">Scarica</string>
+    <string name="download_hint">%1$s MB di dati mobili verranno utilizzati per scaricare gli elementi. Scaricarlo comunque?</string>
+    <string name="download_in_progress">Download in corso…</string>
+    <string name="download_title">Avviso utilizzo dati</string>
     <string name="dual_camera_lens_covered_toast">L\'obiettivo è coperto\".</string>
     <string name="dual_camera_lowlight_toast">"Sembra che l'ambiente sia troppo buio."</string>
     <string name="dual_camera_too_close_toast">La fotocamera è troppo vicina al soggetto.</string>
@@ -626,7 +659,6 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
     <string name="eye_light_comic">Fumetto</string>
     <string name="eye_light_crescent">Mezzuna</string>
     <string name="eye_light_nature">Natura</string>
-    <string name="eye_light_off"></string>
     <string name="eye_light_rainbow">Arcobaleno</string>
     <string name="eye_light_star">Stelle</string>
     <string name="eye_light_window">Finestra</string>
@@ -658,24 +690,16 @@ Il soggetto non deve essere più lontano di 2 metri."</string>
     <string name="fastmotion_pro_save_time_infinity">Durata registrazione illimitata</string>
     <string name="fastmotion_pro_save_time_min_and_sec">Salva%1$s%2$s</string>
     <string name="fastmotion_pro_save_time_min_or_sec">Salva%1$s</string>
-    <string name="film_video_a">video_a</string>
-    <string name="film_video_b">video_b</string>
-    <string name="film_video_c">video_c</string>
-    <string name="film_video_d">video_d</string>
-    <string name="film_video_e">video_e</string>
-    <string name="film_video_e_tip">Supporta solo la registrazione in orizzontale</string>
+    <string name="film_landscape_timefreeze_hint">Supporta solo la ripresa di paesaggi</string>
+    <string name="film_timefreeze">suggerimento su</string>
+    <string name="film_timefreeze_hint">Si prega di non spostare il telefono</string>
+    <string name="film_timefreeze_reset">resetta suggerimenti</string>
+    <string name="film_video_b_tip">Per favore, scatta in condizioni di scarsa illuminazione</string>
     <string name="film_video_tip">Utilizza un treppiede per scattare</string>
     <string name="fps960_toast">L\'acquisizione dello slow motion inizierà nell\'ultimo quarto della registrazione</string>
     <string name="fragment_tab_name_bokeh">Sfocato</string>
     <string name="front_camera_hint_text_place">"Fare un selfie sarà più facile se ruoti il telefono"</string>
     <string name="front_camera_hint_text_rotate">Ruota il tuo telefono</string>
-    <string name="front_common">2:SHOT ON MI PHONE</string>
-    <string name="front_laurus">1:SHOT ON MI CC 9e</string>
-    <string name="front_pyxis">1:SHOT ON MI CC 9</string>
-    <string name="front_tucana">1:SHOT ON MI CC9 PRO</string>
-    <string name="front_tucana_global">5:SHOT ON MI NOTE 10</string>
-    <string name="front_tucana_global_pro">5:MI NOTE 10 PRO</string>
-    <string name="front_vela">1:MI CC 9 MEITU</string>
     <string name="hand_gesture_open_tip">Mostra il palmo alla fotocamera per avviare il timer</string>
     <string name="hand_gesture_tip">Scatto con mano</string>
     <string name="hdr_tip">HDR</string>
@@ -704,11 +728,12 @@ Stampa la copia, wireless, su un foglio A4."</string>
     <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
     <string name="install_confirmed">Installa</string>
     <string name="kaleidoscope_fragment_tab_name">Caleidoscopio</string>
+    <string name="latitude_text">Latitudine</string>
     <string name="lens_dirty_detected_content">"Sembra che l'obiettivo della tua camera sia sporco.
 Pulisci l'obiettivo per un migliore effetto."</string>
     <string name="lens_dirty_detected_title_back">La lente della camera posteriore è sporca</string>
     <string name="lens_dirty_detected_title_front">La lente della camera frontale è sporca</string>
-    <string name="lighting_bright_red">Scarlet</string>
+    <string name="lighting_bright_red">Scarlatto</string>
     <string name="lighting_dazzling">Beams</string>
     <string name="lighting_dreamland">Dreamland</string>
     <string name="lighting_gorgeous">Motley</string>
@@ -718,7 +743,7 @@ Pulisci l'obiettivo per un migliore effetto."</string>
     <string name="lighting_hint_too_far">Avvicina la camera</string>
     <string name="lighting_hint_usage">"Puoi utilizzare gli effetti di illuminazione da Studio
 in modalità Portrait"</string>
-    <string name="lighting_lanshan">Decadence</string>
+    <string name="lighting_lanshan">Decadenza</string>
     <string name="lighting_movie_light_effect_title">Effetti cinematici</string>
     <string name="lighting_neon">Neon</string>
     <string name="lighting_nostalgia">Nostalgia</string>
@@ -731,12 +756,13 @@ in modalità Portrait"</string>
     <string name="lighting_pattern_rainbow">Arcobaleno</string>
     <string name="lighting_pattern_shutter">Oscuro</string>
     <string name="lighting_pattern_stage">Palcoscenico</string>
-    <string name="lighting_phantom">Phantom</string>
+    <string name="lighting_phantom">Fantasma</string>
     <string name="lighting_rainbow">Arcobaleno</string>
-    <string name="link_privacy_policy">http://www.miui.com/res/doc/privacy.html?lang=%s</string>
-    <string name="link_user_agreement">http://www.miui.com/res/doc/eula.html?lang=%s</string>
+    <string name="live_draft_continue">Riprendi</string>
+    <string name="live_draft_empty">Nessun elemento trovato</string>
     <string name="live_edit_exit_confirm">Interrompi</string>
     <string name="live_edit_exit_message">Interrompere adesso?</string>
+    <string name="live_edit_exit_message_draft">Salva come bozza</string>
     <string name="live_edit_share_title">Condividi</string>
     <string name="live_error_confirm">Regola orario</string>
     <string name="live_error_message">Alcune funzioni potrebbero non funzionare correttamente quando l\'orario di sistema non è impostato correttamente.</string>
@@ -769,11 +795,14 @@ in modalità Portrait"</string>
     <string name="live_sticker_network_error_hint">Errore di rete</string>
     <string name="live_sticker_tab_name">Adesivo Magico TikTok</string>
     <string name="live_sticker_updating">Aggiornamento…</string>
+    <string name="live_workspace_title">Bozze</string>
+    <string name="live_workspace_title_edit">Seleziona gli elementi da eliminare</string>
     <string name="location_access_allow">Accetta e Scarica</string>
     <string name="location_permission_des">Memorizza la posizione di foto e video</string>
     <string name="location_permission_not_ask_again">Consenti alla fotocamera di accedere alla tua posizione dalle impostazioni.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Consenti</string>
     <string name="log_format">LOG</string>
+    <string name="longitude_text">Longitudine</string>
     <string name="lpl_dialog_item_name_burst">Tieni premuto per scattare a raffica</string>
     <string name="lpl_dialog_item_name_record">Tieni premuto per registrare video</string>
     <string name="lpl_dialog_title">Seleziona funzione per l\'otturatore</string>
@@ -785,6 +814,7 @@ più grandi nelle foto"</string>
     <string name="macro_mode_use_hint_text_title">Macro</string>
     <string name="makeup_reset_toast">Effetto Trucco rimosso</string>
     <string name="manually_raw_hint">RAW</string>
+    <string name="masterfilter_description_title">Introduzione ai filtri</string>
     <string name="message_snap_double_confirm">La funzionalità attuale associata alla pressione prolungata del tasto volume è la modalità NFC, confermare la sostituzione?</string>
     <string name="mimoji_app_name">Mimoji</string>
     <string name="mimoji_back">Indietro</string>
@@ -824,7 +854,7 @@ più grandi nelle foto"</string>
     <string name="mimoji_create_emoticon_progress">Creazione pacchetto di sticker…</string>
     <string name="mimoji_create_tips">Guarda direttamente nella fotocamera</string>
     <string name="mimoji_custom_image">Avatar personalizzato</string>
-    <string name="mimoji_delete">&lt;font fgcolor=\"#ffff0000\">Elimina&lt;/font></string>
+    <string name="mimoji_delete">&lt;font fgcolor=\"#ffff0000\"&gt;Elimina&lt;/font&gt;</string>
     <string name="mimoji_delete_dialog_title">Eliminare questo avatar ora?</string>
     <string name="mimoji_delete_mimoji">Elimina avatar</string>
     <string name="mimoji_delete_success">Eliminato correttamente</string>
@@ -938,10 +968,10 @@ più grandi nelle foto"</string>
     <string name="multi_window_mode_not_supported">"La fotocamera non funziona in modalità split screen"</string>
     <string name="music_hint_tt">Fonte del servizio</string>
     <string name="network_access_user_notice_agree">Accetto</string>
-    <string name="network_access_user_notice_message_live_video">&lt;Data>\"La fotocamera deve collegarsi ad internet per fornire effetti, musica e altre funzionalità per i video brevi.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Toccando \"Accetto\", accetti il nostro &amp;lt; href =%1$s&amp;gt;Contratto utente&amp;lt; a&amp;gt; e &amp;lt;a href =%2$s&amp;gt;Informativa sulla privacy&amp;lt; un&amp;gt;, e permetti alla Fotocamera di connettersi a internet.&lt;/Data></string>
-    <string name="network_access_user_notice_message_mi_live_video">&lt;Data>Benvenuto nei video corti! Il nostro servizio deve connettersi alla rete per fornirti musica e altre funzionalità. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Prima di utilizzare il nostro servizio, è necessario leggere e accettare il nostro &amp;lt; href =%1$s&amp;gt;Contratto utente&amp;lt; a&amp;gt; e &amp;lt;a href =%2$s&amp;gt;Informativa sulla privacy&amp;lt; un&amp;gt;, oltre a consentire all\'app di connettersi a internet.&lt;/Data></string>
-    <string name="network_access_user_notice_message_sticker">&lt;Data>\"La fotocamera deve collegarsi ad internet per scaricare gli adesivi per questa funzione.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Toccando \"Accetto\", accetti il nostro &amp;lt; href =%1$s&amp;gt;Contratto utente&amp;lt; a&amp;gt; e &amp;lt;a href =%2$s&amp;gt;Informativa sulla privacy&amp;lt; un&amp;gt;, e permetti alla Fotocamera di connettersi a internet.&lt;/Data></string>
-    <string name="network_access_user_notice_message_voice_caption">&lt;Data>\"La fotocamera deve collegarsi ad internet per fornire funzionalità di sintesi vocale.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Toccando \"Accetto\", accetti il nostro &amp;lt; href =%1$s&amp;gt;Contratto utente&amp;lt; a&amp;gt; e &amp;lt;a href =%2$s&amp;gt;Informativa sulla privacy&amp;lt; un&amp;gt;, e permetti alla Fotocamera di connettersi a internet.&lt;/Data></string>
+    <string name="network_access_user_notice_message_live_video">&lt;Data&gt;\"La fotocamera deve collegarsi ad internet per fornire effetti, musica e altre funzionalità per i video brevi.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Toccando \"Accetto\", accetti il nostro &amp;lt; href =%1$s&amp;gt;Contratto utente&amp;lt; a&amp;gt; e &amp;lt;a href =%2$s&amp;gt;Informativa sulla privacy&amp;lt; un&amp;gt;, e permetti alla Fotocamera di connettersi a internet.&lt;/Data&gt;</string>
+    <string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;Benvenuto nei video corti! Il nostro servizio deve connettersi alla rete per fornirti musica e altre funzionalità. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Prima di utilizzare il nostro servizio, è necessario leggere e accettare il nostro &amp;lt; href =%1$s&amp;gt;Contratto utente&amp;lt; a&amp;gt; e &amp;lt;a href =%2$s&amp;gt;Informativa sulla privacy&amp;lt; un&amp;gt;, oltre a consentire all\'app di connettersi a internet.&lt;/Data&gt;</string>
+    <string name="network_access_user_notice_message_sticker">&lt;Data&gt;\"La fotocamera deve collegarsi ad internet per scaricare gli adesivi per questa funzione.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Toccando \"Accetto\", accetti il nostro &amp;lt; href =%1$s&amp;gt;Contratto utente&amp;lt; a&amp;gt; e &amp;lt;a href =%2$s&amp;gt;Informativa sulla privacy&amp;lt; un&amp;gt;, e permetti alla Fotocamera di connettersi a internet.&lt;/Data&gt;</string>
+    <string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;\"La fotocamera deve collegarsi ad internet per fornire funzionalità di sintesi vocale.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Toccando \"Accetto\", accetti il nostro &amp;lt; href =%1$s&amp;gt;Contratto utente&amp;lt; a&amp;gt; e &amp;lt;a href =%2$s&amp;gt;Informativa sulla privacy&amp;lt; un&amp;gt;, e permetti alla Fotocamera di connettersi a internet.&lt;/Data&gt;</string>
     <string name="network_access_user_notice_title">Connessione ad internet</string>
     <string name="no_storage">Monta l\'archivio USB prima di utilizzare la fotocamera.</string>
     <string name="not_enough_space">Scheda SD piena.</string>
@@ -992,18 +1022,11 @@ più grandi nelle foto"</string>
     <string name="parameter_peak_focus_title">Focalizzazione Focus</string>
     <string name="parameter_peak_raw_description">Questo formato immagine cattura tutti i dati immagine registrati dal sensore quando scatti una foto. Dati non compressi offrono più opzioni in post-elaborazione.</string>
     <string name="parameter_peak_raw_title">Formato RAW</string>
-    <string name="parameter_videos_title">videos_title</string>
     <string name="parameter_wb_description">Oltre ai preset del bilanciamento bianco (incandescente, diurno, fluorescente, nuvola) è anche possibile impostare il bilanciamento bianco a un valore personalizzato all\'interno dell\'intervallo 2000-8000 Kelvin.</string>
     <string name="parameter_wb_title">Bilanciamento del bianco</string>
     <string name="parameter_zoom_slider_description">Trascina il cursore dello zoom su e giù per cambiare senza problemi il tuo scatto da lontano a macro.</string>
     <string name="parameter_zoom_slider_title">Zoom</string>
     <string name="path_settings">Applicazioni di sistema/Fotocamera/Impostazioni</string>
-    <string name="permission_camera">android.permission-group.CAMERA@1</string>
-    <string name="permission_contacts">android.permission-group.CONTACTS@1</string>
-    <string name="permission_location">android.permission-group.LOCATION@1</string>
-    <string name="permission_microphone">android.permission-group.MICROPHONE@0</string>
-    <string name="permission_phone_state">android.permission-group.PHONE@0</string>
-    <string name="permission_storage">android.permission-group.STORAGE@0</string>
     <string name="photo_assistance_tips_title">Suggerimenti in diretta</string>
     <string name="pic_flaw_blink_more">Sembra che qualcuno nell\'obiettivo abbia chiuso gli occhi</string>
     <string name="pic_flaw_blink_one">Sembra che la persona nell\'obiettivo abbia chiuso gli occhi</string>
@@ -1050,6 +1073,7 @@ per rendere il tuo corpo ancor più chiaro e meraviglioso"</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Prova la modalità Ritratto.
 Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_960_watermark_title">Filigrana 960FPS</string>
+    <string name="pref_a_c_f">Mappa</string>
     <string name="pref_advance_settings">Impostazioni aggiuntive</string>
     <string name="pref_ai_detect">Rilevamento IA</string>
     <string name="pref_audio_denoise_title">Riduzione del rumore audio</string>
@@ -1064,6 +1088,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_ai_scene_title">Scena IA</string>
     <string name="pref_camera_ai_shutter_description">Seleziona automaticamente il momento migliore quando premi il pulsante di scatto</string>
     <string name="pref_camera_ai_shutter_title">Scatto IA</string>
+    <string name="pref_camera_antibanding_default">1</string>
     <string name="pref_camera_antibanding_entry_0">Disattivato</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -1071,7 +1096,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_antibanding_entryvalue_50hz">1</string>
     <string name="pref_camera_antibanding_entryvalue_60hz">2</string>
     <string name="pref_camera_antibanding_entryvalue_auto">3</string>
-    <string name="pref_camera_antibanding_entryvalue_off">0</string>
     <string name="pref_camera_antibanding_title">Anti-banding</string>
     <string name="pref_camera_asd_night_title">Miglioramento foto notturne</string>
     <string name="pref_camera_asd_popup_title">Notifica quando il flash è richiesto</string>
@@ -1079,10 +1103,15 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_auto_capture_when_stable_summary">Per selezionare un oggetto, tocca due punti in diagonale lungo il suo bordo. Quando l\'oggetto sarà stabile, la fotocamera scatterà automaticamente.</string>
     <string name="pref_camera_auto_capture_when_stable_title">Scatta quando è stabile</string>
     <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
+    <string name="pref_camera_auto_hibernation">Scatta con schermo spento</string>
+    <string name="pref_camera_auto_hibernation_description">Durante la ripresa, disattiva lo schermo dopo %d minuti di inattività per risparmiare batteria</string>
+    <string name="pref_camera_autoexposure_default">1</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Media ponderata al centro</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Multi-Zona</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Misurazione a punto</string>
     <string name="pref_camera_autoexposure_title">Esposizione automatica</string>
+    <string name="pref_camera_autoexposure_value_centerweighted">1</string>
+    <string name="pref_camera_autoexposure_value_spotmetering">2</string>
     <string name="pref_camera_auxiliary_close">Spenta</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Verifica dell\'esposizione</string>
     <string name="pref_camera_auxiliary_focus_peak">Focalizzazione Focus</string>
@@ -1092,6 +1121,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_beautify_entry_normal">Medio</string>
     <string name="pref_camera_beauty">Bellezza</string>
     <string name="pref_camera_beauty_deep">Bellezza profonda</string>
+    <string name="pref_camera_coloreffect_default">smart</string>
     <string name="pref_camera_coloreffect_entry_big_face">Diffuso</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">B/N</string>
     <string name="pref_camera_coloreffect_entry_fisheye">Fish-eye</string>
@@ -1112,6 +1142,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_coloreffect_entry_vsco_f2">Opaco</string>
     <string name="pref_camera_coloreffect_title">Filtri</string>
     <string name="pref_camera_common_settings">Impostazioni generali</string>
+    <string name="pref_camera_contrast_default">5</string>
     <string name="pref_camera_contrast_title">Contrasto</string>
     <string name="pref_camera_delay_capture_10s">Ritardo %ds</string>
     <string name="pref_camera_delay_capture_3s">Ritardo %ds</string>
@@ -1219,6 +1250,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_focusmode_entry_manual">Manuale</string>
     <string name="pref_camera_focusmode_entry_normal">Normale</string>
     <string name="pref_camera_focusmode_title">Messa a fuoco</string>
+    <string name="pref_camera_focusmode_value_default">Immagine continua</string>
     <string name="pref_camera_front_ai_scene_entry_off">Scena IA disattivata</string>
     <string name="pref_camera_front_ai_scene_entry_on">Scena IA</string>
     <string name="pref_camera_front_bokeh_entry_off">Disattivato</string>
@@ -1272,10 +1304,17 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_iso_entry_iso8000">ISO 8000</string>
     <string name="pref_camera_iso_title">Seleziona ISO</string>
     <string name="pref_camera_iso_title_abbr">Seleziona ISO</string>
+    <string name="pref_camera_iso_value_iso100">100</string>
+    <string name="pref_camera_iso_value_iso1600">ISO 1600</string>
+    <string name="pref_camera_iso_value_iso200">ISO 200</string>
+    <string name="pref_camera_iso_value_iso3200">ISO 3200</string>
+    <string name="pref_camera_iso_value_iso400">ISO 400</string>
+    <string name="pref_camera_iso_value_iso800">ISO 800</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_low">Bassa</string>
     <string name="pref_camera_jpegquality_entry_normal">Normale</string>
     <string name="pref_camera_jpegquality_title">Qualità</string>
+    <string name="pref_camera_jpegquality_value_normal">normale</string>
     <string name="pref_camera_live_sticker_internal_title">Strumenti magici</string>
     <string name="pref_camera_long_press_shutter_feature_title">Tieni premuto il tasto di scatto</string>
     <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
@@ -1284,9 +1323,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Scatto continuo</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Messa a fuoco</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_record">Video</string>
-    <string name="pref_camera_long_pressing_burst_shooting_entryvalue_burst">burst</string>
-    <string name="pref_camera_long_pressing_burst_shooting_entryvalue_focus">focus</string>
-    <string name="pref_camera_long_pressing_burst_shooting_entryvalue_record">record</string>
     <string name="pref_camera_long_pressing_shutter_title">Tieni premuto il tasto di scatto per bloccare AE/AF/AWB</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Lens</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Blocco AE/AF</string>
@@ -1297,6 +1333,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_manual_mode_title">Manuale</string>
     <string name="pref_camera_manually_exposure_value_abbr">EV</string>
     <string name="pref_camera_mfnr_sat_enable_title">Attiva MFNR</string>
+    <string name="pref_camera_movie_solid_default">vero</string>
     <string name="pref_camera_movie_solid_title">Stabilizzazione video</string>
     <string name="pref_camera_multilevel_entry_high">Alto</string>
     <string name="pref_camera_multilevel_entry_higher">Più alto</string>
@@ -1306,6 +1343,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_multilevel_entry_lowest">Minimo</string>
     <string name="pref_camera_multilevel_entry_middle">Medio (Predefinito)</string>
     <string name="pref_camera_multilevel_entry_normal">Normale</string>
+    <string name="pref_camera_new_coloreffect_title">Filtro</string>
     <string name="pref_camera_normal_wide_ldc_description">Correggi volti che risulutano distorti delle persone che sono vicini ai bordi della cornice</string>
     <string name="pref_camera_normal_wide_ldc_title">Correggi le distorsioni dei volti nelle foto di gruppo</string>
     <string name="pref_camera_optimized_flash_enable_title">Flash ottimizzato</string>
@@ -1337,6 +1375,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_recordlocation_entry_on">Attivato</string>
     <string name="pref_camera_recordlocation_title">Memorizza info posizione</string>
     <string name="pref_camera_referenceline_title">Linea di riferimento</string>
+    <string name="pref_camera_saturation_default">3</string>
     <string name="pref_camera_saturation_title">Saturazione</string>
     <string name="pref_camera_scenemode_entry_auto">Automatico</string>
     <string name="pref_camera_scenemode_entry_backlight">Controluce</string>
@@ -1355,6 +1394,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_settings">Impostazioni applicazione</string>
     <string name="pref_camera_settings_category">Foto</string>
     <string name="pref_camera_settings_title">Impostazioni</string>
+    <string name="pref_camera_sharpness_default">1</string>
     <string name="pref_camera_sharpness_title">Definizione</string>
     <string name="pref_camera_show_gender_age_config_title">Età e genere</string>
     <string name="pref_camera_show_gender_age_entry_alias">Mostra fascia di età</string>
@@ -1381,8 +1421,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_super_resolution_title">Attiva SR</string>
     <string name="pref_camera_tilt_shift_entry_circle">Cerchio</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Parallelo</string>
-    <string name="pref_camera_tilt_shift_entryvalue_circle">circle</string>
-    <string name="pref_camera_tilt_shift_entryvalue_parallel">parallel</string>
     <string name="pref_camera_tilt_shift_title">Tilt-Shift</string>
     <string name="pref_camera_touch_focus_delay_title">Ritardo messa a fuoco esteso</string>
     <string name="pref_camera_touchafaec_entry_off">Disattivato</string>
@@ -1392,6 +1430,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_ultra_wide_ldc_title">Correggi le distorsioni nelle foto grandangolo</string>
     <string name="pref_camera_ultra_wide_mode_title">Modalità grandangolo</string>
     <string name="pref_camera_video_8k_tips">8K</string>
+    <string name="pref_camera_video_ai_scene_title">Scena IA</string>
     <string name="pref_camera_video_bokeh_off">Video con sfocatura disattivato</string>
     <string name="pref_camera_video_bokeh_on">Video con sfocatura</string>
     <string name="pref_camera_video_duration_entry_10">10 minuti</string>
@@ -1409,6 +1448,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
     <string name="pref_camera_volumekey_function_title">Comportamento tasti volume</string>
     <string name="pref_camera_watermark_title">Aggiungi data</string>
+    <string name="pref_camera_whitebalance_default">1</string>
     <string name="pref_camera_whitebalance_entry_auto">Auto</string>
     <string name="pref_camera_whitebalance_entry_auto_abbr">Automatico</string>
     <string name="pref_camera_whitebalance_entry_cloudy">Nuvoloso</string>
@@ -1445,6 +1485,8 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_customization_title">Personalizza</string>
     <string name="pref_document_mode">Documenti</string>
     <string name="pref_dual_camera_video">Frontale e posteriore</string>
+    <string name="pref_e_c_t_j">Originale</string>
+    <string name="pref_e_p_s_n">Accesso</string>
     <string name="pref_face_beauty_title">Bellezza</string>
     <string name="pref_fingerprint_capture_title">Scatto con impronta</string>
     <string name="pref_front_denoise_summary">Ridurre il rumore generato dalla fotocamera anteriore</string>
@@ -1455,12 +1497,15 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_front_mirror_label_auto">Automatico</string>
     <string name="pref_front_mirror_title">Fotoc. frontale (effetto specchio)</string>
     <string name="pref_google_lens">Google Lens</string>
-    <string name="pref_google_lens_default">true</string>
+    <string name="pref_google_lens_default">vero</string>
     <string name="pref_google_lens_summary">Inquadra con la Fotocamera informazioni di contatto, URL, e QR code per vedere le opzioni disponibili</string>
     <string name="pref_google_lens_title">Suggerimenti Lens</string>
     <string name="pref_groupshot_with_primitive_title">Salva la prima immagine nella modalità Foto di Gruppo</string>
     <string name="pref_hdr10_video_mode_description">Ottimizza i colori e il contrasto per i video 4K e 8K automaticamente. I video ottimizzati possono essere riprodotti solo su dispositivi compatibili con HDR10.</string>
     <string name="pref_hdr10_video_mode_title">HDR10</string>
+    <string name="pref_hdr10plus_video_mode_description">Ottimizza i colori e regola il contrasto per video 4K e 8K. Questa funzione funziona solo su dispositivi compatibili HDR10+.</string>
+    <string name="pref_k_h">Volume di ritorno</string>
+    <string name="pref_k_s_i">Quando l\'auricolare è connesso</string>
     <string name="pref_lens_dirty_detect_summary">Ricevi una notifica quando la lente è sporca</string>
     <string name="pref_lens_dirty_detect_title">Notifica lenti sporche</string>
     <string name="pref_manual_exposure_title">Esp. manuale</string>
@@ -1469,11 +1514,16 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
     <string name="pref_module_settings">Modalità</string>
     <string name="pref_more_mode_style_title">Modalità Fotocamera</string>
+    <string name="pref_mtk_video_quality_default">10</string>
     <string name="pref_multi_camera_dual_video_front">Test Fotocamera anteriore</string>
+    <string name="pref_multi_camera_dual_video_remote">Fotocamera remota</string>
+    <string name="pref_n_s_o_l">Attiva</string>
+    <string name="pref_n_s_o_m">Spegni</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Puoi solo registrare video in 720p a 240fps</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">Puoi registrare solo video 720p a 960fps</string>
     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
+    <string name="pref_p_d_e">Professione</string>
     <string name="pref_photo_assistance_tips_off">Spenta</string>
     <string name="pref_photo_assistance_tips_on">Attivo</string>
     <string name="pref_pic_flaw_tip_summary">Ricevi notifiche in tempo reale quando le persone chiudono gli occhi o le fotocapere sono coperte durante la messa a fuoco</string>
@@ -1481,17 +1531,17 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_popup_camera_title">Fotocamera Pop-up</string>
     <string name="pref_priority_storage_title">Salva su scheda SD</string>
     <string name="pref_privacy_title">Informativa Privacy</string>
-    <string name="pref_pro_video_volumekey_function_default">shutter</string>
     <string name="pref_qc_focus_position_title">Messa a fuoco</string>
     <string name="pref_qc_focus_position_title_abbr">Ven</string>
     <string name="pref_retain_camera_common_mode_summary">Apri fotocamera nella modalità utilizzata in precedenza invece di passare a \"Foto\"</string>
     <string name="pref_retain_camera_mode_summary">Passa alla modalità utilizzata precedentemente quando apri l\'app.</string>
     <string name="pref_retain_camera_mode_title">Salva modalità precedente</string>
+    <string name="pref_s_n_r_s_c">Durante la registrazione</string>
+    <string name="pref_scan_qrcode_default">vero</string>
     <string name="pref_scan_qrcode_summary">Solo la fotocamera posteriore può scansionare codici QR</string>
     <string name="pref_scan_qrcode_title">Riconoscimento codice QR</string>
     <string name="pref_simple_hdr_entry_off">OFF</string>
     <string name="pref_simple_hdr_entry_on">ON</string>
-    <string name="pref_skin_beautify_color_default">4</string>
     <string name="pref_skin_beautify_color_title">Colore</string>
     <string name="pref_skin_beautify_eye_default">2</string>
     <string name="pref_skin_beautify_eye_title">Occhi</string>
@@ -1515,7 +1565,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_video_focusmode_title">Modalità di messa a fuoco</string>
     <string name="pref_video_hfr_entryvalue_default">1920x1080:120</string>
     <string name="pref_video_hfr_title">Video HFR</string>
-    <string name="pref_video_quality_1080P">6</string>
     <string name="pref_video_quality_entry_1080p">Full HD (1080p)</string>
     <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
     <string name="pref_video_quality_entry_480p">SD (480p)</string>
@@ -1525,10 +1574,7 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
     <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
     <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30fps</string>
-    <string name="pref_video_quality_entry_value_1080p_60fps">6,60</string>
-    <string name="pref_video_quality_entry_value_4kuhd_60fps">8,60</string>
-    <string name="pref_video_quality_entry_value_720p_60fps">5,60</string>
-    <string name="pref_video_quality_entry_value_8kuhd">3001</string>
+    <string name="pref_video_quality_hfr_title">Frame rate e qualità foto</string>
     <string name="pref_video_quality_sub_1080p">FHD 1080p</string>
     <string name="pref_video_quality_sub_120fps">120fps</string>
     <string name="pref_video_quality_sub_24fps">24fps</string>
@@ -1538,13 +1584,13 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_video_quality_sub_720p">HD 720p</string>
     <string name="pref_video_quality_sub_8k">UHD 8K</string>
     <string name="pref_video_quality_title">Qualità video</string>
-    <string name="pref_video_quality_value_autozoom">6</string>
     <string name="pref_video_speed_entry_fast">Veloce</string>
     <string name="pref_video_speed_entry_normal">Normale</string>
     <string name="pref_video_speed_entry_slow">Lento</string>
     <string name="pref_video_speed_fast_title">Time-lapse</string>
     <string name="pref_video_speed_slow_title">Slow-motion</string>
     <string name="pref_video_subtitle">Sottotitoli</string>
+    <string name="pref_video_time_lapse_frame_interval_default">120</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">Intervallo di 0.3 secondi (10x)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_120">Intervallo di 4 secondi (120x)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_150">Intervallo di 5 secondi (150x)</string>
@@ -1567,13 +1613,14 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="preparing_sd">Preparo scheda SD...</string>
     <string name="preview_back_pressed_hint">Tocca di nuovo per tornare all\'anteprima</string>
     <string name="pro_color_mode">Colori Pro</string>
+    <string name="professional_shortcut_long">专业</string>
+    <string name="professional_shortcut_short">专业</string>
     <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
     <string name="recommend_macro_mode">Prova la modalità Macro</string>
     <string name="recommend_portrait">Prova la modalità Ritratto</string>
     <string name="recommend_soft_light_tip">Attiva flash</string>
     <string name="recommend_super_night">Prova la modalità notturna</string>
     <string name="record_back_pressed_hint">Premi di nuovo per interrompere la registrazione</string>
-    <string name="required_permissions">android.permission.CAMERA;android.permission.RECORD_AUDIO;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
     <string name="reset_manually_parameter_confirmed">OK</string>
     <string name="reset_manually_parameter_hint">Azzera</string>
     <string name="screen_on_proximity_sensor_hint">Per disabilitare questa funzionalità, premi contemporaneamente i pulsanti volume su e indietro.</string>
@@ -1648,6 +1695,8 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="timbre_normal">Originale</string>
     <string name="timbre_robot">Robot</string>
     <string name="time_lapse_error">"Dimensione video non valida per il Time-lapse."</string>
+    <string name="time_stamp_date_format">dd/MM/yyyy</string>
+    <string name="timefreeze_guide_tip2">qqxxzzyyzztthhzzssggbbjj</string>
     <string name="timer_burst">Raffica temporizzata</string>
     <string name="timer_burst_manu_param_interval">Intervallo(non contiene tempo di esposizione)</string>
     <string name="timer_burst_param_interval">Intervallo</string>
@@ -1686,6 +1735,8 @@ La modalità ultra grandangolo è d'aiuto quando non puoi muoverti più lontano 
     <string name="unknow_error">Errore sconosciuto</string>
     <string name="unsupported_microphones_3d_record_tips">"L'audio 3D non è supportato su microfoni esterni"</string>
     <string name="unsupported_microphones_audio_zoom_tips">"L'audio zoom non è supportato su microfoni esterni"</string>
+    <string name="update_loading">Download %1$d%%</string>
+    <string name="update_start">Aggiorna %1$s</string>
     <string name="user_agree">OK</string>
     <string name="user_define_watermark_cancel">Ferma</string>
     <string name="user_define_watermark_save">Salva</string>
@@ -1708,20 +1759,28 @@ La modalità ultra grandangolo è d'aiuto quando non puoi muoverti più lontano 
     <string name="video_effect_entry_bygone">Passato</string>
     <string name="video_effect_entry_central">Centrale</string>
     <string name="video_effect_entry_color_retention">Colore pop</string>
+    <string name="video_effect_entry_color_retention_describe">Introduzione ai filtri</string>
     <string name="video_effect_entry_fantasy">Fantasia</string>
     <string name="video_effect_entry_film">Film</string>
     <string name="video_effect_entry_forest">Boschetto</string>
     <string name="video_effect_entry_holiday">Riflessi</string>
     <string name="video_effect_entry_lost">Perso</string>
     <string name="video_effect_entry_meet">Incontro</string>
+    <string name="video_effect_entry_meet_describe">Introduzione ai filtri</string>
     <string name="video_effect_entry_northern_europe">Nordico</string>
+    <string name="video_effect_entry_northern_europe_describe">Introduzione ai filtri</string>
     <string name="video_effect_entry_polaroid">Polaroid</string>
     <string name="video_effect_entry_rome">Roma</string>
+    <string name="video_effect_entry_rome_describe">Introduzione ai filtri</string>
     <string name="video_effect_entry_summer_day">Estate</string>
+    <string name="video_effect_entry_summer_day_describe">Introduzione ai filtri</string>
     <string name="video_effect_entry_wind_sing">Brezza</string>
     <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
     <string name="video_hdr10_tip">HDR10</string>
+    <string name="video_hdr10plus_tip">HDR10+</string>
     <string name="video_reach_size_limit">Limite dimensioni raggiunto.</string>
+    <string name="video_shortcut_long">录像</string>
+    <string name="video_shortcut_short">录像</string>
     <string name="video_tag_flag_title">Tag</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">IA 8K</string>

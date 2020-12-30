@@ -32,7 +32,6 @@
     <string name="afternoon">PM</string>
     <string name="am">AM</string>
     <string name="app_name">clientSDK</string>
-    <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
     <string name="casting_tips">Trasmissione…</string>
@@ -66,7 +65,7 @@
     <string name="chinese_day_7">7</string>
     <string name="chinese_day_8">8</string>
     <string name="chinese_day_9">9</string>
-    <string name="chinese_day_elementary">初</string>
+    <string name="chinese_day_elementary">Primo</string>
     <string name="chinese_digit_eight">8</string>
     <string name="chinese_digit_five">5</string>
     <string name="chinese_digit_four">4</string>
@@ -80,7 +79,7 @@
     <string name="chinese_digit_twenty">20</string>
     <string name="chinese_digit_two">2</string>
     <string name="chinese_digit_zero">0</string>
-    <string name="chinese_leap">闰</string>
+    <string name="chinese_leap">Salto</string>
     <string name="chinese_month">Mese</string>
     <string name="chinese_month_april">Aprile</string>
     <string name="chinese_month_august">Agosto</string>
@@ -115,10 +114,8 @@
     <string name="console_guide_subtitle_private">"Non mostrare notifiche fluttuanti, chiamate in arrivo e altri elementi privati su schermi esterni"</string>
     <string name="console_guide_subtitle_small_window">"Minimizza la finestra che viene trasmessa per poter usare altre funzioni del tuo telefono"</string>
     <string name="copy">Copia</string>
-    <string name="date_picker_label_day"></string>
-    <string name="date_picker_label_month"></string>
-    <string name="date_picker_label_year"></string>
     <string name="date_picker_lunar">Calendario Lunare</string>
+    <string name="device_desc_trust">Dispositivi affidabili</string>
     <string name="dialog_can_not_find_device">"Impossibile trovare dispositivi nelle vicinanze"</string>
     <string name="dialog_cancle">Ferma</string>
     <string name="dialog_connect_fail">"Connessione fallita"</string>
@@ -131,8 +128,8 @@
     <string name="dialog_miplay_permission_positive">Impostazioni</string>
     <string name="dialog_miplay_permission_title">Permessi richiesti</string>
     <string name="dialog_nfc_cast_wifi_off">Attiva il Wi-Fi per eseguire la proiezione tramite NFC. Attivarlo ora?</string>
-    <string name="dialog_no_device_message">&lt;Data>1. Collegare il telefono e la TV alla stessa rete Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Su alcuni modelli TV, questa funzione è disponibile solo quando il mirroring dello schermo è attivo. Vai su &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; per saperne di più.&lt;/Data></string>
-    <string name="dialog_no_device_message_china">&lt;Data>1. Collegare il telefono e la TV alla stessa rete Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Su alcuni modelli TV, questa funzione è disponibile solo quando il mirroring dello schermo è attivo. Vai su &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; per saperne di più.&lt;/Data></string>
+    <string name="dialog_no_device_message">&lt;Data&gt;1. Collegare il telefono e la TV alla stessa rete Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Su alcuni modelli TV, questa funzione è disponibile solo quando il mirroring dello schermo è attivo. Vai su &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; per saperne di più.&lt;/Data&gt;</string>
+    <string name="dialog_no_device_message_china">&lt;Data&gt;1. Collegare il telefono e la TV alla stessa rete Wi-Fi.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Su alcuni modelli TV, questa funzione è disponibile solo quando il mirroring dello schermo è attivo. Vai su &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Help\"&amp;lt;/a&amp;gt; per saperne di più.&lt;/Data&gt;</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_only_suport_content">Trasmetti foto, video o musica</string>
     <string name="dialog_open_wifi_bt">Apri sincronizzazione</string>
@@ -152,19 +149,18 @@ Visualizza la guida se hai problemi di connessione."</string>
     <string name="dialog_show_help">Guida</string>
     <string name="disconnect">Ferma proiezione</string>
     <string name="early_morning">AM</string>
-    <string name="earthly_branches_chen">辰</string>
-    <string name="earthly_branches_chou">丑</string>
-    <string name="earthly_branches_hai">亥</string>
-    <string name="earthly_branches_mao">卯</string>
-    <string name="earthly_branches_shen">申</string>
-    <string name="earthly_branches_si">巳</string>
-    <string name="earthly_branches_wei">未</string>
-    <string name="earthly_branches_wu">午</string>
-    <string name="earthly_branches_xu">戌</string>
-    <string name="earthly_branches_yin">寅</string>
-    <string name="earthly_branches_you">酉</string>
-    <string name="earthly_branches_zi">子</string>
-    <string name="empty"></string>
+    <string name="earthly_branches_chen">Chen</string>
+    <string name="earthly_branches_chou">Chou</string>
+    <string name="earthly_branches_hai">Hai</string>
+    <string name="earthly_branches_mao">Mao</string>
+    <string name="earthly_branches_shen">Shen</string>
+    <string name="earthly_branches_si">Si</string>
+    <string name="earthly_branches_wei">Wei</string>
+    <string name="earthly_branches_wu">Wu</string>
+    <string name="earthly_branches_xu">Xu</string>
+    <string name="earthly_branches_yin">Yin</string>
+    <string name="earthly_branches_you">You</string>
+    <string name="earthly_branches_zi">Zi</string>
     <string name="enable_screen_projection_summary">Proietta contenuti su un monitor esterno</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
@@ -184,9 +180,9 @@ Visualizza la guida se hai problemi di connessione."</string>
     <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
-    <string name="fmt_date_short_month_day">MMM d</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
-    <string name="fmt_date_short_year_month_day">MMM d, yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
@@ -230,16 +226,16 @@ Visualizza la guida se hai problemi di connessione."</string>
     <string name="hang_up_alert_dialog_neg">Ferma</string>
     <string name="hang_up_alert_dialog_pos">OK</string>
     <string name="hang_up_alert_dialog_title">Stai per proiettare con lo schermo spento…</string>
-    <string name="heavenly_stems_bing">丙</string>
-    <string name="heavenly_stems_ding">丁</string>
-    <string name="heavenly_stems_geng">庚</string>
-    <string name="heavenly_stems_gui">癸</string>
-    <string name="heavenly_stems_ji">己</string>
-    <string name="heavenly_stems_jia">甲</string>
-    <string name="heavenly_stems_ren">壬</string>
-    <string name="heavenly_stems_wu">戊</string>
-    <string name="heavenly_stems_xin">辛</string>
-    <string name="heavenly_stems_yi">乙</string>
+    <string name="heavenly_stems_bing">Bing</string>
+    <string name="heavenly_stems_ding">Ding</string>
+    <string name="heavenly_stems_geng">Geng</string>
+    <string name="heavenly_stems_gui">Gui</string>
+    <string name="heavenly_stems_ji">Ji</string>
+    <string name="heavenly_stems_jia">Jia</string>
+    <string name="heavenly_stems_ren">Ren</string>
+    <string name="heavenly_stems_wu">Wu</string>
+    <string name="heavenly_stems_xin">Xin</string>
+    <string name="heavenly_stems_yi">Yi</string>
     <string name="help_page_text_01">Guida</string>
     <string name="help_page_text_02">Che cos\'è Proietta?</string>
     <string name="help_page_text_03">"Proietta trasmette gli elementi dallo schermo del telefono su un monitor esterno più grande. Ti permette di condividere immagini e video con i tuoi amici e familiari senza l'utilizzo di dati mobili."</string>
@@ -271,7 +267,7 @@ Collega sia il telefono che il monitor esterno (es. la tua TV) alla stessa rete 
     <string name="help_page_text_15">Funzionalità Miracast su diversi dispositivi</string>
     <string name="help_page_text_16">Proiettore Mi/Mi TV</string>
     <string name="help_page_text_17">"È possibile proiettare gli elementi dal tuo Telefono Mi su più modelli di Mi TV con funzionalità Bluetooth senza attivare Miracast manualmente.
-Se devi attivare Miracast, premi il pulsante [MENU] e seleziona Le mie app > Proiezione > Miracast."</string>
+Se devi attivare Miracast, premi il pulsante [MENU] e seleziona Le mie app &gt; Proiezione &gt; Miracast."</string>
     <string name="help_page_text_17_1">Supporto clienti Xiaomi: 400-100-5678</string>
     <string name="help_page_text_18">TV Samsung</string>
     <string name="help_page_text_19">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, è possibile premere il pulsante [SOURCE] sul telecomando e selezionare \"Screen Mirroring\". Questa funzionalità è attivata di default su vari modelli.</string>
@@ -283,31 +279,31 @@ Se devi attivare Miracast, premi il pulsante [MENU] e seleziona Le mie app > Pro
     <string name="help_page_text_25">Innanzitutto, assicurati che la funzionalità di Miracast sia supportata sul tuo dispositivo. Questa funzionalità è attiva di default su vari modelli.</string>
     <string name="help_page_text_26">Supporto clienti Philips: 400-880-0008</string>
     <string name="help_page_text_27">TPV</string>
-    <string name="help_page_text_28">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, è possibile premere il pulsante [MENU] sul telecomando e selezionare Impostazioni > Connessione > Rete > Multi Schermo.</string>
+    <string name="help_page_text_28">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, è possibile premere il pulsante [MENU] sul telecomando e selezionare Impostazioni &gt; Connessione &gt; Rete &gt; Multi Schermo.</string>
     <string name="help_page_text_29">Supporto clienti TPV: 400-887-8007</string>
     <string name="help_page_text_30">Hisense</string>
-    <string name="help_page_text_31">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, puoi premere il pulsante [SMART] sul telecomando e selezionare Proiezione > Display Wireless. Alcuni modelli supportano anche la trasmissione per i giochi: Hi Cast > Proietta Giochi > Android.</string>
+    <string name="help_page_text_31">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, puoi premere il pulsante [SMART] sul telecomando e selezionare Proiezione &gt; Display Wireless. Alcuni modelli supportano anche la trasmissione per i giochi: Hi Cast &gt; Proietta Giochi &gt; Android.</string>
     <string name="help_page_text_32">Supporto clienti Hisense: 400-611-1111</string>
     <string name="help_page_text_33">Skyworth</string>
-    <string name="help_page_text_34">Per prima cosa, assicurati che la funzionalità Miracast sia compatibile col tuo dispositivo. Su alcuni modelli, puoi selezionare Applicazioni > Proiezione > Dispositivo Android > Miracast.</string>
+    <string name="help_page_text_34">Per prima cosa, assicurati che la funzionalità Miracast sia compatibile col tuo dispositivo. Su alcuni modelli, puoi selezionare Applicazioni &gt; Proiezione &gt; Dispositivo Android &gt; Miracast.</string>
     <string name="help_page_text_35">Assistenza clienti Skyworth: 95105555</string>
     <string name="help_page_text_36">Sony</string>
-    <string name="help_page_text_37">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, è possibile premere il pulsante [SOURCE] sul telecomando e selezionare \"Screen Mirroring\". Su altri modelli è possibile attivare la funzione in Reti > Wi-Fi Direct. Questa funzionalità è attivata di default su vari modelli.</string>
+    <string name="help_page_text_37">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, è possibile premere il pulsante [SOURCE] sul telecomando e selezionare \"Screen Mirroring\". Su altri modelli è possibile attivare la funzione in Reti &gt; Wi-Fi Direct. Questa funzionalità è attivata di default su vari modelli.</string>
     <string name="help_page_text_38">Supporto clienti Sony: 400-810-9000</string>
     <string name="help_page_text_39">Panasonic</string>
-    <string name="help_page_text_40">Per prima cosa, assicurati che la funzionalità Miracast sia compatibile col tuo dispositivo. Su alcuni modelli, puoi selezionare App > Screen Mirroring.</string>
+    <string name="help_page_text_40">Per prima cosa, assicurati che la funzionalità Miracast sia compatibile col tuo dispositivo. Su alcuni modelli, puoi selezionare App &gt; Screen Mirroring.</string>
     <string name="help_page_text_41">Supporto clienti Panasonic: 400-881-1315</string>
     <string name="help_page_text_42">Changhong</string>
     <string name="help_page_text_43">Controlla le impostazioni della TV per assicurarsi che il monitor esterno supporti le funzionalità di Miracast.</string>
     <string name="help_page_text_44">Supporto clienti Changhong: 400-811-1666</string>
     <string name="help_page_text_45">TCL</string>
-    <string name="help_page_text_46">Per prima cosa, assicurati che la funzionalità Miracast sia compatibile col tuo dispositivo. Su alcuni modelli, puoi selezionare App > Display Wireless.</string>
+    <string name="help_page_text_46">Per prima cosa, assicurati che la funzionalità Miracast sia compatibile col tuo dispositivo. Su alcuni modelli, puoi selezionare App &gt; Display Wireless.</string>
     <string name="help_page_text_47">Supporto clienti TCL: 400-812-3456</string>
     <string name="help_page_text_48">AODIN</string>
-    <string name="help_page_text_49">Per prima cosa, assicurati che la funzionalità di Miracast sia compatibile col tuo dispositivo. Per attivare questa funzionalità, vai su Le mie app > Display WiFi.</string>
+    <string name="help_page_text_49">Per prima cosa, assicurati che la funzionalità di Miracast sia compatibile col tuo dispositivo. Per attivare questa funzionalità, vai su Le mie app &gt; Display WiFi.</string>
     <string name="help_page_text_50">Supporto clienti AODIN: 400-810-5858</string>
     <string name="help_page_text_51">LeEco</string>
-    <string name="help_page_text_52">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, puoi attivare questa funzione in Impostazioni > Reti > Multi Schermo > Display Wireless.</string>
+    <string name="help_page_text_52">Per prima cosa, assicurati che la funzionalità Miracast sia supportata sul tuo dispositivo. Su alcuni modelli, puoi attivare questa funzione in Impostazioni &gt; Reti &gt; Multi Schermo &gt; Display Wireless.</string>
     <string name="help_page_text_53">Supporto clienti LeEco: 10109000</string>
     <string name="help_page_text_55">"Se non riesci a connetterti alla rete, assicurati che il tuo monitor esterno supporti la funzionalità di Miracast e che sia attivata. Su alcuni modelli, questa funzione si chiama Display Wireless, Screen Mirroring, Multi Schermo. Visualizza le informazioni qui sotto per imparare come attivare Miracast.
 4. Se riscontri problemi, puoi segnalarli utilizzando la nostra app \"Servizi e feedback\"."</string>
@@ -372,15 +368,28 @@ Se devi attivare Miracast, premi il pulsante [MENU] e seleziona Le mie app > Pro
     <string name="nfc_connect_failed_toast">"Impossibile Proiettare. Riprova."</string>
     <string name="night">PM</string>
     <string name="noon">PM</string>
+    <string name="normal_device_desc">"I dispositivi a cui ti sei collegato, ma non contrassegnati come affidabili"</string>
+    <string name="normal_device_desc_limit">"I dispositivi a cui ti sei collegato, ma non contrassegnati come affidabili"</string>
+    <string name="normal_device_none">Nessun dispositivo precedentemente connesso</string>
+    <string name="normal_device_title">Dispositivi non affidabili</string>
     <string name="not_set">Non impostato</string>
+    <string name="notification_cast_desc">Trasmissione in corso…</string>
+    <string name="notification_desc_scanning">Ricerca dispositivi nelle vicinanze…</string>
     <string name="notification_rc_title">Assistente Xiaomi TV</string>
     <string name="notification_show_more">Tocca per vedere altre funzionalità</string>
     <string name="open_game_accelerate">Attiva Turbo Videogiochi</string>
+    <string name="path_setting_cast">Connessione e Condivisione/Trasmissione</string>
+    <string name="path_setting_cast_demo">Connessione e Condivisione/Trasmissione/Demo</string>
+    <string name="path_setting_cast_demo_document">Connessione e Condivisione/Trasmissione/Demo/Documenti</string>
+    <string name="path_setting_cast_demo_gallery">Connessione e Condivisione/Trasmissione/Demo/Foto e Video</string>
+    <string name="path_setting_cast_demo_game">Connessione e Condivisione/Trasmissione/Demo/Giochi</string>
+    <string name="path_setting_cast_feature">Connessione e Condivisione/Trasmissione/Funzioni Speciali</string>
+    <string name="path_setting_cast_help">Connessione e Condivisione/Trasmissione/Aiuto</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_agree">Accetto</string>
-    <string name="privacy_detail">&lt;Data>&amp;#35831;&amp;#24744;&amp;#21516;&amp;#24847;&amp;#24212;&amp;#29992;&amp;#32852;&amp;#32593;&amp;#21450;&amp;#20197;&amp;#19978;&amp;#24517;&amp;#35201;&amp;#26435;&amp;#38480;&amp;#65292;&amp;#38405;&amp;#35835;&amp;#24182;&amp;#21516;&amp;#24847;&amp;#25105;&amp;#20204;&amp;#30340;&amp;lt;a href=%1$s&amp;gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#19982;&amp;lt;a href=%2$s&amp;gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#65292;&amp;#20102;&amp;#35299;&amp;#24744;&amp;#30340;&amp;#29992;&amp;#25143;&amp;#26435;&amp;#30410;&amp;#21450;&amp;#30456;&amp;#20851;&amp;#20351;&amp;#29992;&amp;#25968;&amp;#25454;&amp;#30340;&amp;#22788;&amp;#29702;&amp;#26041;&amp;#27861;&amp;#12290;&lt;/Data></string>
-    <string name="privacy_detail_extra">&lt;Data>&amp;#37096;&amp;#20998;&amp;#25237;&amp;#23631;&amp;#21151;&amp;#33021;&amp;#26377;&amp;#31532;&amp;#19977;&amp;#26041;&amp;#20844;&amp;#21496;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#25552;&amp;#20379;&amp;#25903;&amp;#25345;&amp;#65292;&amp;#35831;&amp;#24744;&amp;#21516;&amp;#26102;&amp;#38405;&amp;#35835;&amp;#24182;&amp;#21516;&amp;#24847;&amp;lt;a href=%1$s&amp;gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#19982;&amp;lt;a href=%2$s&amp;gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&amp;lt;/a&amp;gt;&lt;/Data></string>
+    <string name="privacy_detail">&lt;Data&gt;&amp;#35831;&amp;#24744;&amp;#21516;&amp;#24847;&amp;#24212;&amp;#29992;&amp;#32852;&amp;#32593;&amp;#21450;&amp;#20197;&amp;#19978;&amp;#24517;&amp;#35201;&amp;#26435;&amp;#38480;&amp;#65292;&amp;#38405;&amp;#35835;&amp;#24182;&amp;#21516;&amp;#24847;&amp;#25105;&amp;#20204;&amp;#30340;&amp;lt;a href=%1$s&amp;gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#19982;&amp;lt;a href=%2$s&amp;gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#65292;&amp;#20102;&amp;#35299;&amp;#24744;&amp;#30340;&amp;#29992;&amp;#25143;&amp;#26435;&amp;#30410;&amp;#21450;&amp;#30456;&amp;#20851;&amp;#20351;&amp;#29992;&amp;#25968;&amp;#25454;&amp;#30340;&amp;#22788;&amp;#29702;&amp;#26041;&amp;#27861;&amp;#12290;&lt;/Data&gt;</string>
+    <string name="privacy_detail_extra">&lt;Data&gt;&amp;#37096;&amp;#20998;&amp;#25237;&amp;#23631;&amp;#21151;&amp;#33021;&amp;#26377;&amp;#31532;&amp;#19977;&amp;#26041;&amp;#20844;&amp;#21496;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#25552;&amp;#20379;&amp;#25903;&amp;#25345;&amp;#65292;&amp;#35831;&amp;#24744;&amp;#21516;&amp;#26102;&amp;#38405;&amp;#35835;&amp;#24182;&amp;#21516;&amp;#24847;&amp;lt;a href=%1$s&amp;gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#19982;&amp;lt;a href=%2$s&amp;gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
     <string name="privacy_explain">"欢迎使用投屏，您可使用本应用将手机画面实时同步至电视/电视盒子/投影等大屏设备。在使用本应用的过程中，我们将联网并向您申请以下权限："</string>
     <string name="privacy_link_1">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
     <string name="privacy_link_2">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
@@ -400,11 +409,11 @@ Se devi attivare Miracast, premi il pulsante [MENU] e seleziona Le mie app > Pro
     <string name="privacy_permission_wlan_desc">使用WLAN扫描附近可投屏的设备</string>
     <string name="privacy_permission_wlan_desc_china">使用蓝牙扫描附近可投屏的设备</string>
     <string name="privacy_positive">同意</string>
-    <string name="privacy_text_1">&lt;Data>\"Benvenuto in Proietta! Proiettare permette di trasmettere gli elementi dal tuo schermo ad un monitor esterno più grande.
+    <string name="privacy_text_1">&lt;Data&gt;\"Benvenuto in Proietta! Proiettare permette di trasmettere gli elementi dal tuo schermo ad un monitor esterno più grande.
 Proteggeremo le tue informazioni personali in conformità con le leggi, i regolamenti e le politiche sulla privacy. Alcune funzionalità sono fornite da un fornitore di servizi di terze parti HappyCast. Prima di utilizzare questa funzione, leggi e accetta &amp;lt;a href=%2$s&amp;gt;Dichiarazione giuridica HappyCast&amp;lt; a&amp;gt; e &amp;lt;a href=%1$s&amp;gt;Politica sulla Privacy HappyCast &amp;lt;/a&amp;gt;.
-Per poter lavorare normalmente, questa applicazione deve collegarsi ad internet e richiede le seguenti autorizzazioni per raccogliere le tue informazioni personali:\"&lt;/Data></string>
-    <string name="privacy_text_2">&lt;Data>\"Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questa app. In questi casi puoi scegliere di disinstallare l\'applicazione, disconnetterti o limitare le autorizzazioni nelle impostazioni.
-Leggi e accetta i nostri &amp;lt;a href=%1$s&amp;gt;Contratto utente&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt; prima di utilizzare questa funzione.&lt;/Data></string>
+Per poter lavorare normalmente, questa applicazione deve collegarsi ad internet e richiede le seguenti autorizzazioni per raccogliere le tue informazioni personali:\"&lt;/Data&gt;</string>
+    <string name="privacy_text_2">&lt;Data&gt;\"Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questa app. In questi casi puoi scegliere di disinstallare l\'applicazione, disconnetterti o limitare le autorizzazioni nelle impostazioni.
+Leggi e accetta i nostri &amp;lt;a href=%1$s&amp;gt;Contratto utente&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt; prima di utilizzare questa funzione.&lt;/Data&gt;</string>
     <string name="privacy_text_pemission">"•Accedere e salvare le immagini sul tuo dispositivo per proiettare questi elementi su schermi esterni
 •Registrare chiamate e audio per trasmettere audio su dispositivi esterni
 •Accedere al numero di telefono, IMEI e IMSI per identificare il tuo dispositivo
@@ -426,7 +435,7 @@ Leggi e accetta i nostri &amp;lt;a href=%1$s&amp;gt;Contratto utente&amp;lt;/a&a
     <string name="screen_projection_characteristics_privacy_protect_title">Nascondi elementi privati</string>
     <string name="screen_projection_characteristics_small_window_summary">"Riduci la finestra viene trasmessa per poter usare altre funzioni del tuo telefono."</string>
     <string name="screen_projection_characteristics_small_window_title">Riduci finestra</string>
-    <string name="screen_projection_example_document_summary">Visualizza le presentazioni su un monitor esterno mentre si utilizza il telefono per passare dalle diapositive alle note di visualizzazione. Vai su Gestione File > Documenti per provare questa funzione.</string>
+    <string name="screen_projection_example_document_summary">Visualizza le presentazioni su un monitor esterno mentre si utilizza il telefono per passare dalle diapositive alle note di visualizzazione. Vai su Gestione File &gt; Documenti per provare questa funzione.</string>
     <string name="screen_projection_example_document_title">Documenti</string>
     <string name="screen_projection_example_gallery_summary">Tocca il pulsante Condividi sotto un elemento nella Galleria per visualizzarlo su un monitor esterno.</string>
     <string name="screen_projection_example_gallery_title">Foto e Video</string>
@@ -471,7 +480,7 @@ Leggi e accetta i nostri &amp;lt;a href=%1$s&amp;gt;Contratto utente&amp;lt;/a&a
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">S</string>
-    <string name="synergy_casting">Non è possibile utilizzare la proiezione su più schermi</string>
+    <string name="synergy_casting">"Non è possibile utilizzare la proiezione su più schermi"</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
     <string name="the_arbor_day">Giorno dei mestieri</string>
@@ -517,7 +526,7 @@ Leggi e accetta i nostri &amp;lt;a href=%1$s&amp;gt;Contratto utente&amp;lt;/a&a
     <string name="thursday_shortest">T</string>
     <string name="tile_label">Trasmetti</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_hour">O</string>
     <string name="time_picker_label_minute">M</string>
     <string name="toast_guide_show_more">Scopri di più</string>
     <string name="toast_guide_title">Esplora le nostre nuove funzionalità qui</string>
@@ -528,9 +537,30 @@ Leggi e accetta i nostri &amp;lt;a href=%1$s&amp;gt;Contratto utente&amp;lt;/a&a
     <string name="toast_turn_off_hotspot_before_cast">Disattiva l\'hotspot portatile prima di proiettare</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
+    <string name="trust_device_desc">"Questi dispositivi appariranno per primi quando sono vicini"</string>
+    <string name="trust_device_dialog_desc"><Data>\"%s apparirà tra i dispositivi disponibili per primo quando è vicino se lo si contrassegna come affidabile.&lt;br&gt;&lt;br&gt;È possibile &lt;a href=milink://com.milink.service/trust&gt;gestire dispositivi affidabili&lt;/a&gt; nelle Impostazioni.\"</Data></string>
+    <string name="trust_device_dialog_pos">Fidati</string>
+    <string name="trust_device_dialog_title">Dispositivo affidabile?</string>
+    <string name="trust_device_manager">Gestisci dispositivi affidabili</string>
+    <string name="trust_device_none">Nessun dispositivo fidato</string>
+    <string name="trust_device_title">Dispositivi affidabili</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">T</string>
+    <string name="url_ad">http://ad.hpplay.cn</string>
+    <string name="url_adeng">http://adeng.hpplay.cn</string>
+    <string name="url_debug_sdkauth">http://testsdkauth.hpplay.cn:90/Author/PhoneAuthor/?</string>
+    <string name="url_dev_manager">http://devicemgr.hpplay.cn</string>
+    <string name="url_gslb_root">http://gslb.hpplay.cn</string>
+    <string name="url_hw_sdkauth">https://hwsdkauth.hpplay.cn/Author/PhoneAuthor/?</string>
+    <string name="url_imdns">http://imdns.hpplay.cn</string>
+    <string name="url_pin">http://pin.hpplay.cn</string>
+    <string name="url_release_sdkauth">http://sdkauth.hpplay.cn/Author/PhoneAuthor/?</string>
+    <string name="url_rp">http://rp.hpplay.com.cn</string>
+    <string name="url_short_link">http://sl.hpplay.cn</string>
+    <string name="url_txt_info">http://%1$s:%2$s/www.hpplay.com.cn/tv/app/DnsTxtInfo</string>
+    <string name="url_vo_sdkauth">https://vosdkauth.hpplay.cn/Author/PhoneAuthor/?</string>
+    <string name="url_xm_sdkauth">https://misdkauth.hpplay.cn/Author/PhoneAuthor/?</string>
     <string name="v7_preference_off">ATTIVATO</string>
     <string name="v7_preference_on">DISATTIVATO</string>
     <string name="wednesday">Mercoledì</string>

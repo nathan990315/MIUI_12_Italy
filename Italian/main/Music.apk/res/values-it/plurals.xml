@@ -105,16 +105,16 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
         <item quantity="one">Rimuovere %d brano?</item>
     </plurals>
     <plurals name="download_finished">
-        <item quantity="other">&lt;font color=\"red\">%d brani&lt;/font> scaricati</item>
-        <item quantity="one">&lt;font color==\"red\">%d brano&lt;/font> scaricato</item>
+        <item quantity="other">&lt;font color=\"red\"&gt;%d brani&lt;/font&gt; scaricati</item>
+        <item quantity="one">&lt;font color==\"red\"&gt;%d brano&lt;/font&gt; scaricato</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
         <item quantity="other">%d download rimossi</item>
         <item quantity="one">%d download rimosso</item>
     </plurals>
     <plurals name="download_running">
-        <item quantity="other">&lt;font color=\"red\">%d brani&lt;/font> scaricati</item>
-        <item quantity="one">&lt;font color==\"red\">%d brano&lt;/font> scaricato</item>
+        <item quantity="other">&lt;font color=\"red\"&gt;%d brani&lt;/font&gt; scaricati</item>
+        <item quantity="one">&lt;font color==\"red\"&gt;%d brano&lt;/font&gt; scaricato</item>
     </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">%d download gratuiti rimanenti</item>
@@ -160,10 +160,6 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
-    <plurals name="reader_count">
-        <item quantity="other">%d follower</item>
-        <item quantity="one">%d follower</item>
-    </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d brani saranno inviati</item>
         <item quantity="one">%d brano sarà inviato</item>
@@ -183,10 +179,6 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
     <plurals name="sound_fade_duration_in_seconds">
         <item quantity="other">Dissolvenza incrociata tra le canzoni: %d secondi</item>
         <item quantity="one">Dissolvenza incrociata tra le canzoni: %d secondo</item>
-    </plurals>
-    <plurals name="video_count">
-        <item quantity="other">Video</item>
-        <item quantity="one">Video</item>
     </plurals>
     <plurals name="video_play_count">
         <item quantity="other">%1$s visualizzazioni</item>

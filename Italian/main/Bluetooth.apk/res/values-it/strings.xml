@@ -37,12 +37,12 @@
     <string name="bluetooth_sap_notif_message">Richiedere la disconnessione?</string>
     <string name="bluetooth_sap_notif_ticker">Accesso SIM tramite Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Accesso SIM tramite Bluetooth</string>
-    <string name="bluetooth_share_file_name">bluetooth_content_share</string>
+    <string name="bt_audio_share_notification_content">Tocca per vedere le opzioni</string>
+    <string name="bt_audio_share_notification_title">Condivisione audio</string>
     <string name="bt_enable_cancel">Annulla</string>
     <string name="bt_enable_line1">Per utilizzare i servizi Bluetooth, è necessario attivare il Bluetooth.</string>
     <string name="bt_enable_line2">Attivare il Bluetooth?</string>
     <string name="bt_enable_ok">Attiva</string>
-    <string name="bt_enable_title"></string>
     <string name="bt_error_btn_ok">OK</string>
     <string name="bt_share_picker_label">Bluetooth</string>
     <string name="bt_sm_2_1_default">"Spazio insufficiente sulla scheda SD per salvare il file da \"%1$s\""</string>
@@ -67,14 +67,12 @@
     <string name="download_line1">Da: \"%1$s\"</string>
     <string name="download_line2">File: %1$s</string>
     <string name="download_line3">Dimensione file: %1$s</string>
-    <string name="download_line4"></string>
     <string name="download_line5">Ricezione file…</string>
     <string name="download_ok">Nascondi</string>
     <string name="download_succ_line5">File ricevuto</string>
     <string name="download_succ_ok">Apri</string>
     <string name="download_success">Ricezione completata %1$s.</string>
     <string name="download_title">Trasferimento file</string>
-    <string name="email_ui_package">com.android.email</string>
     <string name="enabling_progress_content">Attivazione Bluetooth…</string>
     <string name="enabling_progress_title">Attendere prego…</string>
     <string name="inbound_history_title">Trasferimenti in entrata</string>
@@ -100,6 +98,7 @@
     <string name="not_exist_file">Nessun file</string>
     <string name="not_exist_file_desc">"Il file non esiste. 
 "</string>
+    <string name="notice_audio_share_disconnected">Condivisione audio interrotta causa perdita della connessione</string>
     <string name="notification_received">Condivisione Bluetooth: Ricevuto %1$s</string>
     <string name="notification_received_fail">Condivisione Bluetooth: File %1$s non ricevuto</string>
     <string name="notification_receiving">Condivisione Bluetooth: Ricezione di %1$s</string>
@@ -124,12 +123,10 @@
     <string name="permlab_bluetoothWhitelist">Dispositivi Bluetooth autorizzati all\'accesso.</string>
     <string name="permlab_handoverStatus">Ricevi le trasmissioni di trasferimento della consegna BT.</string>
     <string name="phonebook_advance_feature_support">Funzioni rubrica avanzate supportate</string>
-    <string name="process"></string>
     <string name="remote_pbap_version_change">Cambio versione profilo rubrica remota</string>
     <string name="remote_phonebook_feature_downgrade">Downgrade funzionalità rubrica remota</string>
     <string name="repair_for_adv_phonebook_feature">Riaccoppia per Funzionalità avanzate rubrica remota</string>
     <string name="repair_for_phonebook_access_version_comp">Riaccoppia per compatibilità accesso alla rubrica remota</string>
-    <string name="sharedUserId"></string>
     <string name="start_server">Avvia server TCP</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_canceled">Trasferimento annullato dall\'utente.</string>
@@ -154,7 +151,7 @@
     <string name="switch_audio_device_hfp_toast_hint">Seleziona l\'uscita audio predefinita per avviare nuovamente la riproduzione audio su questo dispositivo.</string>
     <string name="switch_audio_device_phone">Questo dispositivo</string>
     <string name="switch_audio_device_phone_summary">Riproduci audio su questo dispositivo</string>
-    <string name="switch_audio_device_switch_hint">Puoi disattivare le notifiche sui dispositivi connessi in Impostazioni > Bluetooth > Impostazioni aggiuntive.</string>
+    <string name="switch_audio_device_switch_hint">Puoi disattivare le notifiche sui dispositivi connessi in Impostazioni &gt; Bluetooth &gt; Impostazioni aggiuntive.</string>
     <string name="switch_audio_dialog_title">Seleziona uscita audio</string>
     <string name="switch_audio_notification_content">"Dispositivo di uscita audio attuale: "</string>
     <string name="switch_audio_notification_title">Connettività dispositivo</string>

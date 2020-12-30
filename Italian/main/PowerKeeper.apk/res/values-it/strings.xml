@@ -71,10 +71,10 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
     <string name="extreme_add_white_list_title">Eccezioni in background</string>
     <string name="extreme_mode_max_item_alert">È possibile selezionare fino a 4 applicazioni da eseguire in background quando il risparmio batteria è acceso</string>
     <string name="extreme_power_config_mode_category">Risparmio energetico estremo</string>
-    <string name="extreme_power_config_mode_desc">&lt;li>\"Il Risparmio Batteria Estremo interrompe tutte le attività in background di un\'app dopo averla chiusa. Questa app non ti invierà notifiche o riceverà aggiornamenti.&lt;/li>\"
-\"&lt;li>Se vuoi che un\'app rimanga in esecuzione in background, bloccala nei Recenti, o aggiungila alle eccezioni per l\'esecuzione in background qui sotto. Fino a 4 applicazioni possono restare in esecuzione in background quando il risparmio batteria è attivo.&lt;/li>\"
-\"&lt;li>Il Risparmio Batteria Estremo disattiva NFC per impostazione predefinita. È possibile modificare questa opzione nelle impostazioni.&lt;/li>\"
-\"&lt;li>Per assicurarti di poter utilizzare tutte le caratteristiche del tuo dispositivo normalmente, il Risparmio Batteria Estremo verrà disattivato automaticamente quando la batteria sarà carica al di sopra del 30%.&lt;/li></string>
+    <string name="extreme_power_config_mode_desc">&lt;li&gt;\"Il Risparmio Batteria Estremo interrompe tutte le attività in background di un\'app dopo averla chiusa. Questa app non ti invierà notifiche o riceverà aggiornamenti.&lt;/li&gt;\"
+\"&lt;li&gt;Se vuoi che un\'app rimanga in esecuzione in background, bloccala nei Recenti, o aggiungila alle eccezioni per l\'esecuzione in background qui sotto. Fino a 4 applicazioni possono restare in esecuzione in background quando il risparmio batteria è attivo.&lt;/li&gt;\"
+\"&lt;li&gt;Il Risparmio Batteria Estremo disattiva NFC per impostazione predefinita. È possibile modificare questa opzione nelle impostazioni.&lt;/li&gt;\"
+\"&lt;li&gt;Per assicurarti di poter utilizzare tutte le caratteristiche del tuo dispositivo normalmente, il Risparmio Batteria Estremo verrà disattivato automaticamente quando la batteria sarà carica al di sopra del 30%.&lt;/li&gt;</string>
     <string name="extreme_power_config_mode_summary">Il Risparmio Batteria Estremo limita le app in background e ferma la sincronizzazione.</string>
     <string name="extreme_power_config_mode_title">Risparmio energetico estremo</string>
     <string name="extreme_power_settings_title">impostazioni</string>
@@ -134,7 +134,7 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
     <string name="scenario_policies_summary">Applicare strategie di risparmio energetico differenti in base allo scenario.</string>
     <string name="scenario_policies_title">Scenari smart</string>
     <string name="scenario_policies_warmcontrol">Controllo della temperatura</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_menu_title">Ricerca</string>
     <string name="search_result_text">"Non è stato possibile trovare alcuna app"</string>
     <string name="show_system_app">Mostra app di sistema</string>

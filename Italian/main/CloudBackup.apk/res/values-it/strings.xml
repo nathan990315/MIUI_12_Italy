@@ -119,6 +119,8 @@ Nota: I dati delle applicazioni installate non verranno salvati su Xiaomi Cloud.
     <string name="cloud_backup">Backup Mi Cloud</string>
     <string name="cloud_backup_derail_size_summary">Dimensione: %s</string>
     <string name="cloud_backup_detail_frequence">Programma Backup</string>
+    <string name="cloud_backup_detail_frequence_every_7_day">Backup ogni %d giorni</string>
+    <string name="cloud_backup_detail_frequence_every_day">Backup ogni giorno</string>
     <string name="cloud_backup_detail_manage">Gestisci backup</string>
     <string name="cloud_backup_detail_state">Backup Mi Cloud</string>
     <string name="cloud_backup_detail_state_summary">App, schermata Home e impostazioni di sistema</string>
@@ -201,9 +203,9 @@ Nota: I dati delle applicazioni installate non verranno salvati su Xiaomi Cloud.
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
     <string name="msg_alert_cancel_restore">Il backup da Cloud è in fase di ripristino, interrompere?</string>
     <string name="msg_alert_restore_error">"Ripristino backup da Cloud non riuscito, prego riprova."</string>
-    <string name="msg_restore_start_with_metered_network">"La tua Home verrà lanciata di nuovo. Le app salvate verranno scaricate automaticamente. Verranno scaricati &lt;br />&lt;b>&lt;font color='red'>%s di file.&lt;/font>&lt;/b>"</string>
+    <string name="msg_restore_start_with_metered_network">"La tua Home verrà lanciata di nuovo. Le app salvate verranno scaricate automaticamente. Verranno scaricati &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s di file.&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">Se procedi nel ripristino di questi file, verrà utilizzata la rete dati per il download.</string>
-    <string name="msg_restore_with_metered_network_pattern">"Verranno scaricati &lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> di file."</string>
+    <string name="msg_restore_with_metered_network_pattern">"Verranno scaricati &lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; di file."</string>
     <string name="network_error">Collegato alla rete</string>
     <string name="no_account">Accesso al Mi Account non eseguito.</string>
     <string name="no_backup">Nessun backup su Mi Cloud.</string>
@@ -213,6 +215,8 @@ Nota: I dati delle applicazioni installate non verranno salvati su Xiaomi Cloud.
     <string name="open_backup_switch">Attiva lo switch backup</string>
     <string name="other_device_main_space">Primo spazio</string>
     <string name="other_device_second_space">Secondo spazio</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="process_whole_recovery">Ripristino di \"%s\"</string>
     <string name="provision_background_restore_more_data">Ripristina altri elementi in background</string>
@@ -236,7 +240,7 @@ Nota: I dati delle applicazioni installate non verranno salvati su Xiaomi Cloud.
     <string name="restore_app_order_retry_desc">"Impossibile collegarsi alla rete.
 Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="restore_app_order_search_hint">Cerca elementi di cui impostare la priorità</string>
-    <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'>%s&lt;/font>"</string>
+    <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'&gt;%s&lt;/font&gt;"</string>
     <string name="restore_app_order_search_installed">App sul dispositivo</string>
     <string name="restore_app_order_search_normal">App con priorità normale</string>
     <string name="restore_app_order_search_prior">App con priorità alta</string>
@@ -292,4 +296,5 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="v7_preference_off">Disattivato</string>
     <string name="v7_preference_on">Attivato</string>
     <string name="wait_icon_download">Download icona applicazione</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

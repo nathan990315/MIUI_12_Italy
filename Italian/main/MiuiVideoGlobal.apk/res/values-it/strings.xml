@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Earlier">Precedente</string>
-    <string name="HA_AFFILIATE_ID">1268</string>
-    <string name="HA_APP_KEY">MIV-DgUIBwwPBgw</string>
-    <string name="HA_DOMAIN">mivideo</string>
-    <string name="HA_DOMAIN_TEST">test</string>
-    <string name="HA_SERVICE_ID">PLAY</string>
     <string name="This_week">Questa settimana</string>
     <string name="Today">Oggi</string>
     <string name="Yesterday">Ieri</string>
@@ -17,18 +12,6 @@
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
     <string name="abc_capital_off">ATTIVATO</string>
     <string name="abc_capital_on">DISATTIVATO</string>
-    <string name="abc_font_family_body_1_material">sans-serif</string>
-    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
-    <string name="abc_font_family_button_material">sans-serif-medium</string>
-    <string name="abc_font_family_caption_material">sans-serif</string>
-    <string name="abc_font_family_display_1_material">sans-serif</string>
-    <string name="abc_font_family_display_2_material">sans-serif</string>
-    <string name="abc_font_family_display_3_material">sans-serif</string>
-    <string name="abc_font_family_display_4_material">sans-serif-light</string>
-    <string name="abc_font_family_headline_material">sans-serif</string>
-    <string name="abc_font_family_menu_material">sans-serif</string>
-    <string name="abc_font_family_subhead_material">sans-serif</string>
-    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
@@ -53,7 +36,7 @@
     <string name="account_crop_user_avatar">Ritaglia foto</string>
     <string name="account_empty_user_name">Inserisci il nome utente del tuo Mi Account</string>
     <string name="account_error_all_space_user_name">"\"Il nome utente non può contenere  spazi"</string>
-    <string name="account_error_invalid_user_name">"Il nome utente non può contenere: &lt;, >, o /"</string>
+    <string name="account_error_invalid_user_name">"Il nome utente non può contenere: &lt;, &gt;, o /"</string>
     <string name="account_error_longer_user_name">"Il nome utente non può essere più lungo di 20 caratteri"</string>
     <string name="account_error_shorter_user_name">Il nome deve essere più lungo di 2 caratteri</string>
     <string name="account_error_user_birthday">Il compleanno inserito non è valido</string>
@@ -88,6 +71,7 @@
     <string name="ad_download">Scarica</string>
     <string name="ad_join">Unisciti alla community</string>
     <string name="ad_more">Altro</string>
+    <string name="add_search_channel_name">Nome</string>
     <string name="add_to_trust_device">Questo device è affidabile</string>
     <string name="agree">Accetto</string>
     <string name="agree_and_continue">Accetto</string>
@@ -108,7 +92,7 @@
     <string name="alert_dialog_download_prepare">Preparazione al download…</string>
     <string name="alert_dialog_download_progress">"Download dell'app: "</string>
     <string name="all">Visualizza tutti</string>
-    <string name="app_name">Mi Video</string>
+    <string name="auth_again">Accetto</string>
     <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo.</string>
     <string name="auto_play_next_off">Riproduzione automatica spenta</string>
     <string name="auto_play_next_on">Riproduzione automatica attiva</string>
@@ -136,7 +120,8 @@
     <string name="cast_forward">Avanti</string>
     <string name="cast_forward_10">Avanti dieci secondi</string>
     <string name="cast_forward_30">Avanti trenta secondi</string>
-    <string name="cast_live_label">LIVE</string>
+    <string name="cast_invalid_stream_duration_text">--:--</string>
+    <string name="cast_invalid_stream_position_text">--:--</string>
     <string name="cast_mute">Muto</string>
     <string name="cast_notification_connected_message">Collegato a %1$s</string>
     <string name="cast_notification_connecting_message">Connessione a %1$s</string>
@@ -170,6 +155,7 @@
     <string name="choose_to_signup">"No, ne creerò uno"</string>
     <string name="click_to_reload_more">Tocca per caricare altro</string>
     <string name="click_to_retry">Riprova</string>
+    <string name="cloud_online_player">Giocatore</string>
     <string name="cloud_online_switch">Consigli personalizzati</string>
     <string name="cloud_online_switch_close_time">Puoi attivare i consigli di contenuti personalizzati in %s</string>
     <string name="cloud_online_switch_open_time">Mostra consigli di contenuto personalizzato</string>
@@ -180,7 +166,7 @@
     <string name="columbus_player_close_video">CHIUDI IL VIDEO</string>
     <string name="columbus_player_install_now">INSTALLA ORA</string>
     <string name="columbus_player_learn_more">Scopri di più</string>
-    <string name="com_facebook_device_auth_instructions">Visita &lt;b>facebook.com/device&lt;/b> ed inserisci il codice visualizzato sopra.</string>
+    <string name="com_facebook_device_auth_instructions">Visita &lt;b&gt;facebook.com/device&lt;/b&gt; ed inserisci il codice visualizzato sopra.</string>
     <string name="com_facebook_image_download_unknown_error">Errore inaspettato durante il download di un\'immagine.</string>
     <string name="com_facebook_internet_permission_error_message">Il login WebView richiede i permessi per accedere a internet</string>
     <string name="com_facebook_internet_permission_error_title">Errore AndroidManifest</string>
@@ -259,15 +245,13 @@
     <string name="day">giorno</string>
     <string name="default_filedownloader_notification_content">FileDownloader in esecuzione.</string>
     <string name="default_filedownloader_notification_title">FileDownloader</string>
-    <string name="default_web_client_id">144285974528-0s4d24nm35j65v8dde47naur9f0p32ff.apps.googleusercontent.com</string>
-    <string name="define_roundedimageview"></string>
     <string name="description">Descrizione</string>
     <string name="diagnosis_log_send_failed">"Impossibile inviare i log. Riprova."</string>
     <string name="diagnosis_log_sent_format">"Log inviati con successo.
 ID:%s
 Invia questo codice al supervisore."</string>
-    <string name="dialog_privacy_info_new2">"Per essere in grado di utilizzare i servizi, è necessario accettare che %1$s raccoglierà, elaborerà e utilizzerà le informazioni personali. Confermerai di aver letto e accettato la nostra &lt;a href=\"%2$s\">Informativa sulla privacy&lt;/a> quando avrei premuto \"Accetta\" qui sotto."</string>
-    <string name="dialog_privacy_info_new3">"Per poter utilizzare questo servizio, è necessario consentire a %1$s di raccogliere, elaborare, e utilizzare le tue informazioni personali in conformità con l'Informativa sulla privacy. Cliccando su \"Accetta\" qui sotto, accetti l'&lt;a href=%2$s>Informativa sulla privacy&lt;/a> e l'&lt;a href=%3$s>Accordo utente&lt;/a> di Xiaomi."</string>
+    <string name="dialog_privacy_info_new2">"Per essere in grado di utilizzare i servizi, è necessario accettare che %1$s raccoglierà, elaborerà e utilizzerà le informazioni personali. Confermerai di aver letto e accettato la nostra &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt; quando avrei premuto \"Accetta\" qui sotto."</string>
+    <string name="dialog_privacy_info_new3">"Per poter utilizzare questo servizio, è necessario consentire a %1$s di raccogliere, elaborare, e utilizzare le tue informazioni personali in conformità con l'Informativa sulla privacy. Cliccando su \"Accetta\" qui sotto, accetti l'&lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; e l'&lt;a href=%3$s&gt;Accordo utente&lt;/a&gt; di Xiaomi."</string>
     <string name="dialog_privacy_title">Autorizzazione</string>
     <string name="dialog_revoke_privacy_info_new2">Dopo aver revocato l\'autorizzazione, l\'app interromperà la raccolta dei dati e tutti i dati correlati verranno eliminati dai nostri server. Questo potrebbe rendere l\'applicazione inutilizzabile. Revocare l\'autorizzazione?</string>
     <string name="dialog_revoke_privacy_title">Revoca autorizzazione in corso</string>
@@ -283,7 +267,6 @@ Invia questo codice al supervisore."</string>
     <string name="download_power_off_tips">"Questa funzione non è al momento disponibile"</string>
     <string name="download_progress">%d%%</string>
     <string name="download_retry">Riprova</string>
-    <string name="download_space_info" formatted="false">%s, %s</string>
     <string name="download_unable_tip">"Impossibile scaricare questo elemento"</string>
     <string name="download_video">Download del video</string>
     <string name="downloading">Download…</string>
@@ -328,7 +311,6 @@ Invia questo codice al supervisore."</string>
     <string name="exo_track_unknown">Sconosciuto</string>
     <string name="explore">Scopri</string>
     <string name="explore_on_mi_video">Trova di più su Mi Video</string>
-    <string name="facebook_application_id"></string>
     <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
     <string name="failed_to_fetch_data">"Impossibile caricare informazioni."</string>
@@ -360,7 +342,6 @@ Invia questo codice al supervisore."</string>
     <string name="file_cant_rename">Il file %1$s esiste già. Scegli un altro nome</string>
     <string name="find_psw">Password dimenticata</string>
     <string name="finish">Fatto</string>
-    <string name="firebase_database_url">https://global-video-5cd70.firebaseio.com</string>
     <string name="for_diagnosis_usage_only">I log sono utilizzati solo per la diagnostica.</string>
     <string name="for_you">PER TE</string>
     <string name="friday">Venerdì</string>
@@ -370,19 +351,13 @@ Invia questo codice al supervisore."</string>
     <string name="gallery_folder_alias_TAOBAO">Taobao</string>
     <string name="gallery_folder_alias_camera">Fotocamera</string>
     <string name="gallery_folder_alias_download">Download</string>
-    <string name="gallery_folder_alias_mivideo">Mi Video</string>
     <string name="gallery_folder_alias_mobileqq">Fotocamera QQ</string>
     <string name="gallery_folder_alias_mobileqq_file">File QQ</string>
-    <string name="gallery_folder_alias_pdd">Pinduoduo</string>
     <string name="gallery_folder_alias_qq">QQ</string>
     <string name="gallery_folder_alias_qqeditpic">Editor QQ</string>
-    <string name="gallery_folder_alias_qtt">Qutoutiao</string>
     <string name="gallery_folder_alias_screen_recorder">Registrazioni schermo</string>
-    <string name="gallery_folder_alias_sina">Sina</string>
     <string name="gallery_folder_alias_tencent_video">Tencent</string>
-    <string name="gallery_folder_alias_toutiao">Toutiao</string>
     <string name="gallery_folder_alias_wechat">WeChat</string>
-    <string name="gallery_folder_alias_youku_video">Youku</string>
     <string name="gallery_tab_all">Tutti</string>
     <string name="gallery_tab_videos">Video</string>
     <string name="galleryplus_already_cloud_member">Usa l\'abbonamento VIP per riprodurre</string>
@@ -424,7 +399,7 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_online_cta_title">Termini e condizioni</string>
     <string name="galleryplus_online_video_loading">Attendi…</string>
     <string name="galleryplus_permission_content">Dai a Mi Video i permessi necessari per poter usare questa funzione.</string>
-    <string name="galleryplus_permission_content2">"Per essere in grado di utilizzare questa funzione, vai in Impostazioni > Applicazioni > Mi Video > Autorizzazioni App e consenti a Mi Video quanto segue:
+    <string name="galleryplus_permission_content2">"Per essere in grado di utilizzare questa funzione, vai in Impostazioni &gt; Applicazioni &gt; Mi Video &gt; Autorizzazioni App e consenti a Mi Video quanto segue:
 
 1. Accesso all'archivio
 2. Accesso all'ID del dispositivo"</string>
@@ -432,7 +407,6 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_permission_refuse">Non ora</string>
     <string name="galleryplus_permission_retry">Permessi</string>
     <string name="galleryplus_permission_title">Attenzione</string>
-    <string name="galleryplus_play_speed">%1$.1fX</string>
     <string name="galleryplus_restore_play_speed">Riproduci a velocità normale</string>
     <string name="galleryplus_save_cancel_toast">Tocca di nuovo \"Indietro\" per annullare il salvataggio del video</string>
     <string name="galleryplus_save_fail">"Impossibile salvare"</string>
@@ -445,6 +419,7 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_subtitle_edit_edit">Modifica sottotitoli</string>
     <string name="galleryplus_subtitle_edit_hide">Nascondi sottotitoli</string>
     <string name="galleryplus_subtitle_edit_literal_edit">Modifica testo</string>
+    <string name="galleryplus_subtitle_edit_reminder">Il testo inserito è troppo lungo</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">"Impossibile riconoscere il discorso durante la registrazione"</string>
     <string name="galleryplus_v_agree">Accetto</string>
     <string name="galleryplus_v_cancel">Annulla</string>
@@ -463,16 +438,10 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_vp_videoview_error_button">Fatto</string>
     <string name="galleryplus_vp_videoview_error_text_unknown">Si è verificato un errore di riproduzione</string>
     <string name="galleryplus_vp_videoview_error_title">"Impossibile riprodurre il video"</string>
-    <string name="gcm_defaultSenderId">144285974528</string>
     <string name="get_back_pwd">Ripristina password</string>
     <string name="get_ph_ticket">Ottieni codice</string>
     <string name="get_phone_bind_exceed_limit">"È possibile associare fino a 3 Mi Account a un numero di telefono. Impossibile aggiungere nuovi account."</string>
     <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
-    <string name="google_api_key">AIzaSyBmWA13ZtMoPDvgTFVtmG4anqKADZ_XnNg</string>
-    <string name="google_app_id">1:144285974528:android:6b926accc3bd9e5a7918e5</string>
-    <string name="google_application_id"></string>
-    <string name="google_crash_reporting_api_key">AIzaSyBmWA13ZtMoPDvgTFVtmG4anqKADZ_XnNg</string>
-    <string name="google_storage_bucket">global-video-5cd70.appspot.com</string>
     <string name="got_it">Fatto</string>
     <string name="goto_sign_up">Crea account</string>
     <string name="have_learned">Fatto</string>
@@ -482,7 +451,6 @@ Invia questo codice al supervisore."</string>
     <string name="history_local_video">Dispositivo</string>
     <string name="history_online_video">Online</string>
     <string name="hot">Popolari</string>
-    <string name="id_namespace">hungama</string>
     <string name="identity">Identificazione</string>
     <string name="inconsistent_pwd">"Le password non corrispondono"</string>
     <string name="init_channels">Ripristina predefinite</string>
@@ -491,17 +459,19 @@ Invia questo codice al supervisore."</string>
     <string name="input_size_tips">Puoi inserire fino a 1000 caratteri</string>
     <string name="isornot_your_mi_account">È questo il tuo Mi Account?</string>
     <string name="issue">Problema</string>
+    <string name="item_card_related">Correlati</string>
+    <string name="item_setting_go_back">Revoca autorizzazione...</string>
     <string name="just_a_second">Attendi…</string>
-    <string name="language_later_setting_tips">È possibile modificare le preferenze della lingua in Profilo > Lingua.</string>
+    <string name="language_later_setting_tips">È possibile modificare le preferenze della lingua in Profilo &gt; Lingua.</string>
     <string name="language_select_tips">"Seleziona la tua lingua preferita
 per i video"</string>
-    <string name="language_setting_tips">Seleziona le tue preferenze linguistiche per ricevere contenuti più rilevanti. Puoi cambiare le tue preferenze linguistiche in Profilo > Lingua.</string>
-    <string name="language_setting_tips_dialog">È possibile selezionare le preferenze della lingua per i contenuti in Account > Lingua.</string>
+    <string name="language_setting_tips">Seleziona le tue preferenze linguistiche per ricevere contenuti più rilevanti. Puoi cambiare le tue preferenze linguistiche in Profilo &gt; Lingua.</string>
+    <string name="language_setting_tips_dialog">È possibile selezionare le preferenze della lingua per i contenuti in Account &gt; Lingua.</string>
     <string name="later">Più tardi</string>
+    <string name="library_roundedimageview_isOpenSource">vero</string>
     <string name="library_roundedimageview_libraryDescription">Una vista veloce (e disegnabile) che supporta angoli arrotondati (e ovali o cerchi) in base all\'esempio originale di Romain Guy.</string>
     <string name="live_now">In diretta ora</string>
     <string name="live_title">Live HDR</string>
-    <string name="live_tv_title">Live TV</string>
     <string name="loading">Attendi…</string>
     <string name="local_play_tip">Riproduzione di video locali</string>
     <string name="local_push_title">I più richiesti oggi</string>
@@ -548,7 +518,7 @@ per i video"</string>
     <string name="lv_confirm_unhide_videos">Mostrare i video?</string>
     <string name="lv_deleting">Eliminazione in corso…</string>
     <string name="lv_device_list">Dispositivi</string>
-    <string name="lv_device_list_seaching">&lt;Nessun dispositivo per la trasmissione></string>
+    <string name="lv_device_list_seaching">&lt;Nessun dispositivo per la trasmissione&gt;</string>
     <string name="lv_do_not_show_this_again">"Non mostrare più"</string>
     <string name="lv_favor">Preferiti</string>
     <string name="lv_find_new_version">Aggiornamento disponibile</string>
@@ -603,16 +573,12 @@ per i video"</string>
     <string name="lv_subtitle_manual_add_sub">Sottotitoli aggiunti correttamente</string>
     <string name="lv_subtitle_no_subtitle">"Sottotitoli non disponibili"</string>
     <string name="lv_subtitle_non_subtitle_file">Nessun file di sottotitoli disponibile</string>
-    <string name="lv_subtitle_offset_add_1s">+1s</string>
-    <string name="lv_subtitle_offset_add_dot5s">+0.5s</string>
     <string name="lv_subtitle_offset_normal">"Non spostare i sottotitoli"</string>
-    <string name="lv_subtitle_offset_sub_1s">-1s</string>
-    <string name="lv_subtitle_offset_sub_dot5s">-0.5s</string>
     <string name="lv_subtitle_onlinesub_language">Lingua: %s</string>
     <string name="lv_subtitle_onlinesub_loading">Caricamento dei sottotitoli…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Caricamento dei sottotitoli…</string>
     <string name="lv_subtitle_onlinesub_right_declare">Avviso</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">Ottieni i sottotitoli &lt;br/>&lt;br/>da &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.&lt;br/>&lt;br/>Tutti i sottotitoli online sono forniti da &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">Ottieni i sottotitoli &lt;br/&gt;&lt;br/&gt;da &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt;Tutti i sottotitoli online sono forniti da &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;.</string>
     <string name="lv_subtitle_onlinesub_save_failed">"Impossibile aggiungere sottotitoli"</string>
     <string name="lv_subtitle_onlinesub_save_success">Sottotitoli aggiunti correttamente</string>
     <string name="lv_subtitle_onlinesub_search_keyword">Inserisci le parole chiave da cercare</string>
@@ -635,8 +601,6 @@ per i video"</string>
     <string name="lv_volume">Volume</string>
     <string name="manage">Gestisci</string>
     <string name="mediation_ad_can_not_share">"Impossibile condividere questo video"</string>
-    <string name="mi_video">Mi Video</string>
-    <string name="mnc_live_tv">Live TV</string>
     <string name="moment_guide_desc">Usa i gesti per ingrandire e rimpicciolire</string>
     <string name="moment_tab_all">Tutti</string>
     <string name="moment_tab_facebook">Facebook</string>
@@ -711,6 +675,7 @@ per i video"</string>
     <string name="notification_recall_title">Attiva notifiche</string>
     <string name="notify_apk_installed">Scaricato con successo</string>
     <string name="ok">OK</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Iscrizioni recenti</string>
     <string name="order_recently_updated">Aggiornati di recente</string>
     <string name="ovp_alert_dialog_download_install_task">Download plug-in HD…</string>
@@ -743,7 +708,6 @@ per i video"</string>
     <string name="ovp_detail_v_episode_count">Aggiornato all\'episodio %d</string>
     <string name="ovp_detail_v_episode_download_null">"Impossibile scaricare questo episodio"</string>
     <string name="ovp_detail_v_variety_episode_count">Aggiornato alla stagione %s</string>
-    <string name="ovp_episode_suffix">"Ep. %d "</string>
     <string name="ovp_favor">Preferiti</string>
     <string name="ovp_favor_null">Nessun elemento trovato.</string>
     <string name="ovp_feedback_title">Feedback Mi Video</string>
@@ -809,7 +773,6 @@ Aggiorna prima Mi Video all'ultima versione."</string>
     <string name="passport_account_name">"Account: %1$s"</string>
     <string name="passport_activate_token_expired">Codice dii verifica scaduto. Perfavore riprova.</string>
     <string name="passport_area_code_title">Codice regionale</string>
-    <string name="passport_auth_title"></string>
     <string name="passport_bad_authentication">Nome utente o password non validi</string>
     <string name="passport_barcode_add_account_prompt">Per connettere un account, scansiona il codice QR dopo aver completato l\'accesso.</string>
     <string name="passport_can_not_receive_verification_code">"Non riesci a ricevere il codice di verifica?"</string>
@@ -837,7 +800,7 @@ Aggiorna prima Mi Video all'ultima versione."</string>
     <string name="passport_error_unknown">Errore sconosciuto</string>
     <string name="passport_error_user_agreement_error">Accettare i termini e le condizioni</string>
     <string name="passport_error_user_name">Il nome utente immesso non è valido</string>
-    <string name="passport_forget_password">&lt;u>Password dimenticata &lt;/u></string>
+    <string name="passport_forget_password">&lt;u&gt;Password dimenticata &lt;/u&gt;</string>
     <string name="passport_get_verify_code">Ottieni codice</string>
     <string name="passport_getting_verify_code">Attendi…</string>
     <string name="passport_identification_expired">Codice di verifica scaduto. Ricomincia da capo.</string>
@@ -881,8 +844,8 @@ Aggiorna prima Mi Video all'ultima versione."</string>
     <string name="passport_unknow_error">Siamo spiacenti, si è verificato un errore sconosciuto</string>
     <string name="passport_unknow_host_network_error">Controlla le tue impostazioni di rete e prova di nuovo</string>
     <string name="passport_unknow_network_error">Siamo spiacenti, si è verificato un errore di rete</string>
-    <string name="passport_user_agreement_link">"&lt;Data>Ho letto e accettato il &lt;a href=\"%1$s\">Contratto Utente&lt;/a> e&lt;a href=\"%2$s\">Informativa sulla Privacy&lt;/a>.&lt;/Data> Xiaomi"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data>Ho letto e accettato i seguenti documenti: &lt;a href=\"%1$s\">Contratto utente&lt;/a> e &lt;a href=\"%4$s\">Informativa sulla privacy di Xiaomi&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data>"</string>
+    <string name="passport_user_agreement_link">"&lt;Data&gt;Ho letto e accettato il &lt;a href=\"%1$s\"&gt;Contratto Utente&lt;/a&gt; e&lt;a href=\"%2$s\"&gt;Informativa sulla Privacy&lt;/a&gt;.&lt;/Data&gt; Xiaomi"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Ho letto e accettato i seguenti documenti: &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%4$s\"&gt;Informativa sulla privacy di Xiaomi&lt;/a&gt;, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;"</string>
     <string name="passport_user_id_intro">Accedi con %1$s</string>
     <string name="passport_v_code_error">Il codice di verifica non è corretto</string>
     <string name="passport_vcode_notification_title">La tua verifica di accesso è incompleta</string>
@@ -915,12 +878,15 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
     <string name="phone_number">Numero di telefono</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
-    <string name="pip">PiP</string>
+    <string name="playlist_create">Crea</string>
     <string name="playlist_detail_recomm_title">Playlist consigliate</string>
+    <string name="playlist_finish">Fatto</string>
     <string name="playlist_hot">Popolari</string>
     <string name="playlist_new">Nuovo</string>
     <string name="playlist_no_more">Nessun video qui</string>
+    <string name="playlist_no_videos">Nessun video</string>
     <string name="playlist_offline">Questa playlist non è più disponibile.</string>
+    <string name="playlist_remove">Rimuovi</string>
     <string name="playlist_title">Consigliati</string>
     <string name="playlist_view_more">Altre playlist</string>
     <string name="plus_add_shortcut">Crea scorciatoia sulla schermata Home</string>
@@ -960,7 +926,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="plus_player_detail_file_path">"Percorso: "</string>
     <string name="plus_player_detail_file_time">"Orario: "</string>
     <string name="plus_player_hide">Nascondi</string>
-    <string name="plus_player_pip">PiP</string>
     <string name="plus_player_pip_unsupport">"PiP non è supportato in questa versione del sistema."</string>
     <string name="plus_player_play_mode_auto">Riproduzione automatica</string>
     <string name="plus_player_play_mode_list">Ripeti tutto</string>
@@ -988,7 +953,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="plus_player_subtitle_local_add_success">Sottotitoli aggiunti correttamente</string>
     <string name="plus_player_subtitle_no_file">Nessun sottotitolo.</string>
     <string name="plus_player_subtitle_online">Sottotitoli online</string>
-    <string name="plus_player_subtitle_online_declare_content">"Stai per cercare &lt;br/>sottotitoli nel database &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>. &lt;br/>Tutti i sottotitoli sono forniti da &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>."</string>
+    <string name="plus_player_subtitle_online_declare_content">"Stai per cercare &lt;br/&gt;sottotitoli nel database &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;. &lt;br/&gt;Tutti i sottotitoli sono forniti da &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt;."</string>
     <string name="plus_player_subtitle_online_declare_title">Avviso</string>
     <string name="plus_player_subtitle_online_download_fail">"Download dei sottotitoli non riuscito"</string>
     <string name="plus_player_subtitle_online_download_start">Download dei sottotitoli…</string>
@@ -1001,7 +966,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="plus_player_video_not_support">"Questo formato video non è supportato."</string>
     <string name="plus_poster_reset_default">Ripristina la copertina predefinita</string>
     <string name="plus_properties_bit_rate">Velocità di trasmissione</string>
-    <string name="plus_properties_codec">Codec</string>
     <string name="plus_properties_date">Data</string>
     <string name="plus_properties_file">File</string>
     <string name="plus_properties_file_name">Nome file</string>
@@ -1043,7 +1007,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="plus_sort_type_time">Ora</string>
     <string name="plus_tab_gallery">Cartelle</string>
     <string name="plus_tab_time">Cronologia</string>
-    <string name="project_id">global-video-5cd70</string>
     <string name="psw_hint">Password</string>
     <string name="psw_sign_in">Accedi con password</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Tira verso l\'alto per aggiornare…</string>
@@ -1055,7 +1018,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="push_message_switch">Notifiche push</string>
     <string name="push_message_tips">Attiva per ricevere le notifiche push</string>
     <string name="pw_channels">Canali</string>
-    <string name="qq_application_id"></string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="read_and_agree">Accetto</string>
     <string name="recommend_channels">Canali consigliati</string>
@@ -1114,6 +1076,8 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="search_hot_words">Popolari</string>
     <string name="search_key_not_null">"Le richieste di ricerca non possono essere vuote"</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="search_result_download_error">"Impossibile scaricare"</string>
+    <string name="search_result_startdownload">Download in corso…</string>
     <string name="selectall">Seleziona tutto</string>
     <string name="selectnull">Deseleziona tutto</string>
     <string name="send_diagnosis_log">Invia log</string>
@@ -1160,6 +1124,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="srl_header_secondary">Rilascia Al Secondo Piano</string>
     <string name="srl_header_update">"'Ultimo aggiornamento' d-M HH:mm"</string>
     <string name="start_download_tip">Aggiunto alla coda. Controlla lo stato di avanzamento su Profilo e Download.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">Scheda SD</string>
     <string name="storage_internal_sdcard">Memoria interna</string>
     <string name="submit">Invia</string>
@@ -1174,7 +1139,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="sunday">Domenica</string>
     <string name="sure_to_logout">Disconnettersi ora?</string>
     <string name="switch_ratio_pause">La velocità di riproduzione è instabile. Ritorno alla velocità predefinita.</string>
-    <string name="symbol_rmb">¥</string>
     <string name="sync_favorites_limit">"Ci sono più di 500 video nei tuoi preferiti. Dovremo eliminare alcuni dei video precedenti per continuare la sincronizzazione."</string>
     <string name="sync_favorites_message">Sincronizzare i preferiti da questo dispositivo al tuo account? Gli elementi che non sono più disponibili verranno rimossi.</string>
     <string name="sync_favorites_title">Sincronizza i preferiti</string>
@@ -1235,7 +1199,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="user_avatar_uploading">Attendi…</string>
     <string name="user_id_hint">Email/Telefono</string>
     <string name="v_agree">Accetto</string>
-    <string name="v_app_name">Mi Video</string>
     <string name="v_cancel">Annulla</string>
     <string name="v_canceled">Annullato</string>
     <string name="v_click_to_retry">Riprova</string>
@@ -1258,7 +1221,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="v_selectall">Seleziona tutto</string>
     <string name="v_selectnull">Deseleziona tutto</string>
     <string name="v_set_password">Imposta password</string>
-    <string name="v_symbol_rmb">¥</string>
     <string name="v_txt_login">Accedi per sincronizzare i preferiti</string>
     <string name="v_update">Aggiorna</string>
     <string name="video_already_download_tip">"Questo elemento è già stato scaricato"</string>
@@ -1266,11 +1228,8 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="video_live_over">Questa sessione è terminata</string>
     <string name="video_noyet_download_tip">Questo video è ancora in fase di download</string>
     <string name="video_offline">Questo elemento non è più disponibile</string>
-    <string name="video_resolution_b_size_suffix">%.2f B</string>
     <string name="video_resolution_gb_size_suffix">%.2f GB</string>
     <string name="video_resolution_kb_size_suffix">%.2f KB</string>
-    <string name="video_resolution_mb_size_suffix">%.2f MB</string>
-    <string name="video_resolution_tag_suffix">%dP</string>
     <string name="view">Vedi</string>
     <string name="vp_VideoView_error_button">OK</string>
     <string name="vp_VideoView_error_text_unknown">Si è verificato un errore</string>
@@ -1283,12 +1242,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="vp_replay">Riproduci di nuovo</string>
     <string name="vp_upcoming_auto_play">Riproduzione automatica</string>
     <string name="vp_upcoming_title">A seguire</string>
-    <string name="wechat_application_id"></string>
-    <string name="wechat_scope"></string>
-    <string name="wechat_state"></string>
     <string name="wednesday">Mercoledì</string>
-    <string name="weibo_application_id"></string>
-    <string name="weibo_redirect_uri"></string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connessione al Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentazione versione %1$s

@@ -38,7 +38,7 @@
     <string name="account_crop_user_avatar">Ritaglia foto</string>
     <string name="account_empty_user_name">Inserisci il nome utente del tuo Mi Account</string>
     <string name="account_error_all_space_user_name">"\"Il nome utente non può contenere  spazi"</string>
-    <string name="account_error_invalid_user_name">"Il nome utente non può contenere: &lt;, >, o /"</string>
+    <string name="account_error_invalid_user_name">"Il nome utente non può contenere: &lt;, &gt;, o /"</string>
     <string name="account_error_longer_user_name">"Il nome utente non può essere più lungo di 20 caratteri"</string>
     <string name="account_error_shorter_user_name">Il nome deve essere più lungo di 2 caratteri</string>
     <string name="account_error_user_birthday">Il compleanno inserito non è valido</string>
@@ -114,7 +114,7 @@
     <string name="cancel_lockscreen">Annulla</string>
     <string name="cancel_network">Esci</string>
     <string name="carousel_declaration_btn_text">Attiva Sfondi Carousel</string>
-    <string name="carousel_declaration_cta">"Sfondi Carousel richiede una connessione ad Internet per funzionare normalmente. Per ottenere l'accesso ai contenuti online, è necessario concordare con la nostra &lt;a href='http://www.miui.com/res/doc/privacy/cn.html'>Informativa sulla Privacy&lt;/a>. Procedere?"</string>
+    <string name="carousel_declaration_cta">"Sfondi Carousel richiede una connessione ad Internet per funzionare normalmente. Per ottenere l'accesso ai contenuti online, è necessario concordare con la nostra &lt;a href='http://www.miui.com/res/doc/privacy/cn.html'&gt;Informativa sulla Privacy&lt;/a&gt;. Procedere?"</string>
     <string name="carousel_declaration_cta_btn_text">Accetta e attiva</string>
     <string name="carousel_declaration_des">Scopri i luoghi più belli e ottieni sorprese entusiasmanti con Sfondi Carousel</string>
     <string name="carousel_declaration_des2">Aggiungi le tue immagini personalizzate a Sfondi Carousel</string>
@@ -130,6 +130,7 @@
     <string name="change_time">Cambia sfondo</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d di %2$d</string>
     <string name="chip_text">Testo Chip</string>
     <string name="choose_to_signin">Si</string>
     <string name="choose_to_signup">"No, ne creerò uno"</string>
@@ -183,7 +184,7 @@
     <string name="cw_deleting">Elimina (%1$d/%2$d)</string>
     <string name="cw_local_pic">Galleria</string>
     <string name="cw_my_fav">Preferiti</string>
-    <string name="cw_permission_tip">Consenti a Sfondi Carousel di accedere alla memoria in Impostazioni > Impostazioni app.</string>
+    <string name="cw_permission_tip">Consenti a Sfondi Carousel di accedere alla memoria in Impostazioni &gt; Impostazioni app.</string>
     <string name="cw_wallpaper_empty_dlg_btn">Fatto</string>
     <string name="cw_wallpaper_empty_dlg_content">"Non hai aggiunto alcun elemento alla presentazione. Passaggio si consigliati."</string>
     <string name="cw_wallpaper_empty_dlg_title">Nessun elemento</string>
@@ -206,6 +207,7 @@
     <string name="detail_menu_history">Cronologia</string>
     <string name="detail_menu_home">Vai alla pagina iniziale</string>
     <string name="detail_menu_setting">Impostazioni dell\'app</string>
+    <string name="detail_menu_settingbtn_save">Salva in Galleria</string>
     <string name="detail_menu_settingbtn_setting">Impostazioni</string>
     <string name="detail_menu_settingbtn_share">Condividi</string>
     <string name="detail_menu_wall">"Gli sfondi di oggi"</string>
@@ -248,9 +250,6 @@ Invia questo codice al supervisore."</string>
     <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro MI account.</string>
     <string name="explorer_activity_title">Sfondi Carousel</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a tendina</string>
-    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-    <string name="facebook_application_id"></string>
     <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
     <string name="favor_list_no_data">Nessun elemento trovato.</string>
@@ -258,7 +257,6 @@ Invia questo codice al supervisore."</string>
     <string name="favor_success">Aggiunto con successo ai preferiti</string>
     <string name="feed_article_entrance_about">A proposito di \"%s\"</string>
     <string name="find_psw">Password dimenticata</string>
-    <string name="fixable_behavior">com.mfashiongallery.emag.app.detail.ui.FixableAppBarLayoutBehavior</string>
     <string name="for_diagnosis_usage_only">I log sono utilizzati solo per la diagnostica.</string>
     <string name="from_migallerylockscreen">Da Sfondi Carousel</string>
     <string name="get_account_no_permission">Consenti a Sfondi Carousel di accedere agli account su questo dispositivo prima di accedere.</string>
@@ -266,9 +264,7 @@ Invia questo codice al supervisore."</string>
     <string name="get_ph_ticket">Ottieni codice</string>
     <string name="get_phone_bind_exceed_limit">"È possibile associare fino a 3 Mi Account a un numero di telefono. Impossibile aggiungere nuovi account."</string>
     <string name="get_phone_verifycode_exceed_limit">Troppi codici di verifica sono stati inviati a questo numero. Attendere 24 ore e riprovare.</string>
-    <string name="google_application_id"></string>
     <string name="goto_sign_up">Crea account</string>
-    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="history_list_no_data">Nessun elemento trovato</string>
     <string name="hour_1">Ogni ora</string>
     <string name="hour_3">Ogni 3 ore</string>
@@ -326,7 +322,7 @@ Invia questo codice al supervisore."</string>
     <string name="llks_try_it">Prova</string>
     <string name="llks_whole_cate">Tutte le categorie</string>
     <string name="load_hdpicture_complete">Immagine originale caricata con successo</string>
-    <string name="loading">&lt;CDATA>Attendi&amp;#8230;&lt;/CDATA></string>
+    <string name="loading">&lt;CDATA&gt;Attendi&amp;#8230;&lt;/CDATA&gt;</string>
     <string name="local_default_category">Classificazione predefinita</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
@@ -345,7 +341,6 @@ Invia questo codice al supervisore."</string>
     <string name="main_fragment_title_search">Migliori</string>
     <string name="main_fragment_title_user">Impostazioni</string>
     <string name="manage">Gestisci</string>
-    <string name="marketSdkVersion">3.2.5</string>
     <string name="minutes_15">Ogni 15 minuti</string>
     <string name="minutes_5">Ogni 5 minuti</string>
     <string name="miui_clock_city_name_local">Dispositivo</string>
@@ -444,7 +439,7 @@ mm"</string>
     <string name="open_freq_title">Imposta frequenza aggiornamento sfondo</string>
     <string name="open_gallery">Carosello Sfondi</string>
     <string name="open_gallery_tips">Tocca qui per attivare il Carosello Sfondi</string>
-    <string name="open_guid_des">Vai su Impostazioni > Permessi > Altri permessi > Sfondi Carousel e fornisci tutti i necessari permessi all\'app</string>
+    <string name="open_guid_des">Vai su Impostazioni &gt; Permessi &gt; Altri permessi &gt; Sfondi Carousel e fornisci tutti i necessari permessi all\'app</string>
     <string name="open_sub_title">Seleziona categorie</string>
     <string name="open_title">Sfondi Carousel</string>
     <string name="open_unable">"Sfondi Carousel funziona solo con la Schermata di blocco predefinita della MIUI."</string>
@@ -455,7 +450,6 @@ mm"</string>
     <string name="passport_account_name">"Account: %1$s"</string>
     <string name="passport_activate_token_expired">Codice dii verifica scaduto. Perfavore riprova.</string>
     <string name="passport_area_code_title">Codice regionale</string>
-    <string name="passport_auth_title"></string>
     <string name="passport_bad_authentication">Nome utente o password non validi</string>
     <string name="passport_barcode_add_account_prompt">Per connettere un account, scansiona il codice QR dopo aver completato l\'accesso.</string>
     <string name="passport_can_not_receive_verification_code">"Non riesci a ricevere il codice di verifica?"</string>
@@ -483,7 +477,7 @@ mm"</string>
     <string name="passport_error_unknown">Errore sconosciuto</string>
     <string name="passport_error_user_agreement_error">Accettare i termini e le condizioni</string>
     <string name="passport_error_user_name">Il nome utente immesso non è valido</string>
-    <string name="passport_forget_password">&lt;u>Password dimenticata &lt;/u></string>
+    <string name="passport_forget_password">&lt;u&gt;Password dimenticata &lt;/u&gt;</string>
     <string name="passport_get_verify_code">Ottieni codice</string>
     <string name="passport_getting_verify_code">Attendi…</string>
     <string name="passport_identification_expired">Codice di verifica scaduto. Ricomincia da capo.</string>
@@ -527,8 +521,8 @@ mm"</string>
     <string name="passport_unknow_error">Siamo spiacenti, si è verificato un errore sconosciuto</string>
     <string name="passport_unknow_host_network_error">Verifica le impostazioni di rete e riprova</string>
     <string name="passport_unknow_network_error">Siamo spiacenti, si è verificato un errore di rete</string>
-    <string name="passport_user_agreement_link">"&lt;Data>Ho letto e accettato il &lt;a href=%1$s>Contratto Utente&lt;/a> e&lt;a href=%2$s>Informativa sulla Privacy&lt;/a>.&lt;/Data> Xiaomi"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data>Ho letto e accettato i seguenti documenti: &lt;a href=%1$s>Contratto Utente&lt;/a> e &lt;a href=%4$s>Informativa sulla Privacy&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data> Xiaomi"</string>
+    <string name="passport_user_agreement_link">"&lt;Data&gt;Ho letto e accettato il &lt;a href=%1$s&gt;Contratto Utente&lt;/a&gt; e&lt;a href=%2$s&gt;Informativa sulla Privacy&lt;/a&gt;.&lt;/Data&gt; Xiaomi"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data&gt;Ho letto e accettato i seguenti documenti: &lt;a href=%1$s&gt;Contratto Utente&lt;/a&gt; e &lt;a href=%4$s&gt;Informativa sulla Privacy&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt; Xiaomi"</string>
     <string name="passport_user_id_intro">Accedi con %1$s</string>
     <string name="passport_v_code_error">Il codice di verifica non è corretto</string>
     <string name="passport_vcode_notification_title">La tua verifica di accesso è incompleta</string>
@@ -542,10 +536,6 @@ mm"</string>
     <string name="passport_wrong_vcode">Il codice inserito non è corretto</string>
     <string name="passport_wrong_voice">Il codice immesso non è corretto</string>
     <string name="password_toggle_content_description">Mostra password</string>
-    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="permission_account_tip">Accesso alle informazioni dell\'account</string>
     <string name="permission_storage_read_tip">Accesso alle foto memorizzate sul dispositivo</string>
     <string name="permission_storage_tip">Salva elementi scaricati sul dispositivo</string>
@@ -560,9 +550,9 @@ mm"</string>
     <string name="platform_unavailable_wechatmoment">Installa WeChat</string>
     <string name="platform_unavailable_weibo">Installa Weibo</string>
     <string name="privacy_setting">Impostazioni sulla privacy</string>
-    <string name="prv_end">&lt;CDATA>\"Questo è tutto per ora.\"&lt;/CDATA></string>
-    <string name="prv_loading">&lt;CDATA>Solo un secondo&amp;#8230;&lt;/CDATA></string>
-    <string name="prv_nodata">&lt;CDATA>Nessun dato&lt;/CDATA></string>
+    <string name="prv_end">&lt;CDATA&gt;\"Questo è tutto per ora.\"&lt;/CDATA&gt;</string>
+    <string name="prv_loading">&lt;CDATA&gt;Solo un secondo&amp;#8230;&lt;/CDATA&gt;</string>
+    <string name="prv_nodata">&lt;CDATA&gt;Nessun dato&lt;/CDATA&gt;</string>
     <string name="psw_hint">Password</string>
     <string name="psw_sign_in">Accedi con password</string>
     <string name="pull_to_refresh_loading_label">Attendi…</string>
@@ -570,7 +560,6 @@ mm"</string>
     <string name="pull_to_refresh_pull_up_label">Tira verso l\'alto per aggiornare</string>
     <string name="pull_to_refresh_refreshing_label">Ricarica…</string>
     <string name="pull_to_refresh_release_label">Rilascia per aggiornare</string>
-    <string name="qq_application_id"></string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="recommend_switch_desc">Ricevi consigli sui contenuti in base alle tue preferenze</string>
     <string name="recommend_switch_dlg_close">Disattiva</string>
@@ -591,7 +580,7 @@ mm"</string>
     <string name="restart_phone_bind_message">È necessario un po\' di tempo per la ricezione dell\'SMS, sei sicuro di voler cambiare il recapito telefonico di ripristino?</string>
     <string name="restart_phone_bind_title">Modifica il numero di telefono di ripristino</string>
     <string name="rv_with_footer_empty">Nessun elemento trovato.</string>
-    <string name="rv_with_footer_loading">&lt;CDATA>Solo un secondo&amp;#8230;&lt;/CDATA></string>
+    <string name="rv_with_footer_loading">&lt;CDATA&gt;Solo un secondo&amp;#8230;&lt;/CDATA&gt;</string>
     <string name="rv_with_footer_pull_load_more">Tira verso il basso per mostrare altro</string>
     <string name="same_new_and_old_pwd">"Non può essere identica alla password attuale"</string>
     <string name="save_hdpicture_in_favor">Visualizza immagini HD in \"Preferiti\"</string>
@@ -618,7 +607,7 @@ mm"</string>
     <string name="set_success">Modificato correttamente</string>
     <string name="setting_about_item_des">Versione</string>
     <string name="setting_about_item_title">A proposito di Wallpaper Carousel</string>
-    <string name="setting_des">Puoi impostare la tua presentazione su Impostazioni > Schermata di blocco e password > Sfondi Carousel</string>
+    <string name="setting_des">Puoi impostare la tua presentazione su Impostazioni &gt; Schermata di blocco e password &gt; Sfondi Carousel</string>
     <string name="setting_head">Impostazioni</string>
     <string name="setting_ok">Impostazioni</string>
     <string name="setting_tip">"Non mostrare nuovamente"</string>
@@ -712,6 +701,7 @@ mm"</string>
     <string name="sst_wallpaper_history_title">Cronologia</string>
     <string name="sst_wifi_only_desc">Disattiva per aggiornare gli sfondi solo mediante Wi-Fi</string>
     <string name="sst_wifi_only_title">Aggiorna gli sfondi utilizzando i dati mobili</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_wallpaper_loop_not_start">Spenta</string>
     <string name="status_wallpaper_loop_start">Attivata</string>
     <string name="subscribe_apply_wp">Sfondo schermata di blocco applicato correttamente</string>
@@ -731,9 +721,9 @@ mm"</string>
     <string name="subscribe_success_content_per_three_hour">Cambia lo sfondo ogni 3 ore</string>
     <string name="subscribe_success_content_per_unlock">Cambia sfondo ogni volta che il dispositivo è bloccato</string>
     <string name="subscribe_update_time_setting">Imposta un intervallo diverso</string>
-    <string name="summary">"Concorda con la nostra &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Informativa sulla Privacy&lt;/a> per visualizzare i contenuti online. Se non concorderai, potrai comunque usufruire degli sfondi locali."</string>
-    <string name="summary2">"Utilizzando questa funzione, concorderai con il ​​nostro &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Accordo Utente&lt;/a> e &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Informativa sulla Privacy&lt;/a>. Questa funzionalità necessiterà di una connessione ad Internet per funzionare normalmente.​"</string>
-    <string name="summary_international">"Utilizzando questa funzione, concorderai con il ​​nostro &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Accordo Utente&lt;/a> e &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Informativa sulla Privacy&lt;/a>. Questa funzionalità necessiterà di una connessione ad Internet per funzionare normalmente.​"</string>
+    <string name="summary">"Concorda con la nostra &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Informativa sulla Privacy&lt;/a&gt; per visualizzare i contenuti online. Se non concorderai, potrai comunque usufruire degli sfondi locali."</string>
+    <string name="summary2">"Utilizzando questa funzione, concorderai con il ​​nostro &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Accordo Utente&lt;/a&gt; e &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Informativa sulla Privacy&lt;/a&gt;. Questa funzionalità necessiterà di una connessione ad Internet per funzionare normalmente.​"</string>
+    <string name="summary_international">"Utilizzando questa funzione, concorderai con il ​​nostro &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Accordo Utente&lt;/a&gt; e &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Informativa sulla Privacy&lt;/a&gt;. Questa funzionalità necessiterà di una connessione ad Internet per funzionare normalmente.​"</string>
     <string name="sure_close_gallery">Disattivare Carosello Sfondi?</string>
     <string name="sure_close_gallery_des">"Non sarai in grado di ricevere nuove immagini sulla schermata Home e sulla schermata di blocco se si disattiva il Carosello Sfondi. Disattivarlo comunque?"</string>
     <string name="system_default">Predefinita</string>
@@ -788,11 +778,6 @@ mm"</string>
     <string name="wallpaper">Sfondo</string>
     <string name="wallpaper_feed_title">Potrebbe piacerti anche</string>
     <string name="wallpaper_relations_title">Consigliato</string>
-    <string name="wechat_application_id"></string>
-    <string name="wechat_scope"></string>
-    <string name="wechat_state"></string>
-    <string name="weibo_application_id"></string>
-    <string name="weibo_redirect_uri"></string>
     <string name="wlan_download">Aggiorna solo tramite Wi-Fi</string>
     <string name="wlan_download_cn">Aggiorna solo tramite Wi-Fi</string>
     <string name="wm_storage_left">"Rimanente: "</string>
@@ -802,5 +787,4 @@ mm"</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Annulla</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ok</string>
     <string name="xiaomi_market_sdk_update_dialog_title">%s nuova versione</string>
-    <string name="xw_subscribe"></string>
 </resources>

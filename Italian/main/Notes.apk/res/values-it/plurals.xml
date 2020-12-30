@@ -96,6 +96,14 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">Trovate %1$s note</item>
+        <item quantity="one">Trovata %1$s nota</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">Trovate %1$s attività</item>
+        <item quantity="one">Trovato %1$s attività</item>
+    </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d secondi rimanenti</item>
         <item quantity="one">%d secondo rimanente</item>

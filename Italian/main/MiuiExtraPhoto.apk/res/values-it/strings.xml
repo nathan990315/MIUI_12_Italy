@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="cancel">Annulla</string>
     <string name="doc_photo_adjust_section_title">Trascina per regolare</string>
     <string name="doc_photo_cancel">Cancella</string>
     <string name="doc_photo_confirm">Esci</string>
@@ -13,11 +14,11 @@
     <string name="doc_photo_idcard_portrait">Fronte</string>
     <string name="doc_photo_not_support">"Impossibile modificare l'immagine come documento"</string>
     <string name="doc_photo_view_effect">Anteprima</string>
+    <string name="exit_alert_msg">Tutte le modifiche non salvate andranno perse.</string>
+    <string name="exit_alert_title">Vuoi annullare le modifiche?</string>
     <string name="extra_photo_common_permission_name">Sfocato</string>
     <string name="extra_photo_common_save_fail">"Impossibile salvare"</string>
     <string name="extra_photo_common_saving">Salvataggio…</string>
-    <string name="extra_photo_common_transition_image_view">tag_transition_view</string>
-    <string name="extra_photo_common_transition_menu_view">tag_transition_view_menu</string>
     <string name="motion_photo_cancel">Annulla</string>
     <string name="motion_photo_re_pick_title">Foto Dinamiche</string>
     <string name="motion_photo_save_fail">"Impossibile salvare"</string>
@@ -30,11 +31,36 @@
     <string name="motion_photo_toast_default">Predefinito</string>
     <string name="motion_photo_toast_long_press_play">Premi e tieni premuta la foto per riprodurla</string>
     <string name="motion_photo_toast_suggest">Consigliate</string>
+    <string name="ok">OK</string>
     <string name="refocus_discard_confirm_message">Salvare i cambiamenti?</string>
     <string name="refocus_discard_negative_btn">Annulla</string>
     <string name="refocus_discard_positive_btn">Salva</string>
+    <string name="refocus_dynamic_luoxuan">Vortice</string>
+    <string name="refocus_dynamic_tongxin">Abbraccia</string>
+    <string name="refocus_dynamic_xiantiao">Linee</string>
+    <string name="refocus_dynamic_xingxing">Stelle</string>
+    <string name="refocus_dynamic_xinxing">Cuori</string>
+    <string name="refocus_dynamic_yuanxing">Cerchi</string>
+    <string name="refocus_movie_banlan">Motley</string>
+    <string name="refocus_movie_caihong">Arcobaleno</string>
+    <string name="refocus_movie_huaijiu">Nostalgia</string>
+    <string name="refocus_movie_lanshan">Decadenza</string>
+    <string name="refocus_movie_meiying">Fantasma</string>
+    <string name="refocus_movie_mengjing">Dreamland</string>
+    <string name="refocus_movie_niying">Neon</string>
+    <string name="refocus_movie_xuanying">Beams</string>
+    <string name="refocus_movie_yanhong">Scarlatto</string>
+    <string name="refocus_none">Nessuno</string>
     <string name="refocus_photo_not_support">"Impossibile applicare sfocatura a questa foto"</string>
+    <string name="refocus_relighting_baiyechuang">Oscuro</string>
+    <string name="refocus_relighting_bodian">Onde</string>
+    <string name="refocus_relighting_caihong">Arcobaleno</string>
+    <string name="refocus_relighting_dianying">Film</string>
+    <string name="refocus_relighting_sahongjie">Holi</string>
+    <string name="refocus_relighting_shuye">Foglie</string>
     <string name="refocus_relighting_toast">Muovi il cerchio per modificare l\'angolo di illuminazione</string>
+    <string name="refocus_relighting_wutai">Fase</string>
+    <string name="refocus_relighting_ziran">Naturale</string>
     <string name="refocus_save_cancel">Annulla</string>
     <string name="refocus_save_title">Seleziona formato</string>
     <string name="refocus_save_to_photo">Salva come immagine</string>

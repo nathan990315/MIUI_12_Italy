@@ -40,6 +40,18 @@
         <item quantity="other">Eliminare %1$d contatti?</item>
         <item quantity="one">Eliminare %1$d contatto?</item>
     </plurals>
+    <plurals name="bh_day">
+        <item quantity="other">" giorni"</item>
+        <item quantity="one">" giorno"</item>
+    </plurals>
+    <plurals name="bh_hour">
+        <item quantity="other">" ore"</item>
+        <item quantity="one">" ora"</item>
+    </plurals>
+    <plurals name="bh_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Elimina %1$d contatti</item>
         <item quantity="one">Elimina %1$d contatto</item>
@@ -47,6 +59,14 @@
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">ha squillato %1$d volte</item>
         <item quantity="one">ha squillato %1$d volta</item>
+    </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d numeri di telefono</item>
+        <item quantity="one">%d numero di telefono</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Eliminare %d numeri di telefono?</item>
+        <item quantity="one">Eliminare %d numero di telefono?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%1$d contatti non sono stati sincronizzati"</item>
@@ -148,10 +168,6 @@
         <item quantity="other">%1$d contatti con info parzialmente identiche</item>
         <item quantity="one">%1$d contatto con info parzialmente identiche</item>
     </plurals>
-    <plurals name="merge_info">
-        <item quantity="other">uniti da %0$d origini</item>
-        <item quantity="one">non uniti</item>
-    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other"> %1$d selezionati</item>
         <item quantity="one"> %1$d selezionato</item>
@@ -160,17 +176,9 @@
         <item quantity="other">%1$d persone di %2$s</item>
         <item quantity="one">%1$d persona di %2$s</item>
     </plurals>
-    <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d gruppi</item>
-        <item quantity="one">1 gruppo</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
-    </plurals>
-    <plurals name="number_of_items_available">
-        <item quantity="other">%1$d rimanenti</item>
-        <item quantity="one">%1$d rimanente</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d selezionati</item>
@@ -195,6 +203,10 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d trovati</item>
         <item quantity="one">1 trovato</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s risultati</item>
+        <item quantity="one">%s risultato</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">"Seleziona non più di %1$d, impossibile selezionare tutto"</item>
