@@ -33,6 +33,7 @@
     <string name="action_mode_switcher_grid_description">Griglia</string>
     <string name="action_mode_switcher_list_description">Lista</string>
     <string name="action_settings_description">Apri le Impostazioni</string>
+    <string name="action_to_link">Apri URL</string>
     <string name="actionbar_button_up_description">indietro</string>
     <string name="actionbar_close_description">Chiudi</string>
     <string name="actionbar_home_description">Indietro</string>
@@ -41,6 +42,7 @@
     <string name="alarm_bar_title">Promemoria</string>
     <string name="alert_action_edit_anyway">Continua la modifica</string>
     <string name="alert_message_delete">Eliminare %1$s?</string>
+    <string name="alert_message_delete_excerpt">Eliminare questa nota? Anche l\'estratto verrà eliminato.</string>
     <string name="alert_message_delete_note">Sicuro di voler eliminare questa nota?</string>
     <string name="alert_message_edit_anyway">Se si modifica questa nota alcuni dei suoi contenuti andranno persi.</string>
     <string name="alert_message_restore">"Impossibile aprire questa nota. Ripristina per modificarne il contenuto."</string>
@@ -57,6 +59,7 @@
     <string name="application_icon">Icona app</string>
     <string name="audio_create_normal_state">Rilascia per creare. Scorri verso l\'alto per annullare.</string>
     <string name="audio_create_will_cancel_state">Rilascia per annullare</string>
+    <string name="audio_panel_time_counter_default">00:00</string>
     <string name="audio_toast_file_invalid">File audio non valido</string>
     <string name="audio_toast_file_undownload">"Il file audio non è stato completamente scaricato o risulta mancante"</string>
     <string name="audio_toast_network_is_not_available">"Impossibile connettersi alla rete"</string>
@@ -138,6 +141,8 @@
     <string name="cloud_trash_bin_title">Elimina le note su Mi Cloud</string>
     <string name="confirm_cancel">"Non accetto"</string>
     <string name="confirm_ok">Accetto</string>
+    <string name="continuous_default_hint">Copia testo, salva immagini e screenshot come estratti</string>
+    <string name="continuous_new_excerpt_title">Nuovo estratto</string>
     <string name="copy">Copia</string>
     <string name="cta_agree_desc">Consenti a questa applicazione di connettersi ad internet e concedi le autorizzazioni facoltative per poter utilizzare tutte le sue funzionalità.</string>
     <string name="cta_confirm_cancel">"Non consentire"</string>
@@ -192,9 +197,29 @@
     <string name="dlg_update_update_now">Aggiorna</string>
     <string name="done">Fatto</string>
     <string name="doodle_action_hide_tool_panel">Nascondi strumenti</string>
+    <string name="doodle_background_white">Bianco</string>
     <string name="doodle_brush_config_alpha">Opacità tratto</string>
     <string name="doodle_brush_config_width_level">Spessore tratto</string>
+    <string name="doodle_brush_pencil">Matita</string>
+    <string name="doodle_brush_watercolor">Acquerello</string>
+    <string name="doodle_feature">Scarabocchi</string>
+    <string name="doodle_guide_brush_config_hint">Tocca di nuovo per regolare lo spessore del tratto e l\'opacità</string>
+    <string name="doodle_guide_dialog_confirm">OK</string>
+    <string name="doodle_guide_dialog_skip">Salta</string>
+    <string name="doodle_guide_dialog_title">Disegno</string>
+    <string name="doodle_guide_quick_shape_hint" formatted="false">Tieni premuto lo schizzo per %d–%d secondi per regolare automaticamente i tratti</string>
+    <string name="doodle_palette">Tavolozza colori</string>
+    <string name="doodle_saving">Salvataggio</string>
+    <string name="doodle_setting_show_grid_background">Griglia di disegno</string>
+    <string name="doodle_setting_show_grid_background_desc">Mostra la Griglia per il disegno</string>
+    <string name="doodle_tool_background">Cambia superficie</string>
+    <string name="doodle_tool_eraser">Gomma</string>
     <string name="doodle_tool_eraser_element_mode">Gomma</string>
+    <string name="doodle_tool_eraser_pixel_mode">Elimina pixel</string>
+    <string name="doodle_tool_picture">Aggiungi immagine</string>
+    <string name="doodle_tool_text">Aggiungi testo</string>
+    <string name="doodle_tool_text_dialog_hint">Inserisci testo</string>
+    <string name="doodle_tool_text_hint">Tocca per inserire il testo</string>
     <string name="early_morning">AM</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -228,8 +253,16 @@
     <string name="error_widget_exist_for_send_to_desktop">Questa nota è già presente sulla Home</string>
     <string name="evening">PM</string>
     <string name="exceed_todo_text_limitation">La descrizione dell\'attività è troppo lunga.</string>
+    <string name="excerpt">Crea un estratto</string>
+    <string name="excerpt_bubble_tips">Il testo copiato e le immagini verranno salvate nelle Note</string>
+    <string name="excerpt_link_bubble_tips">Tocca per salvare nelle Note</string>
+    <string name="excerpt_note">I miei estratti</string>
+    <string name="excerpted_to_note">Estratto salvato in Note</string>
+    <string name="excerpting">Crea un estratto…</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="first_enter_custom_folder_hint">Puoi rinominare o eliminare le cartelle</string>
+    <string name="float_note_empty">Nessuna nota qui</string>
+    <string name="float_note_title">Note</string>
     <string name="float_todo_guide_cancel">Ferma</string>
     <string name="float_todo_guide_message">Il collegamento sulla schermata Home consente di scorrere dal bordo dello schermo per visualizzare e creare attività. Crearla ora?</string>
     <string name="float_todo_guide_message_v2">Il gesto consente di visualizzare e creare attività scorrendo dal bordo dello schermo. Puoi attivare e disattivare questa funzione nelle Impostazioni.</string>
@@ -295,6 +328,7 @@
     <string name="force_touch_menu_add">Aggiungi nota</string>
     <string name="format_move_note_out_folder">Spostato fuori</string>
     <string name="format_move_note_to_folder">Spostato in %1$s</string>
+    <string name="frequently_click_tips">Troppo veloce! Aspetta un minuto o due e riprova.</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">V</string>
@@ -323,6 +357,7 @@
     <string name="image_action_zoom_in">Aumenta zoom</string>
     <string name="image_action_zoom_out">Riduci zoom</string>
     <string name="info_note_enter_desktop">Nota inserita sulla Home</string>
+    <string name="last_excerpt_unfinish_hint">L\'ultimo estratto è incompleto</string>
     <string name="loading_text">Attendi…</string>
     <string name="login_sync">Accedi e sincronizza</string>
     <string name="lunar_day">Lunare %1$s</string>
@@ -340,7 +375,9 @@
     <string name="menu_more_description">Altro</string>
     <string name="menu_move_parent_folder">Cartella precedente</string>
     <string name="menu_move_to">Sposta in</string>
+    <string name="menu_new_display_open">Apri in una nuova finestra</string>
     <string name="menu_new_folder">Nuova cartella</string>
+    <string name="menu_pc_open">Apri nel computer</string>
     <string name="menu_restore">Ripristina</string>
     <string name="menu_send_as_image">Invia come immagine</string>
     <string name="menu_send_as_text">Invia come testo</string>
@@ -354,6 +391,7 @@
     <string name="menu_unhide">Mostra</string>
     <string name="menu_unstick">Rimuovi spilla</string>
     <string name="merge_to_folder">Crea una cartella</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="midnight">AM</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
@@ -435,6 +473,7 @@
     <string name="note_gesture_guide_step1">Tieni premuto + per creare una nota vocale</string>
     <string name="note_gesture_guide_step2">Premi e tieni premuta una nota e poi trascinala su un\'altra nota per creare una cartella</string>
     <string name="note_gesture_guide_step3">Tieni premuta una nota e poi trascinala su una cartella per spostare la nota lì</string>
+    <string name="note_header_first_enter_guide">Tira verso il basso per mostrare altro</string>
     <string name="note_link_email">Invia email</string>
     <string name="note_link_other">Apri Mappa</string>
     <string name="note_link_select">Seleziona testo link</string>
@@ -443,6 +482,7 @@
     <string name="note_sort_way">Ordinamento note</string>
     <string name="notealert_enter">Controlla</string>
     <string name="notealert_ok">Ignora</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">"Note è un'app di sistema. Non potrai utilizzare questa app dopo averla disinstallata."</string>
     <string name="notes_description_title">Disinstallare Note?</string>
     <string name="notification_content_add_todo_from_other_app">Hai aggiunto una nuova attività. Tocca per vederla.</string>
@@ -485,14 +525,17 @@
     <string name="pm">PM</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Non chiedere conferme quando si eliminano note con una gesture</string>
     <string name="pref_desc_todo_float_mode">Scorri dal bordo dello schermo per aprire la finestra attività</string>
+    <string name="pref_excerpt_link_float">Ricevi un promemoria per creare un estratto ogni volta che viene copiato un URL</string>
     <string name="pref_remind_type_summary">Riproduci promemoria in modalità silenziosa</string>
     <string name="pref_remind_type_summary_new">Ignora la modalità silenziosa e continua a riprodurre il suono fino a quando la sveglia non viene disattivata</string>
     <string name="pref_remind_type_title">Ignora modalità silenziosa</string>
     <string name="pref_remind_type_title_new">Promemoria ad Alta Priorità</string>
     <string name="pref_title_cloud_trash_bin">Elimina note dal Mi Cloud</string>
     <string name="pref_title_common">Impostazioni aggiuntive</string>
+    <string name="pref_title_excerpt_remind">Promemoria estratti</string>
     <string name="pref_title_font_size">Dimensione testo</string>
     <string name="pref_title_note_style">Stile note</string>
+    <string name="pref_title_quick_note">Note veloci</string>
     <string name="pref_title_show_root_folder_in_homepage">Mostra le note veloci nella home</string>
     <string name="pref_title_skip_confirm_for_quick_delete">Elimina rapidamente</string>
     <string name="pref_title_todo_float_mode">Usa finestra attività</string>
@@ -501,6 +544,8 @@
     <string name="privacy_note_content_empty">Nessun contenuto.</string>
     <string name="private_entry_available">Rilascia per aprire la cartella privata</string>
     <string name="private_entry_default">Scorri verso il basso per aprire la cartella privata</string>
+    <string name="quick_note_link_default_text">URL</string>
+    <string name="quick_note_new_user_guide">Le note rapide consentono di creare note ed estratti</string>
     <string name="recover_notes_hint">Rilevati dati anomali nella nota, prova a recuperarla su <b>i.mi.com</b></string>
     <string name="redo">Ripristina</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Attendi fino a che la nota non sarà stata caricata e riprova.</string>
@@ -541,6 +586,7 @@
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">S</string>
+    <string name="save_single_excerpt">Salva</string>
     <string name="save_to_gallery_failure_message">"Impossibile salvare nella Galleria"</string>
     <string name="save_to_gallery_icon_name">Salva nella Galleria</string>
     <string name="save_to_gallery_success_message">Immagine salvata correttamente nella Galleria</string>
@@ -555,6 +601,8 @@
     <string name="set_alarm_description">Imposta sveglia</string>
     <string name="setting_other">ALTRO</string>
     <string name="setting_privacy">Informativa sulla Privacy</string>
+    <string name="single_link_excerpt_saving">Salvataggio elementi…</string>
+    <string name="single_new_excerpt_title">Estratti</string>
     <string name="snippet_audio_stub">Nota Vocale</string>
     <string name="snippet_image_stub">Nota con immagine</string>
     <string name="snippet_image_template">[Image %1$s]</string>
@@ -672,6 +720,10 @@
     <string name="time_picker_label_hour">O</string>
     <string name="time_picker_label_minute">Min</string>
     <string name="toast_cancel_to_insert_image">"Annulla per inserire immagini."</string>
+    <string name="toast_excerpt_end">Estratto creato con successo</string>
+    <string name="toast_excerpt_no_content">Nessun estratto qui</string>
+    <string name="toast_excerpt_open_note">Aperta nota con l\'estratto</string>
+    <string name="toast_excerpt_saved">Salvataggio estratto nelle Note…</string>
     <string name="toast_message_add_image_fail">"Impossibile inserire immagine."</string>
     <string name="toast_notes_delete_success">Eliminate correttamente</string>
     <string name="toast_notes_hidden_edit">Questa nota è stata nascosta. Tira verso il basso per visualizzare le note nascoste.</string>
@@ -692,6 +744,7 @@ Consenti di leggere i contenuti della tua scheda SD."</string>
 Consenti di leggere di leggere lo stato del telefono e l'identità."</string>
     <string name="toast_refuse_to_use_record_audio">"I permessi del microfono sono ristretti.
 Consenti di registrare audio."</string>
+    <string name="toast_refuse_to_use_storage_in_excerpt">Consenti alle Note di accedere alla memoria per poter aggiungere immagini alle tue note</string>
     <string name="today">Oggi</string>
     <string name="todo_alert_title_delete">Elimina le attività completate</string>
     <string name="todo_custom_remind_tag_pattern_with_md">dd/MM HH:mm</string>
@@ -775,11 +828,13 @@ Consenti di registrare audio."</string>
     <string name="unknown_source">Fonte sconosciuta</string>
     <string name="v7_preference_off">Disattivato</string>
     <string name="v7_preference_on">Attivato</string>
+    <string name="view_all_notes">Mostra tutto</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">M</string>
     <string name="widget_content_loading">Attendi…</string>
     <string name="widget_havenot_content">Nessuna nota associata trovata, premere per crearne una.</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Non adesso</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>

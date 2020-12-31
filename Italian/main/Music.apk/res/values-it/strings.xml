@@ -66,6 +66,7 @@
     <string name="ad_setting">Impostazioni AD</string>
     <string name="add_music">Aggiungi brani</string>
     <string name="add_to_last_of_playlist">Aggiungi alla fine della playlist.</string>
+    <string name="add_to_playlist">Aggiungi alla coda</string>
     <string name="add_to_playlist_successful">Aggiunto correttamente</string>
     <string name="added_next_play">Aggiunto alla prossima riproduzione</string>
     <string name="afternoon">PM</string>
@@ -75,6 +76,7 @@
     <string name="album_cover">Copertina album</string>
     <string name="album_is_empty">Il nome dell\'album non può essere vuoto.</string>
     <string name="album_label">Album</string>
+    <string name="album_name">Album</string>
     <string name="all_album_count">Tutti gli album (%d)</string>
     <string name="all_albums">Tutti gli album</string>
     <string name="all_artists">Tutti gli artisti</string>
@@ -89,6 +91,7 @@
     <string name="always_use_metered">Utilizza sempre i dati mobili</string>
     <string name="am">AM</string>
     <string name="app_label">Download</string>
+    <string name="app_name">Preferenze</string>
     <string name="app_permission_confirm">Ho capito</string>
     <string name="app_permission_optional">Permessi opzionali </string>
     <string name="app_permission_require">Permessi obbligatori </string>
@@ -124,6 +127,7 @@
     <string name="avoid_to_use_traffic_title">Mostra un avviso nel caso vengano utilizzati i dati mobili per riprodurre i brani</string>
     <string name="back">indietro</string>
     <string name="back_confirm">Tocca ancora per uscire</string>
+    <string name="banner_op">Musica Mi</string>
     <string name="bluetooth_device">Dispositivo Bluetooth</string>
     <string name="btn_text_edit">Modifica</string>
     <string name="buffering">Buffer in corso…</string>
@@ -140,6 +144,9 @@
     <string name="change_download_quality">Modifica qualità download</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_pattern">%1$d di %2$d</string>
+    <string name="chart_first_song">1.%s</string>
+    <string name="chart_second_song">2.%s</string>
+    <string name="chart_third_song">3.%s</string>
     <string name="checking_new_version">Ricerca aggiornamenti…</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -225,6 +232,7 @@
     <string name="columbus_player_close_video">CHIUDI IL VIDEO</string>
     <string name="columbus_player_install_now">INSTALLA ORA</string>
     <string name="columbus_player_learn_more">Scopri di più</string>
+    <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Attiva</string>
     <string name="common_google_play_services_enable_text">"%1$s non funzionerà se non attiverai i servizi di Google Play."</string>
     <string name="common_google_play_services_enable_title">Attiva i servizi di Google Play</string>
@@ -249,7 +257,9 @@
     <string name="connecting_apk">Connessione...</string>
     <string name="copy">Copia</string>
     <string name="count_format">%2$1.1fK</string>
+    <string name="count_format_float">%2$1.1fK</string>
     <string name="count_million_format">%2$1.2fM</string>
+    <string name="count_million_format_float">%2$1.1fM</string>
     <string name="create_playlist">Crea playlist</string>
     <string name="create_playlist_failure">"Impossibile creare la playlist"</string>
     <string name="create_playlist_input_hint">Inserisci il nome della playlist</string>
@@ -280,6 +290,7 @@
     <string name="desktop_lyric_setting_summary">Mostra il testo sulla Home</string>
     <string name="desktop_lyric_setting_title">Testi sulla Home</string>
     <string name="desktop_lyric_textsize">Testo</string>
+    <string name="develop_mode">Modalità sviluppatore</string>
     <string name="device_connected">Connesso</string>
     <string name="device_not_connected">Non connesso</string>
     <string name="dialog_cannot_resume">"Download interrotto. Non può essere ripreso."</string>
@@ -292,6 +303,7 @@
     <string name="dialog_insufficient_space_on_cache">"Impossibile completare il download. Spazio insufficiente sulla memoria interna."</string>
     <string name="dialog_insufficient_space_on_external">"Impossibile completare il download. Spazio insufficiente sulla memoria esterna."</string>
     <string name="dialog_media_not_found">"Impossibile scaricare. Il supporto esterno non è disponibile."</string>
+    <string name="dialog_message_unfollow">Smettere di seguire questa persona?</string>
     <string name="dialog_my_playlist_online_changed_merge">Mantieni</string>
     <string name="dialog_my_playlist_online_changed_message">Sembra che questa playlist sia cambiata. Puoi sostituirla con la nuova versione o mantenere la vecchia.</string>
     <string name="dialog_my_playlist_online_changed_replace">Sostituisci</string>
@@ -319,6 +331,7 @@
     <string name="dialog_song_view_type_artist">Per artista</string>
     <string name="dialog_song_view_type_folder">Per cartella</string>
     <string name="dialog_song_view_type_song">Per brano</string>
+    <string name="dialog_subtitle_make_playlist_public">Le playlist pubbliche sono disponibili ad altre persone. Le playlist private sono visibili solo su tutti i tuoi dispositivi sincronizzati.</string>
     <string name="dialog_title_clearlist_tracks">Rimuovi dalla coda</string>
     <string name="dialog_title_delete_tracks">Elimina</string>
     <string name="dialog_title_name_playlist">Titolo playlist</string>
@@ -326,6 +339,7 @@
     <string name="dialog_title_queued_body">File non ancora disponibile</string>
     <string name="dialog_title_remove_tracks">Rimuovi</string>
     <string name="disallow_add_to_fm">"Impossibile aggiungere brani alla radio FM"</string>
+    <string name="discover_more_music">Scopri altre canzoni</string>
     <string name="do_not_remind_this_version">"Non ricordarmi di questa versione"</string>
     <string name="do_not_support_google_voice_search">"Ricerca Vocale Google non è supportata sul tuo dispositivo."</string>
     <string name="download">Scaricate</string>
@@ -363,7 +377,10 @@
     <string name="download_method">Scarica</string>
     <string name="download_no_application_title">"Impossibile aprire il file"</string>
     <string name="download_paused_in_power_save_mode">Il dispositivo è in Modalità Risparmio Energetico, download in pausa</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">In download…</string>
+    <string name="download_progress">%d%%</string>
+    <string name="download_progress_detail" formatted="false">%.1fM/%.1fM</string>
     <string name="download_quality">Qualità download</string>
     <string name="download_quality_summary">Impostazioni aggiuntive per i brani scaricati</string>
     <string name="download_queued">In coda</string>
@@ -400,7 +417,10 @@
     <string name="downloading_empty">Vuoto</string>
     <string name="downloading_pause_apk">Pausa...Continua a scaricare nella barra delle notifiche o sul desktop</string>
     <string name="due_date">In Data: %s</string>
+    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatlong_with">%2$02d:%5$02d.%6$02d</string>
+    <string name="durationformatshort">%2$d:%5$02d</string>
+    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="early_morning">AM</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -468,8 +488,11 @@
     <string name="exo_media_action_repeat_all_description">Ripeti tutto</string>
     <string name="exo_media_action_repeat_off_description">Non ripetere</string>
     <string name="exo_media_action_repeat_one_description">Ripeti una volta</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
+    <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
     <string name="exo_track_role_supplementary">Supplementare</string>
     <string name="exo_track_selection_auto">Automatico</string>
@@ -489,6 +512,7 @@
     <string name="fail_to_play">"Impossibile riprodurre"</string>
     <string name="failed_not_access_sd_card">Prima concedi l\'accesso alla scheda SD</string>
     <string name="failed_obtain_permissions">"Impossibile ottenere i permessi"</string>
+    <string name="fans">Followers</string>
     <string name="fav_login_msg">Accedi al tuo Mi Account per scaricare canzoni</string>
     <string name="favorite_canceled">Rimosso dai Preferiti</string>
     <string name="favorite_playlist">I miei preferiti</string>
@@ -606,16 +630,20 @@
     <string name="higher_quality_music">Audio di alta qualità</string>
     <string name="higher_quality_music_summary">Esegui download e streaming alla massima qualità</string>
     <string name="home_tab_home">Home</string>
+    <string name="home_tab_joox">JOOX Music</string>
     <string name="home_tab_local">Musica</string>
     <string name="home_tab_more_music">Altra musica</string>
     <string name="home_tab_online">Cerca</string>
     <string name="home_tab_recommend">Online</string>
     <string name="home_tab_search">Cerca</string>
+    <string name="home_tab_yandex">Yandex.Music</string>
     <string name="hot_icon_in_fast_indexer">O</string>
+    <string name="hungama">Hungama</string>
     <string name="hungama_batch_download_alert_summary">Solo i membri PRO possono scaricare più brani. Acquistare un abbonamento PRO ora?</string>
     <string name="hungama_batch_download_alert_summary_toast">Compra un abbonamento per scaricare l\'intera playlist.</string>
     <string name="hungama_category_chart">Classifiche</string>
     <string name="hungama_category_playlist">Playlist</string>
+    <string name="hungama_category_radio">Radio</string>
     <string name="hungama_category_video">Video</string>
     <string name="hungama_category_vip">Pro</string>
     <string name="hungama_free_download_out_summary">"Non è possibile scaricare altre canzoni gratuitamente. Acquistare un abbonamento PRO ora?"</string>
@@ -645,6 +673,8 @@
     <string name="individuation_recommend_title">Individuazione consigli</string>
     <string name="individuation_setting_summary">Ricevi consigli sui contenuti in base ai tuoi interessi</string>
     <string name="individuation_setting_title">Consigli personalizzati</string>
+    <string name="info_app_package_name">Nome pacchetto:</string>
+    <string name="info_app_version">Versione app:</string>
     <string name="info_language">Lingua:</string>
     <string name="info_location">Regione:</string>
     <string name="info_product">Dispositivo:</string>
@@ -692,6 +722,7 @@ attendere o selezionare Musica Online."</string>
     <string name="joox_category_artist">Artisti</string>
     <string name="joox_category_playlist">Playlist</string>
     <string name="joox_category_vip">Centro Fan</string>
+    <string name="joox_download_tab_title">JOOX</string>
     <string name="joox_download_title">Download JOOX</string>
     <string name="joox_privacy_desc">Informativa sulla privacy di JOOX (opzionale)</string>
     <string name="joox_privacy_policy_url">http://www.tencent.com/en-us/privacy-policy.html</string>
@@ -843,8 +874,10 @@ attendere o selezionare Musica Online."</string>
     <string name="no_album_info">Nessuna informazione sull\'album</string>
     <string name="no_artist_info">Nessuna informazione sull\'artista</string>
     <string name="no_downloads">Nessun download</string>
+    <string name="no_fans_empty_title">"Non hai ancora nessun follower"</string>
     <string name="no_favorites_songs">Vuoto</string>
     <string name="no_file_picker_find">"Gestore File non installato sul telefono"</string>
+    <string name="no_follow_empty_title">"Non stai ancora seguendo nessuno"</string>
     <string name="no_local_songs">Vuoto</string>
     <string name="no_local_songs_selected">"Impossibile inviare i brani perché non sono stati scaricati"</string>
     <string name="no_local_source_find">"Brano non trovato"</string>
@@ -853,6 +886,7 @@ attendere o selezionare Musica Online."</string>
     <string name="no_scanned_songs">Vuoto</string>
     <string name="no_song_downloaded">"Impossibile connettersi al server"</string>
     <string name="no_song_subtitle">Immergiti nel suono</string>
+    <string name="no_song_title">Musica Mi</string>
     <string name="no_system_cropper_find">"Il sistema non supporta il ritaglio delle immagini"</string>
     <string name="noon">PM</string>
     <string name="normal_quality">Normale</string>
@@ -901,6 +935,7 @@ attendere o selezionare Musica Online."</string>
     <string name="online_apk_install_network_error">"Impossibile collegarsi alla rete. Controlla le impostazioni e riprova."</string>
     <string name="online_apk_install_tips">"È necessario scaricare il plug-in di questo fornitore di contenuti. Sarai in grado di accedere alle canzoni direttamente la prossima volta."</string>
     <string name="online_list_delete_message">Tutti i brani scaricati in questa playlist verranno eliminati dal dispositivo.</string>
+    <string name="online_music_joox">JOOX</string>
     <string name="online_music_yandex">Yandex</string>
     <string name="online_playlist_category">Playlist</string>
     <string name="online_recommend">Consigliati</string>
@@ -955,6 +990,7 @@ attendere o selezionare Musica Online."</string>
     <string name="playlist_type_album">Album</string>
     <string name="playlist_type_artist">Artista</string>
     <string name="playlist_type_billboard">Classifiche</string>
+    <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_my">La mia playlist</string>
     <string name="playlist_type_recommend">Playlist in evidenza</string>
     <string name="please_download_first">Prima scarica il file.</string>
@@ -971,6 +1007,10 @@ attendere o selezionare Musica Online."</string>
     <string name="privacy_authorize_revoking">Revoca autorizzazione…</string>
     <string name="privacy_desc">Informativa Privacy (obbligatorio)</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
+    <string name="privacy_request_desc"><Data>\"Musica Mi deve raccogliere le informazioni personali necessarie per fornirti servizi di streaming online. Puoi capire come gestiamo le informazioni raccolte nella nostra &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Puoi revocare il tuo consenso su Musica Mi nelle Impostazioni in qualsiasi momento.
+Leggi e accetta il nostro &lt;a href=\"%2$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare Musica Mi.
+Se non accetti di utilizzare i servizi di cui sopra, non potrai utilizzare alcune funzionalità di questa app; tuttavia, la sua funzionalità di base sarà ancora a disposizione.</Data></string>
     <string name="privacy_request_subtitle">"Benvenuto in Mi Musica! Questa app offre i seguenti servizi:
 
 - Un riproduttore di canzoni locali
@@ -994,12 +1034,14 @@ attendere o selezionare Musica Online."</string>
     <string name="remove">Rimuovi</string>
     <string name="remove_download">Rimuovi</string>
     <string name="remove_user_privacy_dialog_message">Dopo la revoca dell\'autorizzazione, Mi Music interromperà la raccolta dei dati e tutti i dati correlati saranno eliminati dai server. Questo potrebbe rendere Mi Music praticamente inutilizzabile. Revocare l\'autorizzazione?</string>
+    <string name="remove_user_privacy_dialog_message_canuse">Disattivando l\'opzione, ritiri il tuo consenso all\'Informativa sulla privacy di Musica Mi. Non raccoglieremo più le tue informazioni. Le informazioni personali già raccolte e conservate saranno cancellate entro il termine previsto dalle leggi applicabili. Musica Mi deve raccogliere le informazioni personali necessarie per fornirti servizi di streaming on-line. Il ritiro del consenso alla sua Informativa sulla privacy sarà considerato come rifiuto di accettare i suddetti servizi online sulla base di dati personali.</string>
     <string name="remove_user_privacy_dialog_title">Revoca autorizzazione...</string>
     <string name="renew_dialog_title">"Diventa Pro
 E gioiscine"</string>
     <string name="repeat_all_notif">Ripeti tutti i brani.</string>
     <string name="repeat_current_notif">Ripeti questo brano.</string>
     <string name="request_overlay_permission_desc">Permetti a Mi Music di mostrare le finestre fluttuanti per poter usare questa funzione.</string>
+    <string name="request_privacy_permission_title">Leggi e accetta i termini e le condizioni sottostanti per accedere a tutti i nostri servizi.</string>
     <string name="request_share_info">Attendi…</string>
     <string name="request_subscription_status">Attendi…</string>
     <string name="restart_immediate">Riavvia adesso</string>
@@ -1030,6 +1072,7 @@ E gioiscine"</string>
     <string name="search_empty">"Nessun risultato. Riprova con altre parole"</string>
     <string name="search_empty_subtitle_online_music">Tocca il pulsante qui sotto per aprire %s.</string>
     <string name="search_empty_title_online_music">Nessun contenuto.</string>
+    <string name="search_for_album">Album</string>
     <string name="search_for_artist">Artista</string>
     <string name="search_hint">Artista, brano o album</string>
     <string name="search_hint_local">Cerca brani sul dispositivo</string>
@@ -1140,12 +1183,15 @@ E gioiscine"</string>
     <string name="start_to_check_new_version">Ricerca aggiornamenti…</string>
     <string name="start_to_download">Avvio download</string>
     <string name="start_to_play">Avvia</string>
+    <string name="start_update">Installazione nuova versione…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Spazio per app clonate</string>
     <string name="storage_internal">Memoria interna</string>
     <string name="storage_sd_card">Scheda SD</string>
     <string name="storage_usb">Archivio USB</string>
     <string name="streamloadingtext">Connessione a %s</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="summary_command_mode">Attiva per entrare in Modalità Comando</string>
     <string name="sunday">domenica</string>
     <string name="sunday_short">dom</string>
     <string name="sunday_shortest">D</string>
@@ -1235,14 +1281,19 @@ E gioiscine"</string>
     <string name="time_picker_label_hour">O</string>
     <string name="time_picker_label_minute">Min</string>
     <string name="time_to_upgrade">Aggiorna all\'ultima versione di Mi Music</string>
+    <string name="title_command_mode">Modalità Comando</string>
     <string name="title_online_fm_recommend">Stazioni FM in evidenza</string>
     <string name="title_online_recommend">Playlist in evidenza</string>
     <string name="title_search_history">Cronologia</string>
     <string name="title_search_hot">Popolari</string>
+    <string name="toast_cant_collect_mine_playlist">"Impossibile aggiungere le tue playlist ai preferiti"</string>
+    <string name="toast_cant_commit_without_title">Inserisci il titolo della canzone</string>
     <string name="toast_download_error_by_count_limit">Hai raggiunto il limite dei download per questo mese.</string>
     <string name="toast_download_error_by_not_login">Accedi al Mi Account e prova di nuovo.</string>
     <string name="toast_download_error_by_vip_required">Effettua l\'iscrizione a Premium per scaricare questo brano.</string>
     <string name="toast_download_in_process">Download in corso</string>
+    <string name="toast_favorite_has_been_added">Aggiunto con successo alla playlist</string>
+    <string name="toast_follow_success">Seguito</string>
     <string name="toast_is_pro">"Sei già un membro PRO."</string>
     <string name="toast_my_playlist_illegal_name">"Il titolo di questa playlist non è valido. Rinominala."</string>
     <string name="toast_my_playlist_set_to_private">"Questa playlist è privata ora. Gli altri non possono vederla."</string>
@@ -1253,6 +1304,12 @@ E gioiscine"</string>
     <string name="toast_normal_songs_for_download">Qualità download impostata su Normale</string>
     <string name="toast_normal_songs_for_stream">Qualità streaming impostata su Normale</string>
     <string name="toast_not_pro">Questa funzionalità è disponibile solo per i membri PRO.</string>
+    <string name="toast_playlist_has_been_added">Aggiunto alla coda</string>
+    <string name="toast_playlist_has_been_private">Questa playlist è privata</string>
+    <string name="toast_playlist_has_been_public">Questa playlist è pubblica</string>
+    <string name="toast_playmode_loop_playback">La playlist attuale si ripeterà</string>
+    <string name="toast_playmode_shuffle_play">La riproduzione è causale</string>
+    <string name="toast_playmode_single_cycle">Brano in ripetizione</string>
     <string name="toast_uhd_songs_for_download">Qualità download impostata su Alta</string>
     <string name="toast_uhd_songs_for_stream">Qualità streaming impostata su Alta</string>
     <string name="toast_will_play_list_when_ad_pause">La playlist partirà dopo gli annunci</string>
@@ -1304,10 +1361,12 @@ E gioiscine"</string>
     <string name="wednesday">mercoledì</string>
     <string name="wednesday_short">mer</string>
     <string name="wednesday_shortest">M</string>
+    <string name="widget_small_text_separator">-</string>
     <string name="wifi_required_body" formatted="false">"Devi utilizzare la rete Wi-Fi per scaricare %s file. 
 
 Tocca %s per avviare questo download appena sarai connesso ad una rete Wi-Fi."</string>
     <string name="wifi_required_title">File troppo grande per la rete dell\'operatore</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connessione al Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Presentazione versione %1$s
 Size: %2$s"</string>
@@ -1315,6 +1374,8 @@ Size: %2$s"</string>
 Dimensione : %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">Aggiornamento %1$s !</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spazio insufficientee, controlla la scheda SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yesterday">Ieri</string>
     <string name="you_can_switch_mode_in_settings">E\' possibile passare da una modalità all\'altra dalle impostazioni</string>
     <string name="you_may_like">Potrebbe piacerti anche</string>

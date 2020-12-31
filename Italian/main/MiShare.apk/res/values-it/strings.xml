@@ -199,6 +199,7 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="scanning_only_xiaomi_device">You can send this item only to a Xiaomi device</string>
     <string name="search_menu_title">Cerca</string>
     <string name="send_file">INVIA FILE</string>
+    <string name="send_files_by">Condividi file tramite</string>
     <string name="send_files_to">Invia elementi a</string>
     <string name="send_files_to_remote_success">File inviati a %1$s correttamente</string>
     <string name="send_files_to_remote_success_title">Inviato correttamente</string>
@@ -221,7 +222,7 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="tile_state_active">Attivata</string>
     <string name="tile_state_inactive">Spenta</string>
     <string name="tile_state_unavailable">Non disponibile</string>
-    <string name="tips_prompt_enable_midrop">Condividi file con dispositivi vicini</string>
+    <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="to_feedback">Segnala</string>
     <string name="transfer_intercept_to_remote">"Impossibile inviare: %1$s"</string>
     <string name="transfer_to_pc_summary">"L'ultima versione del software AIoT installato su Mi Notebooks è compatibile con Mi Share. È possibile controllare l'elenco dei modelli di portatili supportati sul sito web MIUI. Se il tuo computer portatile è nella lista, ma AIoT non è installato su di esso, aggiorna il BIOS e i driver di rete del portatile e scarica AIoT."</string>

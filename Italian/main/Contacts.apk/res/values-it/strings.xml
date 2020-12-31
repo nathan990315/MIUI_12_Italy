@@ -65,7 +65,6 @@
     <string name="auto_nickname">Automatico</string>
     <string name="auto_record_yellowpage">Pagine gialle</string>
     <string name="auto_set_nickname">Automatico</string>
-    <string name="back">indietro</string>
     <string name="back_description">Indietro</string>
     <string name="back_view_description">Tocca per tornare indietro</string>
     <string name="batch_delete">Eliminazione multipla</string>
@@ -79,6 +78,7 @@
     <string name="bh_app_name">Servizi Operatore Mi</string>
     <string name="bh_app_name_short">Servizi Operatore</string>
     <string name="bh_b">B</string>
+    <string name="bh_back">indietro</string>
     <string name="bh_bill_balance">Saldo</string>
     <string name="bh_bill_charge">Ricarica il saldo</string>
     <string name="bh_bugreport">Feedback aziendale</string>
@@ -94,6 +94,7 @@
     <string name="bh_charged_phone_number">Telefono: %1$s</string>
     <string name="bh_close_traffic_package">Chiudi dettagli piano operatore</string>
     <string name="bh_cmcc">Cina Mobile</string>
+    <string name="bh_confirm">OK</string>
     <string name="bh_contact_number">%1$s dai tuoi contatti</string>
     <string name="bh_ct">Cina Telecom</string>
     <string name="bh_cu">Cina Unicom</string>
@@ -109,7 +110,6 @@
     <string name="bh_exchange_number">Cambia numero</string>
     <string name="bh_fetch_balance">Controlla il saldo</string>
     <string name="bh_flow_exceed">Hai superato il limite</string>
-    <string name="bh_funtion_desc">Benvenuto in Servizi Operatore Mi! Puoi utilizzare questa app per controllare il saldo del telefono, acquistare minuti di chiamata e dati mobili, e altro ancora.</string>
     <string name="bh_gb">GB</string>
     <string name="bh_get_balance_success">Controllato con successo. Le informazioni potrebbero essere aggiornate in ritardo.</string>
     <string name="bh_get_charge_phone_number">Seleziona dai contatti</string>
@@ -183,6 +183,7 @@
     <string name="bh_vs">Mi Roaming</string>
     <string name="bh_will_open">Apertura %1$s…</string>
     <string name="bh_wrong_number_hint">Inserisci un numero di telefono valido</string>
+    <string name="bh_yuan">CNY</string>
     <string name="bills_info_label">Dettagli</string>
     <string name="bind_simcard_default">SIM predefinita per le chiamate</string>
     <string name="bind_simcard_menu">Imposta SIM predefinita per le chiamate</string>
@@ -294,7 +295,6 @@
     <string name="callrecordview_menu_show_missed">Chiamate perse</string>
     <string name="callrecordview_menu_show_sim">%s chiamate</string>
     <string name="callrecordview_menu_show_stranger">Chiamate da numeri sconosciuti</string>
-    <string name="cancel">Annulla</string>
     <string name="cancel_confirmation_dialog_message">Annullare le modifiche?</string>
     <string name="cancel_confirmation_dialog_title">Annulla</string>
     <string name="cancel_export_confirmation_message">Annullare l\'esportazione di %s?</string>
@@ -398,7 +398,7 @@
     <string name="composer_not_initialized">"Il compositore di vCard non si è avviato correttamente."</string>
     <string name="conference_call_disable_tip">"Impossibile effettuare chiamate. Assicurati che il tuo dispositivo sia connesso ad una rete 4G con supporto VoLTE."</string>
     <string name="config_export_file_extension">vcf</string>
-    <string name="confirm">OK</string>
+    <string name="config_export_vcard_type">v30_generic</string>
     <string name="confirm_call_log_dial_summary">Chiedi conferma prima di comporre dal registro chiamate per evitare chiamate accidentali.</string>
     <string name="confirm_call_log_dial_title">Conferma prima di comporre dal registro chiamate</string>
     <string name="confirm_delete_contact_all_call_logs">"Eliminare cronologia %s?"</string>
@@ -703,6 +703,7 @@ Motivo: \"%s\""</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">V</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Nome</string>
     <string name="gallery">Galleria</string>
     <string name="ghostData_company">Società</string>
@@ -978,6 +979,7 @@ Motivo: \"%s\""</string>
     <string name="permission_record_audio_desc">Per utilizzare la voce durante la verifica dell\'ID</string>
     <string name="permission_write_external_storage_desc">Per salvare i dati dell\'app</string>
     <string name="phoneLabelsGroup">Telefono</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Numero troppo lungo</string>
     <string name="phone_primary">Primario</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>
@@ -1183,6 +1185,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Nessun membro nel gruppo</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Per azienda</string>
     <string name="smart_group_company_unavailable">Senza azienda</string>
     <string name="smart_group_frequency_1">Nell\'ultimo mese</string>
@@ -1244,10 +1247,12 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="special_code_security_exception">"Operazione rifiutata： Nessun compositore predefinito"</string>
     <string name="splitConfirmation_title">Separare contatto?</string>
     <string name="star">*</string>
+    <string name="star_letter">,</string>
     <string name="starredList">Speciali</string>
     <string name="starred_contacts">Preferiti</string>
     <string name="status_available">Disponibile</string>
     <string name="status_away">Assente</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Occupato</string>
     <string name="strequentList">Preferiti</string>
     <string name="success_message_import_from_account">Contato importato</string>

@@ -215,13 +215,18 @@ Nota: I dati delle applicazioni installate non verranno salvati su Xiaomi Cloud.
     <string name="open_backup_switch">Attiva lo switch backup</string>
     <string name="other_device_main_space">Primo spazio</string>
     <string name="other_device_second_space">Secondo spazio</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="process_whole_recovery">Ripristino di \"%s\"</string>
+    <string name="provision_back">indietro</string>
     <string name="provision_background_restore_more_data">Ripristina altri elementi in background</string>
     <string name="provision_error_connect_msg">"Puoi testare la rete e provare di nuovo. La funzionalità di backup non sarà disponibile senza una connessione valida."</string>
     <string name="provision_error_connect_title">"Impossibile connettersi"</string>
+    <string name="provision_next">Successivo</string>
     <string name="provision_restore_data">Ripristino elementi</string>
     <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
+    <string name="provision_skip_underline">Salta</string>
     <string name="query_restore_description">Ripristina le app sulla Schermata Home e le impostazioni con questo backup. Verranno sovrascritti i dati delle app già installate. Le app non incluse in questo backup verranno spostate nell\'ultima schermata.</string>
     <string name="query_restore_summary">Trovato un backup su Mi Cloud per questo dispositivo. Vuoi utilizzare il backup o vuoi continuare configurando il dispositivo come nuovo e cancellare i backup precedenti su Mi Cloud?</string>
     <string name="recover_home_settings">Ripristino impostazioni Home</string>
@@ -294,4 +299,5 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="v7_preference_off">Disattivato</string>
     <string name="v7_preference_on">Attivato</string>
     <string name="wait_icon_download">Download icona applicazione</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

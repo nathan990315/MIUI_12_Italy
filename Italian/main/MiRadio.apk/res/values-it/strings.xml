@@ -1347,7 +1347,7 @@ Invia questo codice al supervisore."</string>
   <string name="wechat_state"></string>
   <string name="weibo_application_id"></string>
   <string name="weibo_redirect_uri"></string>
-  <string name="wifi_required_body">"Connettiti al Wi-Fi per completare questo %1$s download.
+  <string name="wifi_required_body" formatted="false">"Connettiti al Wi-Fi per completare questo %1$s download.
 
 Tocca %2$s per avviare questo download la prossima volta che sei connesso a una rete Wi-Fi."</string>
   <string name="wifi_required_title">File troppo grande per la rete dell\'operatore</string>

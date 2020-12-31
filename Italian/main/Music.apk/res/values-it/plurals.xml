@@ -144,6 +144,14 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
         <item quantity="one">Ora</item>
         <item quantity="other">Ora</item>
     </plurals>
+    <plurals name="list_header_fans_count">
+        <item quantity="other">%d follower</item>
+        <item quantity="one">%d follower</item>
+    </plurals>
+    <plurals name="list_header_follow_count">
+        <item quantity="other">Seguite %d persone</item>
+        <item quantity="one">Seguita %d persona</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d elementi selezionati</item>
         <item quantity="one">%d elemento selezionato</item>
@@ -159,6 +167,10 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d follower</item>
+        <item quantity="one">%d follower</item>
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d brani saranno inviati</item>

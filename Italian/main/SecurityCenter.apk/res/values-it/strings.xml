@@ -142,7 +142,6 @@
     <string name="adjust_traffic_carrier_summary_yesterday">Aggiornato ieri alle %s</string>
     <string name="adjust_traffic_data">Imposta utilizzo dati</string>
     <string name="after_the_lock_screen">L\'app verrà bloccata dopo aver spento lo schermo, potrai modificare questa scelta nelle impostazioni</string>
-    <string name="ai_allow_all">Notifica quando l\'autorizzazione viene utilizzata per tutti</string>
     <string name="alert_back_diving_mode_summary">Disattivare adesso la modalità Immersiva?</string>
     <string name="alert_back_diving_mode_title">Modalità Immersiva</string>
     <string name="alert_back_milink_hangup_tips_content">"La Proiezione non verrà interrotta mentre stai terminando una chiamata. Puoi premere il pulsante Power per riattivare lo schermo."</string>
@@ -242,7 +241,7 @@
     <string name="app_behavior_key_camera">Scattare foto</string>
     <string name="app_behavior_key_location">Piattaforma</string>
     <string name="app_behavior_key_protect">Proteggere le informazioni personali</string>
-    <string name="app_behavior_link_start">Avviato da un\'altra app</string>
+    <string name="app_behavior_link_start">Catena di avvio</string>
     <string name="app_behavior_list_load_more">Caricamento…</string>
     <string name="app_behavior_location">%1s ha ottenuto l\'accesso alla tua posizione</string>
     <string name="app_behavior_location_bg">%1s ha ottenuto l\'accesso alla tua posizione in background</string>
@@ -304,8 +303,6 @@
     <string name="app_behavior_settings_category_privacy">Proteggere le informazioni personali</string>
     <string name="app_behavior_settings_perm_tips">Mostra un avviso nella barra di stato quando le app accedono alla tua posizione, registrano audio o scattano foto</string>
     <string name="app_behavior_settings_privacy_tips">Ricevi notifiche quando le app accedono ai tuoi contatti, alla cronologia delle chiamate o eseguono altre azioni sensibili</string>
-    <string name="app_behavior_share_file">Condividi file</string>
-    <string name="app_behavior_share_picture">Modifica immagine</string>
     <string name="app_behavior_sms_read">%1s ha letto SMS</string>
     <string name="app_behavior_sms_read_single">Questa app legge SMS</string>
     <string name="app_behavior_sms_send">%1s ha inviato SMS</string>
@@ -641,6 +638,7 @@ se dimenticata</string>
     <string name="auto_task_operation_no_op">Nessuna operazione</string>
     <string name="auto_task_operation_open">Attivato</string>
     <string name="auto_task_operation_open_string">Attiva %s</string>
+    <string name="auto_task_operation_string_comma">,</string>
     <string name="auto_task_operation_string_etc">, ecc.</string>
     <string name="auto_task_operation_string_split">;\u0020</string>
     <string name="auto_task_operation_sync">Sincronizzazione</string>
@@ -989,6 +987,8 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
     <string name="dialog_roaming_warning_checkbox">"Non mostrare nuovamente"</string>
     <string name="dialog_roaming_warning_message">L\'operatore ti addebiterà il costo dell\'operazione dopo aver abilitato i dati roaming internazionali. Attivare comunque?</string>
     <string name="dialog_roaming_warning_ok">Attiva</string>
+    <string name="dialog_skt_roaming_warning_cancel">Non accetto</string>
+    <string name="dialog_skt_roaming_warning_ok">Accetto</string>
     <string name="dialog_title_attention">Attenzione</string>
     <string name="dialog_title_auto_start_declare">Info sull\'avvio automatico</string>
     <string name="dialog_title_stop_virus_scan">Ferma scansione antivirus</string>
@@ -1061,6 +1061,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
     <string name="doze_optimization_title">Controlli touch ottimizzati</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty_app">Nessuna app</string>
     <string name="empty_title_auto_start_list">Nessuna app in avvio automatico</string>
@@ -1254,7 +1255,9 @@ scheda medica"</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimuovi download</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Automatico</string>
     <string name="exo_track_selection_none">Nessuno</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -1423,7 +1426,6 @@ scheda medica"</string>
     <string name="fw_blocked_join">" e "</string>
     <string name="fw_oversea">Blocca chiamate internazionali</string>
     <string name="fw_oversea_content">Blocca chiamate da numeri di telefono stranieri</string>
-    <string name="gallery_confirm_start_activity">%s sta tentando di accedere alle immagini tramite un\'altra app. Consentirlo?</string>
     <string name="game_ad_recommendation">Stanno giocando tutti</string>
     <string name="game_anti_disturb_msg">Modalità DND</string>
     <string name="game_booster">Turbo videogiochi</string>
@@ -1616,7 +1618,6 @@ per ottenere una prova gratuita di 3 giorni!"</string>
     <string name="gb_voice_changer_toast_window_new_tips">"Prova a cambiare voce!
 Passa tra diversi personaggi ed effetti speciali."</string>
     <string name="gb_voice_changer_toast_window_open">Attivato l\'effetto \"%s\"</string>
-    <string name="gb_voice_changer_toast_window_vip_expire">Il tuo abbonamento sta per scadere. Rinnova l\'abbonamento ora per ottenere dei vantaggi!</string>
     <string name="gb_voice_changer_trial_gender_dialog">Hai attivato la prova gratuita! Seleziona il sesso per regolare gli effetti e i consigli di conseguenza.</string>
     <string name="gb_voice_changer_trial_gender_dialog_title">Prova gratuita</string>
     <string name="gb_voice_changer_trial_progress_dialog_message">Attivazione prova gratuita…</string>
@@ -1626,7 +1627,6 @@ e prova a Cambiare Voce!"</string>
     <string name="gb_voice_changer_user_status_no_login">Firma richiesta</string>
     <string name="gb_voice_changer_user_status_remain_time">Data di scadenza: %s</string>
     <string name="gb_voice_changer_user_status_renew">Rinnova</string>
-    <string name="gb_voice_changer_user_tips_info_vip_expire">I tuoi abbonamenti sono scaduti. Rinnova l\'abbonamento ora per ottenere dei vantaggi!</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Registra momenti chiave delle tue sessioni di gioco"</string>
     <string name="gb_wonderful_video_cancel">Annulla</string>
     <string name="gb_wonderful_video_checkall">Seleziona tutto</string>
@@ -1853,7 +1853,6 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continuerai ad utilizzare l
     <string name="lockpattern_pattern_confirmed_header">La tua nuova sequenza di sblocco</string>
     <string name="lockpattern_pattern_entered_header">Sequenza aggiunta</string>
     <string name="lockpattern_recording_inprogress">"Togli il dito quando hai completato al sequenza"</string>
-    <string name="lockpattern_recording_intro_header">Collega almeno 4 punti per creare una sequenza</string>
     <string name="lockpattern_retry_button_text">Disegna nuovamente</string>
     <string name="lockpattern_settings_help_how_to_record">Come disegnare una sequenza</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Troppi tentativi errati!</string>
@@ -2029,6 +2028,7 @@ dall'operatore"</string>
     <string name="menu_text_license_manager">Permessi</string>
     <string name="menu_text_networkassistants">Utilizzo dati</string>
     <string name="menu_text_networkassistants_danger">%s oltre la soglia</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s rimasti</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2038,6 +2038,7 @@ dall'operatore"</string>
     <string name="menu_text_optimize_manage_1">Velocizza</string>
     <string name="menu_text_power_manager">Batteria</string>
     <string name="menu_text_power_percent">%s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Rimuovi dalle eccezioni</string>
     <string name="menu_white">Eccezione</string>
     <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
@@ -2419,7 +2420,6 @@ dall'operatore"</string>
     <string name="permgroupdesc_sms">Leggi e Invia SMS</string>
     <string name="permgroupdesc_storage">Accedere a foto o file sul dispositivo</string>
     <string name="permission_action_accept">Accetta</string>
-    <string name="permission_action_ai_prompt">Notifica quando viene utilizzata l\'autorizzazione</string>
     <string name="permission_action_always">Consenti sempre</string>
     <string name="permission_action_desc">Dare i permessi ma restituire messaggi vuoti all\'app per proteggere la privacy</string>
     <string name="permission_action_desc_always">Questo permesso può essere utilizzato in qualsiasi momento</string>
@@ -2534,6 +2534,11 @@ dall'operatore"</string>
     <string name="power_center_dialog_msg_top">Quando il risparmio energetico è attivo, MIUI attuerà le seguenti ottimizzazioni:</string>
     <string name="power_center_hints_scan_danger_result">Puoi correggere i problemi di batteria ora</string>
     <string name="power_center_list_item_auto_brightness">Regola automaticamente la luminosità dello schermo</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">°C</string>
     <string name="power_center_list_item_battery_status_time">o</string>
     <string name="power_center_list_item_close_bluetooth">Disattiva Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Impostazioni avanzate</string>
@@ -2756,6 +2761,7 @@ dall'operatore"</string>
     <string name="pref_normal_traffic_limit">Utilizzo dati giornalieri</string>
     <string name="pref_open_adjust_traffic">Aggiorna utilizzo dati ogni giorno utilizzando le statistiche del tuo operatore</string>
     <string name="pref_operator_not_set">"Operatore non impostato"</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Quando superi il limite del tuo piano dati</string>
     <string name="pref_package_traffic_settings">Limite dati mobili</string>
     <string name="pref_pkg_begin_date">Data azzeramento dati</string>
@@ -2957,6 +2963,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="privacy_using_record">Registrare audio</string>
     <string name="privacyapp_number_masked_text">Il contenuto delle notifiche è nascosto</string>
     <string name="privacyapp_number_unmasked_text">Il contenuto delle notifiche può essere nascosto</string>
+    <string name="process_kernel_label">Dispositivo MIUI</string>
     <string name="process_mediaserver_label">Server Multimediale</string>
     <string name="process_vpnsdkmanager_label">Turbo videogiochi</string>
     <string name="promotion">Pubblicità</string>
@@ -2964,6 +2971,9 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="prompt_input_time_illegal">"Impossibile impostare, modifica e riprova"</string>
     <string name="protocol_exception_title">Diagnostica protocolli di rete</string>
     <string name="protocol_loop_back_exception_summary">Test local loop back fallito. Per riportare questo problema a MIUI, vai nella app di segnalazione ed invia un log dal tuo dispositivo.</string>
+    <string name="provision_back">indietro</string>
+    <string name="provision_next">Successivo</string>
+    <string name="provision_skip_underline">Salta</string>
     <string name="qucick_replay_instrument">Usa risposte rapide nelle notifiche delle app selezionate (ad esempio WhatsApp, WeChat, QQ)</string>
     <string name="quick_optimize_checking">Scansione</string>
     <string name="quick_optimize_no_fix_issue_subtitle">"Impossibile estendere la durata della batteria"</string>
@@ -2986,6 +2996,8 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="read_clipboard_ai_close_no">Non adesso</string>
     <string name="read_clipboard_ai_close_yes">Correggi</string>
     <string name="read_clipboard_tip_content">Questa autorizzazione consente alle app di leggere qualsiasi contenuto copiato, che può includere informazioni private (ad esempio dettagli del conto, numeri di carta di credito e password).</string>
+    <string name="real_location_off">Il servizio di localizzazione è abilitato</string>
+    <string name="real_location_on">Posizione reale: Disattiva</string>
     <string name="receive_now">Ricevi</string>
     <string name="recently_reject_message">%1$s richieste di installazione ed altre %2$d rifiutate</string>
     <string name="recently_reject_message_one">%1$s richieste di installazione rifiutate</string>
@@ -3795,9 +3807,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="unlock_pattern_to_bind_fingerprint">Inserisci la password per attivare l\'impronta</string>
     <string name="unlock_set_unlock_password_summary">Combina caratteri diversi</string>
     <string name="unlock_set_unlock_password_title">Password</string>
-    <string name="unlock_set_unlock_pattern_summary">Collega almeno 4 punti</string>
     <string name="unlock_set_unlock_pattern_title">Sequenza</string>
-    <string name="unlock_set_unlock_pin_summary">Inserisci 4 numeri</string>
     <string name="usage_sorted_activity_lable">Utilizzo dati</string>
     <string name="usage_sorted_empty_text">Vuoto</string>
     <string name="usage_sorted_loading_text">Attendi…</string>
@@ -3870,6 +3880,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="videobox_settings_switch_desc">Effetti speciali e funzioni per la riproduzione video</string>
     <string name="videobox_settings_switch_title">Strumenti video</string>
     <string name="videobox_settings_title">Strumenti video</string>
+    <string name="view_traffic_detail">Vedi dettagli</string>
     <string name="virus_auto_update_engine">Aggiornamento automatico: %s</string>
     <string name="virus_scan_process_pre">%</string>
     <string name="virus_update_tips_title">Collegati a Wi-Fi</string>
@@ -4000,5 +4011,6 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="xunyou_net_booster_detail">Usa i servizi di accelerazione Xunyou per i tuoi giochi</string>
     <string name="xunyou_pay_webview">Servizi Xunyou</string>
     <string name="xunyou_server_expired">Sessione scaduta.</string>
+    <string name="yuan">CNY</string>
     <string name="zhifubao_not_found">Applicazione non installata o versione troppo vecchia</string>
 </resources>

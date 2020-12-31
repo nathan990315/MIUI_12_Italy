@@ -176,6 +176,7 @@ Puoi accedere al tuo Mi Account con %s."</string>
     <string name="diagnosis_log_sent_format">"Log di diagnosi inviato.
 ID:%s
 Invia questo codice ai tecnici."</string>
+    <string name="download_file">Scaricamento %s…</string>
     <string name="empty_device_list_notice">Nessun dispositivo</string>
     <string name="ep_unsupported">"Impossibile accedere a Mi Account sul tuo dispositivo"</string>
     <string name="error_dup_binded_email">Questo indirizzo email è già associato ad un altro Mi Account.</string>
@@ -454,6 +455,7 @@ Invia questo codice ai tecnici."</string>
     <string name="passport_register_restricted_title">"Impossibile utilizzare questo numero"</string>
     <string name="passport_register_using_other_ways">Altri modi per registrarsi</string>
     <string name="passport_registered_phone_num">Telefono:%s</string>
+    <string name="passport_registered_phone_num_v2">Numero di telefono</string>
     <string name="passport_registered_phone_user_ID">Nome utente: %s</string>
     <string name="passport_registered_phone_user_name">Nome utente: %s</string>
     <string name="passport_reject_recycle_account">No</string>
@@ -538,6 +540,9 @@ Invia questo codice ai tecnici."</string>
     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="provision_back">indietro</string>
+    <string name="provision_next">Successivo</string>
+    <string name="provision_skip_underline">Salta</string>
     <string name="push_notification_content">Premi per ricevere il codice di verifica</string>
     <string name="push_notification_title">Hai effettuato l\'accesso Mi Account tramite un dispositivo sconosciuto</string>
     <string name="push_notify_dialog_message">"Un nuovo dispositivo sta cercando di accedere al tuo Mi Account. Inserisci il codice di verifica sul tuo nuovo dispositivo per completare la verifica di sicurezza. Se non lo hai richiesto tu, modifica la password del tuo Mi Account."</string>

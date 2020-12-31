@@ -105,8 +105,8 @@
         <item quantity="one">"Il dispositivo non è stato sbloccato per %d ore. Conferma il PIN."</item>
     </plurals>
     <plurals name="kg_too_many_failed_attempts_countdown">
-        <item quantity="other">Riprova tra %d secondi.</item>
-        <item quantity="one">Riprova tra 1 secondo.</item>
+        <item quantity="other">Prova di nuovo tra %d secondi.</item>
+        <item quantity="one">Prova di nuovo tra 1 secondo.</item>
     </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d nuove notifiche</item>

@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Raggruppa</string>
     <string name="accept_cookies_confirm_message">La disattivazione di questa funzione potrebbe influire sulla visualizzazione dei siti web.</string>
     <string name="accessibility_button_clear">Cancella</string>
+    <string name="account_prifix">Account:</string>
     <string name="action">Accedi</string>
     <string name="action_imme_open">Apertura immediata</string>
     <string name="action_menu_account_not_login">Non accedere</string>
@@ -116,6 +117,7 @@
     <string name="agree_permissions_request">OK</string>
     <string name="allow">Consenti</string>
     <string name="am">AM</string>
+    <string name="app__shared__build_name">DkReader</string>
     <string name="app_continue_downloading_text">Ripristina</string>
     <string name="app_download_market_text">Usa Mi Downloader per scaricare più velocemente e in modo più sicuro</string>
     <string name="app_download_now_text">Scarica</string>
@@ -330,6 +332,14 @@
     <string name="comment_report_send">Inviato correttamente</string>
     <string name="comment_select_report_reason">Perché stai segnalando questo?</string>
     <string name="comment_success">Commento aggiunto con successo</string>
+    <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+    <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
+    <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+    <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
+    <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
+    <string name="common_use_phrase_bottom_bar_point_txt">.</string>
+    <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
+    <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
     <string name="context_menu_add_to_desk_id">Aggiungi alla Home</string>
     <string name="context_menu_orientation_portrait_swap_id">V/H</string>
     <string name="contextmenu_add_contact">Aggiungi contatto</string>
@@ -372,6 +382,7 @@ stia per accadere</string>
     <string name="data_traffic_prompt_title">Avviso utilizzo dati</string>
     <string name="data_traffic_stop">Ferma</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
+    <string name="debug_feed_title">Testa Feed</string>
     <string name="debug_mode_toast">Modalità debug attivata</string>
     <string name="delete">Elimina</string>
     <string name="delete_bookmark">Elimina</string>
@@ -521,6 +532,7 @@ per supportare il nostro lavoro"</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
+    <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
     <string name="exo_track_role_supplementary">Supplementare</string>
     <string name="exo_track_selection_auto">Auto</string>
@@ -535,6 +547,7 @@ per supportare il nostro lavoro"</string>
     <string name="exo_track_unknown">Sconosciuto</string>
     <string name="expand_article">Vedi articolo completo</string>
     <string name="expand_button_title">Avanzate</string>
+    <string name="fast_app_card_bottom_text" formatted="false">%s  %s</string>
     <string name="favorite">Preferito</string>
     <string name="feedback_not_interested_response">"Vedrai meno elementi di questo tipo"</string>
     <string name="file_dir">Cartella</string>
@@ -643,14 +656,17 @@ per supportare il nostro lavoro"</string>
     <string name="home_description">Home</string>
     <string name="hot_word_item_mark_ads_text">AD</string>
     <string name="hot_word_item_mark_burst_text">IN EVIDENZA</string>
+    <string name="hot_word_item_mark_hot_text">HOT</string>
     <string name="hot_word_item_mark_new_text">NOVITA\'</string>
     <string name="hot_word_item_mark_recommend_text">CONSIGLIATI</string>
     <string name="hot_words_item_ads_mark">Annunci</string>
     <string name="ignore_add_pwa_dialog_today">"Non mostrare oggi"</string>
+    <string name="incognito">Incognito</string>
     <string name="info_flow_description">Canale di informazioni</string>
     <string name="isReplacePage">File già esistente, sostituire?</string>
     <string name="keep_queued_download">Mantieni</string>
     <string name="leto_abort_underline">&lt;u&gt;&amp;#25918; &amp;#24323;&lt;/u&gt;</string>
+    <string name="leto_app_name">leto</string>
     <string name="leto_btn_no">No</string>
     <string name="leto_btn_yes">Si</string>
     <string name="leto_cancel">Annulla</string>
@@ -699,6 +715,7 @@ per supportare il nostro lavoro"</string>
     <string name="miuishare_account_login_ok">Accedi</string>
     <string name="miuishare_account_need_activate">La condivisione con Weibo richiede che il tuo account Weibo sia collegato al tuo Mi Account attualmente non è attivo. Vuoi attivare il tuo account adesso?</string>
     <string name="miuishare_account_need_login">La condivisione con Weibo richiede che il tuo account Weibo sia collegato al tuo Mi Account attualmente attivo. Accedere e condividere adesso?</string>
+    <string name="miuishare_app_name">MiuiShare</string>
     <string name="miuishare_dialog_cancel">Annulla</string>
     <string name="miuishare_no_network">"Nessuna rete disponibile per la condivisione"</string>
     <string name="miuishare_publish">Invia</string>
@@ -761,6 +778,7 @@ per supportare il nostro lavoro"</string>
     <string name="mw_accessibility_date_picker_year">Anno</string>
     <string name="mw_accessibility_datetime_picker_date">Data</string>
     <string name="mw_accessibility_datetime_picker_time">Ora</string>
+    <string name="mw_accessibility_time_picker_ampm">AM/PM</string>
     <string name="mw_accessibility_time_picker_hour">Ora</string>
     <string name="mw_accessibility_time_picker_milli">Millisecondi</string>
     <string name="mw_accessibility_time_picker_minute">Minuti</string>
@@ -785,6 +803,7 @@ per supportare il nostro lavoro"</string>
     <string name="mw_color_picker_hue">Tonalità</string>
     <string name="mw_color_picker_saturation">Saturazione</string>
     <string name="mw_color_picker_value">Valore</string>
+    <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">Impossibile copiare negli appunti</string>
     <string name="mw_current_detected_ui_locale_name">it-IT</string>
     <string name="mw_data_traffic_prompt_change">"L'utilizzo della connessione dati mobile per la visione dei video aumenterà il consumo dei dati. Se superi il limite imposto dal tuo operatore potresti incoprrere in costi aggiuntivi."</string>
@@ -806,6 +825,7 @@ Sei scuro di voler uscire da questa pagina?"</string>
     <string name="mw_js_dialog_before_unload_positive_button">Esci da questa pagina</string>
     <string name="mw_js_dialog_before_unload_title">Conferma di navigazione</string>
     <string name="mw_js_dialog_title">La pagina \" %s \" dice:</string>
+    <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">Ultimo mese</string>
     <string name="mw_license_activity_title">Licenza WebView di sistema</string>
     <string name="mw_low_memory_error">Impossibile completare l\'operazione precedente per memoria insufficiente</string>
@@ -907,9 +927,15 @@ Sei scuro di voler uscire da questa pagina?"</string>
     <string name="mw_save_password_never">Mai</string>
     <string name="mw_save_password_notnow">Non adesso</string>
     <string name="mw_save_password_remember">Memorizza</string>
+    <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
+    <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Imposta tempo</string>
+    <string name="mw_video_buffering_percent">"Buffering "</string>
+    <string name="mw_video_float_window">Pop-up</string>
     <string name="mw_video_float_window_playing">Riproduzione video</string>
     <string name="mw_video_play_error">"Impossibile riprodurre video"</string>
     <string name="mw_webview_find_on_page">Trova nella pagina</string>
@@ -930,6 +956,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
     <string name="navigate_feedback_dislike_tips">Ridurrà certi suggerimenti video</string>
     <string name="navigate_feedback_input_report_label">Altri motivi</string>
     <string name="navigate_feedback_report">segnala</string>
+    <string name="navigate_feedback_report_input_length">%1$d/100</string>
     <string name="navigate_feedback_report_input_tips">Lascia la tua domanda, risponderemo al più presto</string>
     <string name="navigate_feedback_report_success">Segnalazione completata</string>
     <string name="navigate_feedback_report_title">Motivi della segnalazione</string>
@@ -1103,6 +1130,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
     <string name="quicklink_saved">Aggiunto alla pagina iniziale</string>
     <string name="quicklink_saved_before">Sito aggiunto alla pagina iniziale</string>
     <string name="quicklink_user_define_webpage_title">Nome</string>
+    <string name="quicklink_user_define_webpage_url">URL</string>
     <string name="reading__shared__page_num_with_total_pages">%1$d di %2$d</string>
     <string name="readmode_font_size_setting_button">A</string>
     <string name="readmode_page_loading">Caricamento in corso, attendere prego…</string>
@@ -1125,6 +1153,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
     <string name="retry_after_network_available">"Impossibile collegarsi alla rete"</string>
     <string name="retry_download">Riprova</string>
     <string name="return_to_homepage">Torna alla pagina iniziale</string>
+    <string name="rlz_access_point">Y1</string>
     <string name="root_folder_lable">Nessuno</string>
     <string name="same_bookmarks_warning">"Segnalibro già esistente"</string>
     <string name="same_folder_name_warning">Cartella già esistente</string>
@@ -1150,8 +1179,11 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
     <string name="sdcard_error">Verifica la tua scheda SD</string>
     <string name="search">Cerca</string>
     <string name="search_baidu">Baidu</string>
+    <string name="search_bing">Bing</string>
     <string name="search_button_text">Vai</string>
     <string name="search_description">Barra di ricerca</string>
+    <string name="search_dianping">Cate</string>
+    <string name="search_easou">Easou</string>
     <string name="search_google">Google</string>
     <string name="search_hint">Cerca o digita un URL</string>
     <string name="search_history">Cronologia delle ricerche </string>
@@ -1159,12 +1191,16 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
     <string name="search_label">Browser</string>
     <string name="search_menu_title">Cerca</string>
     <string name="search_path_browser">Impostazioni/Applicazioni di sistema/Browser</string>
+    <string name="search_s139">139</string>
     <string name="search_settings_description">Segnalibri e cronologia web</string>
     <string name="search_shipin">Video</string>
+    <string name="search_sm">SM</string>
+    <string name="search_sogou">Sogou</string>
     <string name="search_taobao">Taobao</string>
     <string name="search_title_browser">Browser</string>
     <string name="search_tupian">Immagine</string>
     <string name="search_yahoo">Yahoo!</string>
+    <string name="search_yicha">Yicha</string>
     <string name="security_permission_desc_get_accounts">Per accedere e gestire gli account di sistema</string>
     <string name="security_permission_desc_read_phone">Per accedere all\'IMEI per identificare il dispositivo</string>
     <string name="security_permission_desc_storage">Per accedere, salvare, caricare e scaricare immagini e altri file</string>
@@ -1185,6 +1221,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
     <string name="share_image_text">Sto guardando una foto bellissima</string>
     <string name="share_page_text">Mi sto godendo %1$s | %2$s</string>
     <string name="share_video">Condividi video</string>
+    <string name="short_video_ad_download_app">Download %s</string>
     <string name="short_video_ad_download_immediately">Scarica</string>
     <string name="short_video_ad_downloading">Download %d%%</string>
     <string name="short_video_ad_installing">Installazione</string>
@@ -1290,12 +1327,18 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
     <string name="ssl_unknown">Errore certificato sconosciuto.</string>
     <string name="ssl_untrusted">"Questo certificato non proviene da un'autorità attendibile."</string>
     <string name="ssl_warnings_header">Problemi con il certificato di sicurezza del sito.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_close">Chiudi</string>
     <string name="storage_internal">Memoria interna</string>
     <string name="storage_open">Apri</string>
     <string name="storage_permission_request_toast">"Download richiede permessi di archiviazione, si prega di concederli"</string>
     <string name="storage_sd_card">Scheda SD</string>
     <string name="storage_usb">Memoria USB</string>
+    <string name="store__feed_book_tag_vip">VIP</string>
+    <string name="store__fiction_recommend_view__relative_category">[ %s ]</string>
+    <string name="store__label_vip">VIP</string>
+    <string name="store__payment_choose_view__book_name_middle">《%s》</string>
+    <string name="store__shared__yuan">￥</string>
     <string name="sug_search_history_delete_text">Elimina questo elemento</string>
     <string name="sug_search_history_empty_text">Cancella tutto</string>
     <string name="suggest_access_btn_install">Installa</string>
@@ -1330,6 +1373,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
     <string name="suggestion_more_news_start_title_text">Notizie Correlate</string>
     <string name="suggestion_sliding_item_more_text">VEDI ALTRO</string>
     <string name="suggestion_topic_subtitle_hyphen">Focalizzazione</string>
+    <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
     <string name="suggestion_translation_more">PIÙ TRADUZIONI</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
@@ -1344,6 +1388,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
     <string name="support_go_back_descirption">Indietro</string>
     <string name="support_next_button_label">Successivo</string>
     <string name="support_skip_button_label">Salta</string>
+    <string name="surfing__shared__vip_store">VIP</string>
     <string name="sync_and_backup_bookmark">Sincronizzazione e backup dei segnalibri</string>
     <string name="sync_and_backup_history">Sincronizzazione e backup delle cronologie</string>
     <string name="sync_cloud_tabs">Sincr.</string>
@@ -1409,6 +1454,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
     <string name="translation_query_error">"Nessun significato"</string>
     <string name="translation_query_error_network">"La richiesta è fallita, controlla la connessione di rete"</string>
     <string name="translation_result_copy">I risultati della traduzioen sono stati replicati</string>
+    <string name="tt_00_00">00:00</string>
     <string name="tt_ad">Annuncio</string>
     <string name="tt_auto_play_cancel_text">Annulla</string>
     <string name="tt_cancel">Annulla</string>

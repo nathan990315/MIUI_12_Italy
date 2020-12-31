@@ -369,6 +369,7 @@
     <string name="battery_low_title">Collega l\'alimentatore</string>
     <string name="battery_low_why">Impostazioni</string>
     <string name="battery_meter_percent_sign">%</string>
+    <string name="battery_meter_progress_mask_path">M2.5638852 0C1.6723665 0 1.3490802 0.09282561 1.0231543 0.2671327 0.69722837 0.4414398 0.4414398 0.69722837 0.2671327 1.0231543 0.09282561 1.3490802 0 1.6723665 0 2.5638852L0 0 2.5638852 0Zm0 18L0 18 0 15.436115c0 0.891518 0.09282561 1.214805 0.2671327 1.540731 0.1743071 0.325926 0.43009567 0.581714 0.7560216 0.756021C1.3490802 17.907174 1.6723665 18 2.5638852 18Z</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_panel_title">Utilizzo batteria</string>
     <string name="battery_saver_confirmation_ok">Attiva</string>
@@ -972,8 +973,6 @@ Utilizza solo l'alimentatore in dotazione."</string>
     <string name="invalid_charger_text">Utilizza solo il caricabatterie in dotazione.</string>
     <string name="invalid_charger_title">"La ricarica USB non è supportata."</string>
     <string name="invalid_confirm_pin_hint">"I PIN non corrispondono"</string>
-    <string name="invalid_sim_pin_hint">Il PIN dovrebbe essere composto dai 4 agli 8 numeri</string>
-    <string name="invalid_sim_puk_hint">Il PUK dovrebbe essere composto da almeno 8 numeri</string>
     <string name="keep_screen_on">"Lascia attivo"</string>
     <string name="keep_screen_on_summary">"Lo schermo non si spegnerà mentre il dispositivo é in carica"</string>
     <string name="keyboard_key">\"</string>
@@ -1031,18 +1030,9 @@ Utilizza solo l'alimentatore in dotazione."</string>
     <string name="keyguard_charged">Carico</string>
     <string name="keyguard_charging_back_to_lockscreen">Torna alla schermata di blocco</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
-    <string name="keyguard_charging_info_battery_used_time_text">Su batteria</string>
-    <string name="keyguard_charging_info_drained_power_percent_text">Esaurita</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Oggi %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Ieri %s</string>
-    <string name="keyguard_charging_info_last_charged_time_text">Ultima carica</string>
-    <string name="keyguard_charging_info_tip_text1">Mantieni il dispositivo con una carica minima del 10% per migliorare la vita della batteria.</string>
-    <string name="keyguard_charging_info_tip_text2">"Non sovraccaricare il dispositivo. Più cariche brevi sono meglio di una lunga carica durante la notte.\""</string>
-    <string name="keyguard_charging_info_tip_text3">Evita di caricare il dispositivo quando la temperatura ambientale è inferiore ai 0°C.</string>
-    <string name="keyguard_charging_info_tip_text4">"Non utilizzare il dispositivo mentre è in carica per evitare il surriscaldamento."</string>
-    <string name="keyguard_charging_info_tip_text5">Le batterie impiegano più tempo a caricare quando diventano più calde del solito.</string>
-    <string name="keyguard_charging_info_tip_text6">Spegni lo schermo e riponi il dispositivo per raffreddarlo.</string>
     <string name="keyguard_charging_normal_and_level_tip">In carica %d%%</string>
     <string name="keyguard_charging_quick_and_level_tip">Carica rapida %d%%</string>
     <string name="keyguard_charging_super_quick_and_level_tip">Caricamento rapido %d%%</string>
@@ -1068,6 +1058,7 @@ Utilizza solo l'alimentatore in dotazione."</string>
     <string name="keyguard_missing_sim_instructions_long">La SIM è illeggibile o mancante. Inserisci una SIM.</string>
     <string name="keyguard_missing_sim_message">Nessuna SIM nel telefono.</string>
     <string name="keyguard_missing_sim_message_short">Nessuna SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Rete bloccata</string>
     <string name="keyguard_password_enter_password_code">Digita la password per sbloccare</string>
     <string name="keyguard_password_enter_pin_code">Digita codice PIN</string>
@@ -1188,6 +1179,7 @@ Riprova tra %2$d secondi."</string>
     <string name="lb_playback_controls_thumb_down_outline">Seleziona Pollice Giù</string>
     <string name="lb_playback_controls_thumb_up">Deseleziona Pollice Su</string>
     <string name="lb_playback_controls_thumb_up_outline">Seleziona Pollice Su</string>
+    <string name="lb_playback_time_separator">/</string>
     <string name="lb_search_bar_hint">Cerca</string>
     <string name="lb_search_bar_hint_speech">Parla per cercare</string>
     <string name="lb_search_bar_hint_with_title">Cerca %1$s</string>
@@ -1375,6 +1367,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="nav_bar_default">(predefinito)</string>
     <string name="nav_bar_edge_panel">Pannello laterale barra di navigazione</string>
     <string name="nav_bar_layout">Disposizione</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Niente</string>
     <string name="no_auto_saver_action">Non ora</string>
     <string name="no_shortcut">%1$s non supporta le funzioni di conversazione</string>
@@ -1463,7 +1456,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="output_title">Uscita contenuti multimediali</string>
     <string name="overlay_display_devices_title">Simula schermi secondari</string>
     <string name="overview">Panoramica</string>
-    <string name="owner_info_settings_edit_text_hint">Testo da visualizzare sulla Schermata di blocco</string>
+    <string name="owner_info_settings_edit_text_hint">"Testo da visualizzare sulla Schermata di blocco"</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="phone_hint">Scorri dall\'icona per aprire il Telefono</string>
     <string name="phone_label">Apri Telefono</string>
@@ -1497,6 +1490,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="plugins">Plugin</string>
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s fino al completamento</string>
     <string name="power_discharge_by">Dovrebbe durare circa fino al %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Dovrebbe durare almeno fino a %1$s in base al tuo utilizzo (%2$s)</string>
@@ -1557,9 +1551,14 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="private_dns_mode_provider">DNS Hostname provider privato</string>
     <string name="private_dns_mode_provider_failure">"Impossibile collegare"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
+    <string name="process_kernel_label">Sistema Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
     <string name="profile_owned_footer">Il profilo potrebbe essere monitorato</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_hint">proxy.esempio.com</string>
+    <string name="proxy_port_hint">8000</string>
+    <string name="proxy_url_hint">https://www.esempio.com/proxy.pac</string>
     <string name="qs_control_big_tile_state_closed">Spento</string>
     <string name="qs_control_big_tile_state_closing">Disattivazione…</string>
     <string name="qs_control_big_tile_state_connected">Connesso</string>
@@ -1621,6 +1620,11 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="quick_settings_cellular_detail_data_usage">Utilizzo dati</string>
     <string name="quick_settings_cellular_detail_data_used">%s utilizzati</string>
     <string name="quick_settings_cellular_detail_data_warning">%s attenzione</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">I dati mobili (WCDMA/LTE) saranno disattivati. A meno che non si utilizzi il Wi-Fi, non sarà più possibile utilizzare applicazioni che richiedono una connessione dati. L\'invio o la ricezione di messaggi multimediali sarà limitata.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">I dati mobili saranno attivati. La connessione alle reti mobili potrebbe comportare costi aggiuntivi a seconda del piano di pagamento.</string>
+    <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Annulla</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_ok">OK</string>
+    <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Disattiva</string>
     <string name="quick_settings_cellular_detail_over_limit">Oltre i limiti</string>
     <string name="quick_settings_cellular_detail_remaining_data">Dati rimasti</string>
     <string name="quick_settings_cellular_detail_title">Dati</string>
@@ -1701,7 +1705,11 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="quick_settings_settings_label">Impostazioni</string>
     <string name="quick_settings_sync_label">Sincr.</string>
     <string name="quick_settings_tethering_label">Tethering</string>
+    <string name="quick_settings_tiles">default</string>
+    <string name="quick_settings_tiles_default">wifi,bt,dnd,flashlight,rotation,battery,cell,airplane,cast,screenrecord,autobrightness</string>
     <string name="quick_settings_tiles_old_mode">wifi,cell,bt,flashlight,batterysaver,screenshot,edit</string>
+    <string name="quick_settings_tiles_retail_mode">night,dark,dnd,flashlight,rotation,location</string>
+    <string name="quick_settings_tiles_stock">wifi,cell,battery,dnd,flashlight,rotation,bt,airplane,location,hotspot,inversion,saver,dark,work,cast,night,screenrecord,reverse</string>
     <string name="quick_settings_tiles_super_save">wifi,bt,gps,cell,vibrate</string>
     <string name="quick_settings_time_label">Tempo</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Per aggiungere un elemento premi e tieni premuto, quindi trascinalo nella parte superiore del pannello.</string>
@@ -1880,6 +1888,7 @@ essere monitorata"</string>
     <string name="status_bar_ethernet">LAN</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Imposta metodi di input</string>
     <string name="status_bar_latest_events_title">Notifiche</string>
+    <string name="status_bar_network_name_separator">-</string>
     <string name="status_bar_no_notifications_title">Nessuna notifica</string>
     <string name="status_bar_notification_app_settings_title">%s impostazioni</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -1943,6 +1952,7 @@ Il tuo telefono potrebbe diventare troppo caldo se:
     <string name="time_unit_just_now">Poco fa</string>
     <string name="title_convert_fbe">Converti a file basato su crittografia</string>
     <string name="title_usb_accessory">Accessorio USB</string>
+    <string name="torch_high_temperature_warning">"Il tuo dispositivo è surriscaldato. Non puoi usare la torcia ora."</string>
     <string name="touch_filtered_warning">A causa di un\'app che interferisce con la richiesta dei permessi, le Impostazioni non possono verificare la tua risposta.</string>
     <string name="track_frame_time">Profilo rendering GPU</string>
     <string name="transition_animation_scale_title">Transizione scala animazione</string>
@@ -2067,6 +2077,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="user_switch_to_user">Passa a %s</string>
     <string name="v7_preference_off">DISATTIVA</string>
     <string name="v7_preference_on">ATTIVA</string>
+    <string name="velocity_tracker_impl">piattaforma</string>
     <string name="verify_apps_over_usb_summary">Controlla le app installate tramite ADB/ADT per comportamenti dannosi.</string>
     <string name="verify_apps_over_usb_title">Verifica app da USB</string>
     <string name="voice_assist_label">Esegui Voce Assistente</string>

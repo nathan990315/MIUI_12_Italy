@@ -24,11 +24,17 @@
     <string name="change_passwork_dialog_title">Aggiornare la password?</string>
     <string name="delete">Elimina</string>
     <string name="invalid_package_signature">Firma app non valida</string>
+    <string name="login_mi_account_alert">Avvisa</string>
+    <string name="login_mi_account_summary">Per attivare il gestore password, è necessario accedere all\'account Xiaomi, vuoi accedervi?</string>
     <string name="ok">OK</string>
+    <string name="password_manager">Gestore password</string>
+    <string name="password_manager_summary">Gestione password Cloud, backup dell\'account Xiaomi</string>
     <string name="save_content_tip">"Saranno salvati i seguenti elementi: "</string>
     <string name="search">Cerca</string>
     <string name="settings_clear_data_confirmation_description">"Se elimini le password ora, dovrai inserirle manualmente la prossima volta che accedi.
 Eliminare la password?"</string>
     <string name="settings_clear_data_confirmation_title">Eliminazione password</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="using_miui_autofill_message">Per inserire automaticamente le password, MIUI salverà le informazioni dell\'account e le password sul dispositivo.</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

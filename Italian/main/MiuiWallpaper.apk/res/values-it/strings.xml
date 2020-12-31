@@ -74,9 +74,7 @@
     <string name="chinese_digit_seven">7</string>
     <string name="chinese_digit_six">6</string>
     <string name="chinese_digit_ten">10</string>
-    <string name="chinese_digit_thirty">30</string>
     <string name="chinese_digit_three">3</string>
-    <string name="chinese_digit_twenty">20</string>
     <string name="chinese_digit_two">2</string>
     <string name="chinese_digit_zero">0</string>
     <string name="chinese_leap">Salto</string>
@@ -184,6 +182,8 @@
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
     <string name="game_view_content_description">Vista di gioco</string>
+    <string name="geometry_super_wallpaper_label">Geometria</string>
+    <string name="geometry_title">Geometria</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -231,9 +231,17 @@ dd/M"</string>
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
-    <string name="miuix_appcompat_cloud_state_disabled">La sincronizzazione col cloud è disattivata</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sincronizzato correttamente con il cloud</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Sincronizzazione con il cloud…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
+    <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Altro</string>
+    <string name="miuix_appcompat_cancel_description">Annulla</string>
+    <string name="miuix_appcompat_confirm_description">Conferma</string>
+    <string name="miuix_appcompat_delete_description">Elimina</string>
+    <string name="miuix_appcompat_deselect_all_description">Deseleziona tutto</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Annulla</string>
+    <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -398,8 +406,13 @@ mm"</string>
     <string name="wallpaper_setting_super_wallpaper_banner_title">Super Sfondi</string>
     <string name="wallpaper_setting_super_wallpaper_more_button_text">Altro</string>
     <string name="wallpaper_setting_title">Sfondo</string>
+    <string name="weather_super_wallpaper_label">Meteo</string>
+    <string name="weather_title">Meteo</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Non adesso</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>
     <string name="yesterday">Ieri</string>
 </resources>

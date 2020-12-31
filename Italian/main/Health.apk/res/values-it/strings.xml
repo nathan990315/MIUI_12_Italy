@@ -82,7 +82,6 @@ per aggiungere schede"</string>
     <string name="allergic_drugs_hint">Inserisci i farmaci a cui sei allergico e le loro reazioni</string>
     <string name="allow_notice_periods">Consenti promemoria</string>
     <string name="altitude">Altitudine</string>
-    <string name="altitude_pressure_hint">*Calcolata dalla pressione dell\'aria, ci sono alcuni errori</string>
     <string name="altitude_range">Altitudine</string>
     <string name="am">AM</string>
     <string name="app_setting">App</string>
@@ -460,9 +459,11 @@ Xiaomi Health ti informerà solo sugli articoli importanti."</string>
     <string name="dialog_user_agreement_purpose2">Benvenuto su Xiaomi Health, puoi utilizzare questa applicazione per il calcolo dei passi, del sonno, per registrare il ciclo mestruale, tracciamento del peso, Xiaomi Health Cloud e altre funzioni.</string>
     <string name="diastolic_pressure">Diastolica</string>
     <string name="disable">Disattiva</string>
+    <string name="divider">/</string>
     <string name="divider_format1">%1$s/%2$s</string>
     <string name="divider_format2">%1$s-%2$s</string>
     <string name="divider_format3">%1$s~%2$s</string>
+    <string name="dot">.</string>
     <string name="drag_sort">Riordina</string>
     <string name="dream_talk">Hai parlato %1$s</string>
     <string name="dream_talk_record">Sei stato registrato quando hai parlato durante il sonno</string>
@@ -491,6 +492,7 @@ Xiaomi Health ti informerà solo sugli articoli importanti."</string>
     <string name="edit_sleep_record_button">Modifica</string>
     <string name="elliptical_machine">Ellittiche</string>
     <string name="emergency_contact">Contatto di Emergenza</string>
+    <string name="empty_data">-</string>
     <string name="enable">Attivo</string>
     <string name="enable_go_now">Attivo</string>
     <string name="enable_not_now">Spenta</string>
@@ -643,6 +645,7 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="for_diagnosis_usage_only">Usa queste informazioni solo per diagnosi.</string>
+    <string name="forward_slash">/</string>
     <string name="free_training">Allenamento libero</string>
     <string name="freestyle">Stile Libero</string>
     <string name="friday">Venerdì</string>
@@ -746,6 +749,7 @@ Attendere fino a quando il cerchio diventa rosso."</string>
     <string name="hr_detect_state_reseting_desc">Appena sveglio o completamente rilassato</string>
     <string name="hr_disable_in_split_screen">"Impossibile misurare la frequenza cardiaca mentre si utilizza lo schermo diviso"</string>
     <string name="hr_disturb_detect">Rilevamento interruzione</string>
+    <string name="hr_fp_area">Scanner impronta</string>
     <string name="hr_heart_rate_unit">Frequenza cardiaca (BPM)</string>
     <string name="hr_in_detect">Non togliere le dita durante il test</string>
     <string name="hr_input_heart_rate">Registra frequenza cardiaca</string>
@@ -757,18 +761,7 @@ Attendere fino a quando il cerchio diventa rosso."</string>
     <string name="hr_pre_detect_finger">Verifica</string>
     <string name="hr_re_detect_title">Riavvia</string>
     <string name="hr_report_active_desc">Misurare la frequenza cardiaca immediatamente dopo l’allenamento può aiutarti a regolare le abitudini di esercizio, come allenamenti di diversa intensità hanno diverse zone di frequenza cardiaca ottimale. Se la frequenza cardiaca è troppo alta, l’attività potrebbe essere dannosa per la salute, con conseguente capogiri, costrizione toracica e altri rischi. La frequenza cardiaca bassa potrebbe essere un segno di un allenamento non efficace.</string>
-    <string name="hr_report_active_high_desc">La frequenza cardiaca attuale è un esercizio ad alta intensità per il cuore. La funzione cardiopolmonare sarà stimolata.</string>
-    <string name="hr_report_active_higher_desc">La frequenza cardiaca attuale è un esercizio ad alta intensità per il cuore. La funzione cardiaca e polmonare sarà fortemente stimolata, prestare attenzione alle condizioni fisiche, se si prova disagio interrompere l’esercizio il prima possibile.</string>
-    <string name="hr_report_active_lower_mid_desc">La frequenza cardiaca attuale è un esercizio di intensità inferiore per il cuore. Può riscaldare. Le persone non in salute dovrebbero effettuare esercizi di intensità da bassa a moderata.</string>
-    <string name="hr_report_active_lowest_desc">La frequenza cardiaca attuale è un esercizio di bassa intensità per il cuore. Può produrre una certa stimolazione al corpo, ma l\'intensità dell\'esercizio fisico è bassa.</string>
-    <string name="hr_report_active_mid_desc">La frequenza cardiaca attuale è un esercizio moderato per il cuore. Si consiglia negli adulti sani di effettuare esercizio fisico di moderata o alta intensità per 150 minuti a settimana.</string>
     <string name="hr_report_common_desc">La frequenza cardiaca normale mantenuta dal corpo umano durante le attività quotidiane e varia da 60 a 100 battiti al minuto. Una frequenza cardiaca inferiore a 60 BPM è un segno di bradicardia, mentre una frequenza cardiaca superiore a 100 BPM è accettata come tachicardia negli adulti.</string>
-    <string name="hr_report_regular_fast_desc">Hai la tachicardia. Diversi Sport, bere alcool, lavoro fisico pesante, tensione, ansia o alcuni farmaci e droghe possono causare tachicardia fisiologica, mentre malattie cardiovascolari, anemia, ipertiroidismo, ipossia, insufficienza cardiaca e altre malattie possono causare tachicardia patologica. In caso di malessere, consultare il proprio medico.</string>
-    <string name="hr_report_regular_normal_desc">La frequenza cardiaca è normale. Il tuo cuore è bravo a far fronte allo stress, e il tuo corpo può resistere a stress esterno. La variazione della frequenza cardiaca è strettamente correlata a malattie cardiache. Prestare attenzione al cambiamento della frequenza cardiaca in qualsiasi momento, specialmente durante l\'esercizio.</string>
-    <string name="hr_report_regular_slow_desc">La frequenza cardiaca attuale è troppo lenta. La frequenza di bradicardia è stata inferiore alla frequenza cardiaca normale (circa il 60%). Se la bradicardia non causa capogiri, malessere, sincope e altri sintomi, non interferire potrebbe essere un funzionamento regolare. Ma se si ha senso di costrizione toracica, capogiri e altri sintomi, consultare subito il proprio medico.</string>
-    <string name="hr_report_resting_fast_desc">La frequenza cardiaca a riposo è superiore al normale, e può provocare stanchezza o tachicardia. Si consiglia di migliorare lo stile di vita, ridurre sale e olio, seguire una dieta, perdere peso, smettere di fumare e di consumare alcool, rilassarsi psicologicamente ed emotivamente, aumentando gradualmente l\'esercizio fisico, che può aiutare a rallentare la frequenza cardiaca a riposo.</string>
-    <string name="hr_report_resting_normal_desc">La frequenza cardiaca a riposo è normale. La frequenza cardiaca a riposo si riferisce al numero di battiti cardiaci per minuto di persone normali in uno stato di tranquillità. Il momento migliore per misurare la frequenza cardiaca a riposo è appena svegliato al mattino, ancora a letto e senza aver fatto attività fisica. Prima di misurare la frequenza cardiaca a riposo, respirare profondamente per rilassare completamente il corpo.</string>
-    <string name="hr_report_resting_slow_desc">La frequenza cardiaca a riposo è bassa rispetto al normale e potresti essere bradicardico. Una frequenza cardiaca bassa per troppo tempo potrebbe causare ischemia e ipossia degli organi, in particolare nei vasi cardio cerebrali. La frequenza cardiaca a riposo è strettamente correlata alla dieta, all’esercizio fisico, allo stress, al sonno e alle condizioni fisiche. Si raccomanda di mantenere uno stile di vita sano e prestare attenzione alle reazioni fisiche nel tempo. Se si hanno sintomi come capogiri, affaticamento, svenimento e costrizione toracica, rivolgersi al proprio medico in tempo.</string>
     <string name="hr_see_report">Mostra rapporto</string>
     <string name="hr_start_detect">Prava subito</string>
     <string name="hr_state">Stato</string>
@@ -1096,6 +1089,7 @@ Attendere fino a quando il cerchio diventa rosso."</string>
     <string name="oar_time">Tempo alla guida</string>
     <string name="oauth_account_failed">"Impossibile ottenere informazioni sull'account"</string>
     <string name="oauth_account_failed_desc">Per aggiungere fonti di dati, Salute deve utilizzare il tuo Account Mi. Accedi per continuare.</string>
+    <string name="oauth_invalid">Sessione scaduta, accedi di nuovo.</string>
     <string name="ok">OK</string>
     <string name="open">Apri sincronizzazione</string>
     <string name="open_data_sync_description">Attiva la sincronizzazione con il cloud per sincronizzare i dati sulla salute da altre fonti.</string>
@@ -1183,6 +1177,7 @@ Attendere fino a quando il cerchio diventa rosso."</string>
     <string name="rb_gender_female">Sesso: Femmina</string>
     <string name="rb_gender_male">Sesso: Maschio</string>
     <string name="reach_standard">Soddisfa gli standard</string>
+    <string name="recog_permission_dialog_title">Permessi richiesti</string>
     <string name="recommand_body_weight_msg">Peso consigliato: %1$.1f kg. Raggiungi BMI %2$.1f per ridurre il rischio di malattie cardiovascolari e problemi al fegato.</string>
     <string name="recommend_sleep_goal">21:00-11:00</string>
     <string name="record_blood_pressure">Registra misurazione</string>
@@ -1272,6 +1267,14 @@ Attendere fino a quando il cerchio diventa rosso."</string>
     <string name="severe_abnormal">Crisi Ipertensiva</string>
     <string name="severe_abnormal_tip">Ogni giorno dopo essersi alzati, dopo pranzo, e prima di andare a letto</string>
     <string name="share">Condividi</string>
+    <string name="share_card_key_avg_pace">Ritmo</string>
+    <string name="share_card_key_consume">Calorie</string>
+    <string name="share_card_key_step">Passi</string>
+    <string name="share_card_key_time">Durata</string>
+    <string name="share_card_title_elliptical_trainer">Ellittiche</string>
+    <string name="share_card_title_free_training">Allenamento libero</string>
+    <string name="share_card_title_stair_climbing">Salire le scale</string>
+    <string name="share_card_title_yoga">Yoga</string>
     <string name="skip">Salta</string>
     <string name="skip_to_next_item_button_content_description">Vai all\'elemento successivo</string>
     <string name="skip_to_previous_item_button_content_description">Vai all\'elemento precedente</string>
@@ -1279,7 +1282,7 @@ Attendere fino a quando il cerchio diventa rosso."</string>
     <string name="skipping_detection_no">"Impossibile rilevare il tuo allenamento."</string>
     <string name="skipping_detection_no_hint">Evita di mantenere questo dispositivo in luoghi rumorosi.</string>
     <string name="skipping_kcal">Calorie</string>
-    <string name="skipping_pause">Salto in pausa</string>
+    <string name="skipping_pause">Allenamento in pausa</string>
     <string name="skipping_pause_tips">In pausa | Riprendi il tuo allenamento per continuare a tracciarlo automaticamente</string>
     <string name="skipping_ready">Puoi iniziare il tuo allenamento</string>
     <string name="skipping_ready_hint_one">Tieni questo dispositivo a circa 1 metro di distanza da te.</string>
@@ -1288,11 +1291,8 @@ Attendere fino a quando il cerchio diventa rosso."</string>
     <string name="skipping_reset_time">Riposo</string>
     <string name="skipping_start_counting">Avvia</string>
     <string name="skipping_time">Durata</string>
-    <string name="skipping_upload_dialog_agree_and_upload">Accetta e carica</string>
-    <string name="skipping_upload_dialog_msg">Al fine di fornire una più accurata esperienza sul conteggio dei salti, Xiaomi Salute caricherà il file di registrazione salto alla corda in %s condizioni per ottimizzare l\'effetto di riconoscimento del salto alla corda. Per proteggere la tua privacy, il caricamento e la memorizzazione dei file di registrazione saranno crittografati.</string>
-    <string name="skipping_upload_dialog_reject_not_remind">Rifiuta e non chiedere nuovamente</string>
-    <string name="skipping_upload_dialog_title">Carica la registrazione del Salto della Corda per ottimizzarne il riconoscimento</string>
-    <string name="skipping_upload_tips">Carica la registrazione del Salto della Corda per ottimizzarne l\'effetto di riconoscimento</string>
+    <string name="skipping_upload_dialog_agree_and_upload">Carica</string>
+    <string name="skipping_upload_dialog_reject_not_remind">Non ora</string>
     <string name="sleep">Dormi</string>
     <string name="sleep_and_get_up_time">Pianifica quando vai a letto</string>
     <string name="sleep_auto_start_perm_grant">Permessi concessi</string>
@@ -1305,7 +1305,6 @@ Attendere fino a quando il cerchio diventa rosso."</string>
     <string name="sleep_deep">Sonno profondo</string>
     <string name="sleep_deep_light_analysis">Sonno leggero e sonno profondo</string>
     <string name="sleep_deep_light_close_tip">Analisi del sonno profondo disattivata</string>
-    <string name="sleep_deep_light_no_data">Ancora nessun dato</string>
     <string name="sleep_detection_enable">Analizza ciclo di riposo</string>
     <string name="sleep_detection_feedback">Segnalazione</string>
     <string name="sleep_detection_guide_four_description">Il monitoraggio del sonno consumerà circa l\'1% di batteria al giorno.</string>
@@ -1560,6 +1559,7 @@ non rilevati"</string>
     <string name="state_disagree2">"Non accetto"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stub_empty">----</string>
+    <string name="stub_string">-</string>
     <string name="subtitle_be_ready">Preparati</string>
     <string name="subtitle_exercise_and_sleep">Rimani fisicamente attivo e dormi abbastanza</string>
     <string name="subtitle_get_health_advice">Ottenere statistiche accurate e suggerimenti di salute basati sui dati che fornisci</string>

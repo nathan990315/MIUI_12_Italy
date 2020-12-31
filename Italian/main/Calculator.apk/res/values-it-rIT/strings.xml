@@ -216,16 +216,25 @@
     <string name="dialog_rating_desc_less">Puoi darci anche il tuo feedback?</string>
     <string name="dialog_rating_desc_perfect">Ottimo! Vuoi valutarla anche nell\'App Store?</string>
     <string name="dialog_rating_title">Valuta la nostra app</string>
+    <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
     <string name="digit3">3</string>
+    <string name="digit4">4</string>
     <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
     <string name="div">÷</string>
     <string name="divDesc">dividi</string>
     <string name="dob_selection_error">"La data di nascita deve essere precedente alla data di oggi"</string>
     <string name="dont_allow">"Non accetto"</string>
+    <string name="dot">.</string>
     <string name="dotDesc">punto</string>
+    <string name="e">e</string>
     <string name="eDesc">"Numero di Eulero"</string>
+    <string name="e_mathematical_value">e</string>
     <string name="early_morning">AM</string>
     <string name="earthly_branches_chen">Chen</string>
     <string name="earthly_branches_chou">Chou</string>
@@ -241,6 +250,7 @@
     <string name="earthly_branches_zi">Zi</string>
     <string name="elder_brother">Fratello</string>
     <string name="elder_sister">Sorella</string>
+    <string name="enter">↓</string>
     <string name="equal">=</string>
     <string name="equalDesc">uguale</string>
     <string name="eras_ad">DC</string>
@@ -366,6 +376,7 @@
     <string name="item_page_title_investment">Calcola investimento</string>
     <string name="item_title_aa_payment">Dividi il conto</string>
     <string name="item_title_age">Età</string>
+    <string name="item_title_area_conversion">Area</string>
     <string name="item_title_bmi">BMI</string>
     <string name="item_title_calculator">Calcolatrice</string>
     <string name="item_title_currency">Valuta</string>
@@ -829,6 +840,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="unit_data_default_volume_0">m³</string>
     <string name="unit_data_default_volume_1">cm³</string>
     <string name="unit_data_default_weight_0">kg</string>
+    <string name="unit_data_default_weight_1">g</string>
     <string name="unit_data_display_area_acre">Acro</string>
     <string name="unit_data_display_area_are">Ara</string>
     <string name="unit_data_display_area_ha">Ettaro</string>
@@ -1054,7 +1066,9 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="unit_data_name_radix_10">10</string>
     <string name="unit_data_name_radix_16">16</string>
     <string name="unit_data_name_radix_2">2</string>
+    <string name="unit_data_name_radix_8">8</string>
     <string name="unit_data_short_area_acre">ac</string>
+    <string name="unit_data_short_area_are">a</string>
     <string name="unit_data_short_area_ha">h a</string>
     <string name="unit_data_short_area_mu">mu</string>
     <string name="unit_data_short_area_qing">qing</string>
@@ -1115,6 +1129,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="unit_data_short_temperature_r">°R</string>
     <string name="unit_data_short_temperature_re">°Re</string>
     <string name="unit_data_short_time_day">d</string>
+    <string name="unit_data_short_time_h">h</string>
     <string name="unit_data_short_time_min">min</string>
     <string name="unit_data_short_time_ms">ms</string>
     <string name="unit_data_short_time_ps">ps</string>
@@ -1122,6 +1137,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="unit_data_short_time_us">μs</string>
     <string name="unit_data_short_time_week">wk</string>
     <string name="unit_data_short_time_yr">a</string>
+    <string name="unit_data_short_velocity_c">c</string>
     <string name="unit_data_short_velocity_ftps">ft/s</string>
     <string name="unit_data_short_velocity_inps">in/s</string>
     <string name="unit_data_short_velocity_kmph">km/h</string>
@@ -1142,10 +1158,12 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="unit_data_short_volume_cu.yd">yd³</string>
     <string name="unit_data_short_volume_dl">dl</string>
     <string name="unit_data_short_volume_hl">hl³</string>
+    <string name="unit_data_short_volume_l">l</string>
     <string name="unit_data_short_volume_ml">ml</string>
     <string name="unit_data_short_weight_ct">ct</string>
     <string name="unit_data_short_weight_dan">dan</string>
     <string name="unit_data_short_weight_dr">dr</string>
+    <string name="unit_data_short_weight_g">g</string>
     <string name="unit_data_short_weight_gr">gr</string>
     <string name="unit_data_short_weight_jin">jin</string>
     <string name="unit_data_short_weight_kg">kg</string>
@@ -1154,8 +1172,10 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="unit_data_short_weight_lt">l.t</string>
     <string name="unit_data_short_weight_mg">mg</string>
     <string name="unit_data_short_weight_oz">oz</string>
+    <string name="unit_data_short_weight_q">q</string>
     <string name="unit_data_short_weight_qian">qian</string>
     <string name="unit_data_short_weight_st">sh.t</string>
+    <string name="unit_data_short_weight_t">t</string>
     <string name="unit_data_short_weight_taijin">jin(tw)</string>
     <string name="unit_data_short_weight_ug">μg</string>
     <string name="unit_data_short_weight_uk.cwt">cwt</string>
@@ -1171,6 +1191,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="unit_pound">Libbre</string>
     <string name="unit_year">A</string>
     <string name="unit_year_format">Anno %s</string>
+    <string name="unit_yuan">CNY</string>
     <string name="updating">Aggiornamento calcolatrice…</string>
     <string name="user_agreement">Accordo utente</string>
     <string name="user_experience_program_title">Programma Esperienza Utente</string>
@@ -1202,8 +1223,11 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="word_figure_unit_qian">qian</string>
     <string name="word_figure_unit_shi">shi</string>
     <string name="word_figure_zheng">Totale</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">"Connessione a Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni."</string>
     <string name="xiaomi_external_storage_unavailable">"Archivio non disponibile, verifica la scheda SD."</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s
 Dimensione: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Presentazione versione %1$s

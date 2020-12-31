@@ -31,6 +31,7 @@
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
+    <string name="access_denied_info">Troppi tentativi. Attendi un minuto o due e riprova.</string>
     <string name="account_bind_secure_email_title">Aggiungi email di ripristino</string>
     <string name="account_bind_secure_phone_title">Aggiungi numero di telefono di ripristino</string>
     <string name="account_crop_user_avatar">Ritaglia foto</string>
@@ -67,10 +68,12 @@
     <string name="activate_email_notice">Assicurati di attivare il tuo account entro 24 ore</string>
     <string name="activity_not_found_notice">"Impossibile trovare l'app"</string>
     <string name="ad">Annuncio</string>
+    <string name="ad_bar_notification_setting_title">Agenda</string>
     <string name="ad_buy">Acquista</string>
     <string name="ad_download">Scarica</string>
     <string name="ad_join">Unisciti alla community</string>
     <string name="ad_more">Altro</string>
+    <string name="add_search_channel_link">URL</string>
     <string name="add_search_channel_name">Nome</string>
     <string name="add_to_trust_device">Questo device è affidabile</string>
     <string name="agree">Accetto</string>
@@ -120,6 +123,8 @@
     <string name="cast_forward">Avanti</string>
     <string name="cast_forward_10">Avanti dieci secondi</string>
     <string name="cast_forward_30">Avanti trenta secondi</string>
+    <string name="cast_invalid_stream_duration_text">--:--</string>
+    <string name="cast_invalid_stream_position_text">--:--</string>
     <string name="cast_mute">Muto</string>
     <string name="cast_notification_connected_message">Collegato a %1$s</string>
     <string name="cast_notification_connecting_message">Connessione a %1$s</string>
@@ -356,6 +361,7 @@ Invia questo codice al supervisore."</string>
     <string name="gallery_folder_alias_screen_recorder">Registrazioni schermo</string>
     <string name="gallery_folder_alias_tencent_video">Tencent</string>
     <string name="gallery_folder_alias_wechat">WeChat</string>
+    <string name="gallery_folder_alias_youku_video">Youku</string>
     <string name="gallery_tab_all">Tutti</string>
     <string name="gallery_tab_videos">Video</string>
     <string name="galleryplus_already_cloud_member">Usa l\'abbonamento VIP per riprodurre</string>
@@ -396,6 +402,8 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_online_cta_disagree">"Non accetto"</string>
     <string name="galleryplus_online_cta_title">Termini e condizioni</string>
     <string name="galleryplus_online_video_loading">Attendi…</string>
+    <string name="galleryplus_orientation_lock">Orientamento bloccato con successo</string>
+    <string name="galleryplus_orientation_unlock">L\'orientamento dello schermo è sbloccato</string>
     <string name="galleryplus_permission_content">Dai a Mi Video i permessi necessari per poter usare questa funzione.</string>
     <string name="galleryplus_permission_content2">"Per essere in grado di utilizzare questa funzione, vai in Impostazioni &gt; Applicazioni &gt; Mi Video &gt; Autorizzazioni App e consenti a Mi Video quanto segue:
 
@@ -449,6 +457,7 @@ Invia questo codice al supervisore."</string>
     <string name="history_local_video">Dispositivo</string>
     <string name="history_online_video">Online</string>
     <string name="hot">Popolari</string>
+    <string name="i_know">Fatto</string>
     <string name="identity">Identificazione</string>
     <string name="inconsistent_pwd">"Le password non corrispondono"</string>
     <string name="init_channels">Ripristina predefinite</string>
@@ -466,6 +475,15 @@ per i video"</string>
     <string name="language_setting_tips">Seleziona le tue preferenze linguistiche per ricevere contenuti più rilevanti. Puoi cambiare le tue preferenze linguistiche in Profilo &gt; Lingua.</string>
     <string name="language_setting_tips_dialog">È possibile selezionare le preferenze della lingua per i contenuti in Account &gt; Lingua.</string>
     <string name="later">Più tardi</string>
+    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_isOpenSource">vero</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">API SQLite Android basate su SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher per Android</string>
+    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
+    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
+    <string name="library_roundedimageview_isOpenSource">vero</string>
     <string name="library_roundedimageview_libraryDescription">Una vista veloce (e disegnabile) che supporta angoli arrotondati (e ovali o cerchi) in base all\'esempio originale di Romain Guy.</string>
     <string name="live_now">In diretta ora</string>
     <string name="live_title">Live HDR</string>
@@ -640,8 +658,10 @@ per i video"</string>
     <string name="my_favorite_channels">I miei canali preferiti</string>
     <string name="my_feedback_title">Il mio feedback</string>
     <string name="need_update_app">Aggiorna Mi Video per utilizzare tutte le sue funzionalità</string>
-    <string name="network_connect_info">"Impossibile collegarsi alla rete. Controlla le impostazioni e riprova."</string>
+    <string name="network_connect_info">"Impossibile connettersi alla rete."</string>
+    <string name="network_error_info">Si è verificato un errore di rete. Controlla le impostazioni di rete e riprova.</string>
     <string name="network_failed">"Impossibile connettersi alla rete"</string>
+    <string name="network_timeout_info">"Impossibile collegarsi alla rete"</string>
     <string name="neverthink_player_loading">Caricamento video di Neverthink…</string>
     <string name="new_channel_tip">Dai un\'occhiata ai nuovi canali!</string>
     <string name="next">Successivo</string>
@@ -672,6 +692,8 @@ per i video"</string>
     <string name="notification_recall_title">Attiva notifiche</string>
     <string name="notify_apk_installed">Scaricato con successo</string>
     <string name="ok">OK</string>
+    <string name="open_settings">Impostazioni</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Iscrizioni recenti</string>
     <string name="order_recently_updated">Aggiornati di recente</string>
     <string name="ovp_alert_dialog_download_install_task">Download plug-in HD…</string>
@@ -910,6 +932,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="plus_menu_delete_popup_text">Eliminarlo?</string>
     <string name="plus_menu_properties">Proprietà</string>
     <string name="plus_menu_rename">Rinomina</string>
+    <string name="plus_menu_rename_cant_empty">"Il nome del file non può essere vuoto"</string>
     <string name="plus_menu_rename_fail">"Il nome file non può contenere \"/\""</string>
     <string name="plus_menu_share">Condividi</string>
     <string name="plus_mine_gallery">I miei album</string>
@@ -1120,6 +1143,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="srl_header_secondary">Rilascia Al Secondo Piano</string>
     <string name="srl_header_update">"'Ultimo aggiornamento' d-M HH:mm"</string>
     <string name="start_download_tip">Aggiunto alla coda. Controlla lo stato di avanzamento su Profilo e Download.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">Scheda SD</string>
     <string name="storage_internal_sdcard">Memoria interna</string>
     <string name="submit">Invia</string>
@@ -1184,6 +1208,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="ugc_no_net">"Impossibile collegarsi alla rete. Controlla le impostazioni e riprova."</string>
     <string name="ui_log_tip">Tocca questa area per nascondere, tieni premuto per cancellare i vecchi log. Trascina i log manualmente.</string>
     <string name="unknow">Sconosciuto</string>
+    <string name="unknown_error_info">Errore sconosciuto</string>
     <string name="update">Aggiorna</string>
     <string name="update_email_address_dialog_message">Devi verificare la tua identità prima di aggiornare l\'email di recupero.</string>
     <string name="update_email_address_dialog_title">Aggiorna email di recupero</string>

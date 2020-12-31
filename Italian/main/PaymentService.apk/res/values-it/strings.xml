@@ -127,6 +127,7 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_button_cancel">Annulla</string>
     <string name="mibi_button_confirm">Conferma</string>
     <string name="mibi_button_count_down_finish">OK(%1$s)</string>
+    <string name="mibi_button_count_down_reget">%1$s</string>
     <string name="mibi_button_custom_service_phone">OK</string>
     <string name="mibi_button_next">Avanti</string>
     <string name="mibi_button_pay">Conferma</string>
@@ -147,6 +148,7 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_deduct_success_sub">Metodo di addebito:%1$s</string>
     <string name="mibi_deduct_type">Metodi pagamento</string>
     <string name="mibi_denomination_mibi_unit">Questo SMS viene utilizzato per attivare i tuoi servizi Mi</string>
+    <string name="mibi_denomination_money_unit">CNY</string>
     <string name="mibi_detail_consume_account">ID acquisto</string>
     <string name="mibi_detail_consume_amount">Totale</string>
     <string name="mibi_detail_consume_name">Prodotto</string>
@@ -548,6 +550,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="sns_access_token_expired_warning">Sessione scaduta. Effettua nuovamente l\'accesso per ricollegare questo account.</string>
     <string name="sns_bind_limit">Troppi tentativi. Prova ad accedere in altri modi.</string>
     <string name="sns_sign_in">Altri modo per accedere</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>
     <string name="ticket_hint">Codice di verifica</string>
     <string name="ticket_invalid">Il codice inserito non è corretto</string>
