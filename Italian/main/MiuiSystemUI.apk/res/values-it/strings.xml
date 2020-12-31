@@ -369,7 +369,6 @@
     <string name="battery_low_title">Collega l\'alimentatore</string>
     <string name="battery_low_why">Impostazioni</string>
     <string name="battery_meter_percent_sign">%</string>
-    <string name="battery_meter_progress_mask_path">M2.5638852 0C1.6723665 0 1.3490802 0.09282561 1.0231543 0.2671327 0.69722837 0.4414398 0.4414398 0.69722837 0.2671327 1.0231543 0.09282561 1.3490802 0 1.6723665 0 2.5638852L0 0 2.5638852 0Zm0 18L0 18 0 15.436115c0 0.891518 0.09282561 1.214805 0.2671327 1.540731 0.1743071 0.325926 0.43009567 0.581714 0.7560216 0.756021C1.3490802 17.907174 1.6723665 18 2.5638852 18Z</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_panel_title">Utilizzo batteria</string>
     <string name="battery_saver_confirmation_ok">Attiva</string>
@@ -1058,7 +1057,6 @@ Utilizza solo l'alimentatore in dotazione."</string>
     <string name="keyguard_missing_sim_instructions_long">La SIM è illeggibile o mancante. Inserisci una SIM.</string>
     <string name="keyguard_missing_sim_message">Nessuna SIM nel telefono.</string>
     <string name="keyguard_missing_sim_message_short">Nessuna SIM</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Rete bloccata</string>
     <string name="keyguard_password_enter_password_code">Digita la password per sbloccare</string>
     <string name="keyguard_password_enter_pin_code">Digita codice PIN</string>
@@ -1367,7 +1365,6 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="nav_bar_default">(predefinito)</string>
     <string name="nav_bar_edge_panel">Pannello laterale barra di navigazione</string>
     <string name="nav_bar_layout">Disposizione</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Niente</string>
     <string name="no_auto_saver_action">Non ora</string>
     <string name="no_shortcut">%1$s non supporta le funzioni di conversazione</string>
@@ -1490,7 +1487,6 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="plugins">Plugin</string>
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s fino al completamento</string>
     <string name="power_discharge_by">Dovrebbe durare circa fino al %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Dovrebbe durare almeno fino a %1$s in base al tuo utilizzo (%2$s)</string>
@@ -1551,14 +1547,9 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="private_dns_mode_provider">DNS Hostname provider privato</string>
     <string name="private_dns_mode_provider_failure">"Impossibile collegare"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
-    <string name="process_kernel_label">Sistema Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
     <string name="profile_owned_footer">Il profilo potrebbe essere monitorato</string>
-    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-    <string name="proxy_hostname_hint">proxy.esempio.com</string>
-    <string name="proxy_port_hint">8000</string>
-    <string name="proxy_url_hint">https://www.esempio.com/proxy.pac</string>
     <string name="qs_control_big_tile_state_closed">Spento</string>
     <string name="qs_control_big_tile_state_closing">Disattivazione…</string>
     <string name="qs_control_big_tile_state_connected">Connesso</string>
@@ -1705,11 +1696,7 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="quick_settings_settings_label">Impostazioni</string>
     <string name="quick_settings_sync_label">Sincr.</string>
     <string name="quick_settings_tethering_label">Tethering</string>
-    <string name="quick_settings_tiles">default</string>
-    <string name="quick_settings_tiles_default">wifi,bt,dnd,flashlight,rotation,battery,cell,airplane,cast,screenrecord,autobrightness</string>
     <string name="quick_settings_tiles_old_mode">wifi,cell,bt,flashlight,batterysaver,screenshot,edit</string>
-    <string name="quick_settings_tiles_retail_mode">night,dark,dnd,flashlight,rotation,location</string>
-    <string name="quick_settings_tiles_stock">wifi,cell,battery,dnd,flashlight,rotation,bt,airplane,location,hotspot,inversion,saver,dark,work,cast,night,screenrecord,reverse</string>
     <string name="quick_settings_tiles_super_save">wifi,bt,gps,cell,vibrate</string>
     <string name="quick_settings_time_label">Tempo</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Per aggiungere un elemento premi e tieni premuto, quindi trascinalo nella parte superiore del pannello.</string>
@@ -1888,7 +1875,6 @@ essere monitorata"</string>
     <string name="status_bar_ethernet">LAN</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Imposta metodi di input</string>
     <string name="status_bar_latest_events_title">Notifiche</string>
-    <string name="status_bar_network_name_separator">-</string>
     <string name="status_bar_no_notifications_title">Nessuna notifica</string>
     <string name="status_bar_notification_app_settings_title">%s impostazioni</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -2077,7 +2063,6 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="user_switch_to_user">Passa a %s</string>
     <string name="v7_preference_off">DISATTIVA</string>
     <string name="v7_preference_on">ATTIVA</string>
-    <string name="velocity_tracker_impl">piattaforma</string>
     <string name="verify_apps_over_usb_summary">Controlla le app installate tramite ADB/ADT per comportamenti dannosi.</string>
     <string name="verify_apps_over_usb_title">Verifica app da USB</string>
     <string name="voice_assist_label">Esegui Voce Assistente</string>
