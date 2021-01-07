@@ -124,8 +124,6 @@
     <string name="cast_forward">Avanti</string>
     <string name="cast_forward_10">Avanti dieci secondi</string>
     <string name="cast_forward_30">Avanti trenta secondi</string>
-    <string name="cast_invalid_stream_duration_text">--:--</string>
-    <string name="cast_invalid_stream_position_text">--:--</string>
     <string name="cast_mute">Muto</string>
     <string name="cast_notification_connected_message">Collegato a %1$s</string>
     <string name="cast_notification_connecting_message">Connessione a %1$s</string>
@@ -484,7 +482,6 @@ per i video"</string>
     <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
     <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
     <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
-    <string name="library_roundedimageview_isOpenSource">vero</string>
     <string name="library_roundedimageview_libraryDescription">Una vista veloce (e disegnabile) che supporta angoli arrotondati (e ovali o cerchi) in base all\'esempio originale di Romain Guy.</string>
     <string name="live_now">In diretta ora</string>
     <string name="live_title">Live HDR</string>
@@ -694,7 +691,6 @@ per i video"</string>
     <string name="notify_apk_installed">Scaricato con successo</string>
     <string name="ok">OK</string>
     <string name="open_settings">Impostazioni</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Iscrizioni recenti</string>
     <string name="order_recently_updated">Aggiornati di recente</string>
     <string name="ovp_alert_dialog_download_install_task">Download plug-in HD…</string>
@@ -1145,7 +1141,6 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="srl_header_secondary">Rilascia Al Secondo Piano</string>
     <string name="srl_header_update">"'Ultimo aggiornamento' d-M HH:mm"</string>
     <string name="start_download_tip">Aggiunto alla coda. Controlla lo stato di avanzamento su Profilo e Download.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">Scheda SD</string>
     <string name="storage_internal_sdcard">Memoria interna</string>
     <string name="submit">Invia</string>
