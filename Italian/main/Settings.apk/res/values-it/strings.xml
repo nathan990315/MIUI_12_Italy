@@ -3943,7 +3943,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
     <string name="lockpassword_choose_your_pin_header_second_space">"Imposta PIN 
  per il Secondo Spazio"</string>
     <string name="lockpassword_choose_your_pin_message">Per sicurezza, imposta un PIN</string>
-    <string name="lockpassword_choose_your_pin_title">Immetti %d-%d numeri</string>
+    <string name="lockpassword_choose_your_pin_title" formatted="false">Immetti %d-%d numeri</string>
     <string name="lockpassword_choose_your_screen_lock_header">Imposta schermata di blocco</string>
     <string name="lockpassword_clear_label">Pulisci</string>
     <string name="lockpassword_confirm_for_second_user">Conferma la password per il Secondo Spazio</string>
@@ -4796,7 +4796,7 @@ ed esegui il software.</string>
     <string name="not_enabled">Spenta</string>
     <string name="not_installed">Non installata</string>
     <string name="not_set">Non impostato</string>
-    <string name="notch_and_status_bar_settings">Notch &amp; Tendina notifiche</string>
+    <string name="notch_and_status_bar_settings">Notch e Tendina notifiche</string>
     <string name="notch_force_black_desc">Scurisci l\'area intorno al notch</string>
     <string name="notch_force_black_title">Nascondi notch</string>
     <string name="notch_settings">Notch</string>
@@ -5139,7 +5139,7 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="password_and_security">Password e sicurezza</string>
     <string name="password_entrance_title">Password</string>
     <string name="password_guard">Password</string>
-    <string name="password_security_settings_title">Password &amp; sicurezza</string>
+    <string name="password_security_settings_title">Password e sicurezza</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="password_turned_off_text">La password è stata disattivata</string>
     <string name="password_turned_on_text">La password è stata attivata</string>
@@ -7331,7 +7331,7 @@ L\'approccio di Google alla sincronizzazione di dati per consentirti l\'accesso 
     <string name="tts_reset_speech_rate_title">Ripristina velocità testo</string>
     <string name="tts_settings">Impostazioni di sintesi vocale</string>
     <string name="tts_settings_title">Output sintesi vocale</string>
-    <string name="tts_sliders_title">Pronuncia rate &amp; pitch</string>
+    <string name="tts_sliders_title">Pronuncia rate e pitch</string>
     <string name="tts_spoken_language">Lingua parlata</string>
     <string name="tts_status_checking">Controllo in corso…</string>
     <string name="tts_status_not_supported">"%1$s non supportato"</string>

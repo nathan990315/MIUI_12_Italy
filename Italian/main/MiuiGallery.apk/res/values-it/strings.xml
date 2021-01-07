@@ -306,7 +306,7 @@
     <string name="burst_image_download_item_title" formatted="false">Scarica l\'originale (%s|%s)</string>
     <string name="burst_preview_title">Scatto continuo</string>
     <string name="burst_save_all">Tieni tutte le foto</string>
-    <string name="burst_save_choice_title">Selezionati %d di %d</string>
+    <string name="burst_save_choice_title" formatted="false">Selezionati %d di %d</string>
     <string name="burst_save_dialog_title">Seleziona quali foto mantenere</string>
     <string name="burst_save_error_msg">"Impossibile salvare"</string>
     <string name="burst_save_processing">Elaborazione…</string>
