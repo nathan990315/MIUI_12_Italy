@@ -68,6 +68,7 @@
     <string name="activate_email_notice">Assicurati di attivare il tuo account entro 24 ore</string>
     <string name="activity_not_found_notice">"Impossibile trovare l'app"</string>
     <string name="ad">Annuncio</string>
+    <string name="ad_bar_notification_setting_sub_title">Mostra gli eventi nella barra delle notifiche</string>
     <string name="ad_bar_notification_setting_title">Agenda</string>
     <string name="ad_buy">Acquista</string>
     <string name="ad_download">Scarica</string>
@@ -123,6 +124,8 @@
     <string name="cast_forward">Avanti</string>
     <string name="cast_forward_10">Avanti dieci secondi</string>
     <string name="cast_forward_30">Avanti trenta secondi</string>
+    <string name="cast_invalid_stream_duration_text">--:--</string>
+    <string name="cast_invalid_stream_position_text">--:--</string>
     <string name="cast_mute">Muto</string>
     <string name="cast_notification_connected_message">Collegato a %1$s</string>
     <string name="cast_notification_connecting_message">Connessione a %1$s</string>
@@ -481,6 +484,7 @@ per i video"</string>
     <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
     <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
     <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
+    <string name="library_roundedimageview_isOpenSource">vero</string>
     <string name="library_roundedimageview_libraryDescription">Una vista veloce (e disegnabile) che supporta angoli arrotondati (e ovali o cerchi) in base all\'esempio originale di Romain Guy.</string>
     <string name="live_now">In diretta ora</string>
     <string name="live_title">Live HDR</string>
@@ -690,6 +694,7 @@ per i video"</string>
     <string name="notify_apk_installed">Scaricato con successo</string>
     <string name="ok">OK</string>
     <string name="open_settings">Impostazioni</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Iscrizioni recenti</string>
     <string name="order_recently_updated">Aggiornati di recente</string>
     <string name="ovp_alert_dialog_download_install_task">Download plug-in HD…</string>
@@ -1060,6 +1065,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="report_content_violence">Incitamento all\'odio</string>
     <string name="report_fail">"Impossibile segnalare. Riprova."</string>
     <string name="report_success">Segnalazione riuscita</string>
+    <string name="request_camera_permission_message">"Proteggeremo le tue informazioni personali in conformità alle leggi e ai regolamenti pertinenti. Questa app ha bisogno dei seguenti permessi per funzionare normalmente:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso della fotocamera (per impostare la foto del tuo profilo)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Se non accetti tali permessi, non sarai in grado di utilizzare alcune funzioni di questa app; tuttavia, la sua funzionalità di base sarà ancora disponibile. È sempre possibile limitare le autorizzazioni o revocare l'autorizzazione nelle Impostazioni."</string>
     <string name="resend_active_email">Invia di nuovo</string>
     <string name="resend_email_reach_limit_message">"Hai richiesto troppe email di verifica. Assicurati che l'email di verifica non sia nella cartella Spam."</string>
     <string name="resend_email_reach_limit_title">Troppi tentativi</string>
@@ -1139,6 +1145,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="srl_header_secondary">Rilascia Al Secondo Piano</string>
     <string name="srl_header_update">"'Ultimo aggiornamento' d-M HH:mm"</string>
     <string name="start_download_tip">Aggiunto alla coda. Controlla lo stato di avanzamento su Profilo e Download.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">Scheda SD</string>
     <string name="storage_internal_sdcard">Memoria interna</string>
     <string name="submit">Invia</string>
@@ -1187,6 +1194,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="ticket_invalid">Il captcha inserito non è corretto</string>
     <string name="ticket_sign_in">Accedi via SMS</string>
     <string name="tip_author_click">Tocca per visualizzare altri video di questo account</string>
+    <string name="tip_pop"><Data>Il contenuto dei Momenti è fornito da Firework. Al fine di migliorare la vostra esperienza di visualizzazione e ricevere raccomandazioni di contenuto più rilevanti, consentire a Firework di raccogliere, elaborare e utilizzare le tue informazioni personali in conformità alla sua Informativa sulla privacy. Leggi e accetta la &lt;a href=\"%1$s\"&gt;Politica sulla privacy fi Fireworks&lt;/a&gt; prima di usare i suoi servizi.</Data></string>
     <string name="tip_topic_click">Tocca per trovare altri video su questo argomento</string>
     <string name="title_publisher">Creatori</string>
     <string name="title_subscribe">Sottoscrizioni</string>
@@ -1194,6 +1202,8 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="toast_request_too_frequently">Non così in fretta!</string>
     <string name="toast_share_failed">"Impossibile condividere. Attendi un minuto o due e riprova."</string>
     <string name="today">Oggi</string>
+    <string name="tool_bar_notification_setting_sub_title">Visualizza la barra degli strumenti nel pannello delle notifiche</string>
+    <string name="tool_bar_notification_setting_title">Strumenti nella barra delle notifiche</string>
     <string name="top_bar_game_desc">Scopri un sacco di giochi nuovi qui</string>
     <string name="top_bar_game_title">Canale Gaming</string>
     <string name="tuesday">Martedì</string>

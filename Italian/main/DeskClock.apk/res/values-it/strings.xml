@@ -212,7 +212,7 @@
     <string name="delete_timezone_title">Elimina fuso orario</string>
     <string name="deskclock_sleep_no_disturbance">Orologio - Pianifica il sonno - Mod. Non Disturbare</string>
     <string name="dialog_confirm_abort">Vuoi annullare le modifiche?</string>
-    <string name="dialog_legal_off_day">&lt;Data&gt;\"Sembra che tu stia utilizzando Sveglie nei giorni festivi. Questa funzione deve connettersi a internet per funzionare correttamente. Prima di utilizzare questa funzione, è necessario accettare il nostro &amp;lt;a href=\"%1$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;. Accettare?\"&lt;/Data&gt;</string>
+    <string name="dialog_legal_off_day"><Data>\"Sembra che tu stia utilizzando Sveglie nei giorni festivi. Questa funzione deve connettersi a internet per funzionare correttamente. Prima di utilizzare questa funzione, è necessario accettare il nostro &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Accettare?\"</Data></string>
     <string name="dialog_legal_off_day_desc">"L' orologio non è autorizzato a connettersi ad internet per aggiornare le info sulle festività. Le sveglie si disattiveranno sabato e domenica."</string>
     <string name="dialog_legal_workday">&lt;Data&gt;\"Sembra che tu stia utilizzando Sveglie nei giorni lavorativi. Questa funzione deve connettersi a internet per funzionare correttamente. Prima di utilizzare questa funzione, è necessario accettare il nostro &amp;lt;a href=\"%1$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;. Accettare?\"&lt;/Data&gt;</string>
     <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;\"Sembra che tu stia utilizzando Sveglie nei giorni lavorativi e festivi. Questa funzione deve connettersi a internet per funzionare correttamente. Prima di utilizzare questa funzione, è necessario accettare il nostro &amp;lt;a href=\"%1$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;. Accettare?\"&lt;/Data&gt;</string>
@@ -567,6 +567,7 @@
     <string name="shutdown_alarm_enable_summary">"La sveglia si attiverà con dispositivo spento"</string>
     <string name="shutdown_alarm_title">Sveglia dopo spegnimento</string>
     <string name="silent_alarm_summary">Silenziosa</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Disattiva una volta il %s</string>
     <string name="sleep_analysis">Statistiche</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -640,6 +641,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Nessun giro</string>
     <string name="stopwatch_reset_notification">Il cronometro è stato resettato</string>
     <string name="stopwatch_running_notification">Cronometro</string>
@@ -648,6 +650,7 @@
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Consenti a questa applicazione di connettersi ad internet per accedere a tutte le sue funzioni.</string>
     <string name="system_permission_main_purpose">Visualizzare l\'ora, impostare sveglie e timer, utilizzare il cronometro</string>
     <string name="system_permission_purpose">Creare sveglie settimanali e impostare suonerie personalizzate</string>

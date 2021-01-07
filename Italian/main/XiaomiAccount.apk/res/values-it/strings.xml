@@ -419,6 +419,7 @@ Invia questo codice ai tecnici."</string>
     <string name="passport_prev">Indietro</string>
     <string name="passport_privacy_policy">Informativa sulla Privacy</string>
     <string name="passport_privacy_policy_required">Informativa sulla Privacy (obbligatorio)</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> caratteri di almeno <xliff id="min_pwd_type" refersto="2">%3$d</xliff> dei seguenti tipi: lettere, cifre, simboli speciali</string>
     <string name="passport_pwd_generate_failure">"Impossibile generare la password"</string>
     <string name="passport_pwd_generating">Creazione…</string>
     <string name="passport_querying_phone_info">Richiesta informazioni telefono utente…</string>
@@ -540,7 +541,7 @@ Invia questo codice ai tecnici."</string>
     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
-    <string name="provision_back">indietro</string>
+    <string name="provision_back">Indietro</string>
     <string name="provision_next">Successivo</string>
     <string name="provision_skip_underline">Salta</string>
     <string name="push_notification_content">Premi per ricevere il codice di verifica</string>

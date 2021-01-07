@@ -70,9 +70,13 @@
     <string name="adjust_clarity">Chiarezza</string>
     <string name="adjust_color_temperature">Caldo</string>
     <string name="adjust_contrast">Contrasto</string>
+    <string name="adjust_faderray">Dissolvenza</string>
     <string name="adjust_grain">Grano</string>
+    <string name="adjust_highlight">Alte luci</string>
+    <string name="adjust_highlight_shadow">Alte luci e ombre</string>
     <string name="adjust_reset">Azzera</string>
     <string name="adjust_saturation">Saturazione</string>
+    <string name="adjust_shadow">Ombre</string>
     <string name="adjust_sharpen">Definizione</string>
     <string name="adjust_vignette">Vignetta</string>
     <string name="afternoon">Pomeriggio</string>
@@ -185,6 +189,9 @@
     <string name="art_still_cancel_download">Annulla</string>
     <string name="art_still_download">Scarica</string>
     <string name="art_still_download_failed_for_notwork">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
+    <string name="art_still_download_sdk_without_wifi_msg">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
+    <string name="art_still_download_sdk_without_wifi_msg_china">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
+    <string name="art_still_download_with_metered_network_msg">Sembra che il dispositivo sia connesso a una rete a pagamento. Il download dei file originali potrebbe comportare costi aggiuntivi. Scaricarli comunque?</string>
     <string name="art_still_load_data_fail">"Impossibile caricare dati"</string>
     <string name="assistant_page_discovery">Scopri</string>
     <string name="assistant_page_label">Assistente</string>
@@ -299,7 +306,7 @@
     <string name="burst_image_download_item_title" formatted="false">Scarica l\'originale (%s|%s)</string>
     <string name="burst_preview_title">Scatto continuo</string>
     <string name="burst_save_all">Tieni tutte le foto</string>
-    <string name="burst_save_choice_title" formatted="false">Selezionati %d di %d</string>
+    <string name="burst_save_choice_title">Selezionati %d di %d</string>
     <string name="burst_save_dialog_title">Seleziona quali foto mantenere</string>
     <string name="burst_save_error_msg">"Impossibile salvare"</string>
     <string name="burst_save_processing">Elaborazione…</string>
@@ -337,6 +344,7 @@
     <string name="card_description_annual_peoples">Visi, storie, luoghi</string>
     <string name="card_description_annual_pets">Code, zampe e baffi</string>
     <string name="card_description_annual_travel">Cose che hai visto per strada</string>
+    <string name="card_description_from_to">%1$s - %2$s</string>
     <string name="card_title_activities">Eventi</string>
     <string name="card_title_annual_babys">Il tesoro a %1$s</string>
     <string name="card_title_annual_events">Le mie feste nel %1$s</string>
@@ -351,6 +359,7 @@
     <string name="card_title_pastyear_party">Feste dell\'anno scorso</string>
     <string name="card_title_pastyear_sports">Gli allenamenti dell\'anno scorso</string>
     <string name="card_title_recent_memory">Ricordi recenti</string>
+    <string name="card_title_somewhere">%1$s</string>
     <string name="card_title_sports">Allenamenti</string>
     <string name="card_title_three_month_baby">Il tempo vola</string>
     <string name="cast_devices_unavailable_desc">Assicurati che questo dispositivo e il proiettore siano collegati alla stessa rete Wi-Fi</string>
@@ -868,6 +877,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="face_name_edit">Modifica</string>
     <string name="face_name_input">Nome</string>
     <string name="face_recommend">Suggerimenti</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">"Operazione fallita."</string>
     <string name="fail_to_pick_email">Email selezionata non valida</string>
     <string name="fail_to_sync_album">"Impossibile sincronizzare l'album con il server. Verifica la connessione di rete."</string>
@@ -877,6 +887,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
     <string name="feature_guidance_photo_effects">"Effetti foto"</string>
     <string name="feature_guidance_video_editor_smart_effects">Sono disponibili nuovi effetti</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">"Impossibile stampare questo elemento."</string>
     <string name="file_cannot_screen_throw">"Impossibile trasmettere questo elemento."</string>
     <string name="file_sending">Trasferimento file…</string>
@@ -1085,6 +1096,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Imposta</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"La galleria necessita dell'accesso a 
 %s
  per funzionare correttamente, tocca Imposta per vedere i permessi."</string>
@@ -1129,6 +1141,9 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="id_photo_cancel_download">Annulla</string>
     <string name="id_photo_download">Scarica</string>
     <string name="id_photo_download_failed_for_notwork">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
+    <string name="id_photo_download_sdk_without_wifi_msg">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
+    <string name="id_photo_download_sdk_without_wifi_msg_china">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
+    <string name="id_photo_download_with_metered_network_msg">Sembra che il dispositivo sia connesso a una rete a pagamento. Il download dei file originali potrebbe comportare costi aggiuntivi. Scaricarli comunque?</string>
     <string name="id_photo_load_data_fail">"Impossibile caricare dati"</string>
     <string name="ignore_album">"Non mostrare"</string>
     <string name="ignore_alert_title">"Mostrare questo album?"</string>
@@ -1222,6 +1237,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="magic_eraser">Gomma</string>
     <string name="magic_exporting">Salvataggio…</string>
     <string name="magic_filter">Magico</string>
+    <string name="magic_filter_dsc">Crea ritratti con sfondi mozzafiato</string>
     <string name="magic_galery">Galleria</string>
     <string name="magic_hight">Altezza</string>
     <string name="magic_id_photo">ID</string>
@@ -1230,7 +1246,11 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="magic_matting_cancel_download">Annulla</string>
     <string name="magic_matting_download">Scarica</string>
     <string name="magic_matting_download_failed_for_notwork">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
+    <string name="magic_matting_download_sdk_without_wifi_msg">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
+    <string name="magic_matting_download_sdk_without_wifi_msg_china">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
+    <string name="magic_matting_download_with_metered_network_msg">Sembra che il dispositivo sia connesso a una rete a pagamento. Il download dei file originali potrebbe comportare costi aggiuntivi. Scaricarli comunque?</string>
     <string name="magic_matting_load_data_fail">"Impossibile caricare dati"</string>
+    <string name="magic_metered_network_msg">Sembra che il dispositivo sia connesso a una rete a pagamento. Il download dei file originali potrebbe comportare costi aggiuntivi. Scaricarli comunque?</string>
     <string name="magic_mix_px">L\'immagine è troppo piccola</string>
     <string name="magic_network_error">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
     <string name="magic_next">Successivo</string>
@@ -1567,6 +1587,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="people_mark_mode_title_no_mark_name">Seleziona una persona</string>
     <string name="people_page_label">Volto</string>
     <string name="people_page_unname">Senza nome</string>
+    <string name="percent_sign">%</string>
     <string name="permission_contacts_desc">Per assegnare i contatti alle persone sulle foto</string>
     <string name="permission_contacts_name">Contatti</string>
     <string name="permission_optional_category">Permessi opzionali </string>
@@ -1753,6 +1774,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="projection_switch_title">Passa a</string>
     <string name="projection_video_quit">Tocca per uscire</string>
     <string name="prompt_not_support_format">"Non è possibile usare questa immagine per creare una vignetta magica"</string>
+    <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
     <string name="public_url_descript">Chiunque può accedere al tuo album utilizzando questo link</string>
     <string name="publish_failed">"Pubblicazione fallita"</string>
     <string name="publish_succeeded">Album pubblicato</string>
@@ -2143,6 +2165,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="text_edit_dialog_style_bold">Grassetto</string>
     <string name="text_edit_dialog_style_color">"Colore  "</string>
     <string name="text_edit_dialog_style_shadow">Ombra</string>
+    <string name="text_edit_dialog_style_toast">"Impossibile posizionare il testo delineato sullo sfondo"</string>
     <string name="text_edit_dialog_style_transparent">Opacità</string>
     <string name="text_edit_sub_menu_text">Bolla</string>
     <string name="text_tab_bubble">Bolle</string>
@@ -2406,6 +2429,9 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="video_post_cancel_download">Annulla</string>
     <string name="video_post_download">Scarica</string>
     <string name="video_post_download_failed_for_notwork">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
+    <string name="video_post_download_sdk_without_wifi_msg">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
+    <string name="video_post_download_sdk_without_wifi_msg_china">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
+    <string name="video_post_download_with_metered_network_msg">Sembra che il dispositivo sia connesso a una rete a pagamento. Il download dei file originali potrebbe comportare costi aggiuntivi. Scaricarli comunque?</string>
     <string name="video_post_load_data_fail">"Impossibile caricare dati"</string>
     <string name="video_quality_1080p">1080P</string>
     <string name="video_quality_1080p_hd">1080P (alta definizione)</string>

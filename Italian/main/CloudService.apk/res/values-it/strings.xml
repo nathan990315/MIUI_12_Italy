@@ -112,6 +112,8 @@
     <string name="feedback_custom_hint">"Descrivi qui i problemi che hai riscontrato. Se fornisci dei suggerimenti, cercheremo di applicarli!"</string>
     <string name="find_device">Trova dispositivo abilitato</string>
     <string name="find_device_dspt_provision">Nel caso dovessi smarrire il tuo dispositivo, dirigiti su %s per localizzarlo, bloccarlo, o resettarlo. Puoi abilitare o disabilitare questa funzionalità quando vuoi dalle Impostazioni.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Verifica la connessione dati e riprova.</string>
     <string name="find_device_error_server">Qualcosa non ha funzionato sul nostro server.</string>
     <string name="find_device_gdpr_prompt">Attivando Trova Dispositivo, accetti \"Informativa sulla Privacy\". Se devi revocare la tua autorizzazione per la privacy, disattiva questa funzione.</string>
@@ -286,11 +288,14 @@
     <string name="micloud_find_device_open_fail">"Impossibile attivare Trova Dispositivo"</string>
     <string name="micloud_find_device_opened">Trova Dispositivo attivato</string>
     <string name="micloud_find_device_opened_content">Trova Dispositivo a %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">Potrebbe essere richiesto un messaggio SMS in uscita per attivare questo servizio. Il tuo operatore ti addebiterà il costo di questo messaggio. Quando sostituirai la scheda SIM, è possibile che venga inviato automaticamente un messaggio per riattivare questa funzionalità.</string>
     <string name="micloud_find_device_verify_button">Riattiva Trova dispositivo</string>
     <string name="micloud_find_device_verify_close">Disattiva Trova dispositivo</string>
     <string name="micloud_find_device_verify_fail">"Impossibile riattivare Trova dispositivo"</string>
     <string name="micloud_find_device_verify_progress">Riattivazione Trova dispositivo…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">La sincronizzazione è stata annullata. Riprova.</string>
     <string name="micloud_main_head_menu_cloud_backup">Backup cloud</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">Layout schermata home, app e impostazioni di sistema</string>
@@ -518,7 +523,7 @@ Le informazioni sulla posizione potrebbero non essere segnalate quando la connes
     <string name="privacy_doc_finddevice_with_telephony_feature_phone">"Benvenuto in Trova dispositivo! Puoi utilizzare questo servizio per localizzare, bloccare o cancellare i dati sul tuo dispositivo se perso. Puoi andare su &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; per localizzarlo, bloccarlo o resettarlo.&lt;br /&gt;&lt;br /&gt;Proteggeremo le tue informazioni personali in conformità con le leggi, i regolamenti e le politiche sulla privacy.&lt;br /&gt;Per poter lavorare normalmente, questo servizio deve collegarsi ad internet e richiede le seguenti autorizzazioni al fine di raccogliere le tue informazioni personali:&lt;br /&gt;• Accesso alle informazioni del dispositivo:&lt;br /&gt;Per identificare il tuo dispositivo&lt;br /&gt;• Posizione:&lt;br /&gt;per individuare il dispositivo e passare alla modalità persa&lt;br /&gt;Se non accetti di concedere tali autorizzazioni o condividere e caricare le tue informazioni personali non sarai in grado di utilizzare questo servizio. In questi casi puoi scegliere di disinstallare l'applicazione, disconnetterti o limitare le autorizzazioni nelle impostazioni.&lt;br /&gt;Leggi e accetta il nostro &lt;a href=%1$s&gt;&lt;u&gt;Accordo Utente&lt;/u&gt;&lt;/a&gt; e&lt;a href=%2$s&gt;&lt;u&gt;Politica sulla Privacy&lt;/u&gt;&lt;/a&gt; prima di utilizzare Trova dispositivo.&lt;br /&gt;"</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
     <string name="privacy_policy_url">app://com.miui.cloudservice.gdpr.license</string>
-    <string name="provision_back">indietro</string>
+    <string name="provision_back">Indietro</string>
     <string name="provision_next">Successivo</string>
     <string name="provision_skip_underline">Salta</string>
     <string name="provision_sync_items_loading">Preparazione alla sincronizzaizone degli elementi</string>

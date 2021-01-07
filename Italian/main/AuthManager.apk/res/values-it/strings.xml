@@ -141,11 +141,11 @@
     <string name="abc_searchview_description_query">Cerca termine</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Avvia ricerca</string>
-    <string name="abc_searchview_description_voice">RIcerca vocale</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
-    <string name="actionbar_button_up_description">indietro</string>
+    <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="am">AM</string>
     <string name="app_name">Permessi</string>
@@ -262,10 +262,10 @@
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -387,7 +387,7 @@
     <string name="month_june">Giugno</string>
     <string name="month_june_short">Giu</string>
     <string name="month_june_shortest">Giu</string>
-    <string name="month_march">MArzo</string>
+    <string name="month_march">Marzo</string>
     <string name="month_march_short">Mar</string>
     <string name="month_march_shortest">Mar</string>
     <string name="month_may">Maggio</string>
@@ -435,7 +435,7 @@
     <string name="permgroupdesc_location">Accedi alle informazioni sulla posizione</string>
     <string name="permgroupdesc_microphone">Registra audio</string>
     <string name="permgroupdesc_phone">Effettua chiamate e accedi alle informazioni sul dispositivo</string>
-    <string name="permgroupdesc_recognition">Accedi alla Salute e dati di attività</string>
+    <string name="permgroupdesc_recognition">Accedi alla Salute &amp; dati di attività</string>
     <string name="permgroupdesc_sensors">Accedi ai dati del sensore corporeo</string>
     <string name="permgroupdesc_sms">Leggi e Invia SMS</string>
     <string name="permgroupdesc_storage">Accedi a foto e file sul dispositivo</string>
@@ -473,7 +473,7 @@
     <string name="solar_term_insects_awaken">Risveglio degli insetti</string>
     <string name="solar_term_light_snow">Nevischio</string>
     <string name="solar_term_slight_cold">Freddino</string>
-    <string name="solar_term_slight_heat">Caldino</string>
+    <string name="solar_term_slight_heat">Moderatamente Caldo</string>
     <string name="solar_term_spring_begins">Arriva la primavera</string>
     <string name="solar_term_stopping_the_heat">Ritirata del caldo</string>
     <string name="solar_term_summer_begins">Inizia l\'estate</string>

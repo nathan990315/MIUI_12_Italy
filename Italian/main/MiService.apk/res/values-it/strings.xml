@@ -23,11 +23,11 @@
     <string name="abc_searchview_description_query">Cerca termine</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Avvia ricerca</string>
-    <string name="abc_searchview_description_voice">RIcerca vocale</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
-    <string name="actionbar_button_up_description">indietro</string>
+    <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="am">AM</string>
     <string name="app_name">app_main</string>
@@ -128,10 +128,10 @@
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -194,7 +194,7 @@
     <string name="miservice_channel_guide_name">guida</string>
     <string name="miservice_channel_update_notification_info">\"Servizi e feedback\" sta richiedendo dati online…</string>
     <string name="miservice_notification_boot_content">Scopri di più su ciò che MIUI può fare</string>
-    <string name="miservice_notification_boot_sub_title">Ti presentiamo le caratteristiche di questo dispositivo, goditi MIUI</string>
+    <string name="miservice_notification_boot_sub_title">Ti presentiamo le caratteristiche di questo dispositivo, goditi la MIUI</string>
     <string name="miservice_notification_boot_title">Conosci rapidamente il tuo nuovo dispositivo</string>
     <string name="miservice_notification_huanji_content">Trasferiscili usando Mi Mover</string>
     <string name="miservice_notification_huanji_title">Hai elementi importanti sul tuo vecchio telefono?</string>
@@ -209,7 +209,7 @@
     <string name="miui_feedback_answer_detail_feedback_unresolved">No</string>
     <string name="miui_feedback_answer_detail_menu_online_service">Ottieni aiuto online</string>
     <string name="miui_feedback_answer_detail_menu_phone_service">Chiama il supporto clienti</string>
-    <string name="miui_feedback_answer_detail_relative_tip">Questo potrebbe essere d\'aiuto:</string>
+    <string name="miui_feedback_answer_detail_relative_tip">Info correlate</string>
     <string name="miui_feedback_answer_detail_title">Dettagli</string>
     <string name="miui_feedback_edit_action_submit">Invia</string>
     <string name="miui_feedback_edit_add_original_images">Aggiungi foto</string>
@@ -259,8 +259,8 @@
     <string name="miui_feedback_edit_storage_permission_name">Accesso alla memoria del dispositivo</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">"Non accetto"</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">Accetto</string>
-    <string name="miui_feedback_edit_submit_dialog_content">&lt;Data&gt;\"Devi accettare i nostri &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt; e &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; per poter utilizzare Feedback. I problemi segnalati insieme agli elementi allegati (potrebbero contenere informazioni personali così come le informazioni sul tuo dispositivo e sulla tua rete) verranno caricate sui server MIUI. Questo ci aiuterà a individuare e risolvere i problemi segnalati.\"&lt;/Data&gt;</string>
-    <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data&gt;\"Il tuo feedback, insieme agli allegati (se presenti) e ai log (puoi deselezionare le caselle corrispondenti per gli elementi che non vuoi caricare) saranno inviati ai server MIUI. I log possono contenere informazioni personali e i dati della tua posizione. Selezionando \"Accetto\" si intende che hai letto e accettato la nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt; e &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt;.\"&lt;/Data&gt;</string>
+    <string name="miui_feedback_edit_submit_dialog_content"><Data>\"Devi accettare la nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Informativa sulla privacy&lt;/a&gt; e &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Accordo utente&lt;/a&gt; per poter utilizzare Feedback. I problemi segnalati insieme agli elementi allegati (potrebbero contenere informazioni personali, così come le informazioni sul tuo dispositivo e la rete) verranno caricati sui server MIUI. Questo ci aiuterà a individuare e risolvere i problemi che segnali.\"</Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content_global"><Data>\"Il tuo feedback, insieme agli allegati (se ce ne sono) e ai registri (puoi deselezionare le caselle corrispondenti per gli elementi che non vuoi caricare) verranno inviati ai server MIUI. I registri possono contenere informazioni personali e i dati sulla tua posizione. Selezionando \"Accetto\" significa che hai letto e accettato la nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Informativa sulla privacy&lt;/a&gt; e &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Accordo utente&lt;/a&gt;.\"</Data></string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"Non mostrare più"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Invia segnalazione</string>
     <string name="miui_feedback_edit_submit_directly">Invia</string>
@@ -293,12 +293,12 @@
     <string name="miui_guide_menu_privacy">Informativa sulla Privacy</string>
     <string name="miui_guide_top_bar_sub_title">Impara cosa MIUI può fare</string>
     <string name="miui_guide_top_bar_title">"Guida del principiante"</string>
-    <string name="miui_main_back">indietro</string>
+    <string name="miui_main_back">Indietro</string>
     <string name="miui_main_bottom_bar_feedback">Segnalazione</string>
     <string name="miui_main_bottom_bar_guide">"Guida del principiante"</string>
     <string name="miui_main_bottom_bar_mine">I miei servizi</string>
     <string name="miui_main_continue">Successivo</string>
-    <string name="miui_main_control_center_desc">Oppure passa alla vecchia versione in Impostazioni &gt; Notifiche e Centro di controllo</string>
+    <string name="miui_main_control_center_desc">Oppure passa alla vecchia versione in Impostazioni &gt; Notifiche &amp; Centro di controllo</string>
     <string name="miui_main_control_center_open">Nuovo Centro di Controllo</string>
     <string name="miui_main_control_center_title">Scorri per cambiare tra pannello delle notifiche e centro di controllo</string>
     <string name="miui_main_mirror_tab_desc1">Connetti automaticamente</string>
@@ -310,7 +310,7 @@
     <string name="miui_main_notes_tab_desc2">Crea mappe mentali</string>
     <string name="miui_main_notes_tab_desc3">Sii creativo</string>
     <string name="miui_main_notes_title">Le note sono perfette per nuove idee</string>
-    <string name="miui_main_pre_page">indietro</string>
+    <string name="miui_main_pre_page">Indietro</string>
     <string name="miui_main_privacy_tab_desc1">Proteggi i tuoi appunti</string>
     <string name="miui_main_privacy_tab_desc2">"Non condividere la posizione precisa"</string>
     <string name="miui_main_privacy_tab_desc3">Proteggi le tue foto e conversazioni</string>
@@ -381,7 +381,7 @@
     <string name="month_june">Giugno</string>
     <string name="month_june_short">Giu</string>
     <string name="month_june_shortest">Giu</string>
-    <string name="month_march">MArzo</string>
+    <string name="month_march">Marzo</string>
     <string name="month_march_short">Mar</string>
     <string name="month_march_shortest">Mar</string>
     <string name="month_may">Maggio</string>
@@ -401,7 +401,7 @@
     <string name="night">Sera</string>
     <string name="noon">Mezzogiorno</string>
     <string name="permission_agree">Accetto</string>
-    <string name="permission_china_version_msg">&lt;Data&gt;Prima di utilizzare \"Servizi e;amp;amp; feedback\", devi leggere e accettare i nostri &amp;lt;a href=%1$s&amp;gt; Contratto Utente&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;. Questa applicazione deve anche connettersi ad internet per funzionare correttamente.&lt;/Data&gt;</string>
+    <string name="permission_china_version_msg"><Data>Prima di utilizzare \"Servizi e feedback\", devi leggere e accettare i nostri  &lt;a href=%1$s&gt; Contratto Utente&lt;/a&gt;  e &lt;a href=%2$s&amp;gtInformativa sulla privacy&lt;/a&gt;. Questa applicazione deve anche connettersi ad internet per funzionare correttamente.</Data></string>
     <string name="permission_complete">Fatto</string>
     <string name="permission_contacts_info">Accesso alle informazioni dell\'account</string>
     <string name="permission_contacts_introduce">Per accedere tramite Mi Account</string>
@@ -415,7 +415,7 @@
     <string name="permission_location_introduce">Per visualizzare i centri assistenza nelle vicinanze</string>
     <string name="permission_main_purpose">Vedere e provare funzionalità MIUI, invio dei feedback e servizi post-vendita.</string>
     <string name="permission_privacy">Informativa Privacy (obbligatorio)</string>
-    <string name="permission_region_version_msg">&lt;Data&gt;Prima di utilizzare \"Servizi e;amp;amp; feedback\", devi leggere e accettare i nostri &amp;lt;a href=%1$s&amp;gt; Contratto Utente&amp;lt;/a&amp;gt; e &amp;lt;a href=%2$s&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+    <string name="permission_region_version_msg"><Data>Prima di utilizzare \"Servizi e feedback\", devi leggere e accettare il nostro &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt;.</Data></string>
     <string name="permission_select_all">Seleziona tutto</string>
     <string name="permission_storage">Archiviazione</string>
     <string name="permission_storage_introduce">Per salvare elementi sul tuo dispositivo</string>
@@ -456,7 +456,7 @@
     <string name="solar_term_insects_awaken">Risveglio degli insetti</string>
     <string name="solar_term_light_snow">Nevischio</string>
     <string name="solar_term_slight_cold">Freddino</string>
-    <string name="solar_term_slight_heat">Caldino</string>
+    <string name="solar_term_slight_heat">Moderatamente Caldo</string>
     <string name="solar_term_spring_begins">Arriva la primavera</string>
     <string name="solar_term_stopping_the_heat">Ritirata del caldo</string>
     <string name="solar_term_summer_begins">Inizia l\'estate</string>

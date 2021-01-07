@@ -7,19 +7,12 @@
         <item>0</item>
         <item>0</item>
     </string-array>
-    <string-array name="korea_permission_groups">
-        <item>android.permission-group.PHONE</item>
-        <item>android.permission-group.SMS</item>
-        <item>android.permission-group.CONTACTS</item>
-        <item>android.permission-group.CALENDAR</item>
-        <item>android.permission-group.STORAGE</item>
-    </string-array>
     <string-array name="korea_permission_groups_descriptions">
-        <item>Per identificare gli elementi sincronizzati</item>
-        <item>Per sincronizzare i messaggi</item>
-        <item>Per sincronizzare i contatti</item>
-        <item>Per sincronizzare gli eventi del calendario</item>
-        <item>Per sincronizzare gli elementi dei servizi che utilizzano lo spazio di archiviazione</item>
+        <item>For identifying synced items</item>
+        <item>For syncing messages</item>
+        <item>For syncing contacts</item>
+        <item>Utilizzato per sincronizzare automaticamente i messaggi del calendario</item>
+        <item>For syncing items with services that use storage</item>
     </string-array>
     <string-array name="korea_permission_groups_names">
         <item>Telefono</item>
@@ -29,163 +22,108 @@
         <item>Archiviazione</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray">
-        <item>Sincronizza i tuoi contatti, messaggi, note, calendario ed altro</item>
-        <item>Esegui il backup di applicazioni, layout Home e sfondi</item>
-        <item>Esegui il backup di impostazioni importanti, incluse quelle di Wi-Fi e schermo</item>
-        <item>"Controlla da remoto se hai perso il tuo dispositivo"</item>
-	</string-array>	
-	<string-array name="micloud_entrance_subtitleArray_china">
-        <item>Sincronizza i tuoi contatti, messaggi, note, calendario ed altro</item>
-        <item>Esegui il backup di applicazioni, layout Home e sfondi</item>
-        <item>Esegui il backup di impostazioni importanti, incluse quelle di Wi-Fi e schermo</item>
-        <item>"Controlla da remoto se hai perso il tuo dispositivo"</item>
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Backup di app, layout della schermata Home e sfondo</item>
+        <item>Back up important settings, including Wi-Fi and display</item>
+        <item>"Blocca il tuo dispositivo da remoto in caso di perdita"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Backup di app, layout della schermata Home e sfondo</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>"Blocca il tuo dispositivo da remoto in caso di perdita"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Backup di app, layout della schermata Home e sfondo</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>"Blocca il tuo dispositivo da remoto in caso di perdita"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Backup di app, layout della schermata Home e sfondo</item>
+        <item>Back up important settings, including Wi-Fi and display</item>
+        <item>"Blocca il tuo dispositivo da remoto in caso di perdita"</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
-        <item>Sincronizza dati app</item>
-        <item>Esegui il backup del layout Home</item>
-        <item>Esegui il backup delle impostazioni di sistema</item>
-        <item>Trova dispositivo</item>
-    </string-array>
-    <string-array name="privacy_dialog_finddevice_runtime_perm">
-        <item>android.permission.READ_PHONE_STATE</item>
-        <item>android.permission-group.LOCATION</item>
-    </string-array>
-    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
-        <item>Per identificare il tuo dispositivo</item>
-        <item>Per localizzare il tuo dispositivo e attivare la Modalità Perso</item>
-    </string-array>
-    <string-array name="privacy_dialog_sync_runtime_perm">
-        <item>android.permission-group.CALENDAR</item>
-        <item>android.permission.READ_SMS</item>
-        <item>android.permission.READ_MMS</item>
-        <item>android.permission.READ_CONTACTS</item>
-        <item>android.permission.WRITE_CONTACTS</item>
-        <item>android.permission-group.STORAGE</item>
-    </string-array>
-    <string-array name="privacy_dialog_sync_runtime_perm_desc">
-        <item>Per sincronizzare gli eventi</item>
-        <item>Per sincronizzare gli messaggi</item>
-        <item>Per sincronizzare gli messaggi</item>
-        <item>Per sincronizzare gli contatti</item>
-        <item>Per sincronizzare gli contatti</item>
-        <item>Per salvare elementi nel dispositivo (es. immagini, video, canzoni)</item>
+        <item>Elementi sincronizzati</item>
+        <item>Back up Home screen layout</item>
+        <item>Back up system settings</item>
+        <item>Trova Telefono</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Backup</item>
-        <item>Elementi salvati</item>
-        <item>Cloud;Back up;Backup;Servizi Cloud;Mi Cloud;Schermata Home;Layout;App;Gestione backup;Ripristina</item>
-    </string-array>
-    <string-array name="settings_search_backup_setting">
-        <item>Back up Home screen to Mi Cloud</item>
-        <item>Backup del layout della schermata Home, elenco delle app installate e impostazioni di sistema</item>
-        <item>Cloud;Back up;Backup;Cloud services;Mi Cloud;Home screen;Layout;Apps;Settings;Backup frequency;Manage backups;Restore</item>
+        <item>Backed up items</item>
+        <item>Cloud;Back up;Backup;Cloud services;Xiaomi Cloud;Home screen;Layout;Apps;Manage backups;Restore</item>
     </string-array>
     <string-array name="settings_search_browser">
-        <item>Sincronizza il Browser con Mi Cloud</item>
+        <item>Sync Browser with Xiaomi Cloud</item>
         <item>Attiva la sincronizzazione</item>
-        <item>Browser;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+        <item>Browser;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_calendar">
-        <item>Sincronizza il Calendario con Mi Cloud</item>
+        <item>Sync Calendar with Xiaomi Cloud</item>
         <item>Attiva la sincronizzazione</item>
-        <item>Calendario;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+        <item>Calendar;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_contacts">
-        <item>Sincronizza i Contatti con Mi Cloud</item>
-        <item>Attiva/configura la sincronizzazione</item>
-        <item>Contatti;Registro chiamate;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
-    </string-array>
-    <string-array name="settings_search_dial">
-        <item>Sincronizza il registro chiamate con Mi Cloud</item>
-        <item>Attiva/configura la sincronizzazione</item>
-        <item>Registro chiamate;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+        <item>La sincronizzazione con Mi Cloud è disattivata</item>
+        <item>Turn on/set up sync</item>
+        <item>Contacts;Call history;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_find_pad">
-        <item>Trova dispositivo</item>
-        <item>"Cancella i dati e blocca il dispositivo in caso di smarrimento"</item>
-        <item>Trova dispositivo;Perso;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+        <item>Trova Telefono</item>
+        <item>"Cancella i dati e blocca il dispositivo se viene perso"</item>
+        <item>Find device;Lost;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_find_phone">
-        <item>Trova dispositivo</item>
-        <item>"Cancella i dati e blocca il dispositivo in caso di smarrimento"</item>
-        <item>Trova dispositivo;Perso;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
-    </string-array>
-    <string-array name="settings_search_gallery">
-        <item>Sincronizza la Galleria con Mi Cloud</item>
-        <item>Attiva/configura la sincronizzazione</item>
-        <item>Galleria;Foto;Cloud;Sincronizazione;Servizi Cloud;Mi Cloud</item>
+        <item>Trova Telefono</item>
+        <item>"Cancella i dati e blocca il dispositivo se viene perso"</item>
+        <item>Find device;Lost;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_music">
-        <item>Sincronizza la musica con Mi Cloud</item>
+        <item>Sync music with Xiaomi Cloud</item>
         <item>Attiva la sincronizzazione</item>
-        <item>Musica;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+        <item>Music;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes">
-        <item>Sincronizza le Note con Mi Cloud</item>
+        <item>Sync notes with Xiaomi Cloud</item>
         <item>Attiva la sincronizzazione</item>
-        <item>Note;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+        <item>Notes;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
-	<string-array name="settings_search_phrase">
-        <item>Sincronizza le risposte rapide</item>
+    <string-array name="settings_search_notes_v2">
+        <item>Sync notes with Xiaomi Cloud</item>
         <item>Attiva la sincronizzazione</item>
-        <item>Risposte rapide;Appunti;Modifica;Cloud;Sync;Servizi Cloud</item>
+        <item>Notes;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
-        <item>Sincronizza Assistente App con Mi Cloud</item>
+        <item>Sync App vault with Xiaomi Cloud</item>
         <item>Attiva la sincronizzazione</item>
-        <item>Assistente App;Schede;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+        <item>App vault;Cards;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
-    <string-array name="settings_search_recorder">
-        <item>Sincronizza le registrazioni con Mi Cloud</item>
-        <item>Attiva/configura la sincronizzazione</item>
-        <item>Registratore;Cloud;Sincronizzazione;Servizi cloud;Mi Cloud</item>
-    </string-array>
-    <string-array name="settings_search_recycle_bin">
-        <item>Elimina elementi su Mi Cloud</item>
-        <item>Ripristina i contatti, foto, messaggi e altro</item>
-        <item>Cestino;Elimina elementi;Cestino;Ripristina;CServizi Cloud;Mi Cloud</item>
-    </string-array>
-    <string-array name="settings_search_restore_device">
-        <item>Ripristina elementi con Mi Cloud</item>
-        <item>Scarica sul tuo dispositivo gli elementi salvati</item>
-        <item>Cloud;Backup;Backup;Ripristino;Servizi Cloud;Mi Cloud</item>
+    <string-array name="settings_search_phrase">
+        <item>Sync quick replies</item>
+        <item>Attiva la sincronizzazione</item>
+        <item>Quick replies;Clipboard;Editor;Cloud;Sync;Cloud services</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Sincronizza Sicurezza col Cloud</item>
+        <item>Security cloud sync</item>
         <item>Attiva la sincronizzazione</item>
-        <item>Sicurezza;Cloud;Xiaomi Cloud;Sincronizzazione;Servizi cloud;</item>
-    </string-array>
-    <string-array name="settings_search_sms">
-        <item>Sincronizza i Messagi con Mi Cloud</item>
-        <item>TAttiva/configura la sincronizzazione</item>
-        <item>Messaggi;SMS;MMS;Cloud;Sincronizzazione;Servizi cloud;Mi Cloud</item>
+        <item>Security;Cloud;Xiaomi Cloud;Sync;Cloud services</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
-        <item>Piano Mi Cloud</item>
-        <item>Aggiorna il tuo piano, ottieni più spazio di archiviazione e sicurezza per i tuoi dati</item>
-        <item>Spazio di archiviazione non sufficiente;Piano;Archiviazione;Spazio di archiviazione;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud;Mega;Ultra;VIP;Backup;Backup;Ripristino;Cestino;Elimiazione elementi;Cestino</item>
-    </string-array>
-    <string-array name="settings_search_sync_manage">
-        <item>Mi Cloud. Tutti i Seervizi Mi in un unico posto.</item>
-        <item>Accedi a foto, contatti, messaggi e dispositivi da qualunque posto</item>
-        <item>menoria insufficiente;Paino;Archiviazione;Spazio di archiviazione;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud;Cestino;Eleemnti eliminati;Sicurezza</item>
+        <item>Xiaomi Cloud membership</item>
+        <item>Upgrade your membership, get more storage space, and secure your data</item>
+        <item>Archiviazione insufficiente;Iscrizione;Archivio;Spazio di archiviazione;Cloud;Sincronizzazione;Servizi cloud;Cloud Xiaomi;Mega;Ultra;VIP;Backup up;Backup;Ripristino;Cestino;Oggetti eliminati</item>
     </string-array>
     <string-array name="settings_search_wlan">
-        <item>Sincronizzazione impostazioni WI-Fi con Mi Cloud</item>
-        <item>Attiva sincronizzazione</item>
-        <item>Wi-Fi;wifi;WLAN;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
+        <item>Sync Wi-Fi settings with Xiaomi Cloud</item>
+        <item>Attiva la sincronizzazione</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
-	<string-array name="settings_search_wlan_china">
-        <item>Sincronizzazione impostazioni WI-Fi con Mi Cloud</item>
-        <item>Attiva sincronizzazione</item>
-        <item>Wi-Fi;wifi;WLAN;Cloud;Sincronizzazione;Servizi Cloud;Mi Cloud</item>
-    </string-array>
-    <string-array name="user_detail_fixed_item_click_action">
-        <item>action_view_cloud_data</item>
-        <item>action_view_storage_detail</item>
-    </string-array>
-    <string-array name="user_detail_fixed_items">
-        <item>Mostra elementi sincronizzati</item>
-        <item>Dettagli archiviazione</item>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>Attiva la sincronizzazione</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
 </resources>

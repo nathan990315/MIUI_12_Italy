@@ -82,8 +82,10 @@ per aggiungere schede"</string>
     <string name="allergic_drugs_hint">Inserisci i farmaci a cui sei allergico e le loro reazioni</string>
     <string name="allow_notice_periods">Consenti promemoria</string>
     <string name="altitude">Altitudine</string>
+    <string name="altitude_pressure_hint">*L\'Altitudine calcolata in base alla pressione atmosferica è approssimativa</string>
     <string name="altitude_range">Altitudine</string>
     <string name="am">AM</string>
+    <string name="app_name">MiaoCourse</string>
     <string name="app_setting">App</string>
     <string name="audio_permission_dialog_desc">Il permesso di registrazione audio è stato negato, concedilo.</string>
     <string name="audio_permission_dialog_title">Concedi permesso alla registrazione audio</string>
@@ -749,7 +751,17 @@ Attendere fino a quando il cerchio diventa rosso."</string>
     <string name="hr_detect_state_reseting_desc">Appena sveglio o completamente rilassato</string>
     <string name="hr_disable_in_split_screen">"Impossibile misurare la frequenza cardiaca mentre si utilizza lo schermo diviso"</string>
     <string name="hr_disturb_detect">Rilevamento interruzione</string>
+    <string name="hr_finger_permission_desc">Per misurare la frequenza cardiaca, questa funzione deve accedere allo scanner di impronte digitali per essere in grado di rilevare i cambiamenti nel flusso sanguigno. Permetterlo?</string>
     <string name="hr_fp_area">Scanner impronta</string>
+    <string name="hr_fp_detect_desc">Il sangue scorre verso le dita con ogni battito cardiaco. La luce luminosa nell\'area dello scanner di impronte digitali sotto lo schermo ci permette di monitorare i cambiamenti nel flusso sanguigno. analizzare il flusso e convertirlo in frequenza cardiaca.</string>
+    <string name="hr_fp_detect_principle_desc">"Il sangue non è completamente opaco, quindi la luce può passarci attraverso. Con ogni battito cardiaco il sangue scorre alle dita, bloccando più luce. La luce luminosa nell'area dello scanner di impronte digitali sotto lo schermo ci permette di monitorare i cambiamenti nel flusso sanguigno analizzarli e convertirli in valori di frequenza cardiaca."</string>
+    <string name="hr_fp_detect_principle_desc_2">"Nota: Assicurati che il dito copra completamente l'icona dell'impronta digitale durante la misurazione. Non applicare la forza, in quanto potrebbe bloccare il flusso di sangue nella punta delle dita e rendere i risultati imprecisi. Questa misura è fornita solo per riferimento. Non può sostituire test medici."</string>
+    <string name="hr_fp_detect_principle_desc_3">I nostri test mostrano che questo metodo misura la frequenza cardiaca con un errore di solo ≤3 BPM.</string>
+    <string name="hr_fp_detect_start_desc">Copri l\'icona con il dito</string>
+    <string name="hr_fp_detecting">"Non muovere il dito"</string>
+    <string name="hr_fp_not_put_well">"Il dito si è mosso.
+Inizia da capo."</string>
+    <string name="hr_fp_report_common_desc">La frequenza cardiaca normale varia da 60 a 100 battiti al minuto. Una frequenza cardiaca inferiore a 60 BPM è un segno di bradicardia, mentre una frequenza cardiaca superiore a 100 BPM è accettata come tachicardia negli adulti.</string>
     <string name="hr_heart_rate_unit">Frequenza cardiaca (BPM)</string>
     <string name="hr_in_detect">Non togliere le dita durante il test</string>
     <string name="hr_input_heart_rate">Registra frequenza cardiaca</string>
@@ -761,7 +773,18 @@ Attendere fino a quando il cerchio diventa rosso."</string>
     <string name="hr_pre_detect_finger">Verifica</string>
     <string name="hr_re_detect_title">Riavvia</string>
     <string name="hr_report_active_desc">Misurare la frequenza cardiaca immediatamente dopo l’allenamento può aiutarti a regolare le abitudini di esercizio, come allenamenti di diversa intensità hanno diverse zone di frequenza cardiaca ottimale. Se la frequenza cardiaca è troppo alta, l’attività potrebbe essere dannosa per la salute, con conseguente capogiri, costrizione toracica e altri rischi. La frequenza cardiaca bassa potrebbe essere un segno di un allenamento non efficace.</string>
+    <string name="hr_report_active_high_desc">"La tua frequenza cardiaca ci dice che stai impegnando in attività fisica di intensità relativamente alta. Il tuo cuore e i tuoi polmoni stanno lavorando intensamente."</string>
+    <string name="hr_report_active_higher_desc">"La tua frequenza cardiaca ci dice che sei impegnato in attività fisica ad alta intensità. Il tuo cuore e i polmoni stanno lavorando duramente. Fai attenzione al tuo stato e smetti l'esercizio se provi malessere."</string>
+    <string name="hr_report_active_lower_mid_desc">"La frequenza cardiaca ci dice che sei impegnato in attività fisica di intensità relativamente bassa. Adatta a riscaldamenti e semplici esercizi. Alle persone con varie condizioni è raccomandato fare esercizi di intensità da bassa a moderata."</string>
+    <string name="hr_report_active_lowest_desc">"La tua frequenza cardiaca ci dice che stai impegnando in attività fisica di bassa intensità. Stimola il tuo corpo senza richiedere molta energia."</string>
+    <string name="hr_report_active_mid_desc">"La tua frequenza cardiaca ci dice che sei impegnato in attività fisica di intensità moderata. È consigliato che la maggior parte degli adulti sani si dedichi all'esercizio fisico di moderato o alta intensità per un totale di 150 minuti a settimana."</string>
     <string name="hr_report_common_desc">La frequenza cardiaca normale mantenuta dal corpo umano durante le attività quotidiane e varia da 60 a 100 battiti al minuto. Una frequenza cardiaca inferiore a 60 BPM è un segno di bradicardia, mentre una frequenza cardiaca superiore a 100 BPM è accettata come tachicardia negli adulti.</string>
+    <string name="hr_report_regular_fast_desc">La frequenza cardiaca attuale è troppo veloce. Eccessiva attività fisica, bere alcol, intenso lavoro fisico, nervosismo, ansia o assumere alcuni farmaci può causare tachicardia fisiologica. Inoltre, malattie cardiovascolari, anemia, ipertiroidismo, ipossia, insufficienza cardiaca e altre malattie potrebbero essere i segni di tachicardia patologica. Se provi malessere, contatta il tuo medico al più presto.</string>
+    <string name="hr_report_regular_normal_desc">"La frequenza cardiaca attuale è normale. Il tuo cuore può affrontare bene lo stress e il tuo corpo può resistere alla pressione esterna. Tuttavia, non dimenticare che le alterazioni della frequenza cardiaca potrebbero essere segni di malattie cardiache. Tieni sempre d’occhio la frequenza cardiaca, soprattutto durante l’esercizio."</string>
+    <string name="hr_report_regular_slow_desc">"La frequenza cardiaca attuale è troppo lenta. Circa il 15% delle persone può sperimentare bradicardia fisiologica, che è un ritmo sinusale lento inferiore a 60 BPM. Se questa condizione non causa vertigini o svenimenti, probabilmente non avrai bisogno di alcun trattamento. Tuttavia, se si verificano oppressione toracica o altri sintomi, si prega di consultare il proprio medico."</string>
+    <string name="hr_report_resting_fast_desc">La frequenza cardiaca a riposo è più veloce del normale, il che potrebbe essere un sintomo di tachicardia. Una dieta a basso contenuto di sale e olio, perdita di peso, smettere di fumare e alcol, consapevolezza della salute mentale, e l’attività fisica potrebbe aiutare a rallentare la frequenza cardiaca a riposo.</string>
+    <string name="hr_report_resting_normal_desc">"La frequenza cardiaca a riposo è normale. La frequenza cardiaca a riposo è il numero di volte in cui il cuore batte al minuto quando sei a riposo. Il momento migliore per misurare la frequenza cardiaca a riposo è appena svegliato al mattino, rimanendo a letto e non facendo alcuna attività fisica. Prenditi del tempo per respirare profondamente prima di misurare la frequenza cardiaca a riposo per rilassarti completamente."</string>
+    <string name="hr_report_resting_slow_desc">La frequenza cardiaca a riposo è più lenta del normale, il che potrebbe essere sintomo di bradicardia. Periodi prolungati di battito cardiaco lento possono causare ischemia e ipossia, così come altri disturbi cardiovascolari e cerebrovascolari. La frequenza cardiaca a riposo è strettamente correlata alla dieta, all’attività, ai livelli di stress, alle abitudini di sonno e alle condizioni fisiche complessive. Mantenere uno stile di vita sano e prestare attenzione al tuo corpo al fine di evitare problemi. Se si verificano costrizione toracica, vertigini o svenimenti, si prega di consultare il proprio medico.</string>
     <string name="hr_see_report">Mostra rapporto</string>
     <string name="hr_start_detect">Prava subito</string>
     <string name="hr_state">Stato</string>
@@ -1292,6 +1315,7 @@ Attendere fino a quando il cerchio diventa rosso."</string>
     <string name="skipping_start_counting">Avvia</string>
     <string name="skipping_time">Durata</string>
     <string name="skipping_upload_dialog_agree_and_upload">Carica</string>
+    <string name="skipping_upload_dialog_msg">Quando il dispositivo è connesso a %s, è possibile scegliere di caricare l\'audio registrato durante gli allenamenti al fine di migliorare la precisione delle statistiche di allenamento. Per proteggere la tua privacy, i file audio saranno crittografati.</string>
     <string name="skipping_upload_dialog_reject_not_remind">Non ora</string>
     <string name="sleep">Dormi</string>
     <string name="sleep_and_get_up_time">Pianifica quando vai a letto</string>

@@ -107,6 +107,7 @@
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="default_boss_terminal_name">Notebook Mi</string>
     <string name="default_error_msg">Errore sconosciuto</string>
+    <string name="display_max_screen_count_toast">È possibile aprire fino a 3 finestre in questa versione</string>
     <string name="display_not_support_secondary_toast">"Impossibile aprire questa app in una nuova finestra"</string>
     <string name="download_cancel">Annulla</string>
     <string name="download_canceled">Download annullato</string>
@@ -138,6 +139,8 @@
     <string name="expand_button_title">Avanzate</string>
     <string name="fingerprint_dialog_touch_sensor">Tocca il sensore di impronte</string>
     <string name="fingerprint_error_hw_not_available">Hardware per l\'impronta digitale non disponibile.</string>
+    <string name="fingerprint_error_hw_not_present">Questo dispositivo non è dotato di sensore di impronte</string>
+    <string name="fingerprint_error_lockout">Troppi tentativi. Riprova più tardi.</string>
     <string name="fingerprint_error_no_fingerprints">Nessuna impronta.</string>
     <string name="fingerprint_error_user_canceled">Operazione impronta annullata dall\'utente.</string>
     <string name="fingerprint_not_recognized">Non riconosciuto</string>
@@ -286,6 +289,7 @@
     <string name="open_folder">Mostra</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="privacy_all_purpose">Benvenuto in MIUI + Beta! Puoi utilizzare questa app per collegare il telefono a un computer e combinare due dispositivi in un\'unica postazione di lavoro.</string>
     <string name="privacy_describe_change_wifi_state">Per collegare i dispositivi e trasferire file utilizzando il Wi-Fi</string>
     <string name="privacy_describe_location">Per trovare computer nelle vicinanze e trasferire file</string>
     <string name="privacy_describe_record_audio">Per reindirizzare la riproduzione audio al computer</string>
@@ -309,6 +313,7 @@
     <string name="settings_connect_title2">Fase 2</string>
     <string name="settings_feature">Funzioni speciali</string>
     <string name="settings_feature_characteristics">Funzioni speciali</string>
+    <string name="settings_feature_characteristics_summary_1">Copia il testo sul telefono e incollalo sul computer, aggiungi immagini e sincronizza le modifiche nei tuoi documenti.</string>
     <string name="settings_feature_characteristics_title_2">Trasferisci file</string>
     <string name="settings_feature_characteristics_title_3">Connetti automaticamente</string>
     <string name="settings_feature_dnd_summary">Silenzia le notifiche quando il dispositivo è connesso a un computer</string>
@@ -331,6 +336,7 @@
     <string name="settings_scanner_button">Scanner</string>
     <string name="settings_trusted">Connetti automaticamente</string>
     <string name="settings_trusted_delete">Rimuovi</string>
+    <string name="settings_trusted_tips">Connetti automaticamente ai dispositivi nelle vicinanze selezionati quando Bluetooth e Wi-Fi sono accesi</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>

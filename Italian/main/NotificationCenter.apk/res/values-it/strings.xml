@@ -29,11 +29,15 @@
     <string name="abc_toolbar_collapse_description">Chiudi</string>
     <string name="actionbar_button_up_description">indietro</string>
     <string name="afternoon">pomeriggio</string>
+    <string name="aggregate_title">Regole per il raggruppamento notifiche</string>
     <string name="am">AM</string>
     <string name="app_name">Notifiche</string>
     <string name="back">indietro</string>
     <string name="cancel">Ferma</string>
     <string name="category_other">Altro</string>
+    <string name="channel_keyguard_hide_content">Mostra tutte le notifiche ma nascondi il contenuto</string>
+    <string name="channel_keyguard_show_content">Mostra tutte le notifiche ed il loro contenuto</string>
+    <string name="channel_keyguard_show_nothing">"Non mostrare le notifiche"</string>
     <string name="channel_name_aggregation">Notifiche raggruppate</string>
     <string name="channel_name_notification">Notifiche app</string>
     <string name="channel_name_recovered">Notifiche ripristinate</string>
@@ -205,6 +209,7 @@
     <string name="fold_importance_default">Consigliato</string>
     <string name="fold_importance_important">Importante</string>
     <string name="fold_importance_unimportant">Non importante</string>
+    <string name="fold_title">Regole per le notifiche raggruppate</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
@@ -337,6 +342,9 @@
     <string name="notification_display_style">Stile notifica</string>
     <string name="notification_fold_summary">Raggruppa automaticamente notifiche non importanti</string>
     <string name="notification_fold_title">Raggruppa notifiche</string>
+    <string name="notification_keyguard_hide_content">Mostra notifiche ma nascondi il contenuto</string>
+    <string name="notification_keyguard_show_content">Mostra notifiche e contenuti</string>
+    <string name="notification_keyguard_show_nothing">"Non mostrare le notifiche nella schermata di blocco"</string>
     <string name="notification_manager">Notifiche app</string>
     <string name="notification_style_android">Dispositivo MIUI</string>
     <string name="notification_style_miui">MIUI</string>
@@ -354,6 +362,7 @@
     <string name="settings_guide_title">Hai bisogno di altre impostazioni?</string>
     <string name="show_badge_notifications">Badge di notifica</string>
     <string name="show_badge_notifications_short">Badge</string>
+    <string name="show_weather">Mostra info meteo</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
@@ -378,7 +387,10 @@
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Barra di stato</string>
+    <string name="summary_aggregate_default">Le notifiche push promozionali e relative al contenuto saranno raggruppate</string>
+    <string name="summary_aggregate_home">"Le notifiche push non saranno raggruppate"</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">"Notifiche fluttuanti non consentite"</string>
     <string name="summary_disable_lockscreen_notification">"Le notifiche sulla schermata di blocco non consentite"</string>
@@ -387,6 +399,9 @@
     <string name="summary_enable_lockscreen_notification">Le notifiche sulla schermata di blocco consentite</string>
     <string name="summary_enable_show_badge_notification">Badge di notifica consentiti</string>
     <string name="summary_float_enable_notification_first">Consenti alle notifiche di attivare le notifiche fluttuanti</string>
+    <string name="summary_fold_importance_default">MIUI deciderà quali notifiche devono essere visualizzate direttamente</string>
+    <string name="summary_fold_importance_important">Le notifiche appariranno nella barra delle notifiche</string>
+    <string name="summary_fold_importance_unimportant">Le notifiche appariranno in una cartella separata</string>
     <string name="summary_lock_screen_enable_notification_first">Consenti alle notifiche di attivare le notifiche nella schermata di blocco</string>
     <string name="summary_show_badge_enable_notification_first">Consenti alle notifiche di attivare i badge di notifica</string>
     <string name="sunday">domenica</string>
@@ -441,6 +456,7 @@
     <string name="time_picker_label_minute">Min</string>
     <string name="tip_feedback_thanks">Grazie per la segnalazione!</string>
     <string name="title_aggregate_default">Raggruppa notifiche</string>
+    <string name="title_aggregate_home">"Non raggruppare le notifiche"</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
     <string name="tuesday">martedì</string>

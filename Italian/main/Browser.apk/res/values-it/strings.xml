@@ -672,6 +672,7 @@ per supportare il nostro lavoro"</string>
     <string name="leto_cancel">Annulla</string>
     <string name="leto_close">Spegni</string>
     <string name="leto_confirm">Conferma</string>
+    <string name="leto_error_context_null">Il Contesto non può essere vuoto</string>
     <string name="leto_game_restart_button">Conferma</string>
     <string name="leto_login_second">Secondo</string>
     <string name="leto_mgc_about">Info su</string>
@@ -927,7 +928,10 @@ Sei scuro di voler uscire da questa pagina?"</string>
     <string name="mw_save_password_never">Mai</string>
     <string name="mw_save_password_notnow">Non adesso</string>
     <string name="mw_save_password_remember">Memorizza</string>
+    <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">AM</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Imposta tempo</string>
@@ -953,6 +957,7 @@ Ricorda che i file scaricati e i segnalibri che aggiungi verranno salvati comunq
     <string name="navigate_feedback_dislike_tips">Ridurrà certi suggerimenti video</string>
     <string name="navigate_feedback_input_report_label">Altri motivi</string>
     <string name="navigate_feedback_report">segnala</string>
+    <string name="navigate_feedback_report_input_length">%1$d/100</string>
     <string name="navigate_feedback_report_input_tips">Lascia la tua domanda, risponderemo al più presto</string>
     <string name="navigate_feedback_report_success">Segnalazione completata</string>
     <string name="navigate_feedback_report_title">Motivi della segnalazione</string>
@@ -1323,6 +1328,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
     <string name="ssl_unknown">Errore certificato sconosciuto.</string>
     <string name="ssl_untrusted">"Questo certificato non proviene da un'autorità attendibile."</string>
     <string name="ssl_warnings_header">Problemi con il certificato di sicurezza del sito.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_close">Chiudi</string>
     <string name="storage_internal">Memoria interna</string>
     <string name="storage_open">Apri</string>
@@ -1368,6 +1374,7 @@ Per navigare correttamente devi essere collegato ad Internet. Per poter utilizza
     <string name="suggestion_more_news_start_title_text">Notizie Correlate</string>
     <string name="suggestion_sliding_item_more_text">VEDI ALTRO</string>
     <string name="suggestion_topic_subtitle_hyphen">Focalizzazione</string>
+    <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
     <string name="suggestion_translation_more">PIÙ TRADUZIONI</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>

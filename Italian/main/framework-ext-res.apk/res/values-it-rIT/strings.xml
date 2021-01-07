@@ -28,7 +28,7 @@
     <string name="autofill">Riempimento automatico</string>
     <string name="autofill_save_message">Consentire a MIUI di salvare account e password?</string>
     <string name="autofill_save_ok">Concorda e Scarica</string>
-    <string name="autofill_save_sub_message">"Sarai in grado di gestire le password salvate in Impostazioni &gt; Password e Sicurezza &gt; %s."</string>
+    <string name="autofill_save_sub_message">"Sarai in grado di gestire le password salvate in Impostazioni &gt; Password &amp; Sicurezza &gt; %s."</string>
     <string name="autofill_save_title">Salva le password automaticamente</string>
     <string name="autofill_service_name">Gestisci password</string>
     <string name="back_double_tap">smart</string>
@@ -222,6 +222,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="resolver_offical_recommend">Ufficiale</string>
     <string name="resolver_other_method">Altre opzioni</string>
     <string name="resolver_recommend_options_tag">Opzioni suggerite</string>
+    <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
     <string name="resource_select">Seleziona</string>
     <string name="scanning_device_tips">Ricerca dispositivi nelle vicinanze… Assicurati che l\'altro dispositivo sia in modalità visibile.</string>
     <string name="screen_button_notification_text">Per attivarli premi contemporaneamente i tasti Home e Power.</string>
@@ -281,6 +282,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="status_bar_toggle_gps">Test GPS</string>
     <string name="status_bar_toggle_lock">Blocca</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
+    <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
     <string name="status_bar_toggle_mute">Silenzioso</string>
     <string name="status_bar_toggle_nfc">NFC</string>
     <string name="status_bar_toggle_paper_mode">Lettura</string>

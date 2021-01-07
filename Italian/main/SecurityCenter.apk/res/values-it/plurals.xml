@@ -80,9 +80,17 @@
         <item quantity="other">Non utilizzata da %d anni</item>
         <item quantity="one">Non utilizzata da %d anno</item>
     </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Puoi utilizzare Il blocco app con %1$s app</item>
+        <item quantity="one">Puoi utilizzare Il blocco app con %1$s app</item>
+    </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">Puoi proteggere almeno %s app</item>
         <item quantity="one">Puoi proteggere almeno %s app</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s app saranno protette con il blocco app</item>
+        <item quantity="one">%s app sarà protetta con il blocco App</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d app non possono collegarsi alla rete in background</item>
@@ -260,6 +268,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Collega almeno %d punti</item>
         <item quantity="one">Collega almeno %d punto</item>
     </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Collega almeno %s punti</item>
+        <item quantity="one">Collega almeno %s punto</item>
+    </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Attendi %d secondi e prova di nuovo. "</item>
         <item quantity="one">"Attendi %d secondo e prova di nuovo. "</item>
@@ -311,6 +323,14 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="notification_checker_installed_apk_text">
         <item quantity="other">Elimina %d pacchetti di installazione</item>
         <item quantity="one">Elimina %d pacchetto di installazione</item>
+    </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d problemi di utilizzo della batteria</item>
+        <item quantity="one">%d problema di utilizzo della batteria</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Ottimizza %d elementi per risparmiare batteria</item>
+        <item quantity="one">Ottimizza %d elemento per risparmiare batteria</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d giorni dall\'ultimo controllo</item>
@@ -424,6 +444,14 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Scaricato da %1$d persone</item>
         <item quantity="one">Scaricato da %1$d persone</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">volte</item>
+        <item quantity="one">volta</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d problemi di utilizzo della batteria</item>
+        <item quantity="one">%d problema di utilizzo della batteria</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d giorni "</item>
         <item quantity="one">"%d giorno "</item>
@@ -436,6 +464,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
     </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">Carica completamente il tuo dispositivo almeno %2$d volte per ottenere statistiche accurate</item>
+        <item quantity="one">Carica completamente il tuo dispositivo almeno %2$d volta per ottenere statistiche accurate</item>
+    </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ore "</item>
         <item quantity="one">"%d ora "</item>
@@ -444,9 +476,33 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">"%d minuti "</item>
         <item quantity="one">"%d minuto "</item>
     </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Risolvere %d problemi di utilizzo della batteria</item>
+        <item quantity="one">Risolvere %d problema di utilizzo della batteria</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Puoi risolvere %d problemi di utilizzo della batteria</item>
+        <item quantity="one">Puoi risolvere %d problema di utilizzo della batteria</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d elementi possono essere ottimizzati"</item>
+        <item quantity="one">" %d elemento può essere ottimizzato"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Ottimizza %d elementi per risparmiare batteria</item>
+        <item quantity="one">Ottimizza %d elemento per risparmiare batteria</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Puoi ottimizzare %d elementi per risparmiare batteria</item>
+        <item quantity="one">Puoi ottimizzare %d elemento per risparmiare batteria</item>
+    </plurals>
     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d °C</item>
         <item quantity="one">%d °C</item>
+    </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
     </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">Aggiungi %d minuti</item>
@@ -475,6 +531,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="power_off_warning_notification_message">
         <item quantity="other">Il dispositivo verrà spento tra %d secondi. Collega il caricabatterie.</item>
         <item quantity="one">Il dispositivo verrà spento tra %d secondo. Collega il caricabatterie.</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d app scaricano la batteria</item>
+        <item quantity="one">%d app scarica la batteria</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d app sono nascoste</item>
@@ -599,6 +659,14 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="uninstall_game_count_title">
         <item quantity="other">"%d giochi non aggiunti"</item>
         <item quantity="one">"%d gioco non aggiunto"</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Collega almeno %s punti</item>
+        <item quantity="one">Collega almeno %s punto</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Inserisci %s cifre</item>
+        <item quantity="one">Inserisci %s cifra</item>
     </plurals>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d app</item>
