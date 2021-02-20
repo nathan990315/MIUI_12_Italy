@@ -149,8 +149,8 @@
         <item quantity="one">%d video</item>
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Il Collage può contenere 1-%d foto</item>
-        <item quantity="one">Il Collage può contenere 1-%d foto</item>
+        <item quantity="other">Il Collage può contenere %1$d-%2$d foto</item>
+        <item quantity="one">Il Collage può contenere %1$d-%2$d foto</item>
     </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">Seleziona fino a %d foto</item>
@@ -168,10 +168,6 @@
         <item quantity="other">Eliminare %d raffiche?</item>
         <item quantity="one">Eliminare %d raffica?</item>
     </plurals>
-    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Eliminare %d raffiche da Xiaomi Cloud e da questo dispositivo?</item>
-        <item quantity="one">Eliminare %d raffica da Xiaomi Cloud e da questo dispositivo?</item>
-    </plurals>
     <plurals name="delete_finish_format">
         <item quantity="other">%d elementi eliminati</item>
         <item quantity="one">%d elemento eliminato</item>
@@ -184,21 +180,9 @@
         <item quantity="other">Eliminare %d elementi?</item>
         <item quantity="one">ELiminare %d elemento?</item>
     </plurals>
-    <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">Eliminare %d elementi da questo album e da Mi Cloud?</item>
-        <item quantity="one">Eliminate %d elemento da questo album e da Mi Cloud?</item>
-    </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Eliminare %d foto da tutti i dispositivi e da Mi Cloud?</item>
         <item quantity="one">Eliminare questa foto da tutti i dispositivi e da Mi Cloud?</item>
-    </plurals>
-    <plurals name="delete_photo_from_local">
-        <item quantity="other">Eliminare %d foto?</item>
-        <item quantity="one">Eliminare questa foto?</item>
-    </plurals>
-    <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Eliminare %d foto da questo album e da Mi Cloud?</item>
-        <item quantity="one">Eliminare questa foto da questo album e da Mi Cloud?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Eliminare %d raffiche dal tuo dispositivo?</item>
@@ -207,14 +191,6 @@
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
         <item quantity="other">Eliminare %d videoda tutti i dispositivi e da Mi Cloud?</item>
         <item quantity="one">Eliminare questo video da tutti i dispositivi e da Mi Cloud?</item>
-    </plurals>
-    <plurals name="delete_video_from_local">
-        <item quantity="other">Eliminare %d video?</item>
-        <item quantity="one">Eliminare questo video?</item>
-    </plurals>
-    <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">Eliminare %d video da questo album e da Mi Cloud?</item>
-        <item quantity="one">Eliminare questo video da questo album e da Mi Cloud?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">"Errore download per %1$d file"</item>

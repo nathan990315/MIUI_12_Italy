@@ -692,11 +692,11 @@
     <string name="disable_auto_upload_tip">Le foto nuove e quelle eliminate non verranno sincronizzate con Mi Cloud. Questo album verrà spostato in \"Altri album\".</string>
     <string name="disable_auto_upload_title">Disattiva sincronizzazione con Mi Cloud</string>
     <string name="do_not_remind_me">"Non mostrare più"</string>
-    <string name="document_provider_guide_step_1">1. Tocca il pulsante \"Altro\".</string>
-    <string name="document_provider_guide_step_2">2. Tocca \"Mostra memoria interna\".</string>
-    <string name="document_provider_guide_step_3">3. Tocca il pulsante del menu laterale.</string>
-    <string name="document_provider_guide_step_4">4. Seleziona \"Scheda SD\".</string>
-    <string name="document_provider_guide_step_5">5. Tocca \"Seleziona\".</string>
+    <string name="document_provider_guide_step_1"> %d. tocca il pulsante \"Altro\".</string>
+    <string name="document_provider_guide_step_2">%d. Tocca \"Mostra memoria interna\".</string>
+    <string name="document_provider_guide_step_3">%d. Tocca il pulsante del menu laterale.</string>
+    <string name="document_provider_guide_step_4">%d. Seleziona \"Scheda SD\".</string>
+    <string name="document_provider_guide_step_5">%d. Tocca \"Seleziona\".</string>
     <string name="double_tap_for_hr_preview_108m">Tocca due volte per passare all\'anteprima a 108MP</string>
     <string name="double_tap_to_higher_definition">Fai di nuovo doppio tap per l\'anteprima HD</string>
     <string name="download_canceled">Download annullato</string>
@@ -1245,6 +1245,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="magic_matting_download_sdk_without_wifi_msg_china">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
     <string name="magic_matting_download_with_metered_network_msg">Sembra che il dispositivo sia connesso a una rete a pagamento. Il download dei file originali potrebbe comportare costi aggiuntivi. Scaricarli comunque?</string>
     <string name="magic_matting_load_data_fail">"Impossibile caricare dati"</string>
+    <string name="magic_max_px">Questa immagine è troppo grande</string>
     <string name="magic_metered_network_msg">Sembra che il dispositivo sia connesso a una rete a pagamento. Il download dei file originali potrebbe comportare costi aggiuntivi. Scaricarli comunque?</string>
     <string name="magic_mix_px">L\'immagine è troppo piccola</string>
     <string name="magic_network_error">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
@@ -1390,7 +1391,7 @@ per personalizzare la Galleria"</string>
     <string name="movie_audio_summertime">Estate</string>
     <string name="movie_audio_vitality">Vigore</string>
     <string name="movie_cancel_download">Annulla</string>
-    <string name="movie_change_to_long_video">Hai selezionato più di 5 foto. Passaggio a video più lungo.</string>
+    <string name="movie_change_to_long_video">Hai selezionato più di %d foto. Passaggio a video più lungo.</string>
     <string name="movie_content_describe_add">Aggiungi foto</string>
     <string name="movie_content_describe_delete">Elimina foto</string>
     <string name="movie_content_describe_pause">Pausa</string>
@@ -1633,6 +1634,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="photo_editor_navigator_cancel">Annulla</string>
     <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Il download di %s richiede circa 4MB di traffico su rete mobile. Scaricare adesso?</string>
     <string name="photo_editor_navigator_download_network_metered_title">Avviso utilizzo dati</string>
+    <string name="photo_editor_navigator_download_title">Caricamento…</string>
     <string name="photo_editor_navigator_export">Fine</string>
     <string name="photo_editor_navigator_module_download_failed">"Impossibile scaricare %s"</string>
     <string name="photo_editor_navigator_module_download_now">Scarica</string>
@@ -1640,7 +1642,10 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="photo_editor_navigator_module_download_wait_wlan">In attesa di Wi-Fi</string>
     <string name="photo_editor_navigator_module_downloading">Download di %s…</string>
     <string name="photo_editor_navigator_need_download">Connettiti ad internet per scaricare %s.</string>
+    <string name="photo_editor_navigator_sticker_download_failed">"impossibile eseguire il download. Controlla le impostazioni di rete e riprova."</string>
+    <string name="photo_editor_navigator_sticker_download_success">Download riuscito</string>
     <string name="photo_editor_remove_watermark">Rimuovi la filigrana</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Sembra che tu non sia connesso al Wi-Fi. Utilizzare %1$d MB di dati mobili per scaricare il plug-in?"</string>
     <string name="photo_editor_remove_watermark_on">Aggiungi filigrana</string>
     <string name="photo_editor_remover">Cancella</string>
     <string name="photo_editor_remover2_download_failed_msg">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
@@ -1682,7 +1687,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="photo_font_download_without_wifi_title">Avvso utilizzo dati</string>
     <string name="photo_movie_module_finish">Video caricati correttamente</string>
     <string name="photo_movie_module_loading">Caricamento video…</string>
-    <string name="photo_movie_select_image_range">Le clip possono contenere da 3 a 6 foto</string>
+    <string name="photo_movie_select_image_range">Le clip possono contenere %1$d-%2$d foto</string>
     <string name="photo_page_lock_screen">Blocca orientamento</string>
     <string name="photo_page_rotate_screen">Ruota lo schermo</string>
     <string name="photo_page_save_uri_image_fail">"Impossibile salvare la foto."</string>
@@ -2027,7 +2032,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="sky_static">Statico</string>
     <string name="sky_sunny">Soleggiato</string>
     <string name="slideshow_interval_dialog_title">L\'intervallo dev\'essere maggiore di 0 secondi</string>
-    <string name="slideshow_interval_invalid">Intervallo non valido, deve essere 1~3600. Verrà ripristinato l\'intervallo predefinito</string>
+    <string name="slideshow_interval_invalid">Intervallo non valido, deve essere tra %1$d e %2$d secondi.</string>
     <string name="slideshow_interval_title">Mostra ogni diapositiva per</string>
     <string name="slideshow_loop_title">Ripeti tutte le diapositive</string>
     <string name="slim_complete">Fatto</string>
@@ -2307,8 +2312,8 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="video_compress_download_failed_for_notwork">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
     <string name="video_compress_encode_video">Compressione video…</string>
     <string name="video_compress_lib_download">Scarica il plugin di compressione video</string>
-    <string name="video_compress_lib_download_without_wifi">"Sembra che il tuo dispositivo non sia connesso al Wi-Fi. Puoi utilizzare la rete mobile per scaricare il plugin per la compressione video (1.3MB)."</string>
-    <string name="video_compress_not_with_8k">"Impossibile comprimere video 8K"</string>
+    <string name="video_compress_lib_download_without_wifi">"Sembra che il tuo dispositivo non sia connesso al Wi-Fi. Puoi utilizzare la rete mobile per scaricare il plugin per la compressione video (%.1f MB)."</string>
+    <string name="video_compress_not_with_8k">"Impossibile comprimere video  %dK"</string>
     <string name="video_compress_not_with_format">"Compressione video non supportata per questo formato"</string>
     <string name="video_compress_not_with_low_quality">La risoluzione attuale è la più bassa</string>
     <string name="video_compress_save_stop_tips">Tocca di nuovo per fermare la compressione</string>

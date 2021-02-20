@@ -453,6 +453,8 @@
     <string name="equalizer">Equalizzatore</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
+    <string name="error_message_no_internet_connection">Nessuna connesione a Internet. Per favore controlla la tua connesione e riprova.</string>
+    <string name="error_message_something_went_wrong">Qualcosa è andato storto, riprova.</string>
     <string name="error_not_support">Non supportato</string>
     <string name="evening">PM</string>
     <string name="exo_controls_fastforward_description">Avanti veloce</string>
@@ -674,6 +676,7 @@
     <string name="input_hint_prefix">Inserisci %1$s</string>
     <string name="installing_apk">Installazione..</string>
     <string name="insufficient_space">"Spazio insufficiente sulla memoria interna"</string>
+    <string name="invalid_number">Scusa, questo numero non è valido</string>
     <string name="is_latest_version">L\'app musica è aggiornata.</string>
     <string name="is_scanning">Scansione, attendere…</string>
     <string name="is_scanning_support_online">"Scansione, 
@@ -735,6 +738,7 @@ attendere o selezionare Musica Online."</string>
     <string name="list_item_play_all_tracks">Riproduci tutti i brani</string>
     <string name="load_shuffle">Caricamento</string>
     <string name="loadercontainer_loading">Attendi…</string>
+    <string name="loading">Caricamento</string>
     <string name="loading_hint">Attendi…</string>
     <string name="loading_reached_the_bottom">"E' tutto per ora."</string>
     <string name="local_header_title">Musica locale</string>
@@ -791,6 +795,11 @@ attendere o selezionare Musica Online."</string>
     <string name="modify_progress_helper">Scorri in alto o in basso per regolare lo scorrimento del testo</string>
     <string name="modify_song_info">Modifica</string>
     <string name="modify_song_info_success">Le informazioni del brano sono state aggiornate</string>
+    <string name="moe_inbox_name">Centro notifiche</string>
+    <string name="moe_message_to_register">Click on the register button to register for Integration Validation.</string>
+    <string name="moe_notification_center_empty">Centro notifiche vuoto</string>
+    <string name="moe_register">REGISTRA</string>
+    <string name="moe_unregister">ANNULLARE LA REGISTRAZIONE</string>
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">L</string>
