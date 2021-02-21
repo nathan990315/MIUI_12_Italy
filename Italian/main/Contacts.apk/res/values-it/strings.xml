@@ -82,6 +82,9 @@
     <string name="bh_bill_balance">Saldo</string>
     <string name="bh_bill_charge">Ricarica il saldo</string>
     <string name="bh_bugreport">Feedback aziendale</string>
+    <string name="bh_business_style">Seleziona interfaccia</string>
+    <string name="bh_business_style_new">Nuovo</string>
+    <string name="bh_business_style_old">Vecchio</string>
     <string name="bh_button_finish">Fatto</string>
     <string name="bh_buy_now">Acquista</string>
     <string name="bh_call_used">Minuti utilizzati</string>
@@ -296,6 +299,7 @@
     <string name="callrecordview_menu_show_missed">Chiamate perse</string>
     <string name="callrecordview_menu_show_sim">%s chiamate</string>
     <string name="callrecordview_menu_show_stranger">Chiamate da numeri sconosciuti</string>
+    <string name="cancel">Cancella</string>
     <string name="cancel_confirmation_dialog_message">Annullare le modifiche?</string>
     <string name="cancel_confirmation_dialog_title">Annulla</string>
     <string name="cancel_export_confirmation_message">Annullare l\'esportazione di %s?</string>
@@ -447,6 +451,15 @@
     <string name="contactsList">Contatti</string>
     <string name="contacts_default_notification_channel">Notifiche</string>
     <string name="contacts_hybrid_activity_label">Ripristino contatti</string>
+    <string name="contacts_trash_activity_hint">Seleziona i contatti da ripristinare</string>
+    <string name="contacts_trash_activity_title">Contatti eliminati di recente</string>
+    <string name="contacts_trash_delete">Elimina</string>
+    <string name="contacts_trash_delete_dialog_continue">Elimina</string>
+    <string name="contacts_trash_delete_dialog_hint">"Non sarai in grado di ripristinarlo."</string>
+    <string name="contacts_trash_delete_dialog_loading">Elimino…</string>
+    <string name="contacts_trash_delete_dialog_title">Elimina i contatti selezionati?</string>
+    <string name="contacts_trash_restore">Ripristina</string>
+    <string name="contacts_trash_restore_loading">Ripristino…</string>
     <string name="contacts_unavailable_add_account">Accedi ad un account</string>
     <string name="contacts_unavailable_create_contact">Crea nuovo contatto</string>
     <string name="contacts_unavailable_import_contacts">Importa contatti</string>
