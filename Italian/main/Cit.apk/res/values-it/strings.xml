@@ -725,6 +725,7 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
     <string name="cit_tool_no_repeat">Nessuna ripetizione!</string>
     <string name="cit_tool_not_support">Non supportato</string>
     <string name="cit_tool_opt_fail_info_notify">Scelta fallita, è necessario riavviare il telefono per la modalità offline.</string>
+    <string name="cit_tool_opt_standby">opzioni standby ...</string>
     <string name="cit_tool_prx_drx">PRx+DRx</string>
     <string name="cit_tool_prx_drx_select_mode">Seleziona modalità:</string>
     <string name="cit_tool_prx_drx_select_rat">Seleziona RAT:</string>
@@ -823,6 +824,7 @@ test fallito!"</string>
     <string name="delete">Elimina</string>
     <string name="description_info">Info</string>
     <string name="disable">Spegni</string>
+    <string name="dispaly_sar_sensor_values">Visualizza tutti i valori correnti del sensore</string>
     <string name="display_test_finish">Test schermo completato</string>
     <string name="dsi_sar_on_off_tips">Dsi Sar On/Off</string>
     <string name="enrol">Registra</string>
@@ -876,6 +878,7 @@ posizione specificata"</string>
     <string name="frr_total_count">FRTC (Conteggio Totale Tasso Rifiuto Errato):</string>
     <string name="get_DSI_result">Risultato DSI</string>
     <string name="get_base_finger">Estrazione immagine: Ottenimento base impronta</string>
+    <string name="get_dsi_tips">Valore corrente DSI</string>
     <string name="get_finger_data">Estrazione immagine: Campionamento dati impronta</string>
     <string name="get_sample_finger">Estrazione immagine: Ottenimento campionamento impronta</string>
     <string name="get_sensor_info">OTTIENI INFO SENSORE</string>
