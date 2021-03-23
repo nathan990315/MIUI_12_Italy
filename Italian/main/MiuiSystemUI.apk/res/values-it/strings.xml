@@ -728,8 +728,8 @@ Se riattivi i dati, l'operatore potrebbe addebitarti un costo."</string>
     <string name="disabled_by_admin">Disabilitato dall\'amministratore</string>
     <string name="disabled_by_admin_summary_text">Controllato dall\'amministratore</string>
     <string name="disconnect_vpn">Disconnetti VPN</string>
-    <string name="dnd_is_off">Modalità DND disattivata</string>
-    <string name="dnd_notification_warnings_title">Le chiamate e le notifiche verranno silenziato fino a che non disattiverai la modalità DND</string>
+    <string name="dnd_is_off">Modalità ND disattivata</string>
+    <string name="dnd_notification_warnings_title">Le chiamate e le notifiche verranno silenziato fino a che non disattiverai la modalità ND</string>
     <string name="dnd_suppressing_shade_text">Notifiche messe in pausa dalla modalità Non disturbare</string>
     <string name="do_disclosure_generic">Questo dispositivo è gestito dalla tua organizzazione</string>
     <string name="do_disclosure_with_name">Questo dispositivo è gestito da %s</string>
@@ -1570,9 +1570,9 @@ Sei anche collegato ad una VPN, che può monitorare la tua attività di rete."</
     <string name="qs_customize_remove">Rimuovi</string>
     <string name="qs_customize_title">Modifica</string>
     <string name="qs_dnd_keep">Mantieni</string>
-    <string name="qs_dnd_prompt_app">DND è stata attivata dall\'app (%s).</string>
-    <string name="qs_dnd_prompt_auto_rule">DND è stata attivata da una regola automatica (%s).</string>
-    <string name="qs_dnd_prompt_auto_rule_app">DND è stata attivata da una regola autonatica o da un\'app.</string>
+    <string name="qs_dnd_prompt_app">ND è stata attivata dall\'app (%s).</string>
+    <string name="qs_dnd_prompt_auto_rule">ND è stata attivata da una regola automatica (%s).</string>
+    <string name="qs_dnd_prompt_auto_rule_app">ND è stata attivata da una regola autonatica o da un\'app.</string>
     <string name="qs_dnd_replace">Sostituisci</string>
     <string name="qs_dnd_until">Fino a %s</string>
     <string name="qs_edit">Modifica</string>
@@ -2092,7 +2092,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="volume_stream_suppressed">%1$s silenzioso — %2$s</string>
     <string name="volume_stream_vibrate">%s vibrazione</string>
     <string name="volume_stream_vibrate_dnd">%s vibrazione — Solo priorità</string>
-    <string name="volume_up_silent">Uscità modalità DND con aumento volume</string>
+    <string name="volume_up_silent">Uscità modalità ND con aumento volume</string>
     <string name="volume_zen_end_now">Disattiva ora</string>
     <string name="vpn_footer">La rete potrebbe essere monitorata</string>
     <string name="vpn_settings_not_available">"Le opzioni VPN non sono disponibili per questo utente"</string>
