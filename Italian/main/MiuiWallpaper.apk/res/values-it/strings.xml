@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Fatto</string>
     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
-    <string name="abc_capital_off">ATTIVATO</string>
-    <string name="abc_capital_on">DISATTIVATO</string>
+    <string name="abc_capital_off">DISATTIVATO</string>
+    <string name="abc_capital_on">ATTIVATO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
@@ -23,11 +23,11 @@
     <string name="abc_searchview_description_query">Cerca termine</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Avvia ricerca</string>
-    <string name="abc_searchview_description_voice">RIcerca vocale</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
-    <string name="actionbar_button_up_description">indietro</string>
+    <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="already_newest_version">La versione attuale è aggiornata</string>
     <string name="am">AM</string>
@@ -156,7 +156,7 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
     <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
     <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
@@ -321,7 +321,7 @@ mm"</string>
     <string name="solar_term_insects_awaken">Risveglio degli insetti</string>
     <string name="solar_term_light_snow">Nevischio</string>
     <string name="solar_term_slight_cold">Freddino</string>
-    <string name="solar_term_slight_heat">Caldino</string>
+    <string name="solar_term_slight_heat">Moderatamente Caldo</string>
     <string name="solar_term_spring_begins">Arriva la primavera</string>
     <string name="solar_term_stopping_the_heat">Ritirata del caldo</string>
     <string name="solar_term_summer_begins">Inizia l\'estate</string>
@@ -339,7 +339,7 @@ mm"</string>
     <string name="super_wallpaper_list_label">Super Sfondi</string>
     <string name="super_wallpaper_setting_apply_success_toast">Applicato correttamente</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Applica</string>
-    <string name="super_wallpaper_setting_choose_position_btn_text">Seleziona la posizione</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">请选择省市</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordinate</string>
     <string name="super_wallpaper_setting_view_height_title">Altitudine</string>
     <string name="task_already_exist">Questa attività esiste già</string>
@@ -396,8 +396,8 @@ mm"</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="update">Aggiorna</string>
-    <string name="v7_preference_off">ATTIVATO</string>
-    <string name="v7_preference_on">DISATTIVATO</string>
+    <string name="v7_preference_off">DISATTIVATO</string>
+    <string name="v7_preference_on">ATTIVATO</string>
     <string name="wallpaper_setting_find_more_text">Altri sfondi online</string>
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Schermata Home</string>
     <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Schemata di blocco</string>

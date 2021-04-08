@@ -12,8 +12,8 @@ questa funzionalità verrà aggiunta automaticamente al Secondo Spazio."</string
     <string name="abc_action_mode_done">Fatto</string>
     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
-    <string name="abc_capital_off">ATTIVATO</string>
-    <string name="abc_capital_on">DISATTIVATO</string>
+    <string name="abc_capital_off">DISATTIVATO</string>
+    <string name="abc_capital_on">ATTIVATO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
@@ -116,7 +116,7 @@ per essere in grado di visualizzarli sempre"</string>
     <string name="dialog_title">Attenzione</string>
     <string name="dialog_title_service_error">Errore Server</string>
     <string name="dialog_undo_negative">"Non revocare"</string>
-    <string name="dialog_verify">Verifica la tua impronta</string>
+    <string name="dialog_verify">Posiziona il dito sul lettore di impronta</string>
     <string name="dialog_verify_fingerprint_retry">"Impossibile verificare l'impronta Prova di nuovo."</string>
     <string name="dir_switch_out_all_photos">Galleria Secondo Spazio</string>
     <string name="disable">Disattiva</string>
@@ -275,7 +275,7 @@ Puoi anche scaricarle separatamente."</string>
     <string name="not_support_multiple_users">"Gli spazi multipli non sono supportati"</string>
     <string name="notificationSetPassword">Imposta password</string>
     <string name="notificationSetPasswordDes">Proteggi i dati del Secondo Spazio</string>
-    <string name="notificationSummary">Passa tra gli Spazi dal pannello delle notifiche</string>
+    <string name="notificationSummary">Passa tra gli Spazi dall\'Area di notifica</string>
     <string name="notificationTitle">Collegamento pannello notifiche</string>
     <string name="notification_from_owner_user">Mostra le notifiche dal Primo Spazio</string>
     <string name="notification_from_second_user">Mostra le notifiche del Secondo Spazio</string>
@@ -387,7 +387,7 @@ Separa e proteggi i tuoi dati."</string>
     <string name="show_noti_from_owner">Notifiche dall\'altro spazio</string>
     <string name="show_noti_from_owner_detail">Ricevi le notifiche nello spazio corrente quando ricevute nell\'altro spazio</string>
     <string name="show_noti_quick_switch_icon">Collegamento pannello notifiche</string>
-    <string name="show_noti_quick_switch_icon_detail">Mostra una scorciatoia per cambiare gli spazi nel pannello delle notifiche</string>
+    <string name="show_noti_quick_switch_icon_detail">Mostra un collegamento per cambiare gli spazi dall\'Area di notifica</string>
     <string name="show_private_content">Mostra elementi privati</string>
     <string name="show_private_msg">Mostra i messaggi privati</string>
     <string name="show_private_msg_summary">Visualizza i messaggi privati nel Secondo Spazio</string>
@@ -463,8 +463,8 @@ per accedere dalla schermata di blocco"</string>
     <string name="undo_success">Revocato correttamente</string>
     <string name="use_google_open">Risveglia usando Google Assistant</string>
     <string name="use_xiaoai_open">Risveglia usando Mi AI</string>
-    <string name="v7_preference_off">ATTIVATO</string>
-    <string name="v7_preference_on">DISATTIVATO</string>
+    <string name="v7_preference_off">DISATTIVATO</string>
+    <string name="v7_preference_on">ATTIVATO</string>
     <string name="wating">Attendi…</string>
     <string name="weibo_send">Invia con Weibo</string>
     <string name="weixin_pay">WeChat Pay</string>

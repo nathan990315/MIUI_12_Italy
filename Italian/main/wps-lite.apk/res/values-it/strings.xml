@@ -32,8 +32,20 @@
     <string name="abc_action_mode_done">Fatto</string>
     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
-    <string name="abc_capital_off">ATTIVATO</string>
-    <string name="abc_capital_on">DISATTIVATO</string>
+    <string name="abc_capital_off">DISATTIVATO</string>
+    <string name="abc_capital_on">ATTIVATO</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
@@ -49,7 +61,7 @@
     <string name="abc_searchview_description_query">Cerca termine</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Avvia ricerca</string>
-    <string name="abc_searchview_description_voice">RIcerca vocale</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
@@ -144,7 +156,7 @@
     <string name="func_translate_title">Traduci l\'intero documento</string>
     <string name="help_send_editing_file">Invia %s per aiutare lo sviluppatore a individuare il problema.</string>
     <string name="highlight">Evidenzia</string>
-    <string name="pdf_comment">commenti</string>
+    <string name="pdf_comment">Commenta</string>
     <string name="pdf_decrypt_edit_tips">L\'autore ha impostato la password di modifica per il documento. Inserire la password per continuare.</string>
     <string name="pdf_lack_content_tip">Il documento contiene i seguenti contenuti non supportati al momento, che potrebbero influenzare il display:</string>
     <string name="pdf_picture_format">Formato immagine</string>
@@ -154,7 +166,7 @@
     <string name="phone_scroll_to_last_page">Hai raggiunto la fine del documento.</string>
     <string name="phone_ss_sheet_add">+ (Aggiungi)</string>
     <string name="phone_writer_readoptions_page_loading">Paginatura…</string>
-    <string name="ppt_audio_unsupport_format_audio">"Questo formato non supportato"</string>
+    <string name="ppt_audio_unsupport_format_audio">"Tipo di file non supportato"</string>
     <string name="ppt_connect">Connetti</string>
     <string name="ppt_memery_tips">Va all\'ultima posizione visualizzata</string>
     <string name="ppt_no_note">Nessun commento</string>
@@ -181,7 +193,7 @@
     <string name="public_chart_series">Serie</string>
     <string name="public_checkPasswdFaild">Password non corretta.</string>
     <string name="public_close">Chiudi</string>
-    <string name="public_comment">commenti</string>
+    <string name="public_comment">Commenta</string>
     <string name="public_continue">Continua</string>
     <string name="public_copy">Copia</string>
     <string name="public_crash_dialog_content">Sistema arrestato a causa di un errore sconosciuto.</string>
@@ -266,7 +278,6 @@
     <string name="public_request_senior_password">Inserisci la password del permesso massimo</string>
     <string name="public_ribbon_font">Carattere</string>
     <string name="public_save">Salva</string>
-    <string name="public_saveAs">Salva come</string>
     <string name="public_saveDocumentError">"Impossibile salvare il file"</string>
     <string name="public_saveDocumentLackOfStorageError">"Archiviazione insufficiente, impossibile salvare il file"</string>
     <string name="public_saving">Attendi…</string>

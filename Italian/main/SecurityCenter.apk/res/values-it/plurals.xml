@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">%d giochi aggiunti</item>
         <item quantity="one">%d gioco aggiunto</item>
@@ -68,6 +104,10 @@
         <item quantity="other">%d volte</item>
         <item quantity="one">%d volta</item>
     </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Disinstalla %d app</item>
+        <item quantity="one">Disinstalla %d app</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Non utilizzata da %d giorni</item>
         <item quantity="one">Non utilizzata da %d giorno</item>
@@ -128,6 +168,14 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d giorni fa</item>
         <item quantity="one">%d giorno fa</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avanti %d secondi</item>
+        <item quantity="one">Avanti %d secondo</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Riavvolgi %d secondi</item>
+        <item quantity="one">Riavvolgi %d secondo</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">Cerca tra %d app</item>
         <item quantity="one">Cerca tra %d app</item>
@@ -149,8 +197,8 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="one">%d chiamata</item>
     </plurals>
     <plurals name="fw_blocked_count_call_one">
-        <item quantity="other">%1$d chiamate da %2$s ed altri</item>
-        <item quantity="one">%1$d chiamata da %2$s</item>
+        <item quantity="other">%d chiamate</item>
+        <item quantity="one">%d chiamata</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d SMS</item>
@@ -187,6 +235,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="gb_signed_days_sum">
         <item quantity="other">Registrato %d giorni di seguito</item>
         <item quantity="one">Registrato %d volta</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d altri caratteri</item>
@@ -248,6 +300,22 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Nessun dato sull\'utilizzo dati per %d app</item>
         <item quantity="one">Nessun dato sull\'utilizzo dati per %d app</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">%d giochi aggiunti</item>
         <item quantity="one">%d gioco aggiunto</item>
@@ -263,6 +331,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="keyguard_charging_info_drained_min_time_format">
         <item quantity="other">%s minuti</item>
         <item quantity="one">%s minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Collega almeno %d punti</item>
@@ -300,6 +372,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%d aggiornamenti sono disponibili</item>
         <item quantity="one">%d aggiornamento disponibile</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
     <plurals name="mixed_recording_incorrect_too_short">
         <item quantity="other">Inserisci almeno %d caratteri</item>
         <item quantity="one">Inserisci almeno %d carattere</item>
@@ -335,6 +411,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d giorni dall\'ultimo controllo</item>
         <item quantity="one">%d giorno dall\'ultimo controllo</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d app bloccate</item>
@@ -464,10 +544,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
     </plurals>
-    <plurals name="power_center_battery_health_summary">
-        <item quantity="other">Carica completamente il tuo dispositivo almeno %2$d volte per ottenere statistiche accurate</item>
-        <item quantity="one">Carica completamente il tuo dispositivo almeno %2$d volta per ottenere statistiche accurate</item>
-    </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ore "</item>
         <item quantity="one">"%d ora "</item>
@@ -547,10 +623,6 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="privacy_permission_summary">
         <item quantity="other">%s app hanno accesso permanente</item>
         <item quantity="one">%s app ha accesso permanente</item>
-    </plurals>
-    <plurals name="privacy_pop_times">
-        <item quantity="other">%s volte</item>
-        <item quantity="one">%s volta</item>
     </plurals>
     <plurals name="privacy_risk_app_count">
         <item quantity="other">%d app</item>

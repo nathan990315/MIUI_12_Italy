@@ -63,15 +63,15 @@ Desideri aiuto per il rinnovo?"</item>
         <item quantity="other">Tra mezz\'ora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">adesso</item>
+        <item quantity="one">Subito</item>
         <item quantity="other">adesso</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d minuti</item>
-        <item quantity="one">in 1 minuto</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">ora</item>
+        <item quantity="one">Proprio adesso</item>
         <item quantity="other">ora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
@@ -129,20 +129,20 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
         <item quantity="other">Tra 1 ora</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">In mezz\'ora</item>
-        <item quantity="other">In mezz\'ora</item>
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Immediatamente</item>
-        <item quantity="other">Immediatamente</item>
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d minuti</item>
-        <item quantity="one">in 1 minuto</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Ora</item>
-        <item quantity="other">Ora</item>
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
     </plurals>
     <plurals name="list_header_fans_count">
         <item quantity="other">%d follower</item>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Vai alla home</string>
-    <string name="abc_action_bar_up_description">Vai su</string>
+    <string name="abc_action_bar_home_description">Vai alla Home</string>
+    <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
     <string name="abc_action_mode_done">Fatto</string>
     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
-    <string name="abc_capital_off">ATTIVATO</string>
-    <string name="abc_capital_on">DISATTIVATO</string>
+    <string name="abc_capital_off">DISATTIVATO</string>
+    <string name="abc_capital_on">ATTIVATO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
@@ -18,45 +18,45 @@
     <string name="abc_menu_space_shortcut_label">Spazio</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menù+</string>
-    <string name="abc_search_hint">Cerca…</string>
-    <string name="abc_searchview_description_clear">Cancella termine</string>
+    <string name="abc_search_hint">Ricerca…</string>
+    <string name="abc_searchview_description_clear">Cancella campo</string>
     <string name="abc_searchview_description_query">Cerca termine</string>
     <string name="abc_searchview_description_search">Cerca</string>
-    <string name="abc_searchview_description_submit">Invia richiesta</string>
+    <string name="abc_searchview_description_submit">Avvia ricerca</string>
     <string name="abc_searchview_description_voice">Ricerca vocale</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
-    <string name="abc_toolbar_collapse_description">Chiudi</string>
+    <string name="abc_toolbar_collapse_description">Riduci</string>
     <string name="action_for_continue_timer">Riprendi</string>
     <string name="action_for_pause_timer">Pausa</string>
     <string name="action_for_restart">Ripeti</string>
     <string name="action_for_snooze">Sospendi</string>
     <string name="action_for_stop">Interrompi</string>
-    <string name="actionbar_button_up_description">indietro</string>
+    <string name="actionbar_button_up_description">Indietro</string>
     <string name="add_alarm">Aggiungi</string>
     <string name="add_clock">Aggiungi Orologio</string>
     <string name="add_common_timer">Aggiungi timer</string>
     <string name="add_timer">Timer Frequente</string>
     <string name="add_timezone_title">Aggiungi fuso orario</string>
     <string name="afternoon">Pomeriggio</string>
-    <string name="agree">OK</string>
+    <string name="agree">Accetto</string>
     <string name="alarm_alert_alert_silenced">Silenzia sveglia dopo %1$s</string>
     <string name="alarm_alert_disabled">Spenta</string>
     <string name="alarm_ascending_mode_summary">Il volume della sveglia aumenta progressivamente.</string>
     <string name="alarm_ascending_mode_title">Volume crescente</string>
-    <string name="alarm_clock_more_setting">Impostazioni</string>
-    <string name="alarm_disabled">disabilitata</string>
+    <string name="alarm_clock_more_setting">Impostazioni addizionali</string>
+    <string name="alarm_disabled">Spenta</string>
     <string name="alarm_in_silent_mode_title">Suona in modalità Silenzioso</string>
     <string name="alarm_klaxon_service_desc">Servizio di riproduzione dei suoni per le sveglie impostate nell\'orologio.</string>
     <string name="alarm_label_hint">Descrizione sveglia</string>
     <string name="alarm_list_title">Sveglia</string>
     <string name="alarm_notify_snooze_label">%s (sospesa)</string>
     <string name="alarm_notify_text">Sospendi o disattiva questa sveglia.</string>
-    <string name="alarm_repeat">Ripetizione</string>
+    <string name="alarm_repeat">Ripeti</string>
     <string name="alarm_ringtone">Suonerie sveglia</string>
     <string name="alarm_ringtone_picker">Sveglie</string>
     <string name="alarm_settings">Impostazioni Sveglia</string>
-    <string name="alarm_settings_category_title">Impostazioni sveglia</string>
+    <string name="alarm_settings_category_title">Impostazioni Sveglia</string>
     <string name="alarm_vibrate">Vibrazione</string>
     <string name="alarm_volume_summary">Imposta il volume delle sveglie</string>
     <string name="alarm_volume_title">Volume sveglia</string>
@@ -71,7 +71,6 @@
     <string name="am">AM</string>
     <string name="analog_gadget">Orologio</string>
     <string name="app_label">Orologio</string>
-    <string name="app_name">Preferenze</string>
     <string name="auto_silence_never">Mai</string>
     <string name="auto_silence_summary">Imposta il tempo dopo il quale sveglie e timer saranno silenziati</string>
     <string name="auto_silence_title">Disattivazione automatica</string>
@@ -104,7 +103,7 @@
     <string name="bedtime_welcome_desc">Mantenere un programma del sonno regolare e coerente va a vantaggio della tua salute. Imposta dei promemoria che ti aiuteranno ad andare a letto e a svegliarti ogni giorno.</string>
     <string name="birthday_alarm">Suoneria compleanno</string>
     <string name="birthday_alarm_summary">Riproduci \"Buon compleanno\" al posto della suoneria predefinita</string>
-    <string name="cancel">Ferma</string>
+    <string name="cancel">Annulla</string>
     <string name="channel_name_alarm">Sveglia</string>
     <string name="channel_name_sleep">Dormi</string>
     <string name="channel_name_stopwatch">Cronometro</string>
@@ -192,15 +191,16 @@
     <string name="common_settings">Impostazioni</string>
     <string name="common_timer_selector">Seleziona timer</string>
     <string name="confirm">Conferma</string>
-    <string name="confirm_abort">Annullare</string>
+    <string name="confirm_abort">Ignora</string>
     <string name="content_desc_keep_screen">Pulsante \"Mantieni schermo attivo\"</string>
     <string name="continue_operation">Continua</string>
-    <string name="continue_step">Avanti</string>
+    <string name="continue_step">Successivo</string>
     <string name="control_set_alarm">Imposta sveglia</string>
     <string name="control_set_alarm_with_existing">Sveglia impostata: %s</string>
     <string name="copy">Copia</string>
     <string name="current_stopwatch_time">Tempo attuale</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
+    <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="day_concat">", "</string>
     <string name="default_alarm_alert">Imposta suoneria sveglia predefinita</string>
     <string name="default_alarm_title">Suoneria predefinita</string>
@@ -214,15 +214,15 @@
     <string name="dialog_confirm_abort">Vuoi annullare le modifiche?</string>
     <string name="dialog_legal_off_day"><Data>\"Sembra che tu stia utilizzando Sveglie nei giorni festivi. Questa funzione deve connettersi a internet per funzionare correttamente. Prima di utilizzare questa funzione, è necessario accettare il nostro &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Accettare?\"</Data></string>
     <string name="dialog_legal_off_day_desc">"L' orologio non è autorizzato a connettersi ad internet per aggiornare le info sulle festività. Le sveglie si disattiveranno sabato e domenica."</string>
-    <string name="dialog_legal_workday">&lt;Data&gt;\"Sembra che tu stia utilizzando Sveglie nei giorni lavorativi. Questa funzione deve connettersi a internet per funzionare correttamente. Prima di utilizzare questa funzione, è necessario accettare il nostro &amp;lt;a href=\"%1$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;. Accettare?\"&lt;/Data&gt;</string>
-    <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;\"Sembra che tu stia utilizzando Sveglie nei giorni lavorativi e festivi. Questa funzione deve connettersi a internet per funzionare correttamente. Prima di utilizzare questa funzione, è necessario accettare il nostro &amp;lt;a href=\"%1$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;. Accettare?\"&lt;/Data&gt;</string>
+    <string name="dialog_legal_workday"><Data>\"Sembra che tu stia usando sveglie nei giorni feriali. Questa funzione deve connettersi a Internet per funzionare normalmente. Prima di utilizzare questa funzione, è necessario accettare il nostro &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Accetti?\"</Data></string>
+    <string name="dialog_legal_workday_and_off_day"><Data>\"Sembra che tu stia usando sveglie nei giorni feriali e festivi. Questa funzione deve connettersi a Internet per funzionare normalmente. Prima di utilizzare questa funzione, è necessario accettare il nostro &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Accetti?\"</Data></string>
     <string name="dialog_legal_workday_and_off_day_desc">"L' orologio non è autorizzato a connettersi ad internet per aggiornare le informazioni sulle festività. Le sveglie della settimana verranno impostate dal lunedì al venerdì. Saranno spente il sabato e la domenica."</string>
     <string name="dialog_legal_workday_desc">"L' orologio non è autorizzato a connettersi ad internet per aggiornare le informazioni sui giorni lavorativi. Le sveglie non saranno attive dal lunedì al venerdì."</string>
-    <string name="dialog_message_agree">Concordo</string>
+    <string name="dialog_message_agree">Accetto</string>
     <string name="dialog_message_for_contact_permission">Per rendere disponibili le sveglie di compleanno, l\'orologio dovrà accedere ai tuoi contatti. Procedere?</string>
     <string name="dialog_message_negative">"Non accetto"</string>
-    <string name="dialog_message_not_remind">"Non mostrare nuovamente"</string>
-    <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Questa funzione deve connettersi a internet per funzionare correttamente. Prima di utilizzare questa funzione, è necessario accettare il nostro &amp;lt;a href=\"%1$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;. Accettare?&lt;/Data&gt;</string>
+    <string name="dialog_message_not_remind">"Non mostrare più"</string>
+    <string name="dialog_net_permission_in_repeat_type"><Data>Questa funzionalità deve connettersi a Internet per funzionare normalmente. Prima di utilizzare questa funzione, devi accettare il nostro &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Accetti?</Data></string>
     <string name="dialog_privacy_content">Al fine di recuperare e sincronizzare informazioni su festività locali e fornire serizi personalizzati, l\'orologio deve collegarsi ad Internet. Prima di utilizzare l\'Orologio devi leggere e accettare %1$s e %2$s. Accetti?</string>
     <string name="dialog_privacy_content_global">Al fine di fornire servizi personalizzati, l\'Orologio deve collegarsi ad Internet. Prima di utilizzare l\'Orologio devi leggere e accettare %1$s e %2$s. Accetti?</string>
     <string name="dialog_privacy_content_news">Al fine di fornire servizi personalizzati ed includere le notizie del mattino nelle sveglie, l\'Orologio deve collegarsi ad Internet. Prima di utilizzare l\'Orologio devi leggere e accettare %1$s e %2$s. Accetti?</string>
@@ -285,7 +285,7 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
     <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
     <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
@@ -307,8 +307,8 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
-    <string name="force_touch_add_alarm">Aggiungi sveglia</string>
-    <string name="force_touch_enter_stopwatch">Cronom.</string>
+    <string name="force_touch_add_alarm">Aggiungi</string>
+    <string name="force_touch_enter_stopwatch">Cronometro</string>
     <string name="force_touch_enter_timer">Conto alla rovescia</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
@@ -349,7 +349,7 @@
     <string name="label_pref_summary">Etichetta</string>
     <string name="lap">Giro</string>
     <string name="lap_num">Giro</string>
-    <string name="last_step">indietro</string>
+    <string name="last_step">Indietro</string>
     <string name="legal_off_day">Escludi giorni feriali</string>
     <string name="legal_off_day_message">" (Sveglie disattivate nei giorni feriali)"</string>
     <string name="legal_workday">Giorni feriali (Lun/Ven)</string>
@@ -380,10 +380,10 @@
     <string name="life_post_weather_no_network">Collegati alla rete per aggiornare le informazioni meteo</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
     <string name="listen_news_msg">L\'orologio deve essere connesso a Internet per fornire il servizio di notizie del mattino.</string>
-    <string name="listen_news_privacy">&lt;Data&gt;Al fine di fornire servizi personalizzati e includere notizie mattutine nelle vostre sveglie, Orologio deve connettersi a internet per funzionare correttamente. Prima di utilizzare Orologio, è necessario leggere e accettare il nostro &amp;lt;a href=\"%1$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;. Accettare?&lt;/Data&gt;</string>
+    <string name="listen_news_privacy"><Data>Per poter fornire servizi personalizzati e includere le notizie giornaliere nelle tue sveglie, Orologio deve connettersi a Internet. Prima di utilizzare Orologio, devi anche leggere e accettare il nostro &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Accetti?</Data></string>
     <string name="loading_ringtone">Caricamento suoneria…</string>
     <string name="marketSdkVersion">3.2.5</string>
-    <string name="menu_add_worldclock">Fuso orario</string>
+    <string name="menu_add_worldclock">Aggiungi Orologio</string>
     <string name="menu_desk_clock">Orologio</string>
     <string name="menu_edit_timer_item">Modifica</string>
     <string name="menu_item_dock_settings">Impostazioni dock</string>
@@ -397,20 +397,23 @@
     <string name="miuix_appcompat_cancel_description">Annulla</string>
     <string name="miuix_appcompat_confirm_description">Conferma</string>
     <string name="miuix_appcompat_delete_description">Elimina</string>
+    <string name="miuix_appcompat_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleziona tutto</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annulla</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
+    <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornamento riuscito</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento...</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
     <string name="module_dialog_negative">"Non accetto"</string>
-    <string name="module_dialog_neutral">Ok</string>
+    <string name="module_dialog_neutral">Fatto</string>
     <string name="module_dialog_positive">Accetto</string>
     <string name="module_download_cancel">Non ora</string>
     <string name="module_download_data_msg">Per rendere disponibili le sveglie intelligenti, i suoni della natura e le sveglie di compleanno, l\'orologio dovrà connettersi ad Internet e accedere ai tuoi contatti. Dovrai anche scaricare ulteriore audio. Utilizzare i dati mobili per scaricare altro audio? \"</string>
@@ -424,32 +427,29 @@
     <string name="module_download_msg_replace">E\' disponibile un aggiornamento audio per le sveglie intelligenti. Collegarsi alla rete e scaricare adesso?</string>
     <string name="module_download_msg_timer">L\' orologio deve scaricare file audio per le sveglie con i suoni ambientali. Scaricare adesso?</string>
     <string name="module_download_no_network">Impossibile connettersi alla rete. Controlla le impostazioni di rete e riprova.</string>
-    <string name="module_download_ok">Concorda e Scarica</string>
+    <string name="module_download_ok">Consenti</string>
     <string name="module_download_success">Scaricamento audio addizionali riuscito</string>
     <string name="module_download_title">Audio addizionali richiesti</string>
     <string name="module_downloading">Scaricamento audio addizionali…</string>
     <string name="module_unzipping">Scompattamento audio…</string>
     <string name="module_update_success">L\'audio aggiornato delle sveglie smart MIUI è stato scaricato con successo. Puoi impostare le sveglie smart MIUI nelle impostazioni dell\'orologio.</string>
-    <string name="module_update_success_control">Ok</string>
+    <string name="module_update_success_control">Fatto</string>
     <string name="module_weather_ringtone_download_data">L\' allarme meteo seleziona diverse suonerie in base al meteo corrente. L\'orologio deve scaricare ≈30 MB di audio per farlo funzionare. Scaricarli ora?</string>
-    <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;Sveglia meteo seleziona diverse suonerie a seconda del tempo corrente. L\' orologio deve connettersi a Internet per scaricare &amp;#8776;30MB di audio. Prima di utilizzare Orologio, è necessario anche leggere e accettare il nostro &amp;lt;a href=\"%1$s\"&amp;gt;Contratto Utente&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;. Accettare?&lt;/Data&gt;</string>
+    <string name="module_weather_ringtone_download_data_privacy"><Data>Sveglia Meteo seleziona suonerie diverse in base al meteo. Orologio deve connettersi a Internet per scaricare 30 MB di file audio. Prima di utilizzare Orologio, devi leggere e accettare il nostro &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Accetti?</Data></string>
     <string name="module_weather_ringtone_download_wifi">L\' allarme meteo seleziona diverse suonerie in base al meteo corrente. L\'orologio deve scaricare degli audio per farlo funzionare. Scaricarli ora?</string>
-    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Sveglia meteo seleziona diverse suonerie a seconda del tempo corrente. L\' orologio deve connettersi a Internet per scaricare degli audio. Prima di utilizzare Orologio, è necessario anche leggere e accettare il nostro &amp;lt;a href=\"%1$s\"&amp;gt;Contratto Utente&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;. Accettare?&lt;/Data&gt;</string>
+    <string name="module_weather_ringtone_download_wifi_privacy"><Data>Sveglia Meteo seleziona suonerie diverse in base al meteo. Orologio deve connettersi a Internet per scaricare i file audio. Prima di utilizzare Orologio, devi anche leggere e accettare il nostro &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Accetti?</Data></string>
     <string name="module_weather_ringtone_introduce">La sveglia meteo sceglie diverse suonerie in base al tempo corrente. Ti permette anche di ascoltare informazioni meteo al mattino.</string>
     <string name="module_weather_ringtone_introduce_global">La sveglia meteo seleziona diverse suonerie in base al meteo corrente.</string>
     <string name="module_weather_ringtone_update_data">La sveglia meteo ora è dotata di musica di sottofondo e migliori avvisi vocali. Orologio deve scaricare 30 MB di audio per farla funzionare. Scaricarli ora?</string>
     <string name="module_weather_ringtone_update_success">La sveglia meteo ora è dotata di musica in background e migliori avvisi vocali. Puoi creare una nuova sveglia per provare questa funzione.</string>
     <string name="module_week_ringtone_download_data">La sveglia Naturale riproduce diversi suoni a seconda della data. L\'orologio deve scaricare 30 MB di audio per farla funzionare. Scaricarli ora?</string>
-    <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Sveglia naturale riproduce diversi suoni a seconda della data. L\' orologio deve connettersi a Internet per scaricare &amp;#8776;30MB di audio. Prima di utilizzare Orologio, è necessario anche leggere e accettare il nostro &amp;lt;a href=\"%1$s\"&amp;gt;Contratto Utente&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;. Accettare?&lt;/Data&gt;</string>
+    <string name="module_week_ringtone_download_data_privacy"><Data>Sveglia Natura riproduce suoni diversi a seconda della data. L\'orologio deve connettersi a Internet per scaricare 30 MB di file audio. Prima di utilizzare Orologio, devi anche leggere e accettare il nostro &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Accetti?</Data></string>
     <string name="module_week_ringtone_download_wifi">La sveglia Naturale riproduce diversi suoni a seconda della data. L\' orologio deve scaricare degli audio per farla funzionare. Scaricarli ora?</string>
-    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Sveglia naturale riproduce diversi suoni a seconda della data. L\' orologio deve connettersi a Internet per scaricare degli audio. Prima di utilizzare Orologio, è necessario anche leggere e accettare il nostro &amp;lt;a href=\"%1$s\"&amp;gt;Contratto Utente&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla Privacy&amp;lt;/a&amp;gt;. Accettare?&lt;/Data&gt;</string>
     <string name="module_week_ringtone_introduce">L\' allarme naturale riproduce suoni diversi a seconda della data.</string>
     <string name="module_week_ringtone_update_data">La sveglia Naturale riproduce diversi suoni a seconda della data. L\'orologio deve scaricare 30 MB di audio per farla funzionare. Scaricarli ora?</string>
     <string name="module_week_ringtone_update_success">L\'allarme naturale riproduce suoni diversi a seconda della data. Puoi creare una nuova sveglia per provare questa funzione.</string>
     <string name="module_white_noise_download_data">L\' orologio deve scaricare file audio per le sveglie con i suoni ambientali. Sono richiesti ≈30MB di dati su rete mobile per questo download. Scaricarli adesso?</string>
-    <string name="module_white_noise_download_data_privacy">&lt;Data&gt;Per scaricare i file audio per i timer con rumore ambientale (&amp;#8776;30MB) e fornire contenuti personalizzati, Orologio deve connettersi a internet per funzionare correttamente. Prima di utilizzare Orologio, è necessario leggere e accettare il nostro &amp;lt;a href=\"%1$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;. Stai utilizzando i dati mobili. Accettare?&lt;/Data&gt;</string>
     <string name="module_white_noise_download_wifi">L\' orologio deve scaricare file audio per le sveglie con i suoni ambientali. Scaricare adesso?</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Per scaricare i file audio per i timer di rumore ambientale e fornire servizi personalizzati, Orologio deve connettersi a internet per funzionare correttamente. Prima di utilizzare Orologio, è necessario leggere e accettare il nostro &amp;lt;a href=\"%1$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;. Accettare?&lt;/Data&gt;</string>
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -493,13 +493,11 @@
     <string name="more">Altro</string>
     <string name="more_alert_setting">Impostazioni avanzate sveglia</string>
     <string name="more_setting">Altre impostazioni</string>
-    <string name="more_settings">Altre impostazioni</string>
+    <string name="more_settings">Impostazioni</string>
     <string name="morning">Mattina</string>
     <string name="net_permission_cancel">"Non accetto"</string>
     <string name="net_permission_ok">Accetto</string>
-    <string name="network_privacy">&lt;Data&gt;Al fine di ottenere informazioni pertinenti sui giorni festivi e regolare le sveglie, Orologio deve connettersi a internet. Prima di utilizzare Orologio, è necessario leggere e accettare il nostro &amp;lt;a href=\"%1$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;. Accettare?&lt;/Data&gt;</string>
-    <string name="network_privacy_global">&lt;Data&gt;Al fine di fornire servizi personalizzati, Orologio deve connettersi a internet per funzionare correttamente. Prima di utilizzare Orologio, è necessario leggere e accettare il nostro &amp;lt;a href=\"%1$s\"&amp;gt;Contratto utente&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Informativa sulla privacy&amp;lt;/a&amp;gt;. Accettare?&lt;/Data&gt;</string>
-    <string name="never">Mai</string>
+    <string name="never">Una volta</string>
     <string name="new_label">Aggiungi etichetta sveglia</string>
     <string name="night">Sera</string>
     <string name="no_alarm_setting">Nessuna sveglia impostata</string>
@@ -510,9 +508,9 @@
     <string name="not_update">Non adesso</string>
     <string name="oneshot_alarm">Elimina dopo che ha suonato</string>
     <string name="open_keep_screen">La schermata sarà mantenuta attiva</string>
-    <string name="open_sleep_record">Apri sincronizzazione</string>
+    <string name="open_sleep_record">Attiva</string>
     <string name="other_category_title">Altro</string>
-    <string name="other_settings">Altro</string>
+    <string name="other_settings">Impostazioni addizionali</string>
     <string name="pause">Pausa</string>
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">Suggerimenti di contenuti personalizzati</string>
@@ -535,7 +533,7 @@
     <string name="ringtone_digital_timer">Conto alla rovescia</string>
     <string name="ringtone_dream">Daydream</string>
     <string name="ringtone_firefly">Lucciole</string>
-    <string name="ringtone_more">Altri</string>
+    <string name="ringtone_more">Altro</string>
     <string name="ringtone_other">Altre suonerie</string>
     <string name="ringtone_weather">Sveglia meteo</string>
     <string name="ringtone_week">Sveglia naturale</string>
@@ -547,7 +545,8 @@
     <string name="search_stopwatch_keywords">Cronometro</string>
     <string name="search_timer_keywords">Conto alla rovescia</string>
     <string name="search_worldclock_keywords">Orario;Fuso orario;Orologio</string>
-    <string name="set_alarm">Imposta sveglia</string>
+    <string name="send">Invia</string>
+    <string name="set_alarm">Imposta ora</string>
     <string name="set_alarm_choose_ringtone">Seleziona suoneria</string>
     <string name="set_alarm_done">Fatto</string>
     <string name="set_alarm_other">Altro</string>
@@ -566,7 +565,8 @@
     <string name="shutdown_alarm_disable_summary">"La sveglia non si attiverà con dispositivo spento"</string>
     <string name="shutdown_alarm_enable_summary">"La sveglia si attiverà con dispositivo spento"</string>
     <string name="shutdown_alarm_title">Sveglia dopo spegnimento</string>
-    <string name="silent_alarm_summary">Silenziosa</string>
+    <string name="silent_alarm_summary">Silenzia</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Disattiva una volta il %s</string>
     <string name="sleep_analysis">Statistiche</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -594,7 +594,7 @@
     <string name="snooze_confirm_cancel">Annulla sospensione</string>
     <string name="snooze_duration">Sospendi</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
-    <string name="snooze_duration_title">Durata sospensione</string>
+    <string name="snooze_duration_title">Sospendi</string>
     <string name="snooze_duration_value">Intervallo (minuti)</string>
     <string name="snooze_duration_value_fifteen">15</string>
     <string name="snooze_duration_value_five">5</string>
@@ -617,7 +617,7 @@
     <string name="solar_term_insects_awaken">Risveglio degli insetti</string>
     <string name="solar_term_light_snow">Nevischio</string>
     <string name="solar_term_slight_cold">Freddino</string>
-    <string name="solar_term_slight_heat">Caldino</string>
+    <string name="solar_term_slight_heat">Moderatamente Caldo</string>
     <string name="solar_term_spring_begins">Arriva la primavera</string>
     <string name="solar_term_stopping_the_heat">Ritirata del caldo</string>
     <string name="solar_term_summer_begins">Inizia l\'estate</string>
@@ -640,6 +640,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Nessun giro</string>
     <string name="stopwatch_reset_notification">Il cronometro è stato resettato</string>
     <string name="stopwatch_running_notification">Cronometro</string>
@@ -648,6 +649,7 @@
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Consenti a questa applicazione di connettersi ad internet per accedere a tutte le sue funzioni.</string>
     <string name="system_permission_main_purpose">Visualizzare l\'ora, impostare sveglie e timer, utilizzare il cronometro</string>
     <string name="system_permission_purpose">Creare sveglie settimanali e impostare suonerie personalizzate</string>
@@ -697,11 +699,11 @@
     <string name="thursday">Giovedì</string>
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
-    <string name="time">Orario</string>
+    <string name="time">Ora</string>
     <string name="time_picker_colon">:</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="time_picker_label_hour">O</string>
-    <string name="time_picker_label_minute">Min</string>
+    <string name="time_picker_label_minute">M</string>
     <string name="time_picker_label_second">S</string>
     <string name="time_settings">Impostazioni orologio</string>
     <string name="timer_alarm_alert_pad">%s</string>
@@ -714,7 +716,7 @@
     <string name="timer_alert_mute_switch">Premi l\'interruttore per silenziare le sveglie</string>
     <string name="timer_alert_type_beach">Spiaggia</string>
     <string name="timer_alert_type_forest">Foresta</string>
-    <string name="timer_alert_type_mute">Predefinito</string>
+    <string name="timer_alert_type_mute">Predefinita</string>
     <string name="timer_alert_type_rain">Pioggerella</string>
     <string name="timer_alert_type_spring_rain">Pioggia estiva</string>
     <string name="timer_alert_type_stove_fire">Fuoco di stufa</string>
@@ -728,16 +730,16 @@
     <string name="timer_created">Timer impostato</string>
     <string name="timer_end_time">Il Timer si fermerà a %s</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
-    <string name="timer_end_time_format_today">H:mm</string>
+    <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_is_paused">Il timer è stato messo in pausa</string>
     <string name="timer_item_delete">Elimina</string>
     <string name="timer_item_duration_display">%1$d Min %2$d Sec</string>
     <string name="timer_item_label_hint">Etichetta</string>
-    <string name="timer_item_picker_hour">Ora</string>
-    <string name="timer_item_picker_minute">Min</string>
-    <string name="timer_item_picker_second">Sec</string>
-    <string name="timer_new_item">Personalizza</string>
+    <string name="timer_item_picker_hour">O</string>
+    <string name="timer_item_picker_minute">M</string>
+    <string name="timer_item_picker_second">S</string>
+    <string name="timer_new_item">Aggiungi timer</string>
     <string name="timer_notify_text">Sospendi o disattiva.</string>
     <string name="timer_pause_timer">Timer in Pausa</string>
     <string name="timer_ringtone">Suoneria timer</string>
@@ -747,7 +749,7 @@
     <string name="timer_title">Conto alla rovescia</string>
     <string name="timezone_exist_error_message">"Impossibile aggiungere fuso orario. Il fuso orario è già esistente, si prega di selezionare di nuovo."</string>
     <string name="today">Oggi</string>
-    <string name="tomorrow">Domani</string>
+    <string name="tomorrow">domani</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
@@ -761,10 +763,14 @@
     <string name="update_notification_info">Aggiornamento dati in background…</string>
     <string name="usage_start">Avvia</string>
     <string name="user_agreement">Accordo utente</string>
-    <string name="v7_preference_off">Disattivato</string>
-    <string name="v7_preference_on">Attivato</string>
+    <string name="v7_preference_off">DISATTIVATO</string>
+    <string name="v7_preference_on">ATTIVATO</string>
+    <string name="version_update_dialog_negative_desc">Non adesso</string>
+    <string name="version_update_dialog_positive_desc">Aggiorna</string>
+    <string name="version_update_dialog_title">Aggiornamento disponibile</string>
     <string name="vibrate_pref_summary">Vibra quando suona la sveglia</string>
     <string name="vibrate_when_ringing">Vibra quando suona</string>
+    <string name="voice_add_alarm">Aggiungi sveglia tramite comando vocale</string>
     <string name="volume_button_setting_desc">Assegna funzioni ai pulsanti Power e Volume +/-</string>
     <string name="volume_button_setting_summary">"Imposta il comportamento alla pressione di uno dei due pulsanti"</string>
     <string name="volume_button_setting_title">Tasti fisici</string>

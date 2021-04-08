@@ -157,16 +157,16 @@
         <item quantity="one">Eliminare %s elemento dal pagamento?</item>
     </plurals>
     <plurals name="payment_record_menu_select_num">
-        <item quantity="other">Selezionati %s elementi</item>
-        <item quantity="one">Selezionato %s elemento</item>
+        <item quantity="other">%s elementi selezionati</item>
+        <item quantity="one">%s elemento selezionato</item>
     </plurals>
     <plurals name="shopping_delete_num">
         <item quantity="other">Eliminare %s elementi selezionati?</item>
         <item quantity="one">Eliminare %s elemento selezionato?</item>
     </plurals>
     <plurals name="sms_day_suffix">
-        <item quantity="other">In %d giorni</item>
-        <item quantity="one">In %d giorno</item>
+        <item quantity="other">Partenza tra %d giorni</item>
+        <item quantity="one">Partenza tra %d giorno</item>
     </plurals>
     <plurals name="sms_hour_suffix">
         <item quantity="other">In %d ore</item>

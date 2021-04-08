@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ANT_set_title">imposta ant</string>
+    <string name="DSI_configuration_set">imposta DSI</string>
+    <string name="DSI_setting">DSI</string>
+    <string name="DSI_value_get">ottieni DSI</string>
     <string name="FpTest">Esecuzione Test FP</string>
     <string name="FpTest_result">Risultato Test FP:</string>
     <string name="SDCard">Scheda SD</string>
@@ -10,33 +13,45 @@
     <string name="SD_SDCard_mounted">Rileva Scheda SD</string>
     <string name="SD_SDCard_total_size">Dimensione totale</string>
     <string name="SD_SDCard_unmounted">Scheda SD non disponibile</string>
-    <string name="abc_action_bar_home_description">Naviga verso schermata iniziale</string>
-    <string name="abc_action_bar_up_description">Naviga verso l\'alto</string>
-    <string name="abc_action_menu_overflow_description">Più opzioni</string>
+    <string name="abc_action_bar_home_description">Vai alla Home</string>
+    <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
     <string name="abc_action_mode_done">Fatto</string>
-    <string name="abc_activity_chooser_view_see_all">Vedi tutti</string>
+    <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
-    <string name="abc_capital_off">DISATTIVA</string>
-    <string name="abc_capital_on">ATTIVA</string>
+    <string name="abc_capital_off">DISATTIVATO</string>
+    <string name="abc_capital_on">ATTIVATO</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">Elimina</string>
-    <string name="abc_menu_enter_shortcut_label">Invio</string>
+    <string name="abc_menu_delete_shortcut_label">elimina</string>
+    <string name="abc_menu_enter_shortcut_label">invio</string>
     <string name="abc_menu_function_shortcut_label">Funzione+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">Spazio</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menú+</string>
-    <string name="abc_search_hint">Cerca…</string>
-    <string name="abc_searchview_description_clear">Pulisci query</string>
-    <string name="abc_searchview_description_query">Cerca query</string>
+    <string name="abc_prepend_shortcut_label">Menù+</string>
+    <string name="abc_search_hint">Ricerca…</string>
+    <string name="abc_searchview_description_clear">Cancella campo</string>
+    <string name="abc_searchview_description_query">Cerca termine</string>
     <string name="abc_searchview_description_search">Cerca</string>
-    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_submit">Avvia ricerca</string>
     <string name="abc_searchview_description_voice">Ricerca vocale</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
-    <string name="abc_toolbar_collapse_description">Raggruppa</string>
+    <string name="abc_toolbar_collapse_description">Riduci</string>
     <string name="action_example">Azione di esempio</string>
     <string name="action_farr_enroll">FAR FRR:registra</string>
     <string name="action_farr_verify">FAR FRR:verifica</string>
@@ -84,7 +99,6 @@
     <string name="cancel">Annulla</string>
     <string name="cancelEnrol">Annulla Registrazione</string>
     <string name="cancel_test">TEST ANNULLATO</string>
-    <string name="canceled">Annullato</string>
     <string name="capacitance_test">TEST CAPACITIVO</string>
     <string name="charger_test_end">"
 Test caricabatterie terminato, prego scollega il caricabatterie"</string>
@@ -109,7 +123,7 @@ Test caricabatterie terminato, prego scollega il caricabatterie"</string>
     <string name="cit_accdata_sensor_check_title">Accelerometro</string>
     <string name="cit_accelermeter_sensor_check_summary">"Muovi il dispositivo velocemente in una direzione. I valori delle coordinate X, Y e Z sono visualizzati di seguito. (quando il dispositivo è in movimento: X rappresenta sinistra/destra, Y rappresenta avanti/indietro, Z rappresenta su/giù).
 Prima di calibrare il dispositivo, posizionalo su una superficie piana."</string>
-    <string name="cit_accelermeter_sensor_check_title">Test Accelerometro</string>
+    <string name="cit_accelermeter_sensor_check_title">Accelerometro</string>
     <string name="cit_analog_headset_plug_hint">Connetti cuffiette col cavo</string>
     <string name="cit_apk_signature_failed">firma apk FALLITO</string>
     <string name="cit_apk_signature_passed">firma apk RIUSCITO</string>
@@ -164,7 +178,7 @@ Avvicina il dispositivo al volto e parla al ricevitore: dovresti sentire la tua 
     <string name="cit_audio_loopback_check_two_title">Test Microfono 2</string>
     <string name="cit_audio_loopback_dualmic_earpiece_title">Test Audio chiamata</string>
     <string name="cit_audio_loopback_next">Successivo</string>
-    <string name="cit_audio_loopback_previous">Precedente</string>
+    <string name="cit_audio_loopback_previous">Indietro</string>
     <string name="cit_audio_loopback_summary_dualmic_earpiece">"Test di riduzione rumore ambientale.
 
 Impugna il dispositivo come se stessi chiamando e parla al microfono principale: dovresti sentire la tua voce senza rumori di fondo nel ricevitore."</string>
@@ -204,7 +218,7 @@ Impugna il dispositivo come se stessi chiamando e parla al microfono principale:
     <string name="cit_bluetooth_logging_confirm_info">questa registrazione Bluetooth salverà i dati protocollo dei tuoi dispositivi Bluetooth, limitandone la registrando ai soli dispositivi relegati a tale operazione. Verranno inoltre registrati i seguenti dati relativi alle informazioni sulla privacy: Accesso a Rubrica Bluetooth/Cronologia chiamate Telefono/SMS/MMS/File scambiati/Metadata di File Musicali ecc. Questi dati saranno limitati al debug interno di Xiaomi e non verranno utilizzati per altri scopi.</string>
     <string name="cit_bluetooth_logging_confirm_ng">Rifiuto</string>
     <string name="cit_bluetooth_logging_confirm_notify">Confermi di voler abilitare la registrazione?</string>
-    <string name="cit_bluetooth_logging_confirm_ok">Concordo</string>
+    <string name="cit_bluetooth_logging_confirm_ok">Accetto</string>
     <string name="cit_bluetooth_logging_confirm_title">Avviso Privacy Registrazione Bluetooth</string>
     <string name="cit_bluetooth_not_support">"Questo dispositivo non supporta il Bluetooth"</string>
     <string name="cit_bluetooth_scan_retry">Ripeti scansione</string>
@@ -257,19 +271,19 @@ al dispositivo ed alla presa a muro"</string>
     <string name="cit_diag_signal_title">Leggi i file di log stabilità segnale</string>
     <string name="cit_dial_emergencycall">Componi il 112</string>
     <string name="cit_display_check_summary">Verifica che il file .bmp richiesto sia sulla scheda SD. Verifica che i colori siano omogenei su tutto lo schermo. Assicurarti che non ci siano punti luminosi irregolari e macchie scure.</string>
-    <string name="cit_display_check_title">Test Schermo</string>
+    <string name="cit_display_check_title">Schermo</string>
     <string name="cit_display_continue">Tocca lo schermo per iniziare</string>
     <string name="cit_display_test_end">Termina test</string>
-    <string name="cit_display_test_next">Prossimo</string>
+    <string name="cit_display_test_next">Successivo</string>
     <string name="cit_emergencycall_check_summary">Clicca sul pulsante Componi 112 per comporre il numero 112 e verificarne l\'effettiva possibilità di posizionamento.</string>
     <string name="cit_emergencycall_check_title">Chiamata di Emergenza</string>
     <string name="cit_exit_test_summary">Uscire dalla diagnostica? Tutti i relativi dati verranno rimossi.</string>
     <string name="cit_exit_test_title">Chiusura test</string>
     <string name="cit_f2_cali">Calibrazione</string>
     <string name="cit_f2_cali_done">Calibrazione eseguita</string>
-    <string name="cit_f2_cali_failed">Calibrazione fallita, si rpega di riprovare</string>
+    <string name="cit_f2_cali_failed">Calibrazione fallita. Riprova.</string>
     <string name="cit_f2_cali_title">Calibrazioen fotocamera</string>
-    <string name="cit_f2_calibrating">Calibrazione in corso...</string>
+    <string name="cit_f2_calibrating">Calibrazione in corso…</string>
     <string name="cit_f2_camera_check_summary">"Istruzioni test:
 
 1.Tocca il tasto di calibrazione.
@@ -332,8 +346,8 @@ Tocca lo schermo per attivare il GPS"</string>
     <string name="cit_gyrodata_second_sensor_check_title">Il Secondo Giroscopio</string>
     <string name="cit_gyrodata_sensor_check_summary">I valori delle coordinate X，Y，Z, dovrebbero apparire in basso</string>
     <string name="cit_gyrodata_sensor_check_title">Giroscopio</string>
-    <string name="cit_gyroscope_sensor_check_summary">I valori delle coordinate X, Y, Z dovrebbero comparire di seguito</string>
-    <string name="cit_gyroscope_sensor_check_title">Test Giroscopio</string>
+    <string name="cit_gyroscope_sensor_check_summary">I valori delle coordinate X，Y，Z, dovrebbero apparire in basso</string>
+    <string name="cit_gyroscope_sensor_check_title">Giroscopio</string>
     <string name="cit_hall_down_arrow">↓</string>
     <string name="cit_hall_far">lontano</string>
     <string name="cit_hall_miui_test_summary">Quando un magnete si troverà vicino alla zona verde, lo schermo si spegnerà. In alternativa se il test dovesse fallire, lo schermo continuerà a funzionare normalmente.</string>
@@ -351,10 +365,10 @@ Tocca lo schermo per attivare il GPS"</string>
     <string name="cit_headset_button_fast_forward">Avanti veloce</string>
     <string name="cit_headset_button_next">Successivo</string>
     <string name="cit_headset_button_pass">Riuscito</string>
-    <string name="cit_headset_button_play_pause">Riproduci/Pausa</string>
-    <string name="cit_headset_button_previous">Precedente</string>
+    <string name="cit_headset_button_play_pause">Play/Pausa</string>
+    <string name="cit_headset_button_previous">Indietro</string>
     <string name="cit_headset_button_reverse">Prego inserisci il connettore delle cuffie USB nel verso opposto</string>
-    <string name="cit_headset_button_rewind">Ricomincia</string>
+    <string name="cit_headset_button_rewind">Riavvolgi</string>
     <string name="cit_headset_button_stop">Interrompi</string>
     <string name="cit_headset_button_unknown">Sconosciuto</string>
     <string name="cit_headset_loopback_check_summary">"Collega le cuffie al dispositivo e indossale. Parla al microfono (solitamente posizionato lungo il cavo): dovresti sentire la tua voce nelle cuffie."</string>
@@ -381,7 +395,7 @@ Tocca lo schermo per attivare il GPS"</string>
     <string name="cit_keyboard_current_def">Tastiera attuale:</string>
     <string name="cit_keyboard_menu">Pulsante: MENU</string>
     <string name="cit_keyboard_test_summary">Quando premi i pulsanti, il corrispondente testo sullo schermo dovrebbe diventare verde (nota: i pulsanti Home e Accensione non sono inclusi nel test).</string>
-    <string name="cit_keyboard_test_title">Test Tastiera</string>
+    <string name="cit_keyboard_test_title">Tasti</string>
     <string name="cit_label">Rilevamento hardware</string>
     <string name="cit_lcdlight_brightness">Retroilluminazione</string>
     <string name="cit_lcdlight_brightness_max">MAX</string>
@@ -395,7 +409,7 @@ Tocca lo schermo per attivare il GPS"</string>
     <string name="cit_light_sensor_check_summary">Il valore DAC dovrebbe comparire di seguito</string>
     <string name="cit_light_sensor_check_title">Test Sensore di luminosità</string>
     <string name="cit_macro_camera_check_title">Fotocamera macro</string>
-    <string name="cit_magnetic_sensor_check_summary">I valori delle coordinate X, Y, Z dovrebbero comparire di seguito</string>
+    <string name="cit_magnetic_sensor_check_summary">I valori delle coordinate X，Y，Z, dovrebbero apparire in basso</string>
     <string name="cit_magnetic_sensor_check_title">Test Magnetometro</string>
     <string name="cit_main_camera_check_summary">"Istruzioni per il test:
 
@@ -405,7 +419,7 @@ Tocca lo schermo per attivare il GPS"</string>
 4. Tocca l'icona a forma di spunta. Il sistema salverà la foto automaticamente
 5. La foto che hai scattato dovrebbe comparire di seguito. Tocca \"Elimina\" per completare questo test"</string>
     <string name="cit_main_camera_check_title">Test Fotocamera posteriore</string>
-    <string name="cit_name">Diagnostica</string>
+    <string name="cit_name">Rilevamento hardware</string>
     <string name="cit_nfc_check_enable_tip">Ambiente di prova NFC</string>
     <string name="cit_nfc_check_summary">"Si prega di mettere la scheda sulla parte superiore del retro del dispositivo"</string>
     <string name="cit_nfc_check_tip">inserisci la scheda nella parte superiore del retro del telefono</string>
@@ -432,7 +446,7 @@ Tocca lo schermo per attivare il GPS"</string>
     <string name="cit_proximity_data_check_summary">"Copri il sensore di prossimità (situato nella parte superiore del telefono vicino al ricevitore) con la tua mano, dopodiché smetti di coprirlo. Il valore dovrebbe aumentare da 0.0, quando allontanerai la mano dal dispositivo."</string>
     <string name="cit_proximity_sensor_check_summary">"Copri il sensore di prossimità (posizionato in cima al dispositivo, vicino al ricevitore) con una mano, quindi sposta la mano. A questo punto, il valore dovrebbe aumentare.
 Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua mano (es. pellicole protettive o guanti)."</string>
-    <string name="cit_proximity_sensor_check_title">Test Sensore di prossimità</string>
+    <string name="cit_proximity_sensor_check_title">Sensore di prossimità</string>
     <string name="cit_proximity_us_sensitivity">Sensibilità:</string>
     <string name="cit_proximity_us_summary">Calibrazione Sensore di Prossimità ad Ultrasuoni</string>
     <string name="cit_rear_dual_camera_check_title">Doppia fotocamera posteriore</string>
@@ -454,7 +468,7 @@ Durante la calibrazione, assicurati che non ci sia nulla tra il sensore e la tua
     <string name="cit_reset_se">Reimposta eSE</string>
     <string name="cit_reset_se_nfc_closed">Errore: Il modulo NFC deve essere attivato.</string>
     <string name="cit_reset_se_start">Reimpostazione eSE...</string>
-    <string name="cit_reset_test">Prova</string>
+    <string name="cit_reset_test">Verifica</string>
     <string name="cit_reverse_charge_check_summary">Collega telefono ad OTG per ricarica</string>
     <string name="cit_rgb_check_blue_light">RGB blu</string>
     <string name="cit_rgb_check_green_light">RGB verde</string>
@@ -721,11 +735,10 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
     <string name="cit_tool_nfc_st">NFC ST:</string>
     <string name="cit_tool_nfc_st_confreq">Freq:</string>
     <string name="cit_tool_nfc_st_run">Avvia</string>
-    <string name="cit_tool_nfc_st_stop">Ferma</string>
+    <string name="cit_tool_nfc_st_stop">Interrompi</string>
     <string name="cit_tool_no_repeat">Nessuna ripetizione!</string>
     <string name="cit_tool_not_support">Non supportato</string>
     <string name="cit_tool_opt_fail_info_notify">Scelta fallita, è necessario riavviare il telefono per la modalità offline.</string>
-    <string name="cit_tool_opt_standby">opzioni standby ...</string>
     <string name="cit_tool_prx_drx">PRx+DRx</string>
     <string name="cit_tool_prx_drx_select_mode">Seleziona modalità:</string>
     <string name="cit_tool_prx_drx_select_rat">Seleziona RAT:</string>
@@ -739,7 +752,6 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
     <string name="cit_tool_setting_wait">Impostazione in corso! Attendere prego</string>
     <string name="cit_tool_switch_autosms">Attiva/Disattiva Reg. Auto SMS</string>
     <string name="cit_tool_to_fetching">per recuperare</string>
-    <string name="cit_tool_wifi">Test Wi-Fi</string>
     <string name="cit_tool_wifi_chain_1">1</string>
     <string name="cit_tool_wifi_chain_2">2</string>
     <string name="cit_tool_wifi_exit">Esci</string>
@@ -752,7 +764,7 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
     <string name="cit_tool_wifi_rxbg_test_channel">canale:</string>
     <string name="cit_tool_wifi_rxn_test_bw">banda:</string>
     <string name="cit_tool_wifi_rxn_test_channel">canale:</string>
-    <string name="cit_tool_wifi_sniffer">Utilità di cattura Wi-Fi</string>
+    <string name="cit_tool_wifi_sniffer">Strumento Sniffer Wi-Fi</string>
     <string name="cit_tool_wifi_sniffer_settings">Impostazioni di Cattura</string>
     <string name="cit_tool_wifi_tx_ax_gI">Intervallo di Guardia:</string>
     <string name="cit_tool_wifi_tx_bg_chan">canale:</string>
@@ -760,7 +772,7 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
     <string name="cit_tool_wifi_tx_bg_txrt">velocità dati:</string>
     <string name="cit_tool_wifi_tx_n_bandwidth">banda:</string>
     <string name="cit_tool_wifi_tx_n_chan">canale:</string>
-    <string name="cit_tool_wifi_tx_n_txpr">potenza tx :</string>
+    <string name="cit_tool_wifi_tx_n_txpr">potenza tx:</string>
     <string name="cit_tool_wifi_tx_n_txrt">velocità dati: MCS</string>
     <string name="cit_tool_wifi_tx_st_chan">canale:</string>
     <string name="cit_tool_wifi_txrx_chain_selection">Seleziona antenna</string>
@@ -772,7 +784,7 @@ La seconda linea mostra il nome e la versione del MBN predefinito e l'operatore 
     <string name="cit_touch_calib_pass">Calibrazione Touchscreen riuscita</string>
     <string name="cit_touch_calib_summary">Il prossimo passo calibrerà il touchscreen, premi il pulsante di conferma e non toccare più lo schermo. Attendi l\'avviso di calibrazione eseguita.</string>
     <string name="cit_touch_calib_title">Calibrazione Touchscreen</string>
-    <string name="cit_touch_panel_test_title">Sensore touch</string>
+    <string name="cit_touch_panel_test_title">Test Touchscreen</string>
     <string name="cit_ultra_camera_check_title">Fotocamera ultra</string>
     <string name="cit_usb_OTG_error_condition">"Il dispositivo USB è collegato, ma non è possibile ottenere le informazioni
 test fallito!"</string>
@@ -789,7 +801,7 @@ test fallito!"</string>
     <string name="cit_version_check_title">Test versione</string>
     <string name="cit_vga_camera_cameraid_fail">Errore: ID camera non configurato</string>
     <string name="cit_vga_camera_cameralist_fail">Errore: Lista camera non corrispondente</string>
-    <string name="cit_vga_camera_capture">Avvia</string>
+    <string name="cit_vga_camera_capture">Fotocamera</string>
     <string name="cit_vga_camera_capture_fail">Impossibile scattare una foto</string>
     <string name="cit_vga_camera_delete">Elimina</string>
     <string name="cit_vga_camera_deleted">Foto eliminata</string>
@@ -799,23 +811,24 @@ test fallito!"</string>
     <string name="cit_vibrator_load_down_pattern">Motivo successivo</string>
     <string name="cit_vibrator_load_up_pattern">Motivo precedente</string>
     <string name="cit_vibrator_long">Vibrazione lunga</string>
-    <string name="cit_vibrator_play_touch_pattern">Vibrazione</string>
+    <string name="cit_vibrator_play_touch_pattern">Test Vibrazione</string>
     <string name="cit_vibrator_short">Vibrazione breve</string>
     <string name="cit_vibrator_show_advanced">Mostra impostazioni avanzate</string>
     <string name="cit_voc_data_check_title">Sensore dati VOC</string>
-    <string name="cit_voc_data_humidity">Umidità</string>
-    <string name="cit_voc_data_pressure">Pressione</string>
+    <string name="cit_voc_data_humidity">UMIDITÀ RELATIVA</string>
+    <string name="cit_voc_data_pressure">PRESSIONE</string>
     <string name="cit_voc_data_sensor_check_summary">I valori per VOC, temperatura,umidità,pressione,dovrebbero apparire sotto</string>
     <string name="cit_voc_data_temperature">Temperatura</string>
-    <string name="cit_wifi_address_check_summary">Di seguito trovi l\'indirizzo della rete Wi-Fi a cui il dispositivo è attualmente connesso. Verifica che le informazioni evidenziate in verde siano corrette.</string>
-    <string name="cit_wifi_address_check_title">Test Wi-Fi IP</string>
-    <string name="cit_wifi_address_error">"Impossibile ottenere indirizzo IP. Assicurati di essere collegato ad una rete Wi-Fi."</string>
-    <string name="cit_wifi_ap_scan_check_summary">Di seguito trovi le info sui punti d\'accesso Wi-Fi circostanti e che sono stati rilevati. Verifica che le informazioni evidenziate in verde siano corrette.</string>
-    <string name="cit_wifi_ap_scan_check_title">Test scansione AP Wi-Fi</string>
+    <string name="cit_wifi_address_check_summary">Di seguito è riportato l\'indirizzo della rete Wi-Fi a cui il telefono è connesso. Confermare che le informazioni evidenziate in verde siano corrette.</string>
+    <string name="cit_wifi_address_check_title">Indirizzo Wi-Fi</string>
+    <string name="cit_wifi_address_error">"Impossibile ottenere l'indirizzo Wi-Fi. Assicurati che il Wi-Fi sia abilitato."</string>
+    <string name="cit_wifi_ap_scan_check_summary">Di seguito sono riportate le informazioni Wi-Fi AP dei dispositivi rilevati nell\'area. Confermare che le informazioni evidenziate in verde siano corrette.</string>
+    <string name="cit_wifi_ap_scan_check_title">Wi-Fi AP Scan</string>
     <string name="cit_wifi_ap_scan_retry">Riesegui scansione…</string>
     <string name="cit_wifi_ap_scanning">Scansione…</string>
     <string name="cit_wifi_fail_to_scan">"Impossibile eseguire la scansione"</string>
     <string name="cit_wifi_state_refresh">Aggiorna</string>
+    <string name="cit_x_tele_camera_check_title">Tele5X camera</string>
     <string name="cit_yellow_torch_on">LED giallo del flash</string>
     <string name="close_third_color_led">disattiva il led a tre colori</string>
     <string name="continue_vibrator">Vibrazione continua</string>
@@ -824,7 +837,6 @@ test fallito!"</string>
     <string name="delete">Elimina</string>
     <string name="description_info">Info</string>
     <string name="disable">Spegni</string>
-    <string name="dispaly_sar_sensor_values">Visualizza tutti i valori correnti del sensore</string>
     <string name="display_test_finish">Test schermo completato</string>
     <string name="dsi_sar_on_off_tips">Dsi Sar On/Off</string>
     <string name="enrol">Registra</string>
@@ -839,7 +851,7 @@ test fallito!"</string>
     <string name="error_initializing_sensor">Impossibile inizializzare sensore: %1$s</string>
     <string name="error_sdcard_access">Impossibile accedere allo spazio di sistema!</string>
     <string name="error_unknown_error">Errore Sconosciuto</string>
-    <string name="fail">Non riuscito</string>
+    <string name="fail">Fallito</string>
     <string name="failed_to_test">TEST NON RIUSCITO</string>
     <string name="far">FAR (Tasso di Accettazione Errato):</string>
     <string name="far_count">FAC (Conteggio Tasso Accettazione Errato):</string>
@@ -878,7 +890,6 @@ posizione specificata"</string>
     <string name="frr_total_count">FRTC (Conteggio Totale Tasso Rifiuto Errato):</string>
     <string name="get_DSI_result">Risultato DSI</string>
     <string name="get_base_finger">Estrazione immagine: Ottenimento base impronta</string>
-    <string name="get_dsi_tips">Valore corrente DSI</string>
     <string name="get_finger_data">Estrazione immagine: Campionamento dati impronta</string>
     <string name="get_sample_finger">Estrazione immagine: Ottenimento campionamento impronta</string>
     <string name="get_sensor_info">OTTIENI INFO SENSORE</string>
@@ -921,8 +932,8 @@ posizione specificata"</string>
 4. La foto scattata dovra essere visualizzata a schermo. Tocca Elimina per completare il test."</string>
     <string name="ir_camera_test_summary_preview">"Istruzioni test:
 
-1. Tocca il pulsante Anteprima in basso per accedere all'interfaccia della camera
-2. Attendi il termine dell'anteprima e l'uscita automatica."</string>
+1.Tocca il pulsante di Anteprima in basso per entrare nell'interfaccia della Camera
+2.Attendi il termine dell'anteprima e l'uscita automatica."</string>
     <string name="ir_camera_test_title">Test Camera Ir</string>
     <string name="item_dump_off">Spegni</string>
     <string name="item_dump_on">Accendi</string>
@@ -951,7 +962,7 @@ posizione specificata"</string>
     <string name="name_count">Un</string>
     <string name="navigation_drawer_close">Chiudi menù di navigazione</string>
     <string name="navigation_drawer_open">Apri menù di navigazione</string>
-    <string name="next">Avanti</string>
+    <string name="next">Successivo</string>
     <string name="next_step">Successivo</string>
     <string name="nfc_disable_tip">Prego abilita la funzionalità NFC</string>
     <string name="no">No</string>
@@ -976,7 +987,7 @@ Tocca il tasto di rientro della fotocamera per vedere se la fotocamera rientra"<
     <string name="radio_boy">Voce maschile</string>
     <string name="radio_chinese">Cinese</string>
     <string name="radio_configuration_set">imposta configurazione radio</string>
-    <string name="radio_english">Inglesr</string>
+    <string name="radio_english">Inglese</string>
     <string name="radio_gril">Voce femminile</string>
     <string name="radio_info_asdiv_switch_label">Stato ASDiv:</string>
     <string name="radio_info_call_status_label">Stato chiamata vocale:</string>
@@ -984,9 +995,9 @@ Tocca il tasto di rientro della fotocamera per vedere se la fotocamera rientra"<
     <string name="radio_info_cid">CID</string>
     <string name="radio_info_current_network_label">Rete attuale:</string>
     <string name="radio_info_data_connected">Connesso</string>
-    <string name="radio_info_data_connecting">In connessione</string>
+    <string name="radio_info_data_connecting">Connessione</string>
     <string name="radio_info_data_disconnected">Disconnesso</string>
-    <string name="radio_info_data_network_type_label">Tipologia servizio dati:</string>
+    <string name="radio_info_data_network_type_label">Tipo di rete di dati:</string>
     <string name="radio_info_data_suspended">Sospeso</string>
     <string name="radio_info_display_asu">asu</string>
     <string name="radio_info_display_dbm">dBm</string>
@@ -998,22 +1009,22 @@ Tocca il tasto di rientro della fotocamera per vedere se la fotocamera rientra"<
     <string name="radio_info_neighboring_location_label">Informazione cella vicina:</string>
     <string name="radio_info_phone_idle">Inattivo</string>
     <string name="radio_info_phone_number_label">Numero di telefono:</string>
-    <string name="radio_info_phone_offhook">Chiamata in progresso</string>
-    <string name="radio_info_phone_ringing">Suono</string>
+    <string name="radio_info_phone_offhook">Chiamata in corso</string>
+    <string name="radio_info_phone_ringing">Chiamata in corso</string>
     <string name="radio_info_radio_power">Potenza radio cellulare</string>
     <string name="radio_info_roaming_in">Roaming</string>
     <string name="radio_info_roaming_label">Roaming:</string>
-    <string name="radio_info_roaming_not">Nessun Roaming</string>
+    <string name="radio_info_roaming_not">Non in roaming</string>
     <string name="radio_info_service_emergency">Solo chiamate di emergenza</string>
     <string name="radio_info_service_in">In servizio</string>
-    <string name="radio_info_service_off">Radio spenta</string>
+    <string name="radio_info_service_off">Segnale radio disattivato</string>
     <string name="radio_info_service_out">Fuori servizio</string>
-    <string name="radio_info_set_perferred_label">Imposta la rete preferita:</string>
+    <string name="radio_info_set_perferred_label">Imposta tipo di rete preferito:</string>
     <string name="radio_info_signal_location_label">Informazione località cella:</string>
-    <string name="radio_info_signal_strength_label">Potenza segnale:</string>
+    <string name="radio_info_signal_strength_label">Intensità del segnale:</string>
     <string name="radio_info_sim_status">Stato SIM:</string>
     <string name="radio_info_unknown">Sconosciuto</string>
-    <string name="radio_info_voice_network_type_label">Tipologia servizio rete:</string>
+    <string name="radio_info_voice_network_type_label">Tipo di rete vocale:</string>
     <string name="radio_no">Non sento nulla</string>
     <string name="rat_config_setting">RAT</string>
     <string name="reboot_times">Numero di riavvii:</string>
@@ -1025,7 +1036,7 @@ Tocca il tasto di rientro della fotocamera per vedere se la fotocamera rientra"<
     <string name="remove_headset_and_starttest">Prego rimuovi gli auricolari e premere start oer eseguire il test</string>
     <string name="request_permission">Questo campione necessita dell\'autorizzazione della camera.</string>
     <string name="resetpixel_test">REIMPOSTA TEST PIXEL</string>
-    <string name="run">Esegui</string>
+    <string name="run">Avvia</string>
     <string name="sample_data">Campione dati</string>
     <string name="sample_hint">Estrai %1$s campioni per un\'impronta</string>
     <string name="sample_progress_hint">Attendi estrazione campione dati</string>
@@ -1059,6 +1070,7 @@ Dopo il valore di CS0 è inferiore a 500 ed il valore di CS2 superiore a 5000
 Tieni l'altra mano vicina alla parte inferiore del telefono
 Cerca il valore di CS0
 Il valore di CS0 va da 3000 a 30000 , il tasto pass è evidenziato"</string>
+    <string name="sar_sensor_set">imposta sensore sar</string>
     <string name="sar_sensor_setting">stato sensore sar</string>
     <string name="sar_sensor_test_description">Calibrazione sensore SAR e Acquisizione dati</string>
     <string name="sar_sensor_test_err_angle">Il telefono non è posizionato nel giusto angolo</string>
@@ -1071,17 +1083,17 @@ Dopo aver terminato con successo la calibrazione, verifica le emissioni del tele
     <string name="screen_cancel">Disattiva</string>
     <string name="screen_confirm">Attiva</string>
     <string name="search_menu_title">Cerca</string>
-    <string name="select">Seleziona</string>
+    <string name="select">Scegli</string>
     <string name="select_all">Seleziona Tutto</string>
     <string name="select_automatic">Seleziona Automaticamente</string>
     <string name="select_manual">Seleziona Manualmente</string>
-    <string name="select_none">Nessuna Selezione</string>
+    <string name="select_none">Nessuna selezione</string>
     <string name="selftest">SELF-TEST</string>
     <string name="sensor_information">Informazioni Sensore</string>
     <string name="set_dsi_tips">Imposta DSI</string>
     <string name="show_log">Mostra Log</string>
     <string name="speak_from_mic">Parla nel microfono, l\'altoparlante riprodurrà il suono. Assicurati che il suono venga riprodotto.</string>
-    <string name="start">inizia</string>
+    <string name="start">Avvia</string>
     <string name="start_extract_sample">Inizia estrazione campione</string>
     <string name="start_extract_template">Inizia estrazione modello</string>
     <string name="start_far">Inizia FAR</string>
@@ -1159,5 +1171,5 @@ Clicca sul pulsante appropriato in base al numero che ascolterai"</string>
 Prego clicca il pulsante corretto in base alle diverse tipologie di vibrazione"</string>
     <string name="wait_test">In attesa di test</string>
     <string name="waiting">Attendere 4 sec.</string>
-    <string name="yes">Si</string>
+    <string name="yes">Sì</string>
 </resources>

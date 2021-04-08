@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Fatto</string>
     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
-    <string name="abc_capital_off">ATTIVATO</string>
-    <string name="abc_capital_on">DISATTIVATO</string>
+    <string name="abc_capital_off">DISATTIVATO</string>
+    <string name="abc_capital_on">ATTIVATO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
@@ -23,11 +23,11 @@
     <string name="abc_searchview_description_query">Cerca termine</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Avvia ricerca</string>
-    <string name="abc_searchview_description_voice">RIcerca vocale</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
-    <string name="actionbar_button_up_description">indietro</string>
+    <string name="actionbar_button_up_description">Indietro</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="am">AM</string>
     <string name="cancel">Annulla</string>
@@ -132,7 +132,7 @@
     <string name="enable_wifi_alert_cancel">Annulla</string>
     <string name="enable_wifi_alert_ok">Attiva</string>
     <string name="enable_wifi_alert_title">Attiva il Wi-Fi</string>
-    <string name="enable_wifi_alert_title_china">Attiva Wi-Fi</string>
+    <string name="enable_wifi_alert_title_china">Attiva il Wi-Fi</string>
     <string name="eras_ad">AC</string>
     <string name="eras_bc">DC</string>
     <string name="evening">Pomeriggio</string>
@@ -174,7 +174,7 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
     <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
     <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
@@ -318,14 +318,8 @@
     <string name="settings_feature_characteristics_title_3">Connetti automaticamente</string>
     <string name="settings_feature_dnd_summary">Silenzia le notifiche quando il dispositivo è connesso a un computer</string>
     <string name="settings_feature_dnd_title">ND</string>
-    <string name="settings_feature_files_drag_summary">Trascina e rilascia oggetti per trasferirli da e verso il tuo dispositivo</string>
-    <string name="settings_feature_files_drag_title">Trasferisci file</string>
     <string name="settings_feature_keep_screen_summary">Mantieni il dispositivo sbloccato per evitare disconnessioni impreviste</string>
     <string name="settings_feature_keep_screen_title">"Lascia attivo"</string>
-    <string name="settings_feature_multi_window_summary">"Fare clic con il pulsante destro del mouse sulla copia dello schermo del telefono per crearne un altra"</string>
-    <string name="settings_feature_multi_window_title">Apri più finestre</string>
-    <string name="settings_feature_pc_edit_files_summary">Fare clic con il tasto destro sugli elementi della Galleria o del Gestore File per modificarli sul computer.</string>
-    <string name="settings_feature_pc_edit_files_title">Modifica elementi dal telefono sul tuo computer</string>
     <string name="settings_history_clear">Cancella</string>
     <string name="settings_history_none">Nessun oggetto</string>
     <string name="settings_home_device_disconnect">Disconnetti</string>
@@ -358,7 +352,7 @@
     <string name="solar_term_insects_awaken">Risveglio degli insetti</string>
     <string name="solar_term_light_snow">Nevischio</string>
     <string name="solar_term_slight_cold">Freddino</string>
-    <string name="solar_term_slight_heat">Caldino</string>
+    <string name="solar_term_slight_heat">Moderatamente Caldo</string>
     <string name="solar_term_spring_begins">Arriva la primavera</string>
     <string name="solar_term_stopping_the_heat">Ritirata del caldo</string>
     <string name="solar_term_summer_begins">Inizia l\'estate</string>
@@ -426,8 +420,8 @@
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
-    <string name="v7_preference_off">ATTIVATO</string>
-    <string name="v7_preference_on">DISATTIVATO</string>
+    <string name="v7_preference_off">DISATTIVATO</string>
+    <string name="v7_preference_on">ATTIVATO</string>
     <string name="verbose_mode">Modalità verbosa</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>

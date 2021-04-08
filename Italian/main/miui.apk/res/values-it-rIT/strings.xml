@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Naviga nella home</string>
-    <string name="abc_action_bar_up_description">Naviga in alto</string>
+    <string name="abc_action_bar_home_description">Vai alla Home</string>
+    <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="action_mode_deselect_all">Deseleziona</string>
     <string name="action_mode_select_all">Seleziona tutto</string>
     <string name="action_mode_title_empty">Seleziona elementi</string>
-    <string name="actionbar_button_up_description">indietro</string>
+    <string name="actionbar_button_up_description">Indietro</string>
     <string name="actionbar_immersion_button_more_description">Altro</string>
     <string name="activate">Attiva</string>
     <string name="activate_fail_notification_title">Sincronizzazione reattiva</string>
@@ -16,7 +16,7 @@
     <string name="am">AM</string>
     <string name="birthday">Compleanno</string>
     <string name="cancel_description">Annulla</string>
-    <string name="check_phone_error_title">Sincronizzazione disattivata</string>
+    <string name="check_phone_error_title">La sincronizzazione Mi Cloud è disattivata</string>
     <string name="check_phone_io_error">"Impossibile connettersi alla rete"</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
@@ -92,6 +92,7 @@
     <string name="click_to_restore">Ripristina gli elementi di sistema per poter usare MIUI normalmente dopo un reset di fabbrica. Tocca per iniziare.</string>
     <string name="close">Chiudi</string>
     <string name="com_android_email">E-Mail</string>
+    <string name="com_android_soundrecorder">Registratore</string>
     <string name="com_mi_liveassistant">Assistente Live Streaming</string>
     <string name="com_miui_calculator">Calcolatrice</string>
     <string name="com_miui_cleanmaster">Pulitore</string>
@@ -99,13 +100,15 @@
     <string name="com_miui_health">Xiaomi Salute</string>
     <string name="com_miui_huanji">Mi Mover</string>
     <string name="com_miui_notes">Note</string>
-    <string name="com_miui_screenrecorder">Reg.Schermo</string>
+    <string name="com_miui_screenrecorder">Registrazione schermo</string>
+    <string name="com_miui_virtualsim">Mi Roaming</string>
     <string name="com_miui_weather2">Meteo</string>
-    <string name="com_xiaomi_drivemode">Tocca per uscire dalla modalità Auto</string>
+    <string name="com_xiaomi_drivemode">Automobile</string>
     <string name="com_xiaomi_gamecenter">Giochi</string>
     <string name="com_xiaomi_jr">Mi Finanza</string>
     <string name="com_xiaomi_scanner">Scanner</string>
     <string name="com_xiaomi_shop">Mi Store</string>
+    <string name="com_xiaomi_vipaccount">Mi Community</string>
     <string name="com_xiaomi_youpin">Youpin</string>
     <string name="confirm_description">Conferma</string>
     <string name="copyright">Copyright</string>
@@ -153,16 +156,16 @@
     <string name="eras_bc">AC</string>
     <string name="error_forbidden">Sincronizzazione disattivata a causa di un problema con il tuo Mi Account.</string>
     <string name="error_not_acceptable">Errore del server: sincronizzazione disattivata.</string>
-    <string name="error_title">"Impossibile sincronizzare"</string>
+    <string name="error_title">"Sincronizzazione fallita"</string>
     <string name="error_unauthorized">Troppi tentativi di accesso: sincronizzazione disattivata.</string>
     <string name="evening">PM</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
-    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
@@ -170,9 +173,9 @@
     <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_month_day">dd MMM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
-    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd MMM, yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
@@ -186,7 +189,7 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">h a</string>
-    <string name="fmt_time_24hour">"HH"</string>
+    <string name="fmt_time_24hour">"H"</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
@@ -294,12 +297,12 @@
     <string name="saturday_shortest">S</string>
     <string name="search_action_mode_cancel">Annulla</string>
     <string name="search_input_description">Cerca</string>
-    <string name="search_mode_button_back_description">indietro</string>
+    <string name="search_mode_button_back_description">Indietro</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="select_all_description">Seleziona tutto</string>
     <string name="select_item">Seleziona elementi</string>
     <string name="send">Invia</string>
-    <string name="send_sms_for_sync_notice">L\'SMS di attivazione è soggetto ai costi legati al tuo operatore.</string>
+    <string name="send_sms_for_sync_notice">Verrà inviato un SMS per associare la tua SIM a questo account. </string>
     <string name="send_sms_for_sync_title">Avviso utilizzo dati</string>
     <string name="sim_changed_reactivate_int_notice">La SIM attuale è disattivata. Verrà inviato un messaggio di attivazione automaticamente.</string>
     <string name="sim_changed_reactivate_notice">La SIM attuale è disattivata. Verrà inviato un messaggio di attivazione automaticamente.</string>
@@ -313,6 +316,7 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="solar_term_autumn_begins">Inizio dell\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
@@ -402,6 +406,7 @@
     <string name="user_agreement">Condizioni d\'uso</string>
     <string name="user_experience_program">Programma Esperienza Utente</string>
     <string name="user_manual">Guida utente</string>
+    <string name="wait_for_wlan_china">In attesa di Wi-Fi</string>
     <string name="web_sso_login_fail">Devi accedere di nuovo</string>
     <string name="web_sso_login_message">Accesso…</string>
     <string name="website">Sito web</string>

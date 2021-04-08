@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Naviga nella home</string>
+    <string name="abc_action_bar_home_description">Vai alla Home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
     <string name="abc_action_mode_done">Fatto</string>
     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
-    <string name="abc_capital_off">ATTIVATO</string>
-    <string name="abc_capital_on">DISATTIVATO</string>
+    <string name="abc_capital_off">DISATTIVATO</string>
+    <string name="abc_capital_on">ATTIVATO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
@@ -23,14 +23,14 @@
     <string name="abc_searchview_description_query">Cerca termine</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Avvia ricerca</string>
-    <string name="abc_searchview_description_voice">RIcerca vocale</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
-    <string name="above_image">Sopra</string>
+    <string name="above_image">Su</string>
     <string name="accessibility_battery_level">Batteria al %d percento.</string>
     <string name="accessibility_battery_level_charging">Ricarica batteria, %d percento.</string>
-    <string name="actionbar_button_up_description">indietro</string>
+    <string name="actionbar_button_up_description">Indietro</string>
     <string name="add_custom_image">Immagine personalizzata</string>
     <string name="add_from_album">Aggiungi dalla Galleria</string>
     <string name="afternoon">Pomeriggio</string>
@@ -45,13 +45,13 @@
     <string name="aod_component">Elementi visualizzati</string>
     <string name="aod_dual_clock_date">HH:mm dd/MM</string>
     <string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>
-    <string name="aod_dual_togother">H:mm</string>
+    <string name="aod_dual_togother">HH:mm</string>
     <string name="aod_dual_togother_12">hh:mm aa</string>
     <string name="aod_lock_screen_date">d MMMM, EE</string>
     <string name="aod_lock_screen_date_12">d MMMM, EE</string>
-    <string name="aod_lock_screen_date_12_signature">d/M</string>
+    <string name="aod_lock_screen_date_12_signature">dd/MM</string>
     <string name="aod_lock_screen_date_lunar">dd/MM</string>
-    <string name="aod_lock_screen_date_signature">d/M</string>
+    <string name="aod_lock_screen_date_signature">dd/MM</string>
     <string name="aod_lock_screen_date_smartcover">"EE
 dd/MM"</string>
     <string name="aod_lock_screen_date_smartcover_b">EE dd/MM</string>
@@ -67,22 +67,16 @@ dd/MM"</string>
     <string name="aod_signature_12">hh:mm aa</string>
     <string name="aod_style">Tema</string>
     <string name="aod_to_close">Disattiva</string>
-    <string name="app_name">recyclerview-animator</string>
     <string name="apply">Applica</string>
-    <string name="apply_succeed">Sfondo applicato con successo</string>
+    <string name="apply_succeed">Applicato correttamente</string>
     <string name="background_icon">Sfondo</string>
-    <string name="battery_meter_bg_path">M23 13l38 0c8.284271 0 15 6.715729 15 15 0 8.284271 -6.715729 15 -15 15L23 43C14.715729 43 8 36.284271 8 28 8 19.715729 14.715729 13 23 13Zm0 3c-6.627417 0 -12 5.372583 -12 12 0 6.627417 5.372583 12 12 12l38 0C67.627417 40 73 34.627417 73 28 73 21.372583 67.627417 16 61 16l-38 0z</string>
-    <string name="battery_meter_charging_path">M40.571 30.474L40.329 30 33 30 49 13 44.428 25.526 44.671 26 52 26 36 43Z</string>
     <string name="battery_meter_progress_mask_path">M2.5638852 0C1.6723665 0 1.3490802 0.09282561 1.0231543 0.2671327 0.69722837 0.4414398 0.4414398 0.69722837 0.2671327 1.0231543 0.09282561 1.3490802 0 1.6723665 0 2.5638852L0 0 2.5638852 0Zm0 18L0 18 0 15.436115c0 0.891518 0.09282561 1.214805 0.2671327 1.540731 0.1743071 0.325926 0.43009567 0.581714 0.7560216 0.756021C1.3490802 17.907174 1.6723665 18 2.5638852 18Z</string>
-    <string name="battery_meter_progress_path">M9 0l38 0c4.986 0 9 4.014 9 9 0 4.986 -4.014 9 -9 9L9 18C4.014 18 0 13.986 0 9 0 4.014 4.014 0 9 0Z</string>
-    <string name="battery_meter_quick_charging_mask_path">M44.4006489,17.7753262 L48.9816895,12.9957275 L56.0631104,12.9957275 L52.5812988,23.0059814 L60.7009725,23.0059814 C60.9562352,23.0059814 61.2018346,23.1035978 61.3874492,23.2788297 C61.7890441,23.6579603 61.8072549,24.2908633 61.4281243,24.6924582 L44.0809326,43.0675049 L36.9777832,43.0675049 L38.6860448,38.1895308 L34.0809326,43.0675049 L26.9777832,43.0675049 L30.5009766,33.006958 L22.2054052,32.9352898 C21.9505261,32.9330878 21.7061075,32.8336414 21.5220923,32.6572707 C21.1233739,32.2751161 21.1099462,31.6420936 21.4921007,31.2433751 L38.9816895,12.9957275 L46.0631104,12.9957275 L44.4006489,17.7753262 Z</string>
-    <string name="battery_meter_quick_charging_path">M40.7647059,26 L53,13 L48.428,25.526 L48.671,26 L56,26 L40,43 L44.571,30.474 L44.329,30 L42.2352941,30 L30,43 L34.571,30.474 L34.329,30 L27,30 L43,13 L38.428,25.526 L38.671,26 L40.7647059,26 Z</string>
-    <string name="below_image">Sotto</string>
-    <string name="btn_know">Ok</string>
-    <string name="cancel">Ferma</string>
-    <string name="character_counter_content_description">Caratteri inseriti %1$d di %2$d</string>
+    <string name="below_image">Giù</string>
+    <string name="btn_know">Fatto</string>
+    <string name="cancel">Annulla</string>
+    <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
-    <string name="character_counter_pattern">%1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -157,6 +151,7 @@ dd/MM"</string>
     <string name="clear_text_end_icon_content_description">Cancella testo</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="clock_panel_icon">Quadrante</string>
+    <string name="close">Chiudi</string>
     <string name="color_change_with_time_description">Cambia colore del testo automaticamente nel tempo</string>
     <string name="color_change_with_time_title">Cambia colore automaticamente</string>
     <string name="component_battery">Batteria</string>
@@ -168,6 +163,7 @@ dd/MM"</string>
     <string name="copy">Copia</string>
     <string name="custom_image">Immagine personalizzata</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
+    <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="deep_space_planet">Spazio esterno</string>
     <string name="deep_space_planet_des">Questo tema riflette i cambiamenti di luce che avvengono intorno a te durante il giorno. Anche l\'alba e il tramonto sono sincronizzati con la tua posizione.</string>
     <string name="delete">Elimina</string>
@@ -225,7 +221,7 @@ dd/MM"</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
     <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
     <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
@@ -278,13 +274,16 @@ dd/MM"</string>
     <string name="miuix_appcompat_cancel_description">Annulla</string>
     <string name="miuix_appcompat_confirm_description">Conferma</string>
     <string name="miuix_appcompat_delete_description">Elimina</string>
+    <string name="miuix_appcompat_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleziona tutto</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annulla</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
+    <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">aggiornamento terminato</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">aggiornamento</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Rilascia per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"E' tutto per ora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
@@ -359,7 +358,7 @@ dd/MM"</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
-    <string name="mtrl_picker_text_input_day_abbr">g</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
     <string name="mtrl_picker_text_input_month_abbr">m</string>
     <string name="mtrl_picker_text_input_year_abbr">a</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a modalità inserimento calendario</string>
@@ -373,18 +372,18 @@ dd/MM"</string>
     <string name="notification_anim_pulse">Pulsazione</string>
     <string name="notification_anim_rhythm">Ritmo</string>
     <string name="notification_anim_star">Stellare</string>
-    <string name="notification_nothing">Non pulire niente</string>
+    <string name="notification_nothing">Nessuno</string>
     <string name="notification_screen_on">Accendi lo schermo</string>
     <string name="off">Spenta</string>
     <string name="on">Attivata</string>
     <string name="only_show_bg_description">"Non mostrare orario, data e altri elementi"</string>
     <string name="only_show_bg_title">Mostra solo lo sfondo</string>
-    <string name="open_aod_mode">Apri sincronizzazione</string>
+    <string name="open_aod_mode">Attiva</string>
     <string name="panel_clock">Analogico</string>
-    <string name="paper_mode_end_time_title">Fine</string>
-    <string name="paper_mode_start_time_title">Inizio</string>
-    <string name="password_toggle_content_description">Attiva visibilità password</string>
-    <string name="photo_editor_saving">Salvataggio</string>
+    <string name="paper_mode_end_time_title">Disattiva</string>
+    <string name="paper_mode_start_time_title">Attiva</string>
+    <string name="password_toggle_content_description">Mostra password</string>
+    <string name="photo_editor_saving">Salvataggio…</string>
     <string name="please_input_signature">Inserisci firma</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
@@ -392,8 +391,8 @@ dd/MM"</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
     <string name="scheduled_mode_dialog_msg">Gli elementi verranno visualizzati nell\'Always-on Display durante questo periodo: %s.</string>
-    <string name="scheduled_mode_dialog_msg_12">hh:mm a</string>
-    <string name="scheduled_mode_dialog_msg_24">H:mm</string>
+    <string name="scheduled_mode_dialog_msg_12">hh:mm aa</string>
+    <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
     <string name="scheduled_mode_msg">Attivo: %s</string>
     <string name="scheduled_style">Programmato</string>
     <string name="scheduled_style_summary">Imposta orario personalizzato</string>
@@ -403,6 +402,7 @@ dd/MM"</string>
     <string name="search_menu_title">Cerca</string>
     <string name="select_notification_animation_style">Seleziona effetto speciale</string>
     <string name="select_notification_notify_style">Seleziona effetto notifica</string>
+    <string name="send">Invia</string>
     <string name="share">Condividi</string>
     <string name="share_to_community">Condividi su Mi Community</string>
     <string name="show_battery">Mostra stato batteria</string>
@@ -411,7 +411,7 @@ dd/MM"</string>
     <string name="show_lunar_desc">"Il doppio orologio non supporta il calendario tradizionale cinese"</string>
     <string name="show_notification">Mostra notifiche</string>
     <string name="show_notificaton">Mostra notifiche</string>
-    <string name="shownone_arround_image">Non pulire niente</string>
+    <string name="shownone_arround_image">Nessuno</string>
     <string name="signature">Firma</string>
     <string name="signature_default_content">"Always believe that something
 wonderful is about to happen"</string>
@@ -429,7 +429,7 @@ wonderful is about to happen"</string>
     <string name="solar_term_insects_awaken">Risveglio degli insetti</string>
     <string name="solar_term_light_snow">Nevischio</string>
     <string name="solar_term_slight_cold">Freddino</string>
-    <string name="solar_term_slight_heat">Caldino</string>
+    <string name="solar_term_slight_heat">Moderatamente Caldo</string>
     <string name="solar_term_spring_begins">Arriva la primavera</string>
     <string name="solar_term_stopping_the_heat">Ritirata del caldo</string>
     <string name="solar_term_summer_begins">Inizia l\'estate</string>
@@ -441,6 +441,7 @@ wonderful is about to happen"</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="standard_clock_panel">Normale</string>
     <string name="standard_style">Normale</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">Il conteggio dei passaggi è fornito da Xiaomi Health. Accetta
  i termini e le condizioni di Salute per continuare.</string>
     <string name="step_component_info_desc">Il conteggio dei passi si trasformerà in un trofeo quando il tuo obiettivo sarà raggiunto. Il conteggio dei passi è fornito da Xiaomi Health.</string>
@@ -510,7 +511,7 @@ dd/MM"</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="time_picker_label_hour">O</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="time_style">Stile</string>
+    <string name="time_style">Stile note</string>
     <string name="time_style_layout">Disposizione</string>
     <string name="tip_to_open_aod_mode">Always-on display è spento. Attivarlo?</string>
     <string name="today">Oggi</string>
@@ -518,8 +519,8 @@ dd/MM"</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
-    <string name="v7_preference_off">Disattivato</string>
-    <string name="v7_preference_on">Attivato</string>
+    <string name="v7_preference_off">DISATTIVATO</string>
+    <string name="v7_preference_on">ATTIVATO</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>

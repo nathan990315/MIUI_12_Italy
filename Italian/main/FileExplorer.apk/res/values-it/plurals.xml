@@ -66,7 +66,7 @@
     </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d elementi</item>
-        <item quantity="one">%d elementi</item>
+        <item quantity="one">%d elemento</item>
     </plurals>
     <plurals name="file_count">
         <item quantity="other"> %1$d elementi</item>
@@ -133,8 +133,8 @@
         <item quantity="one">%d nuova notifica</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">%1$d selezionati</item>
-        <item quantity="one">%1$d selezionato</item>
+        <item quantity="other"> %1$d selezionati</item>
+        <item quantity="one"> %1$d selezionato</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuti fa</item>

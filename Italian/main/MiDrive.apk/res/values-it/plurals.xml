@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="days_ago">
-        <item quantity="other">%1$d giorni fà</item>
-        <item quantity="one">%1$d giorno fà</item>
+        <item quantity="other">%1$d giorni fa</item>
+        <item quantity="one">%1$d giorno fa</item>
     </plurals>
     <plurals name="download_done_info_for_sys_content">
         <item quantity="other">Scaricati %1$d elementi</item>
@@ -29,8 +29,8 @@
         <item quantity="one">%1$d ora fà</item>
     </plurals>
     <plurals name="mins_ago">
-        <item quantity="other">%1$d minuti fà</item>
-        <item quantity="one">%1$d min fà</item>
+        <item quantity="other">%1$d minuti fa</item>
+        <item quantity="one">%1$d minuto fa</item>
     </plurals>
     <plurals name="search_head_hint_file">
         <item quantity="other">%2$d elementi contenenti \"%1$s\"</item>

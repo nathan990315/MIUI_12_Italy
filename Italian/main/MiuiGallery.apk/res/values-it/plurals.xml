@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 ora fa</item>
-        <item quantity="other">1 ora fa</item>
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 ora fa</item>
-        <item quantity="other">1 ora fa</item>
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Mezz\'ora fa</item>
-        <item quantity="other">Mezz\'ora fa</item>
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">In 1 ora</item>
-        <item quantity="other">In 1 ora</item>
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">In Mezz\'ora</item>
-        <item quantity="other">In Mezz\'ora</item>
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="one">Subito</item>
-        <item quantity="other">Subito</item>
+        <item quantity="other">adesso</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">tra %d min</item>
-        <item quantity="one">tra 1 min</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Proprio adesso</item>
-        <item quantity="other">Proprio adesso</item>
+        <item quantity="other">ora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d min fa</item>
-        <item quantity="one">1 min fa</item>
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">Nascondere questi file?</item>
@@ -148,10 +148,6 @@
         <item quantity="other">%d video</item>
         <item quantity="one">%d video</item>
     </plurals>
-    <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Il Collage può contenere %1$d-%2$d foto</item>
-        <item quantity="one">Il Collage può contenere %1$d-%2$d foto</item>
-    </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">Seleziona fino a %d foto</item>
         <item quantity="one">Seleziona fino a %d foto</item>
@@ -178,7 +174,7 @@
     </plurals>
     <plurals name="delete_media_from_local">
         <item quantity="other">Eliminare %d elementi?</item>
-        <item quantity="one">ELiminare %d elemento?</item>
+        <item quantity="one">Eliminare %d elemento?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Eliminare %d foto da tutti i dispositivi e da Mi Cloud?</item>
@@ -217,28 +213,28 @@
         <item quantity="one">%1$d file</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="one">Mezz\'ora fa</item>
-        <item quantity="other">Mezz\'ora fa</item>
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">In 1 ora</item>
-        <item quantity="other">In 1 ora</item>
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">In Mezz\'ora</item>
-        <item quantity="other">In Mezz\'ora</item>
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="one">Subito</item>
-        <item quantity="other">Subito</item>
+        <item quantity="other">adesso</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">tra %d minuti</item>
         <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Proprio ora</item>
-        <item quantity="other">Proprio ora</item>
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuti fa</item>
@@ -501,7 +497,7 @@
         <item quantity="one">"Non sarai in grado di ripristinare %d elemento selezionato se lo elimini. Eliminare comunque?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_media">
-        <item quantity="other">"Non sarai in grado di ripristinare %d elementi selezionati se li elimini. Eliminare comunque?"</item>
+        <item quantity="other">"Non potrai ripristinare %d elementi selezionati se li elimini. Eliminare comunque?"</item>
         <item quantity="one">"Non sarai in grado di ripristinare %d elemento selezionato se lo elimini. Eliminare comunque?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_video">

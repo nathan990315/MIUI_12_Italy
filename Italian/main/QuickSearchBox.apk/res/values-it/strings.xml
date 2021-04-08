@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_loaction">Trova sulla Home</string>
-    <string name="app_name">Ricerca</string>
+    <string name="app_name">Cerca</string>
     <string name="appindex_description">Funzionalità e app installate</string>
     <string name="appindex_search_label">Funzionalità app</string>
     <string name="application_desc">Applicazione</string>
-    <string name="applications_search_label">App</string>
+    <string name="applications_search_label">Applicazioni</string>
     <string name="barcode_install_back">Indietro</string>
     <string name="barcode_install_cancel">Annulla</string>
     <string name="barcode_install_confirm">Installa</string>
@@ -23,18 +23,18 @@
     <string name="clear_shortcuts_summary">Rimuove i collegamenti ai suggerimenti di ricerca recenti</string>
     <string name="common_setting">Impostazioni generali</string>
     <string name="connect_and_retry">Collegati ad internet e riprova</string>
-    <string name="corpus_description_apps">Applicazioni installate</string>
+    <string name="corpus_description_apps">App di terze parti</string>
     <string name="corpus_description_web">Segnalibri</string>
-    <string name="corpus_hint_apps">Cerca App</string>
-    <string name="corpus_label_apps">App</string>
-    <string name="corpus_label_global">Tutti</string>
+    <string name="corpus_hint_apps">Cerca app</string>
+    <string name="corpus_label_apps">Applicazioni</string>
+    <string name="corpus_label_global">Tutto</string>
     <string name="corpus_label_web">Cerca elementi</string>
     <string name="corpus_selection_heading">Cerca</string>
     <string name="cta_declaration">"Questa opzione richiede una connessione ad internet, accesso alla tua posizione, lettura del registro chiamate e dei contatti per funzionare correttamente."</string>
     <string name="cta_declaration_ignore">"Non mostrare più"</string>
-    <string name="cta_declaration_negative_text">"Esci"</string>
+    <string name="cta_declaration_negative_text">"Non consentire"</string>
     <string name="cta_declaration_positive_text">Consenti</string>
-    <string name="cta_declaration_title">Termini del Servizio</string>
+    <string name="cta_declaration_title">Condizioni d\'uso</string>
     <string name="default_hint">Cerca elementi</string>
     <string name="device_settings_category_title">Rimuovi collegamenti</string>
     <string name="distance_unit_kilometer">Km</string>
@@ -45,14 +45,14 @@
     <string name="google_search_hint">Ricerca Google</string>
     <string name="google_search_label">Google</string>
     <string name="google_settings_category_title">Ricerca Google</string>
-    <string name="hot_search">Ricerche frequenti</string>
+    <string name="hot_search">Popolari</string>
     <string name="loading">Attendi…</string>
     <string name="local_app">Applicazioni</string>
     <string name="local_setting">Impostazioni</string>
-    <string name="menu_help">Aiuto</string>
+    <string name="menu_help">Guida</string>
     <string name="menu_settings">Ricerca</string>
     <string name="mina_name">App dirette</string>
-    <string name="network_unavailable">"Non collegato ad internet"</string>
+    <string name="network_unavailable">"Impossibile connettersi alla rete"</string>
     <string name="permission_prompt_detail">Cerca film, libri, musica ed altro.</string>
     <string name="permission_prompt_start">Consenti</string>
     <string name="permission_prompt_started_info">"Hai permesso la ricerca globale"</string>
@@ -71,7 +71,7 @@ Puoi modificare in Impostazioni &gt; Applicazioni installate &gt; Ricerca"</stri
     <string name="recent_edit">Modifica</string>
     <string name="recent_edit_done">Fatto</string>
     <string name="recent_filter_functions">Funzionalità disattivate</string>
-    <string name="recent_function">Funzionalità</string>
+    <string name="recent_function">Funzioni</string>
     <string name="recently_shortcut_label">Collegamenti recenti</string>
     <string name="release_to_input">Rilascia per visualizzare la barra di ricerca</string>
     <string name="remove_from_history">Vuoi rimuovere questo elemento dalla cronologia di ricerca?</string>
@@ -85,7 +85,7 @@ Puoi modificare in Impostazioni &gt; Applicazioni installate &gt; Ricerca"</stri
     <string name="search_in_web">Cerca in rete</string>
     <string name="search_keyword_quicksearchbox">Cerca</string>
     <string name="search_path_quicksearchbox">Impostazioni/Applicazioni di Sistema/Ricerca</string>
-    <string name="search_settings">Impostazioni</string>
+    <string name="search_settings">Ricerca</string>
     <string name="search_sources">Elementi ricercabili</string>
     <string name="search_sources_summary">Scegli cosa cercare nel dispositivo</string>
     <string name="search_suggestion">Suggerimenti</string>
@@ -100,12 +100,12 @@ Puoi modificare in Impostazioni &gt; Applicazioni installate &gt; Ricerca"</stri
     <string name="suggest_open_app_failed">"Impossibile aprire questa app"</string>
     <string name="swipe_up_summary">Scorri in alto per avviare la ricerca globale</string>
     <string name="swipe_up_title">Scorri in alto</string>
-    <string name="switch_application">App</string>
+    <string name="switch_application">Applicazioni</string>
     <string name="switch_browser">Browser</string>
     <string name="switch_contacts">Contatti</string>
-    <string name="switch_email">E-mail</string>
+    <string name="switch_email">E-Mail</string>
     <string name="switch_file">File</string>
-    <string name="switch_mms">Messaggi</string>
+    <string name="switch_mms">SMS</string>
     <string name="switch_notes">Note</string>
     <string name="switch_online">Online</string>
     <string name="switch_prompt_ignore">Ignora</string>
@@ -115,7 +115,7 @@ Puoi modificare in Impostazioni &gt; Applicazioni installate &gt; Ricerca"</stri
     <string name="switch_setting">Impostazioni</string>
     <string name="system_search_category_title">Telefono</string>
     <string name="top_clicked">Elementi frequenti</string>
-    <string name="update_check">Cerca aggiornamenti</string>
+    <string name="update_check">Ricerca aggiornamenti</string>
     <string name="update_right_now">Aggiorna</string>
     <string name="update_title">Aggiornamento disponibile</string>
     <string name="update_version_alpha">Alfa</string>
@@ -126,5 +126,5 @@ Puoi modificare in Impostazioni &gt; Applicazioni installate &gt; Ricerca"</stri
     <string name="voice_search_hint_quotation_start">\"</string>
     <string name="voice_search_hint_title">Prova dicendo:</string>
     <string name="web_search_results">Baidu</string>
-    <string name="xiaomi_search_label">Risultati</string>
+    <string name="xiaomi_search_label">Risultati…</string>
 </resources>

@@ -25,16 +25,16 @@
         <item quantity="other">adesso</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">tra %d min</item>
-        <item quantity="one">tra 1 min</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Proprio adesso</item>
         <item quantity="other">ora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d min fa</item>
-        <item quantity="one">1 min fa</item>
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">Eliminare %1$d contatti?</item>
@@ -81,14 +81,14 @@
         <item quantity="one">%1$d contatto</item>
     </plurals>
     <plurals name="contacts_trash_delete_dialog_respond">
-             <item quantity="other">Elimina %d contatti permanentemente</item>
-             <item quantity="one">Elimina %d contatto permanentemente</item>
-         </plurals>
-         <plurals name="contacts_trash_restore_respond">
-             <item quantity="other">Ripristino %d contatti riuscito</item>
-             <item quantity="one">Ripristino %d contatto riuscito</item>
-         </plurals>
-         <plurals name="device_import_done_toast">
+        <item quantity="other">Eliminati %d contatti definitivamente</item>
+        <item quantity="one">Eliminato %d contatto definitivamente</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">Ripristinati %d contatti</item>
+        <item quantity="one">Ripristinato %d contatto</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contatti importati</item>
         <item quantity="one">%1$d contatto importato</item>
     </plurals>
@@ -129,8 +129,8 @@
         <item quantity="other">mezz\'ora fa</item>
     </plurals>
     <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d risultati</item>
-        <item quantity="one">%1$d risultato</item>
+        <item quantity="other">%1$d elementi</item>
+        <item quantity="one">%1$d elemento</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contatti</item>
@@ -170,7 +170,7 @@
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d contatti</item>
-        <item quantity="one">1 contatto</item>
+        <item quantity="one">%d contatto</item>
     </plurals>
     <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d contatti con info parzialmente identiche</item>
@@ -189,8 +189,8 @@
         <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d selezionati</item>
-        <item quantity="one">%1$d selezionato</item>
+        <item quantity="other"> %1$d selezionati</item>
+        <item quantity="one"> %1$d selezionato</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d preferiti</item>
@@ -225,7 +225,7 @@
         <item quantity="one">Seleziona non più di %1$d</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">%d persone</item>
+        <item quantity="other">%1$d persone</item>
         <item quantity="one">%1$d persona</item>
     </plurals>
 </resources>

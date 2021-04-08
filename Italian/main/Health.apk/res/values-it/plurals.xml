@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 ora fa</item>
-        <item quantity="other">1 ora fa</item>
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 ora fa</item>
-        <item quantity="other">1 ora fa</item>
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Mezz\'ora fa</item>
-        <item quantity="other">Mezz\'ora fa</item>
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">In 1 ora</item>
-        <item quantity="other">In 1 ora</item>
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">In Mezz\'ora</item>
-        <item quantity="other">In Mezz\'ora</item>
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="one">Subito</item>
-        <item quantity="other">Subito</item>
+        <item quantity="other">adesso</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">tra %d min</item>
-        <item quantity="one">tra 1 min</item>
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Proprio adesso</item>
-        <item quantity="other">Proprio adesso</item>
+        <item quantity="other">ora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d min fa</item>
-        <item quantity="one">1 min fa</item>
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
     </plurals>
     <plurals name="birthday_format">
         <item quantity="other">" (%1$d anni)"</item>
@@ -65,8 +65,8 @@
         <item quantity="one">Durata del ciclo: %1$d giorno</item>
     </plurals>
     <plurals name="dialog_choose_items">
-        <item quantity="other">%1$d elementi selezionati</item>
-        <item quantity="one">%1$d elemento selezionato</item>
+        <item quantity="other">%1$d selezionati</item>
+        <item quantity="one">%1$d selezionato</item>
     </plurals>
     <plurals name="dialog_delete_records_confirm">
         <item quantity="other">Eliminare %1$d elementi?</item>
@@ -113,24 +113,24 @@
         <item quantity="one">%1$d ciclo</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="one">Mezz\'ora fa</item>
-        <item quantity="other">Mezz\'ora fa</item>
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
     </plurals>
     <plurals name="hours">
         <item quantity="other">%1$d ore</item>
         <item quantity="one">%1$d ora</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">In 1 ora</item>
-        <item quantity="other">In 1 ora</item>
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">In Mezz\'ora</item>
-        <item quantity="other">In Mezz\'ora</item>
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
         <item quantity="one">Subito</item>
-        <item quantity="other">Subito</item>
+        <item quantity="other">adesso</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">tra %d minuti</item>
@@ -149,8 +149,8 @@
         <item quantity="one">%1$d metro</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Proprio ora</item>
-        <item quantity="other">Proprio ora</item>
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
     </plurals>
     <plurals name="mens_offset_predict_menstrual_period">
         <item quantity="other">Probabilmente le mestruazioni inizieranno tra %1$d giorni</item>
@@ -179,6 +179,10 @@
     <plurals name="minutes_ago">
         <item quantity="other">%1$d minuti fa</item>
         <item quantity="one">%1$d minuto fa</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d nuove notifiche</item>

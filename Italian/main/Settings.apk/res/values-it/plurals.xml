@@ -2,7 +2,7 @@
 <resources>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">%d giorni fa</item>
-        <item quantity="one">%d giorni fa</item>
+        <item quantity="one">%d giorno fa</item>
     </plurals>
     <plurals name="abc_slice_duration_min">
         <item quantity="other">%d min fa</item>
@@ -10,7 +10,7 @@
     </plurals>
     <plurals name="abc_slice_duration_years">
         <item quantity="other">%d anni fa</item>
-        <item quantity="one">%d anni fa</item>
+        <item quantity="one">%d anno fa</item>
     </plurals>
     <plurals name="accessibility_usage_summary">
         <item quantity="other">%1$d applicazioni hanno accesso completo al dispositivo</item>
@@ -209,8 +209,8 @@
         <item quantity="one">Il PIN può contenere fino a %d numero</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">Il PIN deve essere d %d numeri</item>
-        <item quantity="one">Il PIN deve essere di %d numeri</item>
+        <item quantity="other">Inserisci almeno %d numeri</item>
+        <item quantity="one">Inserisci almeno %d numero</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Collega almeno %d punti. Prova di nuovo.</item>
@@ -243,10 +243,6 @@
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d aggiunti</item>
         <item quantity="one">%d aggiunto</item>
-    </plurals>
-    <plurals name="miui_wifi_wakeup_summary">
-        <item quantity="other">La rete Wi-Fi sarà attivata automaticamente quando il dispositivo rileva le reti salvate nelle vicinanze e disattivata dopo %d minuti se non viene stabilita alcuna connessione</item>
-        <item quantity="one">La rete Wi-Fi sarà attivata automaticamente quando il dispositivo rileva le reti salvate nelle vicinanze e disattivata dopo %d minuto se non viene stabilita alcuna connessione</item>
     </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d SIM</item>
@@ -409,20 +405,20 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
         <item quantity="one">1 elemento</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
-        <item quantity="other">Sbloccato %d volte oggi</item>
-        <item quantity="one">Sbloccato %d volta oggi</item>
+        <item quantity="other">Sbloccato %d volte</item>
+        <item quantity="one">Sbloccato %d volta</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Sbloccato %d volte negli ultimi 7 giorni</item>
-        <item quantity="one">Sbloccato %d voltea negli ultimi 7 giorni</item>
+        <item quantity="other">Sbloccato %d volte</item>
+        <item quantity="one">Sbloccato %d volta</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
         <item quantity="other">Oggi hai ricevuto %d notifiche</item>
         <item quantity="one">Oggi hai ricevuto %d notifiche</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Hai ricevuto %d notifiche negli utlimi 7 giorni</item>
-        <item quantity="one">Hai ricevuto %d notifica degli utlimi 7 giorni</item>
+        <item quantity="other">Oggi hai ricevuto %d notifiche</item>
+        <item quantity="one">Oggi hai ricevuto %d notifiche</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d ore</item>
@@ -437,7 +433,7 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
         <item quantity="one">" ora"</item>
     </plurals>
     <plurals name="usage_state_minute">
-        <item quantity="other">%d min</item>
+        <item quantity="other">%d minuti</item>
         <item quantity="one">%d minuto</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
@@ -501,8 +497,8 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
         <item quantity="one">%1$d dispositivo connesso</item>
     </plurals>
     <plurals name="wrong_pin_code">
-        <item quantity="other">Codice PIN errato. Hai ancora %d tentativi a disposizione</item>
-        <item quantity="one">Codice PIN errato. Hai ancora %d tentativo a disposizione, dopodiché dovrai contattare l\'operatore per sbloccare il dispositivo</item>
+        <item quantity="other">Codice PIN SIM errato, hai %d tentativi rimanenti.</item>
+        <item quantity="one">Codice PIN SIM errato, hai %d tentativo rimanente prima di contattare il tuo operatore per sbloccare il tuo dispositivo.</item>
     </plurals>
     <plurals name="zen_mode_bypassing_apps_subtext">
         <item quantity="other">Le notifiche da %1$d app possono sovrascrivere la modalità Non Disturbare</item>

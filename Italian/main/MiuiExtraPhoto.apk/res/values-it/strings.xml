@@ -2,7 +2,7 @@
 <resources>
     <string name="cancel">Annulla</string>
     <string name="doc_photo_adjust_section_title">Trascina per regolare</string>
-    <string name="doc_photo_cancel">Cancella</string>
+    <string name="doc_photo_cancel">Annulla</string>
     <string name="doc_photo_confirm">Esci</string>
     <string name="doc_photo_doc_photo_title">Modifica documento</string>
     <string name="doc_photo_enhance_bin">B/N</string>
@@ -28,12 +28,12 @@
     <string name="motion_photo_save_image_ing">Salvataggio dell\'immagine migliore…</string>
     <string name="motion_photo_save_video">Salva come video</string>
     <string name="motion_photo_save_video_ing">Salvataggio video…</string>
-    <string name="motion_photo_toast_default">Predefinito</string>
+    <string name="motion_photo_toast_default">Predefinita</string>
     <string name="motion_photo_toast_long_press_play">Premi e tieni premuta la foto per riprodurla</string>
-    <string name="motion_photo_toast_suggest">Consigliate</string>
+    <string name="motion_photo_toast_suggest">Consigliato</string>
     <string name="ok">OK</string>
     <string name="refocus_discard_confirm_message">Salvare i cambiamenti?</string>
-    <string name="refocus_discard_negative_btn">Annulla</string>
+    <string name="refocus_discard_negative_btn">Ignora</string>
     <string name="refocus_discard_positive_btn">Salva</string>
     <string name="refocus_dynamic_luoxuan">Vortice</string>
     <string name="refocus_dynamic_tongxin">Abbraccia</string>
@@ -71,7 +71,7 @@
     <string name="refocus_type_relighting">Illuminazione da studio</string>
     <string name="refocus_type_relighting_no_face">"Impossibile rilevare volto"</string>
     <string name="refocus_type_relighting_small_face">Gli effetti di illuminazione richiedono foto con volti ben definiti.</string>
-    <string name="refocus_type_static">Livello sfocatura</string>
+    <string name="refocus_type_static">Sfocatura</string>
     <string name="refocus_type_video">Scie di luce</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

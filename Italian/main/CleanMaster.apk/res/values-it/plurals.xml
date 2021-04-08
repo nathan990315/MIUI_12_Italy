@@ -132,19 +132,31 @@
     </plurals>
     <plurals name="people">
         <item quantity="other">Scaricato da %1$d persone</item>
-        <item quantity="one">Scaricato da %1$d persona</item>
+        <item quantity="one">Scaricato da %1$d persone</item>
     </plurals>
     <plurals name="people_million">
         <item quantity="other">Scaricato da %1$d persone</item>
-        <item quantity="one">Scaricato da %1$d persona</item>
+        <item quantity="one">Scaricato da %1$d persone</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">%d app non sono state utilizzate per lungo tempo, dagli un\'occhiata.</item>
         <item quantity="one">%d app non sono state utilizzate per lungo tempo, dagli un\'occhiata.</item>
     </plurals>
+    <plurals name="rs_clean_size_hint_image">
+        <item quantity="other">Abbastanza per %d foto</item>
+        <item quantity="one">Abbastanza per %d foto</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+        <item quantity="other">Abbastanza per %d brani</item>
+        <item quantity="one">Abbastanza per %d brano</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%1$d secondi</item>
         <item quantity="one">%1$d secondo</item>
+    </plurals>
+    <plurals name="video_clean_scan_app_result">
+        <item quantity="other">%d app con video in cache</item>
+        <item quantity="one">%d app con video in cache</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$s visualizzazioni</item>
@@ -169,5 +181,9 @@
     <plurals name="whatsapp_delete_files">
         <item quantity="other">Vuoi eliminare %1$d file?</item>
         <item quantity="one">Vuoi eliminare %1$d file?</item>
+    </plurals>
+    <plurals name="whatsapp_file_audio_dec">
+        <item quantity="other">%1$s file audio</item>
+        <item quantity="one">%1$s file audio</item>
     </plurals>
 </resources>

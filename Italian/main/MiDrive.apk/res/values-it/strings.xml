@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Fatto</string>
     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
-    <string name="abc_capital_off">ATTIVATO</string>
-    <string name="abc_capital_on">DISATTIVATO</string>
+    <string name="abc_capital_off">DISATTIVATO</string>
+    <string name="abc_capital_on">ATTIVATO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
@@ -23,7 +23,7 @@
     <string name="abc_searchview_description_query">Cerca termine</string>
     <string name="abc_searchview_description_search">Cerca</string>
     <string name="abc_searchview_description_submit">Avvia ricerca</string>
-    <string name="abc_searchview_description_voice">RIcerca vocale</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
@@ -47,8 +47,8 @@
     <string name="category_document_title">Documenti</string>
     <string name="category_file">File</string>
     <string name="category_folder">Nuova cartella</string>
-    <string name="category_image">Foto</string>
-    <string name="category_image_title">Foto</string>
+    <string name="category_image">Immagini</string>
+    <string name="category_image_title">Immagini</string>
     <string name="category_music">Musica</string>
     <string name="category_music_title">Musica</string>
     <string name="category_no_file_desc">Nessun contenuto.</string>
@@ -72,7 +72,7 @@
     <string name="cloud_storage_no_data">Nessun dato</string>
     <string name="confirm">OK</string>
     <string name="confirm_and_continue">Continua</string>
-    <string name="confirm_know">indietro</string>
+    <string name="confirm_know">Indietro</string>
     <string name="continue_all">Riprendi tutto</string>
     <string name="copy">Copia</string>
     <string name="copy_file_success">Copiato con successo</string>
@@ -81,8 +81,10 @@
     <string name="create_pdf_manual">Nuovo PDF</string>
     <string name="current_speed_content">Velocità attuale: %1$s</string>
     <string name="delete_file_success">Rimozione completata</string>
+    <string name="delete_operation_record">Eliminare questo elemento?</string>
     <string name="delete_record_only">"Gli elementi a cui si riferiscono i record selezionati non verranno eliminati."</string>
     <string name="delete_success">Rimozione completata</string>
+    <string name="detail_download_path">"Luogo: "</string>
     <string name="dialog_content_delete_pdf_content">Eliminare questo PDF?</string>
     <string name="dialog_copy_storage_full_desc">"Impossibile copiare gli elementi a causa di uno spazio di archiviazione cloud insufficiente. Aggiorna il tuo piano per ottenere più spazio di archiviazione."</string>
     <string name="dialog_copy_storage_full_title">"Impossibile copiare"</string>
@@ -101,7 +103,7 @@
     <string name="dialog_type_video">Video</string>
     <string name="dialog_upload_storage_full_desc">"Impossibile caricare gli elementi a causa di spazio di archiviazione cloud insufficiente. Aggiorna il tuo piano per ottenere più spazio di archiviazione."</string>
     <string name="dialog_upload_storage_full_title">"Impossibile caricare"</string>
-    <string name="doc_all">Tutti</string>
+    <string name="doc_all">Tutto</string>
     <string name="doc_other">Altro</string>
     <string name="doc_pdf">PDF</string>
     <string name="doc_picker_title">Seleziona i documenti</string>
@@ -122,7 +124,7 @@
     <string name="download_metered_network_dialog_ok">Scarica</string>
     <string name="download_metered_network_dialog_title">Utilizzo dati rete mobile</string>
     <string name="download_to">"Salva in "</string>
-    <string name="downloading">Download</string>
+    <string name="downloading">In download</string>
     <string name="error_filename_contain_illegal_char">"I nomi dei file non possono contenere caratteri speciali"</string>
     <string name="error_filename_contain_space">"Impossibile iniziare o finire i nomi dei file con uno spazio"</string>
     <string name="error_filename_is_null">"Il nome del file non può essere vuoto"</string>
@@ -147,7 +149,7 @@
     <string name="exception_rename_conflict">"Impossibile rinominare. Un elemento con questo nome esiste già."</string>
     <string name="exception_rename_illegal_char">"I nomi dei file non possono contenere caratteri speciali"</string>
     <string name="expand_button_title">Avanzate</string>
-    <string name="fab_menu_sort">Ordina</string>
+    <string name="fab_menu_sort">Ordinamento note</string>
     <string name="file_info_created">"Caricato: "</string>
     <string name="file_info_local_created">"Creato: "</string>
     <string name="file_info_location">"Luogo: "</string>
@@ -167,11 +169,12 @@
     <string name="file_sort_modify_time">Ordina per data ultima modifica</string>
     <string name="file_sort_name">Ordina per nome</string>
     <string name="file_sort_size">Ordina per dimensione</string>
-    <string name="file_status_text">%1$s | %2$s %3$s: %4$s</string>
-    <string name="file_status_text_no_size">%1$s %2$s: %3$s</string>
+    <string name="file_status_text">%1$s | %2$s</string>
+    <string name="file_status_text_no_size">%1$s</string>
     <string name="file_upload_dialog_cancel">Annulla</string>
     <string name="file_upload_dialog_title">Seleziona categoria</string>
     <string name="h5_ppt_to_pdf_introduce_title">Informazioni sulla conversione delle diapositive in PDF</string>
+    <string name="home_action_up">Indietro</string>
     <string name="i_know">Fatto</string>
     <string name="image_picker_title">Seleziona immagini</string>
     <string name="image_preview_cover_failed">"Impossibile caricare. Riprova."</string>
@@ -179,7 +182,8 @@
     <string name="image_preview_open_large_image">Apri immagine originale (%s)</string>
     <string name="image_preview_percent">%s%%</string>
     <string name="inner_storage_path">Memoria interna</string>
-    <string name="just_now">Poco fa</string>
+    <string name="jump_to_directory">Apri cartella</string>
+    <string name="just_now">Un momento fa</string>
     <string name="license_host_unreachable">"Il tuo dispositivo non è connesso ai servizi cloud. Per visualizzare questo elemento, visita %s su qualsiasi dispositivo connesso."</string>
     <string name="load_label_up_no_data">Nient\'altro da mostrare</string>
     <string name="load_label_up_none">Nient\'altro da mostrare</string>
@@ -210,7 +214,7 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
-    <string name="month_day_format">dd MMM</string>
+    <string name="month_day_format">dd/MM</string>
     <string name="move_file_success">Spostato correttamente</string>
     <string name="music_format_not_support">"Impossibile visualizzare l'anteprima di questo file"</string>
     <string name="music_picker_title">Seleziona musica</string>
@@ -251,10 +255,10 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="operation_dialog_rename_message">Rinominazione…</string>
     <string name="operation_download">Scarica</string>
     <string name="operation_info">Dettagli</string>
-    <string name="operation_move">Taglia</string>
+    <string name="operation_move">Sposta</string>
     <string name="operation_rename">Rinomina</string>
     <string name="operation_save">Salva</string>
-    <string name="operation_sure_to_delete">Eliminarlo?</string>
+    <string name="operation_sure_to_delete">Eliminare?</string>
     <string name="operation_transport_success">Aggiunto correttamente ai trasferimenti</string>
     <string name="pause_all">Tutto in pausa</string>
     <string name="pause_download">Pausa</string>
@@ -276,6 +280,7 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="private_empty_sub_desc">Prova a spostare i file qui o caricali direttamente.</string>
     <string name="private_folder_name">File privati</string>
     <string name="ptp_ai_recommend_empty_page">Nessun PDF generato automaticamente qui</string>
+    <string name="recent_file">Recenti</string>
     <string name="refresh_label_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="refresh_label_refreshed">Aggiornato correttamente</string>
     <string name="refresh_label_refreshing">Aggiornamento…</string>
@@ -288,7 +293,7 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="request_permission_confirm">Fatto</string>
     <string name="request_permission_content">Mi Drive deve accedere agli account su questo dispositivo per poter utilizzare il tuo Mi Account per accedere. Il permesso di accedere e salvare i file sul tuo dispositivo permetterà a Mi Drive di visualizzare in anteprima, caricare, scaricare e sincronizzare gli elementi.</string>
     <string name="request_permission_content_with_phone_state">Per essere in grado di accedere con Mi Account, visualizzare, caricare, scaricare e sincronizzare i file, e controllare gli aggiornamenti, Mi Drive richiede le autorizzazioni per accedere ai tuoi account, foto, file e IMEI.</string>
-    <string name="request_permission_title">Sono richiesti i permessi</string>
+    <string name="request_permission_title">Permessi richiesti</string>
     <string name="root_page_name">La mia unità</string>
     <string name="save">Salva</string>
     <string name="save_pdf">Salva</string>
@@ -352,7 +357,7 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="update_dialog_title">Aggiornamento disponibile</string>
     <string name="update_failed">Si è verificato un errore del server. Aspetta un minuto o due e prova di nuovo.</string>
     <string name="update_failed_no_app_info">"Impossibile recuperare il pacchetto di installazione"</string>
-    <string name="update_no_network">"Impossibile collegarsi alla rete. Controlla le impostazioni e riprova."</string>
+    <string name="update_no_network">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
     <string name="update_no_update">La versione attuale è aggiornata</string>
     <string name="update_progress_dialog_content">Download in corso…</string>
     <string name="upload_done">Caricamento completato</string>
@@ -368,19 +373,18 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="upload_metered_network_dialog_title">Utilizzo dati rete mobile</string>
     <string name="uploading">Caricamento</string>
     <string name="user_agreement_title">Accordo Utente Mi Drive</string>
-    <string name="user_protocol_and_privacy_protocol">"Ho letto e accettato l'Accordo Utente e l'Informativa sulla Privacy."</string>
-    <string name="v7_preference_off">ATTIVATO</string>
-    <string name="v7_preference_on">DISATTIVATO</string>
+    <string name="v7_preference_off">DISATTIVATO</string>
+    <string name="v7_preference_on">ATTIVATO</string>
     <string name="video_picker_title">Seleziona video</string>
-    <string name="view_type">Vedi</string>
+    <string name="view_type">Mostra</string>
     <string name="waiting_download">In attesa</string>
     <string name="waiting_network">In attesa della rete</string>
     <string name="waiting_upload">In attesa</string>
     <string name="warning_bar_title_cloud_space_already_full">Lo spazio cloud è quasi pieno. Le foto potrebbero non essere sincronizzate.</string>
     <string name="warning_bar_title_cloud_space_full">"Lo spazio cloud è pieno. Impossibile sincronizzare foto, cronologia delle chiamate o altri elementi."</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Più tardi</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Non adesso</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">%s nuova versione</string>
-    <string name="year_month_day_format">dd MMM, yyyy</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>
+    <string name="year_month_day_format">dd MMMM, yyyy</string>
     <string name="yesterday">Ieri</string>
 </resources>

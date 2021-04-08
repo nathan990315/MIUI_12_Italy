@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="_00_00">00:00</string>
-    <string name="abc_action_bar_home_description">Naviga nella home</string>
-    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_bar_home_description">Vai alla Home</string>
+    <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
     <string name="abc_action_mode_done">Fatto</string>
     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
-    <string name="abc_capital_off">ATTIVATO</string>
-    <string name="abc_capital_on">DISATTIVATO</string>
+    <string name="abc_capital_off">DISATTIVATO</string>
+    <string name="abc_capital_on">ATTIVATO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
@@ -19,7 +19,7 @@
     <string name="abc_menu_space_shortcut_label">Spazio</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menù+</string>
-    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_search_hint">Ricerca…</string>
     <string name="abc_searchview_description_clear">Cancella campo</string>
     <string name="abc_searchview_description_query">Cerca termine</string>
     <string name="abc_searchview_description_search">Cerca</string>
@@ -27,8 +27,8 @@
     <string name="abc_searchview_description_voice">Ricerca vocale</string>
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
-    <string name="abc_toolbar_collapse_description">Chiudi</string>
-    <string name="actionbar_button_up_description">indietro</string>
+    <string name="abc_toolbar_collapse_description">Riduci</string>
+    <string name="actionbar_button_up_description">Indietro</string>
     <string name="ad_downloading">Download…</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="am">AM</string>
@@ -39,14 +39,12 @@
     <string name="btn_resume">Riprendi</string>
     <string name="btn_update">Aggiorna</string>
     <string name="btn_verifying">Verifica</string>
-    <string name="camera_perm_dialog_btn_cancel">Annulla</string>
     <string name="camera_perm_dialog_btn_ok">Conferma</string>
-    <string name="cancel">Ferma</string>
+    <string name="cancel">Annulla</string>
     <string name="cancel_button">Annulla</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_pattern">%1$d di %2$d</string>
-    <string name="child_room_cancel">Annulla</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -131,8 +129,8 @@
     <string name="dialog_market_score_subtitle_step2">Puoi anche lasciare un messaggio.</string>
     <string name="dialog_market_score_subtitle_step3">Valuta questa app</string>
     <string name="dialog_market_score_title_step1_format">Ti piace \"%s\"?</string>
-    <string name="dialog_market_score_title_step2">Grazie per il tuo feedback!</string>
-    <string name="dual_app_title">App doppie</string>
+    <string name="dialog_market_score_title_step2">Grazie per la segnalazione!</string>
+    <string name="dual_app_title">App clonate</string>
     <string name="dual_app_words">Ogni accunt richiede la propria app</string>
     <string name="duration_category_weekend_title">Fine settimana</string>
     <string name="duration_category_workday_title">Lun - Ven</string>
@@ -171,7 +169,8 @@
     <string name="ew_detail_receive_time_title">Orario di inizio</string>
     <string name="ew_detail_receive_warn_time_message">%s s</string>
     <string name="ew_detail_receive_warn_time_title">Tempo prima dell\'inizio</string>
-    <string name="ew_share_logo_title">Avviso terremoto</string>
+    <string name="ew_save_title">Salva</string>
+    <string name="ew_share_logo_title">Allerta terremoto</string>
     <string name="ew_share_save_tips">Salvato in %s</string>
     <string name="ew_share_title">Condividi</string>
     <string name="ew_title_back">Indietro</string>
@@ -188,7 +187,7 @@
     <string name="fastboot_status_locked_summary">"Impossibile ottenere permessi di root"</string>
     <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
     <string name="fastboot_unlock_web_title">Vai sul sito ufficiale MIUI per ottenere lo strumento di sblocco.</string>
-    <string name="fingerprint_not_remind">"Non chiedere più"</string>
+    <string name="fingerprint_not_remind">"Non chiedermelo più"</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -219,7 +218,7 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
     <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
     <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
@@ -252,6 +251,8 @@
     <string name="gamebooster_network_dialog_message">Consentire all\'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzionalità di Turbo Videogiochi?</string>
     <string name="gamebooster_network_dialog_title">"Alcune funzionalità non sono disponibili"</string>
     <string name="gamebox_no_network_btn">Ricarica</string>
+    <string name="gb_adv_touch_custom2">Sensibilità ai tap ripetuti</string>
+    <string name="gb_adv_touch_custom_title">Impostazioni schede</string>
     <string name="gb_advance_settings_edge_gear1">Nessuno</string>
     <string name="gb_advance_settings_edge_gear2">Piccolo</string>
     <string name="gb_advance_settings_edge_gear3">Medio</string>
@@ -264,10 +265,10 @@
     <string name="gb_advance_settings_reset_button">Ripristina</string>
     <string name="gb_advance_settings_reset_dialog_content">Ripristinar ele impostazioni rpedefinite adesso?</string>
     <string name="gb_advance_settings_reset_dialog_title">Impostazioni predefinite</string>
-    <string name="gb_advance_settings_screen_display">Test Schermo</string>
+    <string name="gb_advance_settings_screen_display">Schermo</string>
     <string name="gb_advance_settings_screen_hdr">Visuale ottimizzata</string>
     <string name="gb_advance_settings_screen_hdr_gear1">Originale</string>
-    <string name="gb_advance_settings_screen_hdr_gear2">moderata</string>
+    <string name="gb_advance_settings_screen_hdr_gear2">Moderato</string>
     <string name="gb_advance_settings_screen_hdr_gear3">forte</string>
     <string name="gb_advance_settings_screen_hdr_gear4">Estrema</string>
     <string name="gb_advance_settings_screen_hdr_summary">Aumenta il contrasto e migliora i dettagli di gioco</string>
@@ -295,7 +296,7 @@
     <string name="gb_gpu_dialog_button_countdown">Ok (%s)</string>
     <string name="gb_gpu_dialog_message">Le attuali impostazioni della GPU sono applicate a \"%s\". Riavvia il gioco per applicare le impostazioni.</string>
     <string name="gb_gpu_dialog_titile">Impostazioni GPU</string>
-    <string name="gb_gpu_rader_graph">Qualità dell\'immagine</string>
+    <string name="gb_gpu_rader_graph">Qualità</string>
     <string name="gb_gpu_rader_maxfps">Frame rate più elevato</string>
     <string name="gb_gpu_rader_remain">Prestazioni</string>
     <string name="gb_gpu_resolution_720">720p</string>
@@ -312,7 +313,6 @@
     <string name="gb_pannel_control_mode_normal">Predefinita</string>
     <string name="gb_pannel_control_mode_power_saving">Risparmia batteria</string>
     <string name="gb_weixinpay_can_not_complete">"Impossibile completare il pagamento. Installa per continuare."</string>
-    <string name="gdpr_msg">Per utilizzare le funzionalità di base dell\'app Sicurezza, dovrai acconsentire al raccoglimento e l\'elaborazione dei tuoi dati da parte di Xiaomi, incluse le informazioni sulle modalità di utilizzo delle funzionalità di Sicurezza (ad esempio, statistiche sull\'utilizzo dei dati mobili, informazioni sui malware, nonché informazioni di base sul dispositivo) e altri tipi di informazioni specificate nella nostra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Informativa sulla Privacy&lt;/a&gt;.</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -324,7 +324,6 @@
     <string name="heavenly_stems_xin">Xin</string>
     <string name="heavenly_stems_yi">Yi</string>
     <string name="icon_content_description">Icona di dialogo</string>
-    <string name="incall_dialog_negative_btn_text">Annulla</string>
     <string name="install_success">%s安装成功</string>
     <string name="loading">Caricamento...</string>
     <string name="lucky_result_title">Assistente registrazione</string>
@@ -340,9 +339,9 @@
     <string name="miuishare_title_share">Condividi</string>
     <string name="miuishare_wechat_timeline_title">Momenti WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
-    <string name="miuix_appcompat_cloud_state_disabled">La sincronizzazione col cloud è disattivata</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sincronizzato correttamente con il cloud</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Sincronizzazione con il cloud…</string>
+    <string name="miuix_appcompat_cloud_state_disabled">Sincronizzazione Mi Cloud disattivata</string>
+    <string name="miuix_appcompat_cloud_state_finished">Sincronizzato col cloud</string>
+    <string name="miuix_appcompat_cloud_state_syncing">Sincronizzazione col cloud...</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
     <string name="monday">Lunedì</string>
     <string name="monday_short">Lun</string>
@@ -419,30 +418,28 @@
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa a modalità inserimento testo</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="net_booster_expire_notification">La sessione di accelerazione velocità di rete sta per terminare</string>
-    <string name="net_booster_overdue_notification">La sessione di accelerazione di velocità di rete sta per terminare</string>
+    <string name="net_booster_overdue_notification">La sessione di accelerazione velocità di rete sta per terminare</string>
     <string name="net_booster_overdue_notification_tip">La sessione di accelerazione di velocità di rete terminerà presto. Rinnovare la sessione?</string>
-    <string name="network_not_available">"Impossibile collegarsi alla rete"</string>
+    <string name="network_not_available">"Impossibile connettersi alla rete"</string>
     <string name="night">Sera</string>
-    <string name="no_net_dialog_negative_text">Annulla</string>
     <string name="no_network_btn">Riprova</string>
     <string name="noon">Mezzogiorno</string>
     <string name="ok_button">OK</string>
     <string name="open_browser">Apri nel browser</string>
-    <string name="parent_center_app_sure">Conferma</string>
+    <string name="parent_center_app_sure">Determina</string>
     <string name="parent_center_app_time_range_2">Fine settimana</string>
-    <string name="parent_center_default_home_confirm">Conferma</string>
-    <string name="password_toggle_content_description">Mostra/Nascondi password</string>
+    <string name="parent_center_default_home_confirm">Determina</string>
+    <string name="password_toggle_content_description">Mostra password</string>
     <string name="pc_activity_title">Ottimizza batteria</string>
     <string name="pm">PM</string>
-    <string name="pm_lable_name">Informazioni sui permessi di root</string>
-    <string name="privacy_declare_dialog_title">Termini del Servizio</string>
+    <string name="pm_lable_name">Informazioni sui permessi root</string>
+    <string name="privacy_declare_dialog_title">Condizioni d\'uso</string>
     <string name="privacy_prompt_traffic_purchase_message">"Le informazioni relative al tuo numero di telefono e al tuo operatore verranno crittografate e caricate sui server Xiaomi per fornire maggiori dettagli sulle possibilità di acquisto."</string>
     <string name="renew_now">Rinnova</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
     <string name="search_menu_title">Cerca</string>
-    <string name="set_password_dialog_negative_button_text">Annulla</string>
     <string name="share">Condividi</string>
     <string name="size_unit_byte">%1$sB</string>
     <string name="size_unit_kilobyte">%1$sKB</string>
@@ -461,7 +458,7 @@
     <string name="solar_term_insects_awaken">Risveglio degli insetti</string>
     <string name="solar_term_light_snow">Nevischio</string>
     <string name="solar_term_slight_cold">Freddino</string>
-    <string name="solar_term_slight_heat">Caldino</string>
+    <string name="solar_term_slight_heat">Moderatamente Caldo</string>
     <string name="solar_term_spring_begins">Arriva la primavera</string>
     <string name="solar_term_stopping_the_heat">Ritirata del caldo</string>
     <string name="solar_term_summer_begins">Inizia l\'estate</string>
@@ -471,6 +468,7 @@
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -489,7 +487,7 @@
     <string name="superpower_dialog_app_select_title">Attenzione</string>
     <string name="superpower_exit_hint">Disattivazione Ultra Risparmio Energetico…</string>
     <string name="superpower_incharging">Ricarica</string>
-    <string name="superpower_progress_battery_last">%s rimanente</string>
+    <string name="superpower_progress_battery_last">%d%% rimanente</string>
     <string name="superpower_progress_left_time">%1$do %2$dm</string>
     <string name="superpower_search_hint">Cerca app</string>
     <string name="superpower_select_app_title">App usate frequentemente</string>
