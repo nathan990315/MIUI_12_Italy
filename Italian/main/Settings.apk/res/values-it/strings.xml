@@ -3875,7 +3875,7 @@ Puoi impostare un nuovo blocco schermo sia per il dispositivo che per il tuo pro
     <string name="lockpassword_choose_your_pin_header_second_space">"Imposta PIN 
  per il Secondo Spazio"</string>
     <string name="lockpassword_choose_your_pin_message">Per sicurezza, imposta un PIN</string>
-    <string name="lockpassword_choose_your_pin_title">Immetti %d-%d numeri</string>
+    <string name="lockpassword_choose_your_pin_title" formatted="false">Immetti %d-%d numeri</string>
     <string name="lockpassword_choose_your_screen_lock_header">Imposta blocco schermo</string>
     <string name="lockpassword_clear_label">Cancella</string>
     <string name="lockpassword_confirm_for_second_user">Conferma la password per il Secondo Spazio</string>
