@@ -449,8 +449,8 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="one">%d app</item>
     </plurals>
     <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d punti</item>
-        <item quantity="one">+%d punto</item>
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d sapp tanno consumando la batteria</item>

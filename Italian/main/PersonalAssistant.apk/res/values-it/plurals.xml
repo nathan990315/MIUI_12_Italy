@@ -148,6 +148,10 @@
         <item quantity="one">%1$d minuto fa</item>
         <item quantity="other">%1$d minuti fa</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>

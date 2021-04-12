@@ -424,7 +424,7 @@
     <string name="app_manager_permission_dcimcontrol_title">Accesso alla Galleria</string>
     <string name="app_manager_permission_manager_title">Permessi</string>
     <string name="app_manager_permission_notify_title">Notifiche</string>
-    <string name="app_manager_permission_power_saving_title">Risparmio</string>
+    <string name="app_manager_permission_power_saving_title">Risparmio energetico</string>
     <string name="app_manager_permission_startself_title">Avvio automatico</string>
     <string name="app_manager_permission_summary_reject">Limita tutto</string>
     <string name="app_manager_power_consume">%.1f%%</string>
@@ -699,7 +699,7 @@ se dimenticata</string>
     <string name="battery_low_percent_format_save_mode_closed">"C'è meno del %s di batteria rimanente ora. Non dimenticare di ricaricare il tuo dispositivo."</string>
     <string name="battery_low_percent_format_save_mode_open">"C'è meno del %1$s di batteria rimanente ora. Attiva il Risparmio Energetico per aggiungere %2$s di tempo in più."</string>
     <string name="battery_low_title">La batteria si sta esaurendo</string>
-    <string name="battery_low_title_power_save">Risparmio</string>
+    <string name="battery_low_title_power_save">Risparmio energetico</string>
     <string name="battery_statistics_activity_title">Statistiche utilizzo batteria</string>
     <string name="battery_stats_charging_label">Ricarica</string>
     <string name="battery_stats_gps_on_label">GPS attivo</string>
@@ -1160,6 +1160,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
     <string name="earthly_branches_yin">Yin</string>
     <string name="earthly_branches_you">You</string>
     <string name="earthly_branches_zi">Zi</string>
+    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty_app">Nessuna app</string>
     <string name="empty_title_auto_start_list">Nessuna app in avvio automatico</string>
@@ -1368,7 +1369,9 @@ scheda medica"</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -1643,6 +1646,7 @@ scheda medica"</string>
     <string name="gamebox_immersion_tips_content">La modalità Immersiva limita tutte lel funzioni della SIM ad esclusione della connessione dati. Non verrai disturbato da chiamate e non riceverai notifiche per le chiamate perse. Tutte le funzioni della SIM verranno riattivate quando la modalità Immersiva viene disattivata. Attivare la modalità Immersiva?</string>
     <string name="gamebox_immersion_tips_title">Attenzione</string>
     <string name="gamebox_immerson_open">"Attivazione modalità Immersiva, non cambiare rete…"</string>
+    <string name="gamebox_macro">Macro</string>
     <string name="gamebox_manual_record">Registra</string>
     <string name="gamebox_milink">Trasmetti</string>
     <string name="gamebox_positive_button_text">OK (%1$ds)</string>
@@ -1726,6 +1730,9 @@ scheda medica"</string>
     <string name="gb_first_window_summary">Migliora la velocità e le prestazioni a livello di sistema</string>
     <string name="gb_first_window_title">Turbo videogiochi</string>
     <string name="gb_game_end_toast">Rivedi i momenti cruciali dei tuoi giochi</string>
+    <string name="gb_game_macro_bubble_tips">Prova le Macro</string>
+    <string name="gb_game_macro_toast_tips">"Prova le Macro!
+Registra sequenze personalizzate e usale in qualsiasi momento!"</string>
     <string name="gb_game_video_bottom_tips">Guarda le registrazioni delle tue sessioni nel gamebox. I video sono memorizzati lì per 7 giorni.</string>
     <string name="gb_game_video_item_tag">Momento saliente</string>
     <string name="gb_game_video_page_delete_success">Rimozione completata</string>
@@ -1839,7 +1846,7 @@ e prova a Cambiare Voce!"</string>
     <string name="gs_advanced_setting_summary">Impostazioni per giochi individuali</string>
     <string name="gs_advanced_setting_title">Impostazioni addizionali</string>
     <string name="gs_anto_clean_memory_whitelist">Eccezioni</string>
-    <string name="gs_app_back_self_start">Risparmio</string>
+    <string name="gs_app_back_self_start">Risparmio energetico</string>
     <string name="gs_auto_clean_memory">Svuota cache</string>
     <string name="gs_auto_clean_memory_detail">Cancella automaticamente la cache per ottimizzare il gioco</string>
     <string name="gs_autobooster_dialog_message">"Se stai utilizzando l'incrementatore di velocità Xunyou, apri i giochi nell'apposita pagina."</string>
@@ -2223,6 +2230,7 @@ dall'operatore"</string>
     <string name="menu_text_license_manager">Permessi</string>
     <string name="menu_text_networkassistants">Utilizzo dati</string>
     <string name="menu_text_networkassistants_danger">%s oltre la soglia</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s rimasti</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2232,6 +2240,7 @@ dall'operatore"</string>
     <string name="menu_text_optimize_manage_1">Velocizza</string>
     <string name="menu_text_power_manager">Batteria</string>
     <string name="menu_text_power_percent">%s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Rimuovi dalle eccezioni</string>
     <string name="menu_white">Aggiungi alle eccezioni</string>
     <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
@@ -2633,7 +2642,7 @@ se dimenticata</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$sgio %2$sore rimanenti</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$sore %2$smin rimanenti</string>
     <string name="pc_search_keywords_battery">Batteria</string>
-    <string name="pc_search_keywords_battery_save">Risparmio</string>
+    <string name="pc_search_keywords_battery_save">Risparmio energetico</string>
     <string name="pc_search_keywords_battery_use">Consumo batteria</string>
     <string name="pc_search_keywords_capacity">Capacità</string>
     <string name="pc_search_keywords_property">Prestazioni</string>
@@ -2701,7 +2710,6 @@ se dimenticata</string>
     <string name="permission_instruction_dont_disturb">Questa autorizzazione consente alle app di attivare e disattivare la modalità ND.</string>
     <string name="permission_instruction_draw_overlay">Questa autorizzazione consente alle applicazioni di visualizzare finestre fluttuanti su qualsiasi parte dell\'interfaccia del dispositivo, che può influenzare il normale utilizzo di altre applicazioni. Le app dannose potrebbero utilizzare questa autorizzazione per leggere o raccogliere informazioni private (ad esempio password) attraverso finestre fluttuanti trasparenti.</string>
     <string name="permission_instruction_external_storage">Questa autorizzazione consente alle app di accedere a foto, media e file sul tuo dispositivo. Fai attenzione con questa autorizzazione per evitare la divulgazione non necessaria di informazioni private.</string>
-    <string name="permission_instruction_gallery">Per proteggere la tua privacy, MIUI ti permette di decidere se consentire alle app che hanno i permessi di archiviazione di accedere alla Galleria.</string>
     <string name="permission_instruction_get_accounts">Questa autorizzazione consente alle app di accedere alla lista degli account memorizzati sul tuo dispositivo. Questo elenco potrebbe contenere tutti gli account personali creati dalle applicazioni installate, così come gli account da piattaforme di social media e strumenti di comunicazione.</string>
     <string name="permission_instruction_install_shortcuts">Questa autorizzazione consente alle app di creare collegamenti nella schermata home.</string>
     <string name="permission_instruction_install_unknown_source">Questa autorizzazione consente alle app di installare altre applicazioni sul tuo dispositivo. Le app dannose la utilizzano per installare app senza la tua conferma.</string>
@@ -2728,8 +2736,6 @@ se dimenticata</string>
     <string name="permission_instruction_send_payment_sms">Questa autorizzazione consente alle app di inviare messaggi di testo a pagamento.</string>
     <string name="permission_instruction_send_sms">Questa autorizzazione consente alle app di inviare messaggi di testo, che possono generare costi aggiuntivi. Le app dannose potrebbero utilizzare questo permesso per inviare messaggi a pagamento senza il tuo consenso.</string>
     <string name="permission_instruction_show_locked">Questa autorizzazione consente alle app di visualizzare gli elementi nella schermata di blocco. Le app dannose potrebbero utilizzare questo permesso per mostrare fastidiosi annunci.</string>
-    <string name="permission_instruction_sociality">Per proteggere la tua privacy, MIUI ti permette di decidere se consentire alle app che dispongono di permessi di archiviazione di accedere ai tuoi messaggi nelle app social.</string>
-    <string name="permission_instruction_storage">Per proteggere la tua privacy, MIUI consente di decidere se consentire alle applicazioni che hanno permessi di memorizzazione di accedere alla Galleria e ai messaggi nelle app social.</string>
     <string name="permission_instruction_touch_pay">Questa autorizzazione consente alle app di eseguire pagamenti contactless.</string>
     <string name="permission_instruction_use_sip">Questa autorizzazione consente alle app di utilizzare i servizi video SIP.</string>
     <string name="permission_instruction_vr_assistant">Questa autorizzazione consente alle app di utilizzare Assistenti VR.</string>
@@ -2816,6 +2822,11 @@ se dimenticata</string>
     <string name="power_center_dialog_msg_top">Quando il risparmio energetico è attivo, MIUI attuerà le seguenti ottimizzazioni:</string>
     <string name="power_center_hints_scan_danger_result">Puoi correggere i problemi di batteria ora</string>
     <string name="power_center_list_item_auto_brightness">Regola automaticamente la luminosità dello schermo</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">°C</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Disattiva Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Impostazioni avanzate</string>
@@ -2831,7 +2842,7 @@ se dimenticata</string>
     <string name="power_center_ontime_shutdown">Spegnimento programmato</string>
     <string name="power_center_optimize_title">Suggerimenti</string>
     <string name="power_center_power_save_summary_text">Aumenta il tempo restante fino a %1$dore %2$dmin</string>
-    <string name="power_center_power_save_title_text">Risparmio</string>
+    <string name="power_center_power_save_title_text">Risparmio energetico</string>
     <string name="power_center_problem_title">Risolvi i problemi</string>
     <string name="power_center_reduce_dpi_summary">QHD+ consuma più batteria</string>
     <string name="power_center_reduce_resolution">Riduci la risoluzione dello schermo</string>
@@ -2857,6 +2868,7 @@ se dimenticata</string>
     <string name="power_center_time_to_boot">Accensione programmata</string>
     <string name="power_center_time_to_shutdown">Spegnimento programmato</string>
     <string name="power_center_title">Batteria</string>
+    <string name="power_center_unoffical_battery_dialog_positive">Maggiori informazioni</string>
     <string name="power_center_used_time_Introduction">Durata batteria dall\'ultima ricarica oltre %s</string>
     <string name="power_consume_hardware_total_format">Hardware: %s</string>
     <string name="power_consume_other">Altro</string>
@@ -2916,17 +2928,17 @@ se dimenticata</string>
     <string name="power_optimize_save_on_lockscreen">Salvaguarda i consumi quando il dispositivo è bloccato</string>
     <string name="power_optimize_set_lockscreen_time_holder">Blocca il dispositivo dopo %d secondi di inattività</string>
     <string name="power_phone">Chiamate vocali</string>
-    <string name="power_save_mode">Risparmio</string>
+    <string name="power_save_mode">Risparmio energetico</string>
     <string name="power_save_mode_auto_exit_title">Disattiva quando in carica</string>
     <string name="power_save_mode_close_aod_display_summary">Disattiva l\'Always-on display quando il RisparmioEnergetico è attivo</string>
     <string name="power_save_mode_close_aod_display_title">Disattiva Always-on display</string>
     <string name="power_save_mode_close_notification_screenon_summary">Funziona quando il Risparmio Energetico è attivo</string>
     <string name="power_save_mode_close_notification_screenon_title">"Non riattivare lo schermo alla ricezione di notifiche"</string>
     <string name="power_save_mode_close_warn_text">Il risparmio energetico limita le attività in background . Se decidi di utilizzarlo quando il dispositivo è carico, alcune parti potrebbero non funzionare correttamente. Mantenere il risparmio energetico anche con dispositivo carico?</string>
-    <string name="power_save_mode_close_warn_title">Risparmio</string>
+    <string name="power_save_mode_close_warn_title">Risparmio energetico</string>
     <string name="power_save_mode_close_xiaoai_wakeup_summary">Funziona quando il Risparmio Energetico è attivo</string>
     <string name="power_save_mode_close_xiaoai_wakeup_title">"Non attivare Mi IA con la voce"</string>
-    <string name="power_save_mode_enable">Risparmio</string>
+    <string name="power_save_mode_enable">Risparmio energetico</string>
     <string name="power_save_mode_end_time">Fine</string>
     <string name="power_save_mode_ontime_enabled">Programma risparmio energetico</string>
     <string name="power_save_mode_other_optimization">Ottimizzazione opzionale</string>
@@ -2952,7 +2964,7 @@ se dimenticata</string>
     <string name="power_save_settings">Impostazioni batteria</string>
     <string name="power_save_started_summary_text">"Il risparmio energetico è attivo. Questo ridurrà l'attività in background delle app, interromperà la sincronizzazione e ridurrà al minimo le animazioni di sistema."</string>
     <string name="power_save_summary_text">"Attivando il risparmio energetico verranno ridotte le attività in background delle app, le sincronizzazioni e le animazioni di sistema."</string>
-    <string name="power_save_title_text">Risparmio</string>
+    <string name="power_save_title_text">Risparmio energetico</string>
     <string name="power_screen">Schermo</string>
     <string name="power_setting_background_app_save_summary">Limita l\'attività delle app in background senza alterarne la funzionalità</string>
     <string name="power_setting_background_app_save_title">Risparmio energetico in background</string>
@@ -2967,7 +2979,7 @@ se dimenticata</string>
     <string name="power_setting_warm_performance_tip">Gli scenari che richiedono un elevato consumo energetico aumenteranno la temperatura del dispositivo al di sopra dei livelli della modalità predefinita di controllo della temperatura.</string>
     <string name="power_setting_wireless_reverse_charging_summary">Ricarica dispositivi compatibili wireless</string>
     <string name="power_setting_wireless_reverse_charging_title">Ricarica wireless inversa</string>
-    <string name="power_settings_category_title">Test Accensione</string>
+    <string name="power_settings_category_title">Icona della batteria</string>
     <string name="power_settings_lock_screen_saver_title">Impostazioni schermata di blocco</string>
     <string name="power_settings_number">Percentuale</string>
     <string name="power_settings_saver_title">Risparmio energetico</string>
@@ -3082,6 +3094,7 @@ se dimenticata</string>
     <string name="pref_normal_traffic_limit">Utilizzo dati giornalieri</string>
     <string name="pref_open_adjust_traffic">Aggiorna utilizzo dati ogni giorno utilizzando le statistiche del tuo operatore</string>
     <string name="pref_operator_not_set">"Operatore non impostato"</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Quando superi il limite del tuo piano dati</string>
     <string name="pref_package_traffic_settings">Questo mese</string>
     <string name="pref_pkg_begin_date">Data di azzeramento utilizzo</string>
@@ -3287,6 +3300,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="privacy_using_record">Registrare audio</string>
     <string name="privacyapp_number_masked_text">Il contenuto delle notifiche è nascosto</string>
     <string name="privacyapp_number_unmasked_text">Il contenuto delle notifiche può essere nascosto</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Server Multimediale</string>
     <string name="process_vpnsdkmanager_label">Turbo videogiochi</string>
     <string name="promotion">AD</string>
@@ -3797,7 +3811,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="storage_app_detail_uninstall_app">Disinstalla applicazione</string>
     <string name="storage_app_detail_uninstall_dialog_message">Tutti i dati dell\'app verranno eliminati se la disinstalli.</string>
     <string name="storage_app_detail_uninstall_dialog_title">Disinstallarla ora?</string>
-    <string name="storage_app_detail_uninstall_done">Disinstallato correttamente</string>
+    <string name="storage_app_detail_uninstall_done">Disinstallato</string>
     <string name="storage_app_detail_wechat_cleaner">Pulizia WeChat</string>
     <string name="storage_app_detail_wechat_session">"Cancella cronologia chat WeChat"</string>
     <string name="storage_app_list_activity_title">Dettagli app</string>
@@ -4140,7 +4154,7 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="title_permission_no">Gestore permessi disattivato</string>
     <string name="title_permission_root">Permessi root</string>
     <string name="title_permission_yes">Gestore permessi attivato</string>
-    <string name="title_power_optimizer">Risparmio</string>
+    <string name="title_power_optimizer">Risparmio energetico</string>
     <string name="title_realname_verify">Verifica ID</string>
     <string name="title_reply">Commenta</string>
     <string name="title_restrict_data_usage">"\"%s non riesce a connettersi ad Internet?"</string>
@@ -4261,7 +4275,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="unable_connect_internet">Nessuna connessione internet</string>
     <string name="uninstall_app_dialog_msg">Disinstallando verranno rimossi tutti i dati dell\'applicazione.</string>
     <string name="uninstall_app_dialog_title">Disinstallarla ora?</string>
-    <string name="uninstall_app_done">Disinstallato correttamente</string>
+    <string name="uninstall_app_done">Disinstallato</string>
     <string name="uninstall_danagerous_btn">Disinstalla</string>
     <string name="uninstall_danagerous_desc">\"%s\" potrebbe danneggiare il dispositivo</string>
     <string name="uninstall_danagerous_msg">\"%s\" potrebbe danneggiare il dispositivo, diminuire le prestazioni o causare riavvii.</string>

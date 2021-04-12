@@ -402,6 +402,7 @@ Invia questo codice ai tecnici."</string>
     <string name="passport_login_instead_reg">Utilizza questo numero</string>
     <string name="passport_login_instead_reg_with_email">Utilizza questa email</string>
     <string name="passport_login_other_account">Accedi con un altro account</string>
+    <string name="passport_login_other_phone">Usa un altro account</string>
     <string name="passport_login_other_way">Altri modo per accedere</string>
     <string name="passport_login_prompt">Tutti i servizi Mi. Un solo Mi Account</string>
     <string name="passport_login_recycle_account_no">No</string>
@@ -420,6 +421,9 @@ Invia questo codice ai tecnici."</string>
     <string name="passport_prev">Indietro</string>
     <string name="passport_privacy_policy">Informativa sulla Privacy</string>
     <string name="passport_privacy_policy_required">Informativa Privacy (obbligatorio)</string>
+    <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_input_email_register_prompt">I tuoi dati personali saranno conservati in conformità alle leggi e ai regolamenti della regione da te selezionata.</string>
     <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> caratteri di almeno <xliff id="min_pwd_type" refersto="2">%3$d</xliff> dei seguenti tipi: lettere, cifre, simboli speciali</string>
     <string name="passport_pwd_generate_failure">"Impossibile generare la password"</string>
     <string name="passport_pwd_generating">Creazione…</string>
@@ -516,6 +520,7 @@ Invia questo codice ai tecnici."</string>
     <string name="passport_use_generated_pwd_message">Non dimenticare la password. Puoi utilizzarla per accedere ad altri servizi Mi.</string>
     <string name="passport_use_generated_pwd_title">Non dimenticare la password!</string>
     <string name="passport_user_agreement">Accordo utente</string>
+    <string name="passport_user_agreement_link"><Data>\"Ho letto e accetto l\'&lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy di Xiaomi&lt;/a&gt;.\"</Data></string>
     <string name="passport_user_agreement_required">Accordo utente (obbligatorio)</string>
     <string name="passport_user_id_notice">Il tuo ID Mi Account ID è %s.</string>
     <string name="passport_user_reg_region">Nazione/Regione</string>
@@ -631,5 +636,6 @@ Invia questo codice ai tecnici."</string>
     <string name="vip_account_settings">Impostazioni VIP</string>
     <string name="vip_settings_info">Impostazioni VIP</string>
     <string name="weixin">WeChat</string>
+    <string name="weixin_login">Accedi con WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

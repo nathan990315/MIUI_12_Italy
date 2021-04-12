@@ -131,7 +131,7 @@
     <string name="album_others_share_info_format">Da %s</string>
     <string name="album_owner_share">Contenuto condiviso inviato.</string>
     <string name="album_page_empty">Vuoto</string>
-    <string name="album_page_label">ALBUM</string>
+    <string name="album_page_label">Album</string>
     <string name="album_pano_name">Panorama</string>
     <string name="album_quota_fulfiled">Impossibile creare l\'album, è stato raggiunto il numero massimo.</string>
     <string name="album_rubbish_cant_change_status">"Impossibile sincronizzare gli album spostati nel cestino"</string>
@@ -154,7 +154,6 @@
     <string name="album_share_subtitle_requesting">Download informazioni album…</string>
     <string name="album_share_title_new_album">Nuovo album condiviso</string>
     <string name="album_show_local_only">Mostra solo album locali</string>
-    <string name="album_show_local_only_summary">Attiva per vedere ed eliminare solo le foto sul tuo dispositivo</string>
     <string name="album_sort_type">Ordina per</string>
     <string name="album_sort_type_create_time_asc">Più vecchio in cima</string>
     <string name="album_sort_type_create_time_desc">Più recente in cima</string>
@@ -190,12 +189,9 @@
     <string name="app_name_view_video">Mostra video</string>
     <string name="app_summary">Gestire e modificare le foto e i video sul tuo dispositivo e su Xiaomi Cloud</string>
     <string name="apply">Applica</string>
-    <string name="art_still_cancel_download">Annulla</string>
-    <string name="art_still_download">Scarica</string>
     <string name="art_still_download_failed_for_notwork">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
     <string name="art_still_download_sdk_without_wifi_msg">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
     <string name="art_still_download_sdk_without_wifi_msg_china">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
-    <string name="art_still_download_with_metered_network_msg">Sembra che il dispositivo sia connesso a una rete a pagamento. Il download dei file originali potrebbe comportare costi aggiuntivi. Scaricarli comunque?</string>
     <string name="art_still_load_data_fail">"Impossibile caricare dati"</string>
     <string name="assistant_page_discovery">Scopri</string>
     <string name="assistant_page_label">Assistente</string>
@@ -204,7 +200,6 @@
     <string name="authorize_to_device_failed">"Impossibile autorizzare"</string>
     <string name="authorize_watch_on_tv_failed">"Impossibile autorizzare la visualizzazione sulla TV"</string>
     <string name="auto_backup_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
-    <string name="auto_download_media_title">Scarica automaticamente foto da Mi Cloud</string>
     <string name="auto_update_face">Aggiungi automaticamente le foto</string>
     <string name="auto_update_face_summary">Confronta ed aggiungi automaticamente le foto all\'album del bambino</string>
     <string name="auto_update_off">Spenta</string>
@@ -273,6 +268,8 @@
     <string name="backup_pause_dialog_title">Pausa</string>
     <string name="backup_pause_title">Backup tra %s</string>
     <string name="backup_pending">Il backup verrà eseguito automaticamente</string>
+    <string name="backup_settings">Sincronizza con il Cloud</string>
+    <string name="backup_settings_more">Impostazioni addizionali</string>
     <string name="backup_stop">Interrompi il backup</string>
     <string name="backup_sync_dialog_confirm">Attiva</string>
     <string name="backup_sync_dialog_tips">Attiva sincronizzazione con Mi Cloud per cambiare le impostazioni dei backup.</string>
@@ -348,6 +345,7 @@
     <string name="card_description_annual_peoples">Visi, storie, luoghi</string>
     <string name="card_description_annual_pets">Code, zampe e baffi</string>
     <string name="card_description_annual_travel">Cose che hai visto per strada</string>
+    <string name="card_description_from_to">%1$s - %2$s</string>
     <string name="card_title_activities">Agenda</string>
     <string name="card_title_annual_babys">Il tesoro a %1$s</string>
     <string name="card_title_annual_events">Le mie feste nel %1$s</string>
@@ -362,6 +360,7 @@
     <string name="card_title_pastyear_party">Feste dell\'anno scorso</string>
     <string name="card_title_pastyear_sports">Gli allenamenti dell\'anno scorso</string>
     <string name="card_title_recent_memory">Ricordi recenti</string>
+    <string name="card_title_somewhere">%1$s</string>
     <string name="card_title_sports">Attività</string>
     <string name="card_title_three_month_baby">Il tempo vola</string>
     <string name="cast_devices_unavailable_desc">Assicurati che questo dispositivo e il proiettore siano collegati alla stessa rete Wi-Fi</string>
@@ -562,13 +561,20 @@
     <string name="close_dialog_desc">Chiudi finestra di dialogo</string>
     <string name="cloud_authorize_to_share_to_device">Autorizza la visualizzazione degli elementi sui televisori associati al tuo Mi Account</string>
     <string name="cloud_authorizing_to_device">Autorizzazione…</string>
+    <string name="cloud_backup_enable_title">Sincronizza</string>
+    <string name="cloud_backup_open_button">Attiva</string>
+    <string name="cloud_backup_space">Archiviazione Cloud</string>
+    <string name="cloud_backup_status_disable">Spenta</string>
+    <string name="cloud_backup_status_eneble">Attivata</string>
+    <string name="cloud_backup_title">Sincronizza con il Cloud</string>
+    <string name="cloud_bacup_disable_processing">Elaborazione…</string>
     <string name="cloud_camera_display_name">Non ordinati</string>
     <string name="cloud_cancel_authorizing_to_device">Annullamento autorizzazione…</string>
     <string name="cloud_guide_auto_backup_title">Scegli gli album di cui fare il backup su Mi Cloud</string>
     <string name="cloud_guide_login_title">Esegui automaticamente il backup di foto e video</string>
     <string name="cloud_guide_welcome_title">Mi Cloud</string>
-    <string name="cloud_privacy_with_ai_album">Informativa sulla privacy sulla sincronizzazione automatica e l\'elaborazione delle immagini</string>
-    <string name="cloud_privacy_with_face">Informativa sulla privacy sulla sincronizzazione automatica e il riconoscimento facciale</string>
+    <string name="cloud_login_ok">Fatto</string>
+    <string name="cloud_login_settings_title">Impostazioni di sincronizzazione</string>
     <string name="cloud_screenshots_display_name">Screenshot</string>
     <string name="cloud_settings">Sincronizza</string>
     <string name="cloud_storage_extend">Aumenta lo spazio cloud</string>
@@ -655,6 +661,7 @@
     <string name="custom_select_title_select_all">Seleziona tutto</string>
     <string name="custom_select_title_select_item">Seleziona elementi</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
+    <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="datetimepicker_dialog_title">Modifica orario</string>
     <string name="datetimepicker_updatetime_failed">"Impossibile modificare l'ora"</string>
     <string name="datetimepicker_updatetime_success">Ora modificata con successo</string>
@@ -711,8 +718,6 @@
     <string name="download_type_thumbnail_subtitle">Le immagini in alta qualità sembrano quasi identiche a quelle originali, ma occupano meno spazio di archiviazione</string>
     <string name="download_type_thumbnail_title">Alta qualità</string>
     <string name="download_type_title">Qualità download</string>
-    <string name="download_with_metered_network_msg">Il download dei file originali potrebbe generare costi aggiuntivi da parte del tuo operatore</string>
-    <string name="download_with_metered_network_title">"Sei collegato ad una rete a pagamento"</string>
     <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Puoi scegliere la qualità delle immagini scaricate o disattivare i download automatici nelle Impostazioni.</string>
     <string name="downloading_title">Download foto da Mi Cloud</string>
@@ -872,6 +877,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="face_name_edit">Modifica</string>
     <string name="face_name_input">Inserisci il nome</string>
     <string name="face_recommend">Consigliati</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">"Operazione fallita"</string>
     <string name="fail_to_pick_email">Email selezionata non valida</string>
     <string name="fail_to_sync_album">"Impossibile sincronizzare l'album con il server. Verifica la connessione di rete."</string>
@@ -881,6 +887,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
     <string name="feature_guidance_photo_effects">"Effetti foto"</string>
     <string name="feature_guidance_video_editor_smart_effects">Sono disponibili nuovi effetti</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">"Impossibile stampare questo elemento."</string>
     <string name="file_cannot_screen_throw">"Impossibile trasmettere questo elemento."</string>
     <string name="file_sending">Trasferimento file…</string>
@@ -1096,6 +1103,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Imposta</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"La galleria necessita dell'accesso a 
 %s
  per funzionare correttamente, tocca Imposta per vedere i permessi."</string>
@@ -1116,6 +1124,8 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="help">"Visualizza la guida"</string>
     <string name="help_content">"Se non riesci a trovare il dispositivo che ti serve, chiedi all'altra persona di attivare Mi Share."</string>
     <string name="hidden_album_display_name">Album nascosto</string>
+    <string name="hisense">Hisense</string>
+    <string name="hisense_phone">Hisense</string>
     <string name="home_menu_cleaner">Libera spazio</string>
     <string name="home_menu_collage">Collage</string>
     <string name="home_menu_id_photo">ID</string>
@@ -1125,6 +1135,9 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="home_menu_print">Stampa foto</string>
     <string name="home_page_empty_action">Scatta foto</string>
     <string name="home_page_label">Foto</string>
+    <string name="homepage_allphotos_tip_dialog_button_negative">Salta</string>
+    <string name="homepage_allphotos_tip_dialog_button_positive">OK</string>
+    <string name="homepage_allphotos_tip_dialog_description_all">Tutto</string>
     <string name="how_to_set_relation">Tieni premuto su un album per creare un gruppo</string>
     <string name="hr_preview_108m">Passato a anteprima 108MP</string>
     <string name="hybrid_check_network">Impostazioni di rete</string>
@@ -1132,17 +1145,15 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="hybrid_locating_fail">"Impossibile trovare la tua posizione"</string>
     <string name="hybrid_network_access_denied">Accesso alla rete negato</string>
     <string name="hybrid_network_unavaliable">"Impossibile connettersi alla rete"</string>
+    <string name="hybrid_provider">Fornito da %1$s</string>
     <string name="hybrid_pull_to_refresh_pull_label">Trascina per aggiornare…</string>
     <string name="hybrid_pull_to_refresh_refreshing_label">Attendi…</string>
     <string name="hybrid_pull_to_refresh_release_label">Rilascia per aggiornare…</string>
     <string name="hybrid_service_unavailiable">Servizio non disponibile</string>
     <string name="hybrid_try_again">Riprova</string>
-    <string name="id_photo_cancel_download">Annulla</string>
-    <string name="id_photo_download">Scarica</string>
     <string name="id_photo_download_failed_for_notwork">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
     <string name="id_photo_download_sdk_without_wifi_msg">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
     <string name="id_photo_download_sdk_without_wifi_msg_china">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
-    <string name="id_photo_download_with_metered_network_msg">Sembra che il dispositivo sia connesso a una rete a pagamento. Il download dei file originali potrebbe comportare costi aggiuntivi. Scaricarli comunque?</string>
     <string name="id_photo_load_data_fail">"Impossibile caricare dati"</string>
     <string name="ignore_album">"Non mostrare"</string>
     <string name="ignore_alert_title">"Mostrare questo album?"</string>
@@ -1242,15 +1253,11 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="magic_id_photo">ID</string>
     <string name="magic_idp_dsc">"Impossibile salvare"</string>
     <string name="magic_idp_guide_text">ID</string>
-    <string name="magic_matting_cancel_download">Annulla</string>
-    <string name="magic_matting_download">Scarica</string>
     <string name="magic_matting_download_failed_for_notwork">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
     <string name="magic_matting_download_sdk_without_wifi_msg">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
     <string name="magic_matting_download_sdk_without_wifi_msg_china">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
-    <string name="magic_matting_download_with_metered_network_msg">Sembra che il dispositivo sia connesso a una rete a pagamento. Il download dei file originali potrebbe comportare costi aggiuntivi. Scaricarli comunque?</string>
     <string name="magic_matting_load_data_fail">"Impossibile caricare dati"</string>
     <string name="magic_max_px">Sembra che il file immagine originale sia troppo grande</string>
-    <string name="magic_metered_network_msg">Sembra che il dispositivo sia connesso a una rete a pagamento. Il download dei file originali potrebbe comportare costi aggiuntivi. Scaricarli comunque?</string>
     <string name="magic_mix_px">L\'immagine è troppo piccola</string>
     <string name="magic_network_error">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
     <string name="magic_next">Successivo</string>
@@ -1320,10 +1327,13 @@ per personalizzare la Galleria"</string>
     <string name="miuix_appcompat_cancel_description">Annulla</string>
     <string name="miuix_appcompat_confirm_description">Conferma</string>
     <string name="miuix_appcompat_delete_description">Elimina</string>
+    <string name="miuix_appcompat_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleziona tutto</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annulla</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
+    <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -1398,19 +1408,15 @@ per personalizzare la Galleria"</string>
     <string name="movie_audio_quiet">Zen</string>
     <string name="movie_audio_summertime">Estate</string>
     <string name="movie_audio_vitality">Vigore</string>
-    <string name="movie_cancel_download">Annulla</string>
     <string name="movie_content_describe_add">Aggiungi foto</string>
     <string name="movie_content_describe_delete">Elimina foto</string>
     <string name="movie_content_describe_pause">Pausa</string>
     <string name="movie_content_describe_play">Riproduci</string>
     <string name="movie_customer_unsupport_audio_file">File audio non supportato</string>
-    <string name="movie_download">Scarica</string>
     <string name="movie_download_failed">"Impossibile scaricare"</string>
     <string name="movie_download_failed_for_notwork">"Impossibile scaricare. Collegati alla rete e prova di nuovo."</string>
     <string name="movie_download_sdk_without_wifi_msg">"Sembra che il tuo dispositivo non sia collegato ad una rete Wi-Fi. Scaricare i plug-in richiesti (3MB) tramite rete dati mobile?"</string>
     <string name="movie_download_sdk_without_wifi_title">Scarica con rete dati mobile</string>
-    <string name="movie_download_with_metered_network_msg">Il download dei file originali potrebbe generare costi aggiuntivi da parte del tuo operatore</string>
-    <string name="movie_download_with_metered_network_title">"Sei collegato ad una rete a pagamento"</string>
     <string name="movie_edit">Modifica</string>
     <string name="movie_item_name">Traccia video</string>
     <string name="movie_preview_btn">Anteprima</string>
@@ -1467,6 +1473,7 @@ per personalizzare la Galleria"</string>
     <string name="no">No</string>
     <string name="no_ignore_faces">Nessuno</string>
     <string name="no_map_app">Nessuna applicazione trovata per gestire questa azione.</string>
+    <string name="no_network">"Impossibile connettersi alla rete"</string>
     <string name="no_network_connect">"Impossibile completare l'azione. Controlla le impostazioni di rete e riprova."</string>
     <string name="no_network_connected">Nessuna rete Wi-Fi</string>
     <string name="noon">Mezzogiorno</string>
@@ -1489,6 +1496,7 @@ per personalizzare la Galleria"</string>
     <string name="ocr_ongoing">Riconoscimento del testo…</string>
     <string name="ocr_revise">Rivedi</string>
     <string name="ocr_save_to_note">Salva</string>
+    <string name="ocr_save_to_note_new">Salva su note</string>
     <string name="ocr_send">Condividi</string>
     <string name="ocr_text_copied">Copiato con successo</string>
     <string name="ocr_title">Risultato</string>
@@ -1591,6 +1599,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="people_mark_mode_title_no_mark_name">Seleziona una persona</string>
     <string name="people_page_label">Nome</string>
     <string name="people_page_unname">Senza nome</string>
+    <string name="percent_sign">%</string>
     <string name="permission_contacts_desc">Per assegnare i contatti alle persone sulle foto</string>
     <string name="permission_contacts_name">Contatti</string>
     <string name="permission_optional_category">可选权限</string>
@@ -1780,6 +1789,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="projection_switch_title">Passa a</string>
     <string name="projection_video_quit">Tocca per uscire</string>
     <string name="prompt_not_support_format">"Non è possibile usare questa immagine per creare una vignetta magica"</string>
+    <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
     <string name="public_url_descript">Chiunque può accedere al tuo album utilizzando questo link</string>
     <string name="publish_failed">"Pubblicazione fallita"</string>
     <string name="publish_succeeded">Album pubblicato</string>
@@ -1980,10 +1990,12 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="security_share_subtitle_hide">Informazioni sulla posizione rimosse</string>
     <string name="security_share_subtitle_no_hide">Contiene informazioni sulla posizione</string>
     <string name="see_ignore_faces">"Mostra le persone ignorate"</string>
+    <string name="see_more_settings">Impostazioni addizionali</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="select_image_operation">Aggiungi foto</string>
     <string name="select_item_face">"Le foto potrebbero essere '%s'"</string>
     <string name="select_origin_tip">File originale (%s)</string>
+    <string name="send">Invia</string>
     <string name="send_file_beautify_failed">"Impossibile condividere"</string>
     <string name="send_files_by">Condividi file tramite</string>
     <string name="send_files_to">Invia elementi a</string>
@@ -2021,7 +2033,6 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="share_public_url_text">"Ho condiviso l'album %1$s. Esplora %2$s"</string>
     <string name="share_with_family">Condividi con i familiari</string>
     <string name="sharer_quota_fulfiled">"Impossibile aggiungere un partecipante, è stato raggiunto il numero massimo di condivisioni."</string>
-    <string name="show_cloud_albumlist_summary">Gestisci gli album sincronizzati con il cloud</string>
     <string name="show_hidden_album_summary">Visualizza e gestisci gli album nascosti</string>
     <string name="show_hidden_album_title">Mostra gli album nascosti</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Spostato correttamente, vai in Altri Album per vedere</string>
@@ -2033,6 +2044,13 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="signature_view_max_signature_limit_string">Elimina gli elementi più vecchi per poterne aggiungere di nuovi</string>
     <string name="signature_view_signature_with_finger">Firma qui</string>
     <string name="similar_keep_clear">Mantieni gli scatti migliori</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="sky_dynamic">Dinamico</string>
     <string name="sky_night">Sera</string>
     <string name="sky_nocturne">Notte</string>
@@ -2256,6 +2274,8 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="to_enable_sync_dialog_message">Prima attiva la sincronizzazione</string>
     <string name="to_enable_sync_dialog_positive_button_text">Vai alle impostazioni</string>
     <string name="to_enable_sync_dialog_title">Sincronizza</string>
+    <string name="toast_download_with_metered_network_btn_continue">Scarica</string>
+    <string name="toast_download_with_metered_network_title">Avviso utilizzo dati</string>
     <string name="toast_invalid_char">"I nomi dei file non possono contenere \"%s\""</string>
     <string name="toast_invalid_prefix">"I nomi dei file non possono iniziare con \".\" o \"_\""</string>
     <string name="toast_orientation_locked">Orientamento bloccato con successo</string>
@@ -2337,15 +2357,11 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="video_editor_auto_trim">Ritaglia autom.</string>
     <string name="video_editor_auto_trim_tip">Ritaglio automatico…</string>
     <string name="video_editor_cancel">Annulla</string>
-    <string name="video_editor_cancel_download">Annulla</string>
     <string name="video_editor_done">Fatto</string>
     <string name="video_editor_down_load_later">Più tardi</string>
     <string name="video_editor_down_load_no_wifi_tips">Collega al Wi-Fi per scaricare</string>
     <string name="video_editor_down_load_now">Scarica</string>
-    <string name="video_editor_download">Scarica</string>
     <string name="video_editor_download_failed_for_notwork">"Impossibile scaricare. Collegati alla rete e prova di nuovo."</string>
-    <string name="video_editor_download_with_metered_network_msg">Il download dei file originali potrebbe generare costi aggiuntivi da parte del tuo operatore</string>
-    <string name="video_editor_download_with_metered_network_title">"Sei collegato ad una rete a pagamento"</string>
     <string name="video_editor_encode_video">Codifica video…</string>
     <string name="video_editor_encode_video_error">"Impossibile codificare il video"</string>
     <string name="video_editor_fatal_error">Errore sconosciuto</string>
@@ -2419,12 +2435,9 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="video_editor_watermark">Filigrana</string>
     <string name="video_err">"Impossibile riprodurre il video."</string>
     <string name="video_not_exist">"Video inesistente"</string>
-    <string name="video_post_cancel_download">Annulla</string>
-    <string name="video_post_download">Scarica</string>
     <string name="video_post_download_failed_for_notwork">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
     <string name="video_post_download_sdk_without_wifi_msg">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
     <string name="video_post_download_sdk_without_wifi_msg_china">"Sembra che il dispositivo non sia connesso al Wi-Fi. Scaricare il plug-in utilizzando i dati mobili?"</string>
-    <string name="video_post_download_with_metered_network_msg">Sembra che il dispositivo sia connesso a una rete a pagamento. Il download dei file originali potrebbe comportare costi aggiuntivi. Scaricarli comunque?</string>
     <string name="video_post_load_data_fail">"Impossibile caricare dati"</string>
     <string name="video_quality_1080p">1080P</string>
     <string name="video_quality_1080p_hd">1080P (alta definizione)</string>
@@ -2467,7 +2480,6 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="vlog_bottom_view_edit">Modifica</string>
     <string name="vlog_bottom_view_exit">Esci</string>
     <string name="vlog_bottom_view_save">Salva</string>
-    <string name="vlog_cancel_download">Annulla</string>
     <string name="vlog_caption">Testo</string>
     <string name="vlog_caption_add">Aggiungi</string>
     <string name="vlog_caption_ai_cancel">Annulla</string>
@@ -2498,7 +2510,6 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="vlog_clip_sort">Riorganizza video</string>
     <string name="vlog_clip_zoom">Usa due dita per aumentare o diminuire il numero di foto nell\'anteprima</string>
     <string name="vlog_cloud_file_download">Elementi dal cloud</string>
-    <string name="vlog_download">Scarica</string>
     <string name="vlog_download_btn">Scarica</string>
     <string name="vlog_download_cloud_file_retry">"Impossibile scaricare gli elementi dal cloud. Riprova."</string>
     <string name="vlog_download_cloud_file_without_wifi_msg">"Impossibile connettersi al Wi-Fi. Puoi anche scaricare elementi dal cloud (%s) utilizzando i dati mobili."</string>
@@ -2506,8 +2517,6 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="vlog_download_failed_for_notwork">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
     <string name="vlog_download_sdk_without_wifi_msg">"Impossibile connettersi al Wi-Fi. Puoi anche scaricare l'editor video utilizzando i dati mobili."</string>
     <string name="vlog_download_sdk_without_wifi_title">Download dell\'editor video…</string>
-    <string name="vlog_download_with_metered_network_msg">Utilizzare le reti a pagamento per scaricare i file originali potrebbe generare costi aggiuntivi. Scaricare comunque?</string>
-    <string name="vlog_download_with_metered_network_title">Utilizzo della connessione di rete a pagamento</string>
     <string name="vlog_downloading_cloud_file">Download degli elementi dal cloud…</string>
     <string name="vlog_end_of_film">Chiusura</string>
     <string name="vlog_exit_ddit_message">Tutte le modifiche andranno perse se si esce ora. Uscire comunque?</string>
@@ -2605,6 +2614,9 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="vlog_video_trans_code_cons">Elaborazione di un file ad alta risoluzione…</string>
     <string name="voice_assistant">Ingrsso vocale</string>
     <string name="watch_all_photo">Galleria</string>
+    <string name="web_sso_login_fail">Devi accedere di nuovo</string>
+    <string name="web_sso_login_message">Accesso…</string>
+    <string name="webview_reload">Riprova</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>

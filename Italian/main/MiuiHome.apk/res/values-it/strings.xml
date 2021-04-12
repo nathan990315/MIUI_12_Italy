@@ -438,6 +438,7 @@
     <string name="navigation_type_title_synonyms_3">Gesti a schermo intero</string>
     <string name="navigation_type_title_synonyms_4">Pulsanti di navigazione</string>
     <string name="navigation_type_virtual_key">Tasti</string>
+    <string name="network_error">"Impossibile collegarsi alla rete"</string>
     <string name="no_detail_page">Nessuna pagina per i dettagli</string>
     <string name="no_space_toast">Spazio insufficiente</string>
     <string name="no_space_toast_when_click_widget">Spazio insufficiente in questa pagina. Prova a trascinare questo elemento su una pagina diversa.</string>
@@ -508,7 +509,7 @@
     <string name="recents_exit_multi_window_mode">Esci</string>
     <string name="recents_forbid_dock_when_screening_toast_text">"Impossibile utilizzare lo split screen durante la proiezione"</string>
     <string name="recents_incompatible_app_message">"L'app non supporta la modalità a schermo diviso"</string>
-    <string name="recents_layout_style">Visualizza app nei Recenti</string>
+    <string name="recents_layout_style">Disposizione App Recenti</string>
     <string name="recents_layout_style_horizontal">Orizzontale</string>
     <string name="recents_layout_style_vertical">Verticale</string>
     <string name="recents_smallwindow_text">Rilascia per aggiungere</string>
@@ -553,6 +554,7 @@
     <string name="select_all">Seleziona tutto</string>
     <string name="select_frame">Cornice</string>
     <string name="select_photo">Foto</string>
+    <string name="server_error">Si è verificato un errore del server. Aspetta un minuto o due e prova di nuovo.</string>
     <string name="setting_wallpaper_tip">Sposta o ridimensiona</string>
     <string name="settings">Impostazioni</string>
     <string name="settings_shortcut">Impostazioni</string>
@@ -580,6 +582,7 @@
     <string name="sort_by_not_defined">Ordina automaticamente</string>
     <string name="start_activity_failed">"Avvio non riuscito, riprova"</string>
     <string name="starting_preset_app">Preparazione</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s di %2$s disponibili</string>
     <string name="status_bar_recent_memory_mega">%1$s MB</string>
@@ -616,7 +619,7 @@
     <string name="uninstall_dialog_message">Disinstallando verranno rimossi tutti i dati dell\'applicazione.</string>
     <string name="uninstall_dialog_title_format">Eliminare %s?</string>
     <string name="uninstall_result_failed">"Impossibile disinstallare %s"</string>
-    <string name="uninstall_result_succeeded">Disinstallato correttamente</string>
+    <string name="uninstall_result_succeeded">Disinstallato</string>
     <string name="uninstall_with_xspace_dialog_message">L\'app clonata corrispondente verrà eliminata insieme ai suoi dati.</string>
     <string name="uninstall_xspace_dialog_message">La disinstallazione delle app clonate cancellerà tutti i dati ad esse correlate.</string>
     <string name="uninstall_xspace_dialog_title_format">Disinstalla clone di \"%s\"</string>

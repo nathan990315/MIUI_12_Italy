@@ -87,7 +87,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
-    <string name="multi_music_coexistence_summary">"Non regolare il volume multimediale mentre una notifica è in arrivo o mentre viene riprodotto audio da altre sorgenti"</string>
+    <string name="multi_music_coexistence_summary">"Consente all'audio proveniente da più sorgenti di essere riprodotto contemporaneamente, disattivandola impedisci a suoni secondari di influenzare quello dell'app primaria (es: quando si avvia Google Assistant, la musica va in pausa)."</string>
     <string name="multi_music_coexistence_title">Sorgenti audio multiple</string>
     <string name="music_add_my_sound">Aggiungi preset personalizzato</string>
     <string name="music_app_unavailable">Assicurati che l\'app Mi Music sia disponibile.</string>
@@ -163,7 +163,7 @@
     <string name="music_headset_improve_sound">Regola il suono sugli auricolari</string>
     <string name="music_headset_is_open">Attivata</string>
     <string name="music_headset_mode_music">Controlla riproduzione musicale</string>
-    <string name="music_headset_mode_settings">Tasti remoti cuffie</string>
+    <string name="music_headset_mode_settings">Pulsanti di controllo delle cuffie</string>
     <string name="music_headset_mode_volume">Controllo livello volume</string>
     <string name="music_headset_no_contected">Nessuna cuffia rilevata</string>
     <string name="music_headset_not_open">Spenta</string>

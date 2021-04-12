@@ -225,6 +225,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="resolver_offical_recommend">Ufficiale</string>
     <string name="resolver_other_method">Altre opzioni</string>
     <string name="resolver_recommend_options_tag">Opzioni suggerite</string>
+    <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
     <string name="resource_select">Scegli</string>
     <string name="scanning_device_tips">Ricerca dispositivi nelle vicinanze… Assicurati che l\'altro dispositivo sia in modalità visibile.</string>
     <string name="screen_button_notification_text">Per attivarli premi contemporaneamente i tasti Home e Power.</string>
@@ -271,7 +272,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="start_dump_log">Avvio raccolta log basati sui problemi</string>
     <string name="start_security_permission_verify_text">Verifica i permessi Mi Account</string>
     <string name="status_bar_toggle_auto_brightness">Luminosità</string>
-    <string name="status_bar_toggle_battery_saver">Risparmio</string>
+    <string name="status_bar_toggle_battery_saver">Risparmio energetico</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_cast">Trasmetti</string>
     <string name="status_bar_toggle_data">Statistiche traffico</string>
@@ -280,6 +281,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="status_bar_toggle_gps">Test GPS</string>
     <string name="status_bar_toggle_lock">Blocca</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
+    <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
     <string name="status_bar_toggle_mute">Silenzia</string>
     <string name="status_bar_toggle_nfc">NFC</string>
     <string name="status_bar_toggle_paper_mode">Lettura</string>

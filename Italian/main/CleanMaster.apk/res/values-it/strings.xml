@@ -110,6 +110,10 @@
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Svuota %s dalla cache di WeChat per liberare spazio di archiviazione</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Non dimenticare di pulire la cache"</string>
     <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Ricorda di pulire la cache di WeChat</string>
+    <string name="appcleaner_wechat_pref_size_100_MB">100MB</string>
+    <string name="appcleaner_wechat_pref_size_1_GB">1GB</string>
+    <string name="appcleaner_wechat_pref_size_300_MB">300MB</string>
+    <string name="appcleaner_wechat_pref_size_500_MB">500MB</string>
     <string name="appcleaner_wechat_pref_time_every_day">Ogni giorno</string>
     <string name="appcleaner_wechat_pref_time_fifteen_day">Ogni 15 giorni</string>
     <string name="appcleaner_wechat_pref_time_seven_day">Ogni 7 giorni</string>
@@ -235,7 +239,7 @@
     <string name="dc_storage_info">Disponibile: %1$s | Totale: %2$s</string>
     <string name="deep_clean_completed_tips">Pulito correttamente</string>
     <string name="deep_clean_data_path_clean_title">Svuota cache</string>
-    <string name="deep_clean_uninstall_completed_tips">Disinstallato correttamente</string>
+    <string name="deep_clean_uninstall_completed_tips">Disinstallato</string>
     <string name="deepclean_1_k_clean">Libera memoria</string>
     <string name="deepclean_apk_content">Elimina APK o app non necessarie</string>
     <string name="deepclean_apk_group_hint_checked">Seleziona tutto</string>
@@ -427,6 +431,7 @@
     <string name="hints_garbage_cleanup_result_safe">Sembra tutto OK</string>
     <string name="hints_garbage_handle_item_content">%1$d elementi，%2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Vuoto</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Utilizzata raramente</string>
     <string name="hints_installed_app_near">Usato di recente</string>
     <string name="hints_installed_app_never">Non utilizzata di recente</string>
