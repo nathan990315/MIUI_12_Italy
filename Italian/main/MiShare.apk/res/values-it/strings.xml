@@ -32,6 +32,8 @@
     <string name="agree_desc">Concedi i permessi obbligatori elencati sopra.</string>
     <string name="am">AM</string>
     <string name="app_name">MiShare</string>
+    <string name="asus">Asus</string>
+    <string name="asus_phone">Asus</string>
     <string name="blackshark">Black Shark</string>
     <string name="blackshark_1">Black Shark</string>
     <string name="blackshark_2">Black Shark 2</string>
@@ -164,7 +166,9 @@
     <string name="error_ap_or_screen_already_hosting">"Impossibile inviare oggetti ad altri dispositivi durante la proiezione o l'utilizzo di hotspot portatili."</string>
     <string name="error_device_lost">Sembra che l\'altro dispositivo sia fuori portata. Attendi un minuto o due e riprova.</string>
     <string name="error_has_occurred">Si è verificato un errore</string>
+    <string name="error_mirror_working">"Impossibile condividere gli elementi durante la condivisione dello schermo"</string>
     <string name="error_msg_network_error">Si è verificato un errore di rete. Riprova.</string>
+    <string name="error_permission_denied">Per poter utilizzare questa funzione, concedi a Mi Share tutti i permessi richiesti nelle Impostazioni.</string>
     <string name="error_receive_file_cannot_read">"Impossibile ricevere il file"</string>
     <string name="error_receive_file_changed">"Impossibile ricevere. L'elemento è stato modificato."</string>
     <string name="error_receive_file_file_opened">"Impossibile ricevere questo elemento. Sembra essere in uso."</string>
@@ -174,6 +178,7 @@
     <string name="error_receive_user_interrupted">L\'altra persona ha annullato il trasferimento</string>
     <string name="error_refuse_receive">Trasferimento annullato</string>
     <string name="error_remote_busy">Sembra che l\'altro dispositivo sia occupato. Attendi un minuto o due e riprova.</string>
+    <string name="error_remote_mirror_working">"L'altro dispositivo non può accettare elementi durante la condivisione dello schermo"</string>
     <string name="error_self_busy">Il dispositivo è occupato. Attendi un minuto o due e riprova.</string>
     <string name="error_send_file_cannot_read">"Impossibile inviare il file. Riprova."</string>
     <string name="error_send_file_no_enough_space">"Impossibile inviare. Non c'è abbastanza spazio sull'altro dispositivo."</string>
@@ -279,6 +284,9 @@
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
     <string name="menu_item_privacy_title">Informativa sulla Privacy</string>
+    <string name="mi_10i">Mi 10I</string>
+    <string name="mi_10t">Mi 10T</string>
+    <string name="mi_10t_lite">Mi 10T Lite</string>
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
@@ -287,6 +295,8 @@
     <string name="midnight">Notte</string>
     <string name="mishare_folder_in_file_explorer">Gestore File &gt; MiShare</string>
     <string name="mishare_service_channel_desc">Notifica sui trasferimenti Mi Share</string>
+    <string name="mishare_settings_summary_international">"Mi Share ti permette di inviare elementi in modalità wireless ad altri dispositivi vicini.
+Questa funzionalità è supportata da OPPO, vivo, realme e altri produttori di smartphone. È possibile controllare l'elenco dei dispositivi supportati sul sito ufficiale di qualsiasi marca selezionata."</string>
     <string name="mishare_state_protection">Attiva Mi Share automaticamente</string>
     <string name="mishare_state_protection_summary">Attiva automaticamente Mi Share quando Bluetooth o Wi-Fi vengono riattivati</string>
     <string name="mishare_state_protection_summary_china">Attiva automaticamente Mi Share quando Bluetooth o Wi-Fi vengono riattivati</string>
@@ -356,12 +366,15 @@
     <string name="morning">Mattina</string>
     <string name="multi_file_name">%1$s, %2$s</string>
     <string name="name_with_ellipsize">%1$s … %2$s</string>
+    <string name="nearby_share">Condivisione nelle vicinanze</string>
     <string name="night">Sera</string>
     <string name="no_longer_prompt">Blocca</string>
     <string name="no_longer_receive">"Bloccare questo dispositivo? Non sarai più in grado di ricevere file da esso."</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_set">Non impostato</string>
     <string name="notification_channel_name">Trasferisci notifiche</string>
+    <string name="nubia">Nubia</string>
+    <string name="nubia_phone">Nubia</string>
     <string name="oneplus">OnePlus</string>
     <string name="oneplus_phone">OnePlus</string>
     <string name="operate_too_fast">Troppo veloce! Attendi che le operazioni in corso siano terminate.</string>
@@ -397,6 +410,8 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="redmi_k20_pro">Redmi K20 Pro</string>
     <string name="redmi_k30">Redmi K30</string>
     <string name="redmi_k30_5g">Redmi K30 5G</string>
+    <string name="redmi_k30_ultra">Redmi K30 Ultra</string>
+    <string name="redmi_k30s">Redmi K30S Ultra</string>
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_6_pro">Redmi Note 6 Pro</string>
     <string name="redmi_note_7">Redmi Note 7</string>
@@ -409,6 +424,8 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="redmi_note_9s">Redmi Note 9S</string>
     <string name="refuse_file">Rifiuta</string>
     <string name="retry_task">Invia nuovamente</string>
+    <string name="rog">ROG</string>
+    <string name="rog_phone">ROG</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
@@ -423,6 +440,8 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="send_files_to_remote_success_title">Inviato correttamente</string>
     <string name="send_successfully">Inviato correttamente</string>
     <string name="sender_error">"Impossibile inviare. Attendi un minuto o due e riprova."</string>
+    <string name="smartisan">Smartisan</string>
+    <string name="smartisan_phone">Smartisan</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
@@ -546,6 +565,8 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="xiaomi_10_lite">Mi 10 Lite</string>
     <string name="xiaomi_10_lite_5g">Mi 10 Lite 5G</string>
     <string name="xiaomi_10_pro">Mi 10 Pro</string>
+    <string name="xiaomi_10_ultra">Mi 10 Ultra</string>
+    <string name="xiaomi_11">Mi 11</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_6x">Mi 6X</string>
     <string name="xiaomi_8">Mi 8</string>
@@ -570,6 +591,10 @@ Prima di utilizzare Mi Share, è necessario concedere i seguenti permessi, nonch
     <string name="xiaomi_note_3">Mi Note 3</string>
     <string name="xiaomi_phone">Xiaomi</string>
     <string name="xiaomi_poco_f1">POCO F1</string>
+    <string name="xiaomi_poco_m2">POCO M2</string>
     <string name="xiaomi_poco_m2_pro">POCO M2 Pro</string>
+    <string name="xiaomi_poco_x3">POCO X3</string>
     <string name="yesterday">Ieri</string>
+    <string name="zte">ZTE</string>
+    <string name="zte_phone">ZTE</string>
 </resources>

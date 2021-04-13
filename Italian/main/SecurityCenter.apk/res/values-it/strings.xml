@@ -246,7 +246,7 @@
     <string name="app_behavior_header_time">dd MMMM</string>
     <string name="app_behavior_key_audio">Registrare audio</string>
     <string name="app_behavior_key_camera">Scattare foto</string>
-    <string name="app_behavior_key_location">Piattaforma</string>
+    <string name="app_behavior_key_location">Posizione</string>
     <string name="app_behavior_key_protect">Proteggere le informazioni personali</string>
     <string name="app_behavior_link_start">Catena di avvio</string>
     <string name="app_behavior_list_load_more">Caricamento…</string>
@@ -416,7 +416,7 @@
     <string name="app_manager_mobile_slot1">Dati mobili (SIM 1)</string>
     <string name="app_manager_mobile_slot2">Dati mobili (SIM 2)</string>
     <string name="app_manager_net_control_title">Utilizzo dati</string>
-    <string name="app_manager_net_mobile">Statistiche traffico</string>
+    <string name="app_manager_net_mobile">Dati Mobili</string>
     <string name="app_manager_net_wifi">Wi-Fi</string>
     <string name="app_manager_not_allow">No</string>
     <string name="app_manager_open_show_all_apps_immediate">Mostra tutti i risultati</string>
@@ -467,7 +467,7 @@
     <string name="app_manager_update">Aggiorna</string>
     <string name="app_managere_not_have_app">Vuoto</string>
     <string name="app_manger_des_separator">", "</string>
-    <string name="app_mobile">Statistiche traffico</string>
+    <string name="app_mobile">Dati Mobili</string>
     <string name="app_name">Blocco app</string>
     <string name="app_name_na">Utilizzo dati</string>
     <string name="app_name_securitycenter">Sicurezza</string>
@@ -502,7 +502,7 @@
     <string name="app_running_tip_uninstall">Disinstalla quest\'app</string>
     <string name="app_statusbar_audio_now">Registrare audio</string>
     <string name="app_statusbar_camera_now">Scattare foto</string>
-    <string name="app_statusbar_location_now">Piattaforma</string>
+    <string name="app_statusbar_location_now">Posizione</string>
     <string name="app_usage_never">Non utilizzata di recente</string>
     <string name="app_usage_recently">Utilizzata di recente</string>
     <string name="app_version">Versione\u0020</string>
@@ -640,7 +640,7 @@ se dimenticata</string>
     <string name="auto_task_operation_close_string">Disattiva %s</string>
     <string name="auto_task_operation_gps">Test GPS</string>
     <string name="auto_task_operation_memory_clean_lockscreen">Libera memoria</string>
-    <string name="auto_task_operation_mobile_data">Statistiche traffico</string>
+    <string name="auto_task_operation_mobile_data">Dati Mobili</string>
     <string name="auto_task_operation_modify_string">Modifica %s</string>
     <string name="auto_task_operation_mute">Modalità silenziosa</string>
     <string name="auto_task_operation_no_op">Nessuno</string>
@@ -718,6 +718,7 @@ se dimenticata</string>
     <string name="battery_temperature_title">Temperatura</string>
     <string name="begin_date">Data di azzeramento utilizzo</string>
     <string name="best_booster_status">La velocità di gioco è la migliore in questo momento.</string>
+    <string name="best_warning_dialog_title">Suggerimenti</string>
     <string name="bg_network_exception_title">Connessione in background limitata</string>
     <string name="bill_limit_notification_text_format">Carta: %1$s | Saldo: %2$s CNY</string>
     <string name="bill_limit_notification_title">Saldo insufficiente</string>
@@ -1160,6 +1161,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
     <string name="earthly_branches_yin">Yin</string>
     <string name="earthly_branches_you">You</string>
     <string name="earthly_branches_zi">Zi</string>
+    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty_app">Nessuna app</string>
     <string name="empty_title_auto_start_list">Nessuna app in avvio automatico</string>
@@ -1368,7 +1370,9 @@ scheda medica"</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -1421,11 +1425,11 @@ scheda medica"</string>
     <string name="firewall_applist">Applicazioni</string>
     <string name="firewall_fragment_nonesys_listempty">Vuoto</string>
     <string name="firewall_fragment_sys_listempty">Vuoto</string>
-    <string name="firewall_mobile">Statistiche traffico</string>
+    <string name="firewall_mobile">Dati Mobili</string>
     <string name="firewall_mobile_dialog_message">"L'app installata non potrà collegarsi a internet utilizzando la rete dati mobile quanto questa funzionalità è disattivata."</string>
     <string name="firewall_network_allow">È stato concesso a %1$s di utilizzare la connessione %2$s</string>
     <string name="firewall_network_restrict_notify_message">Tocca per modificare le impostazioni.</string>
-    <string name="firewall_network_restrict_notify_mobile">Statistiche traffico</string>
+    <string name="firewall_network_restrict_notify_mobile">Dati Mobili</string>
     <string name="firewall_partial">Consenti ad alcune app di connettersi utilizzando il seguente metodo</string>
     <string name="firewall_restrict_all">Limita la connessione a tutte le app con il seguente metodo</string>
     <string name="firewall_restrict_android_dialog_content">Per essere sicuro che il dispositivo funzioni correttamente, alcune applicazioni di sistema Android rimarranno connesse ad internet. Queste app utilizzeranno la connessione dati.</string>
@@ -1612,7 +1616,7 @@ scheda medica"</string>
     <string name="game_manual_record_setting_title">Momenti salienti</string>
     <string name="game_more_improve">Limita le attività in background e la velocità di download per risparmiare batteria e banda per il gioco</string>
     <string name="game_setting">Impostazioni di gioco</string>
-    <string name="game_video_net_data">Statistiche traffico</string>
+    <string name="game_video_net_data">Dati Mobili</string>
     <string name="game_video_network_eror">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
     <string name="game_wid_viewpoint_buttom">Prenditi una piccola paura.</string>
     <string name="gamebooster_lowbattery_notification_summary">Carica il dispositivo prima che si spenga.</string>
@@ -2109,7 +2113,7 @@ L'operatore potrebbe addebitarti costi aggiuntivi se continuerai ad utilizzare l
     <string name="main_primary_message_leisure_overlimit">Limite dati fuori soglia superato</string>
     <string name="main_primary_message_leisure_remain">Dati fuori soglia</string>
     <string name="main_primary_message_traffic_overlimit">Limite di utilizzo dati superato</string>
-    <string name="main_primary_message_traffic_remain">Statistiche traffico</string>
+    <string name="main_primary_message_traffic_remain">Dati Mobili</string>
     <string name="main_primary_message_traffic_warning">Vicino al limite di utilizzo dati</string>
     <string name="main_purchase_tips">Promozione</string>
     <string name="main_tc_over">Calibrato correttamente</string>
@@ -2227,6 +2231,7 @@ dall'operatore"</string>
     <string name="menu_text_license_manager">Permessi</string>
     <string name="menu_text_networkassistants">Utilizzo dati</string>
     <string name="menu_text_networkassistants_danger">%s oltre la soglia</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s rimasti</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2236,6 +2241,7 @@ dall'operatore"</string>
     <string name="menu_text_optimize_manage_1">Velocizza</string>
     <string name="menu_text_power_manager">Batteria</string>
     <string name="menu_text_power_percent">%s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Rimuovi dalle eccezioni</string>
     <string name="menu_white">Aggiungi alle eccezioni</string>
     <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
@@ -2487,7 +2493,7 @@ dall'operatore"</string>
     <string name="notify_weekly_traffic_body">Per limitare l\'uso dei dati automaticamente imposta il tuo piano dati mensile.</string>
     <string name="notify_weekly_traffic_title">Usati %s questa settimana</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s usati %2$s questa settimana</string>
-    <string name="number_address">Piattaforma</string>
+    <string name="number_address">Posizione</string>
     <string name="numeric_need_to_confirm">Inserisci di nuovo per confermare</string>
     <string name="numeric_password_confirmed_header_confirm">Impostato correttamente. Tocca per confermare.</string>
     <string name="numeric_password_confirmed_header_continue">Impostato correttamente. Tocca \"Avanti\".</string>
@@ -2749,7 +2755,7 @@ se dimenticata</string>
     <string name="permission_with_call_and_contact">Permessi per chiamate, informazioni di contatto e registro chiamate.</string>
     <string name="permission_with_read_write_clipboard">Consenti alle app di accedere e salvare gli elementi negli appunti</string>
     <string name="permit_running_network">Dati in background</string>
-    <string name="person_hotpot">Hotspot mobili</string>
+    <string name="person_hotpot">Hotspot portatile</string>
     <string name="phone">Telefono</string>
     <string name="phone_manage">Strumenti</string>
     <string name="phone_manage_app_manager_summary">Gestisci le app sul tuo dispositivo</string>
@@ -2817,6 +2823,11 @@ se dimenticata</string>
     <string name="power_center_dialog_msg_top">Quando il risparmio energetico è attivo, MIUI attuerà le seguenti ottimizzazioni:</string>
     <string name="power_center_hints_scan_danger_result">Puoi correggere i problemi di batteria ora</string>
     <string name="power_center_list_item_auto_brightness">Regola automaticamente la luminosità dello schermo</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">°C</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Disattiva Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Impostazioni avanzate</string>
@@ -3084,6 +3095,7 @@ se dimenticata</string>
     <string name="pref_normal_traffic_limit">Utilizzo dati giornalieri</string>
     <string name="pref_open_adjust_traffic">Aggiorna utilizzo dati ogni giorno utilizzando le statistiche del tuo operatore</string>
     <string name="pref_operator_not_set">"Operatore non impostato"</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Quando superi il limite del tuo piano dati</string>
     <string name="pref_package_traffic_settings">Questo mese</string>
     <string name="pref_pkg_begin_date">Data di azzeramento utilizzo</string>
@@ -3289,6 +3301,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="privacy_using_record">Registrare audio</string>
     <string name="privacyapp_number_masked_text">Il contenuto delle notifiche è nascosto</string>
     <string name="privacyapp_number_unmasked_text">Il contenuto delle notifiche può essere nascosto</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Server Multimediale</string>
     <string name="process_vpnsdkmanager_label">Turbo videogiochi</string>
     <string name="promotion">AD</string>
@@ -4329,6 +4342,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="vb_ve_settings_pic_border_stronger">Contorni migliorati</string>
     <string name="vb_ve_settings_picture_stronger">Animazioni migliorate</string>
     <string name="vb_video_effects_display_style">Stile note</string>
+    <string name="vb_video_effects_dolby">Dolby Atmos</string>
     <string name="vb_video_effects_setting_black_white">B/N</string>
     <string name="vb_video_effects_setting_cinema">Cinema</string>
     <string name="vb_video_effects_setting_girl">Arrossamento</string>
@@ -4381,7 +4395,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="vtb_stop_milink_connect">Proiezione video interrotta</string>
     <string name="wakepath_confirm_start_activity">Consentire a %1$s di aprire %2$s?</string>
     <string name="warningcenter_action_check">Mostra</string>
-    <string name="warningcenter_alert_home">Piattaforma</string>
+    <string name="warningcenter_alert_home">Posizione</string>
     <string name="warningcenter_alert_room">Stanza</string>
     <string name="warningcenter_alert_source">Centro Allerta MIUI | Fonte dati: %s</string>
     <string name="warningcenter_alert_time">Ora</string>

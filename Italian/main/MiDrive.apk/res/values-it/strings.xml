@@ -56,6 +56,15 @@
     <string name="category_select">Scegli</string>
     <string name="category_video">Video</string>
     <string name="category_video_title">Video</string>
+    <string name="channel_pc_edit">Modificato sul computer</string>
+    <string name="channel_pc_upload">Caricato dal computer</string>
+    <string name="channel_pc_view">Visualizzato sul computer</string>
+    <string name="channel_phone_edit">Modificato sul telefono</string>
+    <string name="channel_phone_upload">Caricato dal telefono</string>
+    <string name="channel_phone_view">Visualizzato sul telefono</string>
+    <string name="channel_web_edit">Modificato nel browser</string>
+    <string name="channel_web_upload">Caricato nel browser</string>
+    <string name="channel_web_view">Visualizzato nel browser</string>
     <string name="clear_cache_success">Cancellato con successo</string>
     <string name="cloud_gallery_to_pdf">Autogenerato</string>
     <string name="cloud_storage_already_full">Lo spazio su cloud è esaurito: %1$s/%2$s</string>
@@ -82,9 +91,11 @@
     <string name="current_speed_content">Velocità attuale: %1$s</string>
     <string name="delete_file_success">Rimozione completata</string>
     <string name="delete_operation_record">Eliminare questo elemento?</string>
+    <string name="delete_operation_record_timeout">"Impossibile eliminare. Attendi un minuto o due e riprova."</string>
     <string name="delete_record_only">"Gli elementi a cui si riferiscono i record selezionati non verranno eliminati."</string>
     <string name="delete_success">Rimozione completata</string>
     <string name="detail_download_path">"Luogo: "</string>
+    <string name="detail_download_time">"Scaricato: "</string>
     <string name="dialog_content_delete_pdf_content">Eliminare questo PDF?</string>
     <string name="dialog_copy_storage_full_desc">"Impossibile copiare gli elementi a causa di uno spazio di archiviazione cloud insufficiente. Aggiorna il tuo piano per ottenere più spazio di archiviazione."</string>
     <string name="dialog_copy_storage_full_title">"Impossibile copiare"</string>
@@ -236,6 +247,7 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="navigation_my">Centro utente</string>
     <string name="navigation_tips">500+</string>
     <string name="navigation_transport">Trasferimenti</string>
+    <string name="no_recent_activity">Nessun elemento recente</string>
     <string name="not_set">Non impostato</string>
     <string name="not_support_upload_file_for_overseas_users">"L'Upload non è disponibile al di fuori della Cina continentale"</string>
     <string name="notification_channel_remind">Promemoria</string>
@@ -251,6 +263,7 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="operation_dialog_copy_message">Copia…</string>
     <string name="operation_dialog_create_folder_message">Creazione cartella…</string>
     <string name="operation_dialog_delete_message">Eliminazione…</string>
+    <string name="operation_dialog_jump_message">Apertura della cartella…</string>
     <string name="operation_dialog_move_message">Spostamento…</string>
     <string name="operation_dialog_rename_message">Rinominazione…</string>
     <string name="operation_download">Scarica</string>
@@ -260,6 +273,7 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="operation_save">Salva</string>
     <string name="operation_sure_to_delete">Eliminare?</string>
     <string name="operation_transport_success">Aggiunto correttamente ai trasferimenti</string>
+    <string name="operation_will_not_show_after_delete">L\'elemento non apparirà più qui se lo elimini.</string>
     <string name="pause_all">Tutto in pausa</string>
     <string name="pause_download">Pausa</string>
     <string name="pause_upload">Pausa</string>
@@ -281,6 +295,7 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="private_folder_name">File privati</string>
     <string name="ptp_ai_recommend_empty_page">Nessun PDF generato automaticamente qui</string>
     <string name="recent_file">Recenti</string>
+    <string name="recent_jump_to_privacy_fail_notice">Questo file è privato. Torna alla pagina iniziale e tira in basso per visualizzarlo.</string>
     <string name="refresh_label_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="refresh_label_refreshed">Aggiornato correttamente</string>
     <string name="refresh_label_refreshing">Aggiornamento…</string>
@@ -373,6 +388,7 @@ Assicurati di usare il Mi Account attuale come account MIUI."</string>
     <string name="upload_metered_network_dialog_title">Utilizzo dati rete mobile</string>
     <string name="uploading">Caricamento</string>
     <string name="user_agreement_title">Accordo Utente Mi Drive</string>
+    <string name="user_protocol_and_privacy_protocol"><Data>\"Ho letto e accettato il &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;.\"</Data></string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="video_picker_title">Seleziona video</string>

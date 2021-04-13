@@ -128,6 +128,8 @@
     <string name="dialog_miplay_permission_positive">Impostazioni</string>
     <string name="dialog_miplay_permission_title">Permessi richiesti</string>
     <string name="dialog_nfc_cast_wifi_off">Attiva il Wi-Fi per eseguire la proiezione tramite NFC. Attivarlo ora?</string>
+    <string name="dialog_no_device_message"><Data>1. Collega sia il telefono che la TV alla stessa rete Wi-Fi.&lt;br&gt;&lt;br&gt;2. Su alcune TV, questa funzione è disponibile solo quando il mirroring dello schermo è attivo. Vedi &lt;a href=milink://com.milink.service/specification&gt;\"Aiuto\"&lt;/a&gt; per saperne di più.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>1. Collega sia il telefono che la TV alla stessa rete Wi-Fi.&lt;br&gt;&lt;br&gt;2. Su alcune TV, questa funzione è disponibile solo quando il mirroring dello schermo è attivo. Vedi &lt;a href=milink://com.milink.service/specification&gt;\"Aiuto\"&lt;/a&gt; per saperne di più.</Data></string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_only_suport_content">Trasmetti foto, video o musica</string>
     <string name="dialog_open_wifi_bt">Attiva</string>
@@ -143,6 +145,8 @@ Visualizza la guida se hai problemi di connessione."</string>
 2. Su alcuni modelli TV, questa funzione è disponibile solo quando il mirroring dello schermo è attivo. Vai su \"Aiuto\" per saperne di più."</string>
     <string name="dialog_scanning_device">Ricerca dispositivi nelle vicinanze…</string>
     <string name="dialog_scanning_precondition">Attiva il Wi-Fi e il Bluetooth del tuo telefono per utilizzare lo Schermo Wireless.</string>
+    <string name="dialog_scanning_precondition_new_china">Attivare Wi-Fi, Bluetooth, e servizi di localizzazione per poter utilizzare la proiezione. Attivarli?</string>
+    <string name="dialog_scanning_precondition_new_global">Attivare Wi-Fi, Bluetooth, e servizi di localizzazione per poter utilizzare la proiezione. Attivarli?</string>
     <string name="dialog_select_tv">Seleziona dispositivo (%d)</string>
     <string name="dialog_show_help">Guida</string>
     <string name="disconnect">Ferma proiezione</string>
@@ -426,6 +430,11 @@ Se devi attivare Miracast, premi il pulsante [MENU] e seleziona Le mie app &gt; 
     <string name="privacy_permission_wlan_desc">使用蓝牙扫描附近可投屏的设备</string>
     <string name="privacy_permission_wlan_desc_china">使用蓝牙扫描附近可投屏的设备</string>
     <string name="privacy_positive">Accetto</string>
+    <string name="privacy_text_1"><Data>\"Benvenuto in Proiezione! Proiezionepermette di proiettare gli oggetti dallo schermo del telefono su un monitor esterno più grande.
+Proteggeremo le tue informazioni personali in conformità con le leggi, i regolamenti e le politiche sulla privacy. Alcune funzioni sono fornite da un fornitore di servizi di terze parti HappyCast. Prima di usare questa funzione, leggi e accetta &lt;a href=%2$s&gt;Contratto Legale HappyCast&lt;/a&gt; e &lt;a href=%1$s&gt;Politica sulla privacy di HappyCast&lt;/a&gt;.
+Per funzionare normalmente, questa app deve connettersi a Internet e richiede i seguenti permessi per raccogliere le tue informazioni personali:\"</Data></string>
+    <string name="privacy_text_2"><Data>\"Se non accetti di concedere tali autorizzazioni o condividere e caricare le tue informazioni personali, non potrai utilizzare questa app. Puoi scegliere di disinstallare questa app, uscire o limitare i permessi nelle impostazioni.
+Leggi e accetta il nostro &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare questa funzionalità.\"</Data></string>
     <string name="privacy_text_pemission">"•Accedere e salvare le immagini sul tuo dispositivo per proiettare questi elementi su schermi esterni
 •Registrare chiamate e audio per trasmettere audio su dispositivi esterni
 •Accedere al numero di telefono, IMEI e IMSI per identificare il tuo dispositivo

@@ -120,6 +120,10 @@
         <item quantity="other">%1$d ore</item>
         <item quantity="one">%1$d ora</item>
     </plurals>
+    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">%1$d secondi rimanenti</item>
+        <item quantity="one">%1$d secondo rimanente</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">Tra 1 ora</item>
         <item quantity="other">Tra 1 ora</item>

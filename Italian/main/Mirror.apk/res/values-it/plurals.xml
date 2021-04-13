@@ -36,6 +36,14 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
+    <plurals name="download_canceled_title_multi">
+        <item quantity="other">Rifiutati %2$d file, incluso %1$s</item>
+        <item quantity="one">Rifiutato %2$d file, incluso %1$s</item>
+    </plurals>
+    <plurals name="download_succeeded_title_multi">
+        <item quantity="other">Ricevuti %2$d file, incluso %1$s</item>
+        <item quantity="one">Ricevuto %2$d file, incluso %1$s</item>
+    </plurals>
     <plurals name="download_title_multi">
         <item quantity="other">%2$d file, inclusi %1$s</item>
         <item quantity="one">%2$d file, incluso %1$s</item>

@@ -171,6 +171,9 @@ Visita https://appleid.apple.com/#!&amp;page=signin per disattivarlo"</string>
     <string name="connect_wifi_tip">"Impossibile connettersi alla rete. Connettiti ad una rete Wi-Fi per importare elementi da iCloud."</string>
     <string name="connecting">Connessione…</string>
     <string name="connection_tips_activity_label">Risoluzione dei Problemi</string>
+    <string name="connection_tips_other_message">"1. Assicurati che la versione più recente di Mi Mover sia installata sul tuo vecchio dispositivo Puoi scaricare l'ultima versione di Mi Mover in GetApps o usare questo link: %1$s.
+2. Se l'hotspot del nuovo dispositivo non appare in Mi Mover, apri le impostazioni Wi-Fi e controlla se riesci a vederlo. Se lo vedi, non fare nulla.
+3. Torna su Mi Mover e tocca il nome dell'hotspot."</string>
     <string name="connection_tips_other_title">Se il vecchio dispositivo è un telefono Android di terze parti:</string>
     <string name="connection_tips_owner_message">Mi Mover è preinstallato su tutti i dispositivi con MIUI 11. Se hai una versione MIUI più vecchia, puoi scaricare l\'ultima versione di Mi Mover in GetApps o utilizzare questo link: %1$s.</string>
     <string name="connection_tips_owner_title">Se il tuo vecchio dispositivo è un Telefono Mi:</string>
@@ -369,8 +372,10 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="icloud_how_to_backup_tip_steps_two">"2. Il tuo ID Apple e la password saranno utilizzati solo per l'accesso. Non saranno memorizzati o registrati da Mi Mover."</string>
     <string name="icloud_login_title">Login iCloud</string>
     <string name="icloud_need_sync">Seleziona gli elementi da importare</string>
+    <string name="icloud_need_traffic_message">"Non sei connesso al Wi-Fi. Usare i dati mobili per importare elementi da iCloud?"</string>
     <string name="icloud_need_traffic_title">Utilizzo dati rete mobile</string>
     <string name="icloud_need_wifi_message">"Non sei connesso ad una rete Wi-Fi al momento. Per importare dati da iCloud, connettiti ad una rete Wi-Fi."</string>
+    <string name="icloud_need_wifi_new_message">Connettiti al Wi-Fi per poter importare elementi da un iPhone.</string>
     <string name="icloud_need_wifi_new_title">E\' richiesta una rete Wi-Fi</string>
     <string name="icloud_need_wifi_title">E\' richiesta una rete Wi-Fi</string>
     <string name="icloud_new_connect_wifi">Connetti</string>
@@ -397,6 +402,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="install_new_app_link_text">Installa Mi Mover sul nuovo dispositivo per poterti collegare. Tocca per installare.</string>
     <string name="international_new_trans_intro_desc_8">"I messaggi di testo non possono essere trasferiti a causa di problemi di compatibilità. Le app di terze parti potrebbero limitare il trasferimento dei dati delle loro app a causa di motivi di sicurezza."</string>
     <string name="international_new_trans_intro_question_8">"8. Perché i messaggi di testo e i dati delle app di alcune app di terze parti non possono essere trasferiti?"</string>
+    <string name="international_scanner_send_dialog_message">"I messaggi di testo e i dati delle app di alcune app di terze parti non possono essere trasferiti. Non spegnere il Wi-Fi o cambiare rete durante il trasferimento."</string>
     <string name="lack_perm_msg">Mi Mover necessita dei seguenti permessi: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">Permessi richiesti</string>
     <string name="launcher">Layout schermata Home</string>
@@ -417,7 +423,9 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="main_sender_summary">Tocca per inviare</string>
     <string name="main_sender_title">Vecchio</string>
     <string name="manual_connection_content1">1. Seleziona \"Connetti manualmente al nuovo dispositivo \" sul vecchio dispositivo.</string>
+    <string name="manual_connection_content2">2. Seleziona il seguente hotspot Wi-Fi.</string>
     <string name="manual_connection_content3">3. Inserisci questa password nel vecchio dispositivo per connetterlo.</string>
+    <string name="manual_connection_summary2">"Se non riesci a trovare questo hotspot, aggiorna la lista delle reti Wi-Fi disponibili e riprova."</string>
     <string name="manual_connection_title">connetti il vecchio dispositivo manualmente</string>
     <string name="message_request_package_stats_perm">Premi \"Continua\" per aprire le impostazioni e dare a Mi Mover le autorizzazioni necessarie.</string>
     <string name="midnight">Notte</string>
@@ -515,6 +523,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="new_trans_intro_desc_8">La cronologia WeChat dal tuo vecchio dispositivo sovrascriverà la cronologia WeChat del tuo nuovo dispositivo durante il trasferimento.</string>
     <string name="new_trans_intro_desc_new">1. Assicurati che Mi Mover sul tuo nuovo dispositivo sia aggiornato. È possibile scaricare l\'ultima versione di Mi Mover in GetApps o utilizzare questo link: %1$s.</string>
     <string name="new_trans_intro_desc_new_click">Scarica</string>
+    <string name="new_trans_intro_desc_old">"2. Se l'hotspot non appare in Mi Mover, apri le impostazioni Wi-Fi e controlla se puoi vederlo lì. Se è così, torna su Mi Mover e tocca il nome dell'hotspot."</string>
     <string name="new_trans_intro_question_1">"1. Perché non riesco a vedere l'hotspot del nuovo dispositivo sul vecchio?"</string>
     <string name="new_trans_intro_question_2">2. Qual è la password dell\'hotspot?</string>
     <string name="new_trans_intro_question_3">"3. Perché non c'è abbastanza spazio di archiviazione sul vecchio dispositivo?"</string>
@@ -528,6 +537,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
 3. Seleziona il seguente hotspot sul vecchio dispositivo."</string>
     <string name="new_wait_link_message_2">"Il pulsante \"Sono un mittente\" è proprio sulla pagina iniziale di Mi Mover."</string>
     <string name="new_wait_link_title_2">"1. Premi \"Sono un mittente\" e aspetta un momento."</string>
+    <string name="new_wait_link_title_3">2. Seleziona il seguente hotspot Wi-Fi sul vecchio dispositivo.</string>
     <string name="next">Successivo</string>
     <string name="night">Sera</string>
     <string name="no_more_memory_title">"Mi Mover deve creare un backup locale su questo dispositivo. Non c'è abbastanza spazio di archiviazione per creare un backup. Libera dello spazio."</string>
@@ -561,8 +571,10 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="notification_trans_interrupt_message">Connessione interrotta. Riconnessione in corso…</string>
     <string name="notification_trans_interrupt_title">Riconnessione…</string>
     <string name="notification_trans_leave_message">"Non chiudere Mi Mover mentre il trasferimento è in corso."</string>
+    <string name="notification_trans_receive_message">"Ricezione dei dati. Non spegnere il Wi-Fi o cambiare rete."</string>
     <string name="notification_trans_receive_title">Ricezione dati…</string>
     <string name="notification_trans_running_title">Mi Mover sta trasferendo…</string>
+    <string name="notification_trans_send_message">"Invio dati. Non spegnere il Wi-Fi o cambiare rete."</string>
     <string name="notification_trans_send_title">Invio dati…</string>
     <string name="ok">OK</string>
     <string name="old_app_name">Vecchia versione</string>
@@ -617,6 +629,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="prompt_before_transmission_message2_title">"Hai le seguenti App Clonate"</string>
     <string name="prompt_before_transmission_message3_summary">"Gli elementi del Secondo Spazio non possono essere trasferiti a causa di restrizioni di sistema."</string>
     <string name="prompt_before_transmission_message3_title">"Stai usando il Secondo Spazio"</string>
+    <string name="prompt_before_transmission_message4_summary">"Non spegnere il Wi-Fi o cambiare rete fino al completamento del trasferimento."</string>
     <string name="prompt_before_transmission_message4_title">Resta connesso durante il trasferimento</string>
     <string name="prompt_before_transmission_message5_summary">"Il trasferimento di grandi quantità di dati in modalità wireless potrebbe causare un leggero surriscaldamento. Il dispositivo tornerà normale subito dopo il completamento."</string>
     <string name="prompt_before_transmission_message5_title">Il tuo dispositivo potrebbe scaldarsi durante i trasferimenti.</string>
@@ -654,6 +667,7 @@ Libera almeno %s."</string>
     <string name="scanner_quit_alert_message">"Dovrai collegare nuovamente i due dispositivi se esci da Mi Mover adesso. Abbandonare comunque?"</string>
     <string name="scanner_quit_alert_title">Uscire ora?</string>
     <string name="scanner_send_dialog_btn">Fatto</string>
+    <string name="scanner_send_dialog_message">"Non spegnere il Wi-Fi o cambiare rete durante il trasferimento."</string>
     <string name="scanner_size_selected">Selezionati: %s</string>
     <string name="scanner_time_remained">Tempo stimato: %s</string>
     <string name="scanner_title_tip">Seleziona gli elementi da trasferire</string>
@@ -726,6 +740,7 @@ Libera almeno %s."</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_open_wlan">为了保证迁移过程的稳定性，小米换机申请本权限，请您允许</string>
     <string name="summary_request_alert_window_prem">为了保证迁移过程的稳定性，小米换机申请本权限，请您允许</string>
+    <string name="summary_request_write_settings_prem">Mi Mover ha bisogno di questo permesso per attivare il Wi-Fi e creare un hotspot per il trasferimento dei file.</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -784,6 +799,7 @@ Libera almeno %s."</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="time_picker_label_hour">O</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="time_spent">Durata: %1$s</string>
     <string name="title_open_wlan">Attiva il Wi-Fi</string>
     <string name="title_request_alert_window_perm">申请悬浮窗权限</string>
     <string name="title_request_package_stats_perm">Permessi richiesti</string>
@@ -809,6 +825,7 @@ audio, video, documenti e applicazioni su un nuovo dispositivo</string>
     <string name="trans_sync_transfer_data_list">Seleziona gli elementi da trasferire sul vecchio dispositivo</string>
     <string name="trans_time_format_second">Meno di 1 minuto</string>
     <string name="trans_time_spent">Durata: %s</string>
+    <string name="transfer_bottom_tip">"Non potrai utilizzare il Wi-Fi o il Bluetooth durante il trasferimento. Non abbandonare questa pagina."</string>
     <string name="transfer_connect_fail_summary">Tocca il pulsante qui sotto per connetterti manualmente</string>
     <string name="transfer_finish_bottom_tip">"Se non userai più il tuo vecchio dispositivo, è possibile cancellare tutti i dati su di esso dopo aver confermato che tutti gli elementi importanti sono stati trasferiti correttamente."</string>
     <string name="transfer_finish_summary">Trasferiti %1$s (%2$s)</string>

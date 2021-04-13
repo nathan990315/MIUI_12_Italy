@@ -762,6 +762,8 @@ Invia questo codice al supervisore."</string>
     <string name="stop_full_log_dialog_title">Generazione dei log…</string>
     <string name="submit_dialog_cancel">"Non accetto"</string>
     <string name="submit_dialog_confirm">Accetto</string>
+    <string name="submit_dialog_content"><Data>\"Leggi e accetta la nostra &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Accordo utente&lt;/a&gt; prima di inviare un feedback. I problemi che segnalate insieme agli elementi che allegate (inclusi i log che potrebbero contenere informazioni personali, così come le informazioni sul tuo dispositivo e la rete) verranno caricate sui server MIUI. Questo ci aiuterà a individuare e risolvere i problemi. Se segnalate problemi relativi a più dispositivi, verranno caricati anche i log di altri dispositivi in cui viene utilizzato il vostro Mi Account.\"</Data></string>
+    <string name="submit_dialog_content_global"><Data>\"Il tuo feedback, insieme agli allegati (se ce ne sono) e i log (puoi deselezionare le caselle corrispondenti agli elementi che non vuoi caricare) verranno inviati ai server MIUI. I log possono contenere informazioni personali e i dati della tua posizione. Selezionando \"Accetta\" significa che hai letto e accettato la nostra &lt;a href=\"%1$s\"&gt;Informativa sulla privacy&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Accordo utente&lt;/a&gt;.\"</Data></string>
     <string name="submit_dialog_not_show_again">"Non mostrare più"</string>
     <string name="submit_dialog_title">Invia segnalazione</string>
     <string name="submit_feedback_info_failed">"Impossibile inviare segnalazione"</string>
@@ -830,6 +832,7 @@ Invia questo codice al supervisore."</string>
     <string name="time_picker_label_hour">O</string>
     <string name="time_picker_label_minute">M</string>
     <string name="title_answer_feedback_main">Abbiamo trovato delle risposte!</string>
+    <string name="title_catch_full_log">Log</string>
     <string name="title_customer_service">Servizio clienti</string>
     <string name="title_first_aid">Pronto soccorso</string>
     <string name="title_frequent_question_feedback_main">Domande frequenti</string>

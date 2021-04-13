@@ -34,6 +34,7 @@
     <string name="about_go_to_update">Da aggiornare</string>
     <string name="about_lasted_version">Non ci sono nuove versioni</string>
     <string name="account_add_title">Seleziona servizio email</string>
+    <string name="account_cache_provider">Fornitore Cache Account</string>
     <string name="account_duplicate_dlg_message_fmt">"Utilizzi già questo nome utente per l'account \"%s\"."</string>
     <string name="account_duplicate_dlg_title">Account duplicato</string>
     <string name="account_failure">Errore account</string>
@@ -203,6 +204,7 @@
     <string name="app_name">E-Mail</string>
     <string name="app_uninstall_content">"Posta è un'applicazione di sistema. Non sarai in grado di gestire i tuoi account email, inviare e ricevere e-mail o sincronizzare gli eventi dopo aver disinstallato l'app."</string>
     <string name="app_uninstall_title">Disinstallare \"Posta\"?</string>
+    <string name="application_mime_type">application/email-ls</string>
     <string name="appraise_des">Lavoriamo duramente allo sviluppo dei prodotti, solo per soddisfarti. Supportaci lasciando un commento.</string>
     <string name="appraise_good">Sì</string>
     <string name="appraise_ignore">"Valutazione temporanea"</string>
@@ -220,6 +222,7 @@
     <string name="att_mgr_title_order_sender">Mittente</string>
     <string name="att_mgr_title_order_size">Dimensione file</string>
     <string name="attached_message">Messaggio allegato</string>
+    <string name="attachment_application_msword">Documento</string>
     <string name="attachment_application_pdf">PDF</string>
     <string name="attachment_application_vnd_ms_excel">Foglio di calcolo</string>
     <string name="attachment_application_vnd_ms_powerpoint">Presentazione</string>
@@ -259,7 +262,9 @@
     <string name="b_contacts_remove_tips">Rimuovere questo indirizzo dalla lista dei blocchi?</string>
     <string name="back">Indietro</string>
     <string name="bank_card_detail">Dettagli carta di credito</string>
+    <string name="bank_card_list_card_num_fmt">****%s</string>
     <string name="bcc">Ccn</string>
+    <string name="bcc_heading">"Bcc: "</string>
     <string name="bill_center_setting">Impostazioni di addebito</string>
     <string name="bill_center_setting_head">Importa le informazioni da questi account</string>
     <string name="bill_cycle_text">Ciclo di addebito</string>
@@ -285,6 +290,7 @@
     <string name="cancel_pop3_attchemt_downloading">"L'annullamento di allegati in download non è disponibile per gli account di tipo POP3."</string>
     <string name="cant_move_or_change_labels">"Impossibile spostare perché la selezione contiene account multipli."</string>
     <string name="cc">Cc</string>
+    <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
     <string name="cc_bcc">Cc/Ccn</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="certificate_add_failed">"Impossibile aggiungere il certificato \"%s\""</string>
@@ -315,6 +321,7 @@
     <string name="click_download_all_content">[Tocca per scaricare]</string>
     <string name="click_to_reload">Tocca lo schermo per ricaricare</string>
     <string name="collapse_recipient_details">Chiudi dettagli destinatario</string>
+    <string name="colon">:</string>
     <string name="compose">Scrivi</string>
     <string name="compose_event">Invito</string>
     <string name="compose_paste_address_oob">Il testo è troppo lungo</string>
@@ -372,6 +379,7 @@
     <string name="conversation_cert_info_tips">Questa email è stata firmata con un certificato affidabile</string>
     <string name="conversation_cert_info_title">Firmato</string>
     <string name="conversation_cert_trust">Fidati</string>
+    <string name="conversation_content_provider">Provider di Contenuti Conversazione</string>
     <string name="conversation_detail_hide">Nascondi</string>
     <string name="conversation_detail_show">Dettagli</string>
     <string name="conversation_folder_moved">Spostato in %1$s</string>
@@ -462,10 +470,13 @@
     <string name="dtstart">Inizio</string>
     <string name="due">Scadenza</string>
     <string name="due_date_text">Pagamento finale</string>
+    <string name="eas_hotmail_email">hotmail.com</string>
+    <string name="eas_outlook_email">outlook.com</string>
     <string name="edit_quick_response_dialog">Risposte rapide</string>
     <string name="edit_signature">Modifica firma</string>
     <string name="editor_max_length_limit_hint">Il messaggio inserito è troppo lungo</string>
     <string name="email_netease">NetEase Mail</string>
+    <string name="email_no_snippet">[Questo messaggio non ha testo]</string>
     <string name="email_qq">QQ Mail</string>
     <string name="email_sina">Sina Mail</string>
     <string name="email_sync_failed">"Impossibile sincronizzare la posta"</string>
@@ -516,9 +527,15 @@
     <string name="filter_title_unread">%s [Unread]</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">Tocca questo collegamento, \"%s\" verrà inviato a tutti i destinatari.</string>
+    <string name="folder_drafts_name_cn0">Bozze</string>
+    <string name="folder_drafts_name_cn1">Bozze</string>
+    <string name="folder_drafts_name_cn2">[Gmail]/Bozze</string>
     <string name="folder_drafts_name_en1">Bozza</string>
     <string name="folder_drafts_name_en2">[Gmail]/Bozze</string>
     <string name="folder_empty_to_fresh">"La posta non è sincronizzata. Trascina in basso per sincronizzare."</string>
+    <string name="folder_junk_name_cn0">Posta indesiderata</string>
+    <string name="folder_junk_name_cn1">Posta indesiderata</string>
+    <string name="folder_junk_name_cn2">[Gmail]/Posta Indesiderata</string>
     <string name="folder_junk_name_en1">Posta Massiva</string>
     <string name="folder_junk_name_en2">Posta Indesiderata</string>
     <string name="folder_junk_name_en3">Posta Indesiderata</string>
@@ -528,12 +545,17 @@
     <string name="folder_no_mails">Nessuna email in questa cartella</string>
     <string name="folder_picker_title">Scegli cartelle</string>
     <string name="folder_removed">Rimossa da %1$s</string>
+    <string name="folder_sent_name_cn0">Posta Inviata</string>
+    <string name="folder_sent_name_cn1">Posta Inviata</string>
+    <string name="folder_sent_name_cn2">Posta Inviata</string>
+    <string name="folder_sent_name_cn3">[Gmail]/Posta Inviata</string>
     <string name="folder_sent_name_en1">Messaggi inviati</string>
     <string name="folder_sent_name_en2">Messaggio inviato</string>
     <string name="folder_sent_name_en3">Posta inviata</string>
     <string name="folder_sent_name_en4">[Gmail]/Posta inviata</string>
     <string name="folder_shortcut_widget_label">Cartella email</string>
     <string name="folder_synchronization_mail_settings">Impostazioni di sincronizzazione delle cartelle</string>
+    <string name="folder_trash_name_cn0">Cestino</string>
     <string name="folder_trash_name_cn1">Messaggio eliminato</string>
     <string name="folder_trash_name_cn2">[Gmail]/Messaggio eliminato</string>
     <string name="folder_trash_name_en1">Messaggi eliminati</string>
@@ -558,12 +580,14 @@
     <string name="font_underline_remove">Rimuovi Sottolineatura</string>
     <string name="forever">Sempre</string>
     <string name="formatted_email_address">&lt;%1$s&gt;</string>
+    <string name="formatted_subject">%1$s %2$s</string>
     <string name="forward">Inoltra</string>
     <string name="forward_attachment">Inoltra</string>
     <string name="forward_attribution">---------- Messaggio inoltrato ----------<br/>Da: %1$s<br/>Data: %2$s<br/>Oggetto: %3$s<br/>A: %4$s<br/></string>
     <string name="forward_attribution_no_headers">---------- Messaggio inoltrato ----------</string>
     <string name="forward_download_failed_ticker">"Impossibile inoltrare uno o più allegati."</string>
     <string name="forward_download_failed_title">Allegato non inoltrato</string>
+    <string name="forward_subject_label">I:</string>
     <string name="free_period_text">Periodo di prova gratuito</string>
     <string name="from_heading">"Da: "</string>
     <string name="general_preference_confirm_delete_label">Conferma prima di eliminare</string>
@@ -578,6 +602,8 @@
     <string name="general_preference_text_zoom_normal">Normale</string>
     <string name="general_preference_text_zoom_small">Piccolo</string>
     <string name="general_preference_text_zoom_tiny">Testo molto piccolo</string>
+    <string name="general_preference_trash_contact">Filtro spam</string>
+    <string name="general_preference_trash_contact_sum">Filtra le email da mittenti segnalati da più utenti</string>
     <string name="generic_attachment_problem">"Impossibile allegare il file."</string>
     <string name="get_database_exception">"Per pulire i dati di questa applicazione andare in Impostazioni &gt; Applicazioni di sistema e riprovare."</string>
     <string name="get_oauth_code">Ottieni codice</string>
@@ -607,11 +633,20 @@
     <string name="info_item_hide">Elimina</string>
     <string name="inline_picture_deleted">Impossibile trovare l\'immagine, download in corso…</string>
     <string name="input_password_prompt">Inserisci la password</string>
+    <string name="install_mime_encrypt_cert">Installa certificato di cifratura S/MIME</string>
+    <string name="install_mime_sign_cert">Installa certificato di firma S/MIME</string>
     <string name="interact_with_server_error">"Impossibile collegarsi al server"</string>
     <string name="invalid_recipient">L\'indirizzo %s non è valido.</string>
     <string name="invalid_recipient_title">Destinatario non valido</string>
+    <string name="invoice_card_amount">Importo totale addebitato</string>
+    <string name="invoice_card_buyer">Acquirente</string>
     <string name="invoice_card_date">data</string>
+    <string name="invoice_card_open">Apri la fattura</string>
+    <string name="invoice_card_save">Salva la fattura</string>
+    <string name="invoice_card_seller">Venditore</string>
+    <string name="invoice_card_title">Fattura elettronica</string>
     <string name="kilobytes">%s KB</string>
+    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">Nessuna mail, trascina in basso per aggiornare.</string>
     <string name="load_from_remote">Continua a cercare sul server</string>
     <string name="load_more">Carica altro</string>
@@ -619,7 +654,7 @@
     <string name="loading_conversations">Caricamento…</string>
     <string name="loading_from_remote">Caricamento…</string>
     <string name="local_search">Ricerca locale</string>
-    <string name="location_hint">Piattaforma</string>
+    <string name="location_hint">Posizione</string>
     <string name="log_save_path">Percorso salvataggio Log</string>
     <string name="login">Accedi</string>
     <string name="login_des_126">Accedi a 126 Mail</string>
@@ -636,11 +671,14 @@
     <string name="login_des_yahoo">Accedi a Yahoo Mail</string>
     <string name="login_des_yangdex">Accedi a Yandex Mail</string>
     <string name="login_err_message">La password inserita non è corretta. Potresti aver bisogno anche di un codice di verifica per poter accedere. Se devi ripristinare la password, visita https://email.163.com/ per vedere le opzioni disponibili.</string>
+    <string name="login_err_outlook_msg">"%s
+Ciao, la password dell'applicazione è attivata? Se attiva, vai al sito ufficiale Microsoft per reimpostare la password dell'applicazione"</string>
     <string name="login_err_sina_message">La password inserita non è corretta. Potresti aver bisogno anche di un codice di verifica per accedere a %1$s. Se devi ripristinare la password, visita https://mail.sina.com.cn/ per vedere le opzioni disponibili.</string>
     <string name="login_failed_ticker">Accesso a %s non riuscito.</string>
     <string name="login_failed_tip">"Contattaci su WeChat per ottenere aiuto: "</string>
     <string name="login_failed_title">"Impossibile eseguire l'accesso"</string>
     <string name="login_mail">Accedi</string>
+    <string name="login_manual">impostazione manuale</string>
     <string name="login_qq_psw">Accedi utilizzando il codice di autorizzazione</string>
     <string name="long_press_to_select_tip">Tieni premuto per selezionare una conversazione, quindi tocca per sceglierne altre.</string>
     <string name="long_string">luuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuungo</string>
@@ -655,6 +693,8 @@
     <string name="mail_login_help_details2">2. I codici di autorizzazione di terze parti possono essere utilizzati per accedere ai client di posta elettronica di terze parti quando i servizi POP3/IMAP/SMTP sono abilitati.</string>
     <string name="mail_login_help_title">Password email/Client di terze parti:</string>
     <string name="mail_outlook_login_tips">"Verrai reindirizzato su Microsoft per inserire la password"</string>
+    <string name="mail_outlook_oauth_login">"Usa l'accesso Oauth più sicuro
+ (Gli utenti Personali di Outlook non possono sincronizzare i loro calendari quando accedono con OAuth)"</string>
     <string name="mail_outlook_psw_login">Accedi con password</string>
     <string name="mailbox_list_account_selector_combined_view">Visualizzazione combinata</string>
     <string name="mailbox_name_display_ad">Pubblicità</string>
@@ -667,6 +707,16 @@
     <string name="mailbox_name_display_starred">Speciali</string>
     <string name="mailbox_name_display_trash">Cestino</string>
     <string name="mailbox_name_display_unread">Non letta</string>
+    <string name="mailbox_name_server_all_unread">Non letta</string>
+    <string name="mailbox_name_server_drafts">Bozze</string>
+    <string name="mailbox_name_server_inbox">In arrivo</string>
+    <string name="mailbox_name_server_junk">Indesiderata</string>
+    <string name="mailbox_name_server_outbox">In uscita</string>
+    <string name="mailbox_name_server_sent">Inviato</string>
+    <string name="mailbox_name_server_starred">Speciali</string>
+    <string name="mailbox_name_server_trash">Cestino</string>
+    <string name="mailbox_setting_preference_sync_summary_close">Sync: Spenta</string>
+    <string name="mailbox_setting_preference_sync_summary_open">Sync: Accesa</string>
     <string name="mailbox_settings_activity_title">Impostazioni di sincronizzazione</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Opzioni di sincronizzazione (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Giorni da sincronizzare</string>
@@ -688,11 +738,34 @@
     <string name="me_object_pronun">Io</string>
     <string name="me_subject_pronun">Io</string>
     <string name="meeting_accepted">"Accettato: %s"</string>
+    <string name="meeting_allday">"
+        Quando:
+        %s
+        (tutto il giorno)
+    "</string>
+    <string name="meeting_allday_recurring">"
+        Quando:
+        %s
+        (tutto il giorno, ricorrente)
+    "</string>
     <string name="meeting_canceled">"Annullato: %s"</string>
     <string name="meeting_declined">"Rifiutato: %s"</string>
+    <string name="meeting_recurring">"
+        Quando:
+        %s
+        (ricorrente)
+    "</string>
     <string name="meeting_responded_failed">Errore nella risposta</string>
     <string name="meeting_tentative">"Tentativo: %s"</string>
     <string name="meeting_updated">"Aggiornato: %s"</string>
+    <string name="meeting_when">"
+        Quando:
+        %s
+    "</string>
+    <string name="meeting_where">"
+        Dove:
+        %s
+    "</string>
     <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Allegati</string>
     <string name="menu_att_mgr_order_default">Predefinito</string>
@@ -711,6 +784,7 @@
     <string name="menu_search">Cerca</string>
     <string name="menu_settings">Impostazioni</string>
     <string name="merged_mailbox_compose_select_account">Seleziona account</string>
+    <string name="message_all_body">Testo completo dell\'email</string>
     <string name="message_body_load_set_description">Dimensione di caricamento per le nuove email quando si utilizza la rete dati mobile</string>
     <string name="message_compose_insert_quick_response_list_title">Inserisci risposta veloce</string>
     <string name="message_decode_error">"Si è verificato un errore durante la decodifica del messaggio."</string>
@@ -739,8 +813,9 @@
     <string name="more_string">+%1$s</string>
     <string name="move_to_selection_dialog_title">Sposta in un\'altra cartella</string>
     <string name="multiple_new_message_notification_item">%1$s\"   %2$s\"</string>
-    <string name="mute">Muto</string>
+    <string name="mute">Silenzioso</string>
     <string name="navigation_menu">Menu di navigazione</string>
+    <string name="net_error">Errore di rete, riprova più tardi</string>
     <string name="network_error">Nessuna connessione</string>
     <string name="network_invaild">"Impossibile connettersi alla rete"</string>
     <string name="network_not_available">"Impossibile connettersi alla rete"</string>
@@ -776,6 +851,7 @@ Prova a passare ad un diverso account email."</string>
     <string name="notification_action_undo_archive">Archiviata</string>
     <string name="notification_action_undo_delete">Rimosse</string>
     <string name="notification_action_undo_remove_label">Etichetta rimossa</string>
+    <string name="notification_exchange_calendar_added">Calendario Exchange aggiunto</string>
     <string name="notify_channel_new_mail">Notifica nuovi messaggi</string>
     <string name="notify_channel_no_disterb">Modalità Non Disturbare</string>
     <string name="notify_channel_permission_notice">Permessi richiesti</string>
@@ -911,6 +987,7 @@ perr icevere promemoria sui pagamenti dei tuoi viaggi"</string>
     <string name="policy_require_smime">Richiede messaggi SMIME</string>
     <string name="policy_text_truncation">Restringi dimensione email testo</string>
     <string name="pop3_name">POP3</string>
+    <string name="prefDefault_autoAdvance">list</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="preference_eas_tips">Tocca Attiva per configurare il server email.</string>
     <string name="preference_pop_tips">Gli allegati verranno scaricati inseme alle email come previsto dal protocollo POP3. Fai attenzione quando utilizzi la connessione dati mobile.</string>
@@ -1022,6 +1099,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="reply_add_bodycontent">Aggiungere un messaggio di risposta rapida al contenuto?</string>
     <string name="reply_all">Rispondi a tutti</string>
     <string name="reply_attribution">%2$s ha scritto su %1$s:</string>
+    <string name="reply_subject_label">Re:</string>
     <string name="report_phishing">Segnala come phishing</string>
     <string name="report_spam">Segnala spam</string>
     <string name="request_copy_db_to_disk">L\'app Email richiede che il tuo database venga esportato in file</string>
@@ -1058,6 +1136,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="send_encrypt_dialog_fail_title">"Impossibile inviare email cifrate"</string>
     <string name="send_failed">"Il messaggio non è stato inviato."</string>
     <string name="sender_whitelist_cleared">"Le immagini non verranno mostrate automaticamente."</string>
+    <string name="senders_elided">..</string>
     <string name="senders_split_token">, </string>
     <string name="sending">Invio in corso...</string>
     <string name="sending_message">Invio messaggio…</string>
@@ -1117,15 +1196,20 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="signature_black_shark">Inviato dal mio telefono Blackshark</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="sms_not_found_tip">"Impossibile aprire l'app di messaggistica SMS predefinita. Apri l'app e invia manualmente l'SMS di verifica."</string>
     <string name="smtp_password_error">La password per il server di posta in uscita non è corretta</string>
+    <string name="snip_pic">%1$s</string>
     <string name="sort_attachment">Ordina per</string>
     <string name="special_text_1">Ha scritto:</string>
     <string name="special_text_2">Ha scritto:</string>
     <string name="special_text_3">Ha scritto:</string>
     <string name="special_text_4">Ha scritto:</string>
     <string name="special_text_5">ha scritto:</string>
+    <string name="special_text_colon_en">:</string>
+    <string name="special_text_colon_zh">：</string>
     <string name="special_text_sender_en">mittente</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage">Archiviazione</string>
     <string name="str_select_all">Seleziona tutto</string>
     <string name="str_select_none">Deseleziona tutto</string>
@@ -1186,6 +1270,7 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="topic_merge">Visualizza Conversazioni</string>
     <string name="topic_merge_summary">Se abilitato raggruppa le mail con lo stesso oggetto</string>
     <string name="train_card_title">Acquisto del biglietto riuscito</string>
+    <string name="train_card_title_alternate">Registrato per la lista di attesa dei biglietti</string>
     <string name="train_card_title_change">Biglietto modificato</string>
     <string name="train_card_title_change_arrival">Biglietto modificato</string>
     <string name="train_card_title_refund">Rimborso del biglietto completato</string>
@@ -1202,6 +1287,9 @@ Attendi che sia completamente sincronizzata o visualizza il messaggio sul comput
     <string name="trigger_before_hour">%d ora fa</string>
     <string name="trigger_before_minute">%d minuti fa</string>
     <string name="trigger_before_week">%d settimana fa</string>
+    <string name="trigger_compose_char">c</string>
+    <string name="trigger_refresh_char">u</string>
+    <string name="trigger_y_char">a</string>
     <string name="try_exchange_login">Accedi con EXCHANGE</string>
     <string name="turn_auto_sync_on_dialog_body">"Tutte le modifiche apportate ad applicazioni ed account, non solo Gmail, verranno sincronizzate tra web, i tuoi altri dispositivi ed il tuo %1$s."</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Attiva</string>

@@ -19,6 +19,8 @@
     <string name="EmergencyCallWarningSummary">Non è possibile effettuare chiamate di emergenza tramite Wi‑Fi</string>
     <string name="EmergencyCallWarningTitle">Chiamate di emergenza non disponibili</string>
     <string name="Midnight">Mezzanotte</string>
+    <string name="NetworkPreferenceSwitchSummary">Prova a cambiare rete. Tocca per cambiarla.</string>
+    <string name="NetworkPreferenceSwitchTitle">Impossibile connettersi alla rete mobile</string>
     <string name="Noon">Mezzogiorno</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">Sblocco PIN aziendale RUIM</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">Richiesta sblocco aziendale RUIM non riuscita.</string>
@@ -399,13 +401,19 @@ Vuoi chiuderlo?"</string>
     <string name="common_name">Nome comune:</string>
     <string name="condition_provider_service_binding_label">Provider condizioni</string>
     <string name="conference_call">Conferenza telefonica</string>
+    <string name="config_UsbDeviceConnectionHandling_component">\@null</string>
+    <string name="config_activityRecognitionHardwarePackageName">\@null</string>
     <string name="config_bodyFontFamily">sans-serif</string>
     <string name="config_bodyFontFamilyMedium">sans-serif-medium</string>
     <string name="config_defaultPictureInPictureScreenEdgeInsets">16x16</string>
     <string name="config_default_dns_server">1.1.1.1</string>
     <string name="config_emergency_call_number">112</string>
     <string name="config_fusedLocationProviderPackageName">com.xiaomi.location.fused</string>
+    <string name="config_geocoderProviderPackageName">com.xiaomi.metoknlp</string>
+    <string name="config_geofenceProviderPackageName">\@null</string>
+    <string name="config_iccHotswapPromptForRestartDialogComponent">\@null</string>
     <string name="config_icon_mask">M96.4286 62.2772C96.4286 72.1118 96.4286 77.029 94.7547 82.3225C92.6512 88.1016 88.0988 92.654 82.3196 94.7576C77.6553 96.2326 73.278 96.4076 65.575 96.4284H50H34.425C26.722 96.4076 22.3446 96.2326 17.6803 94.7576C11.9012 92.654 7.34879 88.1016 5.24522 82.3225C3.57141 77.029 3.57141 72.1118 3.57141 62.2772V49.9999V37.7225C3.57141 27.888 3.57141 22.9707 5.24522 17.6772C7.34879 11.8981 11.9012 7.34569 17.6803 5.24212C22.3446 3.76712 26.722 3.59212 34.425 3.57129H50H65.575C73.278 3.59212 77.6553 3.76712 82.3196 5.24212C88.0988 7.34569 92.6512 11.8981 94.7547 17.6772C96.4286 22.9707 96.4286 27.888 96.4286 37.7225V49.9999V62.2772Z</string>
+    <string name="config_networkLocationProviderPackageName">com.xiaomi.metoknlp</string>
     <string name="config_rawContactsLocalAccountName">default</string>
     <string name="config_secondaryHomePackage">com.android.launcher3</string>
     <string name="config_systemGallery">com.android.gallery3d</string>
@@ -443,6 +451,8 @@ utilizzando %s"</string>
     <string name="data_usage_restricted_title">Dati in background limitati</string>
     <string name="data_usage_warning_body">"Hai utilizzato %s di dati"</string>
     <string name="data_usage_warning_title">Avviso sull\'utilizzo dei dati</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Limite dati Wi-Fi superato</string>
+    <string name="data_usage_wifi_limit_title">Limite dati Wi-Fi raggiunto</string>
     <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
     <string name="date_picker_day_of_week_typeface">sans-serif-medium</string>
     <string name="date_picker_day_typeface">sans-serif-medium</string>
@@ -461,6 +471,9 @@ utilizzando %s"</string>
     <string name="date_time_set">Imposta</string>
     <string name="day">giorno</string>
     <string name="days">giorni</string>
+    <string name="db_default_journal_mode">PERSISTENTE</string>
+    <string name="db_default_sync_mode">NORMALE</string>
+    <string name="db_wal_sync_mode">NORMALE</string>
     <string name="decline">Rifiuta</string>
     <string name="decline_remote_bugreport_action">RIFIUTO</string>
     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
@@ -625,6 +638,7 @@ utilizzando %s"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Codice funzione completo.</string>
     <string name="fcError">Problema di connessione o codice funzione non valido.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Trova</string>
     <string name="find_next">Trova successivo</string>
     <string name="find_on_page">Trova nella pagina</string>
@@ -848,6 +862,7 @@ Visita \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Rimuovi</string>
     <string name="kg_sim_pin_instructions">Inserisci il PIN della SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">Sblocco SIM…</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Hai digitato la password in modo errato per %1$d volte. 
 
 Riprova tra %2$d secondi."</string>
@@ -1073,6 +1088,7 @@ Riprova tra %2$d secondi."</string>
     <string name="mime_type_audio_ext">Audio %1$s</string>
     <string name="mime_type_compressed">Archivia</string>
     <string name="mime_type_compressed_ext">Archivio %1$s</string>
+    <string name="mime_type_document">Documento</string>
     <string name="mime_type_document_ext">Documento %1$s</string>
     <string name="mime_type_folder">Cartella</string>
     <string name="mime_type_generic">File</string>
@@ -1110,6 +1126,7 @@ Riprova tra %2$d secondi."</string>
     <string name="needPuk2">Digita il PUK2 per sbloccare la SIM.</string>
     <string name="negative_duration">−%1$s</string>
     <string name="network_available_sign_in">Accedi alla rete</string>
+    <string name="network_available_sign_in_detailed">%1$s</string>
     <string name="network_logging_notification_text">La tua organizzazione gestisce questo dispositivo e potrebbe monitorare il traffico di rete. Tocca per dettagli.</string>
     <string name="network_logging_notification_title">Il dispositivo è gestito</string>
     <string name="network_partial_connectivity">%1$s ha connettività limitata</string>
@@ -1165,6 +1182,7 @@ Riprova tra %2$d secondi."</string>
     <string name="notification_channel_virtual_keyboard">Tastiera virtuale</string>
     <string name="notification_channel_voice_mail">Messaggi segreteria</string>
     <string name="notification_channel_vpn">Stato VPN</string>
+    <string name="notification_channel_wfc">Chiamata Wi-Fi</string>
     <string name="notification_description">Stato chiamata vocale</string>
     <string name="notification_header_divider_symbol">•</string>
     <string name="notification_header_divider_symbol_with_spaces">" • "</string>
@@ -1172,6 +1190,7 @@ Riprova tra %2$d secondi."</string>
     <string name="notification_history_title_placeholder">Notifiche app personalizzate</string>
     <string name="notification_inbox_ellipsis">…</string>
     <string name="notification_listener_binding_label">Listener di notifica</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Servizio di notifiche classificate</string>
     <string name="notification_reply_button_accessibility">Rispondi</string>
     <string name="notification_title">Errore di accesso per %1$s</string>
@@ -1217,6 +1236,7 @@ Riprova tra %2$d secondi."</string>
     <string name="permdesc_accessNetworkConditions">Consente a un\'applicazione di ascoltare le osservazioni sulle condizioni di rete. Da non utilizzare mai con app normali.</string>
     <string name="permdesc_accessNetworkState">Consente all\'applicazione di visualizzare informazioni sulle connessioni di rete, ad esempio le reti esistenti e connesse.</string>
     <string name="permdesc_accessNotifications">Consente all\'app di recuperare, esaminare e cancellare notifiche, comprese quelle pubblicate da altre app.</string>
+    <string name="permdesc_accessWifiState">Consente all\'applicazione di visualizzare informazioni sulla rete Wi-Fi, ad esempio se il Wi-Fi è abilitato e il nome dei dispositivi Wi-Fi collegati.</string>
     <string name="permdesc_accessWimaxState">Consente all\'applicazione di determinare se WiMAX è abilitato e informazioni su eventuali reti WiMAX che sono connesse.</string>
     <string name="permdesc_access_notification_policy">Consente all\'app di leggere e modificare la configurazione della funzionalità Non disturbare.</string>
     <string name="permdesc_activityRecognition">Questa app può riconoscere la tua attività fisica.</string>
@@ -1241,6 +1261,8 @@ Riprova tra %2$d secondi."</string>
     <string name="permdesc_cameraOpenCloseListener">Questa app può ricevere callback quando qualsiasi fotocamera viene aperta (tramite quale applicazione) o chiusa.</string>
     <string name="permdesc_changeNetworkState">Consente all\'applicazione di modificare lo stato di connettività della rete.</string>
     <string name="permdesc_changeTetherState">Consente all\'applicazione di modificare lo stato di connettività di rete tethering.</string>
+    <string name="permdesc_changeWifiMulticastState">Consente all\'app di ricevere pacchetti inviati a tutti i dispositivi su una rete Wi-Fi utilizzando indirizzi multicast. Utilizza più potenza rispetto alla modalità non multicast.</string>
+    <string name="permdesc_changeWifiState">Consente all\'app di connettersi e disconnettersi dai punti di accesso Wi-Fi e di apportare modifiche alla configurazione del dispositivo per le reti Wi-Fi.</string>
     <string name="permdesc_changeWimaxState">Consente all\'applicazione di connettere/disconnettere il telefono dalle reti WiMAX.</string>
     <string name="permdesc_connection_manager">Consente all\'app di gestire connessioni di telecomunicazione.</string>
     <string name="permdesc_control_incall_experience">Consente all\'app di offrire un\'esperienza utente durante le chiamate.</string>
@@ -1346,7 +1368,7 @@ Riprova tra %2$d secondi."</string>
     <string name="permgrouplab_calllog">Registro chiamate</string>
     <string name="permgrouplab_camera">Fotocamera</string>
     <string name="permgrouplab_contacts">Contatti</string>
-    <string name="permgrouplab_location">Piattaforma</string>
+    <string name="permgrouplab_location">Posizione</string>
     <string name="permgrouplab_microphone">Microfono</string>
     <string name="permgrouplab_phone">Telefono</string>
     <string name="permgrouplab_sensors">Sensori biometrici</string>
@@ -1367,6 +1389,7 @@ per l'account %s."</string>
     <string name="permlab_accessNetworkConditions">ascolto delle osservazioni sulle condizioni di rete</string>
     <string name="permlab_accessNetworkState">visualizzazione connessioni di rete</string>
     <string name="permlab_accessNotifications">accesso a notifiche</string>
+    <string name="permlab_accessWifiState">visualizza connessioni Wi-Fi</string>
     <string name="permlab_accessWimaxState">connessione e disconnessione da WiMAX</string>
     <string name="permlab_access_notification_policy">accesso alla funzionalità Non disturbare</string>
     <string name="permlab_activityRecognition">riconoscere l\'attività fisica</string>
@@ -1391,6 +1414,8 @@ per l'account %s."</string>
     <string name="permlab_cameraOpenCloseListener">Consenti a un\'applicazione o servizio di ricevere callback quando la fotocamera viene aperta o chiusa.</string>
     <string name="permlab_changeNetworkState">modifica connettività di rete</string>
     <string name="permlab_changeTetherState">modifica della connettività tethering</string>
+    <string name="permlab_changeWifiMulticastState">consenti ricezione multicast Wi-Fi</string>
+    <string name="permlab_changeWifiState">connettersi e disconnettersi dal Wi-Fi</string>
     <string name="permlab_changeWimaxState">modifica stato WiMAX</string>
     <string name="permlab_connection_manager">gestisci connessioni di telecomunicazione</string>
     <string name="permlab_control_incall_experience">offerta di un\'esperienza utente durante le chiamate</string>
@@ -1746,6 +1771,9 @@ L'ascolto ad alto volume per lunghi periodi di tempo potrebbe danneggiare l'udit
     <string name="ssl_certificate">Certificato di sicurezza</string>
     <string name="ssl_certificate_is_valid">Questo certificato è valido.</string>
     <string name="status_bar_airplane">aereo</string>
+    <string name="status_bar_bluetooth">bluetooth</string>
+    <string name="status_bar_mute">silenzioso</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_communication_speaker_summary">Una chiamata in vivavoce è in corso. L\'audio continuerà ad essere riprodotto attraverso l\'altoparlante quando le cuffie sono collegate.</string>
     <string name="status_communication_summary">Una chiamata è in corso. È possibile regolare solo il volume delle chiamate.</string>
     <string name="stk_cc_ss_to_dial">La richiesta SS è stata modificata in richiesta DIAL.</string>
@@ -1897,10 +1925,20 @@ Vuoi chiuderla?"</string>
     <string name="wfcRegErrorTitle">Chiamata Wi-Fi</string>
     <string name="wfcSpnFormat_spn">%s</string>
     <string name="wfcSpnFormat_spn_vowifi">%s VoWifi</string>
+    <string name="wfcSpnFormat_spn_wifi">%s Wi-Fi</string>
+    <string name="wfcSpnFormat_spn_wifi_calling">%s Chiamata Wi-Fi</string>
+    <string name="wfcSpnFormat_spn_wifi_calling_vo_hyphen">%s Chiamata Wi-Fi</string>
+    <string name="wfcSpnFormat_spn_wlan_call">%s Chiamata Wi-Fi</string>
     <string name="wfcSpnFormat_vowifi">VoWifi</string>
     <string name="wfcSpnFormat_wifi">Wi-Fi</string>
+    <string name="wfcSpnFormat_wifi_calling">Chiamata Wi-Fi</string>
+    <string name="wfcSpnFormat_wifi_calling_bar_spn">Chiamata Wi-Fi | %s</string>
+    <string name="wfcSpnFormat_wifi_calling_wo_hyphen">Chiamata Wi-Fi</string>
+    <string name="wfcSpnFormat_wlan_call">Chiamata Wi-Fi</string>
     <string name="wfc_mode_cellular_preferred_summary">Rete cellulare preferita</string>
     <string name="wfc_mode_ims_preferred_summary">Ims Preferito</string>
+    <string name="wfc_mode_wifi_only_summary">Solo Wi-Fi</string>
+    <string name="wfc_mode_wifi_preferred_summary">Chiama tramite Wi-Fi</string>
     <string name="whichApplication">Completa l\'azione con</string>
     <string name="whichApplicationLabel">Completa l\'azione</string>
     <string name="whichApplicationNamed">Completamento azione con %1$s</string>
@@ -1927,6 +1965,7 @@ Vuoi chiuderla?"</string>
     <string name="whichViewApplication">Apri con</string>
     <string name="whichViewApplicationLabel">Apri</string>
     <string name="whichViewApplicationNamed">Apri con %1$s</string>
+    <string name="wifi_available_sign_in">Accedi alla rete Wi-Fi</string>
     <string name="wifi_calling_off_summary">Spenta</string>
     <string name="wifi_no_internet">Il Wi-Fi non ha accesso ad internet</string>
     <string name="wifi_no_internet_detailed">Tocca per le opzioni</string>
@@ -1952,6 +1991,7 @@ Vuoi chiuderla?"</string>
     <string name="zen_mode_feature_name">Non disturbare</string>
     <string name="zen_mode_forever">Fino allo spegnimento (se non attivato automaticamente)</string>
     <string name="zen_mode_forever_dnd">Fino alla disattivazione di Non disturbare</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">Fino alle %1$s</string>
     <string name="zen_upgrade_notification_content">"Tocca per verificare cosa è bloccato."</string>
     <string name="zen_upgrade_notification_title">La modalità Non Disturbare è stata modificata</string>

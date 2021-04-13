@@ -2,6 +2,7 @@
 <resources>
     <string name="ai_assistant">Assistente Chiamata IA</string>
     <string name="ai_assistant_not_installed">Installa prima l\'Assistente Chiamata IA</string>
+    <string name="ai_dial">Chiamata IA</string>
     <string name="ai_mode_auto">Auto</string>
     <string name="ai_mode_manual">Manuale</string>
     <string name="ai_mode_subtitles">Sottotitoli</string>
@@ -33,7 +34,7 @@
     <string name="callFailed_userBusy">Linea occupata</string>
     <string name="call_button_conference_manager_text">Gestisci</string>
     <string name="call_button_dialer_text">Tastiera</string>
-    <string name="call_button_mute_text">Muto</string>
+    <string name="call_button_mute_text">Silenzioso</string>
     <string name="call_button_tools_text">Funzioni</string>
     <string name="call_contacts_deny_permission_msg">"Hai limitato i permessi di lettura dei contatti, impossibile mostrare le informazioni del contatto."</string>
     <string name="call_description_recording">Registrazione…</string>
@@ -181,7 +182,7 @@
     <string name="onscreen_hold_text">In attesa</string>
     <string name="onscreen_merge_calls_text">Unisci chiamate</string>
     <string name="onscreen_message_text">SMS</string>
-    <string name="onscreen_mute_text">Muto</string>
+    <string name="onscreen_mute_text">Silenzioso</string>
     <string name="onscreen_note_calls_text">Nota</string>
     <string name="onscreen_swap_calls_text">Cambia</string>
     <string name="onscreen_switch_camera">Cambia</string>
@@ -189,6 +190,7 @@
     <string name="pause_prompt_no">No</string>
     <string name="pause_prompt_yes">Sì</string>
     <string name="payphone">Telefono a gettoni</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="picking_participant">Recupero informazioni di contatto…</string>
     <string name="private_num">Numero privato</string>
     <string name="prompt_no_volte_when_failed">"Il servizio VoLTE non è disponibile."</string>

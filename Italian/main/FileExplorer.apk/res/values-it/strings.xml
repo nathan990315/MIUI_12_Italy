@@ -33,6 +33,7 @@
     <string name="action_mode_select_all">Seleziona tutto</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="ad_download">Scarica</string>
+    <string name="add_one">(1)</string>
     <string name="add_private">Aggiungi file alle cartelle nascoste</string>
     <string name="add_private_files">Aggiungi file</string>
     <string name="afternoon">Pomeriggio</string>
@@ -219,6 +220,7 @@
     <string name="dialog_type_image">Immagini</string>
     <string name="dialog_type_text">Documenti</string>
     <string name="dialog_type_video">Video</string>
+    <string name="directory_info_divider">"  |  "</string>
     <string name="disk_available">Disponibile:</string>
     <string name="disk_total">Totale:</string>
     <string name="doc_all">Tutto</string>
@@ -280,6 +282,7 @@
     <string name="favorite_photo">Foto</string>
     <string name="favorite_ringtone">Suoneria</string>
     <string name="favorite_screen_cap">Screenshot</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">Lettura:</string>
     <string name="file_info_canwrite">Scrittura:</string>
     <string name="file_info_ishidden">Nascosto:</string>
@@ -623,6 +626,7 @@
     <string name="operation_show_privacy_policy">Mostra informativa sulla privacy</string>
     <string name="operation_show_sys">Mostra file di sistema e cache</string>
     <string name="operation_unfavorite">Rimuovi da Preferiti</string>
+    <string name="optional_change_wifi">Per gestire i file da remoto tramite Wi-Fi</string>
     <string name="otg_data_transfer_success">trasferimento riuscito</string>
     <string name="otg_data_transferring">"Trasferimento di file in corso... Non scollegare l'archiviazione esterna."</string>
     <string name="otg_file_security_confirm">copia sul telefono</string>
@@ -670,6 +674,8 @@
     <string name="promot_enctypt_password">Inserisci la password utilizzata per sbloccare il dispositivo o disattiva la modalità Genitore</string>
     <string name="pull_to_enter_private">Scorri verso il basso per aprire la cartella privata</string>
     <string name="pull_to_refresh">Trascina per aggiornare</string>
+    <string name="qq_msg">"A causa delle restrizioni di Android 11, Gestore File non può accedere e visualizzare i documenti di QQ."</string>
+    <string name="qq_title">"Impossibile accedere ai documenti di WeChat"</string>
     <string name="refresh_fail">Aggiornamento fallito</string>
     <string name="refresh_success">Aggiornamento completato</string>
     <string name="refreshing">Aggiornamento</string>
@@ -849,6 +855,7 @@
     <string name="transfer">Trasferimenti e download</string>
     <string name="transfer_done">File spostati con successo.</string>
     <string name="transfer_private_data">Spostamento dei file nascosti dalla scheda SD…</string>
+    <string name="transfer_summary">Download ed elementi trasferiti tramite Mi Share</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
@@ -871,10 +878,13 @@
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="view_type">Mostra</string>
+    <string name="wechat_msg">"A causa delle restrizioni di Android 11, Gestore File non può accedere e visualizzare i documenti in anteprima su WeChat. Apri e salva documenti in WeChat per farli apparire qui."</string>
+    <string name="wechat_title">"Impossibile accedere ai documenti di WeChat"</string>
     <string name="wechat_video">Video a %s</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="wifi_state">Rete Wi-Fi</string>
     <string name="year_month_day_format">dd MMM, yyyy</string>
     <string name="yes">Sì</string>
     <string name="yesterday">Ieri</string>

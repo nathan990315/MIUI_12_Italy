@@ -40,7 +40,11 @@
     <string name="customization_continue">Continua</string>
     <string name="customization_pause_tip">Fermare il test ora? Collega auricolari per continuare.</string>
     <string name="customization_quit">Esci</string>
+    <string name="dolby_atoms">Dolby Atmos</string>
+    <string name="dolby_dax_geq_select_title">Profili</string>
+    <string name="dolby_dax_geq_title">Equalizzatore grafico</string>
     <string name="dolby_dax_profile_dynamic">Dinamico</string>
+    <string name="dolby_dax_setting">Effetti Dolby</string>
     <string name="dolby_dax_title">Suono surround</string>
     <string name="end_wireless_transmission">Interrompi</string>
     <string name="eq_auto">Personalizza</string>
@@ -122,6 +126,7 @@
     <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
     <string name="music_dirac_mode_india_earphones">Cuffiette Mi</string>
     <string name="music_dirac_mode_india_earphones_basic">Auricolari Mi Basic</string>
+    <string name="music_dirac_mode_mi_dual_driver_in_ear_earphones">Mi Dual Driver Auricolari In-ear</string>
     <string name="music_dirac_mode_off">Dirac spento</string>
     <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
     <string name="music_dirac_mode_piston_100">Mi Piston</string>
@@ -131,6 +136,7 @@
     <string name="music_dirac_mode_piston_standard">Edizione Standard</string>
     <string name="music_dirac_mode_piston_typec">Cuffie Mi In-Ear (Type-C)</string>
     <string name="music_dirac_mode_piston_youth">Edizione Youth</string>
+    <string name="music_dirac_mode_redmi_earphones">Auricolari Redmi</string>
     <string name="music_dirac_mode_reduction_noise">Cuffie con cancellazione rumore Mi Type-C</string>
     <string name="music_dolby_mode_movie">Video</string>
     <string name="music_dolby_mode_music">Musica</string>
@@ -141,10 +147,12 @@
     <string name="music_headphone_settings">Imposta tipologia di cuffie</string>
     <string name="music_headset_audio_visual">Effetti visivi</string>
     <string name="music_headset_audio_visual_apply">Applica</string>
+    <string name="music_headset_audio_visual_mute">Anteprima senza suono</string>
     <string name="music_headset_audio_visual_style">Stile degli effetti visivi</string>
     <string name="music_headset_audio_visual_style_summary">Seleziona lo stile per gli effetti visivi</string>
     <string name="music_headset_audio_visual_summary">Accompagna il suono con effetti visivi visualizzati sulla schermata di blocco</string>
     <string name="music_headset_audio_visual_toast">Applicato correttamente</string>
+    <string name="music_headset_audio_visual_unmute">Anteprima con suono</string>
     <string name="music_headset_button_settings">Assegna pulsanti</string>
     <string name="music_headset_calibrate">Assegna pulsanti</string>
     <string name="music_headset_calibrate_apply">Usa</string>
@@ -197,6 +205,7 @@
     <string name="music_upper_sixty_years">Più di 60 anni</string>
     <string name="name">Nome</string>
     <string name="not_set">Non impostato</string>
+    <string name="not_support_sound_transmission_content">"Questa funzione non è supportata dal dispositivo collegato. Prova un altro dispositivo Bluetooth."</string>
     <string name="not_support_sound_transmission_prompt">Attenzione</string>
     <string name="now_here">E ora?</string>
     <string name="original_sound">Riproduci suono originale</string>
@@ -223,6 +232,7 @@
     <string name="sound_transmission_dialog_message">Assistente audio</string>
     <string name="sound_transmission_dialog_title">Attiva il Bluetooth</string>
     <string name="sound_transmission_end">Interrompi</string>
+    <string name="sound_transmission_function_generalize">"Trasmetti l'audio dal microfono del tuo telefono ad un dispositivo Bluetooth esterno"</string>
     <string name="sound_transmission_processing">Microfono</string>
     <string name="sound_transmission_prompt">Quando si utilizza un microfono wireless, il Bluetooth deve essere attivato. Attivarlo ora?</string>
     <string name="sound_transmission_scenes">Cambia scena</string>

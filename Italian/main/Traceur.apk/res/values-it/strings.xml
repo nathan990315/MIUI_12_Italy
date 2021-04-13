@@ -91,6 +91,7 @@
     <string name="battery_info_status_charging_fast">Carica rapida</string>
     <string name="battery_info_status_charging_slow">Carica lenta</string>
     <string name="battery_info_status_discharging">Non in carica</string>
+    <string name="battery_info_status_full">Piena</string>
     <string name="battery_info_status_not_charging">"Non in carica"</string>
     <string name="battery_info_status_unknown">Sconosciuto</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
@@ -548,7 +549,7 @@
     <string name="tether_settings_title_bluetooth">Tethering bluetooth</string>
     <string name="tether_settings_title_usb">Tethering USB</string>
     <string name="tether_settings_title_usb_bluetooth">Tethering</string>
-    <string name="tether_settings_title_wifi">Hotspot</string>
+    <string name="tether_settings_title_wifi">Hotspot portatile</string>
     <string name="tethering_hardware_offload">Accelerazione hardware tethering</string>
     <string name="tethering_hardware_offload_summary">Usa accelerazione hardware tethering se disponibile</string>
     <string name="tethering_settings_not_available">Impostazioni tethering non disponibili per questo utente</string>

@@ -60,4 +60,8 @@
         <item quantity="other">Caricamento… %1$d elementi rimanenti (%2$s%%)</item>
         <item quantity="one">Caricamento… %1$d elemento rimanente (%2$s%%)</item>
     </plurals>
+    <plurals name="view_all">
+        <item quantity="other">%1$d elementi</item>
+        <item quantity="one">%1$d elemento</item>
+    </plurals>
 </resources>

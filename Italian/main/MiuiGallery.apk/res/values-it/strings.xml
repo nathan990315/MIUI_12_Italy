@@ -197,6 +197,8 @@
     <string name="assistant_page_label">Assistente</string>
     <string name="assistant_page_server_error">Controlla le tue impostazioni di rete</string>
     <string name="associate_face_album">Scegli un album</string>
+    <string name="asus">Asus</string>
+    <string name="asus_phone">Asus</string>
     <string name="authorize_to_device_failed">"Impossibile autorizzare"</string>
     <string name="authorize_watch_on_tv_failed">"Impossibile autorizzare la visualizzazione sulla TV"</string>
     <string name="auto_backup_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
@@ -345,6 +347,7 @@
     <string name="card_description_annual_peoples">Visi, storie, luoghi</string>
     <string name="card_description_annual_pets">Code, zampe e baffi</string>
     <string name="card_description_annual_travel">Cose che hai visto per strada</string>
+    <string name="card_description_from_to">%1$s - %2$s</string>
     <string name="card_title_activities">Agenda</string>
     <string name="card_title_annual_babys">Il tesoro a %1$s</string>
     <string name="card_title_annual_events">Le mie feste nel %1$s</string>
@@ -359,6 +362,7 @@
     <string name="card_title_pastyear_party">Feste dell\'anno scorso</string>
     <string name="card_title_pastyear_sports">Gli allenamenti dell\'anno scorso</string>
     <string name="card_title_recent_memory">Ricordi recenti</string>
+    <string name="card_title_somewhere">%1$s</string>
     <string name="card_title_sports">Attività</string>
     <string name="card_title_three_month_baby">Il tempo vola</string>
     <string name="cast_devices_unavailable_desc">Assicurati che questo dispositivo e il proiettore siano collegati alla stessa rete Wi-Fi</string>
@@ -875,6 +879,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="face_name_edit">Modifica</string>
     <string name="face_name_input">Inserisci il nome</string>
     <string name="face_recommend">Consigliati</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">"Operazione fallita"</string>
     <string name="fail_to_pick_email">Email selezionata non valida</string>
     <string name="fail_to_sync_album">"Impossibile sincronizzare l'album con il server. Verifica la connessione di rete."</string>
@@ -884,6 +889,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
     <string name="feature_guidance_photo_effects">"Effetti foto"</string>
     <string name="feature_guidance_video_editor_smart_effects">Sono disponibili nuovi effetti</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">"Impossibile stampare questo elemento."</string>
     <string name="file_cannot_screen_throw">"Impossibile trasmettere questo elemento."</string>
     <string name="file_sending">Trasferimento file…</string>
@@ -896,7 +902,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="filter_category_nice_food">Cibo</string>
     <string name="filter_category_night_scene">Notte</string>
     <string name="filter_category_popular">Popolari</string>
-    <string name="filter_category_portrait">Verticale</string>
+    <string name="filter_category_portrait">Ritratto</string>
     <string name="filter_category_sky">Cielo</string>
     <string name="filter_category_texture">Lilt</string>
     <string name="filter_category_travel">Viaggi</string>
@@ -912,7 +918,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="filter_general_movie">Cinema</string>
     <string name="filter_general_nature">Natura</string>
     <string name="filter_general_pink">Rosa</string>
-    <string name="filter_general_portrait">Verticale</string>
+    <string name="filter_general_portrait">Ritratto</string>
     <string name="filter_general_rise">Ascesa</string>
     <string name="filter_general_softdrink">Soda</string>
     <string name="filter_general_vivid">Vivido</string>
@@ -933,10 +939,12 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="filter_movie_fengyin">Vento</string>
     <string name="filter_movie_film">Film</string>
     <string name="filter_movie_koizora">Fumetto</string>
+    <string name="filter_movie_latin">Tango</string>
     <string name="filter_movie_lost">Perso</string>
     <string name="filter_movie_mystery">Mistero</string>
     <string name="filter_movie_nordic">Nordico</string>
     <string name="filter_movie_portrait">Colore pop</string>
+    <string name="filter_movie_prosperousangle">Carmen</string>
     <string name="filter_movie_quiet">Serene</string>
     <string name="filter_movie_rome">Roma</string>
     <string name="filter_movie_summer">Estate</string>
@@ -1099,6 +1107,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Imposta</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"La galleria necessita dell'accesso a 
 %s
  per funzionare correttamente, tocca Imposta per vedere i permessi."</string>
@@ -1308,6 +1317,9 @@ per personalizzare la Galleria"</string>
     <string name="merge_album">Unisci</string>
     <string name="merge_album_title">Unisci album</string>
     <string name="messagelist_sender_self">Io</string>
+    <string name="mi_10i">Mi 10I</string>
+    <string name="mi_10t">Mi 10T</string>
+    <string name="mi_10t_lite">Mi 10T Lite</string>
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
@@ -1450,6 +1462,7 @@ per personalizzare la Galleria"</string>
     <string name="must_pick_file">Seleziona un\'immagine</string>
     <string name="name_split">, </string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
+    <string name="nearby_share">Condivisione nelle vicinanze</string>
     <string name="need_to_turn_on_network">"Connetti ad internet"</string>
     <string name="need_to_turn_on_sync">Attiva sincronizzazione con il Cloud</string>
     <string name="need_to_turn_on_sync_first">Prima attiva la sincronizzazione con Mi Cloud.</string>
@@ -1478,6 +1491,8 @@ per personalizzare la Galleria"</string>
     <string name="not_remind_any_more">"Non mostrare più"</string>
     <string name="not_set">Non impostato</string>
     <string name="notice_click_lock_orientation">Tocca per bloccare l\'orientamento</string>
+    <string name="nubia">Nubia</string>
+    <string name="nubia_phone">Nubia</string>
     <string name="ocr_abnormal">"Impossibile riconoscere il testo."</string>
     <string name="ocr_abnormal_pic_format">"Impossibile riconoscere il testo. Questo formato immagine non è supportato."</string>
     <string name="ocr_abnormal_pic_too_large">"Impossibile riconoscere il testo. Questa immagine è troppo grande."</string>
@@ -1502,7 +1517,7 @@ per personalizzare la Galleria"</string>
     <string name="onekey_auto">Auto</string>
     <string name="onekey_food">Cibo</string>
     <string name="onekey_none">Originale</string>
-    <string name="onekey_portrait">Verticale</string>
+    <string name="onekey_portrait">Ritratto</string>
     <string name="onekey_scene">Orizzontale</string>
     <string name="oneplus">OnePlus</string>
     <string name="oneplus_phone">OnePlus</string>
@@ -1594,6 +1609,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="people_mark_mode_title_no_mark_name">Seleziona una persona</string>
     <string name="people_page_label">Nome</string>
     <string name="people_page_unname">Senza nome</string>
+    <string name="percent_sign">%</string>
     <string name="permission_contacts_desc">Per assegnare i contatti alle persone sulle foto</string>
     <string name="permission_contacts_name">Contatti</string>
     <string name="permission_optional_category">可选权限</string>
@@ -1783,6 +1799,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="projection_switch_title">Passa a</string>
     <string name="projection_video_quit">Tocca per uscire</string>
     <string name="prompt_not_support_format">"Non è possibile usare questa immagine per creare una vignetta magica"</string>
+    <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
     <string name="public_url_descript">Chiunque può accedere al tuo album utilizzando questo link</string>
     <string name="publish_failed">"Pubblicazione fallita"</string>
     <string name="publish_succeeded">Album pubblicato</string>
@@ -1817,6 +1834,8 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="redmi_k20_pro">Redmi K20 Pro</string>
     <string name="redmi_k30">Redmi K30</string>
     <string name="redmi_k30_5g">Redmi K30 5G</string>
+    <string name="redmi_k30_ultra">Redmi K30 Ultra</string>
+    <string name="redmi_k30s">Redmi K30S Ultra</string>
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_6_pro">Redmi Note 6 Pro</string>
     <string name="redmi_note_7">Redmi Note 7</string>
@@ -1877,6 +1896,8 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="risk_control_deleted_message">Qualcuno ha eliminato la tua Galleria dal cloud usando un %3$s il %1$s alle %2$s. Sei stato tu?</string>
     <string name="risk_control_deleted_time">HH:mm</string>
     <string name="risk_control_deleted_title">Avviso di Sicurezza</string>
+    <string name="rog">ROG</string>
+    <string name="rog_phone">ROG</string>
     <string name="rubbish_album_move_to_other_album_success">Ora puoi vedere questi elementi in \"Altri album\".</string>
     <string name="rubbish_nomedia_manager_button_text">Gestisci gli album con file \".nomedia\"</string>
     <string name="runtime_permission_ungranted">Galleria chiusa per mancanza permessi</string>
@@ -2064,6 +2085,8 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="slim_running">Ottimizzazione…</string>
     <string name="slim_space">libera</string>
     <string name="slim_stop">Interrompi l\'ottimizzazione</string>
+    <string name="smartisan">Smartisan</string>
+    <string name="smartisan_phone">Smartisan</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
@@ -2525,6 +2548,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="vlog_filter_chunlu">Rugiada</string>
     <string name="vlog_filter_heijin">Rhodium</string>
     <string name="vlog_filter_huadeng">Lanterna</string>
+    <string name="vlog_filter_lading">Tango</string>
     <string name="vlog_filter_lanmei">Mirtilli</string>
     <string name="vlog_filter_liulan">Nebbia</string>
     <string name="vlog_filter_luoma">Roma</string>
@@ -2536,6 +2560,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="vlog_filter_qingcheng">Lime</string>
     <string name="vlog_filter_rixi">Pastello</string>
     <string name="vlog_filter_shenmi">Mistero</string>
+    <string name="vlog_filter_wangjiao">Carmen</string>
     <string name="vlog_filter_xiari">Estate</string>
     <string name="vlog_filter_xiayang">Festa d\'Estate</string>
     <string name="vlog_filter_xiehou">Incontro</string>
@@ -2621,6 +2646,8 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="xiaomi_10_lite">Mi 10 Lite</string>
     <string name="xiaomi_10_lite_5g">Mi 10 Lite 5G</string>
     <string name="xiaomi_10_pro">Mi 10 Pro</string>
+    <string name="xiaomi_10_ultra">Mi 10 Ultra</string>
+    <string name="xiaomi_11">Mi 11</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_6x">Mi 6X</string>
     <string name="xiaomi_8">Mi 8</string>
@@ -2646,9 +2673,13 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="xiaomi_note_3">Mi Note 3</string>
     <string name="xiaomi_phone">Xiaomi</string>
     <string name="xiaomi_poco_f1">POCO F1</string>
+    <string name="xiaomi_poco_m2">POCO M2</string>
     <string name="xiaomi_poco_m2_pro">POCO M2 Pro</string>
+    <string name="xiaomi_poco_x3">POCO X3</string>
     <string name="yes">Sì</string>
     <string name="yesterday">Ieri</string>
     <string name="you_are">"Sei il bambino di"</string>
     <string name="zman_title">Condivisione sicura</string>
+    <string name="zte">ZTE</string>
+    <string name="zte_phone">ZTE</string>
 </resources>

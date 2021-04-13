@@ -196,6 +196,7 @@
     <string name="advanced_mobile_settings">Impostazioni avanzate</string>
     <string name="advanced_options_title">Avanzate</string>
     <string name="advanced_settings">Impostazioni opzionali</string>
+    <string name="advanced_settings_container">impostazioni avanzate container</string>
     <string name="advanced_settings_hide">▽ Tocca per nascondere tutto</string>
     <string name="advanced_settings_show">▷ Tocca per vedere tutto</string>
     <string name="advertisements_disable">Pubblicità disattivate</string>
@@ -295,6 +296,7 @@
     <string name="battery_info_status_charging_fast">Carica rapida</string>
     <string name="battery_info_status_charging_slow">Carica lenta</string>
     <string name="battery_info_status_discharging">Non in carica</string>
+    <string name="battery_info_status_full">Piena</string>
     <string name="battery_info_status_not_charging">"Non in carica"</string>
     <string name="battery_info_status_unknown">Sconosciuto</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
@@ -713,6 +715,8 @@
     <string name="cmcc_ut_data_enable_prompt">Impossibile connettersi alla rete che utilizza VoLTE. Attiva ora la tua connessione dati.</string>
     <string name="command_error_fdn_failure">Devi disabilitare prima i NSF</string>
     <string name="config_default_data_sim">Impostazioni</string>
+    <string name="config_simUnlockUiClass">\@null</string>
+    <string name="config_simUnlockUiPackage">\@null</string>
     <string name="confirmPin2Label">Conferma il nuovo PIN2</string>
     <string name="confirmPinLabel">Conferma il nuovo PIN</string>
     <string name="confirm_enable_oem_unlock_text">ATTENZIONE: Le funzionalità di protezione del dispositivo non funzionalitàranno quando questa opzione é attiva.</string>
@@ -757,7 +761,7 @@
     <string name="data_enable_always_warn">Chiedi se utilizzare i dati mobili</string>
     <string name="data_enable_summary">Abilita accesso dati tramite rete mobile</string>
     <string name="data_enable_warning">Consentire di utilizzare sempre i dati mobili può generare costi aggiuntivi. Connettersi comunque?</string>
-    <string name="data_enabled">Statistiche traffico</string>
+    <string name="data_enabled">Dati Mobili</string>
     <string name="data_plan">Piano dati mobile</string>
     <string name="data_usage_disable_mobile">Disattivare dati mobili?</string>
     <string name="data_usage_ota">Aggiornamenti di sistema</string>
@@ -786,9 +790,11 @@
     <string name="debug_view_attributes">Abilita ispezione attribuiti di visualizzazione</string>
     <string name="default_carrier_mmi_msg_title">Messaggio Operatore</string>
     <string name="default_notification_description">Suono predefinito (%1$s)</string>
+    <string name="default_port">5060</string>
     <string name="default_preference_summary_domain_address">&lt;Non impostato&gt;</string>
     <string name="default_preference_summary_password">&lt;Non impostato&gt;</string>
     <string name="default_preference_summary_username">&lt;Non impostato&gt;</string>
+    <string name="default_transport">UDP</string>
     <string name="delete">Elimina</string>
     <string name="delete_blob_confirmation_text">Sei sicuro di voler eliminare questi dati condivisi?</string>
     <string name="delete_blob_text">Elimina dati condivisi</string>
@@ -883,9 +889,11 @@
     <string name="disabled">Disabilitato</string>
     <string name="disabled_by_admin">Disattivato dall\'amministratore</string>
     <string name="disabled_by_admin_summary_text">Controllato dall\'amministratore</string>
+    <string name="display_name">DisplayName</string>
     <string name="display_name_summary">Come il nome utente</string>
     <string name="display_name_title">Mostra nome</string>
     <string name="do_not_show_again">"Non mostrare più"</string>
+    <string name="domain_address">SipDomain</string>
     <string name="domain_address_title">Server</string>
     <string name="doneButton">Fatto</string>
     <string name="dsds_dialog_cancel">Annulla</string>
@@ -1312,7 +1320,7 @@
     <string name="mobile_advanced_ip_address_title">Indirizzo IP</string>
     <string name="mobile_advanced_nr_network_title">Tipo di rete 5G</string>
     <string name="mobile_connection_management">Gestire connessioni alla rete mobile</string>
-    <string name="mobile_data">Statistiche traffico</string>
+    <string name="mobile_data">Dati Mobili</string>
     <string name="mobile_data_activate_button">AGGIUNGI DATI</string>
     <string name="mobile_data_activate_cancel_button">ANNULLA</string>
     <string name="mobile_data_activate_diag_message">Potrebbe essere ncessario aggiungere dati con %s</string>
@@ -1326,7 +1334,7 @@
     <string name="mobile_data_always_on">Dati cellulare sempre attivi</string>
     <string name="mobile_data_always_on_summary">Mantieni i dati mobili attivi, anche quando il Wi-Fi é attivo (per un cambio di rete rapido).</string>
     <string name="mobile_data_settings_summary">Accedi ai dati usando la rete dati mobile</string>
-    <string name="mobile_data_settings_title">Statistiche traffico</string>
+    <string name="mobile_data_settings_title">Dati Mobili</string>
     <string name="mobile_data_status_no_plan_subtext">Dati mobili esauriti</string>
     <string name="mobile_data_status_roaming_turned_off_subtext">Roamiing dati disattivato</string>
     <string name="mobile_data_status_roaming_turned_on_subtext">Roaming dati attivato</string>
@@ -1520,7 +1528,7 @@
     <string name="onscreenManageCallsText">Gestisci chiamate</string>
     <string name="onscreenManageConferenceText">Gestisci conferenza</string>
     <string name="onscreenMergeCallsText">Unisci chiamate</string>
-    <string name="onscreenMuteText">Muto</string>
+    <string name="onscreenMuteText">Silenzioso</string>
     <string name="onscreenShowDialpadText">Tastierino</string>
     <string name="onscreenSwapCallsText">Cambia</string>
     <string name="onscreenVideoCallText">Videochiamata</string>
@@ -1559,6 +1567,7 @@
     <string name="overlay_display_devices_title">Simula schermi secondari</string>
     <string name="overseas_roaming_setting">Roaming dati</string>
     <string name="pane_title_emergency_dialpad">Numeri di emergenza</string>
+    <string name="password">Password</string>
     <string name="password_changed">Password modificata</string>
     <string name="password_title">Password</string>
     <string name="path_answer_state_setting_title">Applicazioni di sistema/Chiamate/Impostazioni chiamate in arrivo</string>
@@ -1650,7 +1659,9 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
     <string name="police_type_description">Polizia</string>
+    <string name="port">Porta</string>
     <string name="port_title">Numero porta</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s fino a completamento</string>
     <string name="power_discharge_by">Dovrebbe durare circa fino al %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Dovrebbe durare almeno fino a %1$s in base al tuo utilizzo (%2$s)</string>
@@ -1685,7 +1696,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="preference_telocation_summary_countrycode_on">Componi automaticamente il prefisso internazionale</string>
     <string name="preference_telocation_summary_teloc_off">Nascondi posizione contatto</string>
     <string name="preference_telocation_summary_teloc_on">Mostra posizione contatto</string>
-    <string name="preference_telocation_title">Piattaforma</string>
+    <string name="preference_telocation_title">Posizione</string>
     <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Modalità di rete preferita: CDMA/EvDo/GSM/WCDMA</string>
     <string name="preferred_network_mode_cdma_evdo_summary">Modalità di rete preferita: CDMA / EvDo</string>
     <string name="preferred_network_mode_cdma_only_summary">Modalità di rete preferita: solo CDMA</string>
@@ -1761,6 +1772,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
     <string name="private_num">Numero privato</string>
     <string name="private_num_kr">ID Chiamante limitato</string>
+    <string name="process_kernel_label">Sistema Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
     <string name="progress_dialog_exiting_ecm">Uscita dalla modalità di richiamata di emergenza</string>
@@ -1775,6 +1787,10 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="prompt_when_turnon_volte_without_lte">"Le reti LTE non sono disponibili in questo momento. Attivare VoLTE potrebbe impedirti di effettuare le chiamate normali."</string>
     <string name="proxy_address">Indirizzo Proxy</string>
     <string name="proxy_address_title">Indirizzo proxy verso l\'esterno</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_hint">proxy.esempio.com</string>
+    <string name="proxy_port_hint">8000</string>
+    <string name="proxy_url_hint">https://www.esempio.com/proxy.pac</string>
     <string name="pstn_connection_service_label">SIM implementata</string>
     <string name="pstn_phone">Chiamate via telefono cellulare</string>
     <string name="puk2_blocked">PUK2 è bloccato permanentemente.</string>
@@ -2183,7 +2199,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="tether_settings_title_bluetooth">Tethering bluetooth</string>
     <string name="tether_settings_title_usb">Tethering USB</string>
     <string name="tether_settings_title_usb_bluetooth">Tethering</string>
-    <string name="tether_settings_title_wifi">Hotspot</string>
+    <string name="tether_settings_title_wifi">Hotspot portatile</string>
     <string name="tethering_hardware_offload">Accelerazione hardware tethering</string>
     <string name="tethering_hardware_offload_summary">Usa accelerazione hardware tethering se disponibile</string>
     <string name="tethering_settings_not_available">Impostazioni tethering non disponibili per questo utente</string>
@@ -2204,6 +2220,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="time_end_minute">minuto di interruzione</string>
     <string name="time_formate_am">AM</string>
     <string name="time_formate_pm">PM</string>
+    <string name="time_interval_char">:</string>
     <string name="time_next_day"> giorno successivo </string>
     <string name="time_start">Da</string>
     <string name="time_start_hour">ora di inizio</string>
@@ -2215,6 +2232,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="traffic_mode_summary">L\'applicazione attuale ha priorità estrema sulla rete, questo potrebbe impedire l\'utilizzo della rete alle app in background</string>
     <string name="traffic_mode_switch_title">Modalità estrema</string>
     <string name="transition_animation_scale_title">Transizione scala animazione</string>
+    <string name="transport">Protocollo</string>
     <string name="transport_title">Tipo di trasporto</string>
     <string name="trigger_carrier_provisioning">Attiva provisioning operatore</string>
     <string name="tts_default_lang_summary">Imposta la lingua specifica per il testo parlato</string>

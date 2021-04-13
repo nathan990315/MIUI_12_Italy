@@ -148,6 +148,9 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
     <string name="find_device_error_unknown">Errore sconosciuto (%s).</string>
     <string name="find_device_noise_title">Suono di localizzazione dispositivo</string>
     <string name="find_device_notice">Vai su&lt;br /&gt;&lt;b&gt;&lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;per localizzare, bloccare, o ripristinare il tuo dispositivo.</string>
+    <string name="find_device_notice_sms_alert_with_common_charge_hint">"Per aggiornare lo stato della SIM e assicurarsi che tutti i servizi funzionino normalmente, un &lt;font color=#0097FF&gt;&lt;b&gt;messaggio di testo a pagamento&lt;/b&gt;&lt;/font&gt; verrà inviato dopo aver cambiato le schede SIM. Il tuo operatore ti addebiterà questo messaggio."</string>
+    <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Per aggiornare lo stato della SIM e assicurarsi che tutti i servizi funzionino normalmente, un &lt;font color=#0097FF&gt;&lt;b&gt;messaggio di testo nazionale a pagamento&lt;/b&gt;&lt;/font&gt; verrà inviato dopo aver cambiato le schede SIM. Il tuo operatore ti addebiterà questo messaggio."</string>
+    <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Per aggiornare lo stato della SIM e assicurarsi che tutti i servizi funzionino normalmente, un &lt;font color=#0097FF&gt;&lt;b&gt;messaggio internazionale a pagamento&lt;/b&gt;&lt;/font&gt; verrà inviato dopo aver cambiato le schede SIM. Il tuo operatore ti addebiterà questo messaggio."</string>
     <string name="find_device_stop_noise">Tocca OK per silenziare</string>
     <string name="find_device_storage_corrupted">Memoria Trova Dispositivo corrotta. Il tuo dispositivo adesso non è sicuro.</string>
     <string name="find_device_success_title">Trova Telefono</string>
@@ -288,6 +291,7 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
     <string name="night">Sera</string>
     <string name="noon">Mezzogiorno</string>
     <string name="not_set">Non impostato</string>
+    <string name="open_wifi_settings">Apri le impostazioni Wi-Fi</string>
     <string name="passport_checking_vcode">Controlla la password…</string>
     <string name="passport_error_empty_vcode">Inserisci il codice di verifica</string>
     <string name="passport_notification_need_unlock_again">Prova a sbloccare ancora</string>
@@ -408,6 +412,14 @@ Contatta il tuo venditore per ulteriori informazioni."</string>
     <string name="unlock_error_unknown">"Impossibile eseguire l'accesso"</string>
     <string name="unlock_error_user_name">Nome utente non valido</string>
     <string name="unlock_error_wrong_vcode">Il captcha inserito non è corretto</string>
+    <string name="unlock_help">"Connettiti alla rete.
+Inserisci una SIM funzionante e non connetterti a reti Wi-Fi non valide.
+
+Hai dimenticato la password?
+Vai su id.mi.com, seleziona \"Password dimenticata?\" e segui le istruzioni.
+
+Impossibile attivare il dispositivo?
+Vai su i.mi.com/ss e invia la domanda di sblocco dispositivo."</string>
     <string name="unlock_help_title">Suggerimento di sblocco:</string>
     <string name="unlock_number">Codice di sblocco: %s</string>
     <string name="unlock_wrong_captcha">Il captcha inserito non è corretto</string>

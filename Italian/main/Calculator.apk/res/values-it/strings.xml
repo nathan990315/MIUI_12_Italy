@@ -718,7 +718,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="tax_cal_method_fixed_salary">Metodo di calcolo tasse</string>
     <string name="tax_cal_method_format">Personale %s</string>
     <string name="tax_city_error">Inserisci la città esatta</string>
-    <string name="tax_city_located">Piattaforma</string>
+    <string name="tax_city_located">Posizione</string>
     <string name="tax_city_picker">Città</string>
     <string name="tax_credit_input_your_pretax_bonuse">Immetti il tuo bonus al lordo d\'imposta</string>
     <string name="tax_credit_monthly_salary">Salario mensile</string>
@@ -746,7 +746,7 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="tax_insurance_and_fund_detail">Dettagli assicurazione</string>
     <string name="tax_last_salary_hint">Inserisci gli introiti</string>
     <string name="tax_last_salary_number">Reddito</string>
-    <string name="tax_location">Piattaforma</string>
+    <string name="tax_location">Posizione</string>
     <string name="tax_medical">Medica</string>
     <string name="tax_param_error">Inserisci il tasso di interesse corretto</string>
     <string name="tax_payment_period">Numero di pagamenti</string>
@@ -1223,8 +1223,11 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="word_figure_unit_qian">qian</string>
     <string name="word_figure_unit_shi">shi</string>
     <string name="word_figure_zheng">Totale</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">"Connessione a Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni."</string>
     <string name="xiaomi_external_storage_unavailable">"Archivio non disponibile, verifica la scheda SD."</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s
 Size: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Nuova versione %1$s

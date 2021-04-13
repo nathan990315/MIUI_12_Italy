@@ -54,6 +54,7 @@
     <string name="apk_filter">Apk</string>
     <string name="app_downloads">%s download</string>
     <string name="app_label">Download</string>
+    <string name="app_size">%1$s</string>
     <string name="auth_activity_title">Account Xunlei</string>
     <string name="auth_fail">"Impossibile ottenere l'autorizzazione"</string>
     <string name="average_speed">Velocità media</string>
@@ -171,6 +172,8 @@
     <string name="dialog_content_limit0">Limita download</string>
     <string name="dialog_content_limit_max">Illimitato</string>
     <string name="dialog_delete_positive">Elimina</string>
+    <string name="dialog_download_dir_content" formatted="false">La cartella di destinazione predefinita per i download è stata cambiata da \"%s\" a \"%s/DLManager\".</string>
+    <string name="dialog_download_dir_title">Nuova cartella di destinazione</string>
     <string name="dialog_failed_body">Provare a scaricare questo file più tardi o rimuoverlo dalla coda?</string>
     <string name="dialog_file_already_exists">Questo file esiste già.</string>
     <string name="dialog_file_missing_body">"Impossibile trovare il file, sembra che sia stato eliminato."</string>
@@ -220,6 +223,7 @@
     <string name="download_list_title_browser">Download</string>
     <string name="download_no_application">Nessuna app supporta questo formato</string>
     <string name="download_no_application_title">"Impossibile aprire il file"</string>
+    <string name="download_num_size">%1$s | %2$s</string>
     <string name="download_paused">Download in pausa</string>
     <string name="download_pending">Download in attesa</string>
     <string name="download_queued">Aggiunto alla coda dei download</string>
@@ -273,6 +277,7 @@
     <string name="extra_ad_title">Potrebbe piacerti anche</string>
     <string name="extract_file">Decompressione file…</string>
     <string name="fastest_speed">Velocità massima</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_exist_hint">Questo file esiste già</string>
     <string name="file_picker">Scegli una località</string>
     <string name="file_size">Dimensione</string>
@@ -761,7 +766,7 @@ su tutti i tuoi dispositivi con Xunlei"</string>
     <string name="third_web_default">Ricorda questa posizione</string>
     <string name="third_web_filename_hint">Nome</string>
     <string name="third_web_filesize">Dimensione</string>
-    <string name="third_web_savepath">Piattaforma</string>
+    <string name="third_web_savepath">Posizione</string>
     <string name="third_web_title">Scarica</string>
     <string name="thunder_download_speedup">Potenziamento della velocità utilizzando Xunlei…</string>
     <string name="thursday">Giovedì</string>
@@ -853,6 +858,7 @@ Accelera i download su tutti i tuoi dispositivi."</string>
     <string name="xlunbind_sub_title">Rimuovi il tuo account Xunlei e aggiungi Mi Account</string>
     <string name="xunlei_account_has_unbind_message">Account Xunlei rimosso</string>
     <string name="xunlei_brand">Fornito da Xunlei</string>
+    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_close_tips_button">Attiva</string>
     <string name="xunlei_close_tips_content">Acceleratore download Xunlei.</string>
     <string name="xunlei_close_tips_title">Accelera i tuoi download</string>

@@ -6,14 +6,18 @@
     <string name="all_call_livetalk_remain_mins">Minuti rimanenti: %1$s nazionale or %2$s internazionale</string>
     <string name="always">Sempre</string>
     <string name="alwaysUsePrompt">Ricorda la mia scelta</string>
+    <string name="application_cannot_open_alipay_health_code">"Impossibile aprire il codice sanitario Alipay"</string>
     <string name="application_cannot_open_alipay_payment_code">"Impossibile aprire il codice di pagamento Alipay"</string>
     <string name="application_cannot_open_alipay_scanner">"Impossibile aprire lo scanner Alipay"</string>
+    <string name="application_cannot_open_weixin_health_code">"Impossibile aprire il codice sanitario WeChat"</string>
     <string name="application_cannot_open_weixin_payment_code">"Impossibile aprire il codice di pagamento WeChat"</string>
     <string name="application_cannot_open_weixin_scanner">"Impossibile aprire lo scanner WeChat"</string>
     <string name="application_not_install_content">"Sembra che l'applicazione che esegue questa azione non sia installata sul tuo dispositivo. È possibile installare quest'app o assegnare un'azione diversa a questo gesto."</string>
     <string name="apply_password_action">OK</string>
     <string name="apply_password_confirm_dlg_msg">Richiedere password per %s?</string>
     <string name="apply_password_confirm_dlg_title">Questa password verrà utilizzata per %s</string>
+    <string name="asus">Asus</string>
+    <string name="asus_phone">Asus</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Tasti a schermo disattivati, tocca due volte un tasto per uscire</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Pulsanti di navigazione abilitati</string>
     <string name="auto_disable_screenbuttons_float_text">Tocca per disattivare i tasti a schermo</string>
@@ -73,6 +77,7 @@
     <string name="copy">Copia</string>
     <string name="customer_location_judgment">Cina</string>
     <string name="cut">Taglia</string>
+    <string name="data_usage_context">Se il Wi-Fi non è attivo, il dispositivo si connetterà a una rete mobile, che potrebbe comportare costi aggiuntivi a seconda del piano tariffario. Grazie!</string>
     <string name="default_device_name">Dispositivo sconosciuto</string>
     <string name="default_name">Predefinita</string>
     <string name="description_title">Modalità silenziosa</string>
@@ -109,6 +114,8 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Non adesso</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Attiva</string>
     <string name="fp_nav_center_action_choose_dlg_title">Personalizza il tasto Home</string>
+    <string name="freeform_exchange_tip">Rilascia per aprire l\'app</string>
+    <string name="freeform_exchange_tip2">Trascina nell\'angolo per annullare</string>
     <string name="frequent_email">Email utilizzata di frequente</string>
     <string name="frequent_phrases">Frasi frequenti</string>
     <string name="functions_are_being_developed">Questa funzionalità sarà presto disponibile. Attendi!</string>
@@ -169,7 +176,10 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="miui_warning_tip_info">Si è verificato un errore con %1$s. Chiudere adesso questa app?</string>
     <string name="multi_file_name">%1$s，%2$s</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
+    <string name="nearby_share">Condivisione nelle vicinanze</string>
     <string name="notification_channel_hotspot">Notifiche Hotspot</string>
+    <string name="nubia">Nubia</string>
+    <string name="nubia_phone">Nubia</string>
     <string name="onehour">30 minuti</string>
     <string name="oneplus">OnePlus</string>
     <string name="oneplus_phone">OnePlus</string>
@@ -225,7 +235,10 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="resolver_offical_recommend">Ufficiale</string>
     <string name="resolver_other_method">Altre opzioni</string>
     <string name="resolver_recommend_options_tag">Opzioni suggerite</string>
+    <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
     <string name="resource_select">Scegli</string>
+    <string name="rog">ROG</string>
+    <string name="rog_phone">ROG</string>
     <string name="scanning_device_tips">Ricerca dispositivi nelle vicinanze… Assicurati che l\'altro dispositivo sia in modalità visibile.</string>
     <string name="screen_button_notification_text">Per attivarli premi contemporaneamente i tasti Home e Power.</string>
     <string name="screen_button_notification_title">I tasti di navigazione sono disattivati</string>
@@ -242,7 +255,9 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="security_permission_denied_text">Accesso negato</string>
     <string name="security_permission_failed_text">Errore interno, riprova più tardi</string>
     <string name="security_permission_network_failed_text">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
+    <string name="security_permission_open_wifi_settings">Apri le impostazioni Wi-Fi</string>
     <string name="security_permission_validate_warning">Grazie per aver contribuito a rendere MIUI migliore!</string>
+    <string name="security_permission_wifi_and_data_opened_text">Wi-Fi e dati mobili attivati</string>
     <string name="security_permission_xiaomi_account_missed_text">Inserisci l\'ID del tuo Mi Account</string>
     <string name="security_share_text">Protezione privacy</string>
     <string name="select">Scegli</string>
@@ -261,8 +276,12 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="sim_lock_non_ais_msg">"La tua SIM non è completamente funzionante con questo telefono perché non risponde ai termini e condizioni del tuo abbonamento. Per maggiori informazioni, contatta i centri assistenza Xiaomi o i negozio da cui hai acquistato il prodotto.\""</string>
     <string name="sim_lock_now_ais_title">SIM%1$d</string>
     <string name="slatoast">L\'utilizzo dei dati mobili per aumentare la velocità può generare costi aggiuntivi</string>
+    <string name="slavewifi">Wi-Fi a doppia banda</string>
     <string name="slavewifi_disconnect">Disconnetti</string>
+    <string name="slavewifi_notification_title">Utilizzo di Wi-Fi a doppia banda</string>
     <string name="slavewifi_settings">Tocca per modificare le impostazioni</string>
+    <string name="smartisan">Smartisan</string>
+    <string name="smartisan_phone">Smartisan</string>
     <string name="softap_notifif_summary">%d connesso</string>
     <string name="softap_notifif_title">Hotspot \"%s\" attivo</string>
     <string name="standard">Silenzia</string>
@@ -274,12 +293,13 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="status_bar_toggle_battery_saver">Risparmio energetico</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_cast">Trasmetti</string>
-    <string name="status_bar_toggle_data">Statistiche traffico</string>
+    <string name="status_bar_toggle_data">Dati Mobili</string>
     <string name="status_bar_toggle_edit">Ordinamento note</string>
     <string name="status_bar_toggle_flight_mode">Aereo</string>
     <string name="status_bar_toggle_gps">Test GPS</string>
     <string name="status_bar_toggle_lock">Blocca</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
+    <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
     <string name="status_bar_toggle_mute">Silenzia</string>
     <string name="status_bar_toggle_nfc">NFC</string>
     <string name="status_bar_toggle_paper_mode">Lettura</string>
@@ -292,7 +312,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="status_bar_toggle_torch">Torcia</string>
     <string name="status_bar_toggle_vibrate">Vibrazione</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
-    <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+    <string name="status_bar_toggle_wifi_ap">Hotspot Wi-Fi</string>
     <string name="stop_operate_camera_frequently">"Sembra che tu stia cambiando fotocamera troppe volte."</string>
     <string name="subinfo_default_name">SIM %d</string>
     <string name="sunlight_notification_content">Regola automaticamente la luminosità in ambienti luminosi</string>
@@ -314,6 +334,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="translation_query_error">"Impossibile trovare risultati"</string>
     <string name="translation_query_error_network">"Impossibile connettersi alla rete. Controlla le impostazioni e riprova."</string>
     <string name="turn_off">Disattiva</string>
+    <string name="turn_on_work_profile">attiva</string>
     <string name="twohours">1 ora</string>
     <string name="unknown_caller">Numero sconosciuto</string>
     <string name="unrecognized_manufacture">Sconosciuto</string>
@@ -351,4 +372,6 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="xspace_head">App clonate</string>
     <string name="xspace_resolver_activity_title">Seleziona app</string>
+    <string name="zte">ZTE</string>
+    <string name="zte_phone">ZTE</string>
 </resources>
