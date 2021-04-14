@@ -148,6 +148,7 @@ Invia questo codice al supervisore."</string>
     <string name="mibi_button_cancel">Annulla</string>
     <string name="mibi_button_confirm">Conferma</string>
     <string name="mibi_button_count_down_finish">OK(%1$s)</string>
+    <string name="mibi_button_count_down_reget">%1$s</string>
     <string name="mibi_button_custom_service_phone">Fatto</string>
     <string name="mibi_button_next">Successivo</string>
     <string name="mibi_button_pay">Conferma</string>
@@ -256,6 +257,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_giftcard_used">Rinnovato</string>
     <string name="mibi_giftcard_vaild_util">valido fino al %1$s</string>
     <string name="mibi_giftcard_will_expire">Scaduta il %1$s</string>
+    <string name="mibi_giftcard_with_num"><Data>&lt;font color=#FF7700&gt;&lt;xliff:g id=value&gt;%1$d&lt;/xliff:g&gt; Il coupon Mi Coin è disponibile&lt;/font&gt;</Data></string>
     <string name="mibi_header_network_error">"Impossibile collegarsi alla rete."</string>
     <string name="mibi_illegal_intent">Richiesta di intenti non valida</string>
     <string name="mibi_is_what">Cosa puoi acquistare con i Mi Credit?</string>
@@ -329,12 +331,15 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_paytool_error_msp">%1$s non riuscito</string>
     <string name="mibi_paytool_mipay">Mi Pay</string>
     <string name="mibi_paytool_msp_not_installed">Non hai installato il plugin di sicurezza mobile %1$s, installare ora?</string>
+    <string name="mibi_paytool_paypal">PayPal</string>
+    <string name="mibi_paytool_tenpay">Tenpay</string>
     <string name="mibi_paytool_wechat_return_cancel">Annullamento ritorno WeChat</string>
     <string name="mibi_paytool_weixin">WeChat</string>
     <string name="mibi_permanently_denied_perm_camera">Consenti l\'uso della fotocamera in Impostazioni per utilizzare le funzionalità.</string>
     <string name="mibi_permanently_denied_perm_send_sms">Consenti l\'invio di SMS in Impostazioni per utilizzare le funzionalità.</string>
     <string name="mibi_prepaid_card_order_info">%1$s carta di ricarica: RMB %2$s</string>
     <string name="mibi_prepaid_carriers_picker_hint">Seleziona operatore</string>
+    <string name="mibi_prepaid_dialog_content">Eventuali perdite causate dalla discrepanza tra il numero della carta, il valore nominale, la password e le informazioni effettive sono a carico dell\'utente. Controllare due volte le informazioni fornite prima di procedere.</string>
     <string name="mibi_prepaid_dialog_title">Attenzione</string>
     <string name="mibi_prepaid_edit_limit">Cifre</string>
     <string name="mibi_prepaid_error_card_length">Numero carta o password non validi.</string>
@@ -349,6 +354,7 @@ Controlla la tua data locale e riprova."</string>
     <string name="mibi_prepaid_picker_hint_2_1">2.</string>
     <string name="mibi_prepaid_picker_hint_2_2_a">"Il valore nominale selezionato deve essere coerente con quello della carta prepagata. La scelta di un altro valore invaliderà la carta. Questa azione non può essere annullata."</string>
     <string name="mibi_prepaid_picker_hint_2_2_b">Se il valore nominale della carta prepagata non lo è del &lt;font color=red&gt;￥%1$s&lt;/font&gt;, la carta verrà invalidata. Xiaomi non si riterrà responsabile per eventuali perdite monetarie che potrebbero verificarsi a seguito di un errore dell\'utente.</string>
+    <string name="mibi_prepaid_picker_hint_3_2">Inserisci il numero della carta, il valore nominale e la password. <b>Qualsiasi perdita causata dalla discrepanza tra le informazioni fornite e le informazioni effettive sarà a carico dell\'utente.</b></string>
     <string name="mibi_prepaid_picker_title_default">Seleziona ammontare</string>
     <string name="mibi_prepaid_picker_title_selected">Ammontare</string>
     <string name="mibi_privacy_license_name">Informativa sulla Privacy</string>
@@ -418,7 +424,9 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="mibi_sms_code_empty">Inserisci il codice di verifica inviato al tuo telefono.</string>
     <string name="mibi_sms_code_error">Si è verificato un errore nel codice di verifica del telefono, riprova</string>
     <string name="mibi_sms_code_hint">Immetti codice di verifica a 6 cifre</string>
+    <string name="mibi_string_with_bracket">(%s)</string>
     <string name="mibi_summary_bind_phone">Per garantire la sicurezza del tuo account, completa il pagamento dopo aver abbinato il numero di telefono.</string>
+    <string name="mibi_summary_custom_service_phone">Tel:</string>
     <string name="mibi_summary_sms_code">Immetti il codice di verifica inviato a %1$s，e quindi termina il pagamento</string>
     <string name="mibi_tianyi_create_order">SMS China Unicom</string>
     <string name="mibi_title_bind_phone">Abbina numero di telefono.</string>
@@ -570,6 +578,7 @@ Centro servizio clienti:400-100-5678"</string>
     <string name="sns_access_token_expired_warning">Sessione scaduta. Effettua nuovamente l\'accesso per ricollegare questo account.</string>
     <string name="sns_bind_limit">Troppi tentativi. Prova ad accedere in altri modi.</string>
     <string name="sns_sign_in">Altri modo per accedere</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="temporary_not_available">"Questa funzione non è ancora disponibile"</string>
     <string name="ticket_hint">Codice di verifica</string>
     <string name="ticket_invalid">Il captcha inserito non è corretto</string>

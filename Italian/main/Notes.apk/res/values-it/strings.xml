@@ -63,6 +63,7 @@
     <string name="audio_toast_file_invalid">File audio non valido</string>
     <string name="audio_toast_file_undownload">"Il file audio non è stato completamente scaricato o risulta mancante"</string>
     <string name="audio_toast_network_is_not_available">"Impossibile connettersi alla rete"</string>
+    <string name="blackboard_note">Lavagna smart</string>
     <string name="btn_next">Successivo</string>
     <string name="call_folder_name">Note di chiamata</string>
     <string name="cancel_alarm_description">Annulla sveglia</string>
@@ -163,6 +164,7 @@
     <string name="db_downgrade_clear_button">Cancella i dati app</string>
     <string name="db_downgrade_clear_date_reminder">"Il passaggio ad una versione diversa di MIUI richiede al cancellazione dei dati app per Note. Prima di procedere, assicurati di avere eseguito il backup delle note su Mi Cloud."</string>
     <string name="default_folder_name">Note</string>
+    <string name="default_update_documents">È disponibile un aggiornamento. Aggiornare?</string>
     <string name="delete_folder_dialog_tile">Elimina cartella</string>
     <string name="dialog_button_cancel">Annulla</string>
     <string name="dialog_button_close">Chiudi</string>
@@ -362,6 +364,8 @@
     <string name="image_action_save_to_gallery">Salva in Galleria</string>
     <string name="image_action_zoom_in">Aumenta zoom</string>
     <string name="image_action_zoom_out">Riduci zoom</string>
+    <string name="image_annotation_edit_hint">Descrizione immagine</string>
+    <string name="image_annotation_edit_length_warning">La descrizione dell\'immagine può contenere fino a %d caratteri</string>
     <string name="info_note_enter_desktop">Nota inserita sulla Home</string>
     <string name="last_excerpt_unfinish_hint">L\'ultimo estratto è incompleto</string>
     <string name="loading_text">Attendi…</string>
@@ -397,7 +401,9 @@
     <string name="menu_unhide">Mostra</string>
     <string name="menu_unstick">Non fissare più</string>
     <string name="merge_to_folder">Crea una cartella</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="midnight">Notte</string>
+    <string name="mind_note_first_enter_guide">Tocca per creare una mappa mentale</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -488,11 +494,14 @@
     <string name="note_link_select">Seleziona testo link</string>
     <string name="note_link_tel">Chiama</string>
     <string name="note_link_web">Naviga Internet</string>
+    <string name="note_mindnote_entrance_hint">"Inizia a digitare "</string>
+    <string name="note_mindnote_entrance_hint_newversion">"Inizia a digitare "</string>
     <string name="note_mindnote_entrance_icon_text">Crea una mappa mentale</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Crea una mappa mentale</string>
     <string name="note_sort_way">Ordinamento note</string>
     <string name="notealert_enter">Controlla</string>
     <string name="notealert_ok">Rifiuta</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">"Note è un'app di sistema. Non potrai utilizzare questa app dopo averla disinstallata."</string>
     <string name="notes_description_title">Disinstallare Note?</string>
     <string name="notification_content_add_todo_from_other_app">Hai aggiunto una nuova attività. Tocca per vederla.</string>
@@ -502,6 +511,7 @@
     <string name="option_menu_new">Crea</string>
     <string name="option_menu_rename">Rinomina</string>
     <string name="option_menu_restore_note">Ripristina</string>
+    <string name="option_menu_save_as">Salva come</string>
     <string name="pc_action_create_new_folder">Cartella</string>
     <string name="pc_action_create_new_mind_note">Mappa mentale</string>
     <string name="pc_action_create_new_normal_note">Nota</string>
@@ -542,6 +552,7 @@
     <string name="permission_read_contact_desc">Associazione delle note create durante le chiamate con i relativi contatti</string>
     <string name="permission_storage_desc">Per salvare le note come immagini</string>
     <string name="permission_storage_desc_v12">Per aggiungere immagini alle note e salvare le note come immagini</string>
+    <string name="permission_xiaoai_desc"><Data>Mi IA raccoglierà le registrazioni vocali e l\'ID del dispositivo per trascrivere audio e creare note vocali. Ulteriori informazioni sulla &lt;a href=\"%1$s\"&gt;Informativa sulla Privacy Mi IA&lt;/a&gt;.</Data></string>
     <string name="permlab_accessNote">Accedi alle note</string>
     <string name="pm">PM</string>
     <string name="pref_category_title_quick_func">Funzionalità rapide</string>
@@ -688,6 +699,7 @@
     <string name="sunday_shortest">Dom</string>
     <string name="sync_all_terms">%1$s, %2$s, e %3$s</string>
     <string name="sync_desc_state_complete">Sincronizzato con Mi Cloud</string>
+    <string name="sync_desc_state_complete_china">Tutti i %1$s sono stati sincronizzati</string>
     <string name="sync_desc_state_disable">Attiva sincronizzazione con il Cloud</string>
     <string name="sync_desc_state_running">Sincronizzato con Mi Cloud</string>
     <string name="sync_folder_todo">%1$s e %2$s</string>
@@ -798,6 +810,10 @@ Consenti di registrare audio."</string>
     <string name="todo_edit_btn_today">Oggi</string>
     <string name="todo_edit_btn_tomorrow">domani</string>
     <string name="todo_edit_text_hint">Inserisci descrizione attività</string>
+    <string name="todo_event_description_a_week_ago">%1$d settimana fa</string>
+    <string name="todo_event_description_a_week_later">Tra %1$d settimana</string>
+    <string name="todo_event_description_day_after_tomorrow">Tra %1$d giorni</string>
+    <string name="todo_event_description_day_before_yesterday">%1$d giorni fa</string>
     <string name="todo_event_description_today">Oggi</string>
     <string name="todo_event_description_tomorrow">domani</string>
     <string name="todo_event_description_yesterday">Ieri</string>
@@ -857,6 +873,7 @@ Consenti di registrare audio."</string>
     <string name="toolbar_undo_description">Annulla</string>
     <string name="toolbar_voice_description">Voce</string>
     <string name="trash_folder_name">Cestino</string>
+    <string name="trash_folder_reminder">Le note che eliminerai verranno cancellate definitivamente tra %1$d giorni.</string>
     <string name="trash_folder_reminder_new">Le note vengono conservate nel cestino per %d giorni prima di essere eliminate definitivamente</string>
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
@@ -872,6 +889,7 @@ Consenti di registrare audio."</string>
     <string name="wednesday_shortest">Mer</string>
     <string name="widget_content_loading">Attendi…</string>
     <string name="widget_havenot_content">Nessuna nota associata trovata, premere per crearne una.</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Non adesso</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>

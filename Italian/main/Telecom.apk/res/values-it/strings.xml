@@ -435,6 +435,7 @@
     <string name="notification_missedCallsMsg">%s chiamate perse</string>
     <string name="notification_missedCallsTitle">Chiamate perse</string>
     <string name="notification_missedWorkCallTitle">Chiamata lavoro persa</string>
+    <string name="number_tag_divider">" ｜ "</string>
     <string name="oem_unlock_enable">Sblocco OEM</string>
     <string name="oem_unlock_enable_summary">Permetti lo sblocco del bootloader</string>
     <string name="okay">OK</string>
@@ -464,6 +465,7 @@
     <string name="picture_color_mode_desc">Usa sRGB</string>
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s fino a completamento</string>
     <string name="power_discharge_by">Dovrebbe durare circa fino al %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Dovrebbe durare almeno fino a %1$s in base al tuo utilizzo (%2$s)</string>
@@ -492,8 +494,13 @@
     <string name="private_dns_mode_provider">DNS Hostname provider privato</string>
     <string name="private_dns_mode_provider_failure">"Connessione fallita"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
+    <string name="process_kernel_label">Sistema Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_hint">proxy.esempio.com</string>
+    <string name="proxy_port_hint">8000</string>
+    <string name="proxy_url_hint">https://www.esempio.com/proxy.pac</string>
     <string name="remaining_length_format">%1$s rimanenti</string>
     <string name="respond_via_sms_canned_response_1">"Ora non posso parlare. Che succede?"</string>
     <string name="respond_via_sms_canned_response_2">"Richiamo io al più presto"</string>
@@ -568,10 +575,13 @@
     <string name="tap_to_renew_subscription_and_connect">Tocca per rinnovare l\'abbonamento e connetterti</string>
     <string name="tap_to_sign_up">Tocca per iscriverti</string>
     <string name="telecommAppLabel">Telefono</string>
+    <string name="test_account_0_label">Q Mobile</string>
     <string name="test_account_0_short_description">Account con Q Mobile</string>
+    <string name="test_account_1_label">Market Wireless</string>
     <string name="test_account_1_short_description">Account con Market Wireless</string>
     <string name="test_account_2_label">Sonoma Circles Talk Plus</string>
     <string name="test_account_2_short_description">Parla con tutti della vostra Cerchia</string>
+    <string name="test_account_3_label">Bay Voice Chat Pro</string>
     <string name="test_account_3_short_description">Chatta con gli utenti di Chat Network</string>
     <string name="tether_settings_title_all">Tethering e hotspot</string>
     <string name="tether_settings_title_bluetooth">Tethering bluetooth</string>
@@ -688,6 +698,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_disabled_generic">Disabilitato</string>
     <string name="wifi_disabled_network_failure">Configurazione IP fallita</string>
     <string name="wifi_disabled_password_failure">Problema di autenticazione</string>
+    <string name="wifi_disabled_wifi_failure">Errore Connessione Wi-Fi</string>
     <string name="wifi_disconnected">Disconnesso</string>
     <string name="wifi_display_certification">Certificazione schermo wireless</string>
     <string name="wifi_display_certification_summary">Mostra opzioni per certificazione schermo wireless</string>

@@ -136,6 +136,7 @@
     <string name="app_agenda_need_install_alipay">Installa Alipay prima di usare questa funzione.</string>
     <string name="app_assist_sleep_music_size"> (%1$s)</string>
     <string name="app_assist_sleep_notifycation_content">Assistente App sta riproducendo %s…</string>
+    <string name="app_assist_sleep_notifycation_description">Notifiche durante la riproduzione musica notturna</string>
     <string name="app_assist_sleep_notifycation_name">Sonno salutare</string>
     <string name="app_assist_sleep_notifycation_title">Assistente App</string>
     <string name="app_assist_sleep_redownload_dialog_cancel">Annulla</string>
@@ -146,8 +147,12 @@
     <string name="app_auth_router_dialog_loading">Aggiungi account…</string>
     <string name="app_auth_setting_bind">Aggiungi</string>
     <string name="app_auth_setting_bind_fail">"Impossibile aggiungere l'account"</string>
+    <string name="app_auth_setting_bind_fail_uninstall">"Impossibile aggiungere l'account. Installa prima %s."</string>
+    <string name="app_auth_setting_bind_success_title">Account corrente %s</string>
     <string name="app_auth_setting_bind_summry">Mi Account: %s</string>
+    <string name="app_auth_setting_bind_title">Aggiungi %s account</string>
     <string name="app_auth_setting_login">Accedi</string>
+    <string name="app_auth_setting_login_summry">Accedi e aggiungi il tuo account Alipay per poter utilizzare i servizi popolari</string>
     <string name="app_auth_setting_login_title">Firma richiesta</string>
     <string name="app_auth_setting_unbind">Rimuovi</string>
     <string name="app_auth_setting_unbind_dialog_positive">Rimuovi</string>
@@ -273,11 +278,13 @@
     <string name="app_health_card_completion">Avanzamento</string>
     <string name="app_health_card_energy">Calorie</string>
     <string name="app_health_card_step">Passi</string>
+    <string name="app_health_setting_music_name_fire">Fornello</string>
     <string name="app_health_setting_music_name_forest">Foresta</string>
     <string name="app_health_setting_music_name_night">Notte estiva</string>
     <string name="app_health_setting_music_name_ocean">Spiaggia</string>
     <string name="app_health_setting_music_name_rain">Pioggerella</string>
     <string name="app_health_setting_text_default_duration">Durata</string>
+    <string name="app_health_setting_text_download_alert_message">"Sembra che tu non sia connesso al Wi-Fi. Utilizzare %1$s di dati mobili per scaricare elementi?"</string>
     <string name="app_health_setting_text_sleep_aid_settings">Sonno</string>
     <string name="app_health_setting_text_title">Salute</string>
     <string name="app_health_setting_value_default_duration">10</string>
@@ -311,6 +318,8 @@
     <string name="app_pa_search">Cerca</string>
     <string name="app_pa_setting_bugreport">Segnalazione</string>
     <string name="app_pa_setting_global_display">Schermo</string>
+    <string name="app_pa_setting_global_display_backdrop_blur_option">Sfocatura schede</string>
+    <string name="app_pa_setting_global_display_backdrop_blur_summary">Applica la sfocatura allo sfondo delle schede. Questa funzione potrebbe rallentare lo scorrimento.</string>
     <string name="app_pa_setting_global_display_blur_option">Sfoca sfondo</string>
     <string name="app_pa_setting_global_display_blur_summary">Sfocando lo sfondo lo scorrimento potrebbe essere rallentato</string>
     <string name="app_pa_setting_head_bg_img">Sfondo</string>
@@ -329,6 +338,8 @@
     <string name="app_pa_setting_private_policy">Informativa sulla Privacy</string>
     <string name="app_pa_setting_service_commute">Commuta</string>
     <string name="app_pa_setting_service_commute_summary">Per la costruzione di rotte di navigazione e la fornitura di servizi di Car Sharing</string>
+    <string name="app_pa_setting_service_covid">Info COVID-19</string>
+    <string name="app_pa_setting_service_covid_summry">Visualizza le ultime informazioni relative a COVID-19</string>
     <string name="app_pa_setting_service_forecast">Suggerimenti smart</string>
     <string name="app_pa_setting_service_forecast_summary">"Ricevi consigli di app e funzioni che più probabilmente utilizzerai"</string>
     <string name="app_pa_setting_service_management">Gestisci servizi</string>
@@ -366,12 +377,17 @@
     <string name="app_pa_setting_service_surrounding_summary">Scopri luoghi interessanti nelle vicinanze</string>
     <string name="app_pa_setting_service_timetable">Pianifica lezione</string>
     <string name="app_pa_setting_service_timetable_summary">Tocca per pianificare le lezioni</string>
+    <string name="app_pa_setting_service_wufu">"Le Cinque Benedizioni di Alipay"</string>
+    <string name="app_pa_setting_service_wufu_summry">Raccogli le tue benedizioni utilizzando lo scanner AR</string>
     <string name="app_pa_setting_title">Impostazioni</string>
     <string name="app_pa_setting_version">Versione: %1$s</string>
     <string name="app_paycode_parent">Alipay</string>
     <string name="app_screen_time_auth">Schermo attivo</string>
+    <string name="app_screen_time_no_time_title">Meno di 1 min</string>
+    <string name="app_screen_time_support_false">"Questo servizio non è supportato"</string>
     <string name="app_screen_time_time">%1$do %2$dm</string>
     <string name="app_screen_time_time_minute">%1$d m</string>
+    <string name="app_screen_time_title">"Tempo schermo acceso: "</string>
     <string name="app_setting">Impostazioni Assistente App</string>
     <string name="app_setting_account">Account</string>
     <string name="app_setting_account_binding">Aggiungi</string>
@@ -410,6 +426,7 @@
     <string name="app_sports_action_live">Live</string>
     <string name="app_sports_action_preview">Anteprima</string>
     <string name="app_sports_action_review">Replay</string>
+    <string name="app_sports_all_club">Squadre</string>
     <string name="app_sports_all_match">Tutti gli eventi</string>
     <string name="app_sports_card_settings">Impostazioni</string>
     <string name="app_sports_dialog_title_fav_league">Seleziona campionato</string>
@@ -892,6 +909,7 @@ Si prega di inviare questo codice al tecnico."</string>
     <string name="express_company_phone_prefix">"Contatto: "</string>
     <string name="express_company_pricing_details">Dettagli prezzo</string>
     <string name="express_complete">Accettato</string>
+    <string name="express_complete_flag">3</string>
     <string name="express_contact_address">Imposta indirizzo</string>
     <string name="express_contact_address_finding">Localizzazione…</string>
     <string name="express_contact_label">Informazioni servizio di ritiro</string>
@@ -902,6 +920,7 @@ Si prega di inviare questo codice al tecnico."</string>
     <string name="express_copy_number">Copia</string>
     <string name="express_delete_order">Elimina</string>
     <string name="express_delivery">In consegna</string>
+    <string name="express_delivery_flag">5</string>
     <string name="express_dest_city_label">Destinazione</string>
     <string name="express_detail_order_number_prefix">Numero: %s</string>
     <string name="express_detailed_address">Indirizzo</string>
@@ -911,6 +930,7 @@ Si prega di inviare questo codice al tecnico."</string>
     <string name="express_i_known">Fatto</string>
     <string name="express_icon_tip">Ottieni info sulla consegna veloce utilizzando il tuo numero di telefono e le info dell\'ordine.</string>
     <string name="express_icon_tip_link">Sicurezza e privacy</string>
+    <string name="express_info_divider">" / "</string>
     <string name="express_inqiury_select_logistics">Servizio corriere</string>
     <string name="express_inquiry">Tracciamento</string>
     <string name="express_inquiry_all_logistics">Tutto</string>
@@ -961,6 +981,7 @@ Verifica il tuo numero di tracciabilità"</string>
     <string name="express_order_failed">设置失败</string>
     <string name="express_order_ongoing">In elaborazione…</string>
     <string name="express_order_result">Risultato</string>
+    <string name="express_order_state">%1$s / %2$s</string>
     <string name="express_order_state_accepted">Accettato</string>
     <string name="express_order_state_allograph">Firmato</string>
     <string name="express_order_state_cancelled">Annullato</string>
@@ -1268,6 +1289,8 @@ Verifica il tuo numero di tracciabilità"</string>
     <string name="item_type_suggestion">Suggerimenti</string>
     <string name="just_now">Un momento fa</string>
     <string name="kakalib_ok">Determina</string>
+    <string name="keyboard_more_abc">\#+=</string>
+    <string name="keyboard_more_num">123</string>
     <string name="launch_app">Consigli app</string>
     <string name="launch_change_order">Cambia ordine</string>
     <string name="launch_else">Altro</string>
@@ -1363,6 +1386,7 @@ Verifica il tuo numero di tracciabilità"</string>
     <string name="migu_video">Video</string>
     <string name="mini_back">Indietro</string>
     <string name="mini_open_bluetooth">Attiva</string>
+    <string name="mini_str_null">xx</string>
     <string name="miot_abnormal_device">Dispositivi con errori</string>
     <string name="miot_auth_btn">Sincronizza</string>
     <string name="miot_auth_content">Usa Assistente App per controllare i tuoi dispositivi smart home</string>
@@ -1601,11 +1625,13 @@ Verifica il tuo numero di tracciabilità"</string>
     <string name="passenger_name_example">Es. Debbie Smith</string>
     <string name="passport_oauth_actionbar_title">Account</string>
     <string name="passport_oauth_sucess_tip">Autorizzato con successo</string>
+    <string name="password_toggle_content_description">Mostra/Nascondi password</string>
     <string name="pay_card_pack">Mi Pay</string>
     <string name="paycode_parent">Alipay</string>
     <string name="paycode_sdk_parent">Collegamento pagamento (nessuna app richiesta)</string>
     <string name="paycode_sdk_parent_title">Collegamento pagamento</string>
     <string name="payment">I miei pagamenti</string>
+    <string name="payment_amount_empty">0.00</string>
     <string name="payment_app_name">I miei pagamenti</string>
     <string name="payment_card_title">I miei pagamenti</string>
     <string name="payment_clear_records_dialog_message">Eliminare tutte le registrazioni dei pagamenti?</string>
@@ -1671,6 +1697,7 @@ Verifica il tuo numero di tracciabilità"</string>
     <string name="pie_chart_label_catering">Cibo:</string>
     <string name="pie_chart_label_education">Educazione:</string>
     <string name="pie_chart_label_entertainment">Intrattenimento:</string>
+    <string name="pie_chart_label_format">%1$s %2$s%%</string>
     <string name="pie_chart_label_go_dutch">Paga alla Romana:</string>
     <string name="pie_chart_label_life">Vita:</string>
     <string name="pie_chart_label_medical">Stato di salute:</string>
@@ -1679,6 +1706,7 @@ Verifica il tuo numero di tracciabilità"</string>
     <string name="pie_chart_label_remain">Rimanente:</string>
     <string name="pie_chart_label_remittance">Trasferito:</string>
     <string name="pie_chart_label_shopping">Acquisti:</string>
+    <string name="pie_chart_label_special">%1$s &lt;0.01%%</string>
     <string name="pie_chart_label_spending">Pagamenti:</string>
     <string name="pie_chart_label_telephone_charge">Comunicazioni:</string>
     <string name="pie_chart_label_tenement">Affitto:</string>
@@ -1738,6 +1766,7 @@ Verifica il tuo numero di tracciabilità"</string>
     <string name="search_category_video">Video</string>
     <string name="search_change_header">Sostituisci immagine di copertina</string>
     <string name="search_clear_header">Rimuovi immagine di copertina</string>
+    <string name="search_header_dialog_title">Modifica sfondo</string>
     <string name="search_hint">Cerca nei preferiti</string>
     <string name="search_label">Ricerca…</string>
     <string name="search_menu_title">Cerca</string>
@@ -1855,6 +1884,7 @@ Verifica il tuo numero di tracciabilità"</string>
     <string name="shopping_setting_jingdong">JD</string>
     <string name="shopping_setting_mishop">Mi Store</string>
     <string name="shopping_setting_notification">Notifica i nuovi elementi</string>
+    <string name="shopping_setting_pinduoduo">Pinduoduo</string>
     <string name="shopping_setting_remove">Dopo aver revocato l\'autorizzazione, l\'Assistente App smetterà di raccogliere le informazioni sui tuoi acquisti e la Shopping card verrà rimossa. Revocare comunque?</string>
     <string name="shopping_setting_taobao">Taobao</string>
     <string name="shopping_setting_tmall">Tmall</string>
@@ -1914,6 +1944,7 @@ Verifica il tuo numero di tracciabilità"</string>
     <string name="sport">Sport</string>
     <string name="sport_headline">"Attività di oggi"</string>
     <string name="sport_open">Mostra scheda Mi Fit</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_cal_unit">Cal.</string>
     <string name="step_km">Km</string>
     <string name="step_setting_tip">Origine informazioni passi</string>
@@ -1934,6 +1965,7 @@ Verifica il tuo numero di tracciabilità"</string>
     <string name="steps_vip_des">Conta i passi senza installare applicazioni di terze parti.</string>
     <string name="stock_card_add">Aggiungi società</string>
     <string name="stock_card_title">Titoli</string>
+    <string name="stock_change_rate_format">%.2f%%</string>
     <string name="stock_color_schema">Schema colore</string>
     <string name="stock_delisting">(Delistato)</string>
     <string name="stock_list_empty_text">"Non stai seguendo alcuna compagnia."</string>

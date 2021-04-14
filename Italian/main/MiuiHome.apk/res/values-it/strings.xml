@@ -69,6 +69,8 @@
     <string name="all_app_category_tools">Utilità</string>
     <string name="all_app_category_work">Lavoro</string>
     <string name="all_apps">Tutte le applicazioni</string>
+    <string name="all_apps_install_contentcenter_msg">Sembra che il Centro Contenuti sia stato disinstallato. Installarlo di nuovo?</string>
+    <string name="all_apps_install_contentcenter_title">Installa Centro Contenuti</string>
     <string name="all_apps_no_search_results">"Impossibile trovare risultati"</string>
     <string name="all_apps_search_app">Cerca app</string>
     <string name="all_apps_search_market_message">Cerca online</string>
@@ -333,6 +335,7 @@
     <string name="home_screen">Schermata Home</string>
     <string name="home_slide_up_action">Scorri in alto sulla Home</string>
     <string name="home_switch_personal_assistant">Schermata AppVault</string>
+    <string name="icon_customize_summary">Seleziona lo stile e regola la dimensione</string>
     <string name="icon_form">Icone</string>
     <string name="icon_reorganize_channel">Organizza icone</string>
     <string name="icon_size">Dimensione icone</string>
@@ -343,6 +346,7 @@
     <string name="is_setting_wallpaper_message">Applico lo sfondo…</string>
     <string name="is_system_wallpaper_message">"Impossibile eliminare risorse di sistema"</string>
     <string name="key_shortcut_settings_title">Collegamenti pulsanti</string>
+    <string name="launcher_icon_management">Gestisci collegamenti nella schermata Home</string>
     <string name="launcher_not_exist">La Home si è bloccata, torna indietro e prova di nuovo.</string>
     <string name="launcher_pull_down_title">Scorri in basso sulla Home</string>
     <string name="launcher_search_bar_provider_title">Provider della barra di ricerca</string>
@@ -534,7 +538,10 @@
     <string name="recommend_refresh">Aggiorna</string>
     <string name="recommend_xout">"Non mostrare"</string>
     <string name="remove_dialog_message">Le applicazioni selezionate contengono funzionalità di sistema essenziali. Puoi rimuovere solo i collegamenti della schermata iniziale.</string>
+    <string name="remove_dialog_title_format">Rimuovere \"%s\" dalla schermata Home?</string>
     <string name="remove_invalidate_gadget_tips">Uno dei widget che usi non è più disponibile. È possibile aggiungerne un altro.</string>
+    <string name="remove_sys_app_content">"Sarai in grado di aggiungere di nuovo il collegamento nella schermata Home in Impostazioni &gt; Applicazioni &gt; Gestisci collegamenti schermata Home. Rimuoverlo ora?"</string>
+    <string name="remove_sys_app_title">Rimuovere il collegamento della schermata Home?</string>
     <string name="reset_cate_tip_content">Se continui, i gruppi di default delle app verranno ripristinati. Continuare?</string>
     <string name="reset_cate_tip_title">Ripristina gruppi predefiniti</string>
     <string name="reset_description_first_time">Puoi ripristinare la disposizione da %1$s in 2 ore</string>
@@ -545,6 +552,7 @@
     <string name="resource_canary_leak_tip">C\'è una perdita!</string>
     <string name="resource_canary_wait_for_heapdump_message">Snapshot heap di dump...</string>
     <string name="restore_icon_successful">Aggiunto con successo</string>
+    <string name="russia_preinstall_folder_name">Russia</string>
     <string name="screen_cells_config_title">Layout schermata Home</string>
     <string name="screen_locked_toast">La modifica della schermata home è bloccata</string>
     <string name="screen_number">Schermata n° %d</string>
@@ -582,6 +590,7 @@
     <string name="sort_by_not_defined">Ordina automaticamente</string>
     <string name="start_activity_failed">"Avvio non riuscito, riprova"</string>
     <string name="starting_preset_app">Preparazione</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s di %2$s disponibili</string>
     <string name="status_bar_recent_memory_mega">%1$s MB</string>

@@ -531,6 +531,8 @@
     <string name="reg_error_server">Errore interno del server, contattaci e riprova più tardi</string>
     <string name="reg_error_upload_audio">"Impossibile caricare audio, riprova più tardi"</string>
     <string name="reg_error_upload_order">"Impossibile caricare ordine, riprova più tardi"</string>
+    <string name="remove_icon_description_content">"Registratore è un'app di sistema. Non sarai in grado di gestire le registrazioni dopo aver rimosso il collegamento della schermata Home."</string>
+    <string name="remove_icon_description_title">Rimuovere \"Registratore\" dalla schermata Home?</string>
     <string name="rename">Rinomina</string>
     <string name="rename_dialog_title">Rinomina questa registrazione</string>
     <string name="rename_duplicate">Nome già presente, inserire di nuovo:</string>
@@ -542,6 +544,7 @@
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
+    <string name="save_as">Salva come</string>
     <string name="save_record_dialog_title">Salva registrazione</string>
     <string name="search_app">Registratore</string>
     <string name="search_empty">"Impossibile trovare risultati"</string>
@@ -697,6 +700,7 @@
     <string name="wednesday_shortest">Mer</string>
     <string name="wifi_recommended_body" formatted="false">L\'utilizzo della rete dati cellulare per il download di questo file (%s) aumenterà il consumo dei dati. Se superi il limite previsto dal piano del tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il download di questo file tocca %s.</string>
     <string name="wifi_recommended_title">Avviso utilizzo dati</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Non adesso</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>

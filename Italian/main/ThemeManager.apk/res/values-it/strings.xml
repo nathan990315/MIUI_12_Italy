@@ -122,6 +122,8 @@
     <string name="both_all_apply_success">Sfondo applicato</string>
     <string name="browser_local_resource">Risorse locali</string>
     <string name="can_not_apply">Impossibile installare</string>
+    <string name="can_not_apply_error">"Il formato video non è supportato"</string>
+    <string name="can_not_apply_size_invalid">Il video è troppo grande</string>
     <string name="cancel_download">Download annullato</string>
     <string name="card_data_request_error">Si è verificato un errore. Aspetta un minuto o due e riprova.</string>
     <string name="card_loading">Attendi…</string>
@@ -369,7 +371,9 @@
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -449,10 +453,13 @@
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="font_compat_dialog_buy_confirm">Acquista</string>
+    <string name="font_compat_dialog_buy_content">I caratteri di terze parti potrebbero non essere supportati da alcune applicazioni. Questo problema di compatibilità sarà risolto da un prossimo aggiornamento di sistema. Acquistare comunque questo carattere?</string>
     <string name="font_compat_dialog_cancel">Annulla</string>
     <string name="font_compat_dialog_download_confirm">Scarica</string>
+    <string name="font_compat_dialog_download_content">I caratteri di terze parti potrebbero non essere supportati da alcune applicazioni. Questo problema di compatibilità sarà risolto da un prossimo aggiornamento di sistema. Scaricare comunque questo carattere?</string>
     <string name="font_compat_dialog_title">Problemi di compatibilità</string>
     <string name="font_compat_dialog_trial_confirm">Prova</string>
+    <string name="font_compat_dialog_trial_content">I caratteri di terze parti potrebbero non essere supportati da alcune applicazioni. Questo problema di compatibilità sarà risolto da un prossimo aggiornamento di sistema. Provare comunque questo carattere?</string>
     <string name="font_trial_end_purchase">Compra carattere</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Applica prima gli sfondi trasparenti nel primo spazio.</string>
     <string name="forbid_video_wallpaper_by_second_space">Applica prima gli sfondi dinamici nel primo spazio.</string>
@@ -521,6 +528,7 @@ Per disattivare questa funzione, vai in Impostazioni &gt; Suoni e Vibrazione &gt
     <string name="incompatible_dialog_title">Problemi di compatibilità</string>
     <string name="install_failed">"Impossibile installare"</string>
     <string name="is_setting_wallpaper_message">Applico lo sfondo…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Sveglie</string>
     <string name="item_resource_audio_optional_color_ring">colore</string>
     <string name="item_resource_audio_optional_notification_ring">Notifiche</string>
@@ -743,6 +751,7 @@ mm"</string>
     <string name="ota_recovery_theme_notity_title">Ripristina il tuo tema</string>
     <string name="password_toggle_content_description">Mostra password</string>
     <string name="personalize_alarm_ringtone_title">Sveglie</string>
+    <string name="personalize_aod_title">AOD</string>
     <string name="personalize_call_ringtone_title">Suoneria</string>
     <string name="personalize_charge_style_title">Ricarica</string>
     <string name="personalize_default_font">Carattere predefinito</string>
@@ -862,6 +871,7 @@ mm"</string>
     <string name="resource_detail_recommend_desiner_other_themes">Altri temi realizzati da %1$s</string>
     <string name="resource_detail_recommend_other_themes">Ad altri utenti piace anche</string>
     <string name="resource_detail_update_log_title">Aggiornamenti</string>
+    <string name="resource_detail_vertical_divider">|</string>
     <string name="resource_detail_window_title">%1$s dettagli</string>
     <string name="resource_download">Scarica</string>
     <string name="resource_download_notification_title_one">%1$s Scaricato</string>
@@ -925,6 +935,7 @@ mm"</string>
     <string name="resource_pack_price_info">%1$s Originale</string>
     <string name="resource_pack_warning">"Hai già acquistato %1$d oggetti, il prezzo attuale non è più valido per gli oggetti rimanenti, acquistali individualmente."</string>
     <string name="resource_present">Regala</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratis</string>
     <string name="resource_price_unit"> Mi Credit</string>
     <string name="resource_purchase_common_error">Operazione fallita. Prova di nuovo.</string>
@@ -939,6 +950,10 @@ mm"</string>
     <string name="resource_restore">Ripristina</string>
     <string name="resource_restore_fail">"Impossibile ripristinare"</string>
     <string name="resource_restore_succ">Ripristino completato</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">1</string>
+    <string name="resource_ring_ranking_list_rank_2">2</string>
+    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Suoneria</string>
     <string name="resource_ringtone_playing_error">Errore</string>
     <string name="resource_ringtone_volume_mute">La suoneria è silenziata</string>
@@ -1001,11 +1016,14 @@ mm"</string>
     <string name="resource_wallpaper_download">Scarica sfondo</string>
     <string name="restore_home_icon_text">Aggiungi collegamento sulla Home</string>
     <string name="restore_icon_later">È possibile aggiungere nuovamente il collegamento sulla schermata Home nelle impostazioni</string>
+    <string name="ringtone_confirm_dialog_message">"La durata di questa suoneria è relativamente lunga. Usarla comunque?"</string>
     <string name="ringtone_confirm_dialog_title">Attenzione</string>
     <string name="ringtone_set_success">Impostato correttamente!</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">S</string>
+    <string name="scrollable_wallpaper_close">Scorrimento disattivato</string>
+    <string name="scrollable_wallpaper_open">Scorrimento attivato</string>
     <string name="sdcard_not_mounted_dialog_message">"Inserisci una scheda SD adesso
 	 "</string>
     <string name="sdcard_not_mounted_dialog_title">Scheda SD non trovata</string>
@@ -1025,8 +1043,10 @@ mm"</string>
     <string name="server_internal_error">Si è verificato un errore del server. Aspetta un minuto o due e prova di nuovo.</string>
     <string name="service_btn_text_know">Ok</string>
     <string name="service_btn_text_try">Prova</string>
+    <string name="set_as_colorring">Imposta come suoneria</string>
     <string name="set_color_ring_back_tone">Imposta colore tono di risposta</string>
     <string name="set_home_wallpaper_failed">"%s. Impossibile installare lo sfondo della Home."</string>
+    <string name="set_wallpaper_group_success">Sfondo \"%1$s\" applicato</string>
     <string name="setting_font_online">Caratteri Online</string>
     <string name="settings">Impostazioni</string>
     <string name="settings_search_keyword_font_free">Caratteri gratuiti</string>
@@ -1092,12 +1112,14 @@ mm"</string>
     <string name="solar_term_white_dews">Rugiada bianca</string>
     <string name="solar_term_winter_begins">Inizio dell\'inverno</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">S</string>
     <string name="super_wallpaper">Super Sfondi</string>
     <string name="super_wallpaper_download_progress">%1$d%%</string>
+    <string name="super_wallpaper_list_footer_text">Rimani sintonizzato per le nostre novità!</string>
     <string name="super_wallpaper_list_label">Super Sfondi</string>
     <string name="super_wallpaper_setting_apply_success_toast">Applicato correttamente</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Applica</string>
@@ -1120,6 +1142,7 @@ mm"</string>
     <string name="system_precust">Sfondi di sistema</string>
     <string name="tag_ad">AD</string>
     <string name="task_already_exist">Questa attività esiste già</string>
+    <string name="ten_thousand_unit">10K</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
     <string name="the_arbor_day">Giorno dei mestieri</string>
@@ -1176,12 +1199,14 @@ mm"</string>
     <string name="theme_bug_report">Segnalazione</string>
     <string name="theme_changing_dialog_title">"Installazione nuovo tema, attendere…"</string>
     <string name="theme_comment_detail_no_more">"E' tutto per ora"</string>
+    <string name="theme_comment_detail_sub_comment_title">Tutti i commenti</string>
     <string name="theme_comment_detail_title">Dettagli</string>
     <string name="theme_comment_dialog_cancel">Non adesso</string>
     <string name="theme_comment_dialog_message">"Ti piace il tema che stai usando ora? Grazie per il feedback!"</string>
     <string name="theme_comment_dialog_ok">Recensione</string>
     <string name="theme_comment_sub_comment_bar_hint">Condividi le tue idee con la  community</string>
     <string name="theme_community">Community</string>
+    <string name="theme_component_aod">AOD</string>
     <string name="theme_component_icon">Icone</string>
     <string name="theme_component_title_alarm">Sveglia</string>
     <string name="theme_component_title_alarmstyle">Stili sveglia</string>
@@ -1229,6 +1254,7 @@ mm"</string>
     <string name="theme_is_external_priority_storage">Salva su scheda SD</string>
     <string name="theme_is_external_priority_storage_summary">L\'applicazione Temi verrà riavviata per applicare le modifiche</string>
     <string name="theme_multiple_button_title_customize">Impostazioni schede</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">No</string>
     <string name="theme_not_include_module_desc">"Questo tema non contiene i seguenti elementi: %s"</string>
     <string name="theme_on_the_phone_alert">"Impossibile riprodurre durante le telefonate"</string>
@@ -1327,6 +1353,7 @@ mm"</string>
     <string name="use_hint">Attenzione</string>
     <string name="using_theme_has_update_tips">Un aggiornamento per questo tema è disponibile.</string>
     <string name="using_theme_next_automatic_update">Aggiornamenti automatici</string>
+    <string name="using_theme_next_automatic_update_summary">Aggiorna i temi scaricati utilizzando il Wi-Fi quando il dispositivo è bloccato</string>
     <string name="using_theme_show_ad">Consigliati</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
@@ -1341,6 +1368,7 @@ mm"</string>
     <string name="video_data_tips_title">Avviso utilizzo dati</string>
     <string name="video_silence_apply_success">Configurazione video senza suono riuscita</string>
     <string name="video_wallpaper_import">Tocca per aggiungere elementi</string>
+    <string name="vip_level_dialog_positive">Capito</string>
     <string name="vip_level_dialog_title">Suggerimenti</string>
     <string name="wallpaper_24h">24H</string>
     <string name="wallpaper_apply">Applica</string>
@@ -1386,6 +1414,7 @@ mm"</string>
     <string name="wallpaper_set_as_lockscreen">Imposta su Schermata di blocco</string>
     <string name="wallpaper_set_as_loop_extra_msg">Tutti stanno usando</string>
     <string name="wallpaper_setting_all">Tutti gli sfondi</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">AOD</string>
     <string name="wallpaper_setting_find_more_text">Altri sfondi online</string>
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Schermata Home</string>
     <string name="wallpaper_setting_library">Raccolta</string>

@@ -108,6 +108,10 @@
         <item quantity="other">Disinstalla %d app</item>
         <item quantity="one">Disinstalla %d app</item>
     </plurals>
+    <plurals name="app_manager_updater_notify_title">
+        <item quantity="other">Aggiornamenti per %d app disponibili</item>
+        <item quantity="one">Aggiornamento per %d app disponibile</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Non utilizzata da %d giorni</item>
         <item quantity="one">Non utilizzata da %d giorno</item>
@@ -143,6 +147,10 @@
     <plurals name="cache_check_content">
         <item quantity="other">Protezione di %d app</item>
         <item quantity="one">Protezione di %d app</item>
+    </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data&gt;Puoi disinstallare &lt;font color=#F22424&gt;%d&lt;/font&gt; app&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Puoi disinstallare &lt;font color=#F22424&gt;%d&lt;/font&gt; app&lt;/Data&gt;</item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"Hai già utilizzato %s limiti dati giornalieri.
@@ -236,6 +244,38 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Registrato %d giorni di seguito</item>
         <item quantity="one">Registrato %d volta</item>
     </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="one">"Prova a cambiare voce ora
+per ottenere una prova gratuita di %d giorno!"</item>
+        <item quantity="other">"Prova a cambiare voce ora
+per ottenere una prova gratuita di %d giorni!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">"Non è stato possibile ricevere una prova gratuita di %d giorni"</item>
+        <item quantity="one">"Non è stato possibile ricevere una prova gratuita di %d giorno"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">Ricevuta una prova gratuita di %d giorni</item>
+        <item quantity="one">Ricevuta una prova gratuita di %d giorno</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Ottieni una prova gratuita di %d giorni</item>
+        <item quantity="one">Ottieni una prova gratuita di %d giorno</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Il tuo abbonamento è scaduto.
+Puoi ottenere una prova gratuita di %d giorni!"</item>
+        <item quantity="one">"Il tuo abbonamento è scaduto.
+Puoi ottenere una prova gratuita di %d giorno!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Ottieni una prova gratuita di %d giorni</item>
+        <item quantity="one">Ottieni una prova gratuita di %d giorno</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Congratulazioni! Hai sbloccato %s uova di Pasqua."</item>
+        <item quantity="one">"Congratulazioni! Hai sbloccato %s uovo di Pasqua."</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>
@@ -299,6 +339,18 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Nessun dato sull\'utilizzo dati per %d app</item>
         <item quantity="one">Nessun dato sull\'utilizzo dati per %d app</item>
+    </plurals>
+    <plurals name="image_protect_del_tips">
+        <item quantity="other">Eliminare %d immagini definitivamente?</item>
+        <item quantity="one">Eliminare %d immagine definitivamente?</item>
+    </plurals>
+    <plurals name="image_protect_exit_del_tips">
+        <item quantity="other">%d immagini verranno eliminate definitivamente dopo aver lasciato la pagina. Eliminarle?</item>
+        <item quantity="one">%d immagine verrà eliminata definitivamente dopo aver lasciato la pagina. Eliminarla?</item>
+    </plurals>
+    <plurals name="image_protect_try_del_tips">
+        <item quantity="other">Elimina %d immagini</item>
+        <item quantity="one">Elimina %d immagine</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">Tra 1 ora</item>
@@ -388,6 +440,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">"L'accesso alla rete è limitato per %d app"</item>
         <item quantity="one">"L'accesso alla rete è limitato per %d app"</item>
     </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d giorni senza scansioni di sicurezza</item>
+        <item quantity="one">%d giorno senza scansioni di sicurezza</item>
+    </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">%2$d%% di batteria consumata durante gli ultimi %1$d minuti</item>
         <item quantity="one">%2$d%% di batteria consumata in %1$d minuto</item>
@@ -399,6 +455,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="notification_checker_installed_apk_text">
         <item quantity="other">Elimina %d pacchetti di installazione</item>
         <item quantity="one">Elimina %d pacchetto di installazione</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Elimina %d APK residui</item>
+        <item quantity="one">Elimina %d APK residuo</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
         <item quantity="other">%d problemi di utilizzo della batteria</item>
@@ -524,6 +584,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Scaricato da %1$d persone</item>
         <item quantity="one">Scaricato da %1$d persone</item>
     </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">Il tuo dispositivo sarà spento tra %d secondi</item>
+        <item quantity="one">Il tuo dispositivo sarà spento tra %d secondo</item>
+    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">volte</item>
         <item quantity="one">volta</item>
@@ -588,6 +652,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">elementi</item>
         <item quantity="one">elemento</item>
     </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Annulla (%ds)</item>
+        <item quantity="one">Annulla (%ds)</item>
+    </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">%s giorni rimanenti</item>
         <item quantity="one">%s giorno rimanente</item>
@@ -608,9 +676,17 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">Il dispositivo verrà spento tra %d secondi. Collega il caricabatterie.</item>
         <item quantity="one">Il dispositivo verrà spento tra %d secondo. Collega il caricabatterie.</item>
     </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d app si avviano frequentemente</item>
+        <item quantity="one">%d app si avvia frequentemente</item>
+    </plurals>
     <plurals name="power_optimize_close_app_summary">
         <item quantity="other">%d app scaricano la batteria</item>
         <item quantity="one">%d app scarica la batteria</item>
+    </plurals>
+    <plurals name="pp_times">
+        <item quantity="other">%s volte</item>
+        <item quantity="one">%s volta</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d app sono nascoste</item>
@@ -624,9 +700,37 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%s app hanno accesso permanente</item>
         <item quantity="one">%s app ha accesso permanente</item>
     </plurals>
+    <plurals name="privacy_pop_times">
+        <item quantity="other">%s volte</item>
+        <item quantity="one">%s volta</item>
+    </plurals>
     <plurals name="privacy_risk_app_count">
         <item quantity="other">%d app</item>
         <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">%d permessi ad alto rischio concessi</item>
+        <item quantity="one">%d permesso ad alto rischio concesso</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">%d app pericolose trovate</item>
+        <item quantity="one">%d app pericolosa trovata</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">%d pericoli di rivelare informazioni sulla posizione rilevati</item>
+        <item quantity="one">%d pericolo di rivelare le informazioni sulla posizione rilevato</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d pericoli rilevati</item>
+        <item quantity="one">%d pericolo rilevato</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">%d possibili pericoli rilevati</item>
+        <item quantity="one">%d possibile pericolo rilevato</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d foto potrebbero contenere informazioni private o sensibili</item>
+        <item quantity="one">%d foto potrebbe contenere le informazioni private o sensibili</item>
     </plurals>
     <plurals name="privacy_risk_result_protection_tip">
         <item quantity="other">%d funzionalità che proteggono la tua privacy sono disattivate</item>
@@ -720,6 +824,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="other">%1$d sicuri</item>
         <item quantity="one">%1$d sicuro</item>
     </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data&gt;Aggiorna &lt;font color=#F22424&gt;%d&lt;/font&gt; app&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Aggiorna &lt;font color=#F22424&gt;%d&lt;/font&gt; app&lt;/Data&gt;</item>
+    </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">%d virus eliminati</item>
         <item quantity="one">%d virus eliminato</item>
@@ -743,6 +851,12 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d app</item>
         <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Stai guardando i video già da %d ore.
+Fai una pausa!"</item>
+        <item quantity="one">"Stai guardando i video già da %d ora.
+Fai una pausa!"</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d visualizzazioni</item>

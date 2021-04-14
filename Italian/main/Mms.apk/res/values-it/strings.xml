@@ -38,6 +38,7 @@
     <string name="ad_notification_title">Messaggi non importanti</string>
     <string name="addBlackList">Blocca</string>
     <string name="add_attachment">Allega</string>
+    <string name="add_contact">vCard</string>
     <string name="add_miui_contact">Contatto</string>
     <string name="add_music">Aggiungi musica</string>
     <string name="add_number_to_sender">Aggiungi numero a %s</string>
@@ -81,6 +82,7 @@
     <string name="audio_download_failed">"Download audio fallito"</string>
     <string name="audio_message_expired">Questo messaggio vocale è scaduto.</string>
     <string name="audio_message_mx_offline">"Impossibile scaricare l'audio. Mi Message è offline o non disponibile."</string>
+    <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">Nessuna connessione di rete o nessuna SIM installata. Installa la SIM dalla quale è stato inviato il messaggio e collegati alla rete.</string>
     <string name="auto_identify_btn_text_only_smart_messaging">Attiva Messaggi Smart</string>
     <string name="auto_identify_btn_text_when_all_disabled">Identifica ID Mittente automaticamente</string>
@@ -385,6 +387,7 @@
     <string name="file_size">Dimensione:</string>
     <string name="file_title">Nome:</string>
     <string name="file_width_height">Dimensione:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -454,6 +457,7 @@
     <string name="from_pkg_name">Dall\'app:</string>
     <string name="ft_cfs_dialog_content">"I file non possono essere inviati usando RCS. Inviare invece un link in un messaggio di testo?"</string>
     <string name="ft_cfs_dialog_title">Trasferimento file alternativo</string>
+    <string name="go_to">Vai a</string>
     <string name="google_message_promo_content">Xiaomi raccomanda di passare al applicazione  Messaggi di Google. Questa app permette di inviare messaggi di testo tramite WI-FI, inviare media con una qualità superiore, molto altro. &lt;font color=\"#B3000000\"&gt;&lt;a href=\"https://support.google.com/messages/answer/6089066\"&gt;View details&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="google_message_promo_title">Aggiorna la tua app di messaggistica</string>
     <string name="group_already_kicked_hint">"Impossibile inviare messaggi. Non sei un membro di questa chat di gruppo."</string>
@@ -544,12 +548,18 @@
     <string name="menu_unlock">Rimuovi dai preferiti</string>
     <string name="menu_view_contact">Mostra contatto</string>
     <string name="menu_view_group_info">Info di gruppo</string>
+    <string name="message_cannot_send_air_mode">"Impossibile inviare messaggi.
+Disattiva la modalità aereo."</string>
+    <string name="message_cannot_send_sim_unavailable">"Impossibile inviare messaggi.
+Controlla la tua SIM."</string>
     <string name="message_class_label">"Classe messaggio: "</string>
     <string name="message_contact">Contatto:</string>
     <string name="message_details_title">Dettagli messaggio</string>
     <string name="message_download_failed_title">Messaggio non scaricato</string>
     <string name="message_expired">Scaduto</string>
     <string name="message_failed">设置失败</string>
+    <string name="message_failed_and_cotanct_operator">Si è verificato un errore. <font color="#1c86ee">Contatta il tuo operatore</font>.</string>
+    <string name="message_failed_and_feedback">Si è verificato un errore. <font color="#1c86ee">Segnala il problema</font>.</string>
     <string name="message_failed_body">Seleziona per controllare il messaggio e riprovare.</string>
     <string name="message_number">Numero di telefono:</string>
     <string name="message_pending">Invio in corso…</string>
@@ -649,6 +659,7 @@ Questo messaggio potrebbe non essere apprezzato."</string>
     <string name="msg_type_hint_mms">Messaggio multimediale</string>
     <string name="msg_type_hint_mms_omit">MMS</string>
     <string name="msg_type_hint_mx">Messaggi Mi</string>
+    <string name="msg_type_hint_mx_omit">Mi Msg</string>
     <string name="msg_type_hint_sms">SMS</string>
     <string name="msg_type_hint_sms_omit">SMS</string>
     <string name="msg_type_sms_rcs">SMS, MMS, e messaggi internet</string>
@@ -730,6 +741,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="no_block_button_msg">Annulla schermata</string>
     <string name="no_conversations">Nessuna conversazione.</string>
     <string name="no_delivery_report">Nessun rapporto di consegna</string>
+    <string name="no_dialogue_yet">Seleziona una conversazione</string>
     <string name="no_longer_recommend">"Non mostrare più"</string>
     <string name="no_network_description">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
     <string name="no_subject">(Nessun oggetto)</string>
@@ -782,6 +794,9 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="play">Riproduci</string>
     <string name="playing_failed">"Impossibile riprodurre"</string>
     <string name="pm">PM</string>
+    <string name="prefDefault_vibrateWhen">never</string>
+    <string name="prefDefault_vibrate_false">never</string>
+    <string name="prefDefault_vibrate_true">always</string>
     <string name="pref_advanced_settings_title">Impostazioni addizionali</string>
     <string name="pref_allow_network_access_summary">Attiva per ricevere le ultime informazioni sulla consegna ed altri servizi.</string>
     <string name="pref_cell_broadcast">Trasmissioni cella</string>
@@ -833,6 +848,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="pref_title_auto_delete">Elimina i vecchi messaggi</string>
     <string name="pref_title_card_format">Formato condivisione scheda</string>
     <string name="pref_title_delivery_reports">Rapporti consegna</string>
+    <string name="pref_title_enable_ad_notification">Messaggi promozionali</string>
     <string name="pref_title_enable_classify">Raggruppa messaggi automaticamente</string>
     <string name="pref_title_fwd_sender_info">Inoltra informazioni mittente</string>
     <string name="pref_title_manage_sim_messages">Gestisci messaggi SIM</string>
@@ -883,6 +899,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="privacy_state_revoked_dialog_title">Revoca autorizzazione...</string>
     <string name="privacy_state_revoked_revoked">Revoca</string>
     <string name="privacy_state_revoked_switch">Revoca autorizzazione...</string>
+    <string name="privacy_state_revoked_synopsis">Disattivando l\'opzione, si revoca il consenso alla Politica sulla Privacy di Messaggi.</string>
     <string name="privacy_term">Informativa sulla Privacy</string>
     <string name="private_entry_available">Rilascia per aprire la cartella privata</string>
     <string name="private_entry_default">Scorri verso il basso per aprire la cartella privata</string>
@@ -912,6 +929,7 @@ Per attivare Mi Message è necessario l'invio di un SMS. Il tuo operatore potreb
     <string name="rcs_chat_bot_subject">Proprietario: %1$s</string>
     <string name="rcs_chatbot_a2p_message">Hai ricevuto un messaggio A2P. Tocca per visualizzare i dettagli.</string>
     <string name="rcs_chatbot_audio_message">Hai ricevuto un messaggio audio. Tocca per vedere i dettagli.</string>
+    <string name="rcs_chatbot_blocked_tip">"Questa mini app è stata bloccata. Impossibile avviare la conversazione."</string>
     <string name="rcs_chatbot_card_message">Hai ricevuto una scheda. Tocca per vedere i dettagli.</string>
     <string name="rcs_chatbot_file_message">Hai ricevuto un file. Tocca per vedere i dettagli.</string>
     <string name="rcs_chatbot_geo_message">Hai ricevuto un messaggio con informazioni sulla posizione. Tocca per vedere i dettagli.</string>
@@ -932,6 +950,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="rcs_chatbot_net_error">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
     <string name="rcs_chatbot_no_waring">消息免打扰</string>
     <string name="rcs_chatbot_normal_message">Hai ricevuto un messaggio. Tocca per vedere i dettagli.</string>
+    <string name="rcs_chatbot_notification">Mini app: %s</string>
     <string name="rcs_chatbot_progress_failed">"Impossibile caricare le informazioni. Tocca per riprovare."</string>
     <string name="rcs_chatbot_progress_loading">Attendi…</string>
     <string name="rcs_chatbot_recommend_tab_empty">Nessuna app consigliata.</string>
@@ -969,6 +988,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="rcs_chatdetail_send_messge">Invia messaggio</string>
     <string name="rcs_chatdetail_special_chabot_tip">"Non è possibile bloccare questa mini app"</string>
     <string name="rcs_chatlist_scan_error">"Impossibile leggere il codice QR"</string>
+    <string name="rcs_conversation_rcs_tip">Mini app: %s</string>
     <string name="rcs_create_new_group">Crea chat di gruppo</string>
     <string name="rcs_dspt">Dopo aver avuto accesso agli utenti Cina Mobile, potrai inviare messaggi in maniera predefinita tramite Wi-Fi o rete mobile.</string>
     <string name="rcs_dspt_unavailable">"Non puoi utilizzare questa funzionalità ora. La scheda SIM Cina Mobile non è impostata come scheda dati predefinita."</string>
@@ -1006,6 +1026,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="rcs_pref_send_display_report">Mostra i rapporti di consegna al mittente</string>
     <string name="rcs_pref_send_display_report_detail">I mittenti verranno notificati quando i loro messaggi vengono letti</string>
     <string name="rcs_pref_setting_entrance">Impostazioni messaggistica RCS</string>
+    <string name="rcs_pref_user_alias_title">Alias</string>
     <string name="rcs_pref_video_message_default_quality">Opzioni di compressione video</string>
     <string name="rcs_recipient_type_contact">Inoltra ai contatti</string>
     <string name="rcs_recipient_type_group">Inoltra alla chat di gruppo</string>
@@ -1146,6 +1167,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="send_signature_confirm_dialog_title">Invia messaggio</string>
     <string name="send_sms">Invia messaggio</string>
     <string name="send_to">A:</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Inviato alle: %1s</string>
     <string name="sent_label">"Inviato: "</string>
     <string name="service_message_not_found">Messaggio scaduto o non disponibile.</string>
@@ -1176,6 +1198,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="slide_up_to_cancel">Scorri in alto per annullare</string>
     <string name="slideshow_activity">Presentazione</string>
     <string name="smart_message_title">Messaggi smart</string>
+    <string name="smart_message_upgrade_title">Aggiornamento della politica sulla privacy di Smart Messaging</string>
     <string name="smart_messages_network_allow_message">Mi Message deve accedere ad internet per poter fornire correttamente i suoi servizi. Consentire adesso?</string>
     <string name="smart_messages_network_allow_title">E\' necessaria la connessione internet</string>
     <string name="smart_msg_main_purpose">Messaggi Smart fornisce il riconoscimento dell\'ID mittente e servizi di ordinamento smart.</string>
@@ -1239,7 +1262,9 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="storage_dialog_attachments">Allegato MMS:</string>
     <string name="storage_dialog_available_space">Spazio disponibile:</string>
     <string name="storage_dialog_database">Archivio:</string>
+    <string name="storage_dialog_mms">MMS: %d</string>
     <string name="storage_dialog_mms_size">Dimensione MMS:</string>
+    <string name="storage_dialog_sms">SMS: %d</string>
     <string name="storage_limits_activity">Limite archiviazione</string>
     <string name="storage_limits_message">Limitare il numero di messaggi da salvare per conversazione?</string>
     <string name="storage_limits_setting">Imposta limiti</string>
@@ -1365,6 +1390,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="type_picture">Immagine</string>
     <string name="type_to_compose_text_enter_to_send">Scrivi messaggio</string>
     <string name="type_to_compose_text_or_leave_blank">Digita il messaggio o lascia vuoto</string>
+    <string name="type_vcard">vCard</string>
     <string name="type_video">Video</string>
     <string name="undelivered_msg_dialog_body">"Invio messaggio non riuscito. Tentativo numero: %s."</string>
     <string name="undelivered_msg_dialog_title">Messaggio non consegnato</string>
@@ -1400,6 +1426,7 @@ Dai un'occhiata alle app consigliate!"</string>
     <string name="voice_report_off">Spenta</string>
     <string name="voice_report_wiredon">Con cuffie</string>
     <string name="warning_show">Invio tra %ds</string>
+    <string name="web_content_invalid_hint">La visualizzazione di questo articolo è limitata dalle leggi e dai regolamenti locali</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>

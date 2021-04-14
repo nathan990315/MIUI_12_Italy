@@ -154,6 +154,10 @@
     <string name="blur_location_is_on_tip">%1$s rileva una posizione approssimativa. Continuare a usarla invece di una posizione precisa?</string>
     <string name="blur_location_now_tip">Il servizio di localizzazione è abilitato</string>
     <string name="blur_location_title">Posizione approssimativa</string>
+    <string name="cetus_invisible_mode_notice_audio">"Sei in modalità incognito. Non puoi usare il microfono."</string>
+    <string name="cetus_invisible_mode_notice_camera">"Sei in modalità incognito. Non puoi usare la fotocamera ora."</string>
+    <string name="cetus_invisible_mode_notice_location">"Sei in modalità incognito. Non puoi usare i servizi di localizzazione."</string>
+    <string name="cetus_invisible_mode_notice_tip">Puoi disattivare la modalità incognito nelle impostazioni</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -460,6 +464,13 @@
     <string name="screen_overlay_message">Per modificare queste impostazioni di autorizzazione, devi prima disattivare la sovrapposizione dello schermo in Impostazioni &gt; Applicazioni</string>
     <string name="screen_overlay_title">Overlay schermo rilevato</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
     <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>

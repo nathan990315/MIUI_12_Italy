@@ -244,6 +244,10 @@
         <item quantity="other">%d aggiunti</item>
         <item quantity="one">%d aggiunto</item>
     </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">Il Wi-Fi sarà attivato automaticamente quando il dispositivo rileva le reti salvate nelle vicinanze e disattivato dopo %d minuti se non viene stabilita alcuna connessione</item>
+        <item quantity="one">Il Wi-Fi sarà attivato automaticamente quando il dispositivo rileva le reti salvate nelle vicinanze e disattivato dopo %d minuto se non viene stabilita alcuna connessione</item>
+    </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d SIM</item>
         <item quantity="one">%1$d SIM</item>
@@ -279,6 +283,10 @@
     <plurals name="number_of_device_admins">
         <item quantity="other">%d app attive</item>
         <item quantity="one">%d app attiva</item>
+    </plurals>
+    <plurals name="permission_bar_chart_label">
+        <item quantity="other">%s app</item>
+        <item quantity="one">1 app</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">%d permessi concessi</item>
@@ -399,6 +407,10 @@ Per maggiori informazioni su questo certificato contatta l'amministratore."</ite
     <plurals name="suggestions_collapsed_title">
         <item quantity="other">%1$d suggerimenti</item>
         <item quantity="one">1 suggerimento</item>
+    </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">Ricevi un avviso ogni volta che uno degli auricolari è lontano dall\'orecchio o dalla custodia di ricarica per più di %d minuti</item>
+        <item quantity="one">Ricevi un avviso ogni volta che uno degli auricolari è lontano dall\'orecchio o dalla custodia di ricarica per più di %d minuto</item>
     </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d elementi</item>

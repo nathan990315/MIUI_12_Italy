@@ -697,7 +697,9 @@ se dimenticata</string>
     <string name="battery_low_button_not_open_power_save">Non adesso</string>
     <string name="battery_low_button_open_power_save">Attiva</string>
     <string name="battery_low_percent_format_save_mode_closed">"C'è meno del %s di batteria rimanente ora. Non dimenticare di ricaricare il tuo dispositivo."</string>
+    <string name="battery_low_percent_format_save_mode_closed_new_version">Batteria scarica. Ricarica il tuo dispositivo.</string>
     <string name="battery_low_percent_format_save_mode_open">"C'è meno del %1$s di batteria rimanente ora. Attiva il Risparmio Energetico per aggiungere %2$s di tempo in più."</string>
+    <string name="battery_low_percent_format_save_mode_open_new_version">Attiva il risparmio energetico per aggiungere %s.</string>
     <string name="battery_low_title">La batteria si sta esaurendo</string>
     <string name="battery_low_title_power_save">Risparmio energetico</string>
     <string name="battery_statistics_activity_title">Statistiche utilizzo batteria</string>
@@ -1030,6 +1032,7 @@ Il tuo operatore potrebbe effettuare degli addebiti se deciderai di attivare di 
     <string name="deep_clean_never_memory_clean">Mai</string>
     <string name="deep_power_save_item_summary_auto_brightness">Regola automaticamente la luminosità per risparmiare batteria</string>
     <string name="deep_power_save_item_summary_bluetooth">Disattiva il Bluetooth per risparmiare batteria</string>
+    <string name="deep_power_save_item_summary_lock_screen_time_new">Metti lo schermo in sospensione dopo %d secondi di inattività per risparmiare batteria</string>
     <string name="deep_power_save_item_title_auto_brightness">Attiva luminosità automatica</string>
     <string name="deep_power_save_item_title_bluetooth">Disattiva Bluetooth</string>
     <string name="deep_power_save_item_title_lock_screen_time">Metti lo schermo in sospensione</string>
@@ -1161,6 +1164,7 @@ Tutti i dati sul dispositivo potrebbero essere cancellati e la password della sc
     <string name="earthly_branches_yin">Yin</string>
     <string name="earthly_branches_you">You</string>
     <string name="earthly_branches_zi">Zi</string>
+    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty_app">Nessuna app</string>
     <string name="empty_title_auto_start_list">Nessuna app in avvio automatico</string>
@@ -1369,7 +1373,9 @@ scheda medica"</string>
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -1666,9 +1672,19 @@ scheda medica"</string>
     <string name="gb_ad_game_size">MB</string>
     <string name="gb_add_game_hint">Aggiungi elementi dalla lista delle app</string>
     <string name="gb_add_game_loading_tips">Attendi…</string>
+    <string name="gb_adv_touch_adv_title">Modalità classica (predefinita)</string>
+    <string name="gb_adv_touch_custom1">Risposta dello scorrimento</string>
     <string name="gb_adv_touch_custom2">Sensibilità ai tap ripetuti</string>
+    <string name="gb_adv_touch_custom3">Precisione di mira</string>
+    <string name="gb_adv_touch_custom4">Stabilità tocchi</string>
+    <string name="gb_adv_touch_custom_tip1">La risposta di scorrimento più alta aumenta la velocità di reazione a questo gesto, mentre la risposta di scorrimento più bassa rende il gesto più stabile.</string>
+    <string name="gb_adv_touch_custom_tip2">Una maggiore sensibilità ai tocchi continui aumenta la velocità di reazione a questo gesto, mentre una minore sensibilità rende il gesto più stabile.</string>
+    <string name="gb_adv_touch_custom_tip3">Una maggiore precisione di mira rende più precisi gli swipe più piccoli, mentre una minore precisione rende questo gesto più stabile.</string>
+    <string name="gb_adv_touch_custom_tip4">Una maggiore stabilità rende i tocchi più stabili, mentre una stabilità inferiore aumenta la precisione dei piccoli scorrimenti.</string>
     <string name="gb_adv_touch_custom_title">Impostazioni schede</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Questa modalità è progettata per i giocatori professionisti. I giocatori normali potrebbero trovare questa modalità scomoda.</string>
     <string name="gb_adv_touch_mode_select_title">Gesti</string>
+    <string name="gb_adv_touch_pro_title">Modalità Pro</string>
     <string name="gb_advance_settings_edge_gear1">Nessuno</string>
     <string name="gb_advance_settings_edge_gear2">Piccolo</string>
     <string name="gb_advance_settings_edge_gear3">Medio</string>
@@ -1758,6 +1774,7 @@ Registra sequenze personalizzate e usale in qualsiasi momento!"</string>
     <string name="gb_msg_transparent_dispaly_summary">Trasparente</string>
     <string name="gb_network_status_bad">Si è verificato un errore di connessione.</string>
     <string name="gb_new_feature">Nuova funzionalità</string>
+    <string name="gb_not_support_on_device">"Questa app non può essere utilizzata su uno schermo esterno"</string>
     <string name="gb_operat_frequently">Non così in fretta!</string>
     <string name="gb_shortcut_pref_title">Collegamento Home</string>
     <string name="gb_sign_gift">Registrati per ottenere premi</string>
@@ -2228,6 +2245,7 @@ dall'operatore"</string>
     <string name="menu_text_license_manager">Permessi</string>
     <string name="menu_text_networkassistants">Utilizzo dati</string>
     <string name="menu_text_networkassistants_danger">%s oltre la soglia</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s rimasti</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2237,6 +2255,7 @@ dall'operatore"</string>
     <string name="menu_text_optimize_manage_1">Velocizza</string>
     <string name="menu_text_power_manager">Batteria</string>
     <string name="menu_text_power_percent">%s</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Rimuovi dalle eccezioni</string>
     <string name="menu_white">Aggiungi alle eccezioni</string>
     <string name="mi_service_app_detail">Dettagli utilizzo dati</string>
@@ -2430,6 +2449,8 @@ dall'operatore"</string>
     <string name="notification_battery_scan_consume_abnormal_title_set">%s sta consumando batteria</string>
     <string name="notification_channel_battery">Batteria</string>
     <string name="notification_checker_installed_apk_hint">Non è necessario mantenere APK dopo l\'installazione</string>
+    <string name="notification_enter_power_save_mode_title">Risparmio energetico attivato</string>
+    <string name="notification_exit_power_save_mode">Ultra Risparmio energetico disattivato</string>
     <string name="notification_exit_power_save_mode_now">Disattiva</string>
     <string name="notification_garbage_clean_botton_text">Cancella</string>
     <string name="notification_garbage_clean_botton_text_new">Cancella</string>
@@ -2798,6 +2819,8 @@ se dimenticata</string>
     <string name="power_center_battery_duration">Tempo rimanente</string>
     <string name="power_center_battery_duration_format">%1$s %2$s</string>
     <string name="power_center_battery_hardware">Hardware %s</string>
+    <string name="power_center_battery_health_poor_tip">Sembra che la salute della batteria sia bassa. Fai controllare la batteria in un centro autorizzato.</string>
+    <string name="power_center_battery_health_summary">Carica e scarica completamente il tuo dispositivo %1$d-%2$d volte per migliorare l\'accuratezza delle statistiche di salute della batteria</string>
     <string name="power_center_battery_last">%d%% rimanente</string>
     <string name="power_center_battery_level">%s caricato</string>
     <string name="power_center_battery_level_general">Normale</string>
@@ -2818,6 +2841,11 @@ se dimenticata</string>
     <string name="power_center_dialog_msg_top">Quando il risparmio energetico è attivo, MIUI attuerà le seguenti ottimizzazioni:</string>
     <string name="power_center_hints_scan_danger_result">Puoi correggere i problemi di batteria ora</string>
     <string name="power_center_list_item_auto_brightness">Regola automaticamente la luminosità dello schermo</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">°C</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Disattiva Bluetooth</string>
     <string name="power_center_list_item_deep_save_title">Impostazioni avanzate</string>
@@ -2828,6 +2856,9 @@ se dimenticata</string>
     <string name="power_center_list_item_wake_notification">"Non riattivare lo schermo alla ricezione di notifiche"</string>
     <string name="power_center_list_item_wake_notification_summary">Le notifiche in arrivo verranno visualizzate solo quando accendi lo schermo</string>
     <string name="power_center_main_percent_formatted">%s%%</string>
+    <string name="power_center_night_charge_noti_subtitle">La batteria sarà completamente carica tra %s</string>
+    <string name="power_center_night_charge_protection_setting">Visualizza più opzioni in Sicurezza &gt; Batteria.</string>
+    <string name="power_center_night_charge_protection_summary">Per ridurre la degradazione della batteria, MIUI impara dalla tua routine di ricarica quotidiana al fine di ridurre inutili ricariche continue</string>
     <string name="power_center_one_key_save">Ottimizza</string>
     <string name="power_center_ontime_boot">Accensione programmata</string>
     <string name="power_center_ontime_shutdown">Spegnimento programmato</string>
@@ -2856,10 +2887,20 @@ se dimenticata</string>
     <string name="power_center_stop_scan_title">Interrompi scansione</string>
     <string name="power_center_super_save_summary_text">Aumenta il tempo restante fino a %1$dore %2$dmin</string>
     <string name="power_center_super_save_title_text">Ultra Risparmio Energetico</string>
+    <string name="power_center_super_wireless_charge_dialog_positive">Mantieni attiva</string>
+    <string name="power_center_super_wireless_charge_dialog_summary2">Vai su Sicurezza &gt; Batteria &gt; Impostazioni per opzioni aggiuntive.</string>
     <string name="power_center_time_to_boot">Accensione programmata</string>
     <string name="power_center_time_to_shutdown">Spegnimento programmato</string>
     <string name="power_center_title">Batteria</string>
+    <string name="power_center_unoffical_battery_button">Trova un fornitore autorizzato</string>
+    <string name="power_center_unoffical_battery_dialog">Avviso batteria non ufficiale</string>
     <string name="power_center_unoffical_battery_dialog_positive">Maggiori informazioni</string>
+    <string name="power_center_unoffical_battery_dialog_summary">Sembra che una batteria non ufficiale sia stata installata in questo dispositivo. L\'alimentazione di ricarica verrà abbassata per proteggere il dispositivo. Utilizzando batterie non ufficiali può causare gonfiore della batteria, surriscaldamento o perdite. Può anche causare incendi o altri pericoli. Trova un fornitore autorizzato per sostituire la batteria.</string>
+    <string name="power_center_unoffical_battery_noti_summary">La batteria attuale potrebbe comportare rischi per la sicurezza</string>
+    <string name="power_center_unoffical_battery_summary1">Questo dispositivo era dotato di una batteria incorporata che dovrebbe essere sostituita solo da un fornitore autorizzato.</string>
+    <string name="power_center_unoffical_battery_summary2">Sostituire la batteria altrove potrebbe danneggiare questo dispositivo. L\'utilizzo di batterie non ufficiali può causare gonfiore, surriscaldamento e perdite. Può anche causare incendi o altri pericoli. Non utilizzare batterie non ufficiali.</string>
+    <string name="power_center_unoffical_battery_tip">"Informazioni sulla salute non sono disponibili per questa batteria non ufficiale. Tocca per conoscere i rischi per la sicurezza."</string>
+    <string name="power_center_unoffical_battery_title">Rischi causati dall\'uso di batterie non ufficiali</string>
     <string name="power_center_used_time_Introduction">Durata batteria dall\'ultima ricarica oltre %s</string>
     <string name="power_consume_hardware_total_format">Hardware: %s</string>
     <string name="power_consume_other">Altro</string>
@@ -2869,6 +2910,7 @@ se dimenticata</string>
     <string name="power_consume_software_total_format">App: %s</string>
     <string name="power_customize_giveup_change">Vuoi annullare le modifiche?</string>
     <string name="power_dailog_night_charge_protection_done">Fatto</string>
+    <string name="power_dailog_night_charge_protection_summary">Sembra che la batteria sia stata completamente carica per la maggior parte del tempo, questo può accelerare la sua degradazione. MIUI ha attivato la ricarica ottimizzata per evitare tali problemi.</string>
     <string name="power_dialog_cancel">Annulla</string>
     <string name="power_dialog_ok">OK</string>
     <string name="power_dialog_super_save_msg">"L'Ultra Risparmio Energetico limita la maggior parte delle funzioni che consumano energia e riduce le prestazioni del dispositivo per lasciare funzionalità di base (chiamate, messaggi e connessione alla rete) disponibili il più a lungo possibile. Attivare l'Ultra Risparmio Energetico?"</string>
@@ -2920,6 +2962,7 @@ se dimenticata</string>
     <string name="power_optimize_set_lockscreen_time_holder">Blocca il dispositivo dopo %d secondi di inattività</string>
     <string name="power_phone">Chiamate vocali</string>
     <string name="power_save_mode">Risparmio energetico</string>
+    <string name="power_save_mode_auto_exit_summary_new">Disattiva quando la batteria è al %s o completamente carica</string>
     <string name="power_save_mode_auto_exit_title">Disattiva quando in carica</string>
     <string name="power_save_mode_close_aod_display_summary">Disattiva l\'Always-on display quando il RisparmioEnergetico è attivo</string>
     <string name="power_save_mode_close_aod_display_title">Disattiva Always-on display</string>
@@ -3085,6 +3128,7 @@ se dimenticata</string>
     <string name="pref_normal_traffic_limit">Utilizzo dati giornalieri</string>
     <string name="pref_open_adjust_traffic">Aggiorna utilizzo dati ogni giorno utilizzando le statistiche del tuo operatore</string>
     <string name="pref_operator_not_set">"Operatore non impostato"</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Quando superi il limite del tuo piano dati</string>
     <string name="pref_package_traffic_settings">Questo mese</string>
     <string name="pref_pkg_begin_date">Data di azzeramento utilizzo</string>
@@ -3290,6 +3334,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="privacy_using_record">Registrare audio</string>
     <string name="privacyapp_number_masked_text">Il contenuto delle notifiche è nascosto</string>
     <string name="privacyapp_number_unmasked_text">Il contenuto delle notifiche può essere nascosto</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Server Multimediale</string>
     <string name="process_vpnsdkmanager_label">Turbo videogiochi</string>
     <string name="promotion">AD</string>
@@ -3462,6 +3507,7 @@ Questa funzionalità non è applicabile alle app di sistema.</string>
     <string name="settings">Impostazioni assistente di rete</string>
     <string name="settings_battery_consume_abnormal_summary">Notificami quando la batteria si sta scaricando velocemente</string>
     <string name="settings_battery_consume_abnormal_title">Notifiche scaricamento batteria</string>
+    <string name="settings_battery_power_save_suggest_title">Suggerimenti e avvisi sul risparmio energetico</string>
     <string name="settings_camera_subtitle_no">Nessun metadato</string>
     <string name="settings_category_other">Altre impostazioni</string>
     <string name="settings_category_overheat">Surriscaldamento</string>
@@ -3921,6 +3967,7 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="superpower_dialog_massage">"L'Ultra Risparmio Energetico limita la maggior parte delle funzioni che consumano energia e riduce le prestazioni del dispositivo per lasciare funzionalità di base (chiamate, messaggi e connessione alla rete) disponibili il più a lungo possibile. Attivare l'Ultra Risparmio Energetico?"</string>
     <string name="superpower_dialog_title">Ultra Risparmio Energetico</string>
     <string name="superpower_notification_new_title">Meno del %d%% di batteria rimanente</string>
+    <string name="superpower_notification_summary">Carica il tuo dispositivo o attiva l\'Ultra Risparmio Energetico</string>
     <string name="superpower_notification_time_12">EEEE, dd MMMM </string>
     <string name="superpower_notification_time_24">EEEE, dd MMMM </string>
     <string name="superpower_notification_title_new">Meno del %s di batteria rimanente</string>
@@ -3937,7 +3984,9 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="superpower_savemode_limit3">Limita attività che consumano energia (sincronizzazione, GPS, vibrazione, Always-on display, ecc.)</string>
     <string name="superpower_savemode_limit4">Consenti alle app selezionate di funzionare normalmente</string>
     <string name="superpower_settings">Ultra Risparmio Energetico</string>
+    <string name="superpower_settins_autoenter_summary_new">Attiva automaticamente l\'Ultra Risparmio Energetico quando la batteria è al %s</string>
     <string name="superpower_settins_autoenter_title">Attiva automaticamente</string>
+    <string name="superpower_settins_autoleave_summary_new">Disattiva automaticamente l\'Ultra Risparmio Energetico quando la batteria è al %s</string>
     <string name="superpower_settins_autoleave_title">Disattiva automaticamente</string>
     <string name="superpower_settins_other">Impostazioni addizionali</string>
     <string name="superpower_settins_switch_summary">Limita la maggior parte delle funzioni che consumano energia per permettere la funzionalità di base (ad esempio chiamate, messaggi e applicazioni selezionate) disponibili il più a lungo possibile</string>

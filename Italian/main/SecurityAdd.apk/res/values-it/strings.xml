@@ -35,6 +35,7 @@
     <string name="app_name">Plugin Servizio di Sicurezza</string>
     <string name="app_select_title">Aggiungi app usate di frequente</string>
     <string name="btn_pausable">Tempo scaduto</string>
+    <string name="btn_price">￥%1$s</string>
     <string name="btn_progress">%1$d%%</string>
     <string name="btn_resume">Riprendi</string>
     <string name="btn_update">Aggiorna</string>
@@ -251,8 +252,18 @@
     <string name="gamebooster_network_dialog_message">Consentire all\'app Sicurezza di collegarsi alla rete per poter utilizzare tutte le funzionalità di Turbo Videogiochi?</string>
     <string name="gamebooster_network_dialog_title">"Alcune funzionalità non sono disponibili"</string>
     <string name="gamebox_no_network_btn">Ricarica</string>
+    <string name="gb_adv_touch_adv_title">Modalità classica (predefinita)</string>
+    <string name="gb_adv_touch_custom1">Risposta dello scorrimento</string>
     <string name="gb_adv_touch_custom2">Sensibilità ai tap ripetuti</string>
+    <string name="gb_adv_touch_custom3">Precisione di mira</string>
+    <string name="gb_adv_touch_custom4">Stabilità tocchi</string>
+    <string name="gb_adv_touch_custom_tip1">La risposta di scorrimento più alta aumenta la velocità di reazione a questo gesto, mentre la risposta di scorrimento più bassa rende il gesto più stabile.</string>
+    <string name="gb_adv_touch_custom_tip2">Una maggiore sensibilità ai tocchi continui aumenta la velocità di reazione a questo gesto, mentre una minore sensibilità rende il gesto più stabile.</string>
+    <string name="gb_adv_touch_custom_tip3">Una maggiore precisione di mira rende più precisi gli swipe più piccoli, mentre una minore precisione rende questo gesto più stabile.</string>
+    <string name="gb_adv_touch_custom_tip4">Una maggiore stabilità rende i tocchi più stabili, mentre una stabilità inferiore aumenta la precisione dei piccoli scorrimenti.</string>
     <string name="gb_adv_touch_custom_title">Impostazioni schede</string>
+    <string name="gb_adv_touch_mode_pro_tips">*Questa modalità è progettata per i giocatori professionisti. I giocatori normali potrebbero trovare questa modalità scomoda.</string>
+    <string name="gb_adv_touch_pro_title">Modalità Pro</string>
     <string name="gb_advance_settings_edge_gear1">Nessuno</string>
     <string name="gb_advance_settings_edge_gear2">Piccolo</string>
     <string name="gb_advance_settings_edge_gear3">Medio</string>
@@ -307,12 +318,14 @@
     <string name="gb_gpu_tips_graph">Ottimizza la grafica per aumentare le prestazioni della GPU e risparmiare energia. Questa funzione è supportata dai giochi selezionati.</string>
     <string name="gb_gpu_tips_resolution">"La risoluzione predefinita è definita dal gioco. Alcuni giochi non permettono di regolare la risoluzione."</string>
     <string name="gb_gpu_tips_texture">Priorità a prestazioni o qualità dell\'immagine</string>
+    <string name="gb_not_support_on_device">"Questa app non può essere utilizzata su uno schermo esterno"</string>
     <string name="gb_pannel_control_mode_balance">Bilanciato</string>
     <string name="gb_pannel_control_mode_custom">Personalizza</string>
     <string name="gb_pannel_control_mode_high_quality">Alta qualità</string>
     <string name="gb_pannel_control_mode_normal">Predefinita</string>
     <string name="gb_pannel_control_mode_power_saving">Risparmia batteria</string>
     <string name="gb_weixinpay_can_not_complete">"Impossibile completare il pagamento. Installa per continuare."</string>
+    <string name="gdpr_msg"><Data>\"Per poter utilizzare le caratteristiche base di Sicurezza, è necessario accettare che Xiaomi raccoglierà, elaborerà e utilizzerà i tuoi dati personali, comprese le informazioni sulle modalità di utilizzo delle funzionalità di Sicurezza (es. statistiche di utilizzo dati mobili, informazioni sui malware, informazioni di base del dispositivo) e altri tipi di informazioni specificati nella nostra &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;.</Data></string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -468,6 +481,7 @@
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

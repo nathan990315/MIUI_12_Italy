@@ -196,6 +196,7 @@
     <string name="advanced_mobile_settings">Impostazioni avanzate</string>
     <string name="advanced_options_title">Avanzate</string>
     <string name="advanced_settings">Impostazioni opzionali</string>
+    <string name="advanced_settings_container">impostazioni avanzate container</string>
     <string name="advanced_settings_hide">▽ Tocca per nascondere tutto</string>
     <string name="advanced_settings_show">▷ Tocca per vedere tutto</string>
     <string name="advertisements_disable">Pubblicità disattivate</string>
@@ -437,6 +438,7 @@
     <string name="callFailed_dsac_restricted">Tutte le chiamate sono limitate dal controllo di accesso.</string>
     <string name="callFailed_dsac_restricted_emergency">Le chiamate di emergenza sono limitate dal controllo di accesso.</string>
     <string name="callFailed_dsac_restricted_normal">Le chiamate normali sono limitate dal controllo di accesso.</string>
+    <string name="callFailed_emergency_call_over_wfc_not_available">Chiamate di emergenza tramite Wi-Fi non disponibili in questa posizione.</string>
     <string name="callFailed_facility_rejected">Infrastruttura rifiutata</string>
     <string name="callFailed_fdn_only">Chiamate in uscita limitate da NSF.</string>
     <string name="callFailed_imei_not_accepted">Impossibile collegare, si prega di inserire una SIM valida.</string>
@@ -495,6 +497,8 @@
     <string name="callFailed_userBusy">Linea occupata</string>
     <string name="callFailed_user_not_member_of_CUG">Utente non membro di CUG</string>
     <string name="callFailed_video_call_tty_enabled">Impossibile effettuare videochiamata quando TTY é abilitato.</string>
+    <string name="callFailed_wfc_service_not_available_in_this_location">Le chiamate Wi-Fi non sono disponibili in questa posizione.</string>
+    <string name="callFailed_wifi_lost">Connessione Wi-Fi persa. Chiamata terminata.</string>
     <string name="callUnanswered_forwarded">Chiamata senza risposta e inoltrata</string>
     <string name="call_advanced_setting_title">Impostazioni avanzate</string>
     <string name="call_barring">Blocco chiamata</string>
@@ -529,6 +533,8 @@
     <string name="call_barring_sum">Impostazione blocco chiamate vocali</string>
     <string name="call_category">Chiamata</string>
     <string name="call_description_recording">Registrazione…</string>
+    <string name="call_fold_setting">Piega e apri</string>
+    <string name="call_fold_setting_title">Piega e apri</string>
     <string name="call_forward_option">Trasferimento di chiamata</string>
     <string name="call_forwarding_number_hint">Inserisci il numero a cui inoltrare le chiamate in arrivo</string>
     <string name="call_forwarding_settings">Trasferimento di chiamata</string>
@@ -607,6 +613,7 @@
     <string name="cell_bc_sms_enable">SMS diffusi dalla cella attivati</string>
     <string name="cell_broadcast_settings">Trasmissioni di emergenza</string>
     <string name="cell_broadcast_sms">SMS diffusi dalla cella</string>
+    <string name="cf_setting_mobile_data_alert">Attiva i dati mobili e assicurati che il Wi-Fi sia spento</string>
     <string name="cf_setting_mobile_data_roaming_alert">Prego abilitare roaming dati</string>
     <string name="cfb_title">Inoltra se sei in conversazione</string>
     <string name="cfnrc_title">Inoltra se non sei raggiungibile</string>
@@ -714,6 +721,8 @@
     <string name="cmcc_ut_data_enable_prompt">Impossibile connettersi alla rete che utilizza VoLTE. Attiva ora la tua connessione dati.</string>
     <string name="command_error_fdn_failure">Devi disabilitare prima i NSF</string>
     <string name="config_default_data_sim">Impostazioni</string>
+    <string name="config_simUnlockUiClass">\@null</string>
+    <string name="config_simUnlockUiPackage">\@null</string>
     <string name="confirmPin2Label">Conferma il nuovo PIN2</string>
     <string name="confirmPinLabel">Conferma il nuovo PIN</string>
     <string name="confirm_enable_oem_unlock_text">ATTENZIONE: Le funzionalità di protezione del dispositivo non funzionalitàranno quando questa opzione é attiva.</string>
@@ -755,6 +764,8 @@
     <string name="daltonizer_mode_protanomaly">Protonomalia (rosso-verde)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalia (blu-giallo)</string>
     <string name="daltonizer_type_overridden">Sovrascritto da %1$s</string>
+    <string name="data_disable_warning_no_mms">"Non sarai in grado di inviare e ricevere MMS se disattivi i dati mobili (WCDMA/LTE). Sarai in grado di farlo quando il dispositivo sarà connesso al Wi-Fi."</string>
+    <string name="data_disable_warning_with_mms">"Potrai ancora inviare e ricevere MMS se disattivi i dati mobili (WCDMA/LTE). Per utilizzare internet, connettiti al Wi-Fi."</string>
     <string name="data_enable_always_warn">Chiedi se utilizzare i dati mobili</string>
     <string name="data_enable_summary">Abilita accesso dati tramite rete mobile</string>
     <string name="data_enable_warning">Consentire di utilizzare sempre i dati mobili può generare costi aggiuntivi. Connettersi comunque?</string>
@@ -787,9 +798,11 @@
     <string name="debug_view_attributes">Abilita ispezione attribuiti di visualizzazione</string>
     <string name="default_carrier_mmi_msg_title">Messaggio Operatore</string>
     <string name="default_notification_description">Suono predefinito (%1$s)</string>
+    <string name="default_port">5060</string>
     <string name="default_preference_summary_domain_address">&lt;Non impostato&gt;</string>
     <string name="default_preference_summary_password">&lt;Non impostato&gt;</string>
     <string name="default_preference_summary_username">&lt;Non impostato&gt;</string>
+    <string name="default_transport">UDP</string>
     <string name="delete">Elimina</string>
     <string name="delete_blob_confirmation_text">Sei sicuro di voler eliminare questi dati condivisi?</string>
     <string name="delete_blob_text">Elimina dati condivisi</string>
@@ -884,9 +897,11 @@
     <string name="disabled">Disabilitato</string>
     <string name="disabled_by_admin">Disattivato dall\'amministratore</string>
     <string name="disabled_by_admin_summary_text">Controllato dall\'amministratore</string>
+    <string name="display_name">DisplayName</string>
     <string name="display_name_summary">Come il nome utente</string>
     <string name="display_name_title">Mostra nome</string>
     <string name="do_not_show_again">"Non mostrare più"</string>
+    <string name="domain_address">SipDomain</string>
     <string name="domain_address_title">Server</string>
     <string name="doneButton">Fatto</string>
     <string name="dsds_dialog_cancel">Annulla</string>
@@ -1037,6 +1052,7 @@
     <string name="fiveg_sa_switch_open_dialog_content">La connessione 5G potrebbe essere instabile in modalità autonoma, che potrebbe influire sui servizi di telefonia. Attivarla comunque?</string>
     <string name="fiveg_sa_switch_open_dialog_title">Attenzione</string>
     <string name="fiveg_sa_switch_summary">Consenti la connessione a reti 5G in modalità autonoma</string>
+    <string name="fiveg_sa_switch_warning_toast">Riavvia il dispositivo per applicare le modifiche</string>
     <string name="fiveg_sa_vice_switch_title">SA su SIM secondaria</string>
     <string name="fiveg_signal_strength1">Potenza segnale 5G:</string>
     <string name="fiveg_switch_status1">Stato attivazione 5G:</string>
@@ -1044,6 +1060,8 @@
     <string name="fiveg_upperlayer_indication1">Stato indicazione livello superiore :</string>
     <string name="flash_when_ring_summary">Notifica lampeggiante per le chiamate in arrivo</string>
     <string name="flash_when_ring_title">Lampeggia in chiamata</string>
+    <string name="fold_answer_pref_summary">Piega il dispositivo per rispondere automaticamente ad una chiamata in arrivo</string>
+    <string name="fold_answer_pref_title">Piega per rispondere alle chiamate</string>
     <string name="forbidden_network">(vietato)</string>
     <string name="force_allow_on_external">Forza ammissione app da esterno</string>
     <string name="force_allow_on_external_summary">Permetti la scrittura delle app su archivio esterno, indipendentemente dai loro valori di manifest</string>
@@ -1053,6 +1071,8 @@
     <string name="force_resizable_activities_summary">Rendi tutte le attività multi finestra ridimensionabili, indipendentemente dai loro valori di manifest.</string>
     <string name="force_rtl_layout_all_locales">Forza direzione disposizione RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Forza direzione disposizione ad RTL per tutte le località</string>
+    <string name="four_point_five_switch_summary">Usa il 4.5G per migliorare la velocità di accesso ai dati e la qualità vocale.</string>
+    <string name="four_point_five_switch_title">4.5G</string>
     <string name="frequecy_num">num canale lte</string>
     <string name="fw_change_failed">"Impossibile modificare il numero a cui inoltrare le chiamate. Contatta il tuo operatore se questo problema persiste."</string>
     <string name="fw_get_in_vm_failed">"Impossibile recuperare e salvare l'attuale impostazione del numero a cui inoltrare le chiamate. Desideri passare comunque al nuovo servizio?"</string>
@@ -1106,6 +1126,7 @@
     <string name="incall_error_outgoing_call_failed">"Impossibile effettuare la chiamata"</string>
     <string name="incall_error_power_off">Per effettuare una chiamata, disattiva prima la modalità Aereo.</string>
     <string name="incall_error_power_off_wfc">Disattiva la modalità aereo o collegati ad una rete Wi-Fi per effettuare una chiamata.</string>
+    <string name="incall_error_promote_wfc">Abilita le chiamate Wi-Fi per effettuare una chiamata.</string>
     <string name="incall_error_supp_service_conference">Impossibile effettuare chiamate in conferenza.</string>
     <string name="incall_error_supp_service_hangup">"Impossibile rilasciare la chiamata(e)."</string>
     <string name="incall_error_supp_service_hold">"Impossibile mettere le chiamate in attesa"</string>
@@ -1151,8 +1172,13 @@
     <string name="kddi_sim_lock_status_code">Codice</string>
     <string name="kddi_sim_lock_status_default_code">-</string>
     <string name="kddi_sim_lock_status_no_sim">Nessuna SIM</string>
+    <string name="kddi_sim_lock_status_not_allowed">Non Consentito</string>
+    <string name="kddi_sim_lock_status_open_wifi_warning">È necessaria una connessione Wi-Fi</string>
     <string name="kddi_sim_lock_status_status">Stato</string>
     <string name="kddi_sim_lock_status_title">Stato SIM</string>
+    <string name="kddi_sim_lock_status_update">Aggiorna stato SIM</string>
+    <string name="kddi_sim_lock_status_update_fail">Aggiornamento fallito</string>
+    <string name="kddi_sim_lock_status_update_success">Aggiornamento completato</string>
     <string name="keep_screen_on">Rimani sveglio</string>
     <string name="keep_screen_on_summary">Lo schermo non andrà in standby durante la ricarica</string>
     <string name="keywords_adb_wireless">adb, debug, dev</string>
@@ -1230,6 +1256,12 @@
     <string name="lgu_msim_emm_cause_7_14">"La rete a cui è connnessa la SIM %d non fornisce servizi di dati mobili"</string>
     <string name="lgu_msim_emm_cause_8">"La SIM %d non può registrarsi alla rete. Visitare un centro di assistenza clienti (+82-2-3416-7010)."</string>
     <string name="lgu_msim_emm_cause_others">"La SIM %d non può connettersi alla rete. Visitare un centro di assistenza clienti (+82-2-3416-7010)."</string>
+    <string name="limited_service_alert_dialog_description"><b>Le chiamate di emergenza tramite Chiamate Wi-Fi</b>\"
+Le chiamate di emergenza non sono possibili tramite le chiamate Wi-Fi. 
+
+Il dispositivo passa automaticamente alla rete cellulare (2G/3G) per effettuare una chiamata di emergenza. 
+
+Le chiamate di emergenza sono possibili solo in zone con copertura cellulare.\"</string>
     <string name="limited_sim_function_notification_message">%1$s chiamate e dati potrebbero essere bloccati durante l\'utilizzo di un\'altra SIM.</string>
     <string name="limited_sim_function_notification_title">Funzionalità SIM limitata</string>
     <string name="limited_sim_function_with_phone_num_notification_message">%1$s chiamate e dati potrebbero essere bloccati durante l\'utilizzo di %2$s.</string>
@@ -1280,7 +1312,9 @@
     <string name="message_decode_error">Si è verificato un errore durante la decodificazione del messaggio.</string>
     <string name="mhh_disable">Medicina, Salute, Ospedali disattivate</string>
     <string name="mhh_enable">Medicina, Salute, Ospedali attivate</string>
+    <string name="mi_mobile_sim_activate_message">Attiva la SIM %d per poter usare Mi Mobile. Potrebbe volerci fino a 5 minuti.</string>
     <string name="mi_mobile_sim_activate_ok">Attiva</string>
+    <string name="mi_mobile_sim_activate_title">Benvenuto su Mi Mobile!</string>
     <string name="mi_sim_settings_summary">Utilizza la rete dati mobile senza una SIM</string>
     <string name="mi_sim_settings_title">Mi SIM</string>
     <string name="mismatchPin">"I PIN che hai digitato non corrispondono. Riprova"</string>
@@ -1397,6 +1431,7 @@
     <string name="msim_set_sub_not_supported_phone_in_call">"Non puoi impostarlo durante una chiamata"</string>
     <string name="msim_set_sub_not_supported_slot_id_error">Nessuna SIM o errore della SIM</string>
     <string name="msim_setting_categery_title">Impostazioni SIM</string>
+    <string name="msim_setting_default_data">SIM Dati</string>
     <string name="msim_setting_default_data_description">SIM Dati %d</string>
     <string name="msim_setting_default_voice">Predefinita per le chiamate</string>
     <string name="msim_setting_default_voice_description">SIM %d per le chiamate</string>
@@ -1479,6 +1514,7 @@
     <string name="no_vm_number">Numero della segreteria assente</string>
     <string name="no_vm_number_msg">Nella tua SIM non è presente il numero della segreteria telefonica.</string>
     <string name="no_voip">"Chiamate via internet non supportate"</string>
+    <string name="no_wifi_available">È necessario essere connessi a una rete Wi-Fi per le chiamate SIP (vedi impostazioni Wifi e Reti).</string>
     <string name="not_a_valid_port">Il numero della porta deve essere compreso tra %1$d e %2$d.</string>
     <string name="not_allowed">"La tua carta SIM non consente la connessione a questa rete."</string>
     <string name="not_set">Non impostato</string>
@@ -1543,6 +1579,7 @@
     <string name="ota_listen">Segui le istruzioni vocali finché l\'attivazione non è stata completata.</string>
     <string name="ota_next">Successivo</string>
     <string name="ota_progress">Attendi mentre il tuo dispositivo viene configurato.</string>
+    <string name="ota_skip_activation_dialog_message">"Se salti l'attivazione, non potrai effettuare chiamate o connetterti a reti di dati mobili (ma potrai connetterti a reti Wi-Fi). Finché non attiverai il telefono, ti verrà chiesto di attivarlo ogni volta che lo accendi."</string>
     <string name="ota_skip_activation_dialog_skip_label">Salta</string>
     <string name="ota_skip_activation_dialog_title">Saltare l\'attivazione?</string>
     <string name="ota_spc_failure">ECCESSIVI FALLIMENTI SPC</string>
@@ -1560,6 +1597,7 @@
     <string name="overlay_display_devices_title">Simula schermi secondari</string>
     <string name="overseas_roaming_setting">Roaming dati</string>
     <string name="pane_title_emergency_dialpad">Numeri di emergenza</string>
+    <string name="password">Password</string>
     <string name="password_changed">Password modificata</string>
     <string name="password_title">Password</string>
     <string name="path_answer_state_setting_title">Applicazioni di sistema/Chiamate/Impostazioni chiamate in arrivo</string>
@@ -1651,7 +1689,9 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
     <string name="police_type_description">Polizia</string>
+    <string name="port">Porta</string>
     <string name="port_title">Numero porta</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s fino a completamento</string>
     <string name="power_discharge_by">Dovrebbe durare circa fino al %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Dovrebbe durare almeno fino a %1$s in base al tuo utilizzo (%2$s)</string>
@@ -1762,6 +1802,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
     <string name="private_num">Numero privato</string>
     <string name="private_num_kr">ID Chiamante limitato</string>
+    <string name="process_kernel_label">Sistema Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
     <string name="progress_dialog_exiting_ecm">Uscita dalla modalità di richiamata di emergenza</string>
@@ -1776,6 +1817,10 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="prompt_when_turnon_volte_without_lte">"Le reti LTE non sono disponibili in questo momento. Attivare VoLTE potrebbe impedirti di effettuare le chiamate normali."</string>
     <string name="proxy_address">Indirizzo Proxy</string>
     <string name="proxy_address_title">Indirizzo proxy verso l\'esterno</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_hint">proxy.esempio.com</string>
+    <string name="proxy_port_hint">8000</string>
+    <string name="proxy_url_hint">https://www.esempio.com/proxy.pac</string>
     <string name="pstn_connection_service_label">SIM implementata</string>
     <string name="pstn_phone">Chiamate via telefono cellulare</string>
     <string name="puk2_blocked">PUK2 è bloccato permanentemente.</string>
@@ -1828,6 +1873,11 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="radio_info_imei_label">IMEI:</string>
     <string name="radio_info_ims_feature_status_available">Disponibile</string>
     <string name="radio_info_ims_feature_status_unavailable">Non disponibile</string>
+    <string name="radio_info_ims_reg_status">"Registrazione IMS: %1$s
+Voice over LTE: %2$s
+Voice over Wi-Fi: %3$s
+Videochiamate: %4$s
+Interfaccia UT: %5$s"</string>
     <string name="radio_info_ims_reg_status_not_registered">Non registrato</string>
     <string name="radio_info_ims_reg_status_registered">Registrato</string>
     <string name="radio_info_ims_reg_status_title">Stato IMS</string>
@@ -1835,6 +1885,8 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="radio_info_message_waiting_label">Messaggio in attesa:</string>
     <string name="radio_info_phone_number_label">Numero di telefono:</string>
     <string name="radio_info_phy_chan_config">Configurazione canale fisico LTE:</string>
+    <string name="radio_info_ping_hostname_v4">Ping Hostname(www.google.com) IPv4:</string>
+    <string name="radio_info_ping_hostname_v6">Ping Hostname(www.google.com) IPv6:</string>
     <string name="radio_info_ppp_received_label">Dati ricevuti:</string>
     <string name="radio_info_ppp_resets_label">Numero di PPP reimpostati dall\'avvio:</string>
     <string name="radio_info_ppp_sent_label">Dati inviati:</string>
@@ -1863,6 +1915,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="registration_status_failed_try_later">"Registrazione account fallita: (%s); riprova più tardi"</string>
     <string name="registration_status_invalid_credentials">"Registrazione account fallita: nome utente o password errati."</string>
     <string name="registration_status_no_data">"Registrazione account interrotta per mancanza di connessione ad internet."</string>
+    <string name="registration_status_no_wifi_data">"Impossibile registrare l'account. Questo dispositivo non è connesso al Wi-Fi."</string>
     <string name="registration_status_not_receiving">"Non è possibile ricevere chiamate."</string>
     <string name="registration_status_not_running">"Registrazione account fallita."</string>
     <string name="registration_status_registering">Registrazione…</string>
@@ -1943,6 +1996,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="search_menu">Ricerca</string>
     <string name="search_menu_title">Cerca</string>
     <string name="selectContact">Seleziona contatto</string>
+    <string name="select_apn_list_title">Scegli il tuo APN predefinito: per la SIM%1$s</string>
     <string name="select_application">Seleziona applicazione</string>
     <string name="select_automatically">Scegli automaticamente</string>
     <string name="select_dds_dialog_title">Seleziona la SIM predefinita per i dati mobili</string>
@@ -1960,6 +2014,8 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="select_webview_provider_toast_text">Questa scelta choice non è più valida. Riprova.</string>
     <string name="send_button">Invia</string>
     <string name="send_keepalive_title">Invia keep-alive</string>
+    <string name="sensor_answer_summary">Porta il telefono all\'orecchio per rispondere automaticamente a una chiamata in arrivo</string>
+    <string name="sensor_answer_title">Solleva per rispondere</string>
     <string name="set_primary_summary">Usato per le chiamate in uscita</string>
     <string name="set_primary_title">Imposta come account primario</string>
     <string name="set_smsc_address_error">"Impossibile impostare il numero"</string>
@@ -2033,6 +2089,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="sip_call_options_entry_3">Chiedi ad ogni chiamata</string>
     <string name="sip_call_options_title">Usa per chiamate via internet</string>
     <string name="sip_call_options_wifi_only_entry_1">Per tutte le chiamate</string>
+    <string name="sip_call_options_wifi_only_title">Usa chiamata SIP (solo Wi-Fi)</string>
     <string name="sip_connection_service_label">Servizio chiamata SIP integrato</string>
     <string name="sip_edit_new_title">Dettagli account SIP</string>
     <string name="sip_edit_title">Dettagli account SIP</string>
@@ -2077,6 +2134,8 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="srvcc_video_message">La videochiamata in 4G é stata ridotta a 2G/3G, perché la rete 4G non é disponibile.</string>
     <string name="standby_bucket_summary">Stato standby app: %s</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_hint_label_incoming_wifi_call">Chiamata Wi-Fi da</string>
+    <string name="status_hint_label_wifi_call">Chiamata Wi-Fi</string>
     <string name="status_unavailable">Non disponibile</string>
     <string name="stk_cc_ss_to_dial_error">Richiesta SS modificata in una richiesta DIAL.</string>
     <string name="stk_cc_ss_to_dial_video_error">Richiesta SS modificata in video chiamata</string>
@@ -2205,6 +2264,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="time_end_minute">minuto di interruzione</string>
     <string name="time_formate_am">AM</string>
     <string name="time_formate_pm">PM</string>
+    <string name="time_interval_char">:</string>
     <string name="time_next_day"> giorno successivo </string>
     <string name="time_start">Da</string>
     <string name="time_start_hour">ora di inizio</string>
@@ -2216,6 +2276,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="traffic_mode_summary">L\'applicazione attuale ha priorità estrema sulla rete, questo potrebbe impedire l\'utilizzo della rete alle app in background</string>
     <string name="traffic_mode_switch_title">Modalità estrema</string>
     <string name="transition_animation_scale_title">Transizione scala animazione</string>
+    <string name="transport">Protocollo</string>
     <string name="transport_title">Tipo di trasporto</string>
     <string name="trigger_carrier_provisioning">Attiva provisioning operatore</string>
     <string name="tts_default_lang_summary">Imposta la lingua specifica per il testo parlato</string>
@@ -2258,6 +2319,10 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="turnover_mute_summary">Quando il dispositivo è in posizione orizzontale, capovolgilo per silenziare la suoneria</string>
     <string name="turnover_mute_title">Capovolgi per silenziare la suoneria</string>
     <string name="undefined">Nessuno</string>
+    <string name="unfold_close_camera_pref_summary">Apri il dispositivo durante una videochiamata per spegnere la fotocamera</string>
+    <string name="unfold_close_camera_pref_title">Apri per spegnere la fotocamera</string>
+    <string name="unfold_speaker_pref_summary">Apri il dispositivo durante una chiamata per attivare l\'altoparlante</string>
+    <string name="unfold_speaker_pref_title">Apri per usare l\'altoparlante</string>
     <string name="unknown">Sconosciuto</string>
     <string name="unlock_failed">Richiesta di sblocco rete fallita.</string>
     <string name="unlock_success">Sblocco SIM Insieme di Reti riuscito.</string>
@@ -2347,6 +2412,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="voicemail_provider">Servizio</string>
     <string name="voicemail_provider_summary">Scegli il servizio di segreteria telefonica</string>
     <string name="voicemail_set_pin_dialog_title">Imposta PIN</string>
+    <string name="voicemail_settings">Impostazioni segreteria telefonica</string>
     <string name="voicemail_settings_number_hint">Inserisci il numero della segreteria telefonica</string>
     <string name="voicemail_settings_number_label">Numero della segreteria telefonica</string>
     <string name="voicemail_settings_number_title">Numero della segreteria telefonica</string>
@@ -2366,8 +2432,16 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="volte_tips_when_turn_on">China Telecom VoLTE services are only provided in the areas with LTE network coverage.</string>
     <string name="vonr_switch_summary">Usa VoNR per migliorare la qualità delle chiamate vocali</string>
     <string name="vonr_switch_title">Use VoNR</string>
+    <string name="vowifi_emergency_notification_channel">Avviso di emergenza Wi-Fi</string>
     <string name="vowifi_emergency_notification_content">Le chiamate di emergenza sono possibili nelle aree con copertura della rete mobile</string>
+    <string name="vowifi_emergency_notification_title">Vodafone Wi-Fi Calling</string>
     <string name="vowifi_emergency_warning_check">"Non mostrare più"</string>
+    <string name="vowifi_emergency_warning_message">"Le chiamate di emergenza non sono disponibili tramite chiamata Wi-Fi.
+
+Il dispositivo passa automaticamente a una rete cellulare (2G/3G) per effettuare una chiamata di emergenza.
+
+Le chiamate di emergenza sono disponibili solo in aree con copertura cellulare."</string>
+    <string name="vowifi_emergency_warning_title">Chiamate di emergenza tramite chiamata Wi-Fi</string>
     <string name="vpn_settings_not_available">Impostazioni VPN non disponibili per questo utente</string>
     <string name="vt_provisioned_switch_string">Le video chiamate sono consentite</string>
     <string name="vvm_unsupported_message_format">Tipi di messaggi non supportati, chiama %s per ascoltare.</string>
@@ -2392,13 +2466,39 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wapi_password_length_is_min_to_max">La password deve essere: 8-64 caratteri</string>
     <string name="wapi_yes">Si</string>
     <string name="wfc_provisioned_switch_string">Chiamate Wi-Fi fornite</string>
+    <string name="wfcmode_ims_preferred">Preferisci IMS</string>
     <string name="wfcmode_mobile_preferred">Preferita Cellulare</string>
+    <string name="wfcmode_wifi_only">Solo Wi-Fi</string>
+    <string name="wfcmode_wifi_preferred">Preferisci Wi-Fi</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Punto di accesso temporaneamente pieno</string>
     <string name="wifi_auto_sel_wapi_cert">Seleziona automaticamente</string>
     <string name="wifi_call_accept">Salta</string>
+    <string name="wifi_call_available_message">"Ora puoi effettuare chiamate tramite Wi-Fi. Se sei connesso a una rete Wi-Fi, sarai in grado di parlare anche quando sei nelle aree senza copertura di rete mobile."</string>
+    <string name="wifi_call_available_message_for_ATT_MX">Stai per connetterti a una rete Wi-Fi, la qualità della chiamata può variare a seconda della rete.</string>
+    <string name="wifi_call_available_title">Attivazione chiamata Wi-Fi</string>
     <string name="wifi_call_cancel">Maggior informazioni</string>
     <string name="wifi_call_help">Guida</string>
+    <string name="wifi_call_help_message_1">"La chiamata Wi-Fi è un servizio fornito da Orange che consente di effettuare e ricevere chiamate tramite Wi-Fi. Questa funzione può essere utilizzata in aree con scarsa copertura di rete mobile.
+
+Per utilizzare la chiamata Wi-Fi, attivala in Impostazioni &gt; Chiamate Wi-Fi.
+
+Per attivare il servizio, Orange ti invierà un messaggio di conferma non appena il servizio sarà disponibile. Dopodiché, sarai in grado di connetterti a una rete Wi-Fi e effettuare chiamate.
+
+Le chiamate effettuate tramite Wi-Fi saranno addebitate in base alle condizioni del vostro piano.
+
+Ogni volta che questa funzione è disponibile, la seguente icona verrà mostrata nella parte superiore dello schermo."</string>
+    <string name="wifi_call_help_message_2">"Se si sceglie di preferire le reti Wi-Fi, verranno usate di default per effettuare chiamate telefoniche. Nel caso in cui non si è connessi al Wi-Fi o il segnale è scarso, le reti mobili saranno utilizzate per effettuare chiamate.
+
+Se si sceglie di preferire le reti mobili, esse verranno utilizzate per le chiamate. Nel caso in cui non ci sia alcun segnale di rete o è molto debole, verrà invece utilizzata la rete Wi-Fi."</string>
+    <string name="wifi_call_help_title">Aiuto Chiamate Wi-Fi</string>
     <string name="wifi_call_notification_message">"Questo servizio è fornito da Orange. L'attivazione del servizio potrebbe richiedere diverse ore. Riceverai un SMS di conferma non appena sarà disponibile."</string>
+    <string name="wifi_call_preferred_summary">"Se si sceglie di preferire le reti mobili, esse verranno utilizzate per le chiamate. Nel caso in cui non ci sia alcun segnale di rete o è molto debole, verrà invece utilizzata la rete Wi-Fi."</string>
+    <string name="wifi_call_setting">Chiamate Wi-Fi</string>
+    <string name="wifi_call_setting_vodafone_de">Chiamate Wi-Fi</string>
+    <string name="wifi_call_setting_vodafone_uk">Chiamata Wi-Fi</string>
+    <string name="wifi_call_welcome_settings">Chiamate Wi-Fi</string>
+    <string name="wifi_calling">Chiamate Wi-Fi</string>
+    <string name="wifi_calling_settings_title">Chiamate Wi-Fi</string>
     <string name="wifi_cant_connect">"Impossibile connettersi"</string>
     <string name="wifi_cant_connect_to_ap">"Impossibile collegare a '%1$s'"</string>
     <string name="wifi_check_password_try_again">Controlla la password e prova di nuovo</string>
@@ -2409,6 +2509,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_disabled_generic">Disabilitato</string>
     <string name="wifi_disabled_network_failure">Configurazione IP fallita</string>
     <string name="wifi_disabled_password_failure">Problema di autenticazione</string>
+    <string name="wifi_disabled_wifi_failure">Connessione Wi-Fi Fallita</string>
     <string name="wifi_disconnected">Disconnesso</string>
     <string name="wifi_display_certification">Certificazione schermo wireless</string>
     <string name="wifi_display_certification_summary">Mostra opzioni per certificazione schermo wireless</string>
@@ -2479,6 +2580,8 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_wapi_fail_to_init">"Impossibile aprire i certificati WAPI L'archivio credenziali potrebbe non essere attivato"</string>
     <string name="wifi_wapi_psk_type">Tip di password</string>
     <string name="wifi_wapi_user_certificate">Certificato utente</string>
+    <string name="wificall_switch_summary">Usa il Wi-Fi per effettuare e ricevere chiamate quando possibile</string>
+    <string name="wificall_switch_title">Effettua chiamate tramite Wi-Fi</string>
     <string name="wild_prompt_str">Sostituire carattere con</string>
     <string name="window_animation_scale_title">Scala animazioni finestra</string>
     <string name="wrong_password">Password errata</string>

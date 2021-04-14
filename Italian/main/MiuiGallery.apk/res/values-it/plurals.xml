@@ -148,6 +148,10 @@
         <item quantity="other">%d video</item>
         <item quantity="one">%d video</item>
     </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">I collage possono contenere %1$d-%2$d foto</item>
+        <item quantity="one">I collage possono contenere %1$d-%2$d foto</item>
+    </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">Seleziona fino a %d foto</item>
         <item quantity="one">Seleziona fino a %d foto</item>

@@ -192,6 +192,10 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
         <item quantity="other">Dissolvenza incrociata tra le canzoni: %d secondi</item>
         <item quantity="one">Dissolvenza incrociata tra le canzoni: %d secondo</item>
     </plurals>
+    <plurals name="video_count">
+        <item quantity="other">Video</item>
+        <item quantity="one">Video</item>
+    </plurals>
     <plurals name="video_play_count">
         <item quantity="other">%1$s visualizzazioni</item>
         <item quantity="one">%1$s visualizzazione</item>

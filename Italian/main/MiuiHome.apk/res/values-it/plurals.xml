@@ -16,6 +16,10 @@
         <item quantity="other">%1$d selezionati</item>
         <item quantity="one">%1$d selezionato</item>
     </plurals>
+    <plurals name="remove_dialog_title_multi_format">
+        <item quantity="other">Rimuovere %1$d app dalla schermata Home?</item>
+        <item quantity="one">Rimuovere %1$d app dalla schermata Home?</item>
+    </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">pagina %1$d, %2$d app</item>
         <item quantity="one">pagina %1$d, %2$d app</item>

@@ -87,9 +87,14 @@
     <string name="action_menu_text_refresh">Aggiorna</string>
     <string name="action_menu_text_setting">Impostazioni</string>
     <string name="action_menu_text_share">Condividi</string>
+    <string name="action_menu_text_snapshot">Salva pagina</string>
     <string name="action_menu_text_speed_test">Verifica la rete</string>
     <string name="action_menu_text_video">Video</string>
+    <string name="action_menu_text_video_download">Scarica video</string>
+    <string name="action_menu_text_web_mode">Modalità desktop</string>
     <string name="action_menu_toolbox">Utilità</string>
+    <string name="action_menu_useful_page">Aggiungi collegamento</string>
+    <string name="action_menu_useful_page_added">Aggiunto alla pagina iniziale</string>
     <string name="action_mode_deselect_all">Deseleziona tutto</string>
     <string name="action_mode_select_all">Seleziona tutto</string>
     <string name="action_update_phone">Cambia numero di telefono</string>
@@ -108,6 +113,7 @@
     <string name="add_ql_bm_title">Salva</string>
     <string name="add_quicklink_to_popular">Aggiungi alla pagina iniziale</string>
     <string name="add_quicklinks">Aggiungi</string>
+    <string name="add_shortcut">Aggiungi collegamento</string>
     <string name="add_shortcut_success">Collegamento aggiunto correttamente</string>
     <string name="add_to_bookmark">Segnalibri</string>
     <string name="add_to_quicklink">Funzioni</string>
@@ -396,6 +402,7 @@
     <string name="contextmenu_sharelink">Condividi link</string>
     <string name="contextmenu_view_image">Visualizza immagine</string>
     <string name="contextmenu_webpage_pdf">Salva come PDF</string>
+    <string name="contextmenu_webpage_snapshot">Salva pagina</string>
     <string name="copy">Copia</string>
     <string name="copy_url">Copia URL link</string>
     <string name="create_qr_code">Codice QR</string>
@@ -1328,6 +1335,7 @@ Abbandonare questa pagina?"</string>
     <string name="quicklinks_management">Popolari</string>
     <string name="quicklinks_most_visited">Aggiungi alla pagina iniziale</string>
     <string name="quicklinks_most_visited_title">Aggiungi alla pagina iniziale</string>
+    <string name="readmode_battery">Batteria </string>
     <string name="readmode_login">Accedi</string>
     <string name="readmode_page_loading">Attendi…</string>
     <string name="readmode_refresh">Aggiorna</string>
