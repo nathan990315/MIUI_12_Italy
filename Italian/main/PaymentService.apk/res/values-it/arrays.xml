@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="account_user_gender_name">
-        <item>Uomo</item>
-        <item>Donna</item>
+        <item>Maschio</item>
+        <item>Femmina</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>\#</item>
@@ -11,11 +11,11 @@
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>F</item>
+        <item>Ven</item>
         <item>G</item>
-        <item>H</item>
+        <item>O</item>
         <item>I</item>
-        <item>J</item>
+        <item>G</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -30,17 +30,12 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>Y</item>
+        <item>A</item>
         <item>Z</item>
     </string-array>
     <string-array name="mibi_nopassword_pay_threshold">
         <item>100</item>
-        <item>200</item>
-        <item>500</item>
-    </string-array>
-    <string-array name="mibi_nopassword_pay_threshold_values">
-        <item>10000</item>
-        <item>20000</item>
-        <item>50000</item>
+        <item>ISO 200</item>
+        <item>ISO 500</item>
     </string-array>
 </resources>

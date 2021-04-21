@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="acc_category_color_description">
+        <item>Bianco</item>
+        <item>Blu scuro</item>
+        <item>Azzurro chiaro</item>
+        <item>Rosso</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Marrone</item>
+        <item>Grigio</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Seleziona un\'immagine</item>
+        <item>Sfondo trasparente</item>
+    </string-array>
     <string-array name="activities_title">
         <item>Giorno speciale</item>
         <item>Giorno da ricordare</item>
-        <item>Momenti importanti</item>
+        <item>Momenti vivaci</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
@@ -11,11 +25,11 @@
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>F</item>
+        <item>Ven</item>
         <item>G</item>
-        <item>H</item>
+        <item>O</item>
         <item>I</item>
-        <item>J</item>
+        <item>G</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -30,7 +44,7 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>Y</item>
+        <item>A</item>
         <item>Z</item>
         <item>\#</item>
     </string-array>
@@ -41,11 +55,11 @@
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>F</item>
+        <item>Ven</item>
         <item>G</item>
-        <item>H</item>
+        <item>O</item>
         <item>I</item>
-        <item>J</item>
+        <item>G</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -60,56 +74,56 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>Y</item>
+        <item>A</item>
         <item>Z</item>
         <item>\#</item>
     </string-array>
     <string-array name="baby_sexy">
-        <item>Bambino</item>
-        <item>Bambina</item>
+        <item>Ragazzo</item>
+        <item>Ragazza</item>
     </string-array>
     <string-array name="backup_automatically_key_words">
-        <item>Esegui il backup delle foto</item>
-        <item>Sincronizza le foto con Mi Cloud</item>
+        <item>Backup delle foto</item>
+        <item>Sincronizza le foto con il cloud</item>
     </string-array>
     <string-array name="card_last_week_day">
-        <item>Lo scorso Lunedì</item>
-        <item>Lo scorso Martedì</item>
-        <item>Lo scorso Mercoledì</item>
-        <item>Lo scorso Giovedì</item>
-        <item>Lo scorso Venerdì</item>
+        <item>Lunedì scorso</item>
+        <item>Martedì scorso</item>
+        <item>Mercoledì scorso</item>
+        <item>Giovedì scorso</item>
+        <item>Venerdì scorso</item>
     </string-array>
     <string-array name="chinese_holiday_last_year">
-        <item>"Ultimo capodanno Cinese"</item>
-        <item>Ultimo capodanno Cinese</item>
-        <item>Ultimo Festival delle Lanterne</item>
+        <item>"Ultimo Capodanno Cinese"</item>
+        <item>Ultimo Capodanno Cinese</item>
+        <item>Ultimo Festival Della Lanterna</item>
         <item>Ultimo Festival delle Barche Drago</item>
         <item>Ultimo Festival di Qixi</item>
         <item>Ultimo Festival di Metà Autunno</item>
     </string-array>
     <string-array name="chinese_holiday_past_year">
-        <item>"Capodanno Cinese nel corso degli anni"</item>
-        <item>Capodanno Cinese nel corso degli anni</item>
-        <item>Festival delle Lanterne nel corso degli anni</item>
-        <item>Festival delle Barche Drago nel corso degli anni</item>
-        <item>Festival Qixi nel corso degli anni</item>
-        <item>Festival di Metà Autunno nel corso degli anni</item>
+        <item>"Capodanno Cinese negli anni"</item>
+        <item>Capodanno Cinese negli anni</item>
+        <item>Festival delle Lanterne negli anni</item>
+        <item>Festival delle barche del drago negli anni</item>
+        <item>Festival Qixi negli anni</item>
+        <item>Festival di Metà Autunno negli anni</item>
     </string-array>
     <string-array name="holiday_last_year">
-        <item>"Lo scorso giorno dell'anno"</item>
-        <item>"Lo scorso giorno di San Valentino"</item>
+        <item>"Il Capodanno precedente"</item>
+        <item>"Lo scorso San Valentino"</item>
         <item>La scorsa giornata del lavoro</item>
         <item>"La scorsa giornata dei bambini"</item>
         <item>La scorsa Festa nazionale</item>
         <item>Lo scorso Natale</item>
     </string-array>
     <string-array name="holiday_past_year">
-        <item>"Nuovo giorno dell'anno nel corso degli anni"</item>
-        <item>"Nuovo giorno di San Valentino nel corso degli anni"</item>
-        <item>Giornata del lavoro nel corso degli anni</item>
-        <item>"Giornata dei bambini nel corso degli anni"</item>
-        <item>Festa nazionale nel corso gli anni</item>
-        <item>Natale nel corso degli anni</item>
+        <item>"Capodanno negli anni"</item>
+        <item>"San Valentino negli anni"</item>
+        <item>Giornata del lavoro negli anni</item>
+        <item>"Giornata dei bambini negli anni"</item>
+        <item>Festa nazionale negli anni</item>
+        <item>Natale negli anni</item>
     </string-array>
     <string-array name="last_month">
         <item>Gennaio</item>
@@ -132,12 +146,151 @@
     </string-array>
     <string-array name="last_weekend_title">
         <item>I miei weekend</item>
-        <item>Spaccati di vita</item>
+        <item>Scorci di vita</item>
         <item>Ricordi dei weekend</item>
     </string-array>
     <string-array name="last_year_group_people">
         <item>Nuovi amici e vecchie conoscenze</item>
         <item>"Riunificazione dell'anno scorso"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Piacere</item>
+        <item>Brezza</item>
+        <item>Sogni</item>
+        <item>Nuvole</item>
+        <item>Pensieri</item>
+        <item>Scheletri</item>
+        <item>Metamorfosi</item>
+        <item>Profondità</item>
+        <item>Riflessi</item>
+        <item>Minimalista</item>
+        <item>Mistero</item>
+        <item>Nebbia</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Trasforma gli sfondi in dipinti</item>
+        <item>Sfondi in stile acquerello</item>
+        <item>Cyberpunk retro</item>
+        <item>Segmenti verticali non allineati</item>
+        <item>Sfocatura nebbiosa</item>
+        <item>Sensazione futuristica</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Fumetto</item>
+        <item>Acquarello</item>
+        <item>RGB</item>
+        <item>Oscuro</item>
+        <item>Finestra nebbiosa</item>
+        <item>Tech</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Bordo colorato</item>
+        <item>Bordo tratteggiato</item>
+        <item>Bordo fluorescente</item>
+        <item>Ombra colorata</item>
+        <item>Onda elettrica</item>
+        <item>Attuale</item>
+        <item>Onde</item>
+        <item>Particelle</item>
+        <item>Testo</item>
+        <item>Ali</item>
+        <item>Angelo</item>
+    </string-array>
+    <string-array name="magic_idp_color_common">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Generale</item>
+        <item>Viaggi</item>
+        <item>Lavoro</item>
+        <item>Documenti</item>
+        <item>Educazione</item>
+        <item>Esami</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Sicurezza sociale</item>
+        <item>Dichiarazione sulla salute</item>
+        <item>Assicurazione medica</item>
+        <item>ID</item>
+        <item>Permesso di soggiorno</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Applicazione di ammissione</item>
+        <item>Rete di studenti</item>
+        <item>Rete di studenti per scuole elementari</item>
+        <item>Profilo di rete degli studenti</item>
+        <item>Iscrizione universitaria</item>
+        <item>NCEE</item>
+        <item>Riprendi</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>Test di Inglese del College 1</item>
+        <item>Test di Inglese del College 2</item>
+        <item>Test di Inglese del College 3</item>
+        <item>Test Di Competenza Putonghua 1</item>
+        <item>Test Di Competenza Putonghua 2</item>
+        <item>Test di Laurea in Inglese</item>
+        <item>PET per università</item>
+        <item>PET Livello 3</item>
+        <item>National Computer Rank Examination 1</item>
+        <item>National Computer Rank Examination 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Primary and secondary school teacher certification</item>
+        <item>Teacher certification</item>
+        <item>"Patente di guida"</item>
+        <item>Permesso di guida</item>
+        <item>Autorizzazione di guida elettronica</item>
+        <item>National judicial examination</item>
+        <item>Electronic first-class constructor certificate</item>
+        <item>Second-class constructor certificate</item>
+        <item>Junior accounting title examination</item>
+        <item>Certified public accountant</item>
+        <item>Beijing guide permit</item>
+        <item>Intermediate accounting title examination</item>
+        <item>Senior accounting title examination</item>
+        <item>Accounting qualification certificate</item>
+        <item>Certified public accountant examination</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>Stati Uniti</item>
+        <item>Vietnam</item>
+        <item>Giappone</item>
+        <item>Hong Kong e Macao</item>
+        <item>Corea Del Sud</item>
+        <item>Thailandia (turista)</item>
+        <item>Thailandia (all\'arrivo)</item>
+        <item>India</item>
+        <item>Israele</item>
+        <item>Tailandia</item>
+        <item>Malesia</item>
+        <item>Nuova Zelanda</item>
+        <item>Italia</item>
+        <item>Argentina</item>
+        <item>Brasile</item>
+        <item>Islanda</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="magic_system_model">
+        <item>Mi 10</item>
+        <item>Mi 10 Pro</item>
+        <item>Mi 11</item>
+        <item>Mi 11 Pro</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Sposta</item>
+        <item>Copia</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Gennaio</item>
@@ -178,27 +331,29 @@
     <string-array name="parties_title">
         <item>Insieme</item>
         <item>Bei momenti</item>
-        <item>Insieme</item>
+        <item>All\'unisono</item>
     </string-array>
     <string-array name="recent_group_people">
         <item>Insieme</item>
-        <item>Legami e nodi</item>
+        <item>Obbligazioni e legami</item>
     </string-array>
     <string-array name="relation_with_me">
         <item>Io</item>
         <item>Figlio</item>
-        <item>Familiare</item>
-        <item>Collega</item>
-        <item>Compagno di classe</item>
-        <item>Amico</item>
-        <item>Sconosciuto</item>
+        <item>Famiglia</item>
+        <item>Colleghi</item>
+        <item>Compagni di classe</item>
+        <item>Amici</item>
+        <item>Non raggruppato</item>
     </string-array>
-    <string-array name="search_voice_assistant_suggestion">
-        <item>帮我找出身份证的照片</item>
-        <item>我想看在三亚拍的照片</item>
-        <item>找出有小米文字的图片</item>
-        <item>搜索去年春节的照片</item>
-        <item>帮我搜我和妈妈上个月在海边的合影</item>
+    <string-array name="relation_with_me_value">
+        <item>myself</item>
+        <item>child</item>
+        <item>family</item>
+        <item>collegue</item>
+        <item>classmate</item>
+        <item>friend</item>
+        <item>sconosciuto</item>
     </string-array>
     <string-array name="season">
         <item>Primavera</item>
@@ -220,6 +375,10 @@
         <item>Nonno materno</item>
         <item>Nonna materna</item>
     </string-array>
+    <string-array name="spinner_list">
+        <item>px</item>
+        <item>mm</item>
+    </string-array>
     <string-array name="sports_title">
         <item>Andare avanti</item>
         <item>Pieno di energia</item>
@@ -232,6 +391,6 @@
         <item>Ultimi weekend</item>
         <item>Giorni da ricordare</item>
         <item>Eventi giornalieri</item>
-        <item>Ordinari e Straordinari</item>
+        <item>Ordinario e Straordinario</item>
     </string-array>
 </resources>

@@ -6,11 +6,11 @@
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>F</item>
+        <item>Ven</item>
         <item>G</item>
-        <item>H</item>
+        <item>O</item>
         <item>I</item>
-        <item>J</item>
+        <item>G</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -25,7 +25,7 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>Y</item>
+        <item>A</item>
         <item>Z</item>
         <item>\#</item>
     </string-array>
@@ -36,11 +36,11 @@
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>F</item>
+        <item>Ven</item>
         <item>G</item>
-        <item>H</item>
+        <item>O</item>
         <item>I</item>
-        <item>J</item>
+        <item>G</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -55,25 +55,9 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>Y</item>
+        <item>A</item>
         <item>Z</item>
         <item>\#</item>
-    </string-array>
-    <string-array name="default_colors">
-        <item>\#ff0000</item>
-        <item>\#ff7f00</item>
-        <item>\#ffff00</item>
-        <item>\#800080</item>
-        <item>\#0000ff</item>
-        <item>\#00ff00</item>
-    </string-array>
-    <string-array name="disable_package_replacement">
-        <item>disabilita nome pacchetto</item>
-    </string-array>
-    <string-array name="set_wallpaper_loop_interval_values">
-        <item>900000</item>
-        <item>3600000</item>
-        <item>86400000</item>
     </string-array>
     <string-array name="set_wallpaper_loop_order_values">
         <item>0</item>
@@ -83,16 +67,5 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="system_cta_runtime_perm">
-        <item>android.permission.READ_PHONE_STATE</item>
-        <item>android.permission-group.STORAGE</item>
-    </string-array>
-    <string-array name="system_cta_runtime_perm_non_phone_state">
-        <item>android.permission-group.STORAGE</item>
-    </string-array>
-    <string-array name="wallpaper_version">
-        <item>视觉中国</item>
-        <item>东方IC</item>
     </string-array>
 </resources>

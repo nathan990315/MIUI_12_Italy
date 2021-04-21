@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>Ven</item>
+        <item>G</item>
+        <item>O</item>
+        <item>I</item>
+        <item>G</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>A</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>Ven</item>
+        <item>G</item>
+        <item>O</item>
+        <item>I</item>
+        <item>G</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>A</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="settings_search_mirror">
+        <item>MIUI+ Beta</item>
+        <item>Connessione e condivisione/MIUI+ Beta</item>
+        <item>Combinazione Schermo;Duet;Multischermo;Duo;Computer;Mirror;MIUI+</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1. Disattiva l'hotspot portatile, Mi Share, o la Proiezione sul tuo dispositivo mobile prima di utilizzare questa funzionalità.
+2. Disattiva il Wi-Fi sia sul tuo dispositivo mobile che sul computer.
+3. Assicurati che il tuo dispositivo mobile sia vicino al tuo computer. Non sarai in grado di connettere i dispositivi se si trovano in luoghi diversi."</item>
+        <item>Il tuo computer utilizza il Bluetooth per rilevare i dispositivi nelle vicinanze che sono stati precedentemente collegati. Controlla se il Bluetooth è acceso sul tuo dispositivo.</item>
+        <item>"I dispositivi mobili non possono sincronizzare i dati con i computer quando lo schermo è bloccato. Per impostazione predefinita, questa app non consente di bloccare lo schermo quando il dispositivo mobile è collegato a un computer. È possibile modificare questa impostazione nelle impostazioni."</item>
+        <item>"1. Dispositivi compatibili Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30S Ultra, Redmi K20 Pro, Redmi K30 Pro. Se dopo la scansione del codice QR vieni reindirizzato al nostro sito ufficiale, il tuo dispositivo non è ancora supportato.
+2. Computer compatibili: Mi Air Pro 15, Mi Air Pro 15.6, Redmi G Gaming Laptop, RedmiBook 16, RedmiBook 14 II, RedmiBook Air 3. Scarica MIUI+ Beta sul tuo computer qui: https://plus.miui.com."</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>"Impossibile connettersi con il codice QR?"</item>
+        <item>"Non riesci a trovare dispositivi utilizzando il computer?"</item>
+        <item>"Non riesci a bloccare il dispositivo mobile?"</item>
+        <item>Compatibilità</item>
+    </string-array>
+</resources>

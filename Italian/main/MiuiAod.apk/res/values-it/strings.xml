@@ -80,7 +80,7 @@ dd/MM"</string>
     <string name="background_icon">Sfondo</string>
     <string name="battery_meter_progress_mask_path">M2.5638852 0C1.6723665 0 1.3490802 0.09282561 1.0231543 0.2671327 0.69722837 0.4414398 0.4414398 0.69722837 0.2671327 1.0231543 0.09282561 1.3490802 0 1.6723665 0 2.5638852L0 0 2.5638852 0Zm0 18L0 18 0 15.436115c0 0.891518 0.09282561 1.214805 0.2671327 1.540731 0.1743071 0.325926 0.43009567 0.581714 0.7560216 0.756021C1.3490802 17.907174 1.6723665 18 2.5638852 18Z</string>
     <string name="below_image">Giù</string>
-    <string name="btn_know">Fatto</string>
+    <string name="btn_know">Ok</string>
     <string name="cancel">Annulla</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
@@ -449,6 +449,7 @@ wonderful is about to happen"</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="standard_clock_panel">Normale</string>
     <string name="standard_style">Normale</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">Il conteggio dei passaggi è fornito da Xiaomi Health. Accetta
  i termini e le condizioni di Salute per continuare.</string>
     <string name="step_component_info_desc">Il conteggio dei passi si trasformerà in un trofeo quando il tuo obiettivo sarà raggiunto. Il conteggio dei passi è fornito da Xiaomi Health.</string>
@@ -518,7 +519,7 @@ dd/MM"</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
     <string name="time_picker_label_hour">O</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="time_style">Stile note</string>
+    <string name="time_style">Stile orario</string>
     <string name="time_style_layout">Disposizione</string>
     <string name="tip_to_open_aod_mode">Always-on display è spento. Attivarlo?</string>
     <string name="today">Oggi</string>

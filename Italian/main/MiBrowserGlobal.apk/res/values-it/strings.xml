@@ -632,7 +632,7 @@ Invia questo codice al supervisore."</string>
     <string name="find_on_page_prev">Indietro</string>
     <string name="find_psw">Password dimenticata</string>
     <string name="finish">Fatto</string>
-    <string name="fm_guide_btn">Fatto</string>
+    <string name="fm_guide_btn">Ok</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -1022,7 +1022,7 @@ Abbandonare questa pagina?"</string>
     <string name="mw_miui_content_share">Condividi</string>
     <string name="mw_miui_content_translate">Traduci</string>
     <string name="mw_miui_content_web_search">Cerca</string>
-    <string name="mw_miuichromium_error_page_airplane_mode">Aereo</string>
+    <string name="mw_miuichromium_error_page_airplane_mode">Modalità Aereo</string>
     <string name="mw_miuichromium_error_page_airplane_mode_on">Disattiva la modalità aereo per connetterti</string>
     <string name="mw_miuichromium_error_page_btn_close">Chiudi</string>
     <string name="mw_miuichromium_error_page_btn_refresh">Aggiorna</string>
@@ -1066,6 +1066,7 @@ Abbandonare questa pagina?"</string>
     <string name="mw_miuichromium_error_page_reload">Aggiorna</string>
     <string name="mw_miuichromium_error_page_safe_network">Modalità provvisoria</string>
     <string name="mw_miuichromium_error_page_title">Si è verificato un errore</string>
+    <string name="mw_miuichromium_error_page_vpn_suggestion_des_1">Server illimitati</string>
     <string name="mw_miuichromium_error_page_wlan">Attiva il Wi-Fi</string>
     <string name="mw_no_matches">Nessuna corrispondenza</string>
     <string name="mw_older">Precedente</string>
@@ -1237,8 +1238,9 @@ Abbandonare questa pagina?"</string>
     <string name="pay_failed_toast">"Pagamento fallito"</string>
     <string name="pay_success_toast">Pagamento riuscito</string>
     <string name="permission_contacts">Contatti</string>
+    <string name="permission_dialog_msg_protected_content">%s vuole riprodurre contenuti protetti</string>
     <string name="permission_finish">Fatto</string>
-    <string name="permission_known">Fatto</string>
+    <string name="permission_known">Ok</string>
     <string name="permission_location">Posizione</string>
     <string name="permission_mic">Microfono</string>
     <string name="permission_non_essential">可选权限</string>
@@ -1265,6 +1267,7 @@ Abbandonare questa pagina?"</string>
     <string name="pref_auto_update">Aggiorna automaticamente</string>
     <string name="pref_clear_all_data_title">Cancella tutto</string>
     <string name="pref_clear_data_title">Cancella dati</string>
+    <string name="pref_content_fontsize_setting">Impostazioni carattere</string>
     <string name="pref_content_night_read_mode">Modalità notturna</string>
     <string name="pref_develop_mode">Modalità sviluppatore</string>
     <string name="pref_extras_reset_default">Ripristina predefinite</string>
@@ -1297,14 +1300,20 @@ Abbandonare questa pagina?"</string>
     <string name="pref_set_default_browser_switch">Cambia</string>
     <string name="pref_show_ads">Suggerimenti AD</string>
     <string name="pref_site_settings_camera">Fotocamera</string>
+    <string name="pref_site_settings_camera_ask_permission">Attiva i permessi della fotocamera in &lt;font color=#247BFF&gt;Impostazioni Android&lt;/font&gt;.</string>
     <string name="pref_site_settings_category_allow">Consenti</string>
     <string name="pref_site_settings_category_ask">Chiedi sempre</string>
     <string name="pref_site_settings_category_block">Blocca</string>
     <string name="pref_site_settings_category_blocked">Filtro sconosciuti</string>
     <string name="pref_site_settings_location">Posizione</string>
+    <string name="pref_site_settings_location_permission">Attiva i permessi di localizzazione in &lt;font color=#247BFF&gt;Impostazioni Android&lt;/font&gt;.</string>
     <string name="pref_site_settings_mic">Microfono</string>
+    <string name="pref_site_settings_mic_ask_permission">Attiva i permessi del microfono in &lt;font color=#247BFF&gt;Impostazioni Android&lt;/font&gt;.</string>
     <string name="pref_site_settings_notificaion">Notifiche</string>
     <string name="pref_site_settings_permissions">Permessi</string>
+    <string name="pref_site_settings_protected_content_allow_summary">Consenti ai siti di riprodurre contenuti protetti (consigliato)</string>
+    <string name="pref_site_settings_protected_content_ask_summary">I siti dovranno chiedere e ottenere il permesso per riprodurre contenuti protetti</string>
+    <string name="pref_site_settings_protected_content_block_summary">"Non consentire ai siti di riprodurre contenuti protetti"</string>
     <string name="pref_site_settings_site">Sito</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_agreement">Accordo utente</string>
@@ -1317,6 +1326,7 @@ Abbandonare questa pagina?"</string>
     <string name="privacy_authorize_revoking">Revoca autorizzazione…</string>
     <string name="privacy_authorize_title">Autorizzazione</string>
     <string name="privacy_btn_more">Altro</string>
+    <string name="privacy_message_main_tips_first">Mi Browser deve raccogliere le informazioni personali necessarie per fornire i servizi di base. Puoi capire come gestiamo le informazioni che raccogliamo nella nostra &lt;font color=#4086f5&gt;&lt;a href=%1$s style=color:#4086f5;&gt;Informativa sulla privacy&lt;/a&gt;&lt;/font&gt;. Potrai revocare il tuo consenso in Impostazioni &gt; Privacy e sicurezza. Leggi e accetta il nostro &lt;font color=#4086f5&gt;&lt;a href=%2$s style=color:#4086f5;&gt;Accordo Utente&lt;/a&gt;&lt;/font&gt; e &lt;font color=#4086f5&gt;&lt;a href=%1$s style=color:#4086f5;&gt;Informativa sulla privacy&lt;/a&gt;&lt;/font&gt; prima di utilizzare Mi Browser.</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
     <string name="privacy_sub_title">Termini e condizioni</string>
     <string name="progress_dialog_setting_wallpaper">Applico lo sfondo…</string>
@@ -1597,6 +1607,8 @@ Abbandonare questa pagina?"</string>
     <string name="user_avatar_uploading">Attendi…</string>
     <string name="user_defined_webpage">Aggiungi alla pagina iniziale</string>
     <string name="user_defined_webpage_title">Aggiungi alla pagina iniziale</string>
+    <string name="user_experience_content">"Il programma di esperienza utente ci aiuta a migliorare i nostri prodotti e servizi in maniera mirata, oltre ad introdurre nuove funzionalità e servizi utili. Inizieremo a raccogliere e analizzare i dati pertinenti (ad esempio i dati di utilizzo del prodotto) dopo che ti sarai iscritto al programma. Cliccando su \"Partecipa\", accetti i termini e le condizioni di &lt;font color=#4086f5&gt;&lt;a href=%1$s style=color:#4086f5;&gt;Programma Esperienza Utente&lt;/a&gt;&lt;/font&gt;.
+Potrai uscire dal programma in Impostazioni &gt; Privacy e Sicurezza"</string>
     <string name="user_experience_title">Programma Esperienza Utente</string>
     <string name="user_id_hint">Email/Telefono</string>
     <string name="username">Nome</string>
@@ -1618,7 +1630,7 @@ Abbandonare questa pagina?"</string>
     <string name="video_activity_name">Preferiti</string>
     <string name="video_collect_cancel">Rimuovi dai preferiti</string>
     <string name="video_collect_success">Aggiunto ai preferiti</string>
-    <string name="video_collection_known">Fatto</string>
+    <string name="video_collection_known">Ok</string>
     <string name="video_collection_view">Mostra</string>
     <string name="video_download_complete">Scaricato con successo</string>
     <string name="video_download_empty">Cache video vuota</string>

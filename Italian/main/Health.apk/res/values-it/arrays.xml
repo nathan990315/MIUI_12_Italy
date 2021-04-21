@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="HomePageTabTitle">
+        <item>Salute</item>
+        <item>Attività</item>
+    </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Immagine</item>
+        <item>Percorso</item>
+        <item>Scheda</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>In esecuzione</item>
+        <item>Camminata</item>
+        <item>Ciclismo</item>
+        <item>Salto della corda</item>
+        <item>Allenamento</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>F</item>
+        <item>Ven</item>
         <item>G</item>
-        <item>H</item>
+        <item>O</item>
         <item>I</item>
-        <item>J</item>
+        <item>G</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -25,7 +41,7 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>Y</item>
+        <item>A</item>
         <item>Z</item>
         <item>\#</item>
     </string-array>
@@ -36,11 +52,11 @@
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>F</item>
+        <item>Ven</item>
         <item>G</item>
-        <item>H</item>
+        <item>O</item>
         <item>I</item>
-        <item>J</item>
+        <item>G</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -55,7 +71,7 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>Y</item>
+        <item>A</item>
         <item>Z</item>
         <item>\#</item>
     </string-array>
@@ -66,48 +82,48 @@
     </string-array>
     <string-array name="arr_sedentary_reminder">
         <item>È ora di muoversi!</item>
-        <item>Scopri di più</item>
+        <item>Maggiori informazioni</item>
         <item>Bevi un po\' d\'acqua e fai una passeggiata.</item>
-        <item>Scopri di più</item>
+        <item>Maggiori informazioni</item>
         <item>Sali una rampa di scale</item>
-        <item>Scopri di più</item>
+        <item>Maggiori informazioni</item>
         <item>"Non stare seduto troppo a lungo"</item>
-        <item>Scopri di più</item>
+        <item>Maggiori informazioni</item>
     </string-array>
     <string-array name="arr_time_label">
         <item>1 ora</item>
         <item>2 ore</item>
     </string-array>
-	<string-array name="blood_types">
+    <string-array name="blood_types">
         <item>A</item>
         <item>B</item>
         <item>AB</item>
-        <item>0</item>
-        <item>A-</item>
-        <item>A+</item>
-        <item>B-</item>
-        <item>B+</item>
-        <item>AB-</item>
-        <item>AB+</item>
-        <item>0-</item>
-        <item>0+</item>
+        <item>O</item>
+        <item>A(-)</item>
+        <item>A(+)</item>
+        <item>B(-)</item>
+        <item>B(+)</item>
+        <item>AB(-)</item>
+        <item>AB(+)</item>
+        <item>O(-)</item>
+        <item>O(+)</item>
     </string-array>
-	<string-array name="contact_relation_array">
+    <string-array name="contact_relation_array">
         <item>Non impostato</item>
-        <item>Familiare</item>
+        <item>Genitore</item>
         <item>Sorella</item>
         <item>Fratello</item>
-        <item>Moglie</item>
-        <item>Partner</item>
+        <item>Coniuge</item>
+        <item>Compagno</item>
         <item>Amico</item>
         <item>Collega</item>
-        <item>Comp. di Classe</item>
+        <item>Compagno</item>
     </string-array>
     <string-array name="energy_unit">
         <item>" kcal"</item>
         <item>" kJ"</item>
     </string-array>
-	<string-array name="gender_array">
+    <string-array name="gender_array">
         <item>Non impostato</item>
         <item>Maschio</item>
         <item>Femmina</item>
@@ -117,52 +133,17 @@
         <item>" m"</item>
         <item>" km"</item>
     </string-array>
-	<string-array name="normal_blood_array">
-        <item>Not set</item>
+    <string-array name="normal_blood_array">
+        <item>Non impostato</item>
         <item>A</item>
         <item>B</item>
         <item>AB</item>
-        <item>0</item>
+        <item>O</item>
     </string-array>
     <string-array name="pager_titles">
         <item>Giorno</item>
         <item>Settimana</item>
         <item>Mese</item>
-    </string-array>
-    <string-array name="references">
-        <item>中华人民共和国卫生行业标准 WS/T 476-2015 营养名词术语</item>
-        <item>Ito H, Ohshima A, Ohto N, Ogasawara M, Tsuzuki M, Takao K, Hijii C, Tanaka H, Nishioka K. Relazione tra composizione corporea ed età in soggetti giapponesi sani. Eur J Clin Nutr. 55(6):462-70, 2001</item>
-        <item>Lee RD e Nieman DC. Valutazione nutrizionale (seconda edizione), pp.264</item>
-        <item>Lohman TG. Avanzato nella valutazione della composizione del corpo - problemi di Currenet nella serie di scienze dell\'esercizio. Champaign-IL: Human Kinetics. pp 80. 1992</item>
-        <item>"Mahan LK e Escott-stump S. Krause's Cibo, Nutrizione e terapia dietetica 9a edizione. WB Saunders Co. pp 455"</item>
-        <item>《神经病学》第9版 第二十二章 睡眠障碍 人民卫生出版社</item>
-        <item>《生理学》第9版 第十章 神经系统的功能 人民卫生出版社</item>
-        <item>《睡眠医学：理论与实践》第4版 第一章 正常睡眠和睡眠变异 人民卫生出版社</item>
-        <item>《中国居民膳食指南2016》第一部分 一般人群膳食指南 中国营养学会 编著</item>
-        <item>Valutazione fitness avanzata e prescrizione esercizi. Heyward VH. Kinetics. pp. 162</item>
-        <item>"American College of Sports Medicine. ACSM's Guidelines for Exercise Testing Prescription[M]. Wolters Kluwer/Lippincott Williams and Wilkins Health, 2014."</item>
-        <item>Bray GA. Diagnosi contemporanea e gestione dell\'obesità pp.13, 1998</item>
-        <item>Brown JE. Nutrition Now 2nd edition. Wadsworth Publishing Company. pp 9-3. 1999</item>
-        <item>Brozek J. Grande F, Anderson JT, Keys A. Analisi ensitometrica della composizione corporea: Revisione di alcune ipotesi quantitative. Ann N Y Acad Sci. 1963 Sep 26;110:113-40</item>
-        <item>Heymsfield SB, Smith R, Aulet M, Bensen B, Lichtman S, Wang J, Pierson RN Jr. Massa del muscolo scheletrico appendicolare: misurazione mediante assorbimento a doppio fotone. Am J Clin Nutr. 52(2):214-8, 1990</item>
-        <item>Pollock, Michael L, Gaesser, Glenn A, Butcher, Janus D,等. ACSM Position Stand: The, Recommended Quantity and Quality of Exercise for Developing and Maintaining Cardiorespiratory, and Muscular Fitness, and Flexibility in Healthy Adults[J]. Medicine and Science, in Sports and Exercise, 30(6):975-991.</item>
-        <item>Tahara Y, Moji K, Aoyagi K, Tsunawake N, Muraki S, Mascie-Taylor CG. Age-related pattern of body density and body composition of Japanese men and women 18-59 years of age. Am J Hum Biol. 14(6):743-52, 2002</item>
-        <item>Wang ZM, Pierson RN Jr, Heymsfield SB. The five-level model: a new approach to organizing body-composition research. Am J Clin Nutr. 1992 Jul;56(1):19-28.</item>
-        <item>Linee guida WHO per BMI</item>
-        <item>儿科学辞典. 北京科学技术出版社. 2003</item>
-        <item>临床医学概要 第2版 第二章 体格检查人民卫生出版社</item>
-        <item>苏亮，陆峥. 2017 年中国失眠症诊断和治疗指南解读[J]. 世界临床药物, 2018, 39(4).</item>
-        <item>卫生部“十二五”规划教材【诊断学】 第8版 第三篇 体格检查</item>
-        <item>营养与食品卫生学（第八版）第一章 第五节 孙长颢主编 人民卫生出版社</item>
-        <item>中国超重肥胖医学营养治疗专家共识编写委员会. 中国超重/肥胖医学营养治疗专家共识(2016年版)[J].</item>
-        <item>中国高血压防治指南-2005年修订版 中国高血压防治指南2010年修订版</item>
-        <item>中华人民共和国卫生行业标准 WS/T 476-2015 营养名词术语</item>
-        <item>Amato M C, Giordano C, Galia M, et al. Visceral Adiposity Index[J]. 2010, 33(4):920-922.</item>
-        <item>章振林. 骨质疏松诊断与骨密度检查报告的解读[J]. 中国全科医学, 2010, 13(2):117-117.</item>
-        <item>谢幸.妇产科学（第9版）[M].北京:人民卫生出版社.2018.</item>
-        <item>窗敲雨. 安全期真的安全吗[J]. 康复, 2013(1):16-16.</item>
-        <item>肖玮, 阿丹. 安全期避孕安全吗?[J]. 健康必读, 2002(4).</item>
-        <item>2018 - Rapporto scientifico del Comitato Consultivo per le Attività Fisiche</item>
     </string-array>
     <string-array name="repeat_mode_mild_abnormal_array">
         <item>Lun, Mer, Ven</item>
@@ -170,37 +151,37 @@
         <item>Mer, Ven, Dom</item>
     </string-array>
     <string-array name="repeat_mode_week_array">
-        <item>Ogni Lunedì</item>
-        <item>Ogni Martedì</item>
-        <item>Ogni Mercoledì</item>
-        <item>Ogni Giovedì</item>
-        <item>Ogni Venerdì</item>
-        <item>Ogni Sabato</item>
-        <item>Ogni Domenica</item>
+        <item>Ogni lunedì</item>
+        <item>Ogni martedì</item>
+        <item>Ogni mercoledì</item>
+        <item>Ogni giovedì</item>
+        <item>Ogni venerdì</item>
+        <item>Ogni sabato</item>
+        <item>Ogni domenica</item>
     </string-array>
-	<string-array name="rh_blood_array">
+    <string-array name="rh_blood_array">
         <item>Non impostato</item>
-        <item>Negativo</item>
-        <item>Positivo</item>
+        <item>Negativi</item>
+        <item>Positivi</item>
     </string-array>
     <string-array name="run_in_background_state">
         <item>Nessuna limitazione</item>
         <item>Limita attività in background</item>
         <item>Interrompi dopo 10 minuti</item>
-        <item>Disattivato</item>
+        <item>Mai</item>
     </string-array>
     <string-array name="speed_unit">
         <item>" km/h"</item>
         <item>" m/s"</item>
     </string-array>
     <string-array name="stand_guide_page_content1">
-        <item>"Le cause di molti problemi di salute sono molteplici: se non si riesce a ridurre la durata totale del tempo in cui stai seduto, alzarsi e stare in piedi per un po' di tempo può migliorare efficacemente i problemi di sedentarietà."</item>
-        <item>L\'assistente ti aiuta a stare in piedi per almeno 1 minuto all\'ora, in modo da raggiungere l\'obiettivo di 12 ore in piedi ogni giorno e di stare lontano dal pericolo di una vita sedentaria.</item>
-        <item>Clicca su Continua per capire il funzionamento e aprire l\'assistente.</item>
+        <item>"Stare seduti non giova alla tua salute. Anche se non si riesce a ridurre il tempo che si passa seduti, alzarsi ogni tanto è una buona idea."</item>
+        <item>Questa funzione ti ricorderà di trascorrere almeno 1 minuto in piedi ogni ora. Stare in piedi 12 ore con pause ogni giorno vi aiuterà a evitare i rischi di uno stile di vita sedentario.</item>
+        <item>Tocca \"Continua\" per saperne di più e attivare questa funzionalità.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>"L'assistente registra automaticamente quando ti alzi rilevando lo stato di utilizzo del telefono cellulare. Quando nessuna attività viene rilevata entro 1 ora, verrà inviata una notifica per ricordarti di alzarti o aggiungere manualmente un'attività."</item>
-        <item>Confermando l\'attivazione attiverai la rilevazione di quando ti alzi e i promemoria attività.</item>
+        <item>Xiaomi Health può rilevare e registrare quando sei in piedi. Puoi anche ricevere promemoria per alzarti in piedi dopo 1 ora di inattività.</item>
+        <item>Questa funzione traccia il tuo movimento e invia promemoria in base ai risultati.</item>
     </string-array>
     <string-array name="temperature_unit">
         <item>°C</item>
@@ -224,17 +205,18 @@
         <item>Ven</item>
         <item>Sab</item>
     </string-array>
-    <string-array name="weight_unit">
-        <item>" g"</item>
-        <item>" kg"</item>
-        <item>" t"</item>
-        <item>" liang"</item>
-        <item>" jin"</item>
-        <item>" lb"</item>
+    <string-array name="week_short">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
     </string-array>
-	<string-array name="yes_no_array">
+    <string-array name="yes_no_array">
         <item>Non impostato</item>
-        <item>Si</item>
+        <item>Sì</item>
         <item>No</item>
     </string-array>
 </resources>

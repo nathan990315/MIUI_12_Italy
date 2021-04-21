@@ -304,7 +304,7 @@
     <string name="detail_reward_custom_amount">Importo personalizzato</string>
     <string name="detail_reward_duplicate_order_error">Troppi tentativi. Attendi un minuto o due e riprova.</string>
     <string name="detail_reward_exceed_limit">Le ricompense possono contenere fino a 200 CNY</string>
-    <string name="detail_reward_know_it">Fatto</string>
+    <string name="detail_reward_know_it">Ok</string>
     <string name="detail_reward_limited_to_200">Le ricompense possono contenere fino a 200 Mi Coins</string>
     <string name="detail_reward_loading_failed">"Impossibile caricare le informazioni. Riprova."</string>
     <string name="detail_reward_no_one">Ancora nessuna ricompensa. Dai la prima!</string>
@@ -371,7 +371,9 @@
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -389,7 +391,7 @@
     <string name="expand_button_title">Avanzate</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a tendina</string>
     <string name="extreme_mode_dialog_message">"Questa funzione non è disponibile in modalità Extreme. Disattivare la modalità Extreme per poterla utilizzare."</string>
-    <string name="extreme_mode_dialog_ok">Fatto</string>
+    <string name="extreme_mode_dialog_ok">Ok</string>
     <string name="extreme_mode_dialog_title">Avviso</string>
     <string name="fail_to_add_account">"Impossibile aggiungere account"</string>
     <string name="favorite_list">Preferiti</string>
@@ -506,7 +508,7 @@
     <string name="home_apply_failured">"Impossibile applicare lo sfondo Home"</string>
     <string name="home_apply_success">Sfondo Home applicato</string>
     <string name="home_daily">Popolari oggi</string>
-    <string name="i_know">Fatto</string>
+    <string name="i_know">Ok</string>
     <string name="icon_content_description">Icona di dialogo</string>
     <string name="in_the_end">Nient\'altro da mostrare</string>
     <string name="incall_show_apply">Video profilo per le chiamate in uscita</string>
@@ -522,10 +524,11 @@ Per disattivare questa funzione, vai in Impostazioni &gt; Suoni e Vibrazione &gt
     <string name="incall_show_title">Video profilo</string>
     <string name="incompatible_dialog_cancel">"Non applicare"</string>
     <string name="incompatible_dialog_message">"Questo tema non è pienamente compatibile con MIUI 10. Alcuni elementi potrebbero non essere visualizzati correttamente."</string>
-    <string name="incompatible_dialog_ok">Fatto</string>
+    <string name="incompatible_dialog_ok">Ok</string>
     <string name="incompatible_dialog_title">Problemi di compatibilità</string>
     <string name="install_failed">"Impossibile installare"</string>
     <string name="is_setting_wallpaper_message">Applico lo sfondo…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Sveglie</string>
     <string name="item_resource_audio_optional_color_ring">colore</string>
     <string name="item_resource_audio_optional_notification_ring">Notifiche</string>
@@ -610,7 +613,7 @@ mm"</string>
     <string name="miuix_appcompat_cloud_state_finished">Sincronizzato con Mi Cloud</string>
     <string name="miuix_appcompat_cloud_state_syncing">Sincronizzato con Mi Cloud</string>
     <string name="miuix_compat_contact">Contatti</string>
-    <string name="miuix_compat_dialog_button">Fatto</string>
+    <string name="miuix_compat_dialog_button">Ok</string>
     <string name="miuix_compat_dialog_cancel">Annulla</string>
     <string name="miuix_compat_dialog_checkbox">"Non mostrare più"</string>
     <string name="miuix_compat_dialog_content">"La versione attuale di \"%s\" non è compatibile con questo tema."</string>
@@ -711,7 +714,7 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tocca per selezionare un anno</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Questa suoneria verrà utilizzata per entrambe le SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">La suoneria viene applicata alla SIM 1 e alla SIM 2 allo stesso tempo.</string>
-    <string name="multi_sim_ringtone_settings_dialog_ok">Fatto</string>
+    <string name="multi_sim_ringtone_settings_dialog_ok">Ok</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">"Non mostrare più"</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Problemi di compatibilità</string>
     <string name="network_exception">"Impossibile connettersi alla rete. Verifica le impostazioni di rete e riprova."</string>
@@ -868,6 +871,7 @@ mm"</string>
     <string name="resource_detail_recommend_desiner_other_themes">Altri temi realizzati da %1$s</string>
     <string name="resource_detail_recommend_other_themes">Ad altri utenti piace anche</string>
     <string name="resource_detail_update_log_title">Aggiornamenti</string>
+    <string name="resource_detail_vertical_divider">|</string>
     <string name="resource_detail_window_title">%1$s dettagli</string>
     <string name="resource_download">Scarica</string>
     <string name="resource_download_notification_title_one">%1$s Scaricato</string>
@@ -931,6 +935,7 @@ mm"</string>
     <string name="resource_pack_price_info">%1$s Originale</string>
     <string name="resource_pack_warning">"Hai già acquistato %1$d oggetti, il prezzo attuale non è più valido per gli oggetti rimanenti, acquistali individualmente."</string>
     <string name="resource_present">Regala</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratis</string>
     <string name="resource_price_unit"> Mi Credit</string>
     <string name="resource_purchase_common_error">Operazione fallita. Prova di nuovo.</string>
@@ -945,6 +950,10 @@ mm"</string>
     <string name="resource_restore">Ripristina</string>
     <string name="resource_restore_fail">"Impossibile ripristinare"</string>
     <string name="resource_restore_succ">Ripristino completato</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">1</string>
+    <string name="resource_ring_ranking_list_rank_2">2</string>
+    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Suoneria</string>
     <string name="resource_ringtone_playing_error">Errore</string>
     <string name="resource_ringtone_volume_mute">La suoneria è silenziata</string>
@@ -1103,6 +1112,7 @@ mm"</string>
     <string name="solar_term_white_dews">Rugiada bianca</string>
     <string name="solar_term_winter_begins">Inizio dell\'inverno</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
@@ -1244,6 +1254,7 @@ mm"</string>
     <string name="theme_is_external_priority_storage">Salva su scheda SD</string>
     <string name="theme_is_external_priority_storage_summary">L\'applicazione Temi verrà riavviata per applicare le modifiche</string>
     <string name="theme_multiple_button_title_customize">Impostazioni schede</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">No</string>
     <string name="theme_not_include_module_desc">"Questo tema non contiene i seguenti elementi: %s"</string>
     <string name="theme_on_the_phone_alert">"Impossibile riprodurre durante le telefonate"</string>
@@ -1321,7 +1332,7 @@ mm"</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">T</string>
     <string name="uid_change_dialog_message">"Hai eliminato gli aggiornamenti. Riavvia il dispositivo per poter utilizzare i temi."</string>
-    <string name="uid_change_dialog_ok">Fatto</string>
+    <string name="uid_change_dialog_ok">Ok</string>
     <string name="uid_change_dialog_title">Riavvia dispositivo</string>
     <string name="unable_connect_network">"Impossibile connettersi alla rete"</string>
     <string name="uninstall_theme">Rimuovere \"Temi\" dalla schermata Home?</string>
@@ -1380,7 +1391,7 @@ mm"</string>
     <string name="wallpaper_loop_interval_desc">Imposta l\'itnervallo di tempo dello slideshow</string>
     <string name="wallpaper_loop_interval_title">Cambia sfondo</string>
     <string name="wallpaper_loop_manage">Gestisci</string>
-    <string name="wallpaper_loop_more_options">Impostazioni addizionali</string>
+    <string name="wallpaper_loop_more_options">Altre impostazioni</string>
     <string name="wallpaper_loop_my_desk_wallpaper">I miei sfondi Home</string>
     <string name="wallpaper_loop_my_lock_wallpaper">I miei sfondi Schermata di Blocco</string>
     <string name="wallpaper_loop_order_desc">Seleziona l\'ordine di visualizzazione delle slider</string>

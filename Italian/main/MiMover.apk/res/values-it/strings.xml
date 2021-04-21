@@ -59,7 +59,7 @@
     <string name="ble_wait_verify_code">Generazione del codice sul nuovo dispositivo…</string>
     <string name="ble_waiting_verify_code">Verifica del codice…</string>
     <string name="ble_waiting_verify_code_error">Il captcha inserito non è corretto</string>
-    <string name="btn_got_it">Fatto</string>
+    <string name="btn_got_it">Ok</string>
     <string name="btn_install_complete">Scaricati</string>
     <string name="btn_mi_cloud_install_complete">"Ho installato l'app"</string>
     <string name="btn_restore_data_to_device_complete">Accedi</string>
@@ -73,7 +73,7 @@
     <string name="cancel">Annulla</string>
     <string name="cancel_moving_dialog_message">Sicuro di voler interrompere l\'importazione?</string>
     <string name="cancel_moving_dialog_title">Interrompi importazione</string>
-    <string name="cannot_use_mi_huanji_button">Fatto</string>
+    <string name="cannot_use_mi_huanji_button">Ok</string>
     <string name="cannot_use_mi_huanji_summary">Sembra che MIUI stia eseguendo il backup degli elementi. Ferma i backup in corso o riavvia il dispositivo per consentire a Mi Mover di avviare il trasferimento.</string>
     <string name="cannot_use_mi_huanji_title">"Impossibile trasferire ora"</string>
     <string name="chinese_day_1">1</string>
@@ -207,7 +207,7 @@ Visita https://appleid.apple.com/#!&amp;page=signin per disattivarlo"</string>
     <string name="dialog_tip_upgrade_title">Aggiorna Mi Mover</string>
     <string name="dialog_version_summary_tip">"Novità:"</string>
     <string name="dialog_version_title_tip">Aggiornamento disponibile</string>
-    <string name="dialog_wechat_data_transfer_fail_button">Fatto</string>
+    <string name="dialog_wechat_data_transfer_fail_button">Ok</string>
     <string name="dialog_wechat_data_transfer_fail_message">"Impossibile trasferire i dati di WeChat e la cronologia chat a causa di restrizioni delle app. Prova la funzione di backup in-app.
 Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il backup e Migra le chat."</string>
     <string name="dialog_wechat_data_transfer_fail_title">"Impossibile trasferire i dati di WeChat"</string>
@@ -343,7 +343,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="host_boot_installation_tips">"Impossibile trovare Mi Mover? Tocca per scaricarlo."</string>
     <string name="host_connect_timeout_tip">"Impossibile connettersi, connessione scaduta"</string>
     <string name="host_dialog_install_button">Installa su un altro dispositivo</string>
-    <string name="host_dialog_known_button">Fatto</string>
+    <string name="host_dialog_known_button">Ok</string>
     <string name="host_dialog_message">Assicurarsi che l\'ultima versione di Mi Mover sia installata sull\'altro dispositivo; in caso contrario i due dispositivi potrebbero non essere in grado di connettersi.</string>
     <string name="host_dialog_title">"Impossibile connettersi, connessione scaduta"</string>
     <string name="host_install_hint">"Mi Mover non è installato?"</string>
@@ -660,13 +660,13 @@ Libera almeno %s."</string>
     <string name="scan_soft_ap_label">Connetti al nuovo dispositivo</string>
     <string name="scanner_bottom_tip">Seleziona solo gli elementi importanti per rendere il trasferimento più veloce.</string>
     <string name="scanner_not_support_data_transfer_tip">"Impossibile trasferire i dati delle app (inclusa la cronologia delle chat WeChat e QQ) da dispositivi non Xiaomi."</string>
-    <string name="scanner_permission_alert_cancel">Fatto</string>
+    <string name="scanner_permission_alert_cancel">Ok</string>
     <string name="scanner_permission_alert_ok">Impostazioni</string>
     <string name="scanner_quit_alert_btn_negative">Esci</string>
     <string name="scanner_quit_alert_btn_positive">"Non uscire"</string>
     <string name="scanner_quit_alert_message">"Dovrai collegare nuovamente i due dispositivi se esci da Mi Mover adesso. Abbandonare comunque?"</string>
     <string name="scanner_quit_alert_title">Uscire ora?</string>
-    <string name="scanner_send_dialog_btn">Fatto</string>
+    <string name="scanner_send_dialog_btn">Ok</string>
     <string name="scanner_send_dialog_message">"Non spegnere il Wi-Fi o cambiare rete durante il trasferimento."</string>
     <string name="scanner_size_selected">Selezionati: %s</string>
     <string name="scanner_time_remained">Tempo stimato: %s</string>

@@ -211,6 +211,8 @@
     <string name="feedback_custom_hint">"Descrivi qui i problemi che hai riscontrato. Se fornisci dei suggerimenti, cercheremo di applicarli!"</string>
     <string name="find_device">Trova Telefono</string>
     <string name="find_device_dspt_provision">Nel caso dovessi smarrire il tuo dispositivo, dirigiti su %s per localizzarlo, bloccarlo, o resettarlo. Puoi abilitare o disabilitare questa funzionalità quando vuoi dalle Impostazioni.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Verifica la connessione dati e riprova.</string>
     <string name="find_device_error_server">Errore Server</string>
     <string name="find_device_gdpr_prompt">Attivando Trova Dispositivo, accetti \"Informativa sulla Privacy\". Se devi revocare la tua autorizzazione per la privacy, disattiva questa funzione.</string>
@@ -314,7 +316,7 @@
     <string name="keybag_set_password_negative">Imposta</string>
     <string name="keybag_set_password_positive">Usa blocco schermo</string>
     <string name="keybag_set_password_success_close">Esci</string>
-    <string name="keybag_set_password_success_get">Fatto</string>
+    <string name="keybag_set_password_success_get">Ok</string>
     <string name="keybag_set_password_success_tip">"Impostato correttamente. Dovrai inserire questo codice di accesso su altri dispositivi per poter accedere agli elementi crittografati."</string>
     <string name="keybag_set_password_title">Attenzione</string>
     <string name="ks_certificate_udpate_time">Aggiornamento certificato</string>
@@ -457,10 +459,13 @@
     <string name="micloud_find_device_open_fail">"Impossibile attivare Trova Dispositivo"</string>
     <string name="micloud_find_device_opened">Trova Dispositivo attivato</string>
     <string name="micloud_find_device_opened_content">Trova Dispositivo a %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_button">Riattiva Trova dispositivo</string>
     <string name="micloud_find_device_verify_close">Disattiva Trova dispositivo</string>
     <string name="micloud_find_device_verify_fail">"Impossibile riattivare Trova dispositivo"</string>
     <string name="micloud_find_device_verify_progress">Riattivazione Trova dispositivo…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">La sincronizzazione è stata annullata. Riprova.</string>
     <string name="micloud_main_head_menu_cloud_backup">Backup cloud</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">Impostazioni di sistema, layout desktop, etc.</string>
@@ -548,7 +553,7 @@
     <string name="micloud_privacy_warning_content">"Impossibile attivare Mi Cloud. Riprova più tardi."</string>
     <string name="micloud_privacy_warning_title">Attenzione</string>
     <string name="micloud_proceed">Continua</string>
-    <string name="micloud_request_permission_confirm">Fatto</string>
+    <string name="micloud_request_permission_confirm">Ok</string>
     <string name="micloud_request_permission_content">Mi Cloud ha necessità dei permessi per la sincronizzazione dei dati. Consenti a Mi Cloud di accedere a Calendario, Contatti, Mi Account, stato SIM, registro chiamate e messaggi.</string>
     <string name="micloud_request_permission_title">Mi Cloud richiede i permessi</string>
     <string name="micloud_request_sync_too_frequent">Troppe richieste. Aspetta un minuto o due e prova di nuovo.</string>
@@ -776,7 +781,7 @@ Le informazioni sulla posizione potrebbero non essere segnalate quando la connes
     <string name="share_cancel">Condivisione annullata</string>
     <string name="share_failed">"Impossibile condividere"</string>
     <string name="share_location_app_name">Trova</string>
-    <string name="share_location_dialog_confirm">Fatto</string>
+    <string name="share_location_dialog_confirm">Ok</string>
     <string name="share_location_dialog_content">Ora è possibile utilizzare il collegamento nella schermata Home per accedere più velocemente alle impostazioni.</string>
     <string name="share_location_dialog_title">Attenzione</string>
     <string name="share_location_guide1_desc">Individua, blocca e cancella i dati sui dispositivi mancanti</string>
@@ -841,7 +846,7 @@ Le informazioni sulla posizione potrebbero non essere segnalate quando la connes
     <string name="share_sdk_invite_way_wechat_summary">Invita persone o gruppi</string>
     <string name="share_sdk_invite_way_wechat_title">Invita tramite WeChat</string>
     <string name="share_sdk_member_info_title">Info membri</string>
-    <string name="share_sdk_normal_invite_success_btn_text">Fatto</string>
+    <string name="share_sdk_normal_invite_success_btn_text">Ok</string>
     <string name="share_sdk_normal_invite_success_title">Invito inviato</string>
     <string name="share_sdk_operation_success">Fatto</string>
     <string name="share_sdk_permission_checked_error">Seleziona almeno 1 elemento</string>

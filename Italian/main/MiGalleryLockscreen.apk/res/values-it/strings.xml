@@ -133,6 +133,7 @@
     <string name="change_time">Cambia sfondo</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d di %2$d</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -257,7 +258,7 @@
     <string name="cw_local_pic">Galleria</string>
     <string name="cw_my_fav">Preferiti</string>
     <string name="cw_permission_tip">Consenti a Sfondi Carousel di accedere alla memoria in Impostazioni &gt; Impostazioni app.</string>
-    <string name="cw_wallpaper_empty_dlg_btn">Fatto</string>
+    <string name="cw_wallpaper_empty_dlg_btn">Ok</string>
     <string name="cw_wallpaper_empty_dlg_content">"Non hai aggiunto alcun elemento alla presentazione. Passaggio si consigliati."</string>
     <string name="cw_wallpaper_empty_dlg_title">Nessun elemento</string>
     <string name="cw_wallpaper_manager">Gestisci sfondi</string>
@@ -458,7 +459,7 @@ Invia questo codice al supervisore."</string>
     <string name="llks_pop_btm_des_backup">Ottieni un grande inizio di giornata</string>
     <string name="llks_pop_btm_title">Buongiorno</string>
     <string name="llks_pop_btm_title_backup">Saluti giornalieri</string>
-    <string name="llks_pop_i_know">Fatto</string>
+    <string name="llks_pop_i_know">Ok</string>
     <string name="llks_pop_top_des">Ricevi nuove immagini regolarmente</string>
     <string name="llks_pop_top_des_backup">Consegnato al tuo schermo ogni giorno</string>
     <string name="llks_pop_top_title">Nuovi sfondi</string>
@@ -944,6 +945,7 @@ mm"</string>
     <string name="sst_wallpaper_history_title">Cronologia</string>
     <string name="sst_wifi_only_desc">Disattiva per aggiornare gli sfondi solo tramite Wi-Fi</string>
     <string name="sst_wifi_only_title">Aggiorna gli sfondi utilizzando i dati mobili</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_wallpaper_loop_not_start">Spenta</string>
     <string name="status_wallpaper_loop_start">Attivata</string>
     <string name="subscribe_apply_wp">Sfondo schermata di blocco applicato correttamente</string>

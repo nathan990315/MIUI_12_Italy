@@ -19,7 +19,7 @@
         <item>10</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Limite predefinito</item>
+        <item>Limite standard</item>
         <item>Nessun processo in background</item>
         <item>Massimo 1 processo</item>
         <item>Massimo 2 processi</item>
@@ -43,14 +43,10 @@
         <item></item>
         <item>Mi Fit</item>
         <item>Mi VR</item>
-    </string-array>
-    <string-array name="ble_packages">
-        <item></item>
-        <item>com.xiaomi.hm.health</item>
-        <item>com.mi.dlabs.vr.thor</item>
+        <item>Xiaomi Wear</item>
     </string-array>
     <string-array name="ble_profile_mi_band">
-        <item>Vibra mentre squilla</item>
+        <item>Vibra quando suona</item>
         <item>Vibra quando ricevi un messaggio</item>
         <item>Vibra con le sveglie</item>
     </string-array>
@@ -60,13 +56,13 @@
         <item>Trova Mi-key</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Usa impostazione di sistema (predefinito)</item>
+        <item>Usa impostazione di sistema (Predefinito)</item>
         <item>16 bit/campione</item>
         <item>24 bit/campione</item>
         <item>32 bit/campione</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Usa impostazione di sistema (predefinito)</item>
+        <item>Usa impostazione di sistema (Predefinito)</item>
         <item>16 bit/campione</item>
         <item>24 bit/campione</item>
         <item>32 bit/campione</item>
@@ -78,12 +74,12 @@
         <item>4</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>Usa impostazione di sistema (predefinito)</item>
+        <item>Usa impostazione di sistema (Predefinito)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>Usa impostazione di sistema (predefinito)</item>
+        <item>Usa impostazione di sistema (Predefinito)</item>
         <item>Mono</item>
         <item>Stereo</item>
     </string-array>
@@ -94,24 +90,24 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Ottimizzato per qualità audio</item>
-        <item>Bilanciato Audio e Qualità Connessione</item>
-        <item>Ottimizzato per Qualità Connessione</item>
-        <item>Migliore possibile (Bit Rate adattivo)</item>
+        <item>Audio e qualità di connessione bilanciati</item>
+        <item>Ottimizzato per qualità di connessione</item>
+        <item>Miglior Resa (Bitrate automatico)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Ottimizzato per qualità audio (990kbps/909kbps)</item>
-        <item>Bilanciato audio e qualità di connessione (660kbps/606kbps)</item>
-        <item>Ottimizzato per qualità di connessione (330kbps/303kbps)</item>
-        <item>MIgliore possibile (Bit Rate adattivo)</item>
+        <item>Qualità audio e connessione bilanciate (660kbps/606kbps)</item>
+        <item>Ottimizzato per la qualità di connessione (330kbps/303kbps)</item>
+        <item>Miglior Resa (Bitrate automatico)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values">
-        <item>1000</item>
+        <item>ISO 1000</item>
         <item>1001</item>
         <item>1002</item>
         <item>1003</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Usa impostazione di sistema (predefinito)</item>
+        <item>Usa impostazione di sistema (Predefinito)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
@@ -139,12 +135,10 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Attiva Codec Opzionali</item>
-        <item>Disattiva Codec Opzionali</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC V3</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
-        <item>Attiva Codec Opzionali</item>
-        <item>Disattiva Codec Opzionali</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Usa impostazione di sistema (Predefinito)</item>
@@ -154,8 +148,8 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Attiva Codec Opzionali</item>
-        <item>Disattiva Codec Opzionali</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC V3</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
         <item>Attiva Codec Opzionali</item>
@@ -180,13 +174,7 @@
         <item></item>
         <item>" | Attivo"</item>
         <item>" | Attivo (media)"</item>
-        <item>" | Activo (telefono)"</item>
-    </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp13</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
+        <item>" | Attivo (telefono)"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Predefinito)</item>
@@ -194,45 +182,38 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (predefinito)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Disabilitato</item>
-        <item>Abilitato Filtrato</item>
-        <item>Abilitato</item>
-        <item>Abilita \"Intestazioni filtrate\"</item>
-        <item>Abilita \"Pacchetti multimediali filtrati\"</item>
-    </string-array>
-    <string-array name="bt_hci_snoop_log_values">
-        <item>disabilitato</item>
-        <item>filtrato</item>
-        <item>pieno</item>
-        <item>snoopheadersfiltered</item>
-        <item>mediapktsfiltered</item>
+        <item>Filtrato</item>
+        <item>Attivato</item>
+        <item>Intestazioni filtrate</item>
+        <item>Pacchetti multimediali filtrati</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colori migliorati</item>
-        <item>Colori naturali come percepiti dagli occhi</item>
-        <item>Colori ottimizzati per contenuti digitali</item>
+        <item>Colori naturali e realistici</item>
+        <item>Colori ottimizzati per i contenuti digitali</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>Vibrante (predefinito)</item>
+        <item>Vivace (predefinito)</item>
         <item>Naturale</item>
         <item>Normale</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Disattivato</item>
-        <item>Mostra aree overdraw</item>
+        <item>Spenta</item>
+        <item>Mostra aree sovradisegnate</item>
         <item>Mostra aree per Deuteranomalia</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_values">
-        <item>false</item>
-        <item>show</item>
-        <item>show_deuteranomaly</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
         <item>Logcat</item>
-        <item>Traccia (Grafica)</item>
-        <item>Richiamo su glGetError</item>
+        <item>Systrace (grafico)</item>
+        <item>Stack di chiamate su glGetError</item>
     </string-array>
     <string-array name="enable_opengl_traces_values">
         <item>0</item>
@@ -241,7 +222,7 @@
         <item>error</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Non utilizzare mai controllo HDCP</item>
+        <item>Non usare mai il controllo HDCP</item>
         <item>Usa controllo HDCP solo per contenuti DRM</item>
         <item>Usa sempre controllo HDCP</item>
     </string-array>
@@ -251,9 +232,9 @@
         <item>Controlla sempre</item>
     </string-array>
     <string-array name="hdcp_checking_values">
-        <item>mai</item>
+        <item>never</item>
         <item>drm-only</item>
-        <item>sempre</item>
+        <item>always</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nessuno</item>
@@ -278,68 +259,49 @@
         <item>1920x1080/320</item>
         <item>1920x1080/320,secure</item>
         <item>3840x2160/320</item>
-        <item>3840x2160/320,secure</item>
+        <item>3840x2160/320, sicuro</item>
         <item>1920x1080/320|3840x2160/640</item>
-        <item>1920x1080/320|3840x2160/640,secure</item>
+        <item>1920x1080/320|3840x2160/640, sicuro</item>
         <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Disattivato</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
+        <item>Spenta</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Disattivato</item>
-        <item>64K per buffer log</item>
-        <item>256K per buffer log</item>
-        <item>1M per buffer log</item>
-        <item>4M per buffer log</item>
-        <item>16M per buffer log</item>
+        <item>Spenta</item>
+        <item>64 KB per buffer log</item>
+        <item>256 KB per buffer log</item>
+        <item>1 MB per buffer log</item>
+        <item>4 MB per buffer log</item>
+        <item>16 MB per buffer log</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Disattivato</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
-    </string-array>
-    <string-array name="select_logd_size_values">
-        <item>32768</item>
-        <item>65536</item>
-        <item>262144</item>
-        <item>1048576</item>
-        <item>4194304</item>
-        <item>16777216</item>
+        <item>Spenta</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Disattivato</item>
-        <item>Tutti i buffer log</item>
-        <item>Tutti i buffe rlog tranne radio</item>
-        <item>Solo buffer log kernel</item>
+        <item>Spenta</item>
+        <item>Tutti i buffer di log</item>
+        <item>Tutti tranne i buffer di registro radio</item>
+        <item>Solo buffer log del Kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Disattivato</item>
-        <item>Tutti</item>
+        <item>Spenta</item>
+        <item>Tutto</item>
         <item>Tutti tranne radio</item>
         <item>Solo kernel</item>
     </string-array>
-    <string-array name="select_logpersist_values">
-        <item></item>
-        <item>tutti</item>
-        <item>predefinito,sicurezza,kernel</item>
-        <item>kernel</item>
-    </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Disattivato</item>
+        <item>Spenta</item>
         <item>Area ritaglio non rettangolare blu</item>
         <item>Evidenzia comandi di disegno test in verde</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_values">
-        <item>nascondi</item>
-        <item>regione</item>
-        <item>evidenziato</item>
     </string-array>
     <string-array name="simulate_color_space_values">
         <item>-1</item>
@@ -349,14 +311,14 @@
         <item>3</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Disattivato</item>
-        <item>Su schermo sotto forma di barre</item>
-        <item>Su adb shell dumpsys gfxinfo</item>
+        <item>Spenta</item>
+        <item>Su schermo come barre</item>
+        <item>Nella shell adb dumpsys gfxinfo</item>
     </string-array>
     <string-array name="track_frame_time_values">
         <item>false</item>
         <item>visual_bars</item>
-        <item>true</item>
+        <item>vero</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animazioni disattivate</item>
@@ -376,28 +338,12 @@
         <item>5</item>
         <item>10</item>
     </string-array>
-    <string-array name="tts_demo_string_langs">
-        <item>eng</item>
-        <item>fra</item>
-        <item>deu</item>
-        <item>ita</item>
-        <item>spa</item>
-        <item>kor</item>
-    </string-array>
-    <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-    </string-array>
     <string-array name="tts_rate_entries">
         <item>Molto lento</item>
         <item>Lento</item>
         <item>Normale</item>
         <item>Veloce</item>
-        <item>Velocissimo</item>
+        <item>Più rapido</item>
         <item>Molto veloce</item>
         <item>Rapido</item>
         <item>Molto rapido</item>
@@ -405,25 +351,25 @@
     </string-array>
     <string-array name="tts_rate_values">
         <item>60</item>
-        <item>80</item>
+        <item>ISO 80</item>
         <item>100</item>
         <item>150</item>
-        <item>200</item>
-        <item>250</item>
+        <item>ISO 200</item>
+        <item>ISO 250</item>
         <item>300</item>
         <item>350</item>
-        <item>400</item>
+        <item>ISO 400</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>In caricamento</item>
+        <item>Ricarica</item>
         <item>MTP (Protocollo Di Trasferimento Media)</item>
-        <item>PTP (Protocollo Di Trasferimento Immagini)</item>
-        <item>RNDIS (USB LAN)</item>
-        <item>Fonte Audio</item>
+        <item>PTP (Protocollo di Trasferimento Foto)</item>
+        <item>RNDIS (Ethernet USB)</item>
+        <item>Sorgente audio</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="usb_configuration_values">
-        <item>nessuno</item>
+        <item>smart</item>
         <item>mtp</item>
         <item>ptp</item>
         <item>rndis</item>
@@ -432,17 +378,17 @@
     </string-array>
     <string-array name="wifi_status">
         <item></item>
-        <item>Scansione</item>
+        <item>Scansione…</item>
         <item>Connessione…</item>
         <item>Autenticazione…</item>
-        <item>Recupero indirizzo IP…</item>
+        <item>Acquisizione indirizzo IP…</item>
         <item>Connesso</item>
         <item>Sospeso</item>
-        <item>Disconnessione</item>
+        <item>Disconnessione…</item>
         <item>Disconnesso</item>
         <item>Fallito</item>
-        <item>Bloccato</item>
-        <item>Evita tempor. connessioni deboli</item>
+        <item>Filtro sconosciuti</item>
+        <item>Al momento vengono evitate connessioni deboli</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -450,16 +396,16 @@
         <item>Connessione a %1$s…</item>
         <item>Autenticazione con %1$s…</item>
         <item>Recupero indirizzo IP da %1$s…</item>
-        <item>Connesso a %1$s</item>
+        <item>Collegato a %1$s</item>
         <item>Sospeso</item>
-        <item>Disconnesso da %1$s</item>
+        <item>Disconnessione da %1$s…</item>
         <item>Disconnesso</item>
         <item>Fallito</item>
-        <item>Bloccato</item>
-        <item>Evita tempor. connessioni deboli</item>
+        <item>Filtro sconosciuti</item>
+        <item>Al momento vengono evitate connessioni deboli</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animazione disattivata</item>
+        <item>Animazioni disattivate</item>
         <item>Scala animazione .5x</item>
         <item>Scala animazione 1x</item>
         <item>Scala animazione 1.5x</item>

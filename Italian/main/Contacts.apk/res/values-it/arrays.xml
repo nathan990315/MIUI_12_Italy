@@ -6,11 +6,11 @@
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>F</item>
+        <item>Ven</item>
         <item>G</item>
-        <item>H</item>
+        <item>O</item>
         <item>I</item>
-        <item>J</item>
+        <item>G</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -25,7 +25,7 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>Y</item>
+        <item>A</item>
         <item>Z</item>
         <item>\#</item>
     </string-array>
@@ -36,11 +36,11 @@
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>F</item>
+        <item>Ven</item>
         <item>G</item>
-        <item>H</item>
+        <item>O</item>
         <item>I</item>
-        <item>J</item>
+        <item>G</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -55,13 +55,16 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>Y</item>
+        <item>A</item>
         <item>Z</item>
         <item>\#</item>
     </string-array>
-    <string-array name="otherLabels">
-        <item>Organizzazione</item>
-        <item>Nota</item>
+    <string-array name="bh_array_switch_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="bh_required_permission_list_all_desc">
+        <item>Per fornire servizi a un dispositivo specifico</item>
     </string-array>
     <string-array name="preference_dial_pad_touch_tone_entry_values">
         <item>-1</item>

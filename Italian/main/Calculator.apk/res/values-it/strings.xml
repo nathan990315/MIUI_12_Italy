@@ -481,7 +481,7 @@
     <string name="loan_unit">×10K</string>
     <string name="localised_number">%d</string>
     <string name="lpr_format">%1$s%% %2$s %3$s‱ = %4$s%%</string>
-    <string name="lpr_ok">Fatto</string>
+    <string name="lpr_ok">Ok</string>
     <string name="lpr_tips_msg">"A partire dall'8 ottobre 2019, il tasso di interesse del prestito per l'alloggio commerciale personale sarà calcolato in base al tasso di interesse primario del credito (LPR) anziché al tasso di interesse di riferimento del 4,9% precedentemente attuato. Ora, la tariffa finale sarà confermata aggiungendo un punto base LPR.
 
 Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di ogni mese (i ritardi potrebbero verificarsi a causa delle vacanze bancarie) sul sito della Banca Popolare Cinese."</string>
@@ -1223,8 +1223,11 @@ Le regioni più svantaggiate di un anno e di cinque anni saranno citate il 20 di
     <string name="word_figure_unit_qian">qian</string>
     <string name="word_figure_unit_shi">shi</string>
     <string name="word_figure_zheng">Totale</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">"Connessione a Download Manager fallita, controlla lo stato del Download Manager in Gestione Applicazioni."</string>
     <string name="xiaomi_external_storage_unavailable">"Archivio non disponibile, verifica la scheda SD."</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"Presentazione versione %1$s
 Size: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Nuova versione %1$s

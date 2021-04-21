@@ -1,21 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="screenrecorder_settings_bit_rate">
-        <item>200 Mbps</item>
-        <item>100 Mbps</item>
-        <item>50 Mbps</item>
-        <item>32 Mbps</item>
-        <item>24 Mbps</item>
-        <item>16 Mbps</item>
-        <item>8 Mbps</item>
-        <item>4 Mbps</item>
-        <item>1 Mbps</item>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>Ven</item>
+        <item>G</item>
+        <item>O</item>
+        <item>I</item>
+        <item>G</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>A</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>Ven</item>
+        <item>G</item>
+        <item>O</item>
+        <item>I</item>
+        <item>G</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>A</item>
+        <item>Z</item>
+        <item>\#</item>
     </string-array>
     <string-array name="screenrecorder_settings_bit_rate_values">
-        <item>200</item>
+        <item>ISO 200</item>
         <item>100</item>
-        <item>50</item>
-        <item>32</item>
+        <item>ISO 50</item>
+        <item>32s</item>
         <item>24</item>
         <item>16</item>
         <item>8</item>
@@ -23,10 +71,10 @@
         <item>1</item>
     </string-array>
     <string-array name="screenrecorder_settings_frames">
-        <item>24 fps</item>
-        <item>30 fps</item>
-        <item>48 fps</item>
-        <item>60 fps</item>
+        <item>24fps</item>
+        <item>30fps</item>
+        <item>48fps</item>
+        <item>60fps</item>
     </string-array>
     <string-array name="screenrecorder_settings_frames_values">
         <item>24</item>
@@ -35,7 +83,7 @@
         <item>60</item>
     </string-array>
     <string-array name="screenrecorder_settings_orientation">
-        <item>Automatico</item>
+        <item>Auto</item>
         <item>Verticale</item>
         <item>Orizzontale</item>
     </string-array>
@@ -49,30 +97,10 @@
         <item>720p</item>
         <item>480p</item>
     </string-array>
-    <string-array name="screenrecorder_settings_resolution_c9_full_values">
-        <item>1440*1080</item>
-        <item>1280*960</item>
-        <item>960*720</item>
-    </string-array>
-    <string-array name="screenrecorder_settings_resolution_c9_values">
-        <item>1080</item>
-        <item>960</item>
-        <item>720</item>
-    </string-array>
-    <string-array name="screenrecorder_settings_resolution_f9_full_values">
-        <item>1920*910</item>
-        <item>1280*720</item>
-        <item>800*480</item>
-    </string-array>
     <string-array name="screenrecorder_settings_resolution_f9_values">
         <item>910</item>
         <item>720</item>
         <item>480</item>
-    </string-array>
-    <string-array name="screenrecorder_settings_resolution_full_values">
-        <item>1920*1080</item>
-        <item>1280*720</item>
-        <item>800*480</item>
     </string-array>
     <string-array name="screenrecorder_settings_resolution_values">
         <item>1080</item>
@@ -80,7 +108,7 @@
         <item>480</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound">
-        <item>Silenziati</item>
+        <item>Silenzioso</item>
         <item>Microfono</item>
         <item>Suoni di sistema</item>
     </string-array>
@@ -96,11 +124,5 @@
     <string-array name="screenrecorder_settings_storage_location_values">
         <item>0</item>
         <item>1</item>
-    </string-array>
-    <string-array name="screenrecorder_utils_support_high_frames_cpu">
-        <item>Qualcomm Technologies, Inc SDM845</item>
-        <item>Qualcomm Technologies, Inc MSM8998</item>
-        <item>Qualcomm Technologies, Inc SM8150</item>
-        <item>Qualcomm Technologies, Inc SM8250</item>
     </string-array>
 </resources>

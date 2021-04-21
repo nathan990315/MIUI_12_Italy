@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.21</item>
+    </string-array>
     <string-array name="trans_cancel_survey_title">
-        <item>Esperienza generale</item>
+        <item>Esperienza complessiva</item>
         <item>Durata del trasferimento</item>
-        <item>Semplicità del processo</item>
-        <item>Chiarezza delle istruzioni</item>
-        <item>Questa funzionalità è utile</item>
+        <item>Semplicità</item>
+        <item>Chiarezza della guida</item>
+        <item>Questa funzione è utile</item>
     </string-array>
     <string-array name="trans_succeed_rating_hint">
         <item>Molto insoddisfatto</item>
         <item>Insoddisfatto</item>
-        <item>Neutro</item>
+        <item>Neutrale</item>
         <item>Soddisfatto</item>
         <item>Molto soddisfatto</item>
     </string-array>
     <string-array name="trans_succeed_survey_title">
         <item>Valutazione complessiva</item>
         <item>Durata del trasferimento</item>
-        <item>Semplicità del processo</item>
-        <item>Chiarezza delle istruzioni</item>
+        <item>Semplicità</item>
+        <item>Chiarezza della guida</item>
     </string-array>
 </resources>

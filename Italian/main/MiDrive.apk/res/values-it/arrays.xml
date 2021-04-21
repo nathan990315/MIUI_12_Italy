@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="privacy_dialog_runtime_permission_desc">
+        <item>Per accedere tramite Mi Account</item>
+        <item>Per visualizzare, caricare, scaricare e sincronizzare i file</item>
+    </string-array>
+    <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
+        <item>Per accedere tramite Mi Account</item>
+        <item>Per visualizzare, caricare, scaricare e sincronizzare i file</item>
+        <item>Per individuare gli aggiornamenti disponibili</item>
+    </string-array>
+</resources>

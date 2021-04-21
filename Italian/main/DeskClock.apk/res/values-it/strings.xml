@@ -44,7 +44,7 @@
     <string name="alarm_alert_disabled">Spenta</string>
     <string name="alarm_ascending_mode_summary">Il volume della sveglia aumenta progressivamente.</string>
     <string name="alarm_ascending_mode_title">Volume crescente</string>
-    <string name="alarm_clock_more_setting">Impostazioni addizionali</string>
+    <string name="alarm_clock_more_setting">Impostazioni</string>
     <string name="alarm_disabled">Spenta</string>
     <string name="alarm_in_silent_mode_title">Suona in modalità Silenzioso</string>
     <string name="alarm_klaxon_service_desc">Servizio di riproduzione dei suoni per le sveglie impostate nell\'orologio.</string>
@@ -412,7 +412,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
     <string name="module_dialog_negative">"Non accetto"</string>
-    <string name="module_dialog_neutral">Fatto</string>
+    <string name="module_dialog_neutral">Ok</string>
     <string name="module_dialog_positive">Accetto</string>
     <string name="module_download_cancel">Non ora</string>
     <string name="module_download_data_msg">Per rendere disponibili le sveglie intelligenti, i suoni della natura e le sveglie di compleanno, l\'orologio dovrà connettersi ad Internet e accedere ai tuoi contatti. Dovrai anche scaricare ulteriore audio. Utilizzare i dati mobili per scaricare altro audio? \"</string>
@@ -432,7 +432,7 @@
     <string name="module_downloading">Scaricamento audio addizionali…</string>
     <string name="module_unzipping">Scompattamento audio…</string>
     <string name="module_update_success">L\'audio aggiornato delle sveglie smart MIUI è stato scaricato con successo. Puoi impostare le sveglie smart MIUI nelle impostazioni dell\'orologio.</string>
-    <string name="module_update_success_control">Fatto</string>
+    <string name="module_update_success_control">Ok</string>
     <string name="module_weather_ringtone_download_data">L\' allarme meteo seleziona diverse suonerie in base al meteo corrente. L\'orologio deve scaricare ≈30 MB di audio per farlo funzionare. Scaricarli ora?</string>
     <string name="module_weather_ringtone_download_data_privacy"><Data>Sveglia Meteo seleziona suonerie diverse in base al meteo. Orologio deve connettersi a Internet per scaricare 30 MB di file audio. Prima di utilizzare Orologio, devi leggere e accettare il nostro &lt;a href=\"%1$s\"&gt;Contratto utente&lt;/a&gt; e &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt;. Accetti?</Data></string>
     <string name="module_weather_ringtone_download_wifi">L\' allarme meteo seleziona diverse suonerie in base al meteo corrente. L\'orologio deve scaricare degli audio per farlo funzionare. Scaricarli ora?</string>
@@ -514,7 +514,7 @@
     <string name="open_keep_screen">La schermata sarà mantenuta attiva</string>
     <string name="open_sleep_record">Attiva</string>
     <string name="other_category_title">Altro</string>
-    <string name="other_settings">Impostazioni addizionali</string>
+    <string name="other_settings">Altre impostazioni</string>
     <string name="pause">Pausa</string>
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">Suggerimenti di contenuti personalizzati</string>
@@ -570,6 +570,7 @@
     <string name="shutdown_alarm_enable_summary">"La sveglia si attiverà con dispositivo spento"</string>
     <string name="shutdown_alarm_title">Sveglia dopo spegnimento</string>
     <string name="silent_alarm_summary">Silenzia</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Disattiva una volta il %s</string>
     <string name="sleep_analysis">Statistiche</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -643,6 +644,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Nessun giro</string>
     <string name="stopwatch_reset_notification">Il cronometro è stato resettato</string>
     <string name="stopwatch_running_notification">Cronometro</string>
@@ -651,6 +653,7 @@
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Consenti a questa applicazione di connettersi ad internet per accedere a tutte le sue funzioni.</string>
     <string name="system_permission_main_purpose">Visualizzare l\'ora, impostare sveglie e timer, utilizzare il cronometro</string>
     <string name="system_permission_purpose">Creare sveglie settimanali e impostare suonerie personalizzate</string>

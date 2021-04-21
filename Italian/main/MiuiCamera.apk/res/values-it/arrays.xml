@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="ai_scene_names">
+    <item>smart</item>
+    <item>document</item>
+    <item>flower</item>
+    <item>food</item>
+    <item>ppt</item>
+    <item>sky</item>
+    <item>sunrise_sunset</item>
+    <item>cat</item>
+    <item>dog</item>
+    <item>green_plants</item>
+    <item>night</item>
+    <item>snow</item>
+    <item>ocean</item>
+    <item>autumn</item>
+    <item>candlelight</item>
+    <item>car</item>
+    <item>grass</item>
+    <item>maple_leaf</item>
+    <item>succulent</item>
+    <item>building</item>
+    <item>city</item>
+    <item>cloudy</item>
+    <item>overcast</item>
+    <item>back_light_portrait</item>
+    <item>silhouette</item>
+    <item>portrait</item>
+    <item>jewels</item>
+    <item>buddha</item>
+    <item>cow</item>
+    <item>curry</item>
+    <item>motorcycle</item>
+    <item>temple</item>
+    <item>beach</item>
+    <item>underwater</item>
+    <item>tower</item>
+    <item>moon</item>
+    <item>group_photo</item>
+    <item>statue</item>
+    <item>id_card</item>
+  </string-array>
+  <string-array name="alphabet_table">
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    <item>E</item>
+    <item>Ven</item>
+    <item>G</item>
+    <item>O</item>
+    <item>I</item>
+    <item>G</item>
+    <item>K</item>
+    <item>L</item>
+    <item>M</item>
+    <item>N</item>
+    <item>O</item>
+    <item>P</item>
+    <item>Q</item>
+    <item>R</item>
+    <item>S</item>
+    <item>T</item>
+    <item>U</item>
+    <item>V</item>
+    <item>W</item>
+    <item>X</item>
+    <item>A</item>
+    <item>Z</item>
+    <item>\#</item>
+  </string-array>
+  <string-array name="alphabet_table_with_starred">
+    <item>!</item>
+    <item>A</item>
+    <item>B</item>
+    <item>C</item>
+    <item>D</item>
+    <item>E</item>
+    <item>Ven</item>
+    <item>G</item>
+    <item>O</item>
+    <item>I</item>
+    <item>G</item>
+    <item>K</item>
+    <item>L</item>
+    <item>M</item>
+    <item>N</item>
+    <item>O</item>
+    <item>P</item>
+    <item>Q</item>
+    <item>R</item>
+    <item>S</item>
+    <item>T</item>
+    <item>U</item>
+    <item>V</item>
+    <item>W</item>
+    <item>X</item>
+    <item>A</item>
+    <item>Z</item>
+    <item>\#</item>
+  </string-array>
+  <string-array name="pref_camera_contrast_entryvalues">
+    <item>0</item>
+    <item>2</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>8</item>
+    <item>10</item>
+  </string-array>
+  <string-array name="pref_camera_saturation_entryvalues">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+  </string-array>
+  <string-array name="pref_camera_sharpness_entryvalues">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="pref_video_encoder_entryvalues">
+    <item>h264</item>
+    <item>h265</item>
+  </string-array>
+  <string-array name="pref_video_hfr_entryvalues">
+    <item>1280x720:120</item>
+    <item>1920x1080:120</item>
+    <item>1280x720:240</item>
+    <item>1920x1080:240</item>
+  </string-array>
+  <string-array name="pref_video_new_slow_motion_entryvalues">
+    <item>6</item>
+    <item>5</item>
+  </string-array>
+  <string-array name="pref_video_quality_entryvalues">
+    <item>@string/pref_video_quality_entry_value_4kuhd</item>
+    <item>@string/pref_video_quality_entry_value_4kuhd_60fps</item>
+    <item>6</item>
+    <item>@string/pref_video_quality_entry_value_1080p_60fps</item>
+    <item>5</item>
+    <item>@string/pref_video_quality_entry_value_720p_60fps</item>
+  </string-array>
+  <string-array name="pref_video_time_lapse_frame_interval_entryvalues">
+    <item>67</item>
+    <item>120</item>
+    <item>300</item>
+    <item>ISO 1000</item>
+    <item>ISO 2000</item>
+    <item>3000</item>
+    <item>ISO 4000</item>
+    <item>ISO 5000</item>
+    <item>ISO 8000</item>
+    <item>10000</item>
+    <item>15000</item>
+    <item>30000</item>
+    <item>60000</item>
+  </string-array>
+</resources>

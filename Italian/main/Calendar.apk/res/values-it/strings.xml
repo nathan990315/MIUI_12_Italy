@@ -63,6 +63,7 @@
     <string name="action_label">Avvia</string>
     <string name="action_text_card_manager">Canale</string>
     <string name="actionbar_button_up_description">Indietro</string>
+    <string name="ad_card_app_size_text">%dM</string>
     <string name="ad_card_install">Installa</string>
     <string name="add_account_success">Aggiunto con successo</string>
     <string name="add_anniversary">Aggiungi anniversario</string>
@@ -75,7 +76,7 @@
     <string name="agenda_not_today_empty_hint">Ancora nessun evento. Tocca per crearne uno.</string>
     <string name="agenda_tomorrow">DOMANI, %1$s</string>
     <string name="agenda_view">Agenda</string>
-    <string name="alarm_label">Fatto</string>
+    <string name="alarm_label">Ok</string>
     <string name="alarm_open_reminder">Imposta sveglia</string>
     <string name="alarm_reminder_already">Impostazione sveglia riuscita</string>
     <string name="alert_reminder_divider">|</string>
@@ -112,7 +113,9 @@
     <string name="birthday_term_chinese_calendar">"Compleanno di %1$s (calendario cinese tradizionale)"</string>
     <string name="calendar_account_settings">Impostazioni account</string>
     <string name="calendar_import_source">Fonte</string>
+    <string name="calendar_privacy_policy">Informativa sulla Privacy</string>
     <string name="calendar_subscription_group_title">Calendar subscriptions</string>
+    <string name="calendar_user_agreement">Accordo utente</string>
     <string name="can_not_create_long_event">Contenuto troppo lungo</string>
     <string name="can_not_modify_allday_event">"Gli eventi che durano tutto il giorno non possono essere modificati"</string>
     <string name="can_not_modify_event">"Impossibile modificare"</string>
@@ -217,6 +220,7 @@
     <string name="cold_dews">Giornata della rugiada fredda</string>
     <string name="cold_dews_tradition">Giornata della rugiada fredda</string>
     <string name="content_confirm_close_chinese_calendar">Tutti i tuoi eventi basati sul calendario cinese tradizionale saranno convertiti al calendario Gregoriano dopo aver disattivato questa funzione. Gli anni e i mesi del calendario Gregoriano saranno utilizzati per gli eventi ripetuti.</string>
+    <string name="copy">Copia</string>
     <string name="copy_email">Copia indirizzo email</string>
     <string name="copy_number">Copia numero di telefono</string>
     <string name="countdown_event_title">Promemoria: %1$s</string>
@@ -246,6 +250,7 @@
     <string name="date_jump_title">Vai alla data</string>
     <string name="date_pattern_mm_dd">dd/MM</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
+    <string name="date_time_fmt">%1$s, %2$s</string>
     <string name="date_today">" (oggi)"</string>
     <string name="day_view_new_event_hint">Nuovo evento</string>
     <string name="default_reminder_later_time">Intervallo predefinito per \"Ricordami dopo\"</string>
@@ -352,6 +357,7 @@
     <string name="event_title">Titolo</string>
     <string name="event_view">Mostra evento</string>
     <string name="every_weekday">da lunedì a venerdì</string>
+    <string name="expand_button_title">Avanzate</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a tendina</string>
     <string name="festival_detail_title">Festa</string>
     <string name="flight_check_in">Check-in</string>
@@ -362,7 +368,7 @@
     <string name="flight_detail_title">Itinerario di volo</string>
     <string name="flight_disclaimer">Avviso</string>
     <string name="flight_disclaimer_content">"Informazioni e servizi di volo sono forniti da VariFlight. Tutte le responsabilità correlate saranno a carico di terzi. Contatta il servizio clienti di VariFlight per qualsiasi domanda. Le informazioni sul volo sono fornite solo per il suo referente. Fare riferimento agli annunci della compagnia aerea per informazioni più accurate e aggiornate."</string>
-    <string name="flight_disclaimer_dialog_ok">Fatto</string>
+    <string name="flight_disclaimer_dialog_ok">Ok</string>
     <string name="flight_event_delete_successfully">Itinerario di volo eliminato con successo</string>
     <string name="flight_plan_time">Pianificato %1$s</string>
     <string name="flight_seat_no">Posto %1$s</string>
@@ -421,8 +427,6 @@
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
     <string name="fools_day">Pesce d\'aprile</string>
-    <string name="fortune_card_set_bazi">获取运势</string>
-    <string name="fortune_label">每日运势</string>
     <string name="fortune_name_hint">请输入</string>
     <string name="free_day_default_banner_title">Goditi le vacanze!</string>
     <string name="friday">Venerdì</string>
@@ -569,10 +573,13 @@
     <string name="miuix_appcompat_cancel_description">Annulla</string>
     <string name="miuix_appcompat_confirm_description">Conferma</string>
     <string name="miuix_appcompat_delete_description">Elimina</string>
+    <string name="miuix_appcompat_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleziona tutto</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annulla</string>
     <string name="miuix_appcompat_search_input_description">Cerca</string>
+    <string name="miuix_appcompat_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
+    <string name="miuix_appcompat_select_item">Seleziona elementi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -702,6 +709,7 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="no_visiable_calendar_select_account">Aggiungi account</string>
     <string name="no_visiable_calendar_title">Aggiungi account</string>
     <string name="noon">Mezzogiorno</string>
+    <string name="not_set">Non impostato</string>
     <string name="notification_channel_name">Promemoria calendario</string>
     <string name="notification_channel_name_no_sound">Promemoria silenziati</string>
     <string name="notification_channel_name_no_vibration">Promemoria senza vibrazione</string>
@@ -724,11 +732,15 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="phone_num">Telefono</string>
     <string name="pm">PM</string>
     <string name="portrait_week_view">Agenda settimanale in orientamento verticale</string>
+    <string name="prefDefault_alerts_vibrateWhen">never</string>
+    <string name="prefDefault_alerts_vibrate_false">never</string>
+    <string name="prefDefault_alerts_vibrate_true">always</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrazione</string>
     <string name="pref_default_popup_alert_value">smart</string>
     <string name="pref_reminder_time">Orario promemoria</string>
     <string name="pref_title_alarm_remind">Promemoria sveglia</string>
     <string name="pref_title_no_remind">Nessun avviso</string>
+    <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="preferences_alarms_category_title">Promemoria sveglia</string>
     <string name="preferences_alarms_default_event">Seleziona eventi</string>
     <string name="preferences_alarms_sound">Suono</string>
@@ -754,6 +766,7 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">Inizio settimana</string>
     <string name="preferences_week_start_day_title">Inizio settimana</string>
+    <string name="prefsx_notify_sound_none">Silenzia</string>
     <string name="premission_description_agree">Consentire a questa applicazione di connettersi a Internet e concedere le autorizzazioni obbligatorie elencate sopra.</string>
     <string name="premission_description_calendar">Per aggiungere e visualizzare i tuoi eventi</string>
     <string name="premission_description_contact">Per visualizzare i compleanni dei tuoi contatti</string>
@@ -904,6 +917,7 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="subscribe_channel_subscribing">Iscritto</string>
     <string name="subscribe_text">Aggiungi</string>
     <string name="subscribing_card">Iscritto</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_import_by_caldav">Supporta l\'importazione d\'eventi da iCloud e lark account</string>
     <string name="summary_import_by_email">Supporta Outlook,QQ account ecc.</string>
     <string name="summary_import_by_local">Supporta file calendario ICS</string>
@@ -1068,6 +1082,8 @@ Controlla le impostazioni di rete e riprova."</string>
     <string name="user_notice_button_ok">OK</string>
     <string name="user_notice_message">Utilizzando questo prodotto, accetti %1$s e %2$s. Alcune funzionalità devono connettersi ad internet per funzionare correttamente.</string>
     <string name="user_notice_title">Attenzione</string>
+    <string name="v7_preference_off">DISATTIVATO</string>
+    <string name="v7_preference_on">ATTIVATO</string>
     <string name="valentines_day">San Valentino</string>
     <string name="view_event_calendar_label">Calendario:</string>
     <string name="view_event_organizer_label">Organizzatore:</string>

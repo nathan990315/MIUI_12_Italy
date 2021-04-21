@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_providers">
-        <item>content://com.android.email.provider/uiaccts</item>
-    </string-array>
     <string-array name="account_settings_check_frequency_values">
         <item>-1</item>
         <item>15</item>
@@ -59,7 +56,7 @@
         <item>Feb</item>
         <item>Mar</item>
         <item>Apr</item>
-        <item>Mag</item>
+        <item>Maggio</item>
         <item>Giu</item>
         <item>Lug</item>
         <item>Ago</item>
@@ -69,17 +66,16 @@
         <item>Dic</item>
     </string-array>
     <string-array name="alphabet_chars">
-        <item>★</item>
         <item>A</item>
         <item>B</item>
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>F</item>
+        <item>Ven</item>
         <item>G</item>
-        <item>H</item>
+        <item>O</item>
         <item>I</item>
-        <item>J</item>
+        <item>G</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -94,37 +90,65 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>Y</item>
+        <item>A</item>
         <item>Z</item>
         <item>\#</item>
         <item>∅</item>
     </string-array>
+    <string-array name="alphabet_chars2">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>Ven</item>
+        <item>G</item>
+        <item>O</item>
+        <item>I</item>
+        <item>G</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>A</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="calendar_remind_string_array">
         <item>Stanotte</item>
-        <item>Domani</item>
+        <item>domani</item>
         <item>Fine settimana</item>
         <item>Prossima settimana</item>
-        <item>Mese prossimo</item>
-        <item>Scegli data</item>
-    </string-array>
-    <string-array name="compose_modes">
-        <item>Rispondi</item>
-        <item>Rispondi a tutti</item>
-        <item>Inoltra</item>
+        <item>Mese successivo</item>
+        <item>Scegli una data</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Molto piccolo</item>
+        <item>Testo molto piccolo</item>
         <item>Piccolo</item>
         <item>Normale</item>
-        <item>Grande</item>
-        <item>Enorme</item>
+        <item>Largo</item>
+        <item>Testo molto grande</item>
     </string-array>
     <string-array name="general_preference_text_zoom_values">
         <item>molto piccolo</item>
         <item>piccolo</item>
         <item>normale</item>
         <item>grande</item>
-        <item>molto grande</item>
+        <item>enorme</item>
+    </string-array>
+    <string-array name="invoice_card_pdf_keyword">
+        <item>发票</item>
+        <item>fattura</item>
     </string-array>
     <string-array name="log_file_save_term_values">
         <item>1</item>
@@ -138,30 +162,26 @@
         <item>Formato</item>
         <item>Nome</item>
         <item>Mittente</item>
-        <item>Data</item>
+        <item>Data di ricezione</item>
     </string-array>
     <string-array name="moveto_folder_sections">
         <item>Sistema</item>
-        <item>Utilizzati di frequente</item>
+        <item>Usato Frequentemente</item>
         <item>Tutte le cartelle</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Messaggi più nuovi</item>
-        <item>Messaggi più vecchi</item>
-        <item>Lista conversazioni</item>
+        <item>Più nuovi</item>
+        <item>Più vecchi</item>
+        <item>In arrivo</item>
     </string-array>
     <string-array name="prefEntries_contact_add">
-        <item>Tutti</item>
+        <item>Tutto</item>
         <item>Solo mittenti</item>
     </string-array>
     <string-array name="prefValues_autoAdvance">
-        <item>più recenti</item>
-        <item>meno recenti</item>
-        <item>elenco</item>
-    </string-array>
-    <string-array name="prefValues_contact_add">
-        <item>contact_add</item>
-        <item>receiver_add</item>
+        <item>newer</item>
+        <item>older</item>
+        <item>list</item>
     </string-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
@@ -176,7 +196,7 @@
         <item>E-mail:</item>
         <item>Tel:</item>
         <item>Fax:</item>
-        <item>E-mail:</item>
+        <item>Posta:</item>
         <item>QQ:</item>
         <item>MSN:</item>
     </string-array>
@@ -184,15 +204,15 @@
         <item>Indirizzo:</item>
         <item>Tel:</item>
         <item>Nome:</item>
-        <item>Email:</item>
-        <item>Cell:</item>
+        <item>E-mail:</item>
+        <item>Cellulare:</item>
         <item>WeChat:</item>
         <item>Fax:</item>
-        <item>Codice postale:</item>
+        <item>CAP:</item>
     </string-array>
     <string-array name="signature_special_string_array">
         <item>Avviso:</item>
-        <item>Avviso Email</item>
+        <item>Avviso email</item>
         <item>Inviato da WPSMail</item>
         <item>Inviato da</item>
         <item>Inviato con</item>

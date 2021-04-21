@@ -423,6 +423,7 @@
     <string name="item_ostriches">Struzziformi</string>
     <string name="item_parrot">Pappagalli</string>
     <string name="item_passerine">Passeriformi</string>
+    <string name="item_perissodactyla">Perissodattili</string>
     <string name="item_pluriformes">Charadriiformi</string>
     <string name="item_primates">Primati</string>
     <string name="item_quolls">Dasiuromorfi</string>
@@ -761,7 +762,7 @@
     <string name="unlock_times_per_day">"Media giornaliera: "</string>
     <string name="unlock_times_per_hour">"Sblocchi all'ora: "</string>
     <string name="usage_agree">Accetto</string>
-    <string name="usage_app_get_it">Fatto</string>
+    <string name="usage_app_get_it">Ok</string>
     <string name="usage_app_holiday_limit">Giorni di riposo</string>
     <string name="usage_app_limit_alter_summary">"Sembra che questo limite di tempo sia più breve di quanto tu abbia usato quest'app oggi. Impostarlo comunque?"</string>
     <string name="usage_app_limit_alter_title">Controlla limite di tempo</string>
@@ -772,7 +773,7 @@
     <string name="usage_app_limit_reach_title_new" formatted="false">Tempo rimanente di utilizzo per %1s: %2s</string>
     <string name="usage_app_limit_summary">"Le app selezionate non saranno disponibili al raggiungimento del limite"</string>
     <string name="usage_app_limit_title">Limite utilizzo app</string>
-    <string name="usage_app_other_settings">Impostazioni addizionali</string>
+    <string name="usage_app_other_settings">Altre impostazioni</string>
     <string name="usage_app_over_content">"Hai già utilizzato questa app per %s oggi."</string>
     <string name="usage_app_over_summary">"Hai raggiunto il tuo limite. Tempo scaduto!"</string>
     <string name="usage_app_set_limit_time">Imposta limite</string>
@@ -1020,7 +1021,7 @@ Questa app deve collegarsi a internet e richiede le seguenti autorizzazioni per 
     <string name="usagestats_device_notification_title">Avviso schermo attivo</string>
     <string name="usagestats_device_timeout_des">"Oggi hai usato il dispositivo per %1$do %2$dm. Riposati un po'!"</string>
     <string name="usagestats_device_timeout_negative">Ricordamelo tra 1 ora</string>
-    <string name="usagestats_device_timeout_positive">Fatto</string>
+    <string name="usagestats_device_timeout_positive">Ok</string>
     <string name="usagestats_device_timeout_title">Avviso schermo attivo</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>

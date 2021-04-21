@@ -181,7 +181,7 @@
     <string name="album_type_system">Album di sistema</string>
     <string name="album_videos_name">Video</string>
     <string name="album_wallpaper">Sfondi</string>
-    <string name="alert_secret_album_enter">Fatto</string>
+    <string name="alert_secret_album_enter">Ok</string>
     <string name="alert_secret_album_message">Puoi sfogliare l\'album Mi Cloud nell\'album privato.</string>
     <string name="alert_secret_album_message_lower_case"> scorri in basso nell\'Album per vedere gli album nascosti.</string>
     <string name="alert_secret_album_title">Album Privato</string>
@@ -291,7 +291,7 @@
     <string name="backup_pause_title">Backup tra %s</string>
     <string name="backup_pending">Il backup verrà eseguito automaticamente</string>
     <string name="backup_settings">Sincronizza con il Cloud</string>
-    <string name="backup_settings_more">Impostazioni addizionali</string>
+    <string name="backup_settings_more">Altre impostazioni</string>
     <string name="backup_stop">Interrompi il backup</string>
     <string name="backup_sync_dialog_confirm">Attiva</string>
     <string name="backup_sync_dialog_tips">Attiva sincronizzazione con Mi Cloud per cambiare le impostazioni dei backup.</string>
@@ -367,6 +367,7 @@
     <string name="card_description_annual_peoples">Visi, storie, luoghi</string>
     <string name="card_description_annual_pets">Code, zampe e baffi</string>
     <string name="card_description_annual_travel">Cose che hai visto per strada</string>
+    <string name="card_description_from_to">%1$s - %2$s</string>
     <string name="card_title_activities">Agenda</string>
     <string name="card_title_annual_babys">Il tesoro a %1$s</string>
     <string name="card_title_annual_events">Le mie feste nel %1$s</string>
@@ -381,6 +382,7 @@
     <string name="card_title_pastyear_party">Feste dell\'anno scorso</string>
     <string name="card_title_pastyear_sports">Gli allenamenti dell\'anno scorso</string>
     <string name="card_title_recent_memory">Ricordi recenti</string>
+    <string name="card_title_somewhere">%1$s</string>
     <string name="card_title_sports">Attività</string>
     <string name="card_title_three_month_baby">Il tempo vola</string>
     <string name="cast_devices_unavailable_desc">Assicurati che questo dispositivo e il proiettore siano collegati alla stessa rete Wi-Fi</string>
@@ -543,7 +545,7 @@
     <string name="cleaner_scan_exit_dialog_title">Interrompi scansione</string>
     <string name="cleaner_scan_finish">Scansione completata</string>
     <string name="cleaner_scan_no_result">"Impossibile liberare spazio in questo momento"</string>
-    <string name="cleaner_scan_ok">Fatto</string>
+    <string name="cleaner_scan_ok">Ok</string>
     <string name="cleaner_scan_title">Scansione album…</string>
     <string name="cleaner_screen_shot_action">Mostra</string>
     <string name="cleaner_screen_shot_description">Elimina gli screenshot che non ti servono più.</string>
@@ -596,7 +598,7 @@
     <string name="cloud_guide_auto_backup_title">Scegli gli album di cui fare il backup su Mi Cloud</string>
     <string name="cloud_guide_login_title">Esegui automaticamente il backup di foto e video</string>
     <string name="cloud_guide_welcome_title">Mi Cloud</string>
-    <string name="cloud_login_ok">Fatto</string>
+    <string name="cloud_login_ok">Ok</string>
     <string name="cloud_login_settings_title">Impostazioni di sincronizzazione</string>
     <string name="cloud_privacy_with_ai_album">Funzionalità e privacy</string>
     <string name="cloud_privacy_with_face">Funzionalità e privacy</string>
@@ -887,7 +889,7 @@
     <string name="ext_sdcard_guide_text">"Galleria necessita dei permessi per accedere alla scheda SD. Ecco cosa puoi fare:"</string>
     <string name="ext_sdcard_operation_failed_text">Galleria necessita dei permessi per accedere alla scheda SD.</string>
     <string name="ext_sdcard_operation_failed_title">"Impossibile completare quest'azione"</string>
-    <string name="ext_sdcard_permission_request_button_text">Fatto</string>
+    <string name="ext_sdcard_permission_request_button_text">Ok</string>
     <string name="ext_sdcard_permission_request_reason">Galleria necessita dei permessi per accedere alla scheda SD. Ti consentirà di eliminare e modificare foto e video archiviati sulla tua scheda SD.</string>
     <string name="ext_sdcard_permission_request_title">Consenti a Galleria di accedere alla scheda SD</string>
     <string name="ext_sdcard_request_failed_button_text">OK</string>
@@ -909,6 +911,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="face_name_edit">Modifica</string>
     <string name="face_name_input">Inserisci il nome</string>
     <string name="face_recommend">Consigliati</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">"Operazione fallita"</string>
     <string name="fail_to_pick_email">Email selezionata non valida</string>
     <string name="fail_to_sync_album">"Impossibile sincronizzare l'album con il server. Verifica la connessione di rete."</string>
@@ -918,6 +921,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
     <string name="feature_guidance_photo_effects">"Effetti foto"</string>
     <string name="feature_guidance_video_editor_smart_effects">Sono disponibili nuovi effetti</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">"Impossibile stampare questo elemento."</string>
     <string name="file_cannot_screen_throw">"Impossibile trasmettere questo elemento."</string>
     <string name="file_sending">Trasferimento file…</string>
@@ -1146,13 +1150,14 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Imposta</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"La galleria necessita dell'accesso a 
 %s
  per funzionare correttamente, tocca Imposta per vedere i permessi."</string>
     <string name="grant_permission_title">Concedi accesso</string>
     <string name="grant_permission_unlock_and_set">Sblocca e imposta</string>
     <string name="has_invalid_recipient">Destinatari non validi: %1$s</string>
-    <string name="have_known">Fatto</string>
+    <string name="have_known">Ok</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
     <string name="heavenly_stems_geng">Geng</string>
@@ -1479,7 +1484,7 @@ per personalizzare la Galleria"</string>
     <string name="month_september">Settembre</string>
     <string name="month_september_short">Set</string>
     <string name="month_september_shortest">Set</string>
-    <string name="month_view_tip_button_text">Fatto</string>
+    <string name="month_view_tip_button_text">Ok</string>
     <string name="month_view_tip_sub_title">Pizzica lo schermo per passare alla vista mensile</string>
     <string name="month_view_tip_title">Vista mensile</string>
     <string name="more">Altro</string>
@@ -1549,7 +1554,7 @@ per personalizzare la Galleria"</string>
     <string name="movie_video_long">Video per lungo</string>
     <string name="movie_video_short">%d s</string>
     <string name="multi_file_name">%1$s, %2$s</string>
-    <string name="multi_view_tip_button_text">Fatto</string>
+    <string name="multi_view_tip_button_text">Ok</string>
     <string name="multi_view_tip_sub_title">Pizzica con le dita per modificare la dimensione degli elementi visualizzati.</string>
     <string name="multi_view_tip_title">Ingrandisci e riduci</string>
     <string name="must_pick_file">Seleziona un\'immagine</string>
@@ -1696,7 +1701,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="other_album">Altri album</string>
     <string name="other_album_operation_move_to_rubbish_albums">Sposta nel cestino</string>
     <string name="other_album_operation_remove_from_other_albums">Rimuovi dalle eccezioni</string>
-    <string name="other_settings">Impostazioni addizionali</string>
+    <string name="other_settings">Altre impostazioni</string>
     <string name="owner_album_subtitle">Condiviso con %1$s membri</string>
     <string name="pc_device_model_name">Computer</string>
     <string name="people_album_empty_title">Le foto possono essere ordinate in base alle persone presenti in esse</string>
@@ -1705,6 +1710,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="people_mark_mode_title_no_mark_name">Seleziona una persona</string>
     <string name="people_page_label">Nome</string>
     <string name="people_page_unname">Senza nome</string>
+    <string name="percent_sign">%</string>
     <string name="permission_contacts_desc">Per assegnare i contatti alle persone sulle foto</string>
     <string name="permission_contacts_name">Contatti</string>
     <string name="permission_optional_category">可选权限</string>
@@ -1912,6 +1918,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="projection_switch_title">Passa a</string>
     <string name="projection_video_quit">Tocca per uscire</string>
     <string name="prompt_not_support_format">"Non è possibile usare questa immagine per creare una vignetta magica"</string>
+    <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
     <string name="public_url_descript">Chiunque può accedere al tuo album utilizzando questo link</string>
     <string name="publish_failed">"Pubblicazione fallita"</string>
     <string name="publish_succeeded">Album pubblicato</string>
@@ -2116,7 +2123,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="security_share_subtitle_hide">Informazioni sulla posizione rimosse</string>
     <string name="security_share_subtitle_no_hide">Contiene informazioni sulla posizione</string>
     <string name="see_ignore_faces">"Mostra le persone ignorate"</string>
-    <string name="see_more_settings">Impostazioni addizionali</string>
+    <string name="see_more_settings">Altre impostazioni</string>
     <string name="select_all">Seleziona tutto</string>
     <string name="select_image_operation">Aggiungi foto</string>
     <string name="select_item_face">"Le foto potrebbero essere '%s'"</string>
@@ -2193,7 +2200,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="slim_cost_time_minute_and_second">%1$dm %2$ds rimanenti</string>
     <string name="slim_cost_time_second">%ds rimanenti</string>
     <string name="slim_description_dialog_detail">Riduci le dimensioni delle foto in locale. I file originali verranno archiviati su Mi Cloud.</string>
-    <string name="slim_description_dialog_ok">Fatto</string>
+    <string name="slim_description_dialog_ok">Ok</string>
     <string name="slim_description_dialog_slim_after">Dopo: %d KB</string>
     <string name="slim_description_dialog_slim_before">Prima: %.2f MB</string>
     <string name="slim_exit_dialog_positive">Interrompi</string>
@@ -2320,7 +2327,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="text_edit_dialog_font">Carattere</string>
     <string name="text_edit_dialog_font_default">Predefinita</string>
     <string name="text_edit_dialog_keyboard">tastiera</string>
-    <string name="text_edit_dialog_style">Stile note</string>
+    <string name="text_edit_dialog_style">Stile</string>
     <string name="text_edit_dialog_style_align_center">Allinea al centro</string>
     <string name="text_edit_dialog_style_align_left">Allinea a sinistra</string>
     <string name="text_edit_dialog_style_align_right">Allinea a destra</string>
@@ -2341,7 +2348,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="text_tab_idp5">Educazione</string>
     <string name="text_tab_idp6">Esami</string>
     <string name="text_tab_mark">Disegna</string>
-    <string name="text_tab_scene">Cambia scena</string>
+    <string name="text_tab_scene">Scena</string>
     <string name="text_tab_spot">Scenari</string>
     <string name="text_tab_watermark">Testo</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>

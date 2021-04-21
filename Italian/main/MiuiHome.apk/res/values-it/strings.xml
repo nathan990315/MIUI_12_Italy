@@ -226,7 +226,7 @@
     <string name="delete_wallpaper_message">Eliminare %1$d sfondo?</string>
     <string name="deselect_all">Deseleziona tutto</string>
     <string name="dialog_work_profile_button_1">Successivo</string>
-    <string name="dialog_work_profile_button_2">Fatto</string>
+    <string name="dialog_work_profile_button_2">Ok</string>
     <string name="dialog_work_profile_content_1">I dati personali sono separati e nascosti dalle app nel profilo di lavoro</string>
     <string name="dialog_work_profile_content_2">Le app e i dati presenti nel profilo di lavoro e saranno visibili dal tuo admin IT</string>
     <string name="dialog_work_profile_title">Profilo di lavoro</string>
@@ -339,7 +339,7 @@
     <string name="icon_form">Icone</string>
     <string name="icon_reorganize_channel">Organizza icone</string>
     <string name="icon_size">Dimensione icone</string>
-    <string name="icon_style">Stile note</string>
+    <string name="icon_style">Stile Icone</string>
     <string name="image_too_small_message">"L'immagine originale non è abbastanza grande"</string>
     <string name="install">Installa</string>
     <string name="invalid_contact_shortcut">Collegamento non valido</string>
@@ -493,7 +493,7 @@
     <string name="pref_screen_transformation_type_title">Animazioni</string>
     <string name="pref_wallpaper_scroll_type_title">Scorrimento sfondo</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
-    <string name="preferences_general_title">Impostazioni addizionali</string>
+    <string name="preferences_general_title">Altre impostazioni</string>
     <string name="preferences_title">Launcher</string>
     <string name="preferred_app_settings_not_selected">Non selezionato</string>
     <string name="privacy_thumbnail_blur_summary">Sfoca le anteprime delle app nei Recenti</string>
@@ -571,7 +571,7 @@
     <string name="shake_to_align_icons_title">Scuoti per riempire le celle vuote</string>
     <string name="share">Condividi</string>
     <string name="shortcut_share_dialog_content">"I file inviati dal telefono, così come i destinatari vengono selezionati e determinati da te. Prestare attenzione quando si scelgono i file da condividere e si selezionano i destinatari. Non è consentito utilizzare il telefono per trasmettere virus, malware, trojan, bombe a orologeria e altri oggetti dannosi ad altre persone. Non utilizzare il telefono per trasmettere alcun software che possa influire sull'utilizzo regolare del dispositivo del destinatario o di elementi che potrebbero danneggiare, interferire, intercettare o eliminare dati di sistema o informazioni personali sui dispositivi terminali mobili. Sarai responsabile di eventuali danni causati ad altri utenti o dispositivi terminali mobili. Xiaomi farà del suo meglio per garantire che le funzionalità di condivisione, così come la tecnologia e le informazioni coinvolte siano sicure, efficaci, accurate e affidabili. Tuttavia, a causa delle attuali limitazioni tecnologiche, Xiaomi non garantisce che la funzionalità di condivisione sia impeccabile e soddisfi tutte le tue esigenze."</string>
-    <string name="shortcut_share_dialog_positive_button">Fatto</string>
+    <string name="shortcut_share_dialog_positive_button">Ok</string>
     <string name="shortcut_share_dialog_title">Avviso</string>
     <string name="show_all">Visualizza tutti</string>
     <string name="show_mem_info_title">Mostra stato memoria</string>
@@ -590,6 +590,7 @@
     <string name="sort_by_not_defined">Ordina automaticamente</string>
     <string name="start_activity_failed">"Avvio non riuscito, riprova"</string>
     <string name="starting_preset_app">Preparazione</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s di %2$s disponibili</string>
     <string name="status_bar_recent_memory_mega">%1$s MB</string>
@@ -651,7 +652,7 @@
     <string name="work_mode_off_label">"Le notifiche sono disattivate e le app non sono disponibili al momento"</string>
     <string name="work_mode_on_label">Gestito dalla tua organizzazione</string>
     <string name="work_profile_first_content">I dati personali sono separati e nascosti dalle app nel profilo di lavoro</string>
-    <string name="work_profile_got_button">Fatto</string>
+    <string name="work_profile_got_button">Ok</string>
     <string name="work_profile_next_button">Successivo</string>
     <string name="work_profile_second_content">Le app e i dati presenti nel profilo di lavoro e saranno visibili dal tuo admin IT</string>
     <string name="work_profile_title">Profilo di lavoro</string>

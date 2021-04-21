@@ -42,6 +42,7 @@
     <string name="atrace_saving">Salvataggio log atrace…</string>
     <string name="atrace_start">Registrazione log atrace…</string>
     <string name="base_info">Informazioni di base</string>
+    <string name="checking_intranet">Controllo connessione intranet, attendere...</string>
     <string name="cloud_addr_info">Informazioni cloud</string>
     <string name="cloud_china_addr">Aggiorna dati del server Cinese</string>
     <string name="cloud_international_addr">Aggiorna dati del server Internazionale</string>
@@ -62,8 +63,10 @@
 Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
     <string name="config_suggest_suffix_title">Risparmio energetico (consigliato)</string>
     <string name="confirm">OK</string>
+    <string name="connect_intranet_hint">Si prega di connettersi alla intranet</string>
     <string name="copy">Copia</string>
     <string name="current_cloud_addr_is">L\'indirizzo del server di controllo cloud è:</string>
+    <string name="delete_data_confirm">Conferma l\'eliminazione di questi dati</string>
     <string name="empty_title_apps_container_list">Nessuna app</string>
     <string name="enable_sleep_mode">Attiva la modalità Risparmio Notturno per ottimizzare l\'utilizzo della batteria di notte</string>
     <string name="error_filename_too_long">Nome troppo lungo</string>
@@ -86,9 +89,10 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
     <string name="high_temp_state_message">Il tuo dispositivo si sta surriscaldando. Dati mobili, hotspot Wi-Fi, GPS e Fotocamera saranno limitati.</string>
     <string name="hints_loading_text">Attendi…</string>
     <string name="important_warning">Attenzione</string>
+    <string name="insert_data">Inserisci i dati</string>
     <string name="lasttime_applist_cloud">App aggiornate:</string>
     <string name="lasttime_feature_cloud">Funzioni aggiornate:</string>
-    <string name="message_i_know">Fatto</string>
+    <string name="message_i_know">Ok</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato correttamente</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
@@ -97,6 +101,7 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
+    <string name="modify_data">Modifica i dati</string>
     <string name="nonui_mode_config_description">"Non attiva lo schermo per le notifiche, disattiva LED, sensore di impronte digitali, e controlli touch per risparmiare batteria quando MIUI rileva che non stai usando il tuo dispositivo."</string>
     <string name="nonui_mode_config_title">Modalità Non Interattiva</string>
     <string name="not_set">Non impostato</string>
@@ -132,6 +137,7 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
     <string name="pref_config_title">Ottimizzazione Prestazioni</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy">Informativa sulla Privacy</string>
+    <string name="save_data">Salva i dati</string>
     <string name="scenario_policies_summary">Applicare strategie di risparmio energetico differenti in base allo scenario.</string>
     <string name="scenario_policies_title">Scenari smart</string>
     <string name="scenario_policies_warmcontrol">Controllo della temperatura</string>
@@ -150,6 +156,8 @@ Il Risparmio Batteria tratterà le app importanti in modo selettivo."</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sucess">Fatto</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="thermal_cancel">NO</string>
+    <string name="thermal_confirm">SI</string>
     <string name="update_profile_failture_not_connect_wifi">"Impossibile aggiornare. Connettiti al Wi-Fi e riprova."</string>
     <string name="update_profile_sucess">Aggiornato dal server con successo</string>
     <string name="v7_preference_off">DISATTIVATO</string>

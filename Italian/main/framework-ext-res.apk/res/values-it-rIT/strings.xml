@@ -119,7 +119,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="frequent_email">Email utilizzata di frequente</string>
     <string name="frequent_phrases">Frasi frequenti</string>
     <string name="functions_are_being_developed">Questa funzionalità sarà presto disponibile. Attendi!</string>
-    <string name="global_actions_airplane_mode">Aereo</string>
+    <string name="global_actions_airplane_mode">Modalità Aereo</string>
     <string name="global_actions_reboot">Riavvia adesso</string>
     <string name="global_actions_shutdown">Spegni</string>
     <string name="global_actions_silent_mode">Modalità silenziosa</string>
@@ -183,7 +183,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="onehour">30 minuti</string>
     <string name="oneplus">OnePlus</string>
     <string name="oneplus_phone">OnePlus</string>
-    <string name="open_close_tip_action">Fatto</string>
+    <string name="open_close_tip_action">Ok</string>
     <string name="open_close_tip_content">Per chiudere la finestra fluttuante, premi e tieni premuta la barra delle azioni e poi scorri verso l\'alto</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
@@ -206,7 +206,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="popup_camera_hid_device_name">BlackShark</string>
     <string name="popup_camera_popup_falied_times_calibrate">"Impossibile aprire la fotocamera frontale più di una volta. Prova a ricalibrare la fotocamera."</string>
     <string name="popup_camera_remove_hid_device">Sembra che il tuo dispositivo sia collegato al controller del gioco. Potresti non essere in grado di aprire la fotocamera frontale quando è collegato un controller.</string>
-    <string name="popup_camera_sure">Fatto</string>
+    <string name="popup_camera_sure">Ok</string>
     <string name="popup_camera_sure_wait">Ho capito (%ds)</string>
     <string name="popup_camera_takeback_falied_times_calibrate">"Impossibile chiudere la fotocamera frontale più di una volta. Prova a ricalibrare la fotocamera."</string>
     <string name="popup_camera_tip">Attenzione</string>
@@ -235,6 +235,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="resolver_offical_recommend">Ufficiale</string>
     <string name="resolver_other_method">Altre opzioni</string>
     <string name="resolver_recommend_options_tag">Opzioni suggerite</string>
+    <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
     <string name="resource_select">Scegli</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
@@ -298,6 +299,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="status_bar_toggle_gps">Test GPS</string>
     <string name="status_bar_toggle_lock">Blocca</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
+    <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
     <string name="status_bar_toggle_mute">Silenzia</string>
     <string name="status_bar_toggle_nfc">NFC</string>
     <string name="status_bar_toggle_paper_mode">Lettura</string>
@@ -343,6 +345,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="user_switching_dialog_text">Cambio in corso…</string>
     <string name="vivo">Vivo</string>
     <string name="vivo_phone">Vivo</string>
+    <string name="wifi_assistant_wifi_no_internet">Questa rete Wi-Fi non ha accesso a Internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Tocca per vedere i dettagli</string>
     <string name="wireless_charging_notification_message1">"Impossibile trovare dispositivi wireless da caricare. La ricarica wireless inversa è stata disattivata."</string>
     <string name="wireless_charging_notification_message2">La batteria è inferiore al 30%. La ricarica wireless inversa è stata disattivata.</string>

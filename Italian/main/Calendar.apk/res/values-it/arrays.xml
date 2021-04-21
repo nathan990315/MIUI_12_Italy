@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string-array name="account_sync_frequency">
+    <item>Manuale</item>
+    <item>Ogni 15 minuti</item>
+    <item>Ogni ora</item>
+    <item>Ogni 4 ore</item>
+    <item>Ogni 12 ore</item>
+  </string-array>
   <string-array name="alphabet_table">
     <item>A</item>
     <item>B</item>
     <item>C</item>
     <item>D</item>
     <item>E</item>
-    <item>F</item>
+    <item>Ven</item>
     <item>G</item>
-    <item>H</item>
+    <item>O</item>
     <item>I</item>
-    <item>J</item>
+    <item>G</item>
     <item>K</item>
     <item>L</item>
     <item>M</item>
@@ -25,7 +32,7 @@
     <item>V</item>
     <item>W</item>
     <item>X</item>
-    <item>Y</item>
+    <item>A</item>
     <item>Z</item>
     <item>\#</item>
   </string-array>
@@ -36,11 +43,11 @@
     <item>C</item>
     <item>D</item>
     <item>E</item>
-    <item>F</item>
+    <item>Ven</item>
     <item>G</item>
-    <item>H</item>
+    <item>O</item>
     <item>I</item>
-    <item>J</item>
+    <item>G</item>
     <item>K</item>
     <item>L</item>
     <item>M</item>
@@ -55,52 +62,52 @@
     <item>V</item>
     <item>W</item>
     <item>X</item>
-    <item>Y</item>
+    <item>A</item>
     <item>Z</item>
     <item>\#</item>
   </string-array>
   <string-array name="aqi_level_simple_desc">
-    <item>优</item>
-    <item>良</item>
-    <item>轻度</item>
-    <item>中度</item>
-    <item>重度</item>
-    <item>严重</item>
+    <item>Eccellente</item>
+    <item>Buono</item>
+    <item>Poco Inquinato</item>
+    <item>Inquinato</item>
+    <item>Molto Inquinato</item>
+    <item>Estremamente Inquinato</item>
   </string-array>
   <string-array name="aquarius_info">
-    <item>acquario</item>
+    <item>aquarius</item>
     <item>Acquario</item>
     <item>20/1 - 18/2</item>
   </string-array>
   <string-array name="aries_info">
-    <item>ariete</item>
+    <item>aries</item>
     <item>Ariete</item>
     <item>21/3 - 19/4</item>
   </string-array>
   <string-array name="cancer_info">
-    <item>cancro</item>
+    <item>cancer</item>
     <item>Cancro</item>
     <item>22/6 - 22/7</item>
   </string-array>
   <string-array name="capricorn_info">
-    <item>capricorno</item>
+    <item>capricorn</item>
     <item>Capricorno</item>
     <item>22/12 - 19/1</item>
   </string-array>
   <string-array name="change_response_labels">
-    <item>Solo questa istanza</item>
+    <item>Solo questo evento</item>
     <item>Tutti gli eventi della serie</item>
   </string-array>
   <string-array name="close_alarm_repeating_labels">
-    <item>Solo questa volta</item>
-    <item>Disattiva ripetizione promemoria</item>
+    <item>Solo epr questa volta</item>
+    <item>Disattiva promemoria ripetuti</item>
   </string-array>
   <string-array name="date_calculate_spinner">
     <item>Avanti</item>
     <item>Indietro</item>
   </string-array>
   <string-array name="default_reminder_labels">
-    <item>Al momento dell\'evento</item>
+    <item>All\'ora dell\'evento</item>
     <item>5 minuti prima</item>
     <item>10 minuti prima</item>
     <item>15 minuti prima</item>
@@ -119,170 +126,81 @@
   </string-array>
   <string-array name="delete_repeating_labels">
     <item>Solo questo evento</item>
-    <item>Questo ed eventi futuri</item>
+    <item>Questo e gli eventi futuri</item>
     <item>Tutti gli eventi</item>
   </string-array>
   <string-array name="di_zhi">
-    <item>甲</item>
-    <item>乙</item>
-    <item>丙</item>
-    <item>丁</item>
-    <item>戊</item>
-    <item>甲</item>
-    <item>己</item>
-    <item>庚</item>
-    <item>壬</item>
-    <item>癸</item>
-  </string-array>
-  <string-array name="edit_event_dislike">
-    <item>没有我想创建的事件类型</item>
-    <item>设置项有点多，懒得填写</item>
-    <item>有些设置信息无法确定</item>
-    <item>只是随便看看</item>
-    <item>不告诉你</item>
-  </string-array>
-  <string-array name="entryvalues_settings_debug">
-    <item>无</item>
-    <item>导出并发送日志</item>
-    <item>生成日志至文件管理器</item>
-    <item>查看统计设备标识</item>
-    <item>立即更新服务端配置</item>
+    <item>Jia</item>
+    <item>Yi</item>
+    <item>Bing</item>
+    <item>Ding</item>
+    <item>Wu</item>
+    <item>Jia</item>
+    <item>Ji</item>
+    <item>Geng</item>
+    <item>Ren</item>
+    <item>Gui</item>
   </string-array>
   <string-array name="fortune_gender">
     <item>男</item>
-    <item>女</item>
+    <item>Figlia</item>
   </string-array>
   <string-array name="fortune_random_birthday">
-    <item>01/01/1992</item>
-    <item>04/02/2013</item>
-    <item>05/04/1995</item>
-    <item>06/08/1999</item>
-    <item>21/06/1996</item>
-    <item>18/01/2014</item>
-    <item>23/01/2006</item>
-    <item>13/01/2012</item>
-    <item>17/01/1993</item>
-    <item>08/01/1980</item>
-    <item>10/01/1982</item>
-  </string-array>
-  <string-array name="fortune_random_name">
-    <item>王伟</item>
-    <item>李东</item>
-    <item>孙辉</item>
-    <item>李俊</item>
-    <item>周永</item>
-    <item>郑健</item>
-    <item>黄海</item>
-    <item>郑飞飞</item>
-    <item>程杰</item>
-    <item>宋小宝</item>
-    <item>郭德纲</item>
+    <item>01-01-1992</item>
+    <item>04-02-2013</item>
+    <item>1995-04-05</item>
+    <item>06-08-1999</item>
+    <item>21-06-1996</item>
+    <item>18-01-2014</item>
+    <item>23-01-2006</item>
+    <item>13-01-2012</item>
+    <item>17-01-1993</item>
+    <item>08-01-1980</item>
+    <item>10-01-1982</item>
   </string-array>
   <string-array name="gemini_info">
-    <item>gemelli</item>
+    <item>gemini</item>
     <item>Gemelli</item>
     <item>21/5 - 21/6</item>
   </string-array>
-  <string-array name="jia_zi">
-    <item>甲子</item>
-    <item>乙丑</item>
-    <item>丙寅</item>
-    <item>丁卯</item>
-    <item>戊辰</item>
-    <item>己巳</item>
-    <item>庚午</item>
-    <item>辛未</item>
-    <item>壬申</item>
-    <item>癸酉</item>
-    <item>甲戌</item>
-    <item>乙亥</item>
-    <item>丙子</item>
-    <item>丁丑</item>
-    <item>戊寅</item>
-    <item>己卯</item>
-    <item>庚辰</item>
-    <item>辛巳</item>
-    <item>壬午</item>
-    <item>癸未</item>
-    <item>甲申</item>
-    <item>乙酉</item>
-    <item>丙戌</item>
-    <item>丁亥</item>
-    <item>戊子</item>
-    <item>己丑</item>
-    <item>庚寅</item>
-    <item>辛卯</item>
-    <item>壬辰</item>
-    <item>癸巳</item>
-    <item>甲午</item>
-    <item>乙未</item>
-    <item>丙申</item>
-    <item>丁酉</item>
-    <item>戊戌</item>
-    <item>己亥</item>
-    <item>庚子</item>
-    <item>辛丑</item>
-    <item>壬寅</item>
-    <item>癸卯</item>
-    <item>甲辰</item>
-    <item>乙巳</item>
-    <item>丙午</item>
-    <item>丁未</item>
-    <item>戊申</item>
-    <item>己酉</item>
-    <item>庚戌</item>
-    <item>辛亥</item>
-    <item>壬子</item>
-    <item>癸丑</item>
-    <item>甲寅</item>
-    <item>乙卯</item>
-    <item>丙辰</item>
-    <item>丁巳</item>
-    <item>戊午</item>
-    <item>己未</item>
-    <item>庚申</item>
-    <item>辛酉</item>
-    <item>壬戌</item>
-    <item>癸亥</item>
-  </string-array>
   <string-array name="leo_info">
-    <item>leone</item>
+    <item>leo</item>
     <item>Leone</item>
     <item>23/7 - 22/8</item>
   </string-array>
   <string-array name="libra_info">
-    <item>bilancia</item>
+    <item>libra</item>
     <item>Bilancia</item>
     <item>23/9 - 23/10</item>
   </string-array>
   <string-array name="open_alarm_repeating_labels">
-    <item>Solo questa volta</item>
-    <item>Imposta la ripetizione del promemoria</item>
+    <item>Solo epr questa volta</item>
+    <item>Imposta promemoria ripetuti</item>
   </string-array>
   <string-array name="pisces_info">
-    <item>pesci</item>
+    <item>pisces</item>
     <item>Pesci</item>
     <item>19/2 - 20/3</item>
   </string-array>
   <string-array name="prefEntries_alerts_popup_new">
-    <item>Spento</item>
+    <item>Spenta</item>
     <item>Per tutti gli eventi</item>
     <item>Per eventi a tempo</item>
   </string-array>
   <string-array name="prefEntries_alerts_vibrateWhen">
     <item>Sempre</item>
-    <item>Solo quando silenzioso</item>
+    <item>Solo quando la suoneria è silenziata</item>
     <item>Mai</item>
   </string-array>
   <string-array name="prefValues_alerts_popup">
-    <item>nessuno</item>
-    <item>tutti</item>
+    <item>smart</item>
+    <item>all</item>
     <item>smart</item>
   </string-array>
   <string-array name="prefValues_alerts_vibrateWhen">
-    <item>sempre</item>
-    <item>silenzioso</item>
-    <item>mai</item>
+    <item>always</item>
+    <item>silent</item>
+    <item>never</item>
   </string-array>
   <string-array name="preferences_default_reminder_later_time_values">
     <item>300000</item>
@@ -350,33 +268,33 @@
   <string-array name="repeat_choose_end">
     <item>Mai</item>
     <item>Ora</item>
-    <item>Numero</item>
+    <item>Conteggio</item>
   </string-array>
   <string-array name="repeat_choose_month">
     <item>Gen</item>
-    <item>feb</item>
-    <item>mar</item>
-    <item>apr</item>
-    <item>Mag</item>
+    <item>Feb</item>
+    <item>Mar</item>
+    <item>Apr</item>
+    <item>Maggio</item>
     <item>Giu</item>
     <item>Lug</item>
     <item>Ago</item>
     <item>Set</item>
     <item>Ott</item>
-    <item>nov</item>
+    <item>Nov</item>
     <item>Dic</item>
   </string-array>
   <string-array name="repeat_choose_week_left">
-    <item>primo</item>
-    <item>secondo</item>
-    <item>terzo</item>
-    <item>quarto</item>
-    <item>ultimo</item>
+    <item>prima</item>
+    <item>secondi</item>
+    <item>terza</item>
+    <item>quarta</item>
+    <item>ultima</item>
   </string-array>
   <string-array name="repeat_choose_week_right">
     <item>Lun - Ven</item>
     <item>Fine settimana</item>
-    <item>Settimana</item>
+    <item>Settimana intera</item>
   </string-array>
   <string-array name="repeat_choose_weekday">
     <item>Lun</item>
@@ -436,7 +354,7 @@
     <item>ultima Domenica</item>
   </string-array>
   <string-array name="response_labels1">
-    <item>Senza risposta</item>
+    <item>Errore nella risposta</item>
     <item>Sì</item>
     <item>Forse</item>
     <item>No</item>
@@ -444,41 +362,41 @@
   <string-array name="response_labels2">
     <item>"Non rispondere"</item>
     <item>Accetta</item>
-    <item>Decidi dopo</item>
+    <item>Decidi più tardi</item>
     <item>Rifiuta</item>
   </string-array>
   <string-array name="sagittarius_info">
-    <item>sagittario</item>
+    <item>sagittarius</item>
     <item>Sagittario</item>
     <item>23/11 - 21/12</item>
   </string-array>
   <string-array name="scorpio_info">
-    <item>scorpione</item>
+    <item>scorpio</item>
     <item>Scorpione</item>
     <item>24/10 - 22/11</item>
   </string-array>
   <string-array name="taurus_info">
-    <item>toro</item>
+    <item>taurus</item>
     <item>Toro</item>
     <item>20/4 - 20/5</item>
   </string-array>
   <string-array name="tian_gan">
-    <item>子</item>
-    <item>丑</item>
-    <item>寅</item>
-    <item>卯</item>
-    <item>辰</item>
-    <item>巳</item>
-    <item>午</item>
-    <item>未</item>
-    <item>申</item>
-    <item>酉</item>
-    <item>戌</item>
-    <item>亥</item>
+    <item>Zi</item>
+    <item>Chou</item>
+    <item>Yin</item>
+    <item>Mao</item>
+    <item>Chen</item>
+    <item>Si</item>
+    <item>Wu</item>
+    <item>Wei</item>
+    <item>Shen</item>
+    <item>You</item>
+    <item>Xu</item>
+    <item>Hai</item>
   </string-array>
   <string-array name="timezone_labels_v3">
     <item>Isole Marshall</item>
-    <item>Isola Midway</item>
+    <item>Isola di Midway</item>
     <item>Hawaii</item>
     <item>Alaska</item>
     <item>Ora del Pacifico</item>
@@ -486,49 +404,49 @@
     <item>Arizona</item>
     <item>Chihuahua</item>
     <item>Mountain Time</item>
-    <item>America centrale</item>
+    <item>America Centrale</item>
     <item>Ora centrale</item>
     <item>Città del Messico</item>
     <item>Saskatchewan</item>
-    <item>Bogotá</item>
-    <item>Fuso orario orientale</item>
+    <item>Bogotá</item>
+    <item>Eastern Time</item>
     <item>Venezuela</item>
     <item>Fuso orario dell\'Atlantico (Barbados)</item>
     <item>Fuso orario dell\'Atlantico (Canada)</item>
     <item>Manaus</item>
     <item>Santiago</item>
-    <item>Terranova</item>
+    <item>Newfoundland</item>
     <item>Brasilia</item>
     <item>Buenos Aires</item>
-    <item>Groenlandia</item>
+    <item>Greenland</item>
     <item>Montevideo</item>
-    <item>Medio Atlantico</item>
-    <item>Azzorre</item>
+    <item>Mid-Atlantic</item>
+    <item>Azores</item>
     <item>Capo Verde</item>
     <item>Casablanca</item>
-    <item>Londra</item>
-    <item>Dublino</item>
+    <item>London</item>
+    <item>Dublin</item>
     <item>Amsterdam</item>
-    <item>Berlino</item>
-    <item>Belgrado</item>
-    <item>Bruxelles</item>
+    <item>Berlin</item>
+    <item>Belgrade</item>
+    <item>Brussels</item>
     <item>Sarajevo</item>
     <item>Windhoek</item>
-    <item>Ora Africa Occidentale</item>
+    <item>W. Africa Time</item>
     <item>Amman</item>
-    <item>Atene</item>
+    <item>Athens</item>
     <item>Istanbul</item>
     <item>Beirut</item>
     <item>Cairo</item>
     <item>Helsinki</item>
-    <item>Gerusalemme</item>
+    <item>Jerusalem</item>
     <item>Minsk</item>
     <item>Harare</item>
     <item>Baghdad</item>
-    <item>Mosca</item>
+    <item>Moscow</item>
     <item>Kuwait</item>
     <item>Nairobi</item>
-    <item>Teheran</item>
+    <item>Tehran</item>
     <item>Baku</item>
     <item>Tbilisi</item>
     <item>Yerevan</item>
@@ -569,119 +487,17 @@
     <item>Fiji</item>
     <item>Tonga</item>
   </string-array>
-  <string-array name="timezone_values_v3">
-    <item>Pacific/Majuro</item>
-    <item>Pacific/Midway</item>
-    <item>Pacific/Honolulu</item>
-    <item>America/Anchorage</item>
-    <item>America/Los_Angeles</item>
-    <item>America/Tijuana</item>
-    <item>America/Phoenix</item>
-    <item>America/Chihuahua</item>
-    <item>America/Denver</item>
-    <item>America/Costa_Rica</item>
-    <item>America/Chicago</item>
-    <item>America/Mexico_City</item>
-    <item>America/Regina</item>
-    <item>America/Bogota</item>
-    <item>America/New_York</item>
-    <item>America/Caracas</item>
-    <item>America/Barbados</item>
-    <item>America/Halifax</item>
-    <item>America/Manaus</item>
-    <item>America/Santiago</item>
-    <item>America/St_Johns</item>
-    <item>America/Sao_Paulo</item>
-    <item>America/Argentina/Buenos_Aires</item>
-    <item>America/Godthab</item>
-    <item>America/Montevideo</item>
-    <item>Atlantic/South_Georgia</item>
-    <item>Atlantic/Azores</item>
-    <item>Atlantic/Cape_Verde</item>
-    <item>Africa/Casablanca</item>
-    <item>Europe/London</item>
-    <item>Europe/Dublin</item>
-    <item>Europe/Amsterdam</item>
-    <item>Europe/Berlin</item>
-    <item>Europe/Belgrade</item>
-    <item>Europe/Brussels</item>
-    <item>Europe/Sarajevo</item>
-    <item>Africa/Windhoek</item>
-    <item>Africa/Brazzaville</item>
-    <item>Asia/Amman</item>
-    <item>Europe/Athens</item>
-    <item>Europe/Istanbul</item>
-    <item>Asia/Beirut</item>
-    <item>Africa/Cairo</item>
-    <item>Europe/Helsinki</item>
-    <item>Asia/Jerusalem</item>
-    <item>Europe/Minsk</item>
-    <item>Africa/Harare</item>
-    <item>Asia/Baghdad</item>
-    <item>Europe/Moscow</item>
-    <item>Asia/Kuwait</item>
-    <item>Africa/Nairobi</item>
-    <item>Asia/Tehran</item>
-    <item>Asia/Baku</item>
-    <item>Asia/Tbilisi</item>
-    <item>Asia/Yerevan</item>
-    <item>Asia/Dubai</item>
-    <item>Asia/Kabul</item>
-    <item>Asia/Karachi</item>
-    <item>Asia/Oral</item>
-    <item>Asia/Yekaterinburg</item>
-    <item>Asia/Calcutta</item>
-    <item>Asia/Colombo</item>
-    <item>Asia/Katmandu</item>
-    <item>Asia/Almaty</item>
-    <item>Asia/Rangoon</item>
-    <item>Asia/Krasnoyarsk</item>
-    <item>Asia/Bangkok</item>
-    <item>Asia/Shanghai</item>
-    <item>Asia/Chongqing</item>
-    <item>Asia/Hong_Kong</item>
-    <item>Asia/Macao</item>
-    <item>Asia/Singapore</item>
-    <item>Asia/Irkutsk</item>
-    <item>Asia/Kuala_Lumpur</item>
-    <item>Australia/Perth</item>
-    <item>Asia/Taipei</item>
-    <item>Asia/Seoul</item>
-    <item>Asia/Tokyo</item>
-    <item>Asia/Yakutsk</item>
-    <item>Australia/Adelaide</item>
-    <item>Australia/Darwin</item>
-    <item>Australia/Brisbane</item>
-    <item>Australia/Hobart</item>
-    <item>Australia/Sydney</item>
-    <item>Australia/Canberra</item>
-    <item>Asia/Vladivostok</item>
-    <item>Pacific/Guam</item>
-    <item>Asia/Magadan</item>
-    <item>Pacific/Auckland</item>
-    <item>Pacific/Fiji</item>
-    <item>Pacific/Tongatapu</item>
-  </string-array>
   <string-array name="travel_reminder_minutes_labels">
-    <item>3 ore</item>
-    <item>4 ore</item>
-    <item>5 ore</item>
-    <item>6 ore</item>
-    <item>1 giorno</item>
+    <item>3 ore prima</item>
+    <item>4 ore prima</item>
+    <item>5 ore prima</item>
+    <item>6 ore prima</item>
+    <item>1 giorno prima</item>
   </string-array>
   <string-array name="virgo_info">
-    <item>vergine</item>
+    <item>virgo</item>
     <item>Vergine</item>
     <item>23/8 - 22/9</item>
-  </string-array>
-  <string-array name="week_array">
-    <item>星期日</item>
-    <item>星期一</item>
-    <item>星期二</item>
-    <item>星期三</item>
-    <item>星期四</item>
-    <item>星期五</item>
-    <item>星期六</item>
   </string-array>
   <string-array name="week_header_name">
     <item>DOM</item>
@@ -693,16 +509,16 @@
     <item>SAB</item>
   </string-array>
   <string-array name="widget_style_list">
-    <item>Nero trasparente</item>
+    <item>Trasparente</item>
     <item>Sfondo bianco</item>
   </string-array>
   <string-array name="year_view_week_header_name">
-    <item>D</item>
-    <item>L</item>
+    <item>S</item>
     <item>M</item>
-    <item>M</item>
-    <item>G</item>
-    <item>V</item>
+    <item>T</item>
+    <item>W</item>
+    <item>T</item>
+    <item>Ven</item>
     <item>S</item>
   </string-array>
   <string-array name="year_view_week_header_name_other">

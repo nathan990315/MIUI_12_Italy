@@ -110,6 +110,10 @@
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Svuota %s dalla cache di WeChat per liberare spazio di archiviazione</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Non dimenticare di pulire la cache"</string>
     <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Ricorda di pulire la cache di WeChat</string>
+    <string name="appcleaner_wechat_pref_size_100_MB">100MB</string>
+    <string name="appcleaner_wechat_pref_size_1_GB">1GB</string>
+    <string name="appcleaner_wechat_pref_size_300_MB">300MB</string>
+    <string name="appcleaner_wechat_pref_size_500_MB">500MB</string>
     <string name="appcleaner_wechat_pref_time_every_day">Ogni giorno</string>
     <string name="appcleaner_wechat_pref_time_fifteen_day">Ogni 15 giorni</string>
     <string name="appcleaner_wechat_pref_time_seven_day">Ogni 7 giorni</string>
@@ -286,7 +290,7 @@
     <string name="dialog_msg_stop_scan">Interrompere la scansione ora?</string>
     <string name="dialog_msg_uninstall_apps">Disinstallare queste app?</string>
     <string name="dialog_msg_uninstall_apps_xspace">Disinstallare queste app? (incluse le app clone)?</string>
-    <string name="dialog_ok_add_white_list_error">Fatto</string>
+    <string name="dialog_ok_add_white_list_error">Ok</string>
     <string name="dialog_title_add_white_list_error">Attenzione</string>
     <string name="dialog_title_backup_and_uninstall_apps">Backup e disinstallazione</string>
     <string name="dialog_title_check_all">Seleziona tutto</string>
@@ -427,6 +431,7 @@
     <string name="hints_garbage_cleanup_result_safe">Sembra tutto OK</string>
     <string name="hints_garbage_handle_item_content">%1$d elementi，%2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Vuoto</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Utilizzata raramente</string>
     <string name="hints_installed_app_near">Usato di recente</string>
     <string name="hints_installed_app_never">Non utilizzata di recente</string>
@@ -658,11 +663,11 @@
     <string name="powerful_acceleration_toast">"La deframmentazione verrà eseguita quando non si utilizza il dispositivo"</string>
     <string name="pref_about_privacy_title">Informativa sulla Privacy</string>
     <string name="pref_category_title_auto_clean_settings">Ottimizza automaticamente</string>
-    <string name="pref_category_title_auto_update_cleanup_db">Impostazioni addizionali</string>
+    <string name="pref_category_title_auto_update_cleanup_db">Altre impostazioni</string>
     <string name="pref_category_title_cleanup_white_list">Eccezioni</string>
     <string name="pref_category_title_engine_settings">Impostazioni Definizioni scansione</string>
     <string name="pref_category_title_garbage_cleanup_check">Notifiche</string>
-    <string name="pref_category_title_other_clean_settings">Impostazioni addizionali</string>
+    <string name="pref_category_title_other_clean_settings">Altre impostazioni</string>
     <string name="pref_content_cleanup_white_list_none">Nessuno</string>
     <string name="pref_summary_auto_clean_and_alert">Imposta l\'ottimizzazione automatica</string>
     <string name="pref_summary_auto_update_cleanup_db">Ultimo aggiornamento: %s</string>
@@ -830,7 +835,7 @@
     <string name="video_clean_image_clean_title">Elimina le foto doppie</string>
     <string name="video_clean_notification_summary">Cancella i video memorizzati nella cache dalle app</string>
     <string name="video_clean_notification_title">Libera %s</string>
-    <string name="video_clean_personal_settings_title">Impostazioni addizionali</string>
+    <string name="video_clean_personal_settings_title">Altre impostazioni</string>
     <string name="video_clean_qq_clean_summary">Svuota il cestino per liberare spazio</string>
     <string name="video_clean_qq_clean_title">Pulizia QQ</string>
     <string name="video_clean_remind_settings_title">Ottimizza automaticamente</string>
