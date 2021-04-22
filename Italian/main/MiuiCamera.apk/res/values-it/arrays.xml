@@ -137,14 +137,6 @@
     <item>6</item>
     <item>5</item>
   </string-array>
-  <string-array name="pref_video_quality_entryvalues">
-    <item>@string/pref_video_quality_entry_value_4kuhd</item>
-    <item>@string/pref_video_quality_entry_value_4kuhd_60fps</item>
-    <item>6</item>
-    <item>@string/pref_video_quality_entry_value_1080p_60fps</item>
-    <item>5</item>
-    <item>@string/pref_video_quality_entry_value_720p_60fps</item>
-  </string-array>
   <string-array name="pref_video_time_lapse_frame_interval_entryvalues">
     <item>67</item>
     <item>120</item>
