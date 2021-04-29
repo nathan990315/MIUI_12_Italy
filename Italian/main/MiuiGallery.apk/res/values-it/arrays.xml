@@ -287,6 +287,11 @@
         <item>Mi 11</item>
         <item>Mi 11 Pro</item>
     </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Sposta</item>
+        <item>Copia</item>
+        <item>@string/cancel</item>
+    </string-array>
     <string-array name="month">
         <item>Gennaio</item>
         <item>Febbraio</item>
@@ -340,6 +345,15 @@
         <item>Compagni di classe</item>
         <item>Amici</item>
         <item>Non raggruppato</item>
+    </string-array>
+    <string-array name="relation_with_me_value">
+        <item>myself</item>
+        <item>child</item>
+        <item>family</item>
+        <item>collegue</item>
+        <item>classmate</item>
+        <item>friend</item>
+        <item>sconosciuto</item>
     </string-array>
     <string-array name="season">
         <item>Primavera</item>
