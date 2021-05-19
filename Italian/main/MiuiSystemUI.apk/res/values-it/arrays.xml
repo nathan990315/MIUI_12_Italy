@@ -89,12 +89,6 @@
         <item>Ottimizzato per la qualità di connessione (330kbps/303kbps)</item>
         <item>Miglior Resa (Bitrate automatico)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values">
-        <item>ISO 1000</item>
-        <item>1001</item>
-        <item>1002</item>
-        <item>1003</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Usa impostazione di sistema (Predefinito)</item>
         <item>44.1 kHz</item>
@@ -182,6 +176,18 @@
         <item>Attivato</item>
         <item>Intestazioni filtrate</item>
         <item>Pacchetti multimediali filtrati</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_values">
+        <item>disabilitato</item>
+        <item>filtrato</item>
+        <item>pieno</item>
+        <item>snoopheadersfiltered</item>
+        <item>mediapktsfiltered</item>
+    </string-array>
+    <string-array name="cached_apps_freezer_values">
+        <item>device_default</item>
+        <item>enabled</item>
+        <item>disabilitato</item>
     </string-array>
     <string-array name="clock_options">
         <item>Mostra ore, minuti e secondi</item>
@@ -359,7 +365,7 @@
         <item>G</item>
         <item>E</item>
         <item>3G</item>
-        <item>O</item>
+        <item>H</item>
         <item>H+</item>
         <item>4G</item>
         <item>4G+</item>
@@ -513,6 +519,46 @@
         <item>1</item>
         <item>3</item>
     </string-array>
+    <string-array name="system_foreground_notification_whitelist">
+        <item>com.xiaomi.joyose</item>
+        <item>com.android.launcher3</item>
+        <item>com.mi.android.globallauncher</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.android.updater</item>
+        <item>com.android.gallery3d</item>
+        <item>com.android.fileexplorer</item>
+        <item>com.mi.android.globalFileexplorer</item>
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.cloudappbackup</item>
+        <item>com.miui.fmradio</item>
+        <item>com.android.systemui</item>
+        <item>com.miui.contentextension</item>
+        <item>com.android.mms</item>
+        <item>com.miui.smsextra</item>
+        <item>com.miui.securitycore</item>
+        <item>com.miui.notification</item>
+        <item>com.mi.health</item>
+        <item>com.xiaomi.market:com.xiaomi.market_hide</item>
+        <item>com.xiaomi.mipicks</item>
+        <item>com.xiaomi.discover</item>
+        <item>com.miui.mishare.connectivity</item>
+        <item>com.qualcomm.wfd.service</item>
+        <item>com.miui.notes</item>
+        <item>com.miui.tsmclient</item>
+        <item>com.mi.android.globalminusscreen</item>
+        <item>com.mfashiongallery.emag</item>
+        <item>com.android.thememanager</item>
+        <item>com.miui.voiceassist:com.miui.voiceassistforeground</item>
+        <item>com.miui.misound</item>
+        <item>com.xiaomi.mirror</item>
+        <item>com.miui.personalassistant</item>
+        <item>com.xiaomi.miplay_client</item>
+        <item>com.miui.screenshot</item>
+        <item>com.xiaomi.mi_connect_service</item>
+        <item>com.miui.cleanmaster</item>
+        <item>com.miui.cleaner</item>
+        <item>com.xiaomi.simactivate.service</item>
+    </string-array>
     <string-array name="track_frame_time_entries">
         <item>Spenta</item>
         <item>Su schermo come barre</item>
@@ -554,14 +600,14 @@
     </string-array>
     <string-array name="tts_rate_values">
         <item>60</item>
-        <item>ISO 80</item>
+        <item>80</item>
         <item>100</item>
         <item>150</item>
-        <item>ISO 200</item>
-        <item>ISO 250</item>
+        <item>200</item>
+        <item>250</item>
         <item>300</item>
         <item>350</item>
-        <item>ISO 400</item>
+        <item>400</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Ricarica</item>

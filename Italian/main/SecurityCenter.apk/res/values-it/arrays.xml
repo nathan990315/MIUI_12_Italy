@@ -13,35 +13,6 @@
         <item>Infrasettimanale</item>
         <item>Personalizza</item>
     </string-array>
-    <string-array name="alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>Ven</item>
-        <item>G</item>
-        <item>O</item>
-        <item>I</item>
-        <item>G</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>A</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
         <item>A</item>
@@ -49,11 +20,11 @@
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>Ven</item>
+        <item>F</item>
         <item>G</item>
-        <item>O</item>
+        <item>H</item>
         <item>I</item>
-        <item>G</item>
+        <item>J</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -68,7 +39,7 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>A</item>
+        <item>Y</item>
         <item>Z</item>
         <item>\#</item>
     </string-array>
@@ -106,6 +77,16 @@
         <item>Tianshen card</item>
         <item>Tencent card</item>
     </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Yesterday (mobile data) "</item>
+        <item>"Today (mobile data) "</item>
+        <item>"Last month (mobile data) "</item>
+        <item>"This month (mobile data) "</item>
+        <item>"Ieri (Wi-Fi) "</item>
+        <item>"Oggi (Wi-Fi) "</item>
+        <item>"Ultimo mese (Wi-Fi) "</item>
+        <item>"Questo mese (Wi-Fi) "</item>
+    </string-array>
     <string-array name="ew_emergency_blood_type_arrays">
         <item>A</item>
         <item>B</item>
@@ -132,6 +113,10 @@
         <item>1</item>
         <item>0</item>
         <item>2</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobile usage "</item>
+        <item>"Utilizzo Wi-Fi "</item>
     </string-array>
     <string-array name="operate_entryValues">
         <item>0</item>
@@ -164,6 +149,13 @@
         <item>Data Usage</item>
         <item>Saldo telefonico</item>
     </string-array>
+    <string-array name="sort_title">
+        <item>Ordina per stato</item>
+        <item>Ordina per nome app</item>
+        <item>Ordina per frequenza d\'uso</item>
+        <item>Ordina per memoria utilizzata</item>
+        <item>Ordina per data di installazione</item>
+    </string-array>
     <string-array name="sort_type">
         <item>Stato</item>
         <item>Nome app</item>
@@ -195,5 +187,9 @@
         <item>Piano dati mensile</item>
         <item>Piano tariffario giornaliero</item>
         <item>Piano dati illimitato</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobile data usage "</item>
+        <item>"Utilizzo Wi-Fi "</item>
     </string-array>
 </resources>

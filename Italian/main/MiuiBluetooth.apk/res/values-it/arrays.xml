@@ -100,12 +100,6 @@
         <item>Ottimizzato per la qualità di connessione (330kbps/303kbps)</item>
         <item>Miglior Resa (Bitrate automatico)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_values">
-        <item>ISO 1000</item>
-        <item>1001</item>
-        <item>1002</item>
-        <item>1003</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Usa impostazione di sistema (Predefinito)</item>
         <item>44.1 kHz</item>
@@ -193,6 +187,18 @@
         <item>Attivato</item>
         <item>Intestazioni filtrate</item>
         <item>Pacchetti multimediali filtrati</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_values">
+        <item>disabilitato</item>
+        <item>filtrato</item>
+        <item>pieno</item>
+        <item>snoopheadersfiltered</item>
+        <item>mediapktsfiltered</item>
+    </string-array>
+    <string-array name="cached_apps_freezer_values">
+        <item>device_default</item>
+        <item>enabled</item>
+        <item>disabilitato</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Colori migliorati</item>
@@ -351,14 +357,14 @@
     </string-array>
     <string-array name="tts_rate_values">
         <item>60</item>
-        <item>ISO 80</item>
+        <item>80</item>
         <item>100</item>
         <item>150</item>
-        <item>ISO 200</item>
-        <item>ISO 250</item>
+        <item>200</item>
+        <item>250</item>
         <item>300</item>
         <item>350</item>
-        <item>ISO 400</item>
+        <item>400</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Ricarica</item>

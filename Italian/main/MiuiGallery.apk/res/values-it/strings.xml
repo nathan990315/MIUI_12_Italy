@@ -160,8 +160,8 @@
     <string name="album_share_stat_content">Nuovi inviti di condivisione album</string>
     <string name="album_share_subtitle_accepting">Accetto invito da %1$s…</string>
     <string name="album_share_subtitle_denying">Rifiuto invito da %1$s…</string>
-    <string name="album_share_subtitle_invited">Condiviso da %1$s, accettare o rifiutare?</string>
-    <string name="album_share_subtitle_normal">Condiviso da %1$s, accettare o rifiutare?</string>
+    <string name="album_share_subtitle_invited">Condiviso da %1$s</string>
+    <string name="album_share_subtitle_normal">Condiviso da %1$s</string>
     <string name="album_share_subtitle_not_ready">Informazioni album non pronte. Premi per scaricare.</string>
     <string name="album_share_subtitle_quitting">Chiusura…</string>
     <string name="album_share_subtitle_requesting">Download informazioni album…</string>
@@ -283,7 +283,7 @@
     <string name="backup_no_wifi_btn_text">Utilizza rete dati</string>
     <string name="backup_no_wifi_desc">Backup anche con rete dati</string>
     <string name="backup_no_wifi_title">Collegati al Wi-Fi</string>
-    <string name="backup_only_in_wifi">Usa solo il Wi-Fi per il backup di foto e video</string>
+    <string name="backup_only_in_wifi">Usa Wi-Fi solo per sincronizzare foto e video</string>
     <string name="backup_only_in_wifi_summary">Non usare mai la rete dati cellulare per il backup di foto e video</string>
     <string name="backup_only_wifi_dialog_message">Usare la rete dati mobile per eseguire il bacup di foto e video?</string>
     <string name="backup_pause">Pausa</string>
@@ -344,7 +344,6 @@
     <string name="by_email">E-mail</string>
     <string name="by_others">Altro</string>
     <string name="by_sms">SMS</string>
-    <string name="byteShort">B</string>
     <string name="camera_needs_auto_backup_tip">Backup album fotocamera eseguito</string>
     <string name="can_authorize_owner_albums_share_to_tv">Autorizza la visualizzazione degli album sulla tua TV</string>
     <string name="can_not_transfer_when_screening">"Impossibile proiettare durante i trasferimenti"</string>
@@ -367,6 +366,7 @@
     <string name="card_description_annual_peoples">Visi, storie, luoghi</string>
     <string name="card_description_annual_pets">Code, zampe e baffi</string>
     <string name="card_description_annual_travel">Cose che hai visto per strada</string>
+    <string name="card_description_from_to">%1$s - %2$s</string>
     <string name="card_title_activities">Agenda</string>
     <string name="card_title_annual_babys">Il tesoro a %1$s</string>
     <string name="card_title_annual_events">Le mie feste nel %1$s</string>
@@ -381,6 +381,7 @@
     <string name="card_title_pastyear_party">Feste dell\'anno scorso</string>
     <string name="card_title_pastyear_sports">Gli allenamenti dell\'anno scorso</string>
     <string name="card_title_recent_memory">Ricordi recenti</string>
+    <string name="card_title_somewhere">%1$s</string>
     <string name="card_title_sports">Attività</string>
     <string name="card_title_three_month_baby">Il tempo vola</string>
     <string name="cast_devices_unavailable_desc">Assicurati che questo dispositivo e il proiettore siano collegati alla stessa rete Wi-Fi</string>
@@ -443,14 +444,14 @@
     <string name="chinese_month">Mese</string>
     <string name="chinese_month_april">4</string>
     <string name="chinese_month_august">8</string>
-    <string name="chinese_month_december">Dicembre</string>
+    <string name="chinese_month_december">12</string>
     <string name="chinese_month_february">2</string>
-    <string name="chinese_month_january">Gennaio</string>
+    <string name="chinese_month_january">1</string>
     <string name="chinese_month_july">7</string>
     <string name="chinese_month_june">6</string>
     <string name="chinese_month_march">3</string>
     <string name="chinese_month_may">5</string>
-    <string name="chinese_month_november">Novembre</string>
+    <string name="chinese_month_november">11</string>
     <string name="chinese_month_october">10</string>
     <string name="chinese_month_september">9</string>
     <string name="chinese_symbol_animals_chicken">Pollo</string>
@@ -593,6 +594,8 @@
     <string name="cloud_bacup_disable_processing">Elaborazione…</string>
     <string name="cloud_camera_display_name">Non ordinati</string>
     <string name="cloud_cancel_authorizing_to_device">Annullamento autorizzazione…</string>
+    <string name="cloud_full_space_tip_negative">Non adesso</string>
+    <string name="cloud_full_space_tip_positive">Aggiorna</string>
     <string name="cloud_guide_auto_backup_title">Scegli gli album di cui fare il backup su Mi Cloud</string>
     <string name="cloud_guide_login_title">Esegui automaticamente il backup di foto e video</string>
     <string name="cloud_guide_welcome_title">Mi Cloud</string>
@@ -909,6 +912,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="face_name_edit">Modifica</string>
     <string name="face_name_input">Inserisci il nome</string>
     <string name="face_recommend">Consigliati</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">"Operazione fallita"</string>
     <string name="fail_to_pick_email">Email selezionata non valida</string>
     <string name="fail_to_sync_album">"Impossibile sincronizzare l'album con il server. Verifica la connessione di rete."</string>
@@ -918,6 +922,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="fast_share_auto_render_finish">Filtro bellezza applicato</string>
     <string name="feature_guidance_photo_effects">"Effetti foto"</string>
     <string name="feature_guidance_video_editor_smart_effects">Sono disponibili nuovi effetti</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">"Impossibile stampare questo elemento."</string>
     <string name="file_cannot_screen_throw">"Impossibile trasmettere questo elemento."</string>
     <string name="file_sending">Trasferimento file…</string>
@@ -1081,7 +1086,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="flash_off">Niente flash</string>
     <string name="flash_on">Usa flash</string>
     <string name="fmt_chinese_date">dd/MM</string>
-    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -1101,7 +1105,6 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -1114,21 +1117,15 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
     <string name="fmt_time_minute_second">m:s</string>
     <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
     <string name="fmt_weekday_date">DW</string>
     <string name="fmt_weekday_date_time">DW T</string>
     <string name="fmt_weekday_date_time_timezone">zDW T</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
@@ -1146,6 +1143,7 @@ Scatta più foto ai tuoi amici!"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Imposta</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"La galleria necessita dell'accesso a 
 %s
  per funzionare correttamente, tocca Imposta per vedere i permessi."</string>
@@ -1418,6 +1416,7 @@ per personalizzare la Galleria"</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="micloud_introduce">Esegui automaticamente il backup di foto e video (è necessario un Mi Account)</string>
     <string name="midnight">Notte</string>
+    <string name="mishare_all_devices">Tutti i dispositivi</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -1680,7 +1679,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="operation_show_on_map">Mostra sulla mappa</string>
     <string name="operation_show_time">Mostra date</string>
     <string name="operation_slide_show">Avvia presentazione</string>
-    <string name="operation_sort">Ordina</string>
+    <string name="operation_sort">Ordinamento note</string>
     <string name="operation_successful">Fatto</string>
     <string name="operation_too_often">L\'operazione supera il limite di frequenza, riprova più tardi.</string>
     <string name="operation_unforce_top">Non fissare più</string>
@@ -1705,6 +1704,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="people_mark_mode_title_no_mark_name">Seleziona una persona</string>
     <string name="people_page_label">Nome</string>
     <string name="people_page_unname">Senza nome</string>
+    <string name="percent_sign">%</string>
     <string name="permission_contacts_desc">Per assegnare i contatti alle persone sulle foto</string>
     <string name="permission_contacts_name">Contatti</string>
     <string name="permission_optional_category">可选权限</string>
@@ -1768,7 +1768,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="photo_editor_navigator_sticker_download_failed">"Impossibile scaricare. Controlla le impostazioni di rete e riprova."</string>
     <string name="photo_editor_navigator_sticker_download_success">Scaricato con successo</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Sembra che tu non sia connesso al Wi-Fi. Utilizzare %1$d MB di dati mobili per scaricare il plugin?"</string>
-    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Sembra che non sia connesso al Wi-Fi. Utilizzare %1$d MB di dati mobili per scaricare il plugin?"</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Sembra che tu non sia connesso al Wi-Fi. Utilizzare %1$d MB di dati mobili per scaricare il plugin?"</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">Scarica plug-in</string>
     <string name="photo_editor_remove_watermark">Rimuovi la filigrana</string>
     <string name="photo_editor_remove_watermark_on">Aggiungi filigrana</string>
@@ -1912,6 +1912,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="projection_switch_title">Passa a</string>
     <string name="projection_video_quit">Tocca per uscire</string>
     <string name="prompt_not_support_format">"Non è possibile usare questa immagine per creare una vignetta magica"</string>
+    <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
     <string name="public_url_descript">Chiunque può accedere al tuo album utilizzando questo link</string>
     <string name="publish_failed">"Pubblicazione fallita"</string>
     <string name="publish_succeeded">Album pubblicato</string>
@@ -2042,7 +2043,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="search_backup_now">Attiva</string>
     <string name="search_backup_sub_title">Attiva per trovare altre immagini</string>
     <string name="search_backup_title">Sincronizza con il Cloud</string>
-    <string name="search_clear_histories">Cancella</string>
+    <string name="search_clear_histories">Cancella cronologia di ricerca</string>
     <string name="search_connection_error">"Impossibile connettersi alla rete"</string>
     <string name="search_connection_error_and_set">Tocca per verificare le impostazioni di rete</string>
     <string name="search_empty_title">Trova foto con persone, luoghi e oggetti specifici nella tua Galleria</string>
@@ -2171,7 +2172,6 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="signature_view_max_signature_limit_string">Elimina gli elementi più vecchi per poterne aggiungere di nuovi</string>
     <string name="signature_view_signature_with_finger">Firma qui</string>
     <string name="similar_keep_clear">Mantieni gli scatti migliori</string>
-    <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
@@ -2227,7 +2227,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
-    <string name="sort">Ordina</string>
+    <string name="sort">Ordinamento note</string>
     <string name="special_type_8k">IA 8K</string>
     <string name="special_type_ai_audio">Audio IA</string>
     <string name="special_type_eye_repair">Sistema gli occhi chiusi con l\'IA</string>
@@ -2320,7 +2320,7 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="text_edit_dialog_font">Carattere</string>
     <string name="text_edit_dialog_font_default">Predefinita</string>
     <string name="text_edit_dialog_keyboard">tastiera</string>
-    <string name="text_edit_dialog_style">Stile</string>
+    <string name="text_edit_dialog_style">Stile Libero</string>
     <string name="text_edit_dialog_style_align_center">Allinea al centro</string>
     <string name="text_edit_dialog_style_align_left">Allinea a sinistra</string>
     <string name="text_edit_dialog_style_align_right">Allinea a destra</string>
@@ -2400,8 +2400,6 @@ La transcodifica potrebbe richiedere del tempo quando si utilizza questa funzion
     <string name="time_burst_save_select">Salva le foto selezionate</string>
     <string name="time_burst_save_video">Salva come video</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="time_picker_label_hour">O</string>
-    <string name="time_picker_label_minute">M</string>
     <string name="tip_capture_location">Località:</string>
     <string name="tip_capture_params">Parametri:</string>
     <string name="tip_capture_time">Data:</string>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="DOWNLOAD_UNIT_BIT">B</string>
     <string name="DOWNLOAD_UNIT_GB">GB</string>
     <string name="DOWNLOAD_UNIT_KB">KB</string>
     <string name="DOWNLOAD_UNIT_MB">MB</string>
@@ -54,6 +53,7 @@
     <string name="apk_filter">Apk</string>
     <string name="app_downloads">%s download</string>
     <string name="app_label">Download</string>
+    <string name="app_size">%1$s</string>
     <string name="auth_activity_title">Account Xunlei</string>
     <string name="auth_fail">"Impossibile ottenere l'autorizzazione"</string>
     <string name="average_speed">Velocità media</string>
@@ -66,10 +66,11 @@
     <string name="btn_change">Cambia</string>
     <string name="button_sort_by_date">Per data</string>
     <string name="button_sort_by_size">Per dimensione</string>
-    <string name="byteShort">B</string>
     <string name="cancel">Annulla</string>
     <string name="cancel_running_download">Annulla</string>
     <string name="cancle">Annulla</string>
+    <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d di %2$d</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -116,14 +117,14 @@
     <string name="chinese_month">Mese</string>
     <string name="chinese_month_april">4</string>
     <string name="chinese_month_august">8</string>
-    <string name="chinese_month_december">Dicembre</string>
+    <string name="chinese_month_december">12</string>
     <string name="chinese_month_february">2</string>
-    <string name="chinese_month_january">Gennaio</string>
+    <string name="chinese_month_january">1</string>
     <string name="chinese_month_july">7</string>
     <string name="chinese_month_june">6</string>
     <string name="chinese_month_march">3</string>
     <string name="chinese_month_may">5</string>
-    <string name="chinese_month_november">Novembre</string>
+    <string name="chinese_month_november">11</string>
     <string name="chinese_month_october">10</string>
     <string name="chinese_month_september">9</string>
     <string name="chinese_symbol_animals_chicken">Pollo</string>
@@ -144,6 +145,7 @@
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="close">Chiudi</string>
     <string name="close_ad">Chiudi annuncio</string>
+    <string name="collect_diagnosis_log">Raccogli log diagnostici</string>
     <string name="complete_time">Completato</string>
     <string name="confirm">OK</string>
     <string name="confirm_delete_downloads_message">%d download verranno cancellati.</string>
@@ -162,6 +164,10 @@
     <string name="deselect_all">Deseleziona tutto</string>
     <string name="deselect_subfile_all">Deseleziona tutto</string>
     <string name="determine">OK</string>
+    <string name="diagnosis_log_send_failed">Invio Log di diagnosi fallito.</string>
+    <string name="diagnosis_log_sent_format">"I log di diagnosi sono stati inviati.
+ID:%s
+Si prega di inviare questo codice al tecnico."</string>
     <string name="dialog_btn_cancel">Annulla</string>
     <string name="dialog_btn_ok">OK</string>
     <string name="dialog_btn_ok_disabled_net">Impostazioni di rete</string>
@@ -222,6 +228,7 @@
     <string name="download_list_title_browser">Download</string>
     <string name="download_no_application">Nessuna app supporta questo formato</string>
     <string name="download_no_application_title">"Impossibile aprire il file"</string>
+    <string name="download_num_size">%1$s | %2$s</string>
     <string name="download_paused">Download in pausa</string>
     <string name="download_pending">Download in attesa</string>
     <string name="download_queued">Aggiunto alla coda dei download</string>
@@ -275,12 +282,12 @@
     <string name="extra_ad_title">Potrebbe piacerti anche</string>
     <string name="extract_file">Decompressione file…</string>
     <string name="fastest_speed">Velocità massima</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_exist_hint">Questo file esiste già</string>
     <string name="file_picker">Scegli una località</string>
     <string name="file_size">Dimensione</string>
     <string name="flow_consume">Traffico</string>
     <string name="fmt_chinese_date">dd/MM</string>
-    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -300,7 +307,6 @@
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -313,24 +319,19 @@
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
     <string name="fmt_time_minute_second">m:s</string>
     <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
     <string name="fmt_weekday_date">DW</string>
     <string name="fmt_weekday_date_time">DW T</string>
     <string name="fmt_weekday_date_time_timezone">zDW T</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="for_diagnosis_usage_only">Usa queste informazioni solo per diagnosi.</string>
     <string name="force_touch_newdownload">Nuovo download</string>
     <string name="force_touch_rank">Classifiche</string>
     <string name="force_touch_search">Cerca in rete</string>
@@ -465,6 +466,7 @@
     <string name="month_september_shortest">Set</string>
     <string name="more">Altro</string>
     <string name="morning">Mattina</string>
+    <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="net_error">"Impossibile connettersi alla rete, riprova"</string>
     <string name="network_error">"Impossibile connettersi alla rete"</string>
     <string name="new_add">Nuovo download</string>
@@ -490,6 +492,7 @@ su tutti i tuoi dispositivi con Xunlei"</string>
     <string name="notify_install_guide_title">%s installato con successo</string>
     <string name="notify_not_support">"Queste notifiche non sono supportate, aggiorna ora"</string>
     <string name="notify_only_wifi_download">In attesa di Wi-Fi</string>
+    <string name="ok">OK</string>
     <string name="one_month">1 mese</string>
     <string name="only_support_torrent">Sono supportati solo i file torrent</string>
     <string name="open">Apri</string>
@@ -502,6 +505,9 @@ su tutti i tuoi dispositivi con Xunlei"</string>
     <string name="other">Altro</string>
     <string name="other_filter">Altro</string>
     <string name="package_filter">Pacchetti</string>
+    <string name="passport_oauth_actionbar_title">Account</string>
+    <string name="passport_oauth_sucess_tip">Autorizzato con successo</string>
+    <string name="password_toggle_content_description">Mostra password</string>
     <string name="path_no_available">"Questo percorso non è disponibile"</string>
     <string name="pause_download">Pausa</string>
     <string name="paused">Pausa</string>
@@ -599,6 +605,8 @@ su tutti i tuoi dispositivi con Xunlei"</string>
     <string name="select_subfile_all">Seleziona tutto</string>
     <string name="selected_count">Selezionati %1$d di %2$d</string>
     <string name="send">Invia</string>
+    <string name="send_diagnosis_log">Invio log di diagnosi</string>
+    <string name="sending">Invio in corso...</string>
     <string name="setting_close_debug">Modalità Debug disattivata</string>
     <string name="setting_debug_fail">"Impossibile entrare in modalità Debug"</string>
     <string name="setting_open_debug">Modalità Debug attivata. Tocca qui 6 volte per disattivare la modalità Debug.</string>
@@ -606,7 +614,6 @@ su tutti i tuoi dispositivi con Xunlei"</string>
     <string name="shortcut_dialog_create">Crea</string>
     <string name="shortcut_dialog_title">Creare collegamento nella schermata Home?</string>
     <string name="show_more">Mostra altri %s</string>
-    <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
@@ -712,6 +719,7 @@ su tutti i tuoi dispositivi con Xunlei"</string>
     <string name="task_detail">Operazioni</string>
     <string name="task_detail_notfound_confirm">OK</string>
     <string name="task_fail">"Operazione fallita"</string>
+    <string name="temporary_not_available">temporaneamente non disponibile</string>
     <string name="terabyteShort">TB</string>
     <string name="test_speed">Verifica</string>
     <string name="test_speed_detail">Dettagli</string>
@@ -771,8 +779,6 @@ su tutti i tuoi dispositivi con Xunlei"</string>
     <string name="thursday_shortest">Gio</string>
     <string name="time_consume">Durata</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="time_picker_label_hour">O</string>
-    <string name="time_picker_label_minute">M</string>
     <string name="tip_download_icon_restore">Aggiungi un collegamento alla schermata Home per l\'app Download</string>
     <string name="tip_download_icon_retry">"Impossibile aggiungere il collegamento. Riprova."</string>
     <string name="title_homepage_infoflow">Aggiornamenti recenti</string>
@@ -799,9 +805,7 @@ su tutti i tuoi dispositivi con Xunlei"</string>
     <string name="unbind_xunlei_success">Disconnesso dall\'account Xunlei</string>
     <string name="unit_cn_hundredmillions">00M</string>
     <string name="unit_cn_tenthousands">0K</string>
-    <string name="unit_en_billion">B</string>
-    <string name="unit_en_million">M</string>
-    <string name="unit_en_thounsand">K</string>
+    <string name="unit_en_billion">Milioni</string>
     <string name="v7_preference_off">DISATTIVATO</string>
     <string name="v7_preference_on">ATTIVATO</string>
     <string name="valid_in_this_month">Valido per questo mese</string>
@@ -855,6 +859,7 @@ Accelera i download su tutti i tuoi dispositivi."</string>
     <string name="xlunbind_sub_title">Rimuovi il tuo account Xunlei e aggiungi Mi Account</string>
     <string name="xunlei_account_has_unbind_message">Account Xunlei rimosso</string>
     <string name="xunlei_brand">Fornito da Xunlei</string>
+    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_close_tips_button">Attiva</string>
     <string name="xunlei_close_tips_content">Acceleratore download Xunlei.</string>
     <string name="xunlei_close_tips_title">Accelera i tuoi download</string>

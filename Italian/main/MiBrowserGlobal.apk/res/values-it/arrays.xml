@@ -4,35 +4,6 @@
         <item>Maschio</item>
         <item>Femmina</item>
     </string-array>
-    <string-array name="alphabet_table">
-        <item>\#</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>Ven</item>
-        <item>G</item>
-        <item>O</item>
-        <item>I</item>
-        <item>G</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>A</item>
-        <item>Z</item>
-    </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
         <item>A</item>
@@ -40,11 +11,11 @@
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>Ven</item>
+        <item>F</item>
         <item>G</item>
-        <item>O</item>
+        <item>H</item>
         <item>I</item>
-        <item>G</item>
+        <item>J</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -59,7 +30,7 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>A</item>
+        <item>Y</item>
         <item>Z</item>
         <item>\#</item>
     </string-array>
@@ -306,10 +277,17 @@
     <string-array name="menu_theme_setting">
         <item>Bianco</item>
         <item>Giallo</item>
-        <item>Grey</item>
-        <item>Brown</item>
+        <item>Grigio</item>
+        <item>Marrone</item>
         <item>Verde</item>
         <item>Blu</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>Contenuto esplicito</item>
+        <item>Falsità</item>
+        <item>Vecchie notizie</item>
+        <item>Panoramica estremista</item>
+        <item>Pubblicità subliminale</item>
     </string-array>
     <string-array name="only_google">
         <item>Google</item>
@@ -320,8 +298,8 @@
         <item>https://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
-        <item>Go back/forward</item>
-        <item>Switch tabs</item>
+        <item>Vai indietro/avanti</item>
+        <item>Cambia scheda</item>
         <item>Nessuno</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_values">
@@ -330,7 +308,7 @@
         <item>smart</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Default start page</item>
+        <item>Pagina iniziale predefinita</item>
         <item>Personalizza</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
@@ -341,13 +319,17 @@
         <item>0</item>
         <item>1</item>
     </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Vista verticale</item>
+        <item>Vista orizzontale</item>
+    </string-array>
     <string-array name="pref_navscreen_layoutstate_values">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="pref_security_do_not_track_keys">
         <item>Attivata</item>
-        <item>Only in Incognito mode</item>
+        <item>Solo in modalità incognito</item>
         <item>Spenta</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
@@ -361,7 +343,7 @@
         <item>70</item>
         <item>86</item>
         <item>100</item>
-        <item>ISO 125</item>
+        <item>125</item>
         <item>140</item>
     </string-array>
     <string-array name="pref_ua_choices">
@@ -394,6 +376,10 @@
         <item>OK</item>
         <item>Segui</item>
     </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Messaggio dal browser</item>
+        <item>Segui le Olimpiadi con Mi</item>
+    </string-array>
     <string-array name="sogou">
         <item>搜狗</item>
         <item>sogou.com</item>
@@ -402,9 +388,21 @@
         <item>UTF-8</item>
         <item>https://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
     </string-array>
+    <string-array name="speed_result_tips">
+        <item>"La connessione di rete attuale è molto lenta. Sembra che tu sia in un'area con scarsa copertura di rete."</item>
+        <item>La connessione di rete è lenta.</item>
+        <item>Nessun problema con la connessione di rete.</item>
+        <item>"La connessione di rete è veloce. È sufficiente per lo streaming di film!"</item>
+        <item>"La connessione di rete è molto veloce! Sei al top."</item>
+    </string-array>
+    <string-array name="user_guide_info_array">
+        <item>Scarica video e foto dai social media</item>
+        <item>Salvare immagini e video dagli stati di WhatsApp</item>
+        <item>Gestisci i file sul tuo dispositivo e rendili privati</item>
+    </string-array>
     <string-array name="user_guide_title_array">
         <item>Scarica video</item>
-        <item>WhatsApp Status Saver</item>
+        <item>Salva Stato WhatsApp</item>
         <item>File privati</item>
     </string-array>
     <string-array name="yahoo">

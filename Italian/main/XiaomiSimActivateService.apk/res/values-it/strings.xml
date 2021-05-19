@@ -92,7 +92,7 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
     <string name="activate_popup_desc_find_device_postfix">Un SMS di attivazione potrebbe esserti inviato dopo il cambio di SIM.</string>
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Per attivare %3$s, inserisci il numero di telefono della SIM %2$d. Se sostituisci questa scheda SIM, verrà inviato un altro SMS di attivazione.</string>
     <string name="activate_popup_desc_intl_sim_card">Un SMS internazionale sarà inviato per attivare %s. Verrà effettuato un addebito dal tuo operatore.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Per attivare %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt; SMS internazionale a pagamento &lt;/b&gt;verrà inviato. Il tuo operatore potrebbe addebitarti questo messaggio.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Per attivare %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internazionale a pagamento&lt;/b&gt; verrà inviato. Il tuo operatore ti addebiterà questo messaggio.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>Fare riferimento al &lt;a href=https://account.xiaomi.com/helpcenter/faq&gt;Manuale utente Mi Account&lt;/a&gt; se avete domande.</Data></string>
     <string name="activate_popup_desc_mixed_sim_cards">2 messaggi di testo (normale ed internazionale) saranno inviati per attivare %s. Verrà effettuato un addebito dal tuo operatore.</string>
     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Per attivare %3$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt; SMS nazionali a pagamento&lt;/b&gt; e &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt; SMS internazionali a pagamento&lt;/b&gt; verranno inviati. Il tuo operatore potrebbe addebitarti questi messaggi.</string>
@@ -214,14 +214,14 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
     <string name="chinese_month">Mese</string>
     <string name="chinese_month_april">4</string>
     <string name="chinese_month_august">8</string>
-    <string name="chinese_month_december">Dicembre</string>
+    <string name="chinese_month_december">12</string>
     <string name="chinese_month_february">2</string>
-    <string name="chinese_month_january">Gennaio</string>
+    <string name="chinese_month_january">1</string>
     <string name="chinese_month_july">7</string>
     <string name="chinese_month_june">6</string>
     <string name="chinese_month_march">3</string>
     <string name="chinese_month_may">5</string>
-    <string name="chinese_month_november">Novembre</string>
+    <string name="chinese_month_november">11</string>
     <string name="chinese_month_october">10</string>
     <string name="chinese_month_september">9</string>
     <string name="chinese_symbol_animals_chicken">Pollo</string>
@@ -237,6 +237,7 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
     <string name="chinese_symbol_animals_snake">Serpente</string>
     <string name="chinese_symbol_animals_tiger">Tigre</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
+    <string name="close">Chiudi</string>
     <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
     <string name="date_time_picker_dialog_title">Imposta data e ora</string>
     <string name="early_morning">Mattina</string>
@@ -270,7 +271,6 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
     <string name="explain_send_sms_permission_msg">Per attivare %s, Xiaomi Service Framework invierà un SMS per verificare il tuo numero di telefono. Il costo dell\'SMS sarà quello previsto dal tuo piano tariffario.</string>
     <string name="explain_send_sms_permission_title">Verifica il tuo numero di telefono</string>
     <string name="fmt_chinese_date">dd/MM</string>
-    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -290,7 +290,6 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -303,21 +302,15 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
     <string name="fmt_time_minute_second">m:s</string>
     <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
     <string name="fmt_weekday_date">DW</string>
     <string name="fmt_weekday_date_time">DW T</string>
     <string name="fmt_weekday_date_time_timezone">zDW T</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
@@ -414,6 +407,7 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
     <string name="search_menu_title">Cerca</string>
+    <string name="send">Invia</string>
     <string name="sim_activated_failed_msg">"Impossibile attivare il servizio. Tocca per riprovare."</string>
     <string name="sim_unactivated_feature_title">"%s non è stata attivata"</string>
     <string name="sim_unactivated_msg">"Questo servizio non è stato attivato. Tocca per riprovare."</string>
@@ -491,8 +485,6 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="time_picker_label_hour">O</string>
-    <string name="time_picker_label_minute">M</string>
     <string name="today">Oggi</string>
     <string name="tomorrow">domani</string>
     <string name="tuesday">Martedì</string>

@@ -196,6 +196,7 @@
     <string name="advanced_mobile_settings">Impostazioni avanzate</string>
     <string name="advanced_options_title">Avanzate</string>
     <string name="advanced_settings">Impostazioni opzionali</string>
+    <string name="advanced_settings_container">impostazioni avanzate container</string>
     <string name="advanced_settings_hide">▽ Tocca per nascondere tutto</string>
     <string name="advanced_settings_show">▷ Tocca per vedere tutto</string>
     <string name="advertisements_disable">Pubblicità disattivate</string>
@@ -720,6 +721,8 @@
     <string name="cmcc_ut_data_enable_prompt">Impossibile connettersi alla rete che utilizza VoLTE. Attiva ora la tua connessione dati.</string>
     <string name="command_error_fdn_failure">Devi disabilitare prima i NSF</string>
     <string name="config_default_data_sim">Impostazioni</string>
+    <string name="config_simUnlockUiClass">\@null</string>
+    <string name="config_simUnlockUiPackage">\@null</string>
     <string name="confirmPin2Label">Conferma il nuovo PIN2</string>
     <string name="confirmPinLabel">Conferma il nuovo PIN</string>
     <string name="confirm_enable_oem_unlock_text">ATTENZIONE: Le funzionalità di protezione del dispositivo non funzionalitàranno quando questa opzione é attiva.</string>
@@ -795,9 +798,11 @@
     <string name="debug_view_attributes">Abilita ispezione attribuiti di visualizzazione</string>
     <string name="default_carrier_mmi_msg_title">Messaggio Operatore</string>
     <string name="default_notification_description">Suono predefinito (%1$s)</string>
+    <string name="default_port">5060</string>
     <string name="default_preference_summary_domain_address">&lt;Non impostato&gt;</string>
     <string name="default_preference_summary_password">&lt;Non impostato&gt;</string>
     <string name="default_preference_summary_username">&lt;Non impostato&gt;</string>
+    <string name="default_transport">UDP</string>
     <string name="delete">Elimina</string>
     <string name="delete_blob_confirmation_text">Sei sicuro di voler eliminare questi dati condivisi?</string>
     <string name="delete_blob_text">Elimina dati condivisi</string>
@@ -865,8 +870,6 @@
     <string name="dialpad_mno">MNO</string>
     <string name="dialpad_nine">%d</string>
     <string name="dialpad_one">%d</string>
-    <string name="dialpad_pound">\#</string>
-    <string name="dialpad_pound_number">\#</string>
     <string name="dialpad_pqrs">PQRS</string>
     <string name="dialpad_seven">%d</string>
     <string name="dialpad_six">%d</string>
@@ -892,9 +895,11 @@
     <string name="disabled">Disabilitato</string>
     <string name="disabled_by_admin">Disattivato dall\'amministratore</string>
     <string name="disabled_by_admin_summary_text">Controllato dall\'amministratore</string>
+    <string name="display_name">DisplayName</string>
     <string name="display_name_summary">Come il nome utente</string>
     <string name="display_name_title">Mostra nome</string>
     <string name="do_not_show_again">"Non mostrare più"</string>
+    <string name="domain_address">SipDomain</string>
     <string name="domain_address_title">Server</string>
     <string name="doneButton">Fatto</string>
     <string name="dsds_dialog_cancel">Annulla</string>
@@ -1064,7 +1069,7 @@
     <string name="force_resizable_activities_summary">Rendi tutte le attività multi finestra ridimensionabili, indipendentemente dai loro valori di manifest.</string>
     <string name="force_rtl_layout_all_locales">Forza direzione disposizione RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Forza direzione disposizione ad RTL per tutte le località</string>
-    <string name="four_point_five_switch_summary">Usa il 4.5G per migliorare la velocità di accesso ai dati e la qualità vocale.</string>
+    <string name="four_point_five_switch_summary">Usa il 4.5G per aumentare la velocità di connessione dati e migliorare la qualità della voce</string>
     <string name="four_point_five_switch_title">4.5G</string>
     <string name="frequecy_num">num canale lte</string>
     <string name="fw_change_failed">"Impossibile modificare il numero a cui inoltrare le chiamate. Contatta il tuo operatore se questo problema persiste."</string>
@@ -1299,12 +1304,13 @@ Le chiamate di emergenza sono possibili solo in zone con copertura cellulare.\"<
     <string name="messageCFNRc">Numero a cui inoltrare se non raggiungibile</string>
     <string name="messageCFNRy">Numero a cui inoltrare se non rispondi</string>
     <string name="messageCFU">Usa sempre questo numero</string>
-    <string name="messageCFU_kr"/>
-    <string name="messageCW_kr"/>
+    <string name="messageCFU_kr">Un servizio di rete che trasferisce tutte le chiamate in arrivo e i messaggi di testo verso un numero specificato. Devi iscriverti a questo servizio. Ti verrà addebitato un canone mensile. Contatta il centro clienti (114+[Send]) per iscriverti o annullare l\'iscrizione a questo servizio. Inserisci %1$s+[numero a cui inoltrare le chiamate][Send] per abilitare, o %2$s[Send] per disabilitare.</string>
+    <string name="messageCW_kr">Un servizio di rete gratuito che consente di rispondere a una seconda chiamata durante una chiamata, mettendo la prima chiamata in attesa. Inserisci %1$s[Send] per abilitare, o %2$s[Send] per disabilitare.</string>
     <string name="messageCallBarring">Inserisci password</string>
     <string name="message_decode_error">Si è verificato un errore durante la decodificazione del messaggio.</string>
     <string name="mhh_disable">Medicina, Salute, Ospedali disattivate</string>
     <string name="mhh_enable">Medicina, Salute, Ospedali attivate</string>
+    <string name="mi_mobile_settings_summary">Piano dati fornito da Xiaomi</string>
     <string name="mi_mobile_settings_title">Telefono Mi</string>
     <string name="mi_mobile_sim_activate_message">Attiva la SIM %d per poter usare Mi Mobile. Potrebbe volerci fino a 5 minuti.</string>
     <string name="mi_mobile_sim_activate_ok">Attiva</string>
@@ -1450,7 +1456,7 @@ Le chiamate di emergenza sono possibili solo in zone con copertura cellulare.\"<
     <string name="national_disable">Notizie nazionali disattivate</string>
     <string name="national_enable">Notizie nazionali attivate</string>
     <string name="netcheck_title">Diagnostica reti mobili</string>
-    <string name="network_1x">GPRS</string>
+    <string name="network_1x">1x</string>
     <string name="network_2G">2G</string>
     <string name="network_3G">3G</string>
     <string name="network_4G">4G (consigliato)</string>
@@ -1591,6 +1597,7 @@ Le chiamate di emergenza sono possibili solo in zone con copertura cellulare.\"<
     <string name="overlay_display_devices_title">Simula schermi secondari</string>
     <string name="overseas_roaming_setting">Roaming dati</string>
     <string name="pane_title_emergency_dialpad">Numeri di emergenza</string>
+    <string name="password">Password</string>
     <string name="password_changed">Password modificata</string>
     <string name="password_title">Password</string>
     <string name="path_answer_state_setting_title">Applicazioni di sistema/Chiamate/Impostazioni chiamate in arrivo</string>
@@ -1682,7 +1689,9 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
     <string name="police_type_description">Polizia</string>
+    <string name="port">Porta</string>
     <string name="port_title">Numero porta</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s fino a completamento</string>
     <string name="power_discharge_by">Dovrebbe durare circa fino al %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Dovrebbe durare almeno fino a %1$s in base al tuo utilizzo (%2$s)</string>
@@ -1793,6 +1802,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
     <string name="private_num">Numero privato</string>
     <string name="private_num_kr">ID Chiamante limitato</string>
+    <string name="process_kernel_label">Sistema Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
     <string name="progress_dialog_exiting_ecm">Uscita dalla modalità di richiamata di emergenza</string>
@@ -1807,6 +1817,10 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="prompt_when_turnon_volte_without_lte">"Le reti LTE non sono disponibili in questo momento. Attivare VoLTE potrebbe impedirti di effettuare le chiamate normali."</string>
     <string name="proxy_address">Indirizzo Proxy</string>
     <string name="proxy_address_title">Indirizzo proxy verso l\'esterno</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_hint">proxy.esempio.com</string>
+    <string name="proxy_port_hint">8000</string>
+    <string name="proxy_url_hint">https://www.esempio.com/proxy.pac</string>
     <string name="pstn_connection_service_label">SIM implementata</string>
     <string name="pstn_phone">Chiamate via telefono cellulare</string>
     <string name="puk2_blocked">PUK2 è bloccato permanentemente.</string>
@@ -2109,6 +2123,10 @@ Interfaccia UT: %5$s"</string>
     <string name="smart_forwarding_settings_menu_summary">"Quando un numero non è raggiungibile, inoltra sempre le chiamate all'altro numero"</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Assicurarsi che il numero immesso sia corretto. In caso contrario, non sarà possibile inviare o ricevere SMS. Contatta il tuo operatore per confermare il tuo numero SMSC."</string>
+    <string name="softap_beacon_protection">Abilita Protezione SoftAp Beacon</string>
+    <string name="softap_beacon_protection_summary">Abilita Protezione SoftAp Beacon tramite Hotspot</string>
+    <string name="softap_ocv">Abilita SoftAp OCV</string>
+    <string name="softap_ocv_summary">Abilita SoftAp OCV tramite Hotspot</string>
     <string name="speed_label_fast">Veloce</string>
     <string name="speed_label_medium">Medio</string>
     <string name="speed_label_okay">OK</string>
@@ -2250,6 +2268,7 @@ Interfaccia UT: %5$s"</string>
     <string name="time_end_minute">minuto di interruzione</string>
     <string name="time_formate_am">AM</string>
     <string name="time_formate_pm">PM</string>
+    <string name="time_interval_char">:</string>
     <string name="time_next_day"> giorno successivo </string>
     <string name="time_start">Da</string>
     <string name="time_start_hour">ora di inizio</string>
@@ -2261,6 +2280,7 @@ Interfaccia UT: %5$s"</string>
     <string name="traffic_mode_summary">L\'applicazione attuale ha priorità estrema sulla rete, questo potrebbe impedire l\'utilizzo della rete alle app in background</string>
     <string name="traffic_mode_switch_title">Modalità estrema</string>
     <string name="transition_animation_scale_title">Transizione scala animazione</string>
+    <string name="transport">Protocollo</string>
     <string name="transport_title">Tipo di trasporto</string>
     <string name="trigger_carrier_provisioning">Attiva provisioning operatore</string>
     <string name="tts_default_lang_summary">Imposta la lingua specifica per il testo parlato</string>
@@ -2478,11 +2498,8 @@ Se si sceglie di preferire le reti mobili, esse verranno utilizzate per le chiam
     <string name="wifi_call_notification_message">"Questo servizio è fornito da Orange. L'attivazione del servizio potrebbe richiedere diverse ore. Riceverai un SMS di conferma non appena sarà disponibile."</string>
     <string name="wifi_call_preferred_summary">"Se si sceglie di preferire le reti mobili, esse verranno utilizzate per le chiamate. Nel caso in cui non ci sia alcun segnale di rete o è molto debole, verrà invece utilizzata la rete Wi-Fi."</string>
     <string name="wifi_call_setting">Chiamate Wi-Fi</string>
-    <string name="wifi_call_setting_vodafone_de">Chiamate Wi-Fi</string>
     <string name="wifi_call_setting_vodafone_uk">Chiamata Wi-Fi</string>
     <string name="wifi_call_welcome_settings">Chiamate Wi-Fi</string>
-    <string name="wifi_calling">Chiamate Wi-Fi</string>
-    <string name="wifi_calling_settings_title">Chiamate Wi-Fi</string>
     <string name="wifi_cant_connect">"Impossibile connettersi"</string>
     <string name="wifi_cant_connect_to_ap">"Impossibile collegare a '%1$s'"</string>
     <string name="wifi_check_password_try_again">Controlla la password e prova di nuovo</string>
@@ -2508,6 +2525,8 @@ Se si sceglie di preferire le reti mobili, esse verranno utilizzate per le chiam
     <string name="wifi_limited_connection">Connessione limitata</string>
     <string name="wifi_metered_label">Misurato</string>
     <string name="wifi_network_prefix_length_hint">24</string>
+    <string name="wifi_new_network_auto_connection">SSID Bridging ‐ Connessione Automatica</string>
+    <string name="wifi_new_network_auto_connection_summary">Abilita i tentativi di connessione automatica a un nuovo SSID WPA/WPA2‐PSK 5GHz con le credenziali SSID WPA/WPA2‐PSK 2GHz attualmente collegate su SSID e BSSID parziali</string>
     <string name="wifi_no_internet">Nessun accesso internet.</string>
     <string name="wifi_no_internet_no_reconnect">"Nessun accesso internet rilevato, la riconnessione non avverrà automaticamente."</string>
     <string name="wifi_not_in_range">Fuori portata</string>
@@ -2564,6 +2583,8 @@ Se si sceglie di preferire le reti mobili, esse verranno utilizzate per le chiam
     <string name="wifi_wapi_fail_to_init">"Impossibile aprire i certificati WAPI L'archivio credenziali potrebbe non essere attivato"</string>
     <string name="wifi_wapi_psk_type">Tip di password</string>
     <string name="wifi_wapi_user_certificate">Certificato utente</string>
+    <string name="wifi_whitelist_roaming">SSID Bridging ‑ Fast Handover</string>
+    <string name="wifi_whitelist_roaming_summary">Abilita il roaming tra diversi SSID WPA/WPA2-PSK con lo stesso indirizzo MAC del gateway</string>
     <string name="wificall_switch_summary">Usa il Wi-Fi per effettuare e ricevere chiamate quando possibile</string>
     <string name="wificall_switch_title">Effettua chiamate tramite Wi-Fi</string>
     <string name="wild_prompt_str">Sostituire carattere con</string>

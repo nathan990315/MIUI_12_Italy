@@ -521,6 +521,10 @@
     <string name="simulate_color_space">Simula lo spazio del colore</string>
     <string name="sixteen_thousand_kb">16384 KB</string>
     <string name="sixtyfive_thousand_kb">65536 KB</string>
+    <string name="softap_beacon_protection">Abilita Protezione SoftAp Beacon</string>
+    <string name="softap_beacon_protection_summary">Abilita Protezione SoftAp Beacon tramite Hotspot</string>
+    <string name="softap_ocv">Abilita SoftAp OCV</string>
+    <string name="softap_ocv_summary">Abilita SoftAp OCV tramite Hotspot</string>
     <string name="speed_label_fast">Veloce</string>
     <string name="speed_label_medium">Medio</string>
     <string name="speed_label_okay">OK</string>
@@ -677,6 +681,8 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_limited_connection">Connessione limitata</string>
     <string name="wifi_metered_label">Misurato</string>
     <string name="wifi_network_prefix_length_hint">24</string>
+    <string name="wifi_new_network_auto_connection">SSID Bridging ‐ Connessione Automatica</string>
+    <string name="wifi_new_network_auto_connection_summary">Abilita i tentativi di connessione automatica a un nuovo SSID WPA/WPA2‐PSK 5GHz con le credenziali SSID WPA/WPA2‐PSK 2GHz attualmente collegate su SSID e BSSID parziali</string>
     <string name="wifi_no_internet">Nessun accesso internet.</string>
     <string name="wifi_no_internet_no_reconnect">"Nessun accesso internet rilevato, la riconnessione non avverrà automaticamente."</string>
     <string name="wifi_not_in_range">Fuori portata</string>
@@ -733,6 +739,8 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_wapi_fail_to_init">"Impossibile aprire i certificati WAPI L'archivio credenziali potrebbe non essere attivato"</string>
     <string name="wifi_wapi_psk_type">Tip di password</string>
     <string name="wifi_wapi_user_certificate">Certificato utente</string>
+    <string name="wifi_whitelist_roaming">SSID Bridging ‑ Fast Handover</string>
+    <string name="wifi_whitelist_roaming_summary">Abilita il roaming tra diversi SSID WPA/WPA2-PSK con lo stesso indirizzo MAC del gateway</string>
     <string name="window_animation_scale_title">Scala animazioni finestra</string>
     <string name="zen_alarm_warning">"Non sentirai la tua prossima sveglia %1$s"</string>
     <string name="zen_alarm_warning_indef">"Non sentirai la tua prossima sveglia %1$s a meno che non venga disattivata prima di allora"</string>

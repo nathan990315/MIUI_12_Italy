@@ -4,18 +4,18 @@
         <item>Maschio</item>
         <item>Femmina</item>
     </string-array>
-    <string-array name="alphabet_table">
-        <item>\#</item>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
         <item>A</item>
         <item>B</item>
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>Ven</item>
+        <item>F</item>
         <item>G</item>
-        <item>O</item>
+        <item>H</item>
         <item>I</item>
-        <item>G</item>
+        <item>J</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -30,12 +30,13 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>A</item>
+        <item>Y</item>
         <item>Z</item>
+        <item>\#</item>
     </string-array>
     <string-array name="mibi_nopassword_pay_threshold">
         <item>100</item>
-        <item>ISO 200</item>
-        <item>ISO 500</item>
+        <item>200</item>
+        <item>500</item>
     </string-array>
 </resources>

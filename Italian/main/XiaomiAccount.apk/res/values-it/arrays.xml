@@ -4,18 +4,18 @@
         <item>Maschio</item>
         <item>Femmina</item>
     </string-array>
-    <string-array name="passport_alphabet_table">
-        <item>\#</item>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
         <item>A</item>
         <item>B</item>
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>Ven</item>
+        <item>F</item>
         <item>G</item>
-        <item>O</item>
+        <item>H</item>
         <item>I</item>
-        <item>G</item>
+        <item>J</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -30,72 +30,78 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>A</item>
+        <item>Y</item>
         <item>Z</item>
+        <item>\#</item>
     </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>Account</item>
-        <item>Add and manage third party accounts</item>
-        <item>Accounts;SNS;Facebook;Google;Mi Account;Account</item>
+        <item>Aggiungi e gestisci account di terze parti</item>
+        <item>Account;SNS;Facebook;Google;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Account</item>
-        <item>Add and manage third party accounts</item>
-        <item>Accounts;SNS;WeChat;QQ;Weibo;Mi Account;Account</item>
+        <item>Aggiungi e gestisci account di terze parti</item>
+        <item>Account;SNS;WeChat;QQ;Weibo;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Cambia password</item>
-        <item>Change Mi Account password</item>
-        <item>Change password;Update password;Mi Account;Account</item>
+        <item>Modifica password Mi Account</item>
+        <item>Cambia password;Aggiorna password;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_help_center">
         <item>Guida</item>
-        <item>Get Mi Account help and support</item>
-        <item>Mi Account;Account;Account help;Help center</item>
+        <item>Assistenza e supporto a Mi Account</item>
+        <item>Mi Account;Account;Aiuto account;Help center</item>
     </string-array>
     <string-array name="settings_search_login_2_step_verify">
         <item>Verifica in 2 passaggi</item>
-        <item>Set 2-step verification for your Mi Account</item>
-        <item>Sign in;Log in;2-step;verification;Xiaomi;Account;Mi Account;Account</item>
+        <item>Imposta verifica in 2 passaggi per il tuo Mi Account</item>
+        <item>Accedi;Login;2 fattori;verifica;Xiaomi;Account;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>Sicurezza account</item>
-        <item>Recovery phone and email, password management</item>
-        <item>Account security;Signing in;Recovery phone;Recovery email;Account protection;Phone number;Email;Change password;Add phone number;Add email;Mi Account;Account</item>
+        <item>Recupero telefono ed e-mail, gestione password</item>
+        <item>Sicurezza account;Login in;Recupero telefono;Recupero email;Protezione account;Numero di telefono;Email;Modifica password;Aggiungi numero di telefono;Aggiungi email;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_manage_device">
         <item>Dispositivi</item>
-        <item>Manage devices associated with your Mi Account</item>
-        <item>Manage devices;My devices;Devices;Device list;Mi Account;Account</item>
+        <item>Gestisci i dispositivi associati al tuo Mi Account</item>
+        <item>Gestisci dispositivi;I miei dispositivi;Dispositivi;Elenco dispositivi;Account Mi</item>
+    </string-array>
+    <string-array name="settings_search_payment_information">
+        <item>Informazioni di pagamento</item>
+        <item>Visualizza e gestisci le informazioni di pagamento</item>
+        <item>Pagamento;Pagamento;Metodo di pagamento;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_privacy_policy">
         <item>Informativa sulla Privacy</item>
-        <item>View Mi Account Privacy Policy</item>
-        <item>Mi Account;Account;Privacy Policy</item>
+        <item>Informativa sulla Privacy Mi Account</item>
+        <item>Mi Account;Account;Informativa Privacy</item>
     </string-array>
     <string-array name="settings_search_security_email_address">
         <item>Recupera email</item>
         <item>Aggiungi email di ripristino</item>
-        <item>Recovery email;Email;Add email;Mi Account;Account</item>
+        <item>Email di recupero;Email;Aggiungi email;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_security_phone_number">
         <item>Numero di telefono di recupero</item>
-        <item>Add recovery phone</item>
-        <item>Recovery phone;Add phone;Mi Account;Account</item>
+        <item>Aggiungi telefono di recupero</item>
+        <item>Recupero telefono;Aggiungi telefono;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_system_ad">
         <item>Pubblicità</item>
-        <item>Manage system ads</item>
-        <item>Ads;Mi Account;Account</item>
+        <item>Gestisci pubblicità di sistema</item>
+        <item>Ads;Mi Account;Account;Pubblicità</item>
     </string-array>
     <string-array name="settings_search_user_information">
         <item>Info account</item>
-        <item>View your profile photo and manage account info</item>
-        <item>Personal info;profile photo;nickname;account info;Mi ID;ID;Mi Account;Account</item>
+        <item>Visualizza la foto del tuo profilo e gestisci le informazioni dell\'account</item>
+        <item>Informazioni personali;foto profilo;nickname;informazioni account;Mi ID;ID;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_user_protocol">
         <item>Accordo utente</item>
         <item>Accordo utente</item>
-        <item>Mi Account;Account;User Agreement;EULA</item>
+        <item>Mi Account;Account;Accordo Utente;EULA</item>
     </string-array>
 </resources>

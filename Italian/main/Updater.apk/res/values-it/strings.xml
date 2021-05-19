@@ -6,7 +6,7 @@
     <string name="btn_changelog">Novità</string>
     <string name="btn_download">Scarica (%1$s)</string>
     <string name="btn_error">Si è verificato un errore, provare di nuovo?</string>
-    <string name="btn_install">Installa</string>
+    <string name="btn_install">Controlla l\'MD5 e Installa</string>
     <string name="btn_no">Annulla</string>
     <string name="btn_ok">OK</string>
     <string name="btn_pause">Pausa</string>
@@ -18,6 +18,7 @@
     <string name="channel_service">Servizio Aggiornamenti in background</string>
     <string name="channel_update">Nuova versione disponibile</string>
     <string name="check_new_version">Ricerca aggiornamenti</string>
+    <string name="chengelog">%1$s</string>
     <string name="default_filedownloader_notification_content">FileDownloader in esecuzione.</string>
     <string name="default_filedownloader_notification_title">FileDownloader</string>
     <string name="dialog_3g_desc">Scaricare l\'aggiornamento con i dati mobili potrebbe comportare consumi elevati.</string>
@@ -27,6 +28,7 @@
     <string name="dialog_stop_desc">Puoi sospendere o annullare il download.</string>
     <string name="dialog_stop_title">Annullare?</string>
     <string name="dialog_twrp">La memoria interna è criptata. Dopo che il dispositivo è stato riavviato in recovery, inserisci la password di sblocco.</string>
+    <string name="downgrade_warning">Downgrade tramite OTA rilevato e bloccato per evitare corruzione del sistema!</string>
     <string name="download_done">Download completato!</string>
     <string name="download_fail">Errore nel download!</string>
     <string name="download_fail_desc">Il checksum MD5 non corrisponde</string>
@@ -38,6 +40,7 @@
     <string name="menu_title_current_version_log">Cosa c\'è di nuovo?</string>
     <string name="menu_title_pick_rom_file">Scegli pacchetto di aggiornamento</string>
     <string name="menu_title_recovery">Riavvia in recovery</string>
+    <string name="message">%1$s</string>
     <string name="message_checkbox">Nascondi messaggi futuri dal team di Xiaomi.eu</string>
     <string name="message_checkbox_device">Non mostrare più</string>
     <string name="message_title">NOTA!</string>
@@ -66,6 +69,7 @@ Nessun aggiornamento sarà disponibile per te!"</string>
     <string name="share_desc">La MIUI è stata aggiornata alla versione %1$s, controlla le novità: %2$s</string>
     <string name="share_title">Condividi con</string>
     <string name="stable">Stabile</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="version">Attualmente installato:</string>
     <string name="weekly">Settimanale</string>
     <string name="wifi_recommended">Nessuna connessione Wi-Fi per iniziare il download in modo sicuro!</string>

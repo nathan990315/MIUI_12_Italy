@@ -85,7 +85,6 @@
     <string name="bugreport_tool_log_dumping_title">Creazione segnalazione bug</string>
     <string name="catch_full_log_action_cancel">Annulla</string>
     <string name="catch_full_log_action_complete">Termina e carica</string>
-    <string name="catch_full_log_action_start">Genera log</string>
     <string name="catch_full_log_add_original_photo">Aggiungi un\'immagine o un breve video</string>
     <string name="catch_full_log_add_photo">Aggiungi foto</string>
     <string name="catch_full_log_add_photo_dialog_content">"Se il problema che stai segnalando è legato alla qualità dell'immagine della fotocamera, aggiungi una foto di esempio originale (non ritagliata) per aiutarci a individuare il problema. Aggiungere una foto ora?"</string>
@@ -94,9 +93,6 @@
     <string name="catch_full_log_dump_hprof_failed">"Impossibile generare il log sul lag"</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Torna alla funzione che vuoi segnalare e riproducila.
 2. Torna a questa pagina e tocca \"Termina e carica\"."</string>
-    <string name="catch_full_log_item_content_need_open">"1. Tocca \"Genera log\".
-2. Torna alla funzione che vuoi segnalare e riproducila.
-3. Torna a questa pagina e tocca \"Termina e carica\"."</string>
     <string name="catch_full_log_item_content_title">Passi</string>
     <string name="catch_full_log_item_title_audio">Audio, registrazione audio e chiamata</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
@@ -167,14 +163,14 @@
     <string name="chinese_month">Mese</string>
     <string name="chinese_month_april">4</string>
     <string name="chinese_month_august">8</string>
-    <string name="chinese_month_december">Dicembre</string>
+    <string name="chinese_month_december">12</string>
     <string name="chinese_month_february">2</string>
-    <string name="chinese_month_january">Gennaio</string>
+    <string name="chinese_month_january">1</string>
     <string name="chinese_month_july">7</string>
     <string name="chinese_month_june">6</string>
     <string name="chinese_month_march">3</string>
     <string name="chinese_month_may">5</string>
-    <string name="chinese_month_november">Novembre</string>
+    <string name="chinese_month_november">11</string>
     <string name="chinese_month_october">10</string>
     <string name="chinese_month_september">9</string>
     <string name="chinese_symbol_animals_chicken">Pollo</string>
@@ -368,7 +364,6 @@ Invia questo codice al supervisore."</string>
     <string name="feesback_list">Segnalazioni</string>
     <string name="find_psw">Password dimenticata</string>
     <string name="fmt_chinese_date">dd/MM</string>
-    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -388,7 +383,6 @@ Invia questo codice al supervisore."</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -401,21 +395,15 @@ Invia questo codice al supervisore."</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
     <string name="fmt_time_minute_second">m:s</string>
     <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
     <string name="fmt_weekday_date">DW</string>
     <string name="fmt_weekday_date_time">DW T</string>
     <string name="fmt_weekday_date_time_timezone">zDW T</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
@@ -623,7 +611,7 @@ Invia questo codice al supervisore."</string>
     <string name="passport_error_unknown">Errore sconosciuto</string>
     <string name="passport_error_user_agreement_error">Accettare i termini e le condizioni</string>
     <string name="passport_error_user_name">Il nome utente immesso non è valido</string>
-    <string name="passport_forget_password">&lt;u&gt;Password dimenticata &lt;/u&gt;</string>
+    <string name="passport_forget_password"><u>Password dimenticata</u></string>
     <string name="passport_get_verify_code">Ottieni codice</string>
     <string name="passport_getting_verify_code">Attendi…</string>
     <string name="passport_identification_expired">Codice di verifica scaduto. Ricomincia da capo.</string>
@@ -829,8 +817,6 @@ Invia questo codice al supervisore."</string>
     <string name="ticket_invalid">Il captcha inserito non è corretto</string>
     <string name="ticket_sign_in">Accedi via SMS</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="time_picker_label_hour">O</string>
-    <string name="time_picker_label_minute">M</string>
     <string name="title_answer_feedback_main">Abbiamo trovato delle risposte!</string>
     <string name="title_catch_full_log">Log</string>
     <string name="title_customer_service">Servizio clienti</string>

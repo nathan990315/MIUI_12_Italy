@@ -1,34 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>Ven</item>
-        <item>G</item>
-        <item>O</item>
-        <item>I</item>
-        <item>G</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>A</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
         <item>A</item>
@@ -36,11 +7,11 @@
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>Ven</item>
+        <item>F</item>
         <item>G</item>
-        <item>O</item>
+        <item>H</item>
         <item>I</item>
-        <item>G</item>
+        <item>J</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -55,12 +26,30 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>A</item>
+        <item>Y</item>
         <item>Z</item>
         <item>\#</item>
     </string-array>
-    <string-array name="config_allowFloatPackages">
-        <item>com.google.android.apps.messaging</item>
+    <string-array name="config_xmsfNotificationChannel">
+        <item>84</item>
+        <item>61</item>
+        <item>72</item>
+        <item>213</item>
+        <item>102</item>
+        <item>233</item>
+        <item>54</item>
+        <item>96</item>
+        <item>VoIP</item>
+        <item>Promemoria</item>
+        <item>FloatAndKeyguard</item>
+    </string-array>
+    <string-array name="drop_down_menu">
+        <item>Ordina per orario di ricezione</item>
+        <item>Ordina per numero di notifiche</item>
+        <item>App che possono mostrare le notifiche</item>
+        <item>"App che non possono mostrare notifiche"</item>
+    </string-array>
+    <string-array name="local_white_list">
         <item>com.google.android.talk</item>
         <item>com.tencent.mm</item>
         <item>com.tencent.qq</item>
@@ -119,11 +108,12 @@
         <item>com.xiaomi.discover</item>
         <item>com.orange.phone</item>
         <item>com.miui.userguide</item>
-        <item>com.taobao.taobao</item>
         <item>com.miui.systemAdSolution</item>
         <item>com.miui.hybrid.accessory</item>
+        <item>com.google.android.apps.messaging</item>
         <item>com.baidao.ytxaegis</item>
         <item>com.xiaomi.gameboosterglobal</item>
+        <item>com.mi.health</item>
         <item>com.google.android.dialer</item>
         <item>com.miui.miservice</item>
         <item>com.miui.mishare.connectivity</item>
@@ -139,7 +129,6 @@
         <item>com.orange.conecta.es</item>
         <item>com.miui.cloudservice</item>
         <item>miui.test.cases</item>
-        <item>com.xunmeng.pinduoduo</item>
         <item>com.ss.android.lark</item>
         <item>com.miui.notes</item>
         <item>com.xiaomi.vipaccount</item>
@@ -149,25 +138,52 @@
         <item>com.xiaomi.calendar</item>
         <item>com.miui.core</item>
         <item>com.ss.android.lark.kami</item>
-    </string-array>
-    <string-array name="config_xmsfNotificationChannel">
-        <item>84</item>
-        <item>61</item>
-        <item>72</item>
-        <item>213</item>
-        <item>102</item>
-        <item>233</item>
-        <item>54</item>
-        <item>96</item>
-        <item>VoIP</item>
-        <item>Promemoria</item>
-        <item>FloatAndKeyguard</item>
-    </string-array>
-    <string-array name="drop_down_menu">
-        <item>Ordina per orario di ricezione</item>
-        <item>Ordina per numero di notifiche</item>
-        <item>App che possono mostrare le notifiche</item>
-        <item>"App che non possono mostrare notifiche"</item>
+        <item>com.xiaomi.mi_connect_service</item>
+        <item>com.xiaomi.mirror</item>
+        <item>com.miui.voicetrigger</item>
+        <item>com.skype.rover</item>
+        <item>com.xiaomi.youpin</item>
+        <item>com.xiaomi.bluetooth</item>
+        <item>com.miui.tsmclient</item>
+        <item>com.blackshark.bsamagent</item>
+        <item>com.blackshark.discovery</item>
+        <item>com.blackshark.market</item>
+        <item>com.blackshark.flutter_toolbox</item>
+        <item>com.ume.browser.hs</item>
+        <item>com.blackshark.aftersaleservice</item>
+        <item>com.blackshark.ota</item>
+        <item>com.blackshark.msgtransfer</item>
+        <item>com.tencent.southpole.appstore</item>
+        <item>com.blackshark.gamedock</item>
+        <item>com.zeusis.HydraService</item>
+        <item>com.blackshark.HydraAlpha</item>
+        <item>com.blackshark.shoulderkey</item>
+        <item>com.blackshark.performancemaster</item>
+        <item>com.xiaomi.aiasst.service</item>
+        <item>com.miui.audiomonitor</item>
+        <item>com.android.emailhd</item>
+        <item>com.android.providers.downloads</item>
+        <item>com.xiaomi.simactivate.service</item>
+        <item>com.xiaomi.midrop</item>
+        <item>com.android.providers.settings</item>
+        <item>com.xiaomi.finddevice</item>
+        <item>com.miui.backup.transfer</item>
+        <item>com.miui.cloudbackup</item>
+        <item>com.miui.screenrecorder</item>
+        <item>com.android.fileexplorer</item>
+        <item>com.xiaomi.mitv.smartshare</item>
+        <item>com.android.gallery3d</item>
+        <item>com.miui.freeform</item>
+        <item>com.tencent.wework</item>
+        <item>com.sankuai.xmpp</item>
+        <item>com.yiqixie.kem</item>
+        <item>com.blackshark.performancemaster</item>
+        <item>com.blackshark.bsperipheral</item>
+        <item>com.blackshark.push</item>
+        <item>com.piggylab.toybox</item>
+        <item>com.piggylab.holdon</item>
+        <item>com.miui.bugreport</item>
+        <item>com.android.systemui</item>
     </string-array>
     <string-array name="lock_screen_display_rules_no_password">
         <item>Mostra contenuto notifica</item>

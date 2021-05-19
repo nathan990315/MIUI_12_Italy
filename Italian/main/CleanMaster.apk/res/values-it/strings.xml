@@ -110,6 +110,10 @@
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Svuota %s dalla cache di WeChat per liberare spazio di archiviazione</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Non dimenticare di pulire la cache"</string>
     <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Ricorda di pulire la cache di WeChat</string>
+    <string name="appcleaner_wechat_pref_size_100_MB">100MB</string>
+    <string name="appcleaner_wechat_pref_size_1_GB">1GB</string>
+    <string name="appcleaner_wechat_pref_size_300_MB">300MB</string>
+    <string name="appcleaner_wechat_pref_size_500_MB">500MB</string>
     <string name="appcleaner_wechat_pref_time_every_day">Ogni giorno</string>
     <string name="appcleaner_wechat_pref_time_fifteen_day">Ogni 15 giorni</string>
     <string name="appcleaner_wechat_pref_time_seven_day">Ogni 7 giorni</string>
@@ -173,7 +177,6 @@
     <string name="buy_a_new_phone">Aumenta lo spazio</string>
     <string name="buy_immediately">Acquista</string>
     <string name="buy_traffic_pack">Acquista dati aggiuntivi</string>
-    <string name="byteShort">B</string>
     <string name="cache_title_empty_folder">Cartella vuota (%d)</string>
     <string name="cache_title_empty_folder2">Cartella vuota</string>
     <string name="cache_title_system_cache">Cache di sistema</string>
@@ -427,6 +430,7 @@
     <string name="hints_garbage_cleanup_result_safe">Sembra tutto OK</string>
     <string name="hints_garbage_handle_item_content">%1$d elementi，%2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Vuoto</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Utilizzata raramente</string>
     <string name="hints_installed_app_near">Usato di recente</string>
     <string name="hints_installed_app_never">Non utilizzata di recente</string>
@@ -638,7 +642,7 @@
     <string name="output_videos">Esporta video</string>
     <string name="permission_dialog_storage_btn1">Impostazioni</string>
     <string name="permission_dialog_storage_btn2">Annulla</string>
-    <string name="permission_dialog_storage_content">Pulizia ha bisogno dell\'autorizzazione per accedere all\'archivio interno, senza tale autorizzazione lo strumento non potrà funzionare normalmente. Per gestire le autorizzazioni andare in \"Impostazioni\". </string>
+    <string name="permission_dialog_storage_content">Pulizia ha bisogno dell\'autorizzazione per accedere alla memoria interna per poter funzionare normalmente. Premi \"Impostazioni\" per gestire i permessi di archiviazione.</string>
     <string name="permission_dialog_storage_title">Permessi richiesti</string>
     <string name="petabyteShort">PB</string>
     <string name="phone_search">Ricerca Google</string>

@@ -250,14 +250,14 @@ Se non vuoi sfruttare i consigli personalizzati, puoi comunque effettuare allena
     <string name="chinese_month">Mese</string>
     <string name="chinese_month_april">4</string>
     <string name="chinese_month_august">8</string>
-    <string name="chinese_month_december">Dicembre</string>
+    <string name="chinese_month_december">12</string>
     <string name="chinese_month_february">2</string>
-    <string name="chinese_month_january">Gennaio</string>
+    <string name="chinese_month_january">1</string>
     <string name="chinese_month_july">7</string>
     <string name="chinese_month_june">6</string>
     <string name="chinese_month_march">3</string>
     <string name="chinese_month_may">5</string>
-    <string name="chinese_month_november">Novembre</string>
+    <string name="chinese_month_november">11</string>
     <string name="chinese_month_october">10</string>
     <string name="chinese_month_september">9</string>
     <string name="chinese_symbol_animals_chicken">Pollo</string>
@@ -433,6 +433,7 @@ Xiaomi Health ti informerà solo sugli articoli importanti."</string>
     <string name="dialog_delete_record_confirm">Eliminare questo elemento?</string>
     <string name="dialog_exercise_purpose">Benvenuto su Xiaomi Health! Il \"Contapassi\" ti permette di vedere quanti passi fai durante il giorno, nonché impostare e gestire i tuoi obiettivi di attività. Tutti i dati correlati saranno memorizzati localmente sul tuo dispositivo, il che ti permette di gestirli facilmente.</string>
     <string name="dialog_exit">Esci</string>
+    <string name="dialog_exit_use">Esci</string>
     <string name="dialog_feedback_content">"Se non accetti di concedere tali autorizzazioni, non sarai in grado di utilizzare alcune funzionalità di questa app; Tuttavia, la sua funzionalità di base sarà ancora disponibile. Puoi sempre limitare le autorizzazioni o revocarla nelle Impostazioni."</string>
     <string name="dialog_feedback_purpose">Xiaomi Health ha bisogno di accedere all\'archiviazione per poter inviare feedback.</string>
     <string name="dialog_feedback_purpose2">Per inviare feedback</string>
@@ -469,6 +470,8 @@ Xiaomi Health ti informerà solo sugli articoli importanti."</string>
     <string name="divider_format2">%1$s-%2$s</string>
     <string name="divider_format3">%1$s~%2$s</string>
     <string name="dot">.</string>
+    <string name="download_apk">Scaricamento %s…</string>
+    <string name="download_background">Scarica</string>
     <string name="drag_sort">Riordina</string>
     <string name="dream_talk">Hai parlato %1$s</string>
     <string name="dream_talk_record">Sei stato registrato quando hai parlato durante il sonno</string>
@@ -599,7 +602,6 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
     <string name="finish_stand2">In piedi</string>
     <string name="finished_rate">Completato %1$d%%</string>
     <string name="fmt_chinese_date">dd/MM</string>
-    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -619,7 +621,6 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -632,21 +633,15 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
     <string name="fmt_time_minute_second">m:s</string>
     <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
     <string name="fmt_weekday_date">DW</string>
     <string name="fmt_weekday_date_time">DW T</string>
     <string name="fmt_weekday_date_time_timezone">zDW T</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
@@ -731,7 +726,6 @@ Se è ancora difficile addormentarti dopo 30 minuti che sei a letto, riduci i fa
     <string name="home_tip_sync_done">Sincronizzazione riuscita</string>
     <string name="home_tip_sync_immediately">"Alcuni elementi non sono stati sincronizzati. Tocca per sincronizzare ora."</string>
     <string name="home_tip_syncing">Sincronizzazione dati salute…</string>
-    <string name="hour">O</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
     <string name="hr_camera_permission_desc">Per ottenere la frequenza dei cambiamenti di luce attorno al dito attraverso la fotocamera al fine di determinare il valore della frequenza cardiaca</string>
@@ -992,7 +986,6 @@ Inizia da capo."</string>
     <string name="min_low_pressure">Min diastolica (minima)</string>
     <string name="min_pace">Ritmo minimo</string>
     <string name="minimum">Minimo</string>
-    <string name="minute">M</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
@@ -1263,7 +1256,6 @@ Inizia da capo."</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sab</string>
     <string name="save">Salva</string>
-    <string name="search_cancel">Annulla</string>
     <string name="search_menu_title">Cerca</string>
     <string name="sedentary_detail_title">Sedersi troppo a lungo è dannoso</string>
     <string name="sedentary_enhance_remind">Attiva Vibrazione</string>
@@ -1856,8 +1848,6 @@ non rilevati"</string>
     <string name="time_duration_number">%1$s:%2$s</string>
     <string name="time_format_hh_mm">HH:mm</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="time_picker_label_hour">O</string>
-    <string name="time_picker_label_minute">M</string>
     <string name="tips_default">Nessun dato</string>
     <string name="title_auto_run">Avvio automatico</string>
     <string name="title_click_record_menstruation">Registra un ciclo</string>

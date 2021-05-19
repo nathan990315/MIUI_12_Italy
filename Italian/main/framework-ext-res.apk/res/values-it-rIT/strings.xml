@@ -235,6 +235,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="resolver_offical_recommend">Ufficiale</string>
     <string name="resolver_other_method">Altre opzioni</string>
     <string name="resolver_recommend_options_tag">Opzioni suggerite</string>
+    <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
     <string name="resource_select">Scegli</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
@@ -298,12 +299,13 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="status_bar_toggle_gps">Test GPS</string>
     <string name="status_bar_toggle_lock">Blocca</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
+    <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
     <string name="status_bar_toggle_mute">Silenzia</string>
     <string name="status_bar_toggle_nfc">NFC</string>
     <string name="status_bar_toggle_paper_mode">Lettura</string>
     <string name="status_bar_toggle_power_mode">Prestazioni</string>
     <string name="status_bar_toggle_quiet_mode">ND</string>
-    <string name="status_bar_toggle_rotate">Rotazione disabilitata</string>
+    <string name="status_bar_toggle_rotate">Blocca orientamento</string>
     <string name="status_bar_toggle_screen_button">Tasti</string>
     <string name="status_bar_toggle_screenshot">Screenshot</string>
     <string name="status_bar_toggle_sync">Sincronizza</string>
@@ -346,7 +348,6 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="wifi_assistant_wifi_no_internet">Questa rete Wi-Fi non ha accesso a Internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Tocca per vedere i dettagli</string>
     <string name="wireless_charging_notification_message1">"Impossibile trovare dispositivi wireless da caricare. La ricarica wireless inversa è stata disattivata."</string>
-    <string name="wireless_charging_notification_message2">La batteria è inferiore al 30%. La ricarica wireless inversa è stata disattivata.</string>
     <string name="wireless_charging_notification_message3">Si è verificato un errore durante la ricarica. La ricarica wireless inversa è stata disattivata.</string>
     <string name="wireless_charging_notification_titile">Ricarica wireless inversa disattivata</string>
     <string name="xiaomi">Mi</string>

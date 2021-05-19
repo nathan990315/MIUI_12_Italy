@@ -74,7 +74,6 @@ dd/MM"</string>
     <string name="aod_style">Tema</string>
     <string name="aod_theme_store">Temi Always-on display</string>
     <string name="aod_to_close">Disattiva</string>
-    <string name="app_name">sfoca</string>
     <string name="apply">Applica</string>
     <string name="apply_succeed">Applicato correttamente</string>
     <string name="background_icon">Sfondo</string>
@@ -131,14 +130,14 @@ dd/MM"</string>
     <string name="chinese_month">Mese</string>
     <string name="chinese_month_april">4</string>
     <string name="chinese_month_august">8</string>
-    <string name="chinese_month_december">Dicembre</string>
+    <string name="chinese_month_december">12</string>
     <string name="chinese_month_february">2</string>
-    <string name="chinese_month_january">Gennaio</string>
+    <string name="chinese_month_january">1</string>
     <string name="chinese_month_july">7</string>
     <string name="chinese_month_june">6</string>
     <string name="chinese_month_march">3</string>
     <string name="chinese_month_may">5</string>
-    <string name="chinese_month_november">Novembre</string>
+    <string name="chinese_month_november">11</string>
     <string name="chinese_month_october">10</string>
     <string name="chinese_month_september">9</string>
     <string name="chinese_symbol_animals_chicken">Pollo</string>
@@ -200,7 +199,6 @@ dd/MM"</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="exposed_dropdown_menu_content_description">Mostra menu a tendina</string>
     <string name="fmt_chinese_date">dd/MM</string>
-    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -220,7 +218,6 @@ dd/MM"</string>
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -233,21 +230,15 @@ dd/MM"</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
     <string name="fmt_time_minute_second">m:s</string>
     <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
     <string name="fmt_weekday_date">DW</string>
     <string name="fmt_weekday_date_time">DW T</string>
     <string name="fmt_weekday_date_time_timezone">zDW T</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
@@ -366,9 +357,6 @@ dd/MM"</string>
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
-    <string name="mtrl_picker_text_input_day_abbr">d</string>
-    <string name="mtrl_picker_text_input_month_abbr">m</string>
-    <string name="mtrl_picker_text_input_year_abbr">a</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a modalità inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa a modalità inserimento testo</string>
@@ -449,6 +437,7 @@ wonderful is about to happen"</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="standard_clock_panel">Normale</string>
     <string name="standard_style">Normale</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">Il conteggio dei passaggi è fornito da Xiaomi Health. Accetta
  i termini e le condizioni di Salute per continuare.</string>
     <string name="step_component_info_desc">Il conteggio dei passi si trasformerà in un trofeo quando il tuo obiettivo sarà raggiunto. Il conteggio dei passi è fornito da Xiaomi Health.</string>
@@ -516,9 +505,7 @@ dd/MM"</string>
     <string name="thursday_shortest">Gio</string>
     <string name="time_location">Posizione orologio</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="time_picker_label_hour">O</string>
-    <string name="time_picker_label_minute">M</string>
-    <string name="time_style">Stile orario</string>
+    <string name="time_style">Stile Libero</string>
     <string name="time_style_layout">Disposizione</string>
     <string name="tip_to_open_aod_mode">Always-on display è spento. Attivarlo?</string>
     <string name="today">Oggi</string>

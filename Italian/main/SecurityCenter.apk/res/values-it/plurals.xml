@@ -40,6 +40,14 @@
         <item quantity="other">%d giochi aggiunti</item>
         <item quantity="one">%d gioco aggiunto</item>
     </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d app</item>
+        <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d app</item>
+        <item quantity="one">%d app</item>
+    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">Permesso %3$d volte tra le %1$s e le %2$s</item>
         <item quantity="one">Permesso %3$d volta tra le %1$s e le %2$s</item>
@@ -107,10 +115,6 @@
     <plurals name="app_manager_uninstall_notify_summary">
         <item quantity="other">Disinstalla %d app</item>
         <item quantity="one">Disinstalla %d app</item>
-    </plurals>
-    <plurals name="app_manager_updater_notify_title">
-        <item quantity="other">Aggiornamenti per %d app disponibili</item>
-        <item quantity="one">Aggiornamento per %d app disponibile</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Non utilizzata da %d giorni</item>
@@ -243,6 +247,10 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
     <plurals name="gb_signed_days_sum">
         <item quantity="other">Registrato %d giorni di seguito</item>
         <item quantity="one">Registrato %d volta</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Ho capito (%ds)</item>
+        <item quantity="one">Ho capito (%ds)</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="one">"Prova a cambiare voce ora

@@ -34,35 +34,6 @@
         <item>La sveglia si spegnerà tra %2$s e %3$s.</item>
         <item>Sveglia si spegnerà tra %1$s %2$s e %3$s.</item>
     </string-array>
-    <string-array name="alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>Ven</item>
-        <item>G</item>
-        <item>O</item>
-        <item>I</item>
-        <item>G</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>A</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
         <item>A</item>
@@ -70,11 +41,11 @@
         <item>C</item>
         <item>D</item>
         <item>E</item>
-        <item>Ven</item>
+        <item>F</item>
         <item>G</item>
-        <item>O</item>
+        <item>H</item>
         <item>I</item>
-        <item>G</item>
+        <item>J</item>
         <item>K</item>
         <item>L</item>
         <item>M</item>
@@ -89,7 +60,7 @@
         <item>V</item>
         <item>W</item>
         <item>X</item>
-        <item>A</item>
+        <item>Y</item>
         <item>Z</item>
         <item>\#</item>
     </string-array>
@@ -795,34 +766,6 @@
         <item>Totale %1$s %3$s</item>
         <item>Totale %2$s %3$s</item>
         <item>Totale %1$s %2$s %3$s</item>
-    </string-array>
-    <string-array name="timezone_alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>Ven</item>
-        <item>G</item>
-        <item>O</item>
-        <item>I</item>
-        <item>G</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>A</item>
-        <item>Z</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
         <item>Non fare nulla</item>

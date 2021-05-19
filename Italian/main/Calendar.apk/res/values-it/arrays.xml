@@ -1,70 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="account_sync_frequency">
-    <item>Manuale</item>
-    <item>Ogni 15 minuti</item>
-    <item>Ogni ora</item>
-    <item>Ogni 4 ore</item>
-    <item>Ogni 12 ore</item>
-  </string-array>
-  <string-array name="alphabet_table">
-    <item>A</item>
-    <item>B</item>
-    <item>C</item>
-    <item>D</item>
-    <item>E</item>
-    <item>Ven</item>
-    <item>G</item>
-    <item>O</item>
-    <item>I</item>
-    <item>G</item>
-    <item>K</item>
-    <item>L</item>
-    <item>M</item>
-    <item>N</item>
-    <item>O</item>
-    <item>P</item>
-    <item>Q</item>
-    <item>R</item>
-    <item>S</item>
-    <item>T</item>
-    <item>U</item>
-    <item>V</item>
-    <item>W</item>
-    <item>X</item>
-    <item>A</item>
-    <item>Z</item>
-    <item>\#</item>
-  </string-array>
-  <string-array name="alphabet_table_with_starred">
-    <item>!</item>
-    <item>A</item>
-    <item>B</item>
-    <item>C</item>
-    <item>D</item>
-    <item>E</item>
-    <item>Ven</item>
-    <item>G</item>
-    <item>O</item>
-    <item>I</item>
-    <item>G</item>
-    <item>K</item>
-    <item>L</item>
-    <item>M</item>
-    <item>N</item>
-    <item>O</item>
-    <item>P</item>
-    <item>Q</item>
-    <item>R</item>
-    <item>S</item>
-    <item>T</item>
-    <item>U</item>
-    <item>V</item>
-    <item>W</item>
-    <item>X</item>
-    <item>A</item>
-    <item>Z</item>
-    <item>\#</item>
+  <string-array name="additional_cal_dialog_labels">
+    <item>Nessuno</item>
+    <item>Hijri Samvat</item>
+    <item>Shaka Samvat</item>
+    <item>Vikrami Samvat</item>
   </string-array>
   <string-array name="aqi_level_simple_desc">
     <item>Eccellente</item>
@@ -75,22 +15,26 @@
     <item>Estremamente Inquinato</item>
   </string-array>
   <string-array name="aquarius_info">
-    <item>aquarius</item>
+    <item>acquario</item>
     <item>Acquario</item>
     <item>20/1 - 18/2</item>
   </string-array>
   <string-array name="aries_info">
-    <item>aries</item>
+    <item>ariete</item>
     <item>Ariete</item>
     <item>21/3 - 19/4</item>
   </string-array>
+  <string-array name="bundesliga">
+    <item>2</item>
+    <item>Bundesliga</item>
+  </string-array>
   <string-array name="cancer_info">
-    <item>cancer</item>
+    <item>cancro</item>
     <item>Cancro</item>
     <item>22/6 - 22/7</item>
   </string-array>
   <string-array name="capricorn_info">
-    <item>capricorn</item>
+    <item>capricorno</item>
     <item>Capricorno</item>
     <item>22/12 - 19/1</item>
   </string-array>
@@ -98,31 +42,86 @@
     <item>Solo questo evento</item>
     <item>Tutti gli eventi della serie</item>
   </string-array>
-  <string-array name="close_alarm_repeating_labels">
-    <item>Solo epr questa volta</item>
-    <item>Disattiva promemoria ripetuti</item>
-  </string-array>
   <string-array name="date_calculate_spinner">
     <item>Avanti</item>
     <item>Indietro</item>
   </string-array>
+  <string-array name="dates">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>11</item>
+    <item>12</item>
+    <item>13s</item>
+    <item>14</item>
+    <item>15</item>
+    <item>16</item>
+    <item>17</item>
+    <item>18</item>
+    <item>19</item>
+    <item>20</item>
+    <item>21</item>
+    <item>22</item>
+    <item>23</item>
+    <item>24</item>
+    <item>25</item>
+    <item>26</item>
+    <item>27</item>
+    <item>28</item>
+    <item>29</item>
+    <item>30</item>
+    <item>31</item>
+  </string-array>
+  <string-array name="dates_eng">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+    <item>9</item>
+    <item>10</item>
+    <item>11</item>
+    <item>12</item>
+    <item>13s</item>
+    <item>14</item>
+    <item>15</item>
+    <item>16</item>
+    <item>17</item>
+    <item>18</item>
+    <item>19</item>
+    <item>20</item>
+    <item>21</item>
+    <item>22</item>
+    <item>23</item>
+    <item>24</item>
+    <item>25</item>
+    <item>26</item>
+    <item>27</item>
+    <item>28</item>
+    <item>29</item>
+    <item>30</item>
+    <item>31</item>
+  </string-array>
   <string-array name="default_reminder_labels">
     <item>All\'ora dell\'evento</item>
     <item>5 minuti prima</item>
-    <item>10 minuti prima</item>
     <item>15 minuti prima</item>
     <item>30 minuti prima</item>
     <item>1 ora prima</item>
+    <item>4 ore prima</item>
     <item>1 giorno prima</item>
     <item>2 giorni prima</item>
     <item>1 settimana prima</item>
-  </string-array>
-  <string-array name="default_reminder_later_time_labels">
-    <item>5 minuti</item>
-    <item>10 minuti</item>
-    <item>15 minuti</item>
-    <item>30 minuti</item>
-    <item>1 ora</item>
   </string-array>
   <string-array name="delete_repeating_labels">
     <item>Solo questo evento</item>
@@ -140,6 +139,24 @@
     <item>Geng</item>
     <item>Ren</item>
     <item>Gui</item>
+  </string-array>
+  <string-array name="english_complete_months">
+    <item>Gennaio</item>
+    <item>Febbraio</item>
+    <item>Marzo</item>
+    <item>Aprile</item>
+    <item>Maggio</item>
+    <item>Giugno</item>
+    <item>Luglio</item>
+    <item>Agosto</item>
+    <item>Settembre</item>
+    <item>Ottobre</item>
+    <item>Novembre</item>
+    <item>Dicembre</item>
+  </string-array>
+  <string-array name="english_premium_league">
+    <item>4</item>
+    <item>@string/english_premium_league</item>
   </string-array>
   <string-array name="fortune_gender">
     <item>男</item>
@@ -159,66 +176,94 @@
     <item>10-01-1982</item>
   </string-array>
   <string-array name="gemini_info">
-    <item>gemini</item>
+    <item>gemelli</item>
     <item>Gemelli</item>
     <item>21/5 - 21/6</item>
   </string-array>
+  <string-array name="global_criket_match">
+    <item>Internazionali</item>
+    <item>IPL</item>
+    <item>In Casa</item>
+    <item>Lega T20</item>
+  </string-array>
+  <string-array name="hindi_horoscope_names">
+    <item>Mesha</item>
+    <item>Vrishabha</item>
+    <item>Mithun</item>
+    <item>Karka</item>
+    <item>Sinh</item>
+    <item>Kanya</item>
+    <item>Tula</item>
+    <item>Vruschika</item>
+    <item>Dhanu</item>
+    <item>Makar</item>
+    <item>Kumbha</item>
+    <item>Meena</item>
+  </string-array>
+  <string-array name="la_liga">
+    <item>3</item>
+    <item>La Liga</item>
+  </string-array>
   <string-array name="leo_info">
-    <item>leo</item>
+    <item>leone</item>
     <item>Leone</item>
     <item>23/7 - 22/8</item>
   </string-array>
   <string-array name="libra_info">
-    <item>libra</item>
+    <item>bilancia</item>
     <item>Bilancia</item>
     <item>23/9 - 23/10</item>
   </string-array>
-  <string-array name="open_alarm_repeating_labels">
-    <item>Solo epr questa volta</item>
-    <item>Imposta promemoria ripetuti</item>
+  <string-array name="ligue_1">
+    <item>5</item>
+    <item>Ligue 1</item>
+  </string-array>
+  <string-array name="panchang_weeks">
+    <item>Domenica</item>
+    <item>Lunedì</item>
+    <item>Martedì</item>
+    <item>Mercoledì</item>
+    <item>Giovedì</item>
+    <item>Venerdì</item>
+    <item>Sabato</item>
   </string-array>
   <string-array name="pisces_info">
-    <item>pisces</item>
+    <item>pesci</item>
     <item>Pesci</item>
     <item>19/2 - 20/3</item>
-  </string-array>
-  <string-array name="prefEntries_alerts_popup_new">
-    <item>Spenta</item>
-    <item>Per tutti gli eventi</item>
-    <item>Per eventi a tempo</item>
   </string-array>
   <string-array name="prefEntries_alerts_vibrateWhen">
     <item>Sempre</item>
     <item>Solo quando la suoneria è silenziata</item>
     <item>Mai</item>
   </string-array>
-  <string-array name="prefValues_alerts_popup">
-    <item>smart</item>
-    <item>all</item>
-    <item>smart</item>
-  </string-array>
   <string-array name="prefValues_alerts_vibrateWhen">
     <item>always</item>
     <item>silent</item>
     <item>never</item>
   </string-array>
-  <string-array name="preferences_default_reminder_later_time_values">
-    <item>300000</item>
-    <item>600000</item>
-    <item>900000</item>
-    <item>1800000</item>
-    <item>3600000</item>
-  </string-array>
   <string-array name="preferences_default_reminder_values">
     <item>0</item>
     <item>5</item>
-    <item>10</item>
     <item>15</item>
     <item>30</item>
     <item>60</item>
+    <item>240</item>
     <item>1440</item>
     <item>2880</item>
     <item>10080</item>
+  </string-array>
+  <string-array name="preferences_language_values">
+    <item>en</item>
+    <item>hi</item>
+    <item>ta</item>
+    <item>te</item>
+    <item>mr</item>
+    <item>bn</item>
+    <item>nm/h</item>
+    <item>gu</item>
+    <item>pa</item>
+    <item>ml</item>
   </string-array>
   <string-array name="preferences_week_start_day_labels">
     <item>Definito dalla regione</item>
@@ -359,24 +404,22 @@
     <item>Forse</item>
     <item>No</item>
   </string-array>
-  <string-array name="response_labels2">
-    <item>"Non rispondere"</item>
-    <item>Accetta</item>
-    <item>Decidi più tardi</item>
-    <item>Rifiuta</item>
-  </string-array>
   <string-array name="sagittarius_info">
-    <item>sagittarius</item>
+    <item>sagittario</item>
     <item>Sagittario</item>
     <item>23/11 - 21/12</item>
   </string-array>
   <string-array name="scorpio_info">
-    <item>scorpio</item>
+    <item>scorpione</item>
     <item>Scorpione</item>
     <item>24/10 - 22/11</item>
   </string-array>
+  <string-array name="serie_a">
+    <item>1</item>
+    <item>Serie A</item>
+  </string-array>
   <string-array name="taurus_info">
-    <item>taurus</item>
+    <item>toro</item>
     <item>Toro</item>
     <item>20/4 - 20/5</item>
   </string-array>
@@ -394,25 +437,25 @@
     <item>Xu</item>
     <item>Hai</item>
   </string-array>
-  <string-array name="timezone_labels_v3">
+  <string-array name="timezone_labels">
     <item>Isole Marshall</item>
-    <item>Isola di Midway</item>
+    <item>Midway Island</item>
     <item>Hawaii</item>
     <item>Alaska</item>
-    <item>Ora del Pacifico</item>
+    <item>Pacific Time</item>
     <item>Tijuana</item>
     <item>Arizona</item>
     <item>Chihuahua</item>
     <item>Mountain Time</item>
-    <item>America Centrale</item>
-    <item>Ora centrale</item>
+    <item>Central America</item>
+    <item>Central Time</item>
     <item>Città del Messico</item>
     <item>Saskatchewan</item>
     <item>Bogotá</item>
     <item>Eastern Time</item>
     <item>Venezuela</item>
-    <item>Fuso orario dell\'Atlantico (Barbados)</item>
-    <item>Fuso orario dell\'Atlantico (Canada)</item>
+    <item>Atlantic Time (Barbados)</item>
+    <item>Atlantic Time (Canada)</item>
     <item>Manaus</item>
     <item>Santiago</item>
     <item>Newfoundland</item>
@@ -424,19 +467,16 @@
     <item>Azores</item>
     <item>Capo Verde</item>
     <item>Casablanca</item>
-    <item>London</item>
-    <item>Dublin</item>
-    <item>Amsterdam</item>
-    <item>Berlin</item>
+    <item>London, Dublin</item>
+    <item>Amsterdam, Berlin</item>
     <item>Belgrade</item>
     <item>Brussels</item>
     <item>Sarajevo</item>
     <item>Windhoek</item>
     <item>W. Africa Time</item>
-    <item>Amman</item>
-    <item>Athens</item>
-    <item>Istanbul</item>
-    <item>Beirut</item>
+    <item>Amman, Jordan</item>
+    <item>Athens, Istanbul</item>
+    <item>Beirut, Lebanon</item>
     <item>Cairo</item>
     <item>Helsinki</item>
     <item>Jerusalem</item>
@@ -452,7 +492,7 @@
     <item>Yerevan</item>
     <item>Dubai</item>
     <item>Kabul</item>
-    <item>Karachi</item>
+    <item>Islamabad, Karachi</item>
     <item>"Ural'sk"</item>
     <item>Yekaterinburg</item>
     <item>Kolkata</item>
@@ -463,23 +503,21 @@
     <item>Krasnoyarsk</item>
     <item>Bangkok</item>
     <item>Pechino</item>
-    <item>Chongqing</item>
     <item>Hong Kong</item>
-    <item>Macau</item>
+    <item>Macao</item>
     <item>Singapore</item>
     <item>Irkutsk</item>
     <item>Kuala Lumpur</item>
     <item>Perth</item>
     <item>Taipei</item>
     <item>Seoul</item>
-    <item>Tokyo</item>
+    <item>Tokyo, Osaka</item>
     <item>Yakutsk</item>
     <item>Adelaide</item>
     <item>Darwin</item>
     <item>Brisbane</item>
     <item>Hobart</item>
-    <item>Sydney</item>
-    <item>Canberra</item>
+    <item>Sydney, Canberra</item>
     <item>Vladivostok</item>
     <item>Guam</item>
     <item>Magadan</item>
@@ -494,10 +532,52 @@
     <item>6 ore prima</item>
     <item>1 giorno prima</item>
   </string-array>
+  <string-array name="vikrami_samvat_month_names">
+    <item>Chaitra</item>
+    <item>Vaishākha</item>
+    <item>Jyēshtha</item>
+    <item>Āshādha</item>
+    <item>Shrāvana</item>
+    <item>Bhaadra</item>
+    <item>Āshwin</item>
+    <item>Kārtika</item>
+    <item>Mārgaśīrṣa</item>
+    <item>Pausha</item>
+    <item>Māgha</item>
+    <item>Phalguna</item>
+  </string-array>
   <string-array name="virgo_info">
-    <item>virgo</item>
+    <item>vergine</item>
     <item>Vergine</item>
     <item>23/8 - 22/9</item>
+  </string-array>
+  <string-array name="weather_forecasts">
+    <item>Cancella</item>
+    <item>Nuvoloso</item>
+    <item>Coperto</item>
+    <item>Nebbia</item>
+    <item>Forte Temporale</item>
+    <item>Tempesta</item>
+    <item>Lieve Temporale</item>
+    <item>Forte temporale</item>
+    <item>Acquazzoni</item>
+    <item>Pioggia forte</item>
+    <item>Pioggia</item>
+    <item>Pioggia leggera</item>
+    <item>Pioggia e neve</item>
+    <item>Tormenta di neve</item>
+    <item>Nevicate</item>
+    <item>Tormenta di neve</item>
+    <item>Neve</item>
+    <item>Nevischio</item>
+    <item>Forte tempesta di sabbia</item>
+    <item>Tempesta di sabbia</item>
+    <item>Polvere</item>
+    <item>Tempesta di sabbia leggera</item>
+    <item>Grandine</item>
+    <item>Polveroso</item>
+    <item>Foschia</item>
+    <item>Pioggia gelata</item>
   </string-array>
   <string-array name="week_header_name">
     <item>DOM</item>
@@ -511,15 +591,6 @@
   <string-array name="widget_style_list">
     <item>Trasparente</item>
     <item>Sfondo bianco</item>
-  </string-array>
-  <string-array name="year_view_week_header_name">
-    <item>S</item>
-    <item>M</item>
-    <item>T</item>
-    <item>W</item>
-    <item>T</item>
-    <item>Ven</item>
-    <item>S</item>
   </string-array>
   <string-array name="year_view_week_header_name_other">
     <item>7</item>

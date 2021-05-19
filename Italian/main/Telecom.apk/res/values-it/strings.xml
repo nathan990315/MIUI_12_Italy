@@ -287,7 +287,7 @@
     <string name="decline_incoming_call">Rifiuta</string>
     <string name="delete_blob_confirmation_text">Sei sicuro di voler eliminare questi dati condivisi?</string>
     <string name="delete_blob_text">Elimina dati condivisi</string>
-    <string name="delete_icon_description">Annulla schermata</string>
+    <string name="delete_icon_description">Sblocca</string>
     <string name="dev_logpersist_clear_warning_message">Quando non monitoriamo più con il log persistente, chiediamo di eliminare i dati del log sul tuo dispositivo.</string>
     <string name="dev_logpersist_clear_warning_title">Cancellare l\'archiviazione log persistente?</string>
     <string name="dev_settings_warning_message">Queste impostazioni sono destinate esclusivamente al solo scopo di sviluppo. Possono causare la rottura o il malfunzionamento del dispositivo e delle applicazioni.</string>
@@ -306,6 +306,7 @@
     <string name="disabled">Disabilitato</string>
     <string name="disabled_by_admin">Disabilitato dall\'amministratore</string>
     <string name="disabled_by_admin_summary_text">Controllato dall\'amministratore</string>
+    <string name="do_not_show_again">"Non mostrare più"</string>
     <string name="duplicate_video_call_not_allowed">Impossibile aggiungere altre chiamate.</string>
     <string name="enable_account_preference_title">Account chiamate</string>
     <string name="enable_adb">Debug USB</string>
@@ -435,6 +436,7 @@
     <string name="notification_missedCallsMsg">%s chiamate perse</string>
     <string name="notification_missedCallsTitle">Chiamate perse</string>
     <string name="notification_missedWorkCallTitle">Chiamata lavoro persa</string>
+    <string name="number_tag_divider">" ｜ "</string>
     <string name="oem_unlock_enable">Sblocco OEM</string>
     <string name="oem_unlock_enable_summary">Permetti lo sblocco del bootloader</string>
     <string name="okay">OK</string>
@@ -464,6 +466,7 @@
     <string name="picture_color_mode_desc">Usa sRGB</string>
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s fino a completamento</string>
     <string name="power_discharge_by">Dovrebbe durare circa fino al %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Dovrebbe durare almeno fino a %1$s in base al tuo utilizzo (%2$s)</string>
@@ -492,8 +495,13 @@
     <string name="private_dns_mode_provider">DNS Hostname provider privato</string>
     <string name="private_dns_mode_provider_failure">"Connessione fallita"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
+    <string name="process_kernel_label">Sistema Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_hint">proxy.esempio.com</string>
+    <string name="proxy_port_hint">8000</string>
+    <string name="proxy_url_hint">https://www.esempio.com/proxy.pac</string>
     <string name="remaining_length_format">%1$s rimanenti</string>
     <string name="respond_via_sms_canned_response_1">"Ora non posso parlare. Che succede?"</string>
     <string name="respond_via_sms_canned_response_2">"Richiamo io al più presto"</string>
@@ -511,6 +519,8 @@
     <string name="runningservices_settings_summary">Visualizza e controlla i servizi attualmente in esecuzione</string>
     <string name="runningservices_settings_title">Servizi in esecuzione</string>
     <string name="saved_network">Salvato da %1$s</string>
+    <string name="scam_cancle">Annulla</string>
+    <string name="scam_ok">Chiama</string>
     <string name="screen_zoom_summary_custom">Personalizzato (%d)</string>
     <string name="screen_zoom_summary_default">Predefinita</string>
     <string name="screen_zoom_summary_extremely_large">Larghissimo</string>
@@ -551,6 +561,10 @@
     <string name="show_touches">Mostra pressioni</string>
     <string name="show_touches_summary">Mostra feedback visuali per pressioni</string>
     <string name="simulate_color_space">Simula lo spazio del colore</string>
+    <string name="softap_beacon_protection">Abilita Protezione SoftAp Beacon</string>
+    <string name="softap_beacon_protection_summary">Abilita Protezione SoftAp Beacon tramite Hotspot</string>
+    <string name="softap_ocv">Abilita SoftAp OCV</string>
+    <string name="softap_ocv_summary">Abilita SoftAp OCV tramite Hotspot</string>
     <string name="speed_label_fast">Veloce</string>
     <string name="speed_label_medium">Medio</string>
     <string name="speed_label_okay">OK</string>
@@ -618,7 +632,7 @@
     <string name="tts_status_ok">%1$s è completamente supportato</string>
     <string name="tts_status_requires_network">%1$s richiede una connessione di rete</string>
     <string name="tts_status_title">Stato lingua predefinita</string>
-    <string name="unblock_button">Annulla schermata</string>
+    <string name="unblock_button">Sblocca</string>
     <string name="unblock_dialog_body">Sbloccare %1$s?</string>
     <string name="unknown">Sconosciuto</string>
     <string name="usb_audio_disable_routing">Disabilita USB audio routing</string>
@@ -691,7 +705,7 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_disabled_generic">Disabilitato</string>
     <string name="wifi_disabled_network_failure">Configurazione IP fallita</string>
     <string name="wifi_disabled_password_failure">Problema di autenticazione</string>
-    <string name="wifi_disabled_wifi_failure">Errore Connessione Wi-Fi</string>
+    <string name="wifi_disabled_wifi_failure">Connessione Wi-Fi Fallita</string>
     <string name="wifi_disconnected">Disconnesso</string>
     <string name="wifi_display_certification">Certificazione schermo wireless</string>
     <string name="wifi_display_certification_summary">Mostra opzioni per certificazione schermo wireless</string>
@@ -706,6 +720,8 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_limited_connection">Connessione limitata</string>
     <string name="wifi_metered_label">Misurato</string>
     <string name="wifi_network_prefix_length_hint">24</string>
+    <string name="wifi_new_network_auto_connection">SSID Bridging ‐ Connessione Automatica</string>
+    <string name="wifi_new_network_auto_connection_summary">Abilita i tentativi di connessione automatica a un nuovo SSID WPA/WPA2‐PSK 5GHz con le credenziali SSID WPA/WPA2‐PSK 2GHz attualmente collegate su SSID e BSSID parziali</string>
     <string name="wifi_no_internet">Nessun accesso internet.</string>
     <string name="wifi_no_internet_no_reconnect">"Nessun accesso internet rilevato, la riconnessione non avverrà automaticamente."</string>
     <string name="wifi_not_in_range">Fuori portata</string>
@@ -762,6 +778,8 @@ Qualsiasi utente può aggiornare le app per tutti gli altri utenti."</string>
     <string name="wifi_wapi_fail_to_init">"Impossibile aprire i certificati WAPI L'archivio credenziali potrebbe non essere attivato"</string>
     <string name="wifi_wapi_psk_type">Tip di password</string>
     <string name="wifi_wapi_user_certificate">Certificato utente</string>
+    <string name="wifi_whitelist_roaming">SSID Bridging ‑ Fast Handover</string>
+    <string name="wifi_whitelist_roaming_summary">Abilita il roaming tra diversi SSID WPA/WPA2-PSK con lo stesso indirizzo MAC del gateway</string>
     <string name="window_animation_scale_title">Scala animazioni finestra</string>
     <string name="zen_alarm_warning">"Non sentirai la tua prossima sveglia %1$s"</string>
     <string name="zen_alarm_warning_indef">"Non sentirai la tua prossima sveglia %1$s a meno che non venga disattivata prima di allora"</string>

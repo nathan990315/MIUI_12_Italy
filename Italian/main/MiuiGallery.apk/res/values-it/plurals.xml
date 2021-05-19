@@ -280,6 +280,10 @@
         <item quantity="other">%1$d video in attesa di sincronizzazione</item>
         <item quantity="one">1 video da caricare</item>
     </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d foto</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">%1$d elementi totali</item>
         <item quantity="one">%1$d elemento totale</item>
@@ -523,5 +527,9 @@
     <plurals name="video_count_format">
         <item quantity="other">%1$d file</item>
         <item quantity="one">%1$d file</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
     </plurals>
 </resources>

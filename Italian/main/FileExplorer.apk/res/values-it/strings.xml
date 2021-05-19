@@ -33,6 +33,7 @@
     <string name="action_mode_select_all">Seleziona tutto</string>
     <string name="actionbar_button_up_description">Indietro</string>
     <string name="ad_download">Scarica</string>
+    <string name="add_one">(1)</string>
     <string name="add_private">Aggiungi file alle cartelle nascoste</string>
     <string name="add_private_files">Aggiungi file</string>
     <string name="afternoon">Pomeriggio</string>
@@ -54,7 +55,6 @@
     <string name="app_name_screenshot">Screenshot</string>
     <string name="big5_summary">Codifica predefinita del sistema Windows in Cinese tradizionale</string>
     <string name="big5_title">BIG5</string>
-    <string name="byteShort">B</string>
     <string name="can_not_send_with_too_many">"Impossibile inviare così tanti elementi"</string>
     <string name="cancel">Annulla</string>
     <string name="cancel_error">"Impossibile rimuovere, riprova"</string>
@@ -138,14 +138,14 @@
     <string name="chinese_month">Mese</string>
     <string name="chinese_month_april">4</string>
     <string name="chinese_month_august">8</string>
-    <string name="chinese_month_december">Dicembre</string>
+    <string name="chinese_month_december">12</string>
     <string name="chinese_month_february">2</string>
-    <string name="chinese_month_january">Gennaio</string>
+    <string name="chinese_month_january">1</string>
     <string name="chinese_month_july">7</string>
     <string name="chinese_month_june">6</string>
     <string name="chinese_month_march">3</string>
     <string name="chinese_month_may">5</string>
-    <string name="chinese_month_november">Novembre</string>
+    <string name="chinese_month_november">11</string>
     <string name="chinese_month_october">10</string>
     <string name="chinese_month_september">9</string>
     <string name="chinese_symbol_animals_chicken">Pollo</string>
@@ -219,6 +219,7 @@
     <string name="dialog_type_image">Immagini</string>
     <string name="dialog_type_text">Documenti</string>
     <string name="dialog_type_video">Video</string>
+    <string name="directory_info_divider">"  |  "</string>
     <string name="disk_available">Disponibile:</string>
     <string name="disk_total">Totale:</string>
     <string name="doc_all">Tutto</string>
@@ -280,6 +281,7 @@
     <string name="favorite_photo">Foto</string>
     <string name="favorite_ringtone">Suoneria</string>
     <string name="favorite_screen_cap">Screenshot</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">Lettura:</string>
     <string name="file_info_canwrite">Scrittura:</string>
     <string name="file_info_ishidden">Nascosto:</string>
@@ -291,7 +293,6 @@
     <string name="file_name_invalid">"I nomi dei file non possono contenere i seguenti caratteri: /\\:*?"</string>
     <string name="file_not_exist">"File inesistente"</string>
     <string name="fmt_chinese_date">dd/MM</string>
-    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -311,7 +312,6 @@
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -324,21 +324,15 @@
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
     <string name="fmt_time_minute_second">m:s</string>
     <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
     <string name="fmt_weekday_date">DW</string>
     <string name="fmt_weekday_date_time">DW T</string>
     <string name="fmt_weekday_date_time_timezone">zDW T</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
@@ -561,9 +555,6 @@
     <string name="mtrl_picker_text_input_date_hint">Data</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Data di fine</string>
     <string name="mtrl_picker_text_input_date_range_start_hint">Data di inizio</string>
-    <string name="mtrl_picker_text_input_day_abbr">d</string>
-    <string name="mtrl_picker_text_input_month_abbr">m</string>
-    <string name="mtrl_picker_text_input_year_abbr">a</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambia a modalità inserimento calendario</string>
     <string name="mtrl_picker_toggle_to_day_selection">Tocca cambia per scegliere un giorno</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Passa a modalità inserimento testo</string>
@@ -838,8 +829,6 @@
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="time_picker_label_hour">O</string>
-    <string name="time_picker_label_minute">M</string>
     <string name="tip">Attenzione</string>
     <string name="title_app_tags">Applicazioni</string>
     <string name="title_expire_video">Per scadere</string>

@@ -92,14 +92,14 @@
     <string name="chinese_month">Mese</string>
     <string name="chinese_month_april">4</string>
     <string name="chinese_month_august">8</string>
-    <string name="chinese_month_december">Dicembre</string>
+    <string name="chinese_month_december">12</string>
     <string name="chinese_month_february">2</string>
-    <string name="chinese_month_january">Gennaio</string>
+    <string name="chinese_month_january">1</string>
     <string name="chinese_month_july">7</string>
     <string name="chinese_month_june">6</string>
     <string name="chinese_month_march">3</string>
     <string name="chinese_month_may">5</string>
-    <string name="chinese_month_november">Novembre</string>
+    <string name="chinese_month_november">11</string>
     <string name="chinese_month_october">10</string>
     <string name="chinese_month_september">9</string>
     <string name="chinese_symbol_animals_chicken">Pollo</string>
@@ -197,8 +197,8 @@
 
   3. In che modo il testo trasferito dalla registrazione può essere più accurato?
   La registrazione su testo attualmente supporta solo la trascrizione in mandarino. La precisione dei risultati di trascrizione sarà influenzata dalla distanza, dall'ambiente, dagli accenti parlati e così via. Il tasso di precisione può variare notevolmente. Se desideri una trascrizione del testo più accurata, puoi scegliere di allontanarti dal tuo telefono cellulare."</string>
+    <string name="fm_record">Radio</string>
     <string name="fmt_chinese_date">dd/MM</string>
-    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -218,7 +218,6 @@
     <string name="fmt_date_time_timezone">zD T</string>
     <string name="fmt_date_timezone">zD</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -231,21 +230,15 @@
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
     <string name="fmt_time_minute_second">m:s</string>
     <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
     <string name="fmt_weekday_date">DW</string>
     <string name="fmt_weekday_date_time">DW T</string>
     <string name="fmt_weekday_date_time_timezone">zDW T</string>
     <string name="fmt_weekday_date_timezone">zDW</string>
     <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
@@ -363,9 +356,11 @@
     <string name="network_unavailable_tip">Controllare la connessione di rete e riprovare</string>
     <string name="new_record_name">Registra</string>
     <string name="night">Sera</string>
+    <string name="no_content">Nessun oggetto</string>
     <string name="no_file">Vuoto</string>
     <string name="no_network">"Impossibile connettersi alla rete"</string>
     <string name="noon">Mezzogiorno</string>
+    <string name="normal_settings_pref_title">Impostazioni generali</string>
     <string name="not_set">Non impostato</string>
     <string name="notification_message_all_paused">Potrebbe aumentare l\'utilizzo dei dati su rete cellulare.</string>
     <string name="notification_playback">Riproduzione in corso…</string>
@@ -403,6 +398,7 @@
     <string name="order_item_duration">Durata %s</string>
     <string name="order_item_number">Numero d\'ordine: %s</string>
     <string name="order_item_price">%s CNY</string>
+    <string name="other_settings_pref_title">Altre impostazioni</string>
     <string name="path_soundrecorder_setting">Applicazioni sistema/Registratore</string>
     <string name="pause">Pausa</string>
     <string name="pay_error_cancel">Pagamento annullato</string>
@@ -413,19 +409,14 @@
     <string name="pm">PM</string>
     <string name="preference_clear_data">Cancella dati</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
-    <string name="preference_enable_earpiece_summary">Permette di riprodurre la registrazione nell\'altoparlante utilizzato per le chiamate</string>
-    <string name="preference_enable_earpiece_title">Riproduci nell\'altoparlante</string>
     <string name="preference_led_indicator">Notifiche Schermata di blocco</string>
-    <string name="preference_led_indicator_prompt">Notifica la registrazione in corso a schermo spento</string>
     <string name="preference_online_orders">Ordini online</string>
     <string name="preference_recog_faqs">FAQ riconoscimento online</string>
     <string name="preference_recog_terms">Condizioni d\'uso</string>
-    <string name="preference_record_desktop_indicator_summary">Visualizza un indicatore blu nella schermata Home quando il registratore lavora in background</string>
     <string name="preference_record_desktop_indicator_title">Indicatore schermata home</string>
     <string name="preference_record_scenes_dialog_title">Selezionare una scena di registrazione</string>
     <string name="preference_scenes">Impostazioni scene</string>
     <string name="preference_silent_mode">Silenzia durante registrazione</string>
-    <string name="preference_status_bar_indicator_prompt">Mostra collegamento barra di stato durante la registrazione</string>
     <string name="preference_tip_rename">Rinomina al termine della registrazione</string>
     <string name="privacy_policy_title">Informativa sulla Privacy</string>
     <string name="recognition_button_add_to_queue">Aggiungi alla coda</string>
@@ -510,6 +501,7 @@
     <string name="record_name_hour">.</string>
     <string name="record_quliaty_preference_title">Qualità di registrazione</string>
     <string name="record_resotre">Ripristina registrazioni</string>
+    <string name="recorder_record">Audio</string>
     <string name="recording">Registrazione</string>
     <string name="recording_quality_high">Alta qualità</string>
     <string name="recording_quality_low">Bassa</string>
@@ -531,6 +523,7 @@
     <string name="reg_error_server">Errore interno del server, contattaci e riprova più tardi</string>
     <string name="reg_error_upload_audio">"Impossibile caricare audio, riprova più tardi"</string>
     <string name="reg_error_upload_order">"Impossibile caricare ordine, riprova più tardi"</string>
+    <string name="remind_settings_pref_title">Notifiche</string>
     <string name="remove_icon_description_content">"Registratore è un'app di sistema. Non sarai in grado di gestire le registrazioni dopo aver rimosso il collegamento della schermata Home."</string>
     <string name="remove_icon_description_title">Rimuovere \"Registratore\" dalla schermata Home?</string>
     <string name="rename">Rinomina</string>
@@ -538,7 +531,6 @@
     <string name="rename_duplicate">Nome già presente, inserire di nuovo:</string>
     <string name="rename_fail_tip">"Impossibile rinominare. Esiste già un elemento con questo nome."</string>
     <string name="rename_no_more_tip">"Non mostrare più"</string>
-    <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.RECORD_AUDIO;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
     <string name="retry">Riprova</string>
     <string name="runtime_permission_ungranted">"Impossibile utilizzare il Registratore per mancanza di autorizzazioni"</string>
     <string name="saturday">Sabato</string>
@@ -548,7 +540,6 @@
     <string name="save_record_dialog_title">Salva registrazione</string>
     <string name="search_app">Registratore</string>
     <string name="search_empty">"Impossibile trovare risultati"</string>
-    <string name="search_enable_earpiece_title">Riproduci nell\'altoparlante</string>
     <string name="search_hint">Cerca</string>
     <string name="search_led_indicator">Notifiche Schermata di blocco</string>
     <string name="search_led_indicator_prompt">Durante la registrazione, mostra nella barra di stato e con notifica su Schermata di blocco</string>
@@ -564,7 +555,6 @@
     <string name="shortcut_records">Registrazioni</string>
     <string name="shortcut_start_record">Avvia registrazione</string>
     <string name="shortcut_stop_record">Interrompi registrazione</string>
-    <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
@@ -607,6 +597,7 @@
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="tap_to_record">Tocca l\'icona per avviare una registrazione.​</string>
     <string name="text_btn_backward_3_seconds">Riavvolgi di 3 secondi</string>
     <string name="text_btn_complete">Interrompi</string>
     <string name="text_btn_forward_3_seconds">Avanza di 3 secondi</string>
@@ -667,8 +658,6 @@
     <string name="thursday_short">Gio</string>
     <string name="thursday_shortest">Gio</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="time_picker_label_hour">O</string>
-    <string name="time_picker_label_minute">M</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
@@ -700,6 +689,7 @@
     <string name="wednesday_shortest">Mer</string>
     <string name="wifi_recommended_body" formatted="false">L\'utilizzo della rete dati cellulare per il download di questo file (%s) aumenterà il consumo dei dati. Se superi il limite previsto dal piano del tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il download di questo file tocca %s.</string>
     <string name="wifi_recommended_title">Avviso utilizzo dati</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Non adesso</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>

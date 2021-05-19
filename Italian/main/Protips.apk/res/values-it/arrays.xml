@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="tips">
+        <item>"Vedi tutte le tue app.
+ Tocca l'icona Launcher. @drawable/all_apps"</item>
+        <item>"Trascina le app nella tua schermata iniziale.
+ Tocca e tieni premuta un'app nel Launcher fino a quando non vibra."</item>
+        <item>"Riorganizza la schermata Home.
+ Tocca e tieni premuto un elemento e quando vibra, trascinalo dove vuoi."</item>
+        <item>"Rimuovi elementi.
+ Tocca e tieni premuto un elemento e quando vibra, trascinalo sull'icona del cestino. @drawable/cestino"</item>
+        <item>"Schermate home multiple.
+ Scorri verso sinistra o verso destra per cambiare schermata. Trascina gli elementi trascinandoli sui bordi."</item>
+        <item>"Ti sei stancato di questo widget?
+ Tocca e tieni premuto e quando vibra, trascinalo sull'icona del cestino."</item>
+    </string-array>
     <string-array name="tips2">
         <item>"La Home è un giardino 
 Tieni premuto su una casella vuota 
