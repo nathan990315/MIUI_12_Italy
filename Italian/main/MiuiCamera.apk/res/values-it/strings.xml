@@ -447,11 +447,6 @@
     <string name="beauty_fragment_tab_name_beauty">Filtro bellezza</string>
     <string name="beauty_fragment_tab_name_makeup">Avanzate</string>
     <string name="beauty_fragment_tab_name_makeups">Trucco</string>
-    <string name="beauty_level_1">1</string>
-    <string name="beauty_level_2">2</string>
-    <string name="beauty_level_3">3</string>
-    <string name="beauty_level_4">4</string>
-    <string name="beauty_level_5">5</string>
     <string name="beauty_makeups_bluefemale">Gelo</string>
     <string name="beauty_makeups_gentleman">Argento</string>
     <string name="beauty_makeups_nude">Nude</string>
@@ -487,7 +482,6 @@
     <string name="camera_liveshot_off_tip">Scatti dinamici disattivati</string>
     <string name="camera_liveshot_on_tip">Scatti dinamici</string>
     <string name="camera_mode_options">Modalità</string>
-    <string name="camera_new_slow_motion_quality_default">5</string>
     <string name="camera_setting">Fotocamera</string>
     <string name="camera_settings_category_development">Funzioni sperimentali</string>
     <string name="camera_settings_label">Fotocamera</string>
@@ -1382,7 +1376,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_ai_scene_title">Scena IA</string>
     <string name="pref_camera_ai_shutter_description">Seleziona automaticamente il momento migliore quando premi il pulsante di scatto</string>
     <string name="pref_camera_ai_shutter_title">Scatto IA</string>
-    <string name="pref_camera_antibanding_default">1</string>
     <string name="pref_camera_antibanding_entry_0">Spenta</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -1400,14 +1393,10 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
     <string name="pref_camera_auto_hibernation">Scatta con schermo spento</string>
     <string name="pref_camera_auto_hibernation_description">Durante la ripresa, disattiva lo schermo dopo %d minuti di inattività per risparmiare batteria</string>
-    <string name="pref_camera_autoexposure_default">1</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Media ponderata al centro</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Multi-Zona</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Misurazione a punto</string>
     <string name="pref_camera_autoexposure_title">Esposizione automatica</string>
-    <string name="pref_camera_autoexposure_value_centerweighted">1</string>
-    <string name="pref_camera_autoexposure_value_frameaverage">0</string>
-    <string name="pref_camera_autoexposure_value_spotmetering">2</string>
     <string name="pref_camera_auxiliary_close">Spenta</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Verifica dell\'esposizione</string>
     <string name="pref_camera_auxiliary_focus_peak">Focalizzazione Focus</string>
@@ -1417,7 +1406,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_beautify_entry_normal">Medio</string>
     <string name="pref_camera_beauty">Filtro bellezza</string>
     <string name="pref_camera_beauty_deep">Bellezza profonda</string>
-    <string name="pref_camera_coloreffect_default">smart</string>
     <string name="pref_camera_coloreffect_entry_big_face">Diffuso</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">B/N</string>
     <string name="pref_camera_coloreffect_entry_fisheye">Fish-eye</string>
@@ -1438,7 +1426,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_coloreffect_entry_vsco_f2">Opaco</string>
     <string name="pref_camera_coloreffect_title">Filtri</string>
     <string name="pref_camera_common_settings">Impostazioni generali</string>
-    <string name="pref_camera_contrast_default">5</string>
     <string name="pref_camera_contrast_title">Contrasto</string>
     <string name="pref_camera_delay_capture_10s">Ritardo %ds</string>
     <string name="pref_camera_delay_capture_3s">Ritardo %ds</string>
@@ -1456,7 +1443,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_eis_entry_off">Spenta</string>
     <string name="pref_camera_eis_entry_pro">EIS Pro</string>
     <string name="pref_camera_eis_title">EIS</string>
-    <string name="pref_camera_exposuretime_default">0</string>
     <string name="pref_camera_exposuretime_entry_0_3">0.3s</string>
     <string name="pref_camera_exposuretime_entry_0_4">0.4s</string>
     <string name="pref_camera_exposuretime_entry_0_5">0.5s</string>
@@ -1546,7 +1532,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_focusmode_entry_manual">Manuale</string>
     <string name="pref_camera_focusmode_entry_normal">Normale</string>
     <string name="pref_camera_focusmode_title">Modalità Concentrazione</string>
-    <string name="pref_camera_focusmode_value_default">Immagine continua</string>
     <string name="pref_camera_front_ai_scene_entry_off">IA disattivata</string>
     <string name="pref_camera_front_ai_scene_entry_on">Scena IA</string>
     <string name="pref_camera_front_bokeh_entry_off">Spenta</string>
@@ -1570,19 +1555,15 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_high_quality_preferred_title">Migliora la qualità dell\'immagine</string>
     <string name="pref_camera_histogram_entry_disable">Disattiva</string>
     <string name="pref_camera_histogram_entry_enable">Attiva</string>
-    <string name="pref_camera_iso_default">0</string>
     <string name="pref_camera_iso_entry_auto">AUTO</string>
     <string name="pref_camera_iso_entry_auto_abbr">AUTO</string>
     <string name="pref_camera_iso_entry_iso100">100</string>
     <string name="pref_camera_iso_title">ISO</string>
     <string name="pref_camera_iso_title_abbr">ISO</string>
-    <string name="pref_camera_iso_value_auto">0</string>
-    <string name="pref_camera_iso_value_iso100">100</string>
     <string name="pref_camera_jpegquality_entry_high">Alta</string>
     <string name="pref_camera_jpegquality_entry_low">Bassa</string>
     <string name="pref_camera_jpegquality_entry_normal">Normale</string>
     <string name="pref_camera_jpegquality_title">Qualità</string>
-    <string name="pref_camera_jpegquality_value_normal">normale</string>
     <string name="pref_camera_live_sticker_internal_title">Strumenti magici</string>
     <string name="pref_camera_long_press_shutter_feature_title">Tieni premuto il tasto di scatto</string>
     <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
@@ -1601,7 +1582,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_manual_mode_title">Manuale</string>
     <string name="pref_camera_manually_exposure_value_abbr">EV</string>
     <string name="pref_camera_mfnr_sat_enable_title">Attiva MFNR</string>
-    <string name="pref_camera_movie_solid_default">vero</string>
     <string name="pref_camera_movie_solid_title">Stabilizzazione video</string>
     <string name="pref_camera_multilevel_entry_high">Alta</string>
     <string name="pref_camera_multilevel_entry_higher">Più alto</string>
@@ -1650,7 +1630,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_reference_capture_title_left_golden_spiral">Spirale dorata A</string>
     <string name="pref_camera_reference_capture_title_right_golden_spiral">Spirale dorata B</string>
     <string name="pref_camera_referenceline_title">Griglia</string>
-    <string name="pref_camera_saturation_default">3</string>
     <string name="pref_camera_saturation_title">Saturazione</string>
     <string name="pref_camera_scenemode_entry_auto">Auto</string>
     <string name="pref_camera_scenemode_entry_backlight">Retroilluminazione</string>
@@ -1669,7 +1648,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_settings">Dispositivo</string>
     <string name="pref_camera_settings_category">Impostazioni fotocamera</string>
     <string name="pref_camera_settings_title">Impostazioni</string>
-    <string name="pref_camera_sharpness_default">1</string>
     <string name="pref_camera_sharpness_title">Definizione</string>
     <string name="pref_camera_show_gender_age_config_title">Età e genere</string>
     <string name="pref_camera_show_gender_age_entry_alias">Mostra fascia di età</string>
@@ -1725,7 +1703,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
     <string name="pref_camera_volumekey_function_title">Comportamento tasti volume</string>
     <string name="pref_camera_watermark_title">Aggiungi data</string>
-    <string name="pref_camera_whitebalance_default">1</string>
     <string name="pref_camera_whitebalance_entry_auto">AUTO</string>
     <string name="pref_camera_whitebalance_entry_auto_abbr">AUTO</string>
     <string name="pref_camera_whitebalance_entry_cloudy">Nuvoloso</string>
@@ -1766,7 +1743,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_e_c_t_j">Audio originale</string>
     <string name="pref_e_p_k">Microfono esterno</string>
     <string name="pref_e_p_s_n">Registra il suono tramite microfono esterno quando auricolari Bluetooth equipaggiati con microfono sono collegati</string>
-    <string name="pref_exposure_default">0</string>
     <string name="pref_face_beauty_title">Filtro bellezza</string>
     <string name="pref_fingerprint_capture_title">Scatto con impronta</string>
     <string name="pref_front_denoise_summary">Ridurre il rumore generato dalla fotocamera anteriore</string>
@@ -1793,10 +1769,8 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_live_duration_title">Durata dal vivo</string>
     <string name="pref_menu_ai_ultra_pixel_photography">IA %s</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
-    <string name="pref_mi_front_video_quality_default">6</string>
     <string name="pref_module_settings">Modalità</string>
     <string name="pref_more_mode_style_title">Modalità Fotocamera</string>
-    <string name="pref_mtk_video_quality_default">10</string>
     <string name="pref_multi_camera_dual_video_front">Test Fotocamera anteriore</string>
     <string name="pref_multi_camera_dual_video_remote">Registrazione a doppio telefono</string>
     <string name="pref_n_s_a">Impostazioni audio</string>
@@ -1818,7 +1792,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_retain_camera_mode_summary">Passa alla modalità utilizzata precedentemente quando apri l\'app.</string>
     <string name="pref_retain_camera_mode_title">Salva modalità precedente</string>
     <string name="pref_s_n_r_s_c">Riduci il rumore nei video a seconda della scena</string>
-    <string name="pref_scan_qrcode_default">vero</string>
     <string name="pref_scan_qrcode_summary">Solo la fotocamera posteriore può scansionare codici QR</string>
     <string name="pref_scan_qrcode_title">Riconoscimento codice QR</string>
     <string name="pref_simple_hdr_entry_off">Spenta</string>
@@ -1855,7 +1828,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_video_hfr_entryvalue_default">1920x1080:120</string>
     <string name="pref_video_hfr_title">Video HFR</string>
     <string name="pref_video_quality_1080P">6</string>
-    <string name="pref_video_quality_default">6</string>
     <string name="pref_video_quality_entry_1080p">Full HD (1080p)</string>
     <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
     <string name="pref_video_quality_entry_480p">SD (480p)</string>
@@ -1865,7 +1837,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
     <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
     <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30fps</string>
-    <string name="pref_video_quality_entry_value_4kuhd">8</string>
     <string name="pref_video_quality_hfr_title">Frame rate e qualità foto</string>
     <string name="pref_video_quality_sub_1080p">FHD 1080p</string>
     <string name="pref_video_quality_sub_120fps">120fps</string>
@@ -1883,7 +1854,6 @@ Mantieni il soggetto nitido ed offusca lo sfondo."</string>
     <string name="pref_video_speed_fast_title">Time-lapse</string>
     <string name="pref_video_speed_slow_title">Slow-motion</string>
     <string name="pref_video_subtitle">Sottotitoli</string>
-    <string name="pref_video_time_lapse_frame_interval_default">120</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">Intervallo di 0.3 secondi (10x)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_120">Intervallo di 4 secondi (120x)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_150">Intervallo di 5 secondi (150x)</string>

@@ -371,9 +371,7 @@
     <string name="exo_download_notification_channel_name">Download</string>
     <string name="exo_download_removing">Rimozione download</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternato</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commento</string>
@@ -519,7 +517,6 @@ Per disattivare questa funzione, vai in Impostazioni &gt; Suoni e Vibrazione &gt
     <string name="incompatible_dialog_title">Problemi di compatibilità</string>
     <string name="install_failed">"Impossibile installare"</string>
     <string name="is_setting_wallpaper_message">Applico lo sfondo…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Sveglie</string>
     <string name="item_resource_audio_optional_color_ring">colore</string>
     <string name="item_resource_audio_optional_notification_ring">Notifiche</string>
@@ -847,7 +844,6 @@ mm"</string>
     <string name="resource_detail_recommend_desiner_other_themes">Altri temi realizzati da %1$s</string>
     <string name="resource_detail_recommend_other_themes">Ad altri utenti piace anche</string>
     <string name="resource_detail_update_log_title">Aggiornamenti</string>
-    <string name="resource_detail_vertical_divider">|</string>
     <string name="resource_detail_window_title">%1$s dettagli</string>
     <string name="resource_download">Scarica</string>
     <string name="resource_download_notification_title_one">%1$s Scaricato</string>
@@ -911,7 +907,6 @@ mm"</string>
     <string name="resource_pack_price_info">%1$s Originale</string>
     <string name="resource_pack_warning">"Hai già acquistato %1$d oggetti, il prezzo attuale non è più valido per gli oggetti rimanenti, acquistali individualmente."</string>
     <string name="resource_present">Regala</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratis</string>
     <string name="resource_price_unit"> Mi Credit</string>
     <string name="resource_purchase_common_error">Operazione fallita. Prova di nuovo.</string>
@@ -926,10 +921,6 @@ mm"</string>
     <string name="resource_restore">Ripristina</string>
     <string name="resource_restore_fail">"Impossibile ripristinare"</string>
     <string name="resource_restore_succ">Ripristino completato</string>
-    <string name="resource_ring_ranking_list_divider">-</string>
-    <string name="resource_ring_ranking_list_rank_1">1</string>
-    <string name="resource_ring_ranking_list_rank_2">2</string>
-    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Suoneria</string>
     <string name="resource_ringtone_playing_error">Errore</string>
     <string name="resource_ringtone_volume_mute">La suoneria è silenziata</string>
@@ -1087,7 +1078,6 @@ mm"</string>
     <string name="solar_term_white_dews">Rugiada bianca</string>
     <string name="solar_term_winter_begins">Inizio dell\'inverno</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
@@ -1228,7 +1218,6 @@ mm"</string>
     <string name="theme_is_external_priority_storage">Salva su scheda SD</string>
     <string name="theme_is_external_priority_storage_summary">L\'applicazione Temi verrà riavviata per applicare le modifiche</string>
     <string name="theme_multiple_button_title_customize">Impostazioni schede</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">No</string>
     <string name="theme_not_include_module_desc">"Questo tema non contiene i seguenti elementi: %s"</string>
     <string name="theme_on_the_phone_alert">"Impossibile riprodurre durante le telefonate"</string>
