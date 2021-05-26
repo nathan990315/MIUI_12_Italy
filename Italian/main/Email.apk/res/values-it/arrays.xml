@@ -159,6 +159,11 @@
         <item>più vecchio</item>
         <item>list</item>
     </string-array>
+    <string-array name="sign_in_dialog_item">
+        <item>Accesso al protocollo imap di Outlook oauth</item>
+        <item>IMAP (senza calendario)</item>
+        <item>EXCHANGE (con calendario)</item>
+    </string-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Sito:</item>

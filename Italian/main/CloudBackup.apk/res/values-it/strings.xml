@@ -430,6 +430,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="open_backup_switch">Attiva lo switch backup</string>
     <string name="other_device_main_space">Primo spazio</string>
     <string name="other_device_second_space">Secondo spazio</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">"Impossibile ripristinare gli elementi in modalità PC. Disattiva la modalità PC e riprova."</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
@@ -600,5 +602,6 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="yesterday">Ieri</string>
 </resources>

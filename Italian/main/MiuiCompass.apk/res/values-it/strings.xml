@@ -157,6 +157,7 @@
     <string name="evening">Pomeriggio</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="first_using_dialog_message">"La Bussola deve utilizzare la fotocamera per funzionare correttamente."</string>
+    <string name="first_using_dialog_message_no_camera">Bussola deve connettersi a internet e accedere alle informazioni sulla posizione per poter funzionare normalmente. Consenti?</string>
     <string name="first_using_dialog_title">Accesso alla fotocamera</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">dd</string>
@@ -300,6 +301,7 @@
     <string name="noon">Mezzogiorno</string>
     <string name="not_set">Non impostato</string>
     <string name="open_perm_msg">La bussola richiede gli accessi alle info della posizione ed alla camera. Queste sono necessarie per determinare le coordinate e per fornire previsioni in tempo reale. Procedere?</string>
+    <string name="open_perm_msg_no_camera">Bussola deve accedere alle informazioni sulla posizione per essere in grado di determinare le coordinate. Consenti?</string>
     <string name="open_perm_title">Permessi richiesti</string>
     <string name="permission_camera_desc">Per visualizzare azimuth sull\'anteprima live</string>
     <string name="permission_location_desc">Per mostrare le coordinate</string>

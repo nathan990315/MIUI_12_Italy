@@ -436,6 +436,7 @@
     <string name="notification_missedCallsMsg">%s chiamate perse</string>
     <string name="notification_missedCallsTitle">Chiamate perse</string>
     <string name="notification_missedWorkCallTitle">Chiamata lavoro persa</string>
+    <string name="number_tag_divider">" ｜ "</string>
     <string name="oem_unlock_enable">Sblocco OEM</string>
     <string name="oem_unlock_enable_summary">Permetti lo sblocco del bootloader</string>
     <string name="okay">OK</string>
@@ -465,6 +466,7 @@
     <string name="picture_color_mode_desc">Usa sRGB</string>
     <string name="pointer_location">Posizione puntatore</string>
     <string name="pointer_location_summary">Mostra attuali dati touch overlay schermo</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s fino a completamento</string>
     <string name="power_discharge_by">Dovrebbe durare circa fino al %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Dovrebbe durare almeno fino a %1$s in base al tuo utilizzo (%2$s)</string>
@@ -493,8 +495,13 @@
     <string name="private_dns_mode_provider">DNS Hostname provider privato</string>
     <string name="private_dns_mode_provider_failure">"Connessione fallita"</string>
     <string name="private_dns_mode_provider_hostname_hint">Inserisci l\'hostname del provider DNS</string>
+    <string name="process_kernel_label">Sistema Android</string>
     <string name="profile_connect_timeout_subtext">Problema di connessione. Disattiva il dispositivo e riprova</string>
     <string name="profile_info_settings_title">Info profilo</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_hint">proxy.esempio.com</string>
+    <string name="proxy_port_hint">8000</string>
+    <string name="proxy_url_hint">https://www.esempio.com/proxy.pac</string>
     <string name="remaining_length_format">%1$s rimanenti</string>
     <string name="respond_via_sms_canned_response_1">"Ora non posso parlare. Che succede?"</string>
     <string name="respond_via_sms_canned_response_2">"Richiamo io al più presto"</string>

@@ -8,6 +8,21 @@
   <string-array name="config_emergency_iso_country_codes">
     <item>in</item>
   </string-array>
+  <string-array name="config_globalActionsList">
+    <item>emergency</item>
+    <item>lockdown</item>
+    <item>potenza</item>
+    <item>restart</item>
+    <item>logout</item>
+    <item>bugreport</item>
+  </string-array>
+  <string-array name="config_locationProviderPackageNames">
+    <item>com.google.android.gms</item>
+    <item>com.android.location.fused</item>
+    <item>com.qualcomm.location</item>
+    <item>com.xiaomi.location.fused</item>
+    <item>com.xiaomi.metoknlp</item>
+  </string-array>
   <string-array name="config_nightDisplayColorTemperatureCoefficients">
     <item>0.0</item>
     <item>0.0</item>
@@ -29,6 +44,41 @@
     <item>-0.0000000189359041</item>
     <item>0.000302412211</item>
     <item>-0.198650895</item>
+  </string-array>
+  <string-array name="config_statusBarIcons">
+    <item>micphone</item>
+    <item>headset</item>
+    <item>mikey</item>
+    <item>call_record</item>
+    <item>privacy_mode</item>
+    <item>ble_unlock_mode</item>
+    <item>quiet</item>
+    <item>gps</item>
+    <item>missed_call</item>
+    <item>managed_profile</item>
+    <item>ime</item>
+    <item>sync_failing</item>
+    <item>sync_active</item>
+    <item>cast</item>
+    <item>location</item>
+    <item>bluetooth</item>
+    <item>bluetooth_handsfree_battery</item>
+    <item>nfc</item>
+    <item>tty</item>
+    <item>speakerphone</item>
+    <item>zen</item>
+    <item>silenzioso</item>
+    <item>volume</item>
+    <item>wifi</item>
+    <item>wimax</item>
+    <item>cdma_eri</item>
+    <item>data_connection</item>
+    <item>phone_evdo_signal</item>
+    <item>phone_signal</item>
+    <item>battery</item>
+    <item>alarm_clock</item>
+    <item>secure</item>
+    <item>clock</item>
   </string-array>
   <string-array name="emailAddressTypes">
     <item>Home</item>

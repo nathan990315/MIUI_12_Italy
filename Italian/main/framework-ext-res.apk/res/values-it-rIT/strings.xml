@@ -9,6 +9,7 @@
     <string name="application_cannot_open_alipay_health_code">"Impossibile aprire il codice sanitario Alipay"</string>
     <string name="application_cannot_open_alipay_payment_code">"Impossibile aprire il codice di pagamento Alipay"</string>
     <string name="application_cannot_open_alipay_scanner">"Impossibile aprire lo scanner Alipay"</string>
+    <string name="application_cannot_open_au_pay">Installa au PAY</string>
     <string name="application_cannot_open_weixin_health_code">"Impossibile aprire il codice sanitario WeChat"</string>
     <string name="application_cannot_open_weixin_payment_code">"Impossibile aprire il codice di pagamento WeChat"</string>
     <string name="application_cannot_open_weixin_scanner">"Impossibile aprire lo scanner WeChat"</string>
@@ -89,6 +90,11 @@
     <string name="device_type_pc">Computer</string>
     <string name="disable_nfc">NFC spento per la ricarica wireless</string>
     <string name="disable_nfc_reverse">NFC spento per la ricarica wireless inversa</string>
+    <string name="dock_tip_floatwindow">Trascina la barra sul bordo dello schermo per entrare in modalità schermo diviso.</string>
+    <string name="dock_tip_splitscreen_landscape_drag">Trascina orizzontalmente la barra per scambiare le posizioni delle finestre delle app.</string>
+    <string name="dock_tip_splitscreen_landscape_float">Premi e trascina verso il basso per passare a una finestra fluttuante.</string>
+    <string name="dock_tip_splitscreen_portrait_drag">Trascina la barra verticalmente per scambiare le posizioni delle app.</string>
+    <string name="dock_tip_splitscreen_portrait_float">Premi e trascina sul lato sinistro o destro dello schermo per passare a una finestra fluttuante.</string>
     <string name="double_click_power_key">smart</string>
     <string name="double_knock">smart</string>
     <string name="eighthours">8 ore</string>
@@ -165,6 +171,8 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="miaudiovisual_notification_title">Effetti audio e visivi</string>
     <string name="miui">miui</string>
     <string name="miui_forbid_poweroff_when_device_locked">"Impossibile spegnere. il dispositivo è bloccato"</string>
+    <string name="miui_multiwindow_not_support_small_window">"%1$s non supporta le finestre fluttuanti"</string>
+    <string name="miui_multiwindow_not_support_split">"%1$s non supporta lo schermo diviso"</string>
     <string name="miui_screen_ratio_hint">Problemi proporzioni schermo</string>
     <string name="miui_screen_ratio_hint_dont_show_again">"Non mostrare più"</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Vai alle impostazioni</string>
@@ -235,6 +243,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="resolver_offical_recommend">Ufficiale</string>
     <string name="resolver_other_method">Altre opzioni</string>
     <string name="resolver_recommend_options_tag">Opzioni suggerite</string>
+    <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
     <string name="resource_select">Scegli</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
@@ -298,6 +307,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="status_bar_toggle_gps">Test GPS</string>
     <string name="status_bar_toggle_lock">Blocca</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
+    <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
     <string name="status_bar_toggle_mute">Silenzia</string>
     <string name="status_bar_toggle_nfc">NFC</string>
     <string name="status_bar_toggle_paper_mode">Lettura</string>
@@ -346,6 +356,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="wifi_assistant_wifi_no_internet">Questa rete Wi-Fi non ha accesso a Internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Tocca per vedere i dettagli</string>
     <string name="wireless_charging_notification_message1">"Impossibile trovare dispositivi wireless da caricare. La ricarica wireless inversa è stata disattivata."</string>
+    <string name="wireless_charging_notification_message2">La batteria è inferiore al %s. La ricarica wireless inversa è stata disattivata.</string>
     <string name="wireless_charging_notification_message3">Si è verificato un errore durante la ricarica. La ricarica wireless inversa è stata disattivata.</string>
     <string name="wireless_charging_notification_titile">Ricarica wireless inversa disattivata</string>
     <string name="xiaomi">Mi</string>
