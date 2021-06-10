@@ -36,22 +36,6 @@
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
     </plurals>
-    <plurals name="fast_connect_headset_reset">
-        <item quantity="other">Tieni premuto il pulsante sulla custodia per %1$d secondi</item>
-        <item quantity="one">Tieni premuto il pulsante sulla custodia per %1$d secondo</item>
-    </plurals>
-    <plurals name="fast_connect_reset_air2_se">
-        <item quantity="other">Tieni premuto su qualsiasi area sensibile di tocco sulle cuffie per %1$d secondi</item>
-        <item quantity="one">Tieni premuto su qualsiasi area sensibile di tocco sulle cuffie per %1$d secondo</item>
-    </plurals>
-    <plurals name="fast_connect_reset_common_seconds">
-        <item quantity="other">Tieni premuto per %1$d sec per reimpostare</item>
-        <item quantity="one">Tieni premuto per %1$d sec per reimpostare</item>
-    </plurals>
-    <plurals name="fast_connect_reset_nzbt">
-        <item quantity="other">Tenere premuto il pulsante per %1$s secondi quando il dispositivo è spento</item>
-        <item quantity="one">Tenere premuto il pulsante per %1$s secondi quando il dispositivo è spento</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">mezz\'ora fa</item>
         <item quantity="other">mezz\'ora fa</item>
@@ -83,9 +67,5 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuti fa</item>
         <item quantity="one">1 minuto fa</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d dispositivi connessi</item>
-        <item quantity="one">%1$d dispositivo connesso</item>
     </plurals>
 </resources>

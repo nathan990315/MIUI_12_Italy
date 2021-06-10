@@ -188,6 +188,7 @@
     <string name="clock_date_time_format_seconds_24">HH:mm:ss</string>
     <string name="close">Chiudi</string>
     <string name="close_alarm">Disattiva</string>
+    <string name="close_alarm_new">Interrompi</string>
     <string name="common_settings">Impostazioni</string>
     <string name="common_timer_selector">Seleziona timer</string>
     <string name="confirm">Conferma</string>
@@ -501,6 +502,7 @@
     <string name="noon">Mezzogiorno</string>
     <string name="normal_settings">Impostazioni generali</string>
     <string name="not_set">Non impostato</string>
+    <string name="not_set_temporarily">Non ora</string>
     <string name="not_update">Non adesso</string>
     <string name="oneshot_alarm">Elimina dopo che ha suonato</string>
     <string name="open_keep_screen">La schermata sarà mantenuta attiva</string>
@@ -547,6 +549,7 @@
     <string name="set_alarm_choose_ringtone">Seleziona suoneria</string>
     <string name="set_alarm_done">Fatto</string>
     <string name="set_alarm_other">Altro</string>
+    <string name="set_now">Imposta</string>
     <string name="setting_alarm_arriving_subtitle">Mostra notifiche prima che la sveglia suoni</string>
     <string name="setting_alarm_arriving_summary">Invia una notifica prima di suonare</string>
     <string name="setting_alarm_arriving_title">Notifica prima di suonare</string>
@@ -564,6 +567,7 @@
     <string name="shutdown_alarm_enable_summary">"La sveglia si attiverà con dispositivo spento"</string>
     <string name="shutdown_alarm_title">Sveglia dopo spegnimento</string>
     <string name="silent_alarm_summary">Silenzia</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Disattiva una volta il %s</string>
     <string name="sleep_analysis">Statistiche</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -637,6 +641,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Nessun giro</string>
     <string name="stopwatch_reset_notification">Il cronometro è stato resettato</string>
     <string name="stopwatch_running_notification">Cronometro</string>
@@ -645,6 +650,7 @@
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Consenti a questa applicazione di connettersi ad internet per accedere a tutte le sue funzioni.</string>
     <string name="system_permission_main_purpose">Visualizzare l\'ora, impostare sveglie e timer, utilizzare il cronometro</string>
     <string name="system_permission_purpose">Creare sveglie settimanali e impostare suonerie personalizzate</string>
@@ -724,6 +730,7 @@
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
+    <string name="timer_got_it_new">Silenzia</string>
     <string name="timer_is_paused">Il timer è stato messo in pausa</string>
     <string name="timer_item_delete">Elimina</string>
     <string name="timer_item_duration_display">%1$d Min %2$d Sec</string>

@@ -217,12 +217,12 @@
         <item>National Computer Rank Examination 2</item>
     </string-array>
     <string-array name="magic_idp_size_category_profession">
-        <item>Primary and secondary school teacher certification</item>
-        <item>Teacher certification</item>
+        <item>Certificazione insegnante della scuola primaria e secondaria</item>
+        <item>Certificazione insegnante</item>
         <item>"Patente di guida"</item>
         <item>Permesso di guida</item>
         <item>Autorizzazione di guida elettronica</item>
-        <item>National judicial examination</item>
+        <item>Esame giuridico nazionale</item>
         <item>Electronic first-class constructor certificate</item>
         <item>Second-class constructor certificate</item>
         <item>Junior accounting title examination</item>
@@ -234,22 +234,22 @@
         <item>Certified public accountant examination</item>
     </string-array>
     <string-array name="magic_idp_size_category_visa">
-        <item>United States</item>
+        <item>Stati Uniti</item>
         <item>Vietnam</item>
         <item>Giappone</item>
         <item>Hong Kong e Macao</item>
-        <item>South Korea</item>
+        <item>Corea Del Sud</item>
         <item>Thailandia (turista)</item>
         <item>Thailandia (all\'arrivo)</item>
         <item>India</item>
-        <item>Israel</item>
+        <item>Israele</item>
         <item>Tailandia</item>
-        <item>Malaysia</item>
-        <item>New Zealand</item>
-        <item>Italy</item>
+        <item>Malesia</item>
+        <item>Nuova Zelanda</item>
+        <item>Italia</item>
         <item>Argentina</item>
-        <item>Brazil</item>
-        <item>Iceland</item>
+        <item>Brasile</item>
+        <item>Islanda</item>
         <item>Kenya</item>
     </string-array>
     <string-array name="magic_system_model">
@@ -257,6 +257,11 @@
         <item>Mi 10 Pro</item>
         <item>Mi 11</item>
         <item>Mi 11 Pro</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Sposta</item>
+        <item>Copia</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Gennaio</item>
@@ -311,6 +316,15 @@
         <item>Compagni di classe</item>
         <item>Amici</item>
         <item>Non raggruppato</item>
+    </string-array>
+    <string-array name="relation_with_me_value">
+        <item>myself</item>
+        <item>child</item>
+        <item>family</item>
+        <item>collegue</item>
+        <item>classmate</item>
+        <item>friend</item>
+        <item>sconosciuto</item>
     </string-array>
     <string-array name="season">
         <item>Primavera</item>

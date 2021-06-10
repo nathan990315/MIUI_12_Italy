@@ -504,6 +504,14 @@
         <item quantity="other">%d elementi</item>
         <item quantity="one">%d elemento</item>
     </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">Sincronizzate %d foto</item>
+        <item quantity="one">Sincronizzata %d foto</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">Sincronizzati %d video</item>
+        <item quantity="one">Sincronizzato %d video</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">"Non potrai ripristinare %d elementi selezionati se li elimini. Eliminare comunque?"</item>
         <item quantity="one">"Non sarai in grado di ripristinare %d elemento selezionato se lo elimini. Eliminare comunque?"</item>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="absent_num">
+        <item>NUMERO ASSENTE</item>
+        <item>ABSENTNUMBER</item>
+    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Animazioni disattivate</item>
         <item>Scala animazione .5x</item>
@@ -191,7 +195,7 @@
         <item>1</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Home only</item>
+        <item>Solo domestica</item>
         <item>Automatico</item>
     </string-array>
     <string-array name="cdma_system_select_values">
@@ -217,6 +221,12 @@
         <item>Vivace (predefinito)</item>
         <item>Naturale</item>
         <item>Normale</item>
+    </string-array>
+    <string-array name="config_rcs_provision_error_on_publish_response">
+        <item>404 non trovato</item>
+    </string-array>
+    <string-array name="config_volte_provision_error_on_publish_response">
+        <item>403 non autorizzato</item>
     </string-array>
     <string-array name="connect_disconnect_vibrate_entry_values">
         <item>100</item>
@@ -278,6 +288,11 @@
         <item>9</item>
         <item>0</item>
         <item>1</item>
+    </string-array>
+    <string-array name="enhanced_4g_lte_mode_title_variant">
+        <item>@string/enhanced_4g_lte_mode_title</item>
+        <item>Chiamata Avanzata</item>
+        <item>Chiamata 4G</item>
     </string-array>
     <string-array name="fiveg_network_mode_entry_values">
         <item>0</item>
@@ -346,7 +361,7 @@
         <item>Giapponese</item>
         <item>Coreano</item>
         <item>Cinese</item>
-        <item>Hebrew</item>
+        <item>Ebraico</item>
     </string-array>
     <string-array name="list_language_values">
         <item>1</item>
@@ -554,11 +569,11 @@
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Spenta</item>
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
+        <item>64K per buffer log</item>
+        <item>256K per buffer log</item>
+        <item>1M per buffer log</item>
+        <item>4M per buffer log</item>
+        <item>16M per buffer log</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Spenta</item>
@@ -572,13 +587,19 @@
         <item>Spenta</item>
         <item>Tutti i buffer di log</item>
         <item>Tutti tranne i buffer di registro radio</item>
-        <item>kernel log buffer only</item>
+        <item>solo buffer log del kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Spenta</item>
         <item>Tutto</item>
         <item>Tutti tranne radio</item>
-        <item>kernel only</item>
+        <item>solo kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_values">
+        <item></item>
+        <item>tutti</item>
+        <item>default,security,kernel</item>
+        <item>kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Spenta</item>

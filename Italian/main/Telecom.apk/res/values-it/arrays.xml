@@ -249,11 +249,11 @@
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Spenta</item>
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
+        <item>64K per buffer log</item>
+        <item>256K per buffer log</item>
+        <item>1M per buffer log</item>
+        <item>4M per buffer log</item>
+        <item>16M per buffer log</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Spenta</item>
@@ -267,13 +267,13 @@
         <item>Spenta</item>
         <item>Tutti i buffer di log</item>
         <item>Tutti tranne i buffer di registro radio</item>
-        <item>kernel log buffer only</item>
+        <item>solo buffer log del kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Spenta</item>
         <item>Tutto</item>
         <item>Tutti tranne radio</item>
-        <item>kernel only</item>
+        <item>solo kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Spenta</item>

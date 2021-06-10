@@ -77,7 +77,9 @@
     <string name="ad_more">Altro</string>
     <string name="add_search_channel_link">URL</string>
     <string name="add_search_channel_name">Nome</string>
+    <string name="add_search_channel_tip">Cerca \"%s\" sul sito web di destinazione, quindi copia e incolla l\'URL qui.</string>
     <string name="add_to_trust_device">Questo device è affidabile</string>
+    <string name="add_website">Aggiungi un sito</string>
     <string name="afternoon">Pomeriggio</string>
     <string name="agree">Accetto</string>
     <string name="agree_and_continue">Accetto</string>
@@ -99,6 +101,7 @@
     <string name="alert_dialog_download_progress">"Download dell'app: "</string>
     <string name="all">Visualizza tutti</string>
     <string name="am">AM</string>
+    <string name="app_description_content">"Mi Video è un'app di sistema che contiene un lettore video locale. Sarai ancora in grado di riprodurre i file video dopo aver rimosso il collegamento dalla schermata Home."</string>
     <string name="auth_again">Accetto</string>
     <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo.</string>
     <string name="auto_play_next_off">Riproduzione automatica spenta</string>
@@ -128,6 +131,8 @@
     <string name="cast_forward">Inoltra</string>
     <string name="cast_forward_10">Avanti dieci secondi</string>
     <string name="cast_forward_30">Avanti trenta secondi</string>
+    <string name="cast_invalid_stream_duration_text">--:--</string>
+    <string name="cast_invalid_stream_position_text">--:--</string>
     <string name="cast_mute">Silenzioso</string>
     <string name="cast_notification_connected_message">Collegato a %1$s</string>
     <string name="cast_notification_connecting_message">Connessione a %1$s</string>
@@ -637,6 +642,7 @@ per i video"</string>
     <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
     <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
     <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
+    <string name="library_roundedimageview_isOpenSource">vero</string>
     <string name="library_roundedimageview_libraryDescription">Una vista veloce (e disegnabile) che supporta angoli arrotondati (e ovali o cerchi) in base all\'esempio originale di Romain Guy.</string>
     <string name="live_now">In diretta ora</string>
     <string name="live_title">Live</string>
@@ -911,6 +917,7 @@ per i video"</string>
     <string name="notify_apk_installed">Scaricato con successo</string>
     <string name="ok">OK</string>
     <string name="open_settings">Impostazioni</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Iscrizioni recenti</string>
     <string name="order_recently_updated">Aggiornati di recente</string>
     <string name="ovp_alert_dialog_download_install_task">Download plug-in HD…</string>
@@ -1163,6 +1170,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="plus_player_detail_file_time">"Orario: "</string>
     <string name="plus_player_hide">Nascondi</string>
     <string name="plus_player_pip_unsupport">"PiP non è supportato in questa versione del sistema."</string>
+    <string name="plus_player_play_mode_auto">Riproduzione automatica</string>
     <string name="plus_player_play_mode_list">Ripeti tutto</string>
     <string name="plus_player_play_mode_single_circle">Ripeti una volta</string>
     <string name="plus_player_play_mode_stop">Riproduci</string>
@@ -1201,6 +1209,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="plus_player_video_not_support">"Questo formato video non è supportato."</string>
     <string name="plus_poster_reset_default">Ripristina la copertina predefinita</string>
     <string name="plus_properties_bit_rate">Velocità di trasmissione</string>
+    <string name="plus_properties_codec">Codec</string>
     <string name="plus_properties_date">Data</string>
     <string name="plus_properties_file">File</string>
     <string name="plus_properties_file_name">Nome file</string>
@@ -1243,7 +1252,9 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="plus_tab_gallery">Cartelle</string>
     <string name="plus_tab_time">Cronologia</string>
     <string name="pm">PM</string>
+    <string name="privacy_revoke_setting">Disattivando l\'opzione, si revoca il consenso all\'Informativa sulla Privacy di Mi Video.</string>
     <string name="privacy_revoke_title">Revoca autorizzazione...</string>
+    <string name="progressbar_title">Controllo di problemi di sicurezza…</string>
     <string name="psw_hint">Password</string>
     <string name="psw_sign_in">Accedi con password</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Tira verso l\'alto per aggiornare…</string>
@@ -1391,6 +1402,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="srl_header_secondary">Rilascia Al Secondo Piano</string>
     <string name="srl_header_update">"'Ultimo aggiornamento' d-M HH:mm"</string>
     <string name="start_download_tip">Aggiunto alla coda. Controlla lo stato di avanzamento su Profilo e Download.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">Scheda SD</string>
     <string name="storage_internal_sdcard">Memoria interna</string>
     <string name="submit">Invia</string>
@@ -1410,6 +1422,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="sync_favorites_limit">"Ci sono più di 500 video nei tuoi preferiti. Dovremo eliminare alcuni dei video precedenti per continuare la sincronizzazione."</string>
     <string name="sync_favorites_message">Sincronizzare i preferiti da questo dispositivo al tuo account? Gli elementi che non sono più disponibili verranno rimossi.</string>
     <string name="sync_favorites_title">Sincronizza i preferiti</string>
+    <string name="system_error_info">Il sistema è occupato. Aspetta un minuto o due e riprova.</string>
     <string name="t_check_hide_file">Seleziona gli elementi da nascondere</string>
     <string name="t_check_unhide_file">Seleziona gli elementi da mostrare</string>
     <string name="t_downloading">In download:</string>
@@ -1483,9 +1496,11 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="ticket_invalid">Il captcha inserito non è corretto</string>
     <string name="ticket_sign_in">Accedi via SMS</string>
     <string name="time_picker_dialog_title">Imposta ora</string>
+    <string name="tip_auth_again">"Dal momento che non hai precedentemente accettato i termini della corrispondente Informativa sulla privacy del fornitore di contenuti di terze parti, non è possibile visualizzare contenuti video in Momenti. Tocca il pulsante qui sotto per accettare l'Informativa sulla privacy e accedere a questa funzionalità."</string>
     <string name="tip_author_click">Tocca per visualizzare altri video di questo account</string>
     <string name="tip_pop"><Data>Il contenuto dei Momenti è fornito da Firework. Al fine di migliorare la vostra esperienza di visualizzazione e ricevere raccomandazioni di contenuto più rilevanti, consentire a Firework di raccogliere, elaborare e utilizzare le tue informazioni personali in conformità alla sua Informativa sulla privacy. Leggi e accetta la &lt;a href=\"%1$s\"&gt;Politica sulla privacy fi Fireworks&lt;/a&gt; prima di usare i suoi servizi.</Data></string>
     <string name="tip_topic_click">Tocca per trovare altri video su questo argomento</string>
+    <string name="title_firework_recommend">Raccomandazioni fuochi d\'artificio</string>
     <string name="title_publisher">Creatori</string>
     <string name="title_subscribe">Sottoscrizioni</string>
     <string name="toast_no_data">"Questo elemento non è disponibile ora. Torna più tardi."</string>
@@ -1517,6 +1532,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="user_avatar_uploading">Attendi…</string>
     <string name="user_id_hint">Email/Telefono</string>
     <string name="v_agree">Accetto</string>
+    <string name="v_app_name">Mi Video</string>
     <string name="v_cancel">Annulla</string>
     <string name="v_canceled">Annullato</string>
     <string name="v_click_to_retry">Riprova</string>
@@ -1545,8 +1561,13 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="video_download_btn">Scarica</string>
     <string name="video_download_fail">"Impossibile scaricare il video"</string>
     <string name="video_download_fail_hint">"Impossibile scaricare"</string>
+    <string name="video_download_floating_guide">Scarica video gratis</string>
+    <string name="video_download_forbidden">"Impossibile scaricare da questo sito"</string>
     <string name="video_download_network_error">Errore rete</string>
+    <string name="video_download_play_video_guide">Per prima cosa, riproduci il video.</string>
+    <string name="video_download_play_video_guide2">Quindi tocca il pulsante per scaricare.</string>
     <string name="video_download_site_search">URL</string>
+    <string name="video_download_source">Download web</string>
     <string name="video_download_start">Download in corso…</string>
     <string name="video_download_storage_error">Spazio di archiviazione insufficiente</string>
     <string name="video_downloading">Download in corso…</string>
@@ -1565,6 +1586,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="vp_hardware_unsported">"Questo video non può essere riprodotto sul tuo dispositivo."</string>
     <string name="vp_notify_apk_installed">Scaricato con successo</string>
     <string name="vp_replay">Replay</string>
+    <string name="vp_upcoming_auto_play">Riproduzione automatica</string>
     <string name="vp_upcoming_title">A seguire</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
@@ -1585,6 +1607,7 @@ Dimensione : %2$s"</string>
     <string name="ytb_author_video">Video</string>
     <string name="ytb_login">Accedi</string>
     <string name="ytb_login_btn">Accedi</string>
+    <string name="ytb_login_hint">Accedi per visualizzare le tue iscrizioni a YouTube</string>
     <string name="ytb_logout">Disconetti</string>
     <string name="ytb_play_next">A seguire</string>
     <string name="ytb_subscribed">Sottoscrizioni</string>

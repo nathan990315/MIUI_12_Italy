@@ -79,6 +79,7 @@
     <string name="bh_back">Indietro</string>
     <string name="bh_bill_balance">Saldo</string>
     <string name="bh_bill_charge">Ricarica il saldo</string>
+    <string name="bh_bills_info_label">Dettagli</string>
     <string name="bh_bugreport">Feedback aziendale</string>
     <string name="bh_business_hall_is_here">I servizi dell\'operatore sono qui</string>
     <string name="bh_business_style">Seleziona interfaccia</string>
@@ -91,6 +92,9 @@
     <string name="bh_cannot_action">"Impossibile utilizzare %1$s. Installare prima l'app corrispondente."</string>
     <string name="bh_cannot_fetch_num">Numero di telefono sconosciuto</string>
     <string name="bh_cannot_login_miacount">"Accesso a Mi Account non riuscito"</string>
+    <string name="bh_card_order_detail">Info ordine</string>
+    <string name="bh_card_order_pay_price">Totale pagato</string>
+    <string name="bh_card_order_price">Prezzo</string>
     <string name="bh_charge_confirm">Aggiungere %2$s CNY a %1$s?</string>
     <string name="bh_charge_continue">Ricarica</string>
     <string name="bh_charge_number">Ricarica %1$s</string>
@@ -98,6 +102,7 @@
     <string name="bh_close_traffic_package">Chiudi dettagli piano operatore</string>
     <string name="bh_cmcc">Cina Mobile</string>
     <string name="bh_confirm">OK</string>
+    <string name="bh_connect_name">Destinatario</string>
     <string name="bh_contact_number">%1$s dai tuoi contatti</string>
     <string name="bh_ct">Cina Telecom</string>
     <string name="bh_cu">Cina Unicom</string>
@@ -110,6 +115,7 @@
     <string name="bh_edit_saved_phone_number">Modifica etichetta per il numero salvato</string>
     <string name="bh_edit_sim_num">Modifica numero SIM</string>
     <string name="bh_exchange_number">Cambia numero</string>
+    <string name="bh_express_name">Servizio di consegna</string>
     <string name="bh_fetch_balance">Controlla il saldo</string>
     <string name="bh_flow_exceed">Hai superato il limite</string>
     <string name="bh_funtion_desc">Benvenuto in Servizi Operatore Mi! Puoi utilizzare questa app per controllare il saldo del telefono, acquistare minuti di chiamata e dati mobili, e altro ancora. Questa app deve connettersi alla rete per poter funzionare normalmente.</string>
@@ -132,16 +138,19 @@
     <string name="bh_net_error">Siamo spiacenti, si è verificato un errore di rete</string>
     <string name="bh_no_sim">"SIM non installata"</string>
     <string name="bh_no_sim_inserted">"SIM non installata"</string>
+    <string name="bh_none">Nessuno</string>
     <string name="bh_not_contact">"Impossibile trovare risultati"</string>
     <string name="bh_notice">Attenzione</string>
     <string name="bh_online_service">Supporto online</string>
     <string name="bh_option_agree_dec">Consenti a Servizi Operatore Mi di connettersi a Internet e di concedere le autorizzazioni richieste prima di utilizzare l\'app.</string>
+    <string name="bh_order_detail">Dettagli ordine</string>
     <string name="bh_order_id">ID Ordine</string>
     <string name="bh_order_loading">Attendi…</string>
     <string name="bh_order_pay">Pagamento</string>
     <string name="bh_order_time">Tempo di transazione</string>
     <string name="bh_other_charge">Altro numero di telefono</string>
     <string name="bh_other_operator">Altri operatori</string>
+    <string name="bh_other_traffic">Altro numero di telefono</string>
     <string name="bh_pay_fail_desc">"Impossibile connettersi alla rete. Torna indietro e completa di nuovo il pagamento."</string>
     <string name="bh_pay_fee">Ammontare</string>
     <string name="bh_pay_success_desc">Il saldo potrebbe essere accreditato in ritardo</string>
@@ -177,7 +186,12 @@
     <string name="bh_tag_phones">Numeri di telefono più usati</string>
     <string name="bh_tags_number_exceed">"Impossibile salvare altri numeri di telefono"</string>
     <string name="bh_tb">TB</string>
+    <string name="bh_text_charge_name">Ammontare</string>
+    <string name="bh_text_operator">Operatore</string>
+    <string name="bh_text_phone_num">Numero di telefono</string>
+    <string name="bh_text_traffic_package">Pacchetto dati</string>
     <string name="bh_time_before">%1$s %2$s fa</string>
+    <string name="bh_toast_copy">Copiato con successo</string>
     <string name="bh_toast_start_intent_failed">"Impossibile trovare un'app per gestire questa azione"</string>
     <string name="bh_traffic_service">Altri servizi</string>
     <string name="bh_traffic_surplus">Dati rimanenti</string>
@@ -189,7 +203,6 @@
     <string name="bh_will_open">Apertura %1$s…</string>
     <string name="bh_wrong_number_hint">Inserisci un numero di telefono valido</string>
     <string name="bh_yuan">CNY</string>
-    <string name="bills_info_label">Dettagli</string>
     <string name="bind_simcard_default">SIM predefinita per le chiamate</string>
     <string name="bind_simcard_menu">Imposta SIM predefinita per le chiamate</string>
     <string name="bind_simcard_no_dual">"Doppia SIM non trovata"</string>
@@ -406,6 +419,7 @@
     <string name="composer_not_initialized">"Il compositore di vCard non si è avviato correttamente."</string>
     <string name="conference_call_disable_tip">"Impossibile effettuare chiamate. Assicurati che il tuo dispositivo sia connesso ad una rete 4G con supporto VoLTE."</string>
     <string name="config_export_file_extension">vcf</string>
+    <string name="config_export_vcard_type">v30_generic</string>
     <string name="confirm_call_log_dial_summary">Chiedi conferma prima di comporre dal registro chiamate per evitare chiamate accidentali.</string>
     <string name="confirm_call_log_dial_title">Conferma prima di comporre dal registro chiamate</string>
     <string name="confirm_delete_contact_all_call_logs">"Eliminare cronologia %s?"</string>
@@ -713,6 +727,7 @@ Motivo: \"%s\""</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Nome</string>
     <string name="gallery">Galleria</string>
     <string name="ghostData_company">Società</string>
@@ -991,6 +1006,7 @@ Motivo: \"%s\""</string>
     <string name="permission_record_audio_desc">Per utilizzare la voce durante la verifica dell\'ID</string>
     <string name="permission_write_external_storage_desc">Per salvare i dati dell\'app</string>
     <string name="phoneLabelsGroup">Telefono</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Numero troppo lungo</string>
     <string name="phone_primary">Primario</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>
@@ -1196,6 +1212,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Nessun membro nel gruppo</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Per azienda</string>
     <string name="smart_group_company_unavailable">Senza azienda</string>
     <string name="smart_group_frequency_1">Nell\'ultimo mese</string>
@@ -1262,6 +1279,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="starred_contacts">Preferiti</string>
     <string name="status_available">Disponibile</string>
     <string name="status_away">Assente</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Occupato</string>
     <string name="strequentList">Preferiti</string>
     <string name="success_message_import_from_account">Contato importato</string>
@@ -1275,9 +1293,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="t9_search_empty_send_sms">Invia messaggio</string>
     <string name="t9_search_empty_video_call">Videochiamata</string>
     <string name="t9_search_guide_pinyin_title1">Trova rapidamente i contatti inserendo alcune lettere</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Inserisci 9 e 4 per cercare Xiaomi Hugo</string>
     <string name="t9_search_guide_zhuyin_title1">Trova rapidamente i contatti inserendo alcune lettere</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Inserisci 5 e 6 per cercare Jeff Max</string>
     <string name="take_new_photo">Scatta nuova foto</string>
     <string name="take_photo">Scatta foto</string>
     <string name="text_msim_balance">Utilizzato oggi</string>

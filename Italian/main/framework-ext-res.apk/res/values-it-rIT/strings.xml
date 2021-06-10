@@ -38,6 +38,8 @@
     <string name="autofill_service_name">Gestisci password</string>
     <string name="back_double_tap">smart</string>
     <string name="back_triple_tap">smart</string>
+    <string name="battery_authentic_failed_button">Ok</string>
+    <string name="battery_authentic_failed_title">Attenzione</string>
     <string name="blackshark">Black Shark</string>
     <string name="blackshark_1">Black Shark</string>
     <string name="blackshark_2">Black Shark 2</string>
@@ -195,6 +197,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="open_close_tip_content">Per chiudere la finestra fluttuante, premi e tieni premuta la barra delle azioni e poi scorri verso l\'alto</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">Altre tastiere</string>
     <string name="package_delete_confirm_step_1">Eliminare %s?</string>
     <string name="package_delete_confirm_step_2">Eliminando questa app potresti causare instabilità del sistema.</string>
     <string name="package_delete_confirm_step_3">"Non potrai utilizzare questa app una volta eliminata."</string>
@@ -234,6 +237,9 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="relaunch_dialog_alwaysUsePrompt">Ricorda la mia scelta</string>
+    <string name="relaunch_dialog_button_cancel">Annulla</string>
+    <string name="relaunch_dialog_button_confirm">OK</string>
     <string name="remain">Rimanente:%s</string>
     <string name="replace">Sostituisci</string>
     <string name="resolver_app_recommend_flag">Consigliati</string>
@@ -243,6 +249,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="resolver_offical_recommend">Ufficiale</string>
     <string name="resolver_other_method">Altre opzioni</string>
     <string name="resolver_recommend_options_tag">Opzioni suggerite</string>
+    <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
     <string name="resource_select">Scegli</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
@@ -306,6 +313,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="status_bar_toggle_gps">Test GPS</string>
     <string name="status_bar_toggle_lock">Blocca</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
+    <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
     <string name="status_bar_toggle_mute">Silenzia</string>
     <string name="status_bar_toggle_nfc">NFC</string>
     <string name="status_bar_toggle_paper_mode">Lettura</string>

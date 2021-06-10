@@ -40,6 +40,7 @@
     <string name="back_up_task_in_process">Backup in corso</string>
     <string name="back_up_task_unfinished">"Backup incompleto"</string>
     <string name="backing_up_to_micloud">Backup in corso</string>
+    <string name="backup_action_access_permission">Impostazioni</string>
     <string name="backup_action_buy_cloud_space">Aumenta lo spazio</string>
     <string name="backup_action_check_network">Mostra le impostazioni di rete</string>
     <string name="backup_action_clean_disk_space">Libera spazio</string>
@@ -233,6 +234,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="device_delete_prompt">Eliminare il backup di %s?</string>
     <string name="dialog_backup_failed">"Backup incompleto"</string>
     <string name="dialog_btn_cancel_backup">Annulla</string>
+    <string name="dialog_btn_confirm2">Ok</string>
+    <string name="dialog_btn_enter">Impostazioni</string>
     <string name="dialog_btn_next">Successivo</string>
     <string name="dialog_btn_overwrite_backup">Sovrascrivi</string>
     <string name="dialog_btn_restore_skip">Ripristina più tardi</string>
@@ -245,6 +248,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="dialog_msg_overwrite_backup">La differenza tra il backup locale e quello cloud è consistente, continuando il backup in cloud verrà sovrascritto.</string>
     <string name="dialog_msg_restore_require_wlan">Il ripristino dei file di backup richiede una rete Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Il ripristino dei file di backup richiede una rete Wi-Fi.</string>
+    <string name="dialog_need_permission">Permessi richiesti</string>
     <string name="dialog_title_require_wlan">E\' richiesta una rete Wi-Fi</string>
     <string name="dialog_title_require_wlan_china">E\' richiesta una rete Wi-Fi</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
@@ -430,6 +434,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="open_backup_switch">Attiva lo switch backup</string>
     <string name="other_device_main_space">Primo spazio</string>
     <string name="other_device_second_space">Secondo spazio</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">"Impossibile ripristinare gli elementi in modalità PC. Disattiva la modalità PC e riprova."</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
@@ -600,5 +606,6 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="yesterday">Ieri</string>
 </resources>

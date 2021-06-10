@@ -152,6 +152,10 @@ Nota: i file verranno eliminati anche da questo dispositivo"</item>
         <item quantity="other">Seguite %d persone</item>
         <item quantity="one">Seguita %d persona</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d elementi selezionati</item>
         <item quantity="one">%d elemento selezionato</item>

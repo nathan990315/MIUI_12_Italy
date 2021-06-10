@@ -56,14 +56,14 @@
     <string name="activate_phone_cancel_notif_title_msim">Attivazione SIM %d annullata</string>
     <string name="activate_phone_failed_notif_title">"Impossibile attivare SIM"</string>
     <string name="activate_phone_failed_notif_title_msim">"Impossibile attivare SIM %d"</string>
-    <string name="activate_phone_failed_notif_title_sim">"Impossibile attivare %2$s utilizzando la SIM %1$d"</string>
+    <string name="activate_phone_failed_notif_title_sim">"Impossibile attivare \"%2$s\" utilizzando la SIM %1$d"</string>
     <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Creato Mi Account utilizzando la SIM %d con successo</string>
     <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">"Impossibile creare Mi Account utilizzando la SIM %d"</string>
-    <string name="activate_phone_server_failed_notif_title">"Impossibile attivare %s"</string>
-    <string name="activate_phone_server_success_notif_title">Attivato %s con successo</string>
+    <string name="activate_phone_server_failed_notif_title">"Impossibile attivare \"%s\""</string>
+    <string name="activate_phone_server_success_notif_title">Attivato \"%s\" con successo</string>
     <string name="activate_phone_success_notif_title">SIM attivata</string>
     <string name="activate_phone_success_notif_title_msim">SIM %d attivata</string>
-    <string name="activate_phone_success_notif_title_sim">Attivato %2$s utilizzando la SIM %1$d con successo</string>
+    <string name="activate_phone_success_notif_title_sim">Attivato \"%2$s\" utilizzando la SIM %1$d con successo</string>
     <string name="activate_popup_confirm_all_gateway_failed_query_info">Riprova</string>
     <string name="activate_popup_confirm_all_gateway_failed_send_sms">Riprova</string>
     <string name="activate_popup_confirm_error_device_id">Riprova</string>
@@ -73,9 +73,9 @@
     <string name="activate_popup_confirm_failed_send_sms">Invia nuovamente</string>
     <string name="activate_popup_confirm_failed_server">Riprova</string>
     <string name="activate_popup_desc_2_intl_sim_cards">2 messaggi di testo internazionali saranno inviati per attivare %s. Verrà effettuato un addebito dal tuo operatore.</string>
-    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Per attivare %2$s, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt; verrà inviato un SMS internazionale&lt;/b&gt;. Il tuo operatore potrebbe addebitarti il messaggio.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Per attivare \"%2$s\", &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internazionale a pagamento&lt;/b&gt; verrà inviato. Il tuo operatore ti addebiterà questi messaggi.</string>
     <string name="activate_popup_desc_2_sim_cards">2 messaggi di testo normali saranno inviati per attivare %s. Verrà effettuato un addebito dal tuo operatore.</string>
-    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Per attivare %2$s, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nazionali a pagamento&lt;/b&gt; verranno inviati. Il tuo operatore potrebbe addebitarti questi messaggi.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Per attivare \"%2$s\", &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nazionale a pagamento&lt;/b&gt; verrà inviato. Il tuo operatore ti addebiterà questi messaggi.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Impossibile trovare il tuo numero di telefono. Assicurati che la tua SIM card sia attiva.
 Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %s"</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Impossibile inviare messaggio di attivazione. Assicurati che la tua SIM card sia attiva.
@@ -90,12 +90,12 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
     <string name="activate_popup_desc_failed_server">Controlla al tua connessione di rete e riprova.</string>
     <string name="activate_popup_desc_failed_server_msg">Si è verificato un errore del server. Controlla le impostazioni di rete e riprova.</string>
     <string name="activate_popup_desc_find_device_postfix">Un SMS di attivazione potrebbe esserti inviato dopo il cambio di SIM.</string>
-    <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Per attivare %3$s, inserisci il numero di telefono della SIM %2$d. Se sostituisci questa scheda SIM, verrà inviato un altro SMS di attivazione.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Per attivare \"%3$s\", inserisci il numero di telefono della SIM %2$d. Se sostituisci questa scheda SIM, verrà inviato un altro SMS di attivazione.</string>
     <string name="activate_popup_desc_intl_sim_card">Un SMS internazionale sarà inviato per attivare %s. Verrà effettuato un addebito dal tuo operatore.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Per attivare %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internazionale a pagamento&lt;/b&gt; verrà inviato. Il tuo operatore ti addebiterà questo messaggio.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Per attivare \"%2$s\", &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internazionale a pagamento&lt;/b&gt; verrà inviato. Il tuo operatore ti addebiterà questo messaggio.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>Fare riferimento al &lt;a href=https://account.xiaomi.com/helpcenter/faq&gt;Manuale utente Mi Account&lt;/a&gt; se avete domande.</Data></string>
     <string name="activate_popup_desc_mixed_sim_cards">2 messaggi di testo (normale ed internazionale) saranno inviati per attivare %s. Verrà effettuato un addebito dal tuo operatore.</string>
-    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Per attivare %3$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt; SMS nazionali a pagamento&lt;/b&gt; e &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt; SMS internazionali a pagamento&lt;/b&gt; verranno inviati. Il tuo operatore potrebbe addebitarti questi messaggi.</string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Per attivare \"%3$s\", &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS nazionali a pagamento&lt;/b&gt; e &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;SMS internazionale a pagamento&lt;/b&gt; verranno inviati. Il tuo operatore ti addebiterà questi messaggi.</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">"Sembra che tu abbia sostituito la SIM card. 2 messaggi di testo internazionali saranno inviati per attivare %s. Verrà effettuato un addebito dal tuo operatore."</string>
     <string name="activate_popup_desc_new_2_sim_cards">"Sembra che tu abbia sostituito la SIM card. 2 messaggi di testo normali saranno inviati per attivare %s. Verrà effettuato un addebito dal tuo operatore."</string>
     <string name="activate_popup_desc_new_intl_sim_card">"Sembra che tu abbia sostituito la SIM card. Un SMS internazionale saranno inviati per attivare %s. Verrà effettuato un addebito dal tuo operatore."</string>
@@ -107,11 +107,11 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
     <string name="activate_popup_desc_register_account_intl">Il tuo operatore potrebbe addebitarti il costo per il SMS internazionale generato per attivare il tuo Mi Account.</string>
     <string name="activate_popup_desc_sim_card">Un SMS normale sarà inviato per attivare %s. Verrà effettuato un addebito dal tuo operatore.</string>
     <string name="activate_popup_desc_sim_card_downlink">Immetti il numero di telefono corrente per attivare %s.</string>
-    <string name="activate_popup_desc_sim_card_downlink_msg">Per attivare %2$s, inserisci il numero di telefono della SIM %1$d.</string>
-    <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Per attivare %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt; SMS a pagamento&lt;/font&gt; verrà inviato. Il tuo operatore potrebbe addebitarti questo messaggio.</string>
+    <string name="activate_popup_desc_sim_card_downlink_msg">Per attivare \"%2$s\", inserisci il numero di telefono della SIM %1$d.</string>
+    <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Per attivare \"%2$s\", &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;SMS a pagamento&lt;/font&gt; verrà inviato. Il tuo operatore ti addebiterà questo messaggio.</string>
     <string name="activate_popup_desc_voip_privacy">Informativa sulla Privacy</string>
     <string name="activate_popup_desc_voip_privacy_prefix">"Servizio VoIP supportato da Weihui. Accedi a Weihui"</string>
-    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Per attivare %3$s, inserisci il numero di telefono della SIM %2$d. Il supporto tecnico è fornito in parte da Weihuitel. Consultare la Politica sulla Privacy di Weihuitel per maggiori dettagli.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Per attivare \"%3$s\", inserisci il numero di telefono della SIM %2$d. Il supporto tecnico è fornito in parte da Weihuitel. Consultare l\'Informativa sulla Privacy di Weihuitel per dettagli.</string>
     <string name="activate_popup_failed_send_sms_desc">"Impossibile inviare l'SMS di attivazione. Assicurati che la SIM %d funzioni correttamente e riprova."</string>
     <string name="activate_popup_title_all_gateway_failed_query_info">"Impossibile trovare il numero"</string>
     <string name="activate_popup_title_all_gateway_failed_send_sms">"Impossibile inviare messaggio di testo"</string>
@@ -124,7 +124,7 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
     <string name="activate_popup_title_manual">Attiva %s</string>
     <string name="activate_popup_title_new_sim_card">Riattiva %s</string>
     <string name="activate_popup_title_register_account">Crea Mi Account</string>
-    <string name="activate_progress_status_title">Attivazione %s…</string>
+    <string name="activate_progress_status_title">Attivazione \"%s\"…</string>
     <string name="activate_registered_xiaomi_account_failed_notif_title">"Impossibile creare un Mi Account"</string>
     <string name="activate_registered_xiaomi_account_success_notif_title">Mi Account creato con successo</string>
     <string name="activate_sms_postfix">Questo SMS viene utilizzato per attivare i tuoi servizi Mi</string>
@@ -160,7 +160,7 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
     <string name="activate_status_desc_wait_for_sms_success">SMS di attivazione ricevuto correttamente</string>
     <string name="activate_status_title_activating">Attivazione SIM…</string>
     <string name="activate_status_title_activating_msim">Attivazione SIM %d…</string>
-    <string name="activate_status_title_activating_sim">Attivazione di %2$s usando la SIM %1$d…</string>
+    <string name="activate_status_title_activating_sim">Attivazione \"%2$s\" utilizzando la SIM %1$d…</string>
     <string name="activate_status_title_registering_xiaomi_account">Creazione Mi Account…</string>
     <string name="activate_status_title_registering_xiaomi_account_sim">Creazione Mi Account utilizzando la SIM %d…</string>
     <string name="afternoon">Pomeriggio</string>
@@ -264,7 +264,7 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
     <string name="error_sim_not_in_service">"La SIM non è in servizio"</string>
     <string name="error_sim_not_in_service_tip">"La SIM %d non può connettersi alla rete. Assicurati che la SIM funzioni correttamente e riprova."</string>
     <string name="evening">Pomeriggio</string>
-    <string name="explain_activate_feature_server_title">Attiva %s</string>
+    <string name="explain_activate_feature_server_title">Attiva \"%s\"</string>
     <string name="explain_activate_register_xiaomi_account_title">Crea Mi Account</string>
     <string name="explain_activate_send_sms_permission_msg">Per attivare %s, il tuo dispositivo ha bisogno di permessi per inviare SMS di attivazione. Il tuo operatore potrebbe addebitarti questo messaggio.</string>
     <string name="explain_send_sms_permission_button">Verifica</string>
@@ -409,7 +409,7 @@ Immetti il numero di telefono associato alla tua nuova SIM card per riattivare %
     <string name="search_menu_title">Cerca</string>
     <string name="send">Invia</string>
     <string name="sim_activated_failed_msg">"Impossibile attivare il servizio. Tocca per riprovare."</string>
-    <string name="sim_unactivated_feature_title">"%s non è stata attivata"</string>
+    <string name="sim_unactivated_feature_title">"\"%s\" non è stato attivato"</string>
     <string name="sim_unactivated_msg">"Questo servizio non è stato attivato. Tocca per riprovare."</string>
     <string name="sim_unactivated_register_xiaomi_account_feature_title">"Il Mi Account non è stato creato"</string>
     <string name="sim_unactivated_title">"La tua SIM non è stata attivata"</string>

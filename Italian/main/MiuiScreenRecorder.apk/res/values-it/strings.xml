@@ -31,7 +31,10 @@
     <string name="afternoon">Pomeriggio</string>
     <string name="am">AM</string>
     <string name="app_name">Registrazione schermo</string>
+    <string name="app_notification_channel_record_complete">Notifica quando termini una registrazione</string>
     <string name="app_notification_info">La Registrazione Schermo sta operando in background</string>
+    <string name="app_notification_record_complete">"Registrazione dello schermo salvata in Galleria
+Tocca per visualizzarla"</string>
     <string name="app_notification_title">Registrazione schermo</string>
     <string name="auto_stop_title">Video salvato con successo!</string>
     <string name="battery_not_allowed" formatted="false">"Non puoi registrare quando la batteria è al di sotto del 3%%. Assicurati di avere la batteria almeno al 20%% di carica."</string>
