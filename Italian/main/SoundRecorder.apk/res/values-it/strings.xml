@@ -34,6 +34,7 @@
     <string name="alert_message_delete_local_record">Elimina questa registrazione?</string>
     <string name="alert_message_delete_record">Vuoi eliminare la registrazione selezionata?</string>
     <string name="alert_message_delete_record_title">Vuoi eliminare questa registrazione?</string>
+    <string name="all_record">Tutte le registrazioni</string>
     <string name="am">AM</string>
     <string name="app_name">Registratore</string>
     <string name="app_record">Registrazioni app</string>
@@ -135,6 +136,7 @@
     <string name="delete">Elimina</string>
     <string name="delete_cloud_data_at_same_time">Elimina anche dal cloud</string>
     <string name="delete_dialog_message">Vuoi eliminare questa registrazione?</string>
+    <string name="delete_recorder">Elimina</string>
     <string name="deleting_message">Eliminazione…</string>
     <string name="details">Dettagli</string>
     <string name="dialog_content_storage_full">"A causa della mancanza di spazio di archiviazione, la registrazione è stata interrotta ed è necessario eliminare alcuni file. Procedere ora?"</string>
@@ -206,10 +208,10 @@
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -220,12 +222,8 @@
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
@@ -359,6 +357,7 @@
     <string name="no_content">Nessun oggetto</string>
     <string name="no_file">Vuoto</string>
     <string name="no_network">"Impossibile connettersi alla rete"</string>
+    <string name="no_playback_file">Seleziona una registrazione per visualizzare i dettagli</string>
     <string name="noon">Mezzogiorno</string>
     <string name="normal_settings_pref_title">Impostazioni generali</string>
     <string name="not_set">Non impostato</string>
@@ -404,19 +403,25 @@
     <string name="pay_error_cancel">Pagamento annullato</string>
     <string name="pay_error_null">"Errore nel pagamento, controlla l'account"</string>
     <string name="pay_error_unknown">Errore sconosciuto</string>
+    <string name="play_speed">Velocità %1$.1fX</string>
     <string name="playback_delete_records">Elimina la registrazione</string>
     <string name="playback_share_records">Condividi la registrazione</string>
     <string name="pm">PM</string>
     <string name="preference_clear_data">Cancella dati</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
+    <string name="preference_enable_earpiece_summary">Riproduci l\'audio usando l\'auricolare</string>
+    <string name="preference_enable_earpiece_title">Modalità auricolare</string>
     <string name="preference_led_indicator">Notifiche Schermata di blocco</string>
+    <string name="preference_led_indicator_prompt">Mostra un indicatore blu sulla schermata di blocco e lampeggia durante la registrazione</string>
     <string name="preference_online_orders">Ordini online</string>
     <string name="preference_recog_faqs">FAQ riconoscimento online</string>
     <string name="preference_recog_terms">Condizioni d\'uso</string>
+    <string name="preference_record_desktop_indicator_summary">Mostra un indicatore blu nella schermata Home durante la registrazione</string>
     <string name="preference_record_desktop_indicator_title">Indicatore schermata home</string>
     <string name="preference_record_scenes_dialog_title">Selezionare una scena di registrazione</string>
     <string name="preference_scenes">Impostazioni scene</string>
     <string name="preference_silent_mode">Silenzia durante registrazione</string>
+    <string name="preference_status_bar_indicator_prompt">Mostra un indicatore blu sulla schermata di blocco durante la registrazione</string>
     <string name="preference_tip_rename">Rinomina al termine della registrazione</string>
     <string name="privacy_policy_title">Informativa sulla Privacy</string>
     <string name="recognition_button_add_to_queue">Aggiungi alla coda</string>
@@ -540,6 +545,7 @@
     <string name="save_record_dialog_title">Salva registrazione</string>
     <string name="search_app">Registratore</string>
     <string name="search_empty">"Impossibile trovare risultati"</string>
+    <string name="search_enable_earpiece_title">Modalità auricolare</string>
     <string name="search_hint">Cerca</string>
     <string name="search_led_indicator">Notifiche Schermata di blocco</string>
     <string name="search_led_indicator_prompt">Durante la registrazione, mostra nella barra di stato e con notifica su Schermata di blocco</string>
@@ -689,6 +695,7 @@
     <string name="wednesday_shortest">Mer</string>
     <string name="wifi_recommended_body" formatted="false">L\'utilizzo della rete dati cellulare per il download di questo file (%s) aumenterà il consumo dei dati. Se superi il limite previsto dal piano del tuo operatore potresti andare incontro a costi aggiuntivi. Se vuoi attendere la disponibilità di una rete Wi-Fi per il download di questo file tocca %s.</string>
     <string name="wifi_recommended_title">Avviso utilizzo dati</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Non adesso</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>

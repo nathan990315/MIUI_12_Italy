@@ -164,10 +164,10 @@
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -178,12 +178,8 @@
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
@@ -399,6 +395,7 @@
     <string name="solar_term_white_dews">Rugiada</string>
     <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Barra di stato</string>
     <string name="summary_aggregate_default">Le notifiche push promozionali e relative al contenuto saranno raggruppate</string>
     <string name="summary_aggregate_home">"Le notifiche push non saranno raggruppate"</string>

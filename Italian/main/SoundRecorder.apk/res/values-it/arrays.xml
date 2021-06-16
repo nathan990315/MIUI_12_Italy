@@ -33,13 +33,13 @@
     <string-array name="hd_record_scenes_entries">
         <item>Musica</item>
         <item>Voce</item>
-        <item>Interview</item>
+        <item>Intervista</item>
         <item>HD</item>
     </string-array>
     <string-array name="interview_record_scenes_entries">
         <item>Musica</item>
         <item>Voce</item>
-        <item>Interview</item>
+        <item>Intervista</item>
     </string-array>
     <string-array name="record_format_entries">
         <item>AAC</item>
@@ -65,10 +65,26 @@
         <item>Musica</item>
         <item>Voce</item>
     </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Registra musica con una migliore qualità</item>
+        <item>Sposta il microfono più vicino alla sorgente del suono per una migliore qualità</item>
+        <item>Posiziona il telefono tra 2 persone per registrare chiaramente la loro conversazione</item>
+        <item>La tecnologia ad alta gamma dinamica consente al microfono di registrare un suono più dettagliato</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Registra attraverso 2 canali, ascolta il suono stereo negli auricolari</item>
+        <item>Sposta il microfono più vicino alla sorgente del suono per una migliore qualità</item>
+        <item>Posiziona il telefono tra 2 persone per registrare chiaramente la loro conversazione</item>
+        <item>La tecnologia ad alta gamma dinamica consente al microfono di registrare un suono più dettagliato</item>
+    </string-array>
     <string-array name="record_scenes_values">
         <item>1</item>
         <item>2</item>
         <item>3</item>
         <item>4</item>
+    </string-array>
+    <string-array name="record_type_entries">
+        <item>MP3</item>
+        <item>AMR</item>
     </string-array>
 </resources>

@@ -45,6 +45,7 @@
     <string name="backup_action_check_network">Mostra le impostazioni di rete</string>
     <string name="backup_action_clean_disk_space">Libera spazio</string>
     <string name="backup_action_retry_now">Riprova</string>
+    <string name="backup_failed_reason_app_usage_denied">Concedi i permessi necessari per eseguire il backup degli elementi</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Spazio di archiviazione insufficiente in Xiaomi Cloud. Effettua l\'upgrade del piano o libera spazio di archiviazione.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Spazio di archiviazione insufficiente. Liberare la memoria.</string>
     <string name="backup_failed_reason_network_error">Controlla le tue impostazioni di rete e prova di nuovo</string>
@@ -60,6 +61,8 @@
     <string name="backup_success">Backup app Home completato</string>
     <string name="backup_successfully">Backup app Home completato</string>
     <string name="backup_to_cloud">Backup applicazioni</string>
+    <string name="backup_warning_reason_app_usage_denied">"Impossibile sincronizzare i dati.
+Autorizzazioni richieste."</string>
     <string name="backup_warning_reason_cloud_space_not_enough">"Impossibile eseguire il backup"</string>
     <string name="backup_warning_reason_disk_space_not_enough">"Memoria insufficiente
 Impossibile eseguire il backup"</string>
@@ -232,6 +235,7 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="desktop_wait_network">In attesa…</string>
     <string name="desktop_waiting">In attesa</string>
     <string name="device_delete_prompt">Eliminare il backup di %s?</string>
+    <string name="dialog_app_usage_denied">Dare il permesso \"Accesso all\'utilizzo\" nelle impostazioni per essere in grado di eseguire il backup degli elementi.</string>
     <string name="dialog_backup_failed">"Backup incompleto"</string>
     <string name="dialog_btn_cancel_backup">Annulla</string>
     <string name="dialog_btn_confirm2">Ok</string>
@@ -288,10 +292,10 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -302,12 +306,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
@@ -434,6 +434,8 @@ Nota: i dati delle applicazioni installate non verranno salvati su Mi Cloud."</s
     <string name="open_backup_switch">Attiva lo switch backup</string>
     <string name="other_device_main_space">Primo spazio</string>
     <string name="other_device_second_space">Secondo spazio</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">"Impossibile ripristinare gli elementi in modalità PC. Disattiva la modalità PC e riprova."</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
@@ -604,5 +606,6 @@ Controlla le tue impostazioni di rete e prova di nuovo."</string>
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="yesterday">Ieri</string>
 </resources>

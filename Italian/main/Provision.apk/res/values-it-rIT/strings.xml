@@ -155,6 +155,7 @@
     <string name="disagreement_exit_app">"Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questa app. In questo caso. è possibile scegliere di disconnettersi o limitare i permessi nelle Impostazioni."</string>
     <string name="disagreement_function">"Se non accetti di concedere tali autorizzazioni o condividere e caricare le tue informazioni personali, non potrai utilizzare questa funzione. È possibile scegliere di non utilizzare questa funzione in questo caso."</string>
     <string name="disagreement_location_service">"Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questo servizio."</string>
+    <string name="disagreement_terminate_miuidaemon">"Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questo servizio. È possibile scegliere di non utilizzare questo servizio o limitare i permessi nelle Impostazioni in questi casi. Nota che useremo i permessi solo quando si iniziano a trasferire i dati dal dispositivo quando lo schermo è danneggiato."</string>
     <string name="disagreement_terminate_service">"Se non accetti di concedere tali autorizzazioni o di condividere e caricare le tue informazioni personali, non sarai in grado di utilizzare questa app. In questo caso. è possibile scegliere di disinstallare, disconnettersi o limitare i permessi nelle impostazioni."</string>
     <string name="download_introduction">\"Download\" sta utilizzando Xunlei per scaricare elementi sul tuo dispositivo. Questo strumento funziona per GetApps, aggiornamenti di sistema, temi, video e download del browser.</string>
     <string name="early_morning">Mattina</string>
@@ -188,10 +189,10 @@
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -202,12 +203,8 @@
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
@@ -370,6 +367,12 @@ Disattivare gli annunci personalizzati?"</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Termini e Condizioni</string>
     <string name="other_settings_location">Posizione</string>
     <string name="other_settings_location_summary">Consenti alle applicazioni di utilizzare la tua posizione</string>
+    <string name="other_settings_upload_debug_log_detail">"Aiuta a migliorare la tua esperienza sul dispositivo MIUI inviando automaticamente dati diagnostici, dispositivi e utilizzo app a Xiaomi. Questo aiuterà a migliorare la durata della batteria, il sistema MIUI, la stabilità delle app e altro ancora.
+I dati che invierai conterranno informazioni generali sul tuo dispositivo e sul modo in cui lo usi (es. livello della batteria, attività di sistema e app ed errori). I dati verranno utilizzati per migliorare i dispositivi MIUI.
+La disattivazione di questa funzione non influisce sulla capacità del dispositivo di inviare le informazioni necessarie per i servizi essenziali, come gli aggiornamenti di sistema e la sicurezza.
+Puoi controllare questa funzione da Impostazioni &gt; Password e sicurezza &gt; Privacy &gt; Utilizzo e diagnostica."</string>
+    <string name="other_settings_upload_debug_log_summary">Aiuta a migliorare la tua esperienza sul dispositivo MIUI inviando automaticamente dati diagnostici, dispositivi e utilizzo app a Xiaomi. Questo aiuterà a migliorare la durata della batteria, il sistema MIUI, la stabilità delle app e altro ancora.</string>
+    <string name="other_settings_upload_debug_log_title">Invia dati di utilizzo e diagnostica</string>
     <string name="other_settings_user_experience">Programma Esperienza Utente</string>
     <string name="other_settings_user_experience_summary">Contribuirai al miglioramento di MIUI con l\'invio di dati anonimi di utilizzo</string>
     <string name="other_settings_user_experience_summary_index">Vedi dettagli</string>
@@ -443,6 +446,7 @@ Disattivare gli annunci personalizzati?"</string>
     <string name="provision_skip_underline">Salta</string>
     <string name="recorder_introduction">È possibile utilizzare questa app per registrare audio e eseguire il backup delle registrazioni nel cloud.</string>
     <string name="require_authority_statement">Per permetterci di fornire servizi di base, è necessario concedere i seguenti permessi per raccogliere le informazioni personali:</string>
+    <string name="require_miuidaemon_authority_statement">Per consentirci di fornirti questo servizio, devi concedere i seguenti permessi per raccogliere le tue informazioni personali:</string>
     <string name="require_network_authority_statement">Per permetterci di fornire servizi di base, è necessario connettersi a internet e concedere i seguenti permessi per poter raccogliere le informazioni personali:</string>
     <string name="saturday">Sabato</string>
     <string name="saturday_short">Sab</string>

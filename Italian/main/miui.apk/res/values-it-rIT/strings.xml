@@ -167,10 +167,10 @@
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM, yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">dd MMM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -310,6 +310,7 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="solar_term_autumn_begins">Inizio dell\'autunno</string>
     <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>

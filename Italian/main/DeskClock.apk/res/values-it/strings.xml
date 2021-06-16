@@ -264,10 +264,10 @@
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -278,12 +278,8 @@
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
@@ -567,6 +563,7 @@
     <string name="shutdown_alarm_enable_summary">"La sveglia si attiverà con dispositivo spento"</string>
     <string name="shutdown_alarm_title">Sveglia dopo spegnimento</string>
     <string name="silent_alarm_summary">Silenzia</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Disattiva una volta il %s</string>
     <string name="sleep_analysis">Statistiche</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -591,6 +588,7 @@
     <string name="sleep_time">Addormentato</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">Scorri per silenziare</string>
+    <string name="slider_text_new">Scorri verso l\'alto per fermare</string>
     <string name="snooze_confirm_cancel">Annulla sospensione</string>
     <string name="snooze_duration">Sospendi</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -640,6 +638,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Nessun giro</string>
     <string name="stopwatch_reset_notification">Il cronometro è stato resettato</string>
     <string name="stopwatch_running_notification">Cronometro</string>
@@ -648,6 +647,7 @@
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Consenti a questa applicazione di connettersi ad internet per accedere a tutte le sue funzioni.</string>
     <string name="system_permission_main_purpose">Visualizzare l\'ora, impostare sveglie e timer, utilizzare il cronometro</string>
     <string name="system_permission_purpose">Creare sveglie settimanali e impostare suonerie personalizzate</string>
@@ -774,6 +774,7 @@
     <string name="wednesday">Mercoledì</string>
     <string name="wednesday_short">Mer</string>
     <string name="wednesday_shortest">Mer</string>
+    <string name="week_ringtone_recommend_desc">Sveglia natura riproduce suoni diversi a seconda della data. Impostarlo come suono predefinito?</string>
     <string name="white_noise_selector">Seleziona audio</string>
     <string name="workday_alarm_clock">Sveglia attiva dal Lun. al Ven.</string>
     <string name="worldclock_empty_text">Nessun orologio internazionale</string>

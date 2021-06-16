@@ -93,6 +93,7 @@
     <string name="bh_cannot_fetch_num">Numero di telefono sconosciuto</string>
     <string name="bh_cannot_login_miacount">"Accesso a Mi Account non riuscito"</string>
     <string name="bh_card_order_detail">Info ordine</string>
+    <string name="bh_card_order_name">Pacchetto di servizio</string>
     <string name="bh_card_order_pay_price">Totale pagato</string>
     <string name="bh_card_order_price">Prezzo</string>
     <string name="bh_charge_confirm">Aggiungere %2$s CNY a %1$s?</string>
@@ -102,7 +103,9 @@
     <string name="bh_close_traffic_package">Chiudi dettagli piano operatore</string>
     <string name="bh_cmcc">Cina Mobile</string>
     <string name="bh_confirm">OK</string>
+    <string name="bh_connect_address">"Nome del destinatario"</string>
     <string name="bh_connect_name">Destinatario</string>
+    <string name="bh_connect_number">"Numero di telefono del destinatario"</string>
     <string name="bh_contact_number">%1$s dai tuoi contatti</string>
     <string name="bh_ct">Cina Telecom</string>
     <string name="bh_cu">Cina Unicom</string>
@@ -116,6 +119,7 @@
     <string name="bh_edit_sim_num">Modifica numero SIM</string>
     <string name="bh_exchange_number">Cambia numero</string>
     <string name="bh_express_name">Servizio di consegna</string>
+    <string name="bh_express_number">Numero del pacco</string>
     <string name="bh_fetch_balance">Controlla il saldo</string>
     <string name="bh_flow_exceed">Hai superato il limite</string>
     <string name="bh_funtion_desc">Benvenuto in Servizi Operatore Mi! Puoi utilizzare questa app per controllare il saldo del telefono, acquistare minuti di chiamata e dati mobili, e altro ancora. Questa app deve connettersi alla rete per poter funzionare normalmente.</string>
@@ -147,6 +151,7 @@
     <string name="bh_order_id">ID Ordine</string>
     <string name="bh_order_loading">Attendi…</string>
     <string name="bh_order_pay">Pagamento</string>
+    <string name="bh_order_status">Stato dell\'ordine</string>
     <string name="bh_order_time">Tempo di transazione</string>
     <string name="bh_other_charge">Altro numero di telefono</string>
     <string name="bh_other_operator">Altri operatori</string>
@@ -186,13 +191,18 @@
     <string name="bh_tag_phones">Numeri di telefono più usati</string>
     <string name="bh_tags_number_exceed">"Impossibile salvare altri numeri di telefono"</string>
     <string name="bh_tb">TB</string>
+    <string name="bh_text_buy_time">Ordine creato</string>
     <string name="bh_text_charge_name">Ammontare</string>
+    <string name="bh_text_no_order">Nessun ordine</string>
     <string name="bh_text_operator">Operatore</string>
+    <string name="bh_text_order_id">Numero d’ordine</string>
+    <string name="bh_text_paid_fee">Importo dell\'ordine</string>
     <string name="bh_text_phone_num">Numero di telefono</string>
     <string name="bh_text_traffic_package">Pacchetto dati</string>
     <string name="bh_time_before">%1$s %2$s fa</string>
     <string name="bh_toast_copy">Copiato con successo</string>
     <string name="bh_toast_start_intent_failed">"Impossibile trovare un'app per gestire questa azione"</string>
+    <string name="bh_traffic_charge">Ottieni dati mobili</string>
     <string name="bh_traffic_service">Altri servizi</string>
     <string name="bh_traffic_surplus">Dati rimanenti</string>
     <string name="bh_traffic_title">Ottieni dati</string>
@@ -419,6 +429,7 @@
     <string name="composer_not_initialized">"Il compositore di vCard non si è avviato correttamente."</string>
     <string name="conference_call_disable_tip">"Impossibile effettuare chiamate. Assicurati che il tuo dispositivo sia connesso ad una rete 4G con supporto VoLTE."</string>
     <string name="config_export_file_extension">vcf</string>
+    <string name="config_export_vcard_type">v30_generic</string>
     <string name="confirm_call_log_dial_summary">Chiedi conferma prima di comporre dal registro chiamate per evitare chiamate accidentali.</string>
     <string name="confirm_call_log_dial_title">Conferma prima di comporre dal registro chiamate</string>
     <string name="confirm_delete_contact_all_call_logs">"Eliminare cronologia %s?"</string>
@@ -685,10 +696,10 @@ Motivo: \"%s\""</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -699,12 +710,8 @@ Motivo: \"%s\""</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
@@ -726,6 +733,7 @@ Motivo: \"%s\""</string>
     <string name="friday">Venerdì</string>
     <string name="friday_short">Ven</string>
     <string name="friday_shortest">Ven</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Nome</string>
     <string name="gallery">Galleria</string>
     <string name="ghostData_company">Società</string>
@@ -966,6 +974,7 @@ Motivo: \"%s\""</string>
     <string name="night">Sera</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">Per creare i gruppi è necessario un account.</string>
+    <string name="no_contact_selected">Seleziona un contatto per visualizzare i dettagli</string>
     <string name="no_contacts_dialog_message">"I tuoi contatti potrebbero essere memorizzati nella SIM. Prova ad importare i contatti dalla tua SIM e riprova\""</string>
     <string name="no_contacts_dialog_title">"Impossibile trovare contatti"</string>
     <string name="no_phone_no_shortcut">"Impossibile creare collegamenti per i contatti senza numero di telefono"</string>
@@ -1004,6 +1013,7 @@ Motivo: \"%s\""</string>
     <string name="permission_record_audio_desc">Per utilizzare la voce durante la verifica dell\'ID</string>
     <string name="permission_write_external_storage_desc">Per salvare i dati dell\'app</string>
     <string name="phoneLabelsGroup">Telefono</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Numero troppo lungo</string>
     <string name="phone_primary">Primario</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile sul tablet.</string>
@@ -1115,6 +1125,7 @@ Motivo: \"%s\""</string>
     <string name="remove_duplicate">"MIUI ti aiuterà a trovare ed unire i contatti duplicati.
 
 Tocca l'icona Unisci in basso per iniziare."</string>
+    <string name="residual_time_description">%1$sgiorno%2$sora</string>
     <string name="residual_time_description2">%1$d o</string>
     <string name="residual_time_description3">%1$d m</string>
     <string name="residual_time_description4">%1$d d</string>
@@ -1209,6 +1220,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Nessun membro nel gruppo</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Per azienda</string>
     <string name="smart_group_company_unavailable">Senza azienda</string>
     <string name="smart_group_frequency_1">Nell\'ultimo mese</string>
@@ -1275,6 +1287,7 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="starred_contacts">Preferiti</string>
     <string name="status_available">Disponibile</string>
     <string name="status_away">Assente</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Occupato</string>
     <string name="strequentList">Preferiti</string>
     <string name="success_message_import_from_account">Contato importato</string>
@@ -1288,7 +1301,9 @@ Tocca l'icona Unisci in basso per iniziare."</string>
     <string name="t9_search_empty_send_sms">Invia messaggio</string>
     <string name="t9_search_empty_video_call">Videochiamata</string>
     <string name="t9_search_guide_pinyin_title1">Trova rapidamente i contatti inserendo alcune lettere</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Inserisci %d e %d per cercare Debbie Smith</string>
     <string name="t9_search_guide_zhuyin_title1">Trova rapidamente i contatti inserendo alcune lettere</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Inserisci %d e %d per cercare Jeff Max</string>
     <string name="take_new_photo">Scatta nuova foto</string>
     <string name="take_photo">Scatta foto</string>
     <string name="text_msim_balance">Utilizzato oggi</string>

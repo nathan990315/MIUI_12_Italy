@@ -240,6 +240,8 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="relaunch_dialog_alwaysUsePrompt">Ricorda la mia scelta</string>
     <string name="relaunch_dialog_button_cancel">Annulla</string>
     <string name="relaunch_dialog_button_confirm">OK</string>
+    <string name="relaunch_dialog_message">"Impossibile regolare la dimensione della finestra mentre stai usando l'app. È possibile riavviare l'applicazione per regolare la dimensione della finestra, ma i dati dell'app generati durante questa sessione andranno persi. Riavviarla comunque?"</string>
+    <string name="relaunch_dialog_title">Riavviare \"%s\"?</string>
     <string name="remain">Rimanente:%s</string>
     <string name="replace">Sostituisci</string>
     <string name="resolver_app_recommend_flag">Consigliati</string>
@@ -249,6 +251,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="resolver_offical_recommend">Ufficiale</string>
     <string name="resolver_other_method">Altre opzioni</string>
     <string name="resolver_recommend_options_tag">Opzioni suggerite</string>
+    <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
     <string name="resource_select">Scegli</string>
     <string name="rog">ROG</string>
     <string name="rog_phone">ROG</string>
@@ -312,6 +315,7 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="status_bar_toggle_gps">Test GPS</string>
     <string name="status_bar_toggle_lock">Blocca</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
+    <string name="status_bar_toggle_midrop_action">com.xiaomi.midrop/.IntroActivity</string>
     <string name="status_bar_toggle_mute">Silenzia</string>
     <string name="status_bar_toggle_nfc">NFC</string>
     <string name="status_bar_toggle_paper_mode">Lettura</string>
@@ -326,6 +330,8 @@ Per attivare questa funzionalità, vai in Impostazioni &gt; Sistema &gt; Tasti</
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Hotspot Wi-Fi</string>
     <string name="stop_operate_camera_frequently">"Sembra che tu stia cambiando fotocamera troppe volte."</string>
+    <string name="stylus_pen_mask_screenshot">Tocca lo schermo per fare uno screenshot</string>
+    <string name="stylus_pen_mask_text">Tocca lo schermo per iniziare a scrivere</string>
     <string name="subinfo_default_name">SIM %d</string>
     <string name="sunlight_notification_content">Regola automaticamente la luminosità in ambienti luminosi</string>
     <string name="sunlight_notification_title">Attiva la modalità Luce Solare</string>

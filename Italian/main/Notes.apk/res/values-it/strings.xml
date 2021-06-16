@@ -153,6 +153,7 @@
     <string name="cta_v2_agree_desc">Consentire a questa applicazione di connettersi a Internet e concedere le autorizzazioni obbligatorie elencate sopra.</string>
     <string name="cta_v2_app_purpose">Creare, visualizzare e gestire le note</string>
     <string name="cta_v2_app_purpose_v12">Benvenuto in Note! Puoi usare questa app per creare attività e note che contengono testo, immagini e audio.</string>
+    <string name="data_empty_folder">Nessuna cartella da mostrare</string>
     <string name="data_empty_note">Non ci sono ancora note</string>
     <string name="data_empty_todo">Non ci sono attività</string>
     <string name="date_calculate_today">0 giorni</string>
@@ -285,10 +286,10 @@
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -299,12 +300,8 @@
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
@@ -335,6 +332,7 @@
     <string name="gesture_guide_message">Puoi toccare, tenere premuto e trascinare gli elementi per creare e riorganizzare le note. Vuoi imparare questi gesti ora?</string>
     <string name="gesture_guide_ok">Inizia</string>
     <string name="gesture_guide_title">Gesti</string>
+    <string name="handwrite_description">Nota scritta a mano</string>
     <string name="hear_note">Note vocali</string>
     <string name="heavenly_stems_bing">Bing</string>
     <string name="heavenly_stems_ding">Ding</string>
@@ -368,6 +366,7 @@
     <string name="menu_add_description">Aggiungi nota</string>
     <string name="menu_add_folder">Aggiungi alla cartella</string>
     <string name="menu_add_folder_description">Aggiungi cartella</string>
+    <string name="menu_add_handwrite_description">Aggiungi una nota scritta a mano</string>
     <string name="menu_create_folder">Nuova cartella</string>
     <string name="menu_delete">Elimina</string>
     <string name="menu_delete_forever">Elimina in modo permanente</string>
@@ -393,6 +392,7 @@
     <string name="menu_unhide">Mostra</string>
     <string name="menu_unstick">Non fissare più</string>
     <string name="merge_to_folder">Crea una cartella</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="midnight">Notte</string>
     <string name="mind_note_first_enter_guide">Tocca per creare una mappa mentale</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
@@ -492,6 +492,7 @@
     <string name="note_sort_way">Ordinamento note</string>
     <string name="notealert_enter">Controlla</string>
     <string name="notealert_ok">Rifiuta</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">"Note è un'app di sistema. Non potrai utilizzare questa app dopo averla disinstallata."</string>
     <string name="notes_description_title">Disinstallare Note?</string>
     <string name="notification_content_add_todo_from_other_app">Hai aggiunto una nuova attività. Tocca per vederla.</string>
@@ -876,6 +877,7 @@ Consenti di registrare audio."</string>
     <string name="wednesday_shortest">Mer</string>
     <string name="widget_content_loading">Attendi…</string>
     <string name="widget_havenot_content">Nessuna nota associata trovata, premere per crearne una.</string>
+    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Non adesso</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aggiorna</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Aggiornamento disponibile</string>

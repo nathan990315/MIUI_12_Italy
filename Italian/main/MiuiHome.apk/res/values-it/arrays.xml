@@ -1,88 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="drawer_alpha">
-    <item>0%</item>
-    <item>25%</item>
-    <item>50%</item>
-    <item>75%</item>
-    <item>100%</item>
-  </string-array>
-  <string-array name="editing_mode_entries">
-    <item>Sfondo</item>
-    <item>Widget</item>
-    <item>Impostazioni</item>
-  </string-array>
-  <string-array name="editing_mode_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
-  <string-array name="gadget_weather_image">
-    <item>Cancella</item>
-    <item>Nuvoloso</item>
-    <item>Nebbioso</item>
-    <item>Nebbioso</item>
-    <item>Forte pioggia</item>
-    <item>Temporale</item>
-    <item>Temporale</item>
-    <item>Forte temporale</item>
-    <item>Acquazzoni</item>
-    <item>Pioggia intensa</item>
-    <item>Pioggia</item>
-    <item>Pioggerella</item>
-    <item>Nevischio</item>
-    <item>Bufera di neve</item>
-    <item>Neve a tratti</item>
-    <item>Nevicata Intensa</item>
-    <item>Nevicata</item>
-    <item>Nevicata leggera</item>
-    <item>Forte tempesta di sabbia</item>
-    <item>Tempesta di sabbia</item>
-    <item>Tempesta di sabbia leggera</item>
-    <item>Tempesta di sabbia</item>
-    <item>Grandine</item>
-    <item>Polveroso</item>
-    <item>Foschia</item>
-  </string-array>
-  <string-array name="gadget_weather_theme_type_entries">
-    <item>Predefinita</item>
-    <item>Classico</item>
-  </string-array>
-  <string-array name="icon_size">
-    <item>XS</item>
-    <item>S</item>
-    <item>M</item>
-    <item>L</item>
-    <item>XL</item>
-  </string-array>
-  <string-array name="transformation_entries">
-    <item>Classico 2</item>
-    <item>Dissolvenza</item>
-    <item>Inclinazione</item>
-    <item>Pagina</item>
-    <item>Cascata</item>
-    <item>Ruotare</item>
-    <item>Cubo</item>
-  </string-array>
-  <string-array name="transformation_values">
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>5</item>
-    <item>7</item>
-    <item>8</item>
-    <item>4</item>
-  </string-array>
-  <string-array name="wallpaper_scroll_entries">
-    <item>Tema predefinito</item>
-    <item>Centro</item>
-    <item>Sinistra</item>
-    <item>Destra</item>
-  </string-array>
-  <string-array name="wallpaper_scroll_values">
-    <item>per Tema</item>
-    <item>centro</item>
-    <item>sinistra</item>
-    <item>destra</item>
-  </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="drawer_alpha">
+        <item>0%</item>
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Sfondo</item>
+        <item>Widget</item>
+        <item>Impostazioni</item>
+    </string-array>
+    <string-array name="editing_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Cancella</item>
+        <item>Nuvoloso</item>
+        <item>Nebbioso</item>
+        <item>Nebbioso</item>
+        <item>Forte pioggia</item>
+        <item>Temporale</item>
+        <item>Temporale</item>
+        <item>Forte temporale</item>
+        <item>Acquazzoni</item>
+        <item>Pioggia intensa</item>
+        <item>Pioggia</item>
+        <item>Pioggerella</item>
+        <item>Nevischio</item>
+        <item>Bufera di neve</item>
+        <item>Neve a tratti</item>
+        <item>Nevicata Intensa</item>
+        <item>Nevicata</item>
+        <item>Nevicata leggera</item>
+        <item>Forte tempesta di sabbia</item>
+        <item>Tempesta di sabbia</item>
+        <item>Tempesta di sabbia leggera</item>
+        <item>Tempesta di sabbia</item>
+        <item>Grandine</item>
+        <item>Polveroso</item>
+        <item>Foschia</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Predefinita</item>
+        <item>Classico</item>
+    </string-array>
+    <string-array name="icon_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Classico 2</item>
+        <item>Dissolvenza</item>
+        <item>Inclinazione</item>
+        <item>Pagina</item>
+        <item>Cascata</item>
+        <item>Ruotare</item>
+        <item>Cubo</item>
+    </string-array>
+    <string-array name="transformation_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>8</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Tema predefinito</item>
+        <item>Centro</item>
+        <item>Sinistra</item>
+        <item>Destra</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_values">
+        <item>per Tema</item>
+        <item>centro</item>
+        <item>sinistra</item>
+        <item>destra</item>
+    </string-array>
 </resources>

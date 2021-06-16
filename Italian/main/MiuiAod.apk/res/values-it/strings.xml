@@ -55,9 +55,9 @@
     <string name="aod_dual_togother_12">hh:mm aa</string>
     <string name="aod_lock_screen_date">d MMMM, EE</string>
     <string name="aod_lock_screen_date_12">d MMMM, EE</string>
-    <string name="aod_lock_screen_date_12_signature">dd/MM</string>
+    <string name="aod_lock_screen_date_12_signature">d/M</string>
     <string name="aod_lock_screen_date_lunar">dd/MM</string>
-    <string name="aod_lock_screen_date_signature">dd/MM</string>
+    <string name="aod_lock_screen_date_signature">d/M</string>
     <string name="aod_lock_screen_date_smartcover">"EE
 dd/MM"</string>
     <string name="aod_lock_screen_date_smartcover_b">EE dd/MM</string>
@@ -206,10 +206,10 @@ dd/MM"</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -220,12 +220,8 @@ dd/MM"</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
@@ -437,6 +433,7 @@ wonderful is about to happen"</string>
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="standard_clock_panel">Normale</string>
     <string name="standard_style">Normale</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">Il conteggio dei passaggi è fornito da Xiaomi Health. Accetta
  i termini e le condizioni di Salute per continuare.</string>
     <string name="step_component_info_desc">Il conteggio dei passi si trasformerà in un trofeo quando il tuo obiettivo sarà raggiunto. Il conteggio dei passi è fornito da Xiaomi Health.</string>

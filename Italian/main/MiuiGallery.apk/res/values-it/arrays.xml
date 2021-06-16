@@ -226,8 +226,8 @@
         <item>Electronic first-class constructor certificate</item>
         <item>Second-class constructor certificate</item>
         <item>Junior accounting title examination</item>
-        <item>Certified public accountant</item>
-        <item>Beijing guide permit</item>
+        <item>Responsabile pubblico certificato</item>
+        <item>Permesso guida Pechino</item>
         <item>Intermediate accounting title examination</item>
         <item>Senior accounting title examination</item>
         <item>Accounting qualification certificate</item>
@@ -257,6 +257,11 @@
         <item>Mi 10 Pro</item>
         <item>Mi 11</item>
         <item>Mi 11 Pro</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Sposta</item>
+        <item>Copia</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Gennaio</item>
@@ -311,6 +316,15 @@
         <item>Compagni di classe</item>
         <item>Amici</item>
         <item>Non raggruppato</item>
+    </string-array>
+    <string-array name="relation_with_me_value">
+        <item>myself</item>
+        <item>child</item>
+        <item>family</item>
+        <item>collegue</item>
+        <item>classmate</item>
+        <item>friend</item>
+        <item>sconosciuto</item>
     </string-array>
     <string-array name="season">
         <item>Primavera</item>

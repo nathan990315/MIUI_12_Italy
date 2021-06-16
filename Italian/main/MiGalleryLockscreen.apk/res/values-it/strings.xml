@@ -133,6 +133,7 @@
     <string name="change_time">Cambia sfondo</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_overflowed_content_description">Limite caratteri superato %1$d di %2$d</string>
+    <string name="character_counter_pattern">%1$d di %2$d</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -355,10 +356,10 @@ Invia questo codice al supervisore."</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -369,12 +370,8 @@ Invia questo codice al supervisore."</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
@@ -933,6 +930,7 @@ mm"</string>
     <string name="sst_wallpaper_history_title">Cronologia</string>
     <string name="sst_wifi_only_desc">Disattiva per aggiornare gli sfondi solo tramite Wi-Fi</string>
     <string name="sst_wifi_only_title">Aggiorna gli sfondi utilizzando i dati mobili</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_wallpaper_loop_not_start">Spenta</string>
     <string name="status_wallpaper_loop_start">Attivata</string>
     <string name="subscribe_apply_wp">Sfondo schermata di blocco applicato correttamente</string>

@@ -370,6 +370,8 @@ Disattiva per fermare la sincronizzazione."</string>
     <string name="columbus_player_close_video">CHIUDI IL VIDEO</string>
     <string name="columbus_player_install_now">INSTALLA ORA</string>
     <string name="columbus_player_learn_more">Scopri di più</string>
+    <string name="columbus_player_speed_title">Saltare il Video?</string>
+    <string name="columbus_player_speed_video">Salta Il VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="com_facebook_device_auth_instructions">Visita &lt;b&gt;facebook.com/device&lt;/b&gt; ed inserisci il codice visualizzato sopra.</string>
     <string name="com_facebook_image_download_unknown_error">Errore inaspettato durante il download di un\'immagine.</string>
@@ -766,10 +768,10 @@ Invia questo codice al supervisore."</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -780,12 +782,8 @@ Invia questo codice al supervisore."</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>

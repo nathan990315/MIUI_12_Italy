@@ -73,8 +73,16 @@
     <string name="expand_button_title">Avanzate</string>
     <string name="first_note">Metti alla prova la tua percezione uditiva per regolare il volume di conseguenza.</string>
     <string name="four_note">Il test richiederà circa 3 minuti per essere completato.</string>
+    <string name="headset_use_long_time">"Sembra che tu stia indossando gli auricolari più a lungo di quanto raccomandato. Fai una pausa."</string>
+    <string name="headset_use_loud_volume">Il volume delle cuffie è stato alto per troppo tempo. Per proteggere il tuo udito, è stato abbassato al livello consigliato.</string>
+    <string name="headset_use_not_support_noise_reduction">Sembra che l\'ambiente attuale sia molto rumoroso. Indossare gli auricolari ora potrebbe influenzare il tuo udito.</string>
+    <string name="headset_use_prompt">Cuffie</string>
+    <string name="headset_use_support_noise_reduction">Sembra che il tuo ambiente attuale sia molto rumoroso. Usa la cancellazione del rumore per proteggere l\'udito.</string>
+    <string name="headset_volume_content">Il volume attuale delle cuffie supera il limite consigliato. Abbassalo per proteggere l\'udito.</string>
+    <string name="headset_volume_prompt">Volume delle cuffie</string>
     <string name="heard_no">No</string>
     <string name="heard_yes">Sì</string>
+    <string name="hearing_assist_bluetooth_headset">Auricolari Bluetooth</string>
     <string name="hearing_assist_bluetooth_headset_disconnected">Non connesso</string>
     <string name="hearing_assist_bluetooth_headset_not_supported">Non supportato</string>
     <string name="hearing_assist_btn_headset_choice">Seleziona dispositivo</string>
@@ -82,7 +90,12 @@
     <string name="hearing_assist_btn_stop">Interrompi</string>
     <string name="hearing_assist_exit_btn_continue">Mantieni attiva</string>
     <string name="hearing_assist_exit_btn_stop">Disattiva</string>
+    <string name="hearing_assist_exit_tips_summary">Il monitoraggio in-ear in tempo reale è in esecuzione. Disattivarlo?</string>
+    <string name="hearing_assist_exit_tips_title">Disattiva il monitoraggio in-ear in tempo reale</string>
+    <string name="hearing_assist_tips_message_one">%d. Il monitoraggio in-ear in tempo reale è disponibile nel centro di controllo. È possibile aggiungerlo lì.</string>
+    <string name="hearing_assist_tips_message_two">%d. Questa funzione è supportata dai modelli di Auricolare Bluetooth selezionati.</string>
     <string name="hearing_assist_title">Monitor auricolari in tempo reale</string>
+    <string name="hearing_assist_volume">"Volume del microfono"</string>
     <string name="hearing_of_left_ear">Orecchio sinistro</string>
     <string name="hearing_of_right_ear">Orecchio destro</string>
     <string name="high_pitch">Alte tonalità</string>
@@ -225,6 +238,7 @@
     <string name="save_and_apply">Salva e applica</string>
     <string name="search_menu_title">Cerca</string>
     <string name="second_note">Metti le cuffie.</string>
+    <string name="see_details">Dettagli</string>
     <string name="sound_assist_key_summary">Regola il suono per le singole app mentre più applicazioni riproducono l\'audio simultaneamente</string>
     <string name="sound_assist_key_title">Regola il suono multimediale in più applicazioni</string>
     <string name="sound_assist_title">Assistente audio</string>

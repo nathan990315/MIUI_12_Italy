@@ -9,7 +9,7 @@
         <item>1</item>
     </string-array>
     <string-array name="agps_network_entries">
-        <item>Home network</item>
+        <item>Rete domestica</item>
         <item>Tutte le reti</item>
     </string-array>
     <string-array name="agps_network_values">
@@ -129,6 +129,11 @@
         <item>2</item>
         <item>3</item>
     </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
     <string-array name="app_install_location_entries">
         <item>Memoria interna</item>
         <item>Scheda SD rimovibile</item>
@@ -167,78 +172,78 @@
         <item>Ricezione SMS/MMS</item>
         <item>Ricezione SMS/MMS</item>
         <item>Ricezione SMS/MMS</item>
-        <item>Send SMS/MMS</item>
+        <item>Invio SMS/MMS</item>
         <item>Lettura SMS/MMS</item>
         <item>Scrittura SMS/MMS</item>
         <item>Modifica impostazioni</item>
-        <item>Draw on top</item>
+        <item>Disegna sopra</item>
         <item>Accesso alle notifiche</item>
         <item>Fotocamera</item>
         <item>Registra audio</item>
         <item>Riprodurre audio</item>
         <item>Lettura appunti</item>
         <item>Modifica appunti</item>
-        <item>Media buttons</item>
+        <item>Pulsanti multimediali</item>
         <item>Messa a Fuoco Audio</item>
-        <item>Master volume</item>
-        <item>Voice volume</item>
-        <item>Ring volume</item>
+        <item>Volume principale</item>
+        <item>Volume della voce</item>
+        <item>Volume suoneria</item>
         <item>Volume contenuti multimediali</item>
         <item>Volume sveglia</item>
         <item>Volume notifiche</item>
-        <item>Bluetooth volume</item>
+        <item>Volume Bluetooth</item>
         <item>Mantieni attivo</item>
         <item>Posizione</item>
         <item>Posizione</item>
-        <item>Get usage stats</item>
-        <item>Mute/unmute microphone</item>
-        <item>Show toast</item>
-        <item>Project media</item>
-        <item>Activate VPN</item>
-        <item>Write wallpaper</item>
+        <item>Ottieni statistiche di utilizzo</item>
+        <item>Attiva/disattiva il microfono</item>
+        <item>Mostra notifica Toast</item>
+        <item>Proietta media</item>
+        <item>Attiva VPN</item>
+        <item>Imposta sfondo</item>
         <item>Assist structure</item>
-        <item>Assist screenshot</item>
-        <item>Read phone state</item>
-        <item>Add voicemail</item>
-        <item>Use sip</item>
-        <item>Process outgoing call</item>
+        <item>Assistenza screenshot</item>
+        <item>Lettura stato telefono</item>
+        <item>Aggiungi segreteria</item>
+        <item>Usa sip</item>
+        <item>Elaborazione chiamata in uscita</item>
         <item>Impronta digitale</item>
         <item>Sensori biometrici</item>
-        <item>Read cell broadcasts</item>
-        <item>Mock location</item>
-        <item>Read storage</item>
-        <item>Write storage</item>
-        <item>Turn on screen</item>
-        <item>Get accounts</item>
-        <item>Run in background</item>
-        <item>Accessibility volume</item>
+        <item>Leggi trasmissioni celle</item>
+        <item>Posizione fittizia</item>
+        <item>Leggi memoria</item>
+        <item>Scrivi memoria</item>
+        <item>Attiva lo schermo</item>
+        <item>Ottieni account</item>
+        <item>Esegui in background</item>
+        <item>Volume accessibilità</item>
     </string-array>
     <string-array name="app_ops_summaries">
-        <item>coarse location</item>
-        <item>fine location</item>
+        <item>posizione approssimativa</item>
+        <item>posizione precisa</item>
         <item>Test GPS</item>
         <item>vibra</item>
-        <item>read contacts</item>
-        <item>modify contacts</item>
+        <item>leggi contatti</item>
+        <item>modifica contatti</item>
         <item>lettura del registro chiamate</item>
-        <item>modify call log</item>
-        <item>read calendar</item>
-        <item>modify calendar</item>
-        <item>wi-fi scan</item>
-        <item>notification</item>
-        <item>cell scan</item>
-        <item>call phone</item>
-        <item>read SMS</item>
-        <item>write SMS</item>
-        <item>receive SMS</item>
-        <item>receive emergency SMS</item>
-        <item>receive MMS</item>
-        <item>receive WAP push</item>
-        <item>send SMS</item>
-        <item>read ICC SMS</item>
-        <item>write ICC SMS</item>
-        <item>modify settings</item>
-        <item>draw on top</item>
+        <item>modifica registro chiamate</item>
+        <item>leggi calendario</item>
+        <item>modifica calendario</item>
+        <item>scansione Wi-Fi</item>
+        <item>notifica</item>
+        <item>scansione cella</item>
+        <item>telefonata</item>
+        <item>lettura SMS</item>
+        <item>scrittura SMS</item>
+        <item>ricezione SMS</item>
+        <item>ricevi SMS di emergenza</item>
+        <item>ricezione MMS</item>
+        <item>ricezione push WAP</item>
+        <item>invio SMS</item>
+        <item>lettura SMS ICC</item>
+        <item>scrittura SMS ICC</item>
+        <item>modifica impostazioni</item>
+        <item>disegna sopra</item>
         <item>accesso a notifiche</item>
         <item>camera</item>
         <item>accesso diretto al microfono per registrare audio</item>
@@ -299,12 +304,17 @@
     <string-array name="autofill_logging_level_entries">
         <item>Spenta</item>
         <item>Debug</item>
-        <item>Verbose</item>
+        <item>Dettagliato</item>
     </string-array>
     <string-array name="autofill_logging_level_values">
         <item>0</item>
         <item>2</item>
         <item>4</item>
+    </string-array>
+    <string-array name="automatic_storage_management_days">
+        <item>Più vecchi di 30 giorni</item>
+        <item>Più vecchi di 60 giorni</item>
+        <item>Più vecchi di 90 giorni</item>
     </string-array>
     <string-array name="automatic_storage_management_days_values">
         <item>30</item>
@@ -329,7 +339,7 @@
         <item>100%</item>
     </string-array>
     <string-array name="bearer_entries">
-        <item>Unspecified</item>
+        <item>Non specificato</item>
         <item>LTE</item>
         <item>HSPAP</item>
         <item>HSPA</item>
@@ -630,7 +640,7 @@
         <item>2 secondi</item>
         <item>5 secondi</item>
         <item>10 secondi</item>
-        <item>20 seconds</item>
+        <item>20 secondi</item>
         <item>Sempre</item>
     </string-array>
     <string-array name="button_light_timeout_value">
@@ -650,23 +660,23 @@
         <item>Predefinita</item>
         <item>Nessuno</item>
         <item>Contorno</item>
-        <item>Drop shadow</item>
+        <item>Ombreggiatura</item>
         <item>Raised</item>
         <item>Depressed</item>
     </string-array>
     <string-array name="captioning_font_size_selector_summaries">
-        <item>Very small text size</item>
-        <item>Small text size</item>
+        <item>Dimensione del testo molto piccola</item>
+        <item>Dimensione del testo piccola</item>
         <item>Dimensione testo predefinita</item>
-        <item>Large text size</item>
-        <item>Very large text size</item>
+        <item>Dimensione del testo grande</item>
+        <item>Dimensione del testo molto grande</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
-        <item>Very small</item>
+        <item>Molto piccola</item>
         <item>Piccolo</item>
         <item>Predefinita</item>
         <item>Largo</item>
-        <item>Very large</item>
+        <item>Molto grande</item>
     </string-array>
     <string-array name="captioning_font_size_selector_values">
         <item>0.25</item>
@@ -682,11 +692,11 @@
         <item>100%</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Set by app</item>
-        <item>White on black</item>
-        <item>Black on white</item>
-        <item>Yellow on black</item>
-        <item>Yellow on blue</item>
+        <item>Imposta per app</item>
+        <item>Bianco su nero</item>
+        <item>Nero su bianco</item>
+        <item>Giallo su nero</item>
+        <item>Giallo su blu</item>
         <item>Personalizza</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
@@ -697,8 +707,8 @@
         <item>Serif</item>
         <item>Serif monospace</item>
         <item>Casual</item>
-        <item>Cursive</item>
-        <item>Small capitals</item>
+        <item>Corsivo</item>
+        <item>Maiuscolo piccolo</item>
     </string-array>
     <string-array name="captioning_typeface_selector_values">
         <item></item>
@@ -1059,7 +1069,7 @@
     <string-array name="common_password_business_names">
         <item>Schemata di blocco</item>
         <item>Privacy password</item>
-        <item>Child mode</item>
+        <item>Modalità bambino</item>
         <item>Gestore file</item>
         <item>Blocco app</item>
         <item>Secondo spazio</item>
@@ -1087,7 +1097,7 @@
     </string-array>
     <string-array name="data_usage_data_range">
         <item>Ultimi 30 giorni</item>
-        <item>Set usage cycle...</item>
+        <item>Imposta ciclo di utilizzo...</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"Oggi (dati mobili) "</item>
@@ -1132,7 +1142,7 @@
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Mai</item>
-        <item>15 seconds</item>
+        <item>15 secondi</item>
         <item>30 secondi</item>
         <item>1 minuto</item>
         <item>2 minuti</item>
@@ -1150,11 +1160,17 @@
         <item>600000</item>
         <item>1800000</item>
     </string-array>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
     <string-array name="eap_ocsp_type">
         <item>Non convalidare</item>
-        <item>Request certificate status</item>
-        <item>Require certificate status</item>
-        <item>Require all non-trusted certificate statuses</item>
+        <item>Richiedi stato certificato</item>
+        <item>Richiede stato certificato</item>
+        <item>Richiede tutti gli stati dei certificati non attendibili</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nessuno</item>
@@ -1198,6 +1214,10 @@
         <item>2</item>
         <item>0</item>
     </string-array>
+    <string-array name="enabled_networks_subsidy_locked_choices">
+        <item>Solo LTE</item>
+        <item>GSM/WCDMA/LTE</item>
+    </string-array>
     <string-array name="enabled_networks_subsidy_locked_values">
         <item>11</item>
         <item>9</item>
@@ -1231,6 +1251,18 @@
     <string-array name="fingerprint_unlock_type_values">
         <item>0</item>
         <item>1</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
+        <item>Riavviare il dispositivo per rendere effettive le modifiche?</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Nascondi animazioni di sistema</item>
+        <item>Mostra animazioni di sistema</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>"Velocizza le prestazioni del dispositivo"</item>
+        <item>"Può rallentare le prestazioni del dispositivo"</item>
     </string-array>
     <string-array name="fps_list_values">
         <item>120</item>
@@ -1269,9 +1301,9 @@
         <item>always</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
-        <item>"Don't wake screen"</item>
+        <item>"Non riattivare lo schermo"</item>
         <item>Attivazione schermo</item>
-        <item>Show animation</item>
+        <item>Mostra animazione</item>
     </string-array>
     <string-array name="keyguard_notification_status_values">
         <item>0</item>
@@ -1304,9 +1336,9 @@
         <item>3</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
-        <item>Immediately</item>
+        <item>Immediatamente</item>
         <item>5 secondi</item>
-        <item>15 seconds</item>
+        <item>15 secondi</item>
         <item>30 secondi</item>
         <item>1 minuto</item>
         <item>2 minuti</item>
@@ -1326,11 +1358,11 @@
         <item>1800000</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
-        <item>Immediately</item>
-        <item>After 30 seconds</item>
-        <item>After 1 minute</item>
-        <item>After 2 minutes</item>
-        <item>After 5 minutes</item>
+        <item>Immediatamente</item>
+        <item>Dopo 30 secondi</item>
+        <item>Dopo 1 minuto</item>
+        <item>Dopo 2 minuti</item>
+        <item>Dopo 5 minuti</item>
         <item>Mai</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_values">
@@ -1350,7 +1382,7 @@
         <item>Nessuno</item>
         <item>Foto</item>
         <item>Video</item>
-        <item>Public transportation shortcuts</item>
+        <item>Collegamento ai trasporti pubblici</item>
     </string-array>
     <string-array name="long_press_volume_down_action_value">
         <item>smart</item>
@@ -1394,6 +1426,14 @@
         <item>Viola</item>
         <item>Viola</item>
     </string-array>
+    <string-array name="mi2_wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
+    </string-array>
     <string-array name="miui_entries_font_size">
         <item>XS</item>
         <item>S</item>
@@ -1410,14 +1450,36 @@
         <item>enorme</item>
         <item>godzilla</item>
     </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP e precedenti</item>
+        <item>Windows Vista e più recenti</item>
+        <item>OSX</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
+        <item>L\'archiviazione di massa USB si apre automaticamente quando è collegata a un computer.</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_summary">
+        <item>2. Segui le istruzioni a schermo</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="msd_pc_system_retry_linux">
-        <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+        <item>Installa lo strumento: \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"</item>
         <item>Create a directory: mkdir /media/mtp</item>
         <item>Confirm user group permissions in the current fuse user group</item>
         <item>Accedi di nuovo</item>
         <item>Access mounted device: mtpfs /media/mtp via File Manager; same as local folder.</item>
-        <item>"Uninstall device: fusermount -u /media/mtp
-Note: Only for Ubuntu 8.04!"</item>
+        <item>"Disinstalla dispositivo: fusermount -u /media/mtp
+Nota: solo per Ubuntu 8.04!"</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_xp">
+        <item>@string/msd_install_retry_connect</item>
+        <item>Reinstalla Mi PC Suite</item>
     </string-array>
     <string-array name="mvno_type_entries">
         <item>Nessuno</item>
@@ -1427,8 +1489,8 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ICCID</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
-        <item>Network is slow due to too much traffic</item>
-        <item>Network is slow due to weak signal strength</item>
+        <item>La rete è lenta a causa del traffico eccessivo</item>
+        <item>La rete è lenta a causa del segnale debole</item>
         <item>Spostamento…</item>
     </string-array>
     <string-array name="nfc_se_route_values">
@@ -1739,6 +1801,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1</item>
         <item>0</item>
     </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Riduzione rumore a singolo microfono</item>
+        <item>Riduzione rumore a doppio microfono</item>
+    </string-array>
     <string-array name="phone_call_noise_suppression_values">
         <item>1</item>
         <item>2</item>
@@ -1802,7 +1868,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="preferred_network_mode_gsm_wcdma_choices">
         <item>Solo reti GSM</item>
         <item>Solo reti WCDMA</item>
-        <item>GSM/WCDMA preferred</item>
+        <item>Preferito GSM/WCDMA</item>
     </string-array>
     <string-array name="preferred_network_mode_gsm_wcdma_values">
         <item>1</item>
@@ -1872,29 +1938,29 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Normale</item>
         <item>Moderato</item>
         <item>Bassa</item>
-        <item>Critical</item>
+        <item>Critico</item>
     </string-array>
     <string-array name="proc_stats_process_states">
-        <item>Persistent</item>
-        <item>Top activity</item>
-        <item>Important (foreground)</item>
-        <item>Important (background)</item>
+        <item>Persistente</item>
+        <item>Attività principale</item>
+        <item>Importante (primo piano)</item>
+        <item>Importante (background)</item>
         <item>Backup e ripristino</item>
-        <item>Heavy weight</item>
-        <item>Service (running)</item>
-        <item>Service (restarting)</item>
+        <item>Pesante</item>
+        <item>Servizio (In esecuzione)</item>
+        <item>Servizio (riavvio)</item>
         <item>Ricevitore</item>
         <item>Home</item>
-        <item>Last activity</item>
-        <item>Cached (activity)</item>
-        <item>Cached (activity client)</item>
-        <item>Cached (empty)</item>
+        <item>Ultima attività</item>
+        <item>Cache (attività)</item>
+        <item>Cache (attività client)</item>
+        <item>Cache (vuota)</item>
     </string-array>
     <string-array name="ram_states">
         <item>Normale</item>
         <item>Moderato</item>
         <item>Bassa</item>
-        <item>Critical</item>
+        <item>Critico</item>
         <item>\?</item>
     </string-array>
     <string-array name="right_tone_entry_values">
@@ -1902,6 +1968,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
+    </string-array>
+    <string-array name="screen_button_style">
+        <item>Stile mano sinistra</item>
+        <item>Stile mano destra</item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Caldo</item>
@@ -1923,13 +1993,22 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1.5 seconds</item>
         <item>2 secondi</item>
     </string-array>
+    <string-array name="screen_key_position_action">
+        <item>Tasto Menu a sinistra, tasto Indietro a destra</item>
+        <item>Tasto Indietro a sinistra, tasto Menu a destra</item>
+    </string-array>
     <string-array name="screen_key_position_action_value">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Show recent apps tray</item>
+        <item>Mostra applicazioni recenti</item>
         <item>Mostra menù</item>
+    </string-array>
+    <string-array name="screen_optimize_summary">
+        <item>Regola i colori in base all\'illuminazione attuale</item>
+        <item>Migliora sempre i colori</item>
+        <item>Il contrasto rimarrà costante</item>
     </string-array>
     <string-array name="screen_optimize_title">
         <item>Auto (consigliato)</item>
@@ -1942,11 +2021,11 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>720p</item>
     </string-array>
     <string-array name="screen_saturation_title">
-        <item>Brilliant</item>
+        <item>Brillante</item>
         <item>Normale</item>
     </string-array>
     <string-array name="screen_timeout_entries">
-        <item>15 seconds</item>
+        <item>15 secondi</item>
         <item>30 secondi</item>
         <item>1 minuto</item>
         <item>2 minuti</item>
@@ -2001,7 +2080,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Avviso</item>
         <item>Info</item>
         <item>Debug</item>
-        <item>Verbose</item>
+        <item>Dettagliato</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Spenta</item>
@@ -2120,9 +2199,14 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>0</item>
     </string-array>
     <string-array name="tabs_taptic_detail">
-        <item>Crisp</item>
+        <item>Nitido</item>
         <item>Base</item>
         <item>Pop</item>
+    </string-array>
+    <string-array name="time_format_entries">
+        <item>12-ore 1:00 PM</item>
+        <item>24-ore 13:00</item>
+        <item>Auto (basato sulla lingua di sistema)</item>
     </string-array>
     <string-array name="time_format_values">
         <item>12</item>
@@ -2192,10 +2276,15 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2</item>
         <item>3</item>
     </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>Regola i colori in base all\'illuminazione attuale</item>
+        <item>Migliora sempre i colori</item>
+        <item>Ripristina il colore standard del contenuto dello schermo con la calibrazione del colore</item>
+    </string-array>
     <string-array name="true_color_screen_optimize_title">
         <item>Auto (consigliato)</item>
         <item>Saturo</item>
-        <item>Original color</item>
+        <item>Colori originali</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Molto lento</item>
@@ -2237,7 +2326,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>GSM</item>
         <item>TDSCDMA</item>
         <item>LTE</item>
-        <item>Triple mode</item>
+        <item>Modalità tripla</item>
     </string-array>
     <string-array name="uplmn_prefer_network_mode_values">
         <item>0</item>
@@ -2249,7 +2338,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>GSM</item>
         <item>WCDMA</item>
         <item>LTE</item>
-        <item>Triple mode</item>
+        <item>Modalità tripla</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Tempo di utilizzo</item>
@@ -2273,7 +2362,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>midi</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
-        <item>Ask upon connection</item>
+        <item>Chiedi alla connessione</item>
         <item>Velocizza la ricarica</item>
         <item>Monta scheda SD</item>
     </string-array>
@@ -2281,6 +2370,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Ascended being</item>
+        <item>Umano</item>
+        <item>Neanderthal</item>
+        <item>Scimpanzè</item>
+        <item>Scimmia</item>
     </string-array>
     <string-array name="user_content_ratings_values">
         <item>5</item>
@@ -2317,6 +2413,25 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Timeout</item>
         <item>Fallito</item>
     </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>VPN L2TP/IPSec con chiavi precondivise</item>
+        <item>VPN L2TP/IPSec con certificati</item>
+        <item>VPN IPSec con chiavi precondivise e autenticazione Xauth</item>
+        <item>VPN IPSec con certificati e autenticazione Xauth</item>
+        <item>VPN IPSec con certificati e autenticazione ibrida</item>
+        <item>VPN IKEv2/IPSec con certificati e autenticazione username/password</item>
+        <item>VPN IKEv2/IPSec con chiavi pre-condivise</item>
+        <item>VPN IKEv2/IPSec con certificati</item>
+    </string-array>
+    <string-array name="wfd_status">
+        <item>Inizio sessione…</item>
+        <item>Sessione iniziata</item>
+        <item>Disattivazione servizio…</item>
+        <item>"Impossibile avviare la sessione"</item>
+        <item>Tempo scaduto. Riprova…</item>
+        <item>Dispositivo connesso</item>
+    </string-array>
     <string-array name="when_to_start_screensaver_values">
         <item>while_charging_only</item>
         <item>while_docked_only</item>
@@ -2326,7 +2441,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="whetstone_level_entries">
         <item>Spenta</item>
         <item>Bassa</item>
-        <item>Middle</item>
+        <item>Medio</item>
         <item>Alta</item>
     </string-array>
     <string-array name="whetstone_level_values">
@@ -2403,6 +2518,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>1</item>
         <item>2</item>
     </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
         <item>TLS</item>
@@ -2426,8 +2547,8 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Automatico</item>
-        <item>5 GHz only</item>
-        <item>2.4 GHz only</item>
+        <item>Solo 5 GHz</item>
+        <item>Solo 2.4 GHz</item>
     </string-array>
     <string-array name="wifi_frequency_band_values">
         <item>0</item>
@@ -2446,9 +2567,18 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Ausiliaria</item>
         <item>Piena</item>
     </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>Aumenta la velocità utilizzando i dati mobili solo quando il segnale Wi-Fi è scadente</item>
+        <item>Combina Wi-Fi e dati mobili per aumentare la velocità di connessione</item>
+    </string-array>
     <string-array name="wifi_link_turbo_mode_values">
         <item>0</item>
         <item>1</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Rileva automaticamente</item>
+        <item>Tratta come misurato</item>
+        <item>Tratta come non misurato</item>
     </string-array>
     <string-array name="wifi_metered_values">
         <item>0</item>
@@ -2460,7 +2590,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Invitato</item>
         <item>Fallito</item>
         <item>Disponibile</item>
-        <item>Out-of-range</item>
+        <item>Fuori portata</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Premi il pulsante</item>
+        <item>PIN del dispositivo peer</item>
+        <item>PIN di questo dispositivo</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries_with_sim_auth">
         <item>MSCHAPV2</item>
@@ -2469,6 +2604,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>AKA</item>
         <item>"AKA'"</item>
     </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>Usa indirizzo MAC casuale</item>
+        <item>Usa indirizzo MAC del dispositivo</item>
+    </string-array>
     <string-array name="wifi_privacy_values">
         <item>1</item>
         <item>0</item>
@@ -2476,7 +2615,14 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="wifi_proxy_settings">
         <item>Nessuno</item>
         <item>Manuale</item>
-        <item>Proxy Auto-Config</item>
+        <item>Configurazione Automatica Proxy</item>
+    </string-array>
+    <string-array name="wifi_security_no_eap">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
     </string-array>
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
@@ -2484,7 +2630,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="wifi_signal">
         <item>Scarsa</item>
         <item>Scarsa</item>
-        <item>Fair</item>
+        <item>Discreto</item>
         <item>Normale</item>
         <item>Eccellente</item>
     </string-array>
@@ -2533,6 +2679,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI esadecimale</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animazioni disattivate</item>

@@ -112,6 +112,10 @@
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Svuota %s dalla cache di WeChat per liberare spazio di archiviazione</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Non dimenticare di pulire la cache"</string>
     <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Ricorda di pulire la cache di WeChat</string>
+    <string name="appcleaner_wechat_pref_size_100_MB">100MB</string>
+    <string name="appcleaner_wechat_pref_size_1_GB">1GB</string>
+    <string name="appcleaner_wechat_pref_size_300_MB">300MB</string>
+    <string name="appcleaner_wechat_pref_size_500_MB">500MB</string>
     <string name="appcleaner_wechat_pref_time_every_day">Ogni giorno</string>
     <string name="appcleaner_wechat_pref_time_fifteen_day">Ogni 15 giorni</string>
     <string name="appcleaner_wechat_pref_time_seven_day">Ogni 7 giorni</string>
@@ -424,10 +428,10 @@
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -438,12 +442,8 @@
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
@@ -572,6 +572,7 @@
     <string name="hints_garbage_cleanup_result_safe">Sembra tutto OK</string>
     <string name="hints_garbage_handle_item_content">%1$d elementi，%2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Vuoto</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Utilizzata raramente</string>
     <string name="hints_installed_app_near">Usato di recente</string>
     <string name="hints_installed_app_never">Non utilizzata di recente</string>

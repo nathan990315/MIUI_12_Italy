@@ -102,6 +102,8 @@
     <string name="all">Visualizza tutti</string>
     <string name="am">AM</string>
     <string name="app_description_content">"Mi Video è un'app di sistema che contiene un lettore video locale. Sarai ancora in grado di riprodurre i file video dopo aver rimosso il collegamento dalla schermata Home."</string>
+    <string name="app_description_title">Rimuovere \"Mi Video\" dalla schermata Home?</string>
+    <string name="app_name">Mi Video</string>
     <string name="auth_again">Accetto</string>
     <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo.</string>
     <string name="auto_play_next_off">Riproduzione automatica spenta</string>
@@ -131,6 +133,9 @@
     <string name="cast_forward">Inoltra</string>
     <string name="cast_forward_10">Avanti dieci secondi</string>
     <string name="cast_forward_30">Avanti trenta secondi</string>
+    <string name="cast_invalid_stream_duration_text">--:--</string>
+    <string name="cast_invalid_stream_position_text">--:--</string>
+    <string name="cast_live_label">IN DIRETTA</string>
     <string name="cast_mute">Silenzioso</string>
     <string name="cast_notification_connected_message">Collegato a %1$s</string>
     <string name="cast_notification_connecting_message">Connessione a %1$s</string>
@@ -154,6 +159,7 @@
     <string name="cast_tracks_chooser_dialog_ok">OK</string>
     <string name="cast_tracks_chooser_dialog_subtitles">Sottotitoli</string>
     <string name="cast_unmute">Riattiva l\'audio</string>
+    <string name="catchplay_video">Catchplay</string>
     <string name="change_activate_email">Cambia indirizzo email</string>
     <string name="change_password">Cambia password</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
@@ -234,6 +240,7 @@
     <string name="click_to_reload_more">Tocca per caricare altro</string>
     <string name="click_to_retry">Riprova</string>
     <string name="close">Chiudi</string>
+    <string name="cloud_auto_pip_play_switch">Attiva automaticamente il picture-in-picture</string>
     <string name="cloud_online_player">Giocatore</string>
     <string name="cloud_online_switch">Consigli personalizzati</string>
     <string name="cloud_online_switch_close_time">Puoi attivare i consigli di contenuti personalizzati in %s</string>
@@ -245,6 +252,8 @@
     <string name="columbus_player_close_video">CHIUDI IL VIDEO</string>
     <string name="columbus_player_install_now">INSTALLA ORA</string>
     <string name="columbus_player_learn_more">Scopri di più</string>
+    <string name="columbus_player_speed_title">Saltare il Video?</string>
+    <string name="columbus_player_speed_video">Salta Il VIDEO</string>
     <string name="columbus_player_unit_sec">sec</string>
     <string name="com_facebook_device_auth_instructions">Visita &lt;b&gt;facebook.com/device&lt;/b&gt; ed inserisci il codice visualizzato sopra.</string>
     <string name="com_facebook_image_download_unknown_error">Errore inaspettato durante il download di un\'immagine.</string>
@@ -327,16 +336,29 @@
     <string name="day">giorno</string>
     <string name="default_filedownloader_notification_content">FileDownloader in esecuzione.</string>
     <string name="default_filedownloader_notification_title">FileDownloader</string>
+    <string name="default_upgrade_hint">"Ciao!
+Mi Video può essere aggiornato.
+Aggiorna l'app ora per controllare nuove funzionalità interessanti!
+Mi Video Team"</string>
     <string name="description">Descrizione</string>
+    <string name="detail_select_source">Seleziona la sorgente di riproduzione</string>
     <string name="diagnosis_log_send_failed">"Impossibile inviare i log. Riprova."</string>
     <string name="diagnosis_log_sent_format">"Log inviati con successo.
 ID:%s
 Invia questo codice al supervisore."</string>
+    <string name="dialog_disagree_privacychange_info">"Non sarai in grado di utilizzare i servizi di streaming online Mi Video se non accetti la nostra Informativa sulla privacy. Tocca \"Annulla\" per tornare indietro o \"Non accettare\" per continuare e utilizzare Mi Video solo come riproduttore locale."</string>
+    <string name="dialog_disagree_privacychange_title">"Non sei d'accordo?"</string>
+    <string name="dialog_privacy_change_info">"Abbiamo aggiornato l'Informativa sulla privacy di Mi Video a causa delle modifiche apportate ai servizi che offriamo. Per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare l'app."</string>
+    <string name="dialog_privacy_change_title">Aggiornamento Informativa sulla privacy</string>
     <string name="dialog_privacy_info_new2">"Per essere in grado di utilizzare i servizi, è necessario accettare che %1$s raccoglierà, elaborerà e utilizzerà le informazioni personali. Confermerai di aver letto e accettato la nostra &lt;a href=\"%2$s\"&gt;Informativa sulla privacy&lt;/a&gt; quando avrei premuto \"Accetta\" qui sotto."</string>
     <string name="dialog_privacy_info_new3">"Per poter utilizzare questo servizio, è necessario consentire a %1$s di raccogliere, elaborare, e utilizzare le tue informazioni personali in conformità con l'Informativa sulla privacy. Cliccando su \"Accetta\" qui sotto, accetti l'&lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; e l'&lt;a href=%3$s&gt;Accordo utente&lt;/a&gt; di Xiaomi."</string>
+    <string name="dialog_privacy_info_new4">"Benvenuto in Mi Video! Questa app fornisce i seguenti servizi:&lt;br&gt;&lt;/br&gt; - Servizi di streaming online&lt;br&gt;&lt;/br&gt;- Un lettore video locale&lt;br&gt;&lt;/br&gt;Mi Video deve raccogliere le informazioni personali necessarie per fornirti i servizi di base. Puoi imparare come gestiamo le informazioni che raccogliamo nella nostra Privacy Policy. Sarai in grado di modificare le impostazioni correlate in Impostazioni &gt; Password &amp;amp; sicurezza.&lt;br&gt;&lt;/br&gt;Leggi e accetta il nostro &lt;a href=%1$s&gt;Accordo utente&lt;/a&gt; e &lt;a href=%2$s&gt;Informativa sulla privacy&lt;/a&gt; prima di utilizzare Mi Video."</string>
     <string name="dialog_privacy_revoke_cancel">Annulla</string>
+    <string name="dialog_privacy_revoke_count_down">Ritira (%1$ds)</string>
+    <string name="dialog_privacy_revoke_description">Disattivando l\'opzione, ritiri il tuo consenso all\'Informativa sulla privacy di Mi Video. Smetteremo di raccogliere i tuoi dati personali. I dati personali già raccolti e conservati saranno cancellati entro il termine specifico previsto dalle leggi applicabili. Il ritiro del consenso alla Privacy Policy sarà considerato come rifiuto di accettare servizi online sulla base delle informazioni personali raccolte.</string>
     <string name="dialog_privacy_revoke_fail">Impossibile collegarsi alla rete. Controlla le impostazioni e riprova.</string>
     <string name="dialog_privacy_revoke_ok">Revoca</string>
+    <string name="dialog_privacy_revoke_success">Ritirato con successo</string>
     <string name="dialog_privacy_revoking">Revoca del consenso…</string>
     <string name="dialog_privacy_title">Termini e condizioni</string>
     <string name="dialog_revoke_privacy_info_new2">Dopo aver revocato l\'autorizzazione, l\'app interromperà la raccolta dei dati e tutti i dati correlati verranno eliminati dai nostri server. Questo potrebbe rendere l\'applicazione inutilizzabile. Revocare l\'autorizzazione?</string>
@@ -443,8 +465,10 @@ Invia questo codice al supervisore."</string>
     <string name="feedback_tag_title">Categoria</string>
     <string name="feedback_text_empty_toast">Inserisci il tuo feedback.</string>
     <string name="file_cant_rename">Il file %1$s esiste già. Scegli un altro nome</string>
+    <string name="file_space_not_enough_tip">Spazio di archiviazione insufficiente. Libera almeno %d MB e avvia nuovamente l\'app.</string>
     <string name="find_psw">Password dimenticata</string>
     <string name="finish">Fatto</string>
+    <string name="firework_privacy">Informativa sulla Privacy Firework</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -453,10 +477,10 @@ Invia questo codice al supervisore."</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -467,12 +491,8 @@ Invia questo codice al supervisore."</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
@@ -500,12 +520,17 @@ Invia questo codice al supervisore."</string>
     <string name="gallery_folder_alias_TAOBAO">Taobao</string>
     <string name="gallery_folder_alias_camera">Fotocamera</string>
     <string name="gallery_folder_alias_download">Download</string>
+    <string name="gallery_folder_alias_mivideo">Mi Video</string>
     <string name="gallery_folder_alias_mobileqq">Fotocamera QQ</string>
     <string name="gallery_folder_alias_mobileqq_file">File QQ</string>
+    <string name="gallery_folder_alias_pdd">Pinduoduo</string>
     <string name="gallery_folder_alias_qq">QQ</string>
     <string name="gallery_folder_alias_qqeditpic">Editor QQ</string>
+    <string name="gallery_folder_alias_qtt">Qutoutiao</string>
     <string name="gallery_folder_alias_screen_recorder">Registrazioni schermo</string>
+    <string name="gallery_folder_alias_sina">Sina</string>
     <string name="gallery_folder_alias_tencent_video">Tencent</string>
+    <string name="gallery_folder_alias_toutiao">Toutiao</string>
     <string name="gallery_folder_alias_wechat">WeChat</string>
     <string name="gallery_folder_alias_youku_video">Youku</string>
     <string name="gallery_tab_all">Tutto</string>
@@ -513,6 +538,7 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_already_cloud_member">Usa l\'abbonamento VIP per riprodurre</string>
     <string name="galleryplus_check_network">Impostazioni</string>
     <string name="galleryplus_chose_play_speed">Riproduzione a %1$.1fX</string>
+    <string name="galleryplus_chose_play_speed_2">Riproduzione a %1$.2fX</string>
     <string name="galleryplus_chose_play_speed_failure">"Impossibile regolare la velocità di riproduzione"</string>
     <string name="galleryplus_click_to_higher_definition">Tocca due volte per l\'anteprima HD</string>
     <string name="galleryplus_copyright_unsported_audio">"Impossibile riprodurre il video musicale a causa di restrizioni sul copyright"</string>
@@ -559,6 +585,7 @@ Invia questo codice al supervisore."</string>
     <string name="galleryplus_permission_refuse">Non ora</string>
     <string name="galleryplus_permission_retry">Permessi</string>
     <string name="galleryplus_permission_title">Attenzione</string>
+    <string name="galleryplus_play_speed">%1$.1fX</string>
     <string name="galleryplus_restore_play_speed">Riproduci a velocità normale</string>
     <string name="galleryplus_save_cancel_toast">Tocca di nuovo \"Indietro\" per annullare il salvataggio del video</string>
     <string name="galleryplus_save_fail">"Impossibile salvare"</string>
@@ -623,6 +650,9 @@ Invia questo codice al supervisore."</string>
     <string name="isornot_your_mi_account">È questo il tuo Mi Account?</string>
     <string name="issue">Problema</string>
     <string name="item_card_all_replies">Tutte le risposte</string>
+    <string name="item_card_continue_play">Riproduzione automatica</string>
+    <string name="item_card_more_trailers">Altri trailer</string>
+    <string name="item_card_open_in">"Apri con "</string>
     <string name="item_card_related">Correlati</string>
     <string name="item_setting_go_back">Revoca autorizzazione...</string>
     <string name="just_a_second">Attendi…</string>
@@ -640,6 +670,8 @@ per i video"</string>
     <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
     <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
     <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
+    <string name="library_roundedimageview_author">Vince Mi</string>
+    <string name="library_roundedimageview_isOpenSource">vero</string>
     <string name="library_roundedimageview_libraryDescription">Una vista veloce (e disegnabile) che supporta angoli arrotondati (e ovali o cerchi) in base all\'esempio originale di Romain Guy.</string>
     <string name="live_now">In diretta ora</string>
     <string name="live_title">Live</string>
@@ -772,6 +804,7 @@ per i video"</string>
     <string name="lv_volume">Volume</string>
     <string name="manage">Gestisci</string>
     <string name="mediation_ad_can_not_share">"Impossibile condividere questo video"</string>
+    <string name="mi_video">Mi Video</string>
     <string name="midnight">Notte</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
@@ -795,6 +828,7 @@ per i video"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"E' tutto per ora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
+    <string name="mnc_live_tv">Live TV</string>
     <string name="moment_guide_desc">Usa i gesti per ingrandire e rimpicciolire</string>
     <string name="moment_tab_all">Tutto</string>
     <string name="moment_tab_facebook">Facebook</string>
@@ -912,8 +946,11 @@ per i video"</string>
     <string name="notification_recall_desc">Mi Video può notificarti i video popolari e le tue iscrizioni.</string>
     <string name="notification_recall_title">Attiva notifiche</string>
     <string name="notify_apk_installed">Scaricato con successo</string>
+    <string name="off_tip_firework_recommend">"Non riceverai consigli di contenuti personalizzati da Fireworks"</string>
     <string name="ok">OK</string>
+    <string name="on_tip_firework_recommend">"Riceverai consigli di contenuti personalizzati da Fireworks"</string>
     <string name="open_settings">Impostazioni</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Iscrizioni recenti</string>
     <string name="order_recently_updated">Aggiornati di recente</string>
     <string name="ovp_alert_dialog_download_install_task">Download plug-in HD…</string>
@@ -946,6 +983,7 @@ per i video"</string>
     <string name="ovp_detail_v_episode_count">Aggiornato all\'episodio %d</string>
     <string name="ovp_detail_v_episode_download_null">"Impossibile scaricare questo episodio"</string>
     <string name="ovp_detail_v_variety_episode_count">Aggiornato alla stagione %s</string>
+    <string name="ovp_episode_suffix">"Ep. %d "</string>
     <string name="ovp_favor">Preferiti</string>
     <string name="ovp_favor_null">Nessun elemento trovato.</string>
     <string name="ovp_feedback_title">Feedback Mi Video</string>
@@ -1116,10 +1154,12 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="phone_num_use_for">Il numero di telefono viene utilizzato per:</string>
     <string name="phone_number">Numero di telefono</string>
     <string name="photoPickerNotFoundText">Nessuna foto disponibile.</string>
+    <string name="pip">PiP</string>
     <string name="playlist_create">Crea</string>
     <string name="playlist_detail_recomm_title">Playlist consigliate</string>
     <string name="playlist_finish">Fatto</string>
     <string name="playlist_hot">Popolari</string>
+    <string name="playlist_name">Inserisci titolo della playlist</string>
     <string name="playlist_new">Nuovo</string>
     <string name="playlist_no_more">Nessun video qui</string>
     <string name="playlist_no_videos">Nessun video</string>
@@ -1165,6 +1205,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="plus_player_detail_file_path">"Percorso: "</string>
     <string name="plus_player_detail_file_time">"Orario: "</string>
     <string name="plus_player_hide">Nascondi</string>
+    <string name="plus_player_pip">PiP</string>
     <string name="plus_player_pip_unsupport">"PiP non è supportato in questa versione del sistema."</string>
     <string name="plus_player_play_mode_auto">Riproduzione automatica</string>
     <string name="plus_player_play_mode_list">Ripeti tutto</string>
@@ -1398,6 +1439,7 @@ Aumentare la sicurezza del tuo account."</string>
     <string name="srl_header_secondary">Rilascia Al Secondo Piano</string>
     <string name="srl_header_update">"'Ultimo aggiornamento' d-M HH:mm"</string>
     <string name="start_download_tip">Aggiunto alla coda. Controlla lo stato di avanzamento su Profilo e Download.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">Scheda SD</string>
     <string name="storage_internal_sdcard">Memoria interna</string>
     <string name="submit">Invia</string>

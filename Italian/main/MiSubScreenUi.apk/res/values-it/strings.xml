@@ -37,7 +37,7 @@
     <string name="aod_component">Always-on display</string>
     <string name="aod_dual_togother">HH:mm</string>
     <string name="aod_lock_screen_date">EE d/m</string>
-    <string name="aod_lock_screen_date_signature">dd/MM</string>
+    <string name="aod_lock_screen_date_signature">d/M</string>
     <string name="aod_lock_screen_date_v">"EE 
 d/M"</string>
     <string name="aod_show_date_and_time">Data e ora</string>
@@ -159,10 +159,10 @@ d/M"</string>
     <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">dd</string>
     <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
@@ -173,12 +173,8 @@ d/M"</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
     <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
     <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">HH</string>
     <string name="fmt_time_24hour_minute">HH:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
@@ -382,8 +378,10 @@ d/M"</string>
     <string name="subscreen_other_dialog_cancel">Annulla</string>
     <string name="subscreen_other_dialog_confirm">Attiva</string>
     <string name="subscreen_other_dialog_goto">Aggiungi</string>
+    <string name="subscreen_other_dialog_message">"Il Super Risparmio Energetico disabilita la schermata principale. Sarai in grado di controllare l'ora, accettare chiamate e chiamare il tuo contatto di emergenza impostato in precedenza. I nostri test mostrano che il tuo dispositivo potrebbe essere in grado di funzionare per un massimo di %d giorni con una singola carica quando il Super Risparmio Energetico è attivo. Tuttavia, questo periodo di tempo potrebbe essere più breve a causa di vari fattori. Attivare il Super Risparmio Energetico?"</string>
     <string name="subscreen_other_dialog_title">Super Risparmio Energetico</string>
     <string name="subscreen_other_next_dialog_message">Devi aggiungere un contatto di emergenza prima di usare il Super Risparmio Energetico. Aggiungerlo?</string>
+    <string name="subscreen_other_wilderness_summary">"Il Super Risparmio Energetico disabilita la schermata principale. Sarai solo in grado di controllare l'ora, accettare chiamate e chiamare il tuo contatto di emergenza impostato in precedenza. I nostri test mostrano che il tuo dispositivo potrebbe essere in grado di funzionare per un massimo di %d giorni con una singola carica quando il Super Risparmio Energetico è attivo. Tuttavia, questo periodo di tempo potrebbe essere più breve a causa di vari fattori."</string>
     <string name="subscreen_other_wilderness_title">Super Risparmio Energetico</string>
     <string name="subscreen_settings_fail">"Operazione non riuscita"</string>
     <string name="subscreen_settings_mode">Spegni dopo</string>
