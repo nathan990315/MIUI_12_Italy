@@ -213,14 +213,6 @@
         <item>drm-only</item>
         <item>always</item>
     </string-array>
-    <string-array name="long_trace_duration_values">
-        <item>10</item>
-        <item>@string/default_long_trace_duration</item>
-        <item>60</item>
-        <item>480</item>
-        <item>720</item>
-        <item>1440</item>
-    </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nessuno</item>
         <item>480p</item>

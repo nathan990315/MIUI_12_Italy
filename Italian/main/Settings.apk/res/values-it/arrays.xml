@@ -1426,14 +1426,6 @@
         <item>Viola</item>
         <item>Viola</item>
     </string-array>
-    <string-array name="mi2_wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
-    </string-array>
     <string-array name="miui_entries_font_size">
         <item>XS</item>
         <item>S</item>
@@ -2616,13 +2608,6 @@ Nota: solo per Ubuntu 8.04!"</item>
         <item>Nessuno</item>
         <item>Manuale</item>
         <item>Configurazione Automatica Proxy</item>
-    </string-array>
-    <string-array name="wifi_security_no_eap">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>WAPI PSK</item>
-        <item>WAPI CERT</item>
     </string-array>
     <string-array name="wifi_security_only_wapi_cert_entries">
         <item>WAPI CERT</item>
