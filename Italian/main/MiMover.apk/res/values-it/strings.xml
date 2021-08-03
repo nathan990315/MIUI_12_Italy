@@ -198,8 +198,8 @@ Visita https://appleid.apple.com/#!&amp;page=signin per disattivarlo"</string>
     <string name="dialog_request_network_btn_positive">Accetto</string>
     <string name="dialog_request_permission_message">Benvenuto in Mi Mover! Puoi utilizzare questa app per trasferire i dati da iCloud o dal tuo vecchio dispositivo a uno nuovo. Questa app deve connettersi a internet e richiede i seguenti permessi per funzionare normalmente:</string>
     <string name="dialog_request_permission_message_buttom_content">Consentire a questa applicazione di connettersi a Internet e concedere le autorizzazioni obbligatorie elencate sopra.</string>
-    <string name="dialog_request_permission_message_extra_summary">用于该应用的基本服务与功能</string>
-    <string name="dialog_request_permission_message_extra_title">必要权限</string>
+    <string name="dialog_request_permission_message_extra_summary">Questi permessi sono richiesti per far sì che funzioni e servizi di questa app funzionino correttamente.</string>
+    <string name="dialog_request_permission_message_extra_title">Permessi richiesti</string>
     <string name="dialog_request_permission_message_link" formatted="false"><Data>\"Per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro &lt;a href=\'%1s\'&gt;Accordo Utente&lt;/a&gt; e &lt;a href=\'%2s\'&gt;Informativa sulla Privacy&lt;/a&gt;.\"</Data></string>
     <string name="dialog_request_permission_message_provision_link">Per comprendere pienamente i tuoi diritti come utente e i modi in cui utilizziamo i tuoi dati, leggi e accetta il nostro %1$s e %2$s.</string>
     <string name="dialog_request_permission_title">Attenzione</string>
@@ -592,8 +592,8 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="perm_write_settings">Modifica impostazioni di sistema</string>
     <string name="permission_alert_message_usage_access">Mi Mover ha bisogno di accedere alle statistiche di utilizzo dell\'app. Fornisci a Mi Mover i permessi richiesti nelle Impostazioni.</string>
     <string name="permission_alert_title">Permessi richiesti</string>
-    <string name="permission_bluetooth_summary">使用蓝牙扫描附近可投屏的设备</string>
-    <string name="permission_bluetooth_title">开启/关闭蓝牙</string>
+    <string name="permission_bluetooth_summary">Per cercare dispositivi vicini</string>
+    <string name="permission_bluetooth_title">Attivare e disattivare Bluetooth</string>
     <string name="permission_calender_summary">Per trasferire eventi dal calendario iCloud</string>
     <string name="permission_calender_title">Accesso agli eventi del calendario</string>
     <string name="permission_call_log_summary">Per trasferire la cronologia delle chiamate sul tuo nuovo dispositivo</string>
@@ -601,13 +601,13 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="permission_contacts_summary">Per trasferire i contatti sul tuo nuovo dispositivo</string>
     <string name="permission_contacts_title">Accesso ai contatti</string>
     <string name="permission_locale_summary">Per la connessione a dispositivi vicini</string>
-    <string name="permission_locale_title">获取设备的位置信息</string>
+    <string name="permission_locale_title">Accesso alla posizione</string>
     <string name="permission_message_summary">Per il trasferimento dei messaggi al nuovo dispositivo</string>
     <string name="permission_message_title">Accesso agli SMS</string>
     <string name="permission_storage_summary">Per il trasferimento di file e foto al nuovo dispositivo</string>
     <string name="permission_storage_title">Accesso e salvataggio di file e foto memorizzati sul tuo dispositivo</string>
     <string name="permission_wifi_summary">Per il trasferimento degli elementi al tuo nuovo dispositivo</string>
-    <string name="permission_wifi_title">开启/关闭WLAN</string>
+    <string name="permission_wifi_title">Attivare e disattivare WLAN</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiato negli appunti.</string>
     <string name="privacy_policy">Informativa sulla Privacy</string>
