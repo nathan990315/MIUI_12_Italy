@@ -2468,7 +2468,7 @@ avviso</string>
     <string name="device_description_battery">Capacità</string>
     <string name="device_description_camera">Test Fotocamera posteriore</string>
     <string name="device_description_cpu">CPU</string>
-    <string name="device_description_ram">Ram</string>
+    <string name="device_description_ram">RAM</string>
     <string name="device_description_resolution">Risoluzione</string>
     <string name="device_description_screen">Dim. schermo</string>
     <string name="device_details_title">Dettagli dispositivo</string>
@@ -2479,7 +2479,7 @@ avviso</string>
     <string name="device_info_default">Sconosciuto</string>
     <string name="device_info_not_available">Non disponibile</string>
     <string name="device_internal_memory">Memoria interna</string>
-    <string name="device_memory">Ram</string>
+    <string name="device_memory">RAM</string>
     <string name="device_miui_more">Mostra altro</string>
     <string name="device_miui_version">Versione MIUI</string>
     <string name="device_miui_version_for_POCO">Versione MIUI (POCOPHONE)</string>
@@ -3025,7 +3025,7 @@ Per maggiori dettagli contatta l'amministratore."</string>
     <string name="face_intro_error_max">Hai aggiunto il numero massimo di volti</string>
     <string name="face_intro_error_unknown">Impossibile aggiungere altri volti</string>
     <string name="face_lock_screen_setup_skip_dialog_text">Proteggi il tuo telefono con un\'opzione di blocco schermo in modo che nessuno sarà in grado di usarlo nel caso venga perso o rubato. Hai anche bisogno di un\'opzione di blocco schermo per impostare l\'autenticazione facciale. Tocca Annulla, quindi imposta un PIN, una sequenza o una password.</string>
-    <string name="face_unlock">Sblocco con il volto</string>
+    <string name="face_unlock">Sblocco facciale</string>
     <string name="face_unlock_be_on_the_screen">Tieni il fermo il dispositivo davanti al tuo volto</string>
     <string name="face_unlock_by_notification_screen_on_msg">È possibile sbloccare il dispositivo utilizzando i dati facciali ogni volta che lo schermo si accende per le notifiche in arrivo. Questo può scaricare la batteria più velocemente.</string>
     <string name="face_unlock_by_notification_screen_on_title">Consenti lo sblocco facciale quando lo schermo si accende</string>
@@ -3841,7 +3841,7 @@ Apri Xiaomi Cloud e ripristina gli elementi da lì."</string>
     <string name="keywords_all_apps">app download applicazioni sistema</string>
     <string name="keywords_ambient_display">notifica in arrivo</string>
     <string name="keywords_ambient_display_screen">Schermo ambient, Schermata di blocco</string>
-    <string name="keywords_android_version">livello di patch di sicurezza Android, versione baseband, versione kernel</string>
+    <string name="keywords_android_version">versione di patch di sicurezza Android, versione baseband, versione kernel</string>
     <string name="keywords_app">Ram</string>
     <string name="keywords_app_default">Apri con</string>
     <string name="keywords_app_permissions">permessi di sicurezza app</string>
@@ -4932,12 +4932,12 @@ ed esegui il software.</string>
     <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
     <string name="muffled_text">Le basse frequenze accentuano delicatamente le transizioni visive e rendono i gesti più naturali</string>
     <string name="multi_face_delete_message">Attenzione</string>
-    <string name="multi_face_delete_show_message">Eliminare i dati del volto?</string>
-    <string name="multi_face_input">Aggiungi dati volto</string>
-    <string name="multi_face_input_reach_upper_limit">"Impossibile aggiungere i dati del volto. Attendi un minuto o due e riprova."</string>
+    <string name="multi_face_delete_show_message">Eliminare volto?</string>
+    <string name="multi_face_input">Aggiungi la tua faccia</string>
+    <string name="multi_face_input_reach_upper_limit">"Impossibile aggiungere il volto. Attendi un minuto o due e riprova."</string>
     <string name="multi_face_input_success_name_title">Nome</string>
     <string name="multi_face_list">Dati del volto</string>
-    <string name="multi_face_name_prefix">"Volto "</string>
+    <string name="multi_face_name_prefix">"Volto"</string>
     <string name="multi_face_number_reach_limit">"Impossibile aggiungere dati per più di 2 volti"</string>
     <string name="multi_network_acceleration_app_settings">Accelerazione di rete per le app</string>
     <string name="multi_touch_points_category_title">Multi-tocco</string>
@@ -5921,7 +5921,7 @@ Leggi e accetta %s prima di utilizzare questo servizio."</string>
     <string name="process_stats_os_kernel">Kernel</string>
     <string name="process_stats_os_label">Sistema Android</string>
     <string name="process_stats_os_native">Nativo</string>
-    <string name="process_stats_os_zram">Z-Ram</string>
+    <string name="process_stats_os_zram">ZRAM</string>
     <string name="process_stats_ram_use">Uso della RAM</string>
     <string name="process_stats_run_time">Tempo di esecuzione</string>
     <string name="process_stats_summary">Statistiche tecniche sui processi in esecuzione</string>
@@ -6291,7 +6291,7 @@ Questa impostazione influisce su tutti gli utenti di questo dispositivo."</strin
     <string name="screen_paper_mode_summary">Riduce la luminosità di fondo</string>
     <string name="screen_paper_mode_time_summary">Imposta la modalità lettura agli orari predefiniti</string>
     <string name="screen_paper_mode_time_title">Pianifica</string>
-    <string name="screen_paper_mode_title">Lettura</string>
+    <string name="screen_paper_mode_title">Modalità lettura</string>
     <string name="screen_paper_mode_turn_off">Spenta</string>
     <string name="screen_paper_mode_turn_on">Attivata</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"Non mostrare più"</string>
@@ -6663,7 +6663,7 @@ Per utilizzare il blocco delle app: \u0009
     <string name="security_keyguard_category_name">Schemata di blocco</string>
     <string name="security_password_category_name">Blocco schermo</string>
     <string name="security_passwords_title">Privacy</string>
-    <string name="security_patch">Livello patch sicurezza Android</string>
+    <string name="security_patch">Versione patch sicurezza Android</string>
     <string name="security_privacy_settings_title">Privacy</string>
     <string name="security_relative">Sicurezza</string>
     <string name="security_settings_face_enroll_dialog_ok">OK</string>
@@ -6700,8 +6700,8 @@ Nota: Non puoi usare il tuo volto per sbloccare questo dispositivo. Per ulterior
     <string name="security_settings_face_enroll_should_re_enroll_title">Migliora le prestazioni dello Sblocco col Volto</string>
     <string name="security_settings_face_preference_summary">Volto aggiunto</string>
     <string name="security_settings_face_preference_summary_none">Imposta lo Sblocco Facciale</string>
-    <string name="security_settings_face_preference_title">Sblocco con il volto</string>
-    <string name="security_settings_face_profile_preference_title">Sblocco col Volto per il profilo di lavoro</string>
+    <string name="security_settings_face_preference_title">Sblocco facciale</string>
+    <string name="security_settings_face_profile_preference_title">Sblocco facciale per il profilo di lavoro</string>
     <string name="security_settings_face_settings_context_subtitle">Usa lo Sblocco col Volto per sbloccare il tuo telefono</string>
     <string name="security_settings_face_settings_enroll">Imposta lo Sblocco Facciale</string>
     <string name="security_settings_face_settings_footer">"Usa Sblocco Facciale per sbloccare il tuo dispositivo, accedere alle app e confermare i pagamenti.
@@ -6830,7 +6830,7 @@ Nota: Non puoi utilizzare la tua impronta per sbloccare questo dispositivo. Per 
     <string name="set_data_warning">Imposta avviso dati</string>
     <string name="set_jeejen_prompt_message">Jeejen verrà impostato come launcher predefinito. Puoi modificare il launcher predefinito in impostazioni &gt; Impostazioni di Sistema &gt; Home e Recenti &gt; Launcher predefinito.</string>
     <string name="set_jeejen_prompt_title">Conferma modifiche</string>
-    <string name="set_screen_paper_mode">Lettura</string>
+    <string name="set_screen_paper_mode">Modalità lettura</string>
     <string name="setting_privacy_password">Imposta la password di protezione privacy</string>
     <string name="settings_ad_loading">Caricamento…</string>
     <string name="settings_ad_loading_unavailable">"Impossibile caricare informazioni."</string>
@@ -7931,7 +7931,7 @@ Le impronte digitali salvate saranno rimosse da questo profilo e non sarai in gr
     <string name="unlock_set_enter_system">Salta Schermata di blocco</string>
     <string name="unlock_set_enter_system_summary">Vai direttamente alla schermata Home dopo lo sblocco</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Bassa sicurezza, sperimentale</string>
-    <string name="unlock_set_unlock_biometric_weak_title">Sblocco con il volto</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Sblocco facciale</string>
     <string name="unlock_set_unlock_disabled_summary">Disattivata da amministratore, norma crittografia o archivio credenziali</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Cambia o disattiva protez. tramite sequenza, PIN o password</string>
     <string name="unlock_set_unlock_launch_picker_change_title">Cambia blocco schermo</string>
