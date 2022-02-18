@@ -6,36 +6,6 @@
         <item>Settimana 3</item>
         <item>Settimana %1$d</item>
     </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="app_commute_tab_array">
         <item>Guida</item>
         <item>Trasporto pubblico</item>
@@ -46,12 +16,6 @@
         <item>20 minuti</item>
         <item>30 minuti</item>
         <item>60 minuti</item>
-    </string-array>
-    <string-array name="app_health_setting_value_array_duration">
-        <item>10</item>
-        <item>20</item>
-        <item>30</item>
-        <item>60</item>
     </string-array>
     <string-array name="aqi_title">
         <item>Eccellente</item>
@@ -64,10 +28,10 @@
     <string-array name="aqi_title_append">
         <item>%1$s</item>
         <item>%1$s</item>
-        <item>%1$s污染</item>
-        <item>%1$s污染</item>
-        <item>%1$s污染</item>
-        <item>%1$s污染</item>
+        <item>%1$s&lt;unk&gt; &lt;unk&gt;</item>
+        <item>%1$s&lt;unk&gt; &lt;unk&gt;</item>
+        <item>%1$s&lt;unk&gt; &lt;unk&gt;</item>
+        <item>%1$s&lt;unk&gt; &lt;unk&gt;</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>空气%1$s</item>
@@ -99,6 +63,13 @@
         <item>Piccolo</item>
         <item>Normale</item>
         <item>Largo</item>
+    </string-array>
+    <string-array name="map_title">
+        <item>错峰出行</item>
+        <item>有严重拥堵</item>
+        <item>路况畅通</item>
+        <item>无明显拥堵</item>
+        <item>有异常交通</item>
     </string-array>
     <string-array name="stock_color_schema">
         <item>Rosso - alro, verde - basso</item>

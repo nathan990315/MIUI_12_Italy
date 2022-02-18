@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Vai alla Home</string>
+    <string name="abc_action_bar_home_description">Vai alla home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
     <string name="abc_action_mode_done">Fatto</string>
     <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
     <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
-    <string name="abc_capital_off">DISATTIVATO</string>
-    <string name="abc_capital_on">ATTIVATO</string>
+    <string name="abc_capital_off">ATTIVATO</string>
+    <string name="abc_capital_on">DISATTIVATO</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">elimina</string>
@@ -27,10 +27,18 @@
     <string name="abc_shareactionprovider_share_with">Condividi con</string>
     <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
     <string name="abc_toolbar_collapse_description">Riduci</string>
+    <string name="app_name">MiMacro</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetComportamento</string>
     <string name="brvah_app_name">Raccolta</string>
-    <string name="cancel">Annulla</string>
+    <string name="brvah_load_end">没有更多数据</string>
+    <string name="brvah_load_failed">加载失败,请点我重试</string>
+    <string name="brvah_loading">正在加载中...</string>
+    <string name="cancel">Ferma</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_pattern">%1$d di %2$d</string>
+    <string name="fab_transformation_scrim_behavior">android.support.design.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">android.support.design.transformation.FabTransformationSheetBehavior</string>
     <string name="four_guide_introduce">Fai clic sul pulsante [Macro] sullo schermo per attivare la funzione macro impostata</string>
     <string name="gamebox_macro">Macro</string>
     <string name="gb_game_macro_action_count">Ripeti</string>
@@ -44,7 +52,6 @@
     <string name="gb_game_macro_action_speed_desc">Regola velocità di esecuzione</string>
     <string name="gb_game_macro_action_track">Visualizza gesti</string>
     <string name="gb_game_macro_action_track_desc">Visualizza tocchi e tracce</string>
-    <string name="gb_game_macro_action_unit_times">%sX</string>
     <string name="gb_game_macro_apply">Applica</string>
     <string name="gb_game_macro_button_alpha">Trasparenza pulsanti</string>
     <string name="gb_game_macro_button_big">Grande</string>
@@ -66,6 +73,8 @@
     <string name="gb_game_macro_record_action">Tocca per iniziare</string>
     <string name="gb_game_macro_save">Salva</string>
     <string name="gb_game_macro_save_exit">Salva</string>
+    <string name="gb_macro_floatview_noti">Consenti a MiMacro di essere mostrato sopra altre app</string>
+    <string name="hide_bottom_view_on_scroll_behavior">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="multiple_times">Velocità</string>
     <string name="name_can_not_be_renamed">Esiste già un elemento con questo nome</string>
@@ -79,7 +88,11 @@
     <string name="one_guide_introduce">Fai clic su Nuovo per creare una macro</string>
     <string name="operation_track">mostra operazioni</string>
     <string name="operation_track_explain">Se i tocchi e le tracce saranno visibili</string>
-    <string name="password_toggle_content_description">Mostra password</string>
+    <string name="password_toggle_content_description">Attiva visibilità password</string>
+    <string name="path_password_eye">M12,4,5C7,4,4,5 2,73,7,61 1,12c1,73,4,39 6,7,5 11,7,5s9,27,-3,11 11,-7,5c-1,73,-4,39 -6,-7,5 -11,-7,5zM12,17c-2,76,0 -5,-2,24 -5,-5s2,24,-5 5,-5 5,2,24 5,5 -2,24,5 -5,5zM12,9c-1,66,0 -3,1,34 -3,3s1,34,3 3,-1,34 3,-1,34 3,-3 -1,34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4,27 L19,73,22 L22,27,19,46 L4,54,1,73 L4,54,1 L23,1 L23,23 L1,23 L1,4,27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4,27 L2,4,27 L4,54,1,73 L4,54,1,73 L4,54,1 L23,1 L23,23 L1,23 L1,4,27 Z</string>
+    <string name="path_password_strike_through">M3,27,4,27 L19,74,20,74</string>
     <string name="play_delay">ritardo di esecuzione</string>
     <string name="play_delay_explain">Usa con la funzione di spegnimento schermo</string>
     <string name="play_delay_not_null_tips">Imposta prima il ritardo</string>
@@ -94,7 +107,6 @@
     <string name="second_times">Ritardo in secondi</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="three_guide_introduce">Supporta altre impostazioni, fai clic su abilita per impostare la posizione del pulsante macro</string>
-    <string name="time">volta</string>
     <string name="times">volte</string>
     <string name="two_guide_introduce">Tocca lo schermo volta per volta per creare un insieme di azioni</string>
     <string name="using_tutorial">Esercitati</string>

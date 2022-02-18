@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
     </string-array>
     <string-array name="drawer_alpha">
         <item>0%</item>
@@ -42,69 +16,105 @@
         <item>Widget</item>
         <item>Impostazioni</item>
     </string-array>
-    <string-array name="editing_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="gadget_weather_image">
-        <item>Cancella</item>
+        <item>Sereno</item>
         <item>Nuvoloso</item>
-        <item>Nebbioso</item>
-        <item>Nebbioso</item>
+        <item>Foschia</item>
+        <item>Nebbia</item>
         <item>Forte pioggia</item>
+        <item>Tempesta</item>
         <item>Temporale</item>
-        <item>Temporale</item>
-        <item>Forte temporale</item>
+        <item>Fulmini</item>
         <item>Acquazzoni</item>
-        <item>Pioggia intensa</item>
         <item>Pioggia</item>
+        <item>Pioggia leggera</item>
         <item>Pioggerella</item>
         <item>Nevischio</item>
         <item>Bufera di neve</item>
         <item>Neve a tratti</item>
-        <item>Nevicata Intensa</item>
-        <item>Nevicata</item>
-        <item>Nevicata leggera</item>
-        <item>Forte tempesta di sabbia</item>
-        <item>Tempesta di sabbia</item>
-        <item>Tempesta di sabbia leggera</item>
+        <item>Neve</item>
+        <item>Neve leggera</item>
+        <item>Nevicate</item>
+        <item>Leggera tempesta di sabbia</item>
+        <item>Grandine</item>
         <item>Tempesta di sabbia</item>
         <item>Grandine</item>
-        <item>Polveroso</item>
-        <item>Foschia</item>
+        <item>Polveroso e umido</item>
+        <item>Jansa</item>
+        <item>Grandinata</item>
     </string-array>
     <string-array name="gadget_weather_theme_type_entries">
-        <item>Predefinita</item>
+        <item>Predefinito</item>
         <item>Classico</item>
     </string-array>
-    <string-array name="icon_size">
-        <item>XS</item>
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
+    <string-array name="global_elderly_man_like_apps">
+        <item>com.whatsapp</item>
+        <item>com.google.android.youtube</item>
+        <item>com.facebook.katana</item>
+        <item>com.instagram.android</item>
+        <item>com.facebook.orca</item>
+        <item>com.zhiliaoapp.musically</item>
+        <item>com.facebook.lite</item>
+        <item>com.mxtech.videoplayer.ad</item>
+        <item>com.viber.voip</item>
+        <item>com.nemo.vidmate</item>
+        <item>org.telegram.messenger</item>
+        <item>com.UCMobile.intl</item>
+        <item>app.buzz.share</item>
+        <item>com.lenovo.anyshare.gps</item>
+        <item>video.like</item>
+        <item>com.imo.android.imoim</item>
+        <item>com.vkontakte.android</item>
+        <item>com.snapchat.android</item>
+        <item>in.startv.hotstar</item>
+        <item>com.phonepe.app</item>
+        <item>com.tencent.ig</item>
+        <item>com.dts.freefireth</item>
+        <item>com.twitter.android</item>
+        <item>com.king.candycrushsaga</item>
+        <item>com.flipkart.android</item>
+        <item>com.spotify.music</item>
+        <item>com.jio.myjio</item>
+        <item>ru.sberbankmobile</item>
+        <item>ru.ok.android</item>
+        <item>net.one97.paytm</item>
+        <item>in.amazon.mShop.android.shopping</item>
+        <item>jp.naver.line.android</item>
+    </string-array>
+    <string-array name="quality_business_devices">
+        <item>lithium</item>
+    </string-array>
+    <string-array name="recents_thumbnail_blur_white_pkgs">
+        <item>com.android.camera</item>
+        <item>com.mt.mtxx.mtxx</item>
+        <item>com.gorgeous.lite</item>
+        <item>com.lemon.faceu</item>
+        <item>com.campmobile.snowcamera</item>
+        <item>com.meitu.meiyancamera</item>
+        <item>com.benqu.wuta</item>
+        <item>vStudio.Android.Camera360</item>
+        <item>com.chinamworld.bocmbci</item>
+        <item>cmb.pb</item>
+        <item>com.chinamworld.main</item>
+        <item>com.icbc</item>
+        <item>com.android.bankabc</item>
+        <item>com.bankcomm.Bankcomm</item>
+        <item>com.ecitic.bank.mobile</item>
+        <item>cn.com.cmbc.newmbank</item>
+        <item>com.cebbank.mobile.cemb</item>
+        <item>cn.com.spdb.mobilebank.per</item>
     </string-array>
     <string-array name="transformation_entries">
-        <item>Classico 2</item>
+        <item>Scorrimento senza rimbalzo</item>
         <item>Dissolvenza</item>
         <item>Inclinazione</item>
         <item>Pagina</item>
         <item>Cascata</item>
-        <item>Ruotare</item>
+        <item>Rotazione</item>
         <item>Cubo</item>
     </string-array>
-    <string-array name="transformation_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>5</item>
-        <item>7</item>
-        <item>8</item>
-        <item>4</item>
-    </string-array>
     <string-array name="wallpaper_scroll_entries">
-        <item>Tema predefinito</item>
+        <item>Per tema</item>
         <item>Centro</item>
         <item>Sinistra</item>
         <item>Destra</item>
@@ -114,5 +124,25 @@
         <item>centro</item>
         <item>sinistra</item>
         <item>destra</item>
+    </string-array>
+    <string-array name="widget_component_default_source">
+        <item>非默认</item>
+        <item>桌面</item>
+        <item>负一屏</item>
+    </string-array>
+    <string-array name="widget_component_delete_way">
+        <item>shortcut删除</item>
+        <item>拖拽</item>
+        <item>disinstalla</item>
+    </string-array>
+    <string-array name="widget_host_module_name">
+        <item>桌面</item>
+        <item>负一屏_组件区</item>
+        <item>负一屏_实时动态</item>
+    </string-array>
+    <string-array name="widget_package_install_status">
+        <item>未安装</item>
+        <item>已安装</item>
+        <item>可升级</item>
     </string-array>
 </resources>

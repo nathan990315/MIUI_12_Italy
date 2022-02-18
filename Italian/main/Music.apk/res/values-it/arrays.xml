@@ -1,55 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="aritst_area_filter_api">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
     <string-array name="aritst_gender_filter_api">
-        <item>all</item>
-        <item>male</item>
-        <item>female</item>
+        <item>tutti</item>
+        <item>maschio</item>
+        <item>femmina</item>
         <item>gruppo</item>
     </string-array>
+    <string-array name="dirac_equalizer_preset_values">
+        <item>0,0,0,0,0,0,0</item>
+        <item>4,2,-2,0,-2,-2,4</item>
+        <item>0,0,0,-2,-3,0,0</item>
+        <item>0,-3,-5,0,0,-3,0</item>
+        <item>0,0,0,0,3,6,6</item>
+        <item>3,3,-3,0,-3,0,2</item>
+        <item>2,4,-6,4,0,1,2</item>
+        <item>3,3,-1,0,-3,0,0</item>
+        <item>0,0,-2,-2,2,2,0</item>
+        <item>0,4,2,0,-2,-2,4</item>
+        <item>2,0,0,-2,-4,0,0</item>
+    </string-array>
     <string-array name="recommendation_desc_week">
-        <item>Consigli Domenicali</item>
-        <item>Consigli del Lunedì</item>
-        <item>Consigli del Martedì</item>
-        <item>Consigli del Mercoledì</item>
-        <item>Consigli del Giovedì</item>
-        <item>Consigli del Venerdì</item>
-        <item>Consigli del Sabato</item>
+        <item>Suggerimenti domenicali</item>
+        <item>Suggerimenti del lunedì</item>
+        <item>Suggerimenti del martedì</item>
+        <item>Suggerimenti del mercoledì</item>
+        <item>Suggerimenti del giovedì</item>
+        <item>Suggerimenti del venerdì</item>
+        <item>Suggerimenti del sabato</item>
     </string-array>
 </resources>

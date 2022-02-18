@@ -1,52 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">un\'ora fa</item>
-        <item quantity="other">un\'ora fa</item>
+        <item quantity="one">1 ora fa</item>
+        <item quantity="other">1 ore fa</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">un\'ora fa</item>
-        <item quantity="other">un\'ora fa</item>
+        <item quantity="one">1 ora fa</item>
+        <item quantity="other">1 ora fa</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">mezz\'ora fa</item>
-        <item quantity="other">mezz\'ora fa</item>
+        <item quantity="one">Mezz\'ora fa</item>
+        <item quantity="other">Mezz\'ora fa</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="one">Tra 1 ora</item>
         <item quantity="other">Tra 1 ora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">Tra mezz\'ora</item>
-        <item quantity="other">Tra mezz\'ora</item>
+        <item quantity="one">Tra Mezz\'ora</item>
+        <item quantity="other">Tra Mezz\'ora</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Subito</item>
+        <item quantity="one">Immediatamente</item>
         <item quantity="other">adesso</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">tra %d minuti</item>
-        <item quantity="one">tra 1 minuto</item>
+        <item quantity="other">Tra %d min</item>
+        <item quantity="one">Tra 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Proprio adesso</item>
-        <item quantity="other">ora</item>
+        <item quantity="other">Poco fa</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minuti fa</item>
-        <item quantity="one">1 minuto fa</item>
+        <item quantity="other">%d min fa</item>
+        <item quantity="one">1 min fa</item>
     </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">%d giochi aggiunti</item>
         <item quantity="one">%d gioco aggiunto</item>
-    </plurals>
-    <plurals name="app_behavior_dashboard_title_desc">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
-    </plurals>
-    <plurals name="app_behavior_dashboard_total_usage_item">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">Permesso %3$d volte tra le %1$s e le %2$s</item>
@@ -217,8 +209,8 @@ Se attivi di nuovo i dati su rete mobile, il tuo operatore potrebbe addebitarti 
         <item quantity="one">%d chiamata</item>
     </plurals>
     <plurals name="fw_blocked_count_call_one">
-        <item quantity="other">%d chiamate</item>
-        <item quantity="one">%d chiamata</item>
+        <item quantity="other">%1$d chiamate da %2$s ed altri</item>
+        <item quantity="one">%1$d chiamata da %2$s</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d SMS</item>
@@ -288,13 +280,17 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">Ottieni una prova gratuita di %d giorni</item>
         <item quantity="one">Ottieni una prova gratuita di %d giorno</item>
     </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Aggiungi fino a %d applicazioni. Tieni premuto per riorganizzare.</item>
+        <item quantity="one">Aggiungi fino a %d app. Tieni premuto per riorganizzare.</item>
+    </plurals>
     <plurals name="gtb_spring_festival_colored_egg">
         <item quantity="other">"Congratulazioni! Hai sbloccato %s uova di Pasqua."</item>
         <item quantity="one">"Congratulazioni! Hai sbloccato %s uovo di Pasqua."</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="one">mezz\'ora fa</item>
-        <item quantity="other">mezz\'ora fa</item>
+        <item quantity="one">Mezz\'ora fa</item>
+        <item quantity="other">Mezz\'ora fa</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d altri caratteri</item>
@@ -373,16 +369,16 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">Tra 1 ora</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">Tra mezz\'ora</item>
-        <item quantity="other">Tra mezz\'ora</item>
+        <item quantity="one">Tra Mezz\'ora</item>
+        <item quantity="other">Tra Mezz\'ora</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Subito</item>
+        <item quantity="one">Immediatamente</item>
         <item quantity="other">adesso</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">tra %d minuti</item>
-        <item quantity="one">tra 1 minuto</item>
+        <item quantity="other">Tra %d min </item>
+        <item quantity="one">Tra 1 min</item>
     </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">%d giochi aggiunti</item>
@@ -401,8 +397,8 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="one">%s minuto</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">Proprio adesso</item>
-        <item quantity="other">ora</item>
+        <item quantity="one">Proprio ora</item>
+        <item quantity="other">poco fa</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Collega almeno %d punti</item>
@@ -496,10 +492,6 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">%d app bloccate</item>
         <item quantity="one">%d app bloccata</item>
     </plurals>
-    <plurals name="number_masked">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
-    </plurals>
     <plurals name="number_masked_text">
         <item quantity="other">%d notifiche sono state nascoste</item>
         <item quantity="one">%d notifica è stata nascosta</item>
@@ -520,12 +512,8 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">%d app bloccate</item>
         <item quantity="one">%d app bloccata</item>
     </plurals>
-    <plurals name="om_running_apps_num">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
-    </plurals>
     <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
+        <item quantity="other">+%d punti</item>
         <item quantity="one">+%d</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
@@ -535,10 +523,6 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
     <plurals name="pc_battery_history_hour">
         <item quantity="other">" ore"</item>
         <item quantity="one">" ora"</item>
-    </plurals>
-    <plurals name="pc_battery_history_minute">
-        <item quantity="other">" min"</item>
-        <item quantity="one">" min"</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s giorni</item>
@@ -619,10 +603,6 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
     <plurals name="power_center_battery_duration_hour_time_format">
         <item quantity="other">" ore"</item>
         <item quantity="one">" ora"</item>
-    </plurals>
-    <plurals name="power_center_battery_duration_min_time_format">
-        <item quantity="other">" min"</item>
-        <item quantity="one">" min"</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d ore "</item>
@@ -716,13 +696,13 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">%s app hanno accesso permanente</item>
         <item quantity="one">%s app ha accesso permanente</item>
     </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Consentito per %s app</item>
+        <item quantity="one">Consentito per %s app</item>
+    </plurals>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s volte</item>
         <item quantity="one">%s volta</item>
-    </plurals>
-    <plurals name="privacy_risk_app_count">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="privacy_risk_dangerous_permissions_tip">
         <item quantity="other">%d permessi ad alto rischio concessi</item>
@@ -828,13 +808,33 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">%d numeri</item>
         <item quantity="one">%d numero</item>
     </plurals>
+    <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Attiva la modalità Focus per %d minuti</item>
+        <item quantity="one">Attiva la modalità Focus per %d minuti</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Aggiornamento disponibile per %d applicazioni.</item>
         <item quantity="one">Aggiornamento disponibile per %d applicazione.</item>
     </plurals>
+    <plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">Dopo che lo schermo è bloccato per %d minuti</item>
+        <item quantity="one">Dopo che lo schermo è bloccato per %d min</item>
+    </plurals>
     <plurals name="summary_flow_verify">
         <item quantity="other">"Non hai sincronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorni"</item>
         <item quantity="one">"Non hai sincronizzato le statistiche sull'utilizzo dei dati con il tuo operatore da %d giorno"</item>
+    </plurals>
+    <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">Schermata di blocco dopo %d minuti</item>
+        <item quantity="one">Schermata di blocco dopo %d min</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%ds)</item>
+        <item quantity="one">(%ds)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d sicuri</item>
@@ -848,10 +848,6 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
         <item quantity="other">%d virus eliminati</item>
         <item quantity="one">%d virus eliminato</item>
     </plurals>
-    <plurals name="traffic_setting_app_count">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
-    </plurals>
     <plurals name="uninstall_game_count_title">
         <item quantity="other">"%d giochi non aggiunti"</item>
         <item quantity="one">"%d gioco non aggiunto"</item>
@@ -863,10 +859,6 @@ Puoi ottenere una prova gratuita di %d giorno!"</item>
     <plurals name="unlock_set_unlock_pin_summary_new">
         <item quantity="other">Inserisci %s cifre</item>
         <item quantity="one">Inserisci %s cifra</item>
-    </plurals>
-    <plurals name="videobox_settings_manager_apps_count">
-        <item quantity="other">%d app</item>
-        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="videobox_settings_timing_bubble">
         <item quantity="other">"Stai guardando i video già da %d ore.

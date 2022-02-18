@@ -15,44 +15,6 @@
         <item>240</item>
         <item>720</item>
     </string-array>
-    <string-array name="account_settings_mail_window_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-    </string-array>
-    <string-array name="account_settings_mail_window_values_eas">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>7</item>
-    </string-array>
-    <string-array name="account_settings_mail_window_values_with_default">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>7</item>
-    </string-array>
-    <string-array name="account_settings_message_load_graph_values">
-        <item>2</item>
-        <item>4</item>
-    </string-array>
-    <string-array name="account_settings_message_load_imap_eas_values">
-        <item>2</item>
-        <item>4</item>
-    </string-array>
-    <string-array name="account_settings_message_load_pop3_values">
-        <item>1</item>
-        <item>4</item>
-    </string-array>
     <string-array name="all_month_str">
         <item>Gen</item>
         <item>Feb</item>
@@ -66,36 +28,6 @@
         <item>Ott</item>
         <item>Nov</item>
         <item>Dic</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
     </string-array>
     <string-array name="calendar_remind_string_array">
         <item>Stanotte</item>
@@ -126,13 +58,6 @@
         <item>Fattura</item>
         <item>fattura</item>
     </string-array>
-    <string-array name="log_file_save_term_values">
-        <item>1</item>
-        <item>3</item>
-        <item>7</item>
-        <item>30</item>
-        <item>-1</item>
-    </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Predefinito</item>
         <item>Formato</item>
@@ -160,7 +85,7 @@
         <item>list</item>
     </string-array>
     <string-array name="sign_in_dialog_item">
-        <item>Accesso al protocollo imap di Outlook oauth</item>
+        <item>Outlook per le imprese (senza calendario)</item>
         <item>IMAP (senza calendario)</item>
         <item>EXCHANGE (con calendario)</item>
     </string-array>
@@ -211,10 +136,5 @@
         <item>Questa email</item>
         <item>Avviso</item>
         <item>Avviso email</item>
-    </string-array>
-    <string-array name="smtp_host_prefixes">
-        <item>pop3</item>
-        <item>pop</item>
-        <item>imap</item>
     </string-array>
 </resources>

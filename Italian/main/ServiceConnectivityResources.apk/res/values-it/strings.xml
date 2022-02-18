@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connectivityResourcesAppLabel">Risorse Di Connettività Di Sistema</string>
+    <string name="mobile_no_internet">La rete mobile non ha accesso a Internet</string>
+    <string name="network_available_sign_in">Accedi alla rete</string>
+    <string name="network_available_sign_in_detailed">%1$s</string>
+    <string name="network_partial_connectivity">%1$s ha connettività limitata</string>
+    <string name="network_partial_connectivity_detailed">Tocca per connetterti lo stesso</string>
+    <string name="network_switch_metered">Passato a %1$s</string>
+    <string name="network_switch_metered_detail">Il dispositivo utilizza %1$s mentre %2$s non ha accesso ad Internet. Una ricarica potrebbe essere necessaria.</string>
+    <string name="network_switch_metered_toast">Passato da %1$s a %2$s</string>
+    <string name="network_switch_type_name_unknown">Tipo di network sconosciuto</string>
+    <string name="other_networks_no_internet">La rete non ha accesso a Internet</string>
+    <string name="private_dns_broken_detailed">Impossibile accedere al server DNS privato</string>
+    <string name="wifi_available_sign_in">Accedi alla rete Wi-Fi</string>
+    <string name="wifi_no_internet">Il Wi-Fi non ha accesso ad internet</string>
+    <string name="wifi_no_internet_detailed">Tocca per le opzioni</string>
+</resources>

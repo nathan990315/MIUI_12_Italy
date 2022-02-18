@@ -1,35 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="hd_record_scenes_entries">
         <item>Musica</item>
         <item>Voce</item>
@@ -46,20 +16,15 @@
         <item>MP3</item>
         <item>WAV</item>
     </string-array>
-    <string-array name="record_format_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="record_quality_entries">
         <item>Alta</item>
         <item>Normale</item>
         <item>Bassa</item>
     </string-array>
-    <string-array name="record_quality_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/h</item>
+        <item>MP3, ~100kbit/s, ~45MB/h</item>
+        <item>MP3, ~75kbit/s, ~32MB/h</item>
     </string-array>
     <string-array name="record_scenes_entries">
         <item>Musica</item>
@@ -76,12 +41,6 @@
         <item>Sposta il microfono più vicino alla sorgente del suono per una migliore qualità</item>
         <item>Posiziona il telefono tra 2 persone per registrare chiaramente la loro conversazione</item>
         <item>La tecnologia ad alta gamma dinamica consente al microfono di registrare un suono più dettagliato</item>
-    </string-array>
-    <string-array name="record_scenes_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
     </string-array>
     <string-array name="record_type_entries">
         <item>MP3</item>

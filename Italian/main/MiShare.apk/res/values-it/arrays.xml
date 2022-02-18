@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
+    <string-array name="permissions">
+        <item>android.permission-group.STORAGE</item>
+        <item>android.permission-group.LOCATION</item>
     </string-array>
     <string-array name="permissions_desc">
         <item>Per accedere e salvare immagini, applicazioni e altri file e per trasferirli</item>
@@ -49,5 +23,11 @@
         <item>Per trasferire file utilizzando Bluetooth e Wi-Fi</item>
         <item>Per trovare i dispositivi disponibili nelle vicinanze utilizzando il Bluetooth</item>
         <item>Per trovare dispositivi disponibili nelle vicinanze e trasferire file utilizzando il Wi-Fi</item>
+    </string-array>
+    <string-array name="permissions_v12">
+        <item>android.permission-group.STORAGE</item>
+        <item>android.permission-group.LOCATION</item>
+        <item>android.permission.BLUETOOTH_ADMIN</item>
+        <item>android.permission.CHANGE_WIFI_STATE</item>
     </string-array>
 </resources>

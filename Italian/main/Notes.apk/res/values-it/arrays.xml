@@ -1,35 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="attachment_chooser">
         <item>Fotocamera</item>
         <item>Galleria</item>
@@ -46,21 +16,42 @@
         <item>E-mail</item>
         <item>Società</item>
         <item>IM</item>
-        <item>Telefono SIP</item>
+        <item>Numero SIP</item>
         <item>Compleanno</item>
-        <item>Sito web</item>
+        <item>Sito Web</item>
         <item>Indirizzo</item>
         <item>Nota</item>
+    </string-array>
+    <string-array name="contact_values">
+        <item>vnd.android.cursor.item/name</item>
+        <item>vnd.android.cursor.item/nickname</item>
+        <item>vnd.android.cursor.item/phone_v2</item>
+        <item>vnd.android.cursor.item/email_v2</item>
+        <item>vnd.android.cursor.item/organisation</item>
+        <item>vnd.android.cursor.item/im</item>
+        <item>vnd.android.cursor.item/sip_address</item>
+        <item>vnd.android.cursor.item/contact_event</item>
+        <item>vnd.android.cursor.item/website</item>
+        <item>vnd.android.cursor.item/postal-address_v2</item>
+        <item>vnd.android.cursor.item/note</item>
     </string-array>
     <string-array name="first_guide_contents">
         <item>Benvenuto in Note!</item>
         <item>Scrivi note</item>
         <item>Puoi utilizzare testo, immagini e registrazioni vocali nelle tue note. Una ricca libreria di stili e caratteri renderà sbalorditivi i tuoi basilari scarabocchi.</item>
         <item>Liste di controllo e promemoria ti verranno in aiuto quando avrai bisogno di strumenti di base ed efficaci per pianificare il tuo prossimo viaggio o mettere insieme una lista della spesa.</item>
-        <item>Condividi le note</item>
+        <item>Condividi note</item>
         <item>Potrai generare automaticamente schermate estese sulle tue note e condividerle con i tuoi amici.</item>
         <item>Crea e passa fra le cartelle</item>
         <item>Premi la freccia in basso per creare una nuova cartella o passare da una esistente ad un\'altra.</item>
+    </string-array>
+    <string-array name="first_guide_images">
+        <item>guide_first_00</item>
+        <item>guide_first_01</item>
+        <item>guide_first_02</item>
+        <item>guide_first_03</item>
+        <item>guide_first_04</item>
+        <item></item>
     </string-array>
     <string-array name="folder_operations">
         <item>Rinomina</item>
@@ -69,12 +60,12 @@
     <string-array name="font_size_names">
         <item>Piccolo</item>
         <item>Medio</item>
-        <item>Largo</item>
-        <item>Testo molto grande</item>
+        <item>Grande</item>
+        <item>Enorme</item>
     </string-array>
     <string-array name="note_sort_way">
-        <item>Per data di creazione</item>
-        <item>Per data di modifica</item>
+        <item>Ordina per data di creazione</item>
+        <item>Ordina per data di modifica</item>
     </string-array>
     <string-array name="second_guide_contents">
         <item>Note vocali</item>
@@ -83,6 +74,10 @@
     <string-array name="second_guide_contents_pad_or_inter">
         <item>Note vocali</item>
         <item>Puoi creare note vocali ora. Basterà toccare l\'icona, registrare la tua voce e salvare il file audio all\'interno della nota.</item>
+    </string-array>
+    <string-array name="second_guide_images">
+        <item>guide_second_00</item>
+        <item></item>
     </string-array>
     <string-array name="system_folder_operations">
         <item>Nuova</item>

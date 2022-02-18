@@ -17,84 +17,136 @@
     <string-array name="activities_title">
         <item>Giorno speciale</item>
         <item>Giorno da ricordare</item>
-        <item>Momenti vivaci</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
+        <item>Momenti importanti</item>
     </string-array>
     <string-array name="baby_sexy">
-        <item>Ragazzo</item>
-        <item>Ragazza</item>
+        <item>Bambino</item>
+        <item>Bambina</item>
+    </string-array>
+    <string-array name="baby_sexy_value">
+        <item>male</item>
+        <item>femmina</item>
     </string-array>
     <string-array name="backup_automatically_key_words">
-        <item>Backup delle foto</item>
-        <item>Sincronizza le foto con il cloud</item>
+        <item>Esegui il backup delle foto</item>
+        <item>Sincronizza le foto con Mi Cloud</item>
     </string-array>
     <string-array name="card_last_week_day">
-        <item>Lunedì scorso</item>
-        <item>Martedì scorso</item>
-        <item>Mercoledì scorso</item>
-        <item>Giovedì scorso</item>
-        <item>Venerdì scorso</item>
+        <item>Lo scorso Lunedì</item>
+        <item>Lo scorso Martedì</item>
+        <item>Lo scorso Mercoledì</item>
+        <item>Lo scorso Giovedì</item>
+        <item>Lo scorso Venerdì</item>
     </string-array>
     <string-array name="chinese_holiday_last_year">
-        <item>"Ultimo Capodanno Cinese"</item>
-        <item>Ultimo Capodanno Cinese</item>
-        <item>Ultimo Festival Della Lanterna</item>
+        <item>"Ultimo capodanno Cinese"</item>
+        <item>Ultimo capodanno Cinese</item>
+        <item>Ultimo Festival delle Lanterne</item>
         <item>Ultimo Festival delle Barche Drago</item>
         <item>Ultimo Festival di Qixi</item>
         <item>Ultimo Festival di Metà Autunno</item>
     </string-array>
     <string-array name="chinese_holiday_past_year">
-        <item>"Capodanno Cinese negli anni"</item>
-        <item>Capodanno Cinese negli anni</item>
-        <item>Festival delle Lanterne negli anni</item>
-        <item>Festival delle barche del drago negli anni</item>
-        <item>Festival Qixi negli anni</item>
-        <item>Festival di Metà Autunno negli anni</item>
+        <item>"Capodanno Cinese nel corso degli anni"</item>
+        <item>Capodanno Cinese nel corso degli anni</item>
+        <item>Festival delle Lanterne nel corso degli anni</item>
+        <item>Festival delle Barche Drago nel corso degli anni</item>
+        <item>Festival Qixi nel corso degli anni</item>
+        <item>Festival di Metà Autunno nel corso degli anni</item>
+    </string-array>
+    <string-array name="color_value">
+        <item>\#FFFFFFFF</item>
+        <item>\#FF3D3D3D</item>
+        <item>\#FFFF4F57</item>
+        <item>\#FFFF6A56</item>
+        <item>\#FFFF8832</item>
+        <item>\#FFFACE34</item>
+        <item>\#FFDFAB47</item>
+        <item>\#FFD9FF86</item>
+        <item>\#FF85F573</item>
+        <item>\#FF93FDD7</item>
+        <item>\#FF3AE1EB</item>
+        <item>\#FF69B7FF</item>
+        <item>\#FF47A6FE</item>
+        <item>\#FF94ADEF</item>
+        <item>\#FFF4AFFF</item>
+        <item>\#FFEC46EF</item>
+        <item>\#FF6C7B,#FFA683</item>
+        <item>\#FF6C7B,#FFC683</item>
+        <item>\#FF6A87,#DBA7E9</item>
+        <item>\#59F2F7,#30C9FD</item>
+        <item>\#7DB0FC,#FD9EA2</item>
+        <item>\#F973B7,#95A3FB</item>
+        <item>\#3DAAFB,#60DBFA</item>
+        <item>\#98E6CB,#82A2E8</item>
+        <item>\#8C96FE,#47B6FE</item>
+        <item>\#7DE7A1,#A3DD7A</item>
+        <item>\#F2ED75,#82E8E8</item>
+        <item>\#FEAC92,#AFB1D4</item>
+        <item>\#6CB8FF,#FFEEB4</item>
+    </string-array>
+    <string-array name="doodle_color_selector_array">
+        <item>\#FFFFFF</item>
+        <item>\#3D3D3D</item>
+        <item>\#F5330F</item>
+        <item>\#FF6A56</item>
+        <item>\#FF8832</item>
+        <item>\#FACE34</item>
+        <item>\#DFAB47</item>
+        <item>\#D9FF86</item>
+        <item>\#85F573</item>
+        <item>\#93FDD7</item>
+        <item>\#3AE1EB</item>
+        <item>\#69B7FF</item>
+        <item>\#187BFD</item>
+        <item>\#94ADEF</item>
+        <item>\#865AFF</item>
+        <item>\#F4AFFF</item>
+        <item>\#EC46EF</item>
+    </string-array>
+    <string-array name="frame_color_selector_array">
+        <item>\#FFFFFF</item>
+        <item>\#3D3D3D</item>
+        <item>\#636363</item>
+        <item>\#FF8832</item>
+        <item>\#FACE34</item>
+        <item>\#D9FF86</item>
+        <item>\#85F573</item>
+        <item>\#93FDD7</item>
+        <item>\#3AE1EB</item>
+        <item>\#69B7FF</item>
+        <item>\#47A6FE</item>
+        <item>\#865AFF</item>
+        <item>\#F4AFFF</item>
+        <item>\#FFC86B</item>
+        <item>\#BFE1E8</item>
+        <item>\#8AA5D5</item>
+        <item>\#B7B2D1</item>
+        <item>\#FFD1D1</item>
+        <item>\#975B50</item>
+        <item>\#7D6456</item>
+        <item>\#8F7C5D</item>
+        <item>\#5E7966</item>
+        <item>\#6A7D81</item>
+        <item>\#5C687F</item>
+        <item>\#5B576F</item>
+        <item>\#937373</item>
     </string-array>
     <string-array name="holiday_last_year">
-        <item>"Il Capodanno precedente"</item>
-        <item>"Lo scorso San Valentino"</item>
+        <item>"Lo scorso giorno dell'anno"</item>
+        <item>"Lo scorso giorno di San Valentino"</item>
         <item>La scorsa giornata del lavoro</item>
         <item>"La scorsa giornata dei bambini"</item>
         <item>La scorsa Festa nazionale</item>
         <item>Lo scorso Natale</item>
     </string-array>
     <string-array name="holiday_past_year">
-        <item>"Capodanno negli anni"</item>
-        <item>"San Valentino negli anni"</item>
-        <item>Giornata del lavoro negli anni</item>
-        <item>"Giornata dei bambini negli anni"</item>
-        <item>Festa nazionale negli anni</item>
-        <item>Natale negli anni</item>
+        <item>"Nuovo giorno dell'anno nel corso degli anni"</item>
+        <item>"Nuovo giorno di San Valentino nel corso degli anni"</item>
+        <item>Giornata del lavoro nel corso degli anni</item>
+        <item>"Giornata dei bambini nel corso degli anni"</item>
+        <item>Festa nazionale nel corso gli anni</item>
+        <item>Natale nel corso degli anni</item>
     </string-array>
     <string-array name="last_month">
         <item>Gennaio</item>
@@ -117,7 +169,7 @@
     </string-array>
     <string-array name="last_weekend_title">
         <item>I miei weekend</item>
-        <item>Scorci di vita</item>
+        <item>Spaccati di vita</item>
         <item>Ricordi dei weekend</item>
     </string-array>
     <string-array name="last_year_group_people">
@@ -148,6 +200,22 @@
         <item>Sfocatura nebbiosa</item>
         <item>Sensazione futuristica</item>
     </string-array>
+    <string-array name="magic_effects_icon">
+        <item>magic_special_sketch</item>
+        <item>magic_special_watercolour</item>
+        <item>magic_special_rbg</item>
+        <item>magic_special_window_shades</item>
+        <item>magic_special_window_fog</item>
+        <item>magic_special_fault_style</item>
+    </string-array>
+    <string-array name="magic_effects_icon_thumb">
+        <item>magic_special_thumb_sketch</item>
+        <item>magic_special_thumb_watercolour</item>
+        <item>magic_special_thumb_rbg</item>
+        <item>magic_special_thumb_window_shades</item>
+        <item>magic_special_thumb_window_fog</item>
+        <item>magic_special_thumb_fault_style</item>
+    </string-array>
     <string-array name="magic_effects_title">
         <item>Fumetto</item>
         <item>Acquarello</item>
@@ -170,15 +238,13 @@
         <item>Ali</item>
         <item>Angelo</item>
     </string-array>
-    <string-array name="magic_idp_color_common">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
+    <string-array name="magic_id_photo_edit_hint_mm_array">
+        <item>10-120</item>
+        <item>10-120</item>
+    </string-array>
+    <string-array name="magic_id_photo_edit_hint_px_array">
+        <item>100-1024</item>
+        <item>100-1024</item>
     </string-array>
     <string-array name="magic_idp_size_category">
         <item>Generale</item>
@@ -195,6 +261,27 @@
         <item>ID</item>
         <item>Permesso di soggiorno</item>
     </string-array>
+    <string-array name="magic_idp_size_category_certificates_value">
+        <item>358×441+26×32</item>
+        <item>295×413+25×35</item>
+        <item>358×441+26×32</item>
+        <item>358×441+26×32</item>
+        <item>358×441+26×32</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Più piccola di una pistola</item>
+        <item>Due canne più piccole</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common_value">
+        <item>100-1024+25-87</item>
+        <item>295×413+25×35</item>
+        <item>413×579+35×49</item>
+        <item>260×378+22×32</item>
+        <item>413×531+35×45</item>
+    </string-array>
     <string-array name="magic_idp_size_category_education">
         <item>Applicazione di ammissione</item>
         <item>Rete di studenti</item>
@@ -203,6 +290,15 @@
         <item>Iscrizione universitaria</item>
         <item>NCEE</item>
         <item>Riprendi</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education_value">
+        <item>295×413+25×35</item>
+        <item>472×630+80×107</item>
+        <item>300×420+25×36</item>
+        <item>390×480+33×41</item>
+        <item>413×531+35×45</item>
+        <item>390×567+33×48</item>
+        <item>295×413+25×35</item>
     </string-array>
     <string-array name="magic_idp_size_category_examination">
         <item>Test di Inglese del College 1</item>
@@ -213,8 +309,20 @@
         <item>Test di Laurea in Inglese</item>
         <item>PET per università</item>
         <item>PET Livello 3</item>
-        <item>National Computer Rank Examination 1</item>
-        <item>National Computer Rank Examination 2</item>
+        <item>Esame Nazionale Del Rango Di Computer 1</item>
+        <item>Esame Nazionale Rango Informatico 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination_value">
+        <item>144×192+12×16</item>
+        <item>240×320+20×27</item>
+        <item>150×200+13×17</item>
+        <item>144×192+12×16</item>
+        <item>390×567+33×48</item>
+        <item>140×180+12×15</item>
+        <item>295×413+25×35</item>
+        <item>144×192+33×48</item>
+        <item>240×320+20×27</item>
+        <item>144×192+33×48</item>
     </string-array>
     <string-array name="magic_idp_size_category_profession">
         <item>Certificazione insegnante della scuola primaria e secondaria</item>
@@ -223,15 +331,32 @@
         <item>Permesso di guida</item>
         <item>Autorizzazione di guida elettronica</item>
         <item>Esame giuridico nazionale</item>
-        <item>Electronic first-class constructor certificate</item>
-        <item>Second-class constructor certificate</item>
-        <item>Junior accounting title examination</item>
+        <item>Certificato elettronico di prima classe</item>
+        <item>Certificato costruttore di seconda categoria</item>
+        <item>Esame contabile Junior</item>
         <item>Responsabile pubblico certificato</item>
         <item>Permesso guida Pechino</item>
-        <item>Intermediate accounting title examination</item>
-        <item>Senior accounting title examination</item>
-        <item>Accounting qualification certificate</item>
-        <item>Certified public accountant examination</item>
+        <item>Esame intermedio contabile</item>
+        <item>Esame contabile superiore</item>
+        <item>Certificato di qualifica contabile</item>
+        <item>Esame contabile pubblico certificato</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession_value">
+        <item>295×413+25×35</item>
+        <item>180×240+15×20</item>
+        <item>260×378+22×32</item>
+        <item>285×385+23×33</item>
+        <item>413×626+35×53</item>
+        <item>413×626+35×53</item>
+        <item>295×413+25×35</item>
+        <item>215×300+18×25</item>
+        <item>295×413+25×35</item>
+        <item>178×220+15×19</item>
+        <item>413×531+35×45</item>
+        <item>114×156+10×13</item>
+        <item>114×156+10×13</item>
+        <item>500×700+42×59</item>
+        <item>295×413+25×35</item>
     </string-array>
     <string-array name="magic_idp_size_category_visa">
         <item>Stati Uniti</item>
@@ -252,11 +377,35 @@
         <item>Islanda</item>
         <item>Kenya</item>
     </string-array>
+    <string-array name="magic_idp_size_category_visa_value">
+        <item>600×600+51×51</item>
+        <item>413×531+35×45</item>
+        <item>531×531+45×45</item>
+        <item>390×567+33×48</item>
+        <item>413×531+35×45</item>
+        <item>413×531+35×45</item>
+        <item>472×708+40×60</item>
+        <item>591×591+51×51</item>
+        <item>591×591+51×51</item>
+        <item>413×531+35×45</item>
+        <item>413×531+35×45</item>
+        <item>900×1200+76×102</item>
+        <item>413×472+35×40</item>
+        <item>472×472+40×40</item>
+        <item>413×531+40×50</item>
+        <item>413×531+40×50</item>
+        <item>591×591+50×50</item>
+    </string-array>
     <string-array name="magic_system_model">
         <item>Mi 10</item>
         <item>Mi 10 Pro</item>
         <item>Mi 11</item>
         <item>Mi 11 Pro</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Sposta</item>
+        <item>Copia</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>Gennaio</item>
@@ -294,23 +443,47 @@
         <item>Nonno materno</item>
         <item>Nonna materna</item>
     </string-array>
+    <string-array name="owner_relation_value">
+        <item>padre</item>
+        <item>madre</item>
+        <item>nonno</item>
+        <item>nonna</item>
+        <item>Nonno materno</item>
+        <item>Nonna materna</item>
+    </string-array>
     <string-array name="parties_title">
         <item>Insieme</item>
         <item>Bei momenti</item>
-        <item>All\'unisono</item>
+        <item>Insieme</item>
     </string-array>
     <string-array name="recent_group_people">
         <item>Insieme</item>
-        <item>Obbligazioni e legami</item>
+        <item>Legami e nodi</item>
     </string-array>
     <string-array name="relation_with_me">
         <item>Io</item>
         <item>Figlio</item>
-        <item>Famiglia</item>
-        <item>Colleghi</item>
-        <item>Compagni di classe</item>
-        <item>Amici</item>
-        <item>Non raggruppato</item>
+        <item>Familiare</item>
+        <item>Collega</item>
+        <item>Compagno di classe</item>
+        <item>Amico</item>
+        <item>Sconosciuto</item>
+    </string-array>
+    <string-array name="relation_with_me_value">
+        <item>me stesso</item>
+        <item>child</item>
+        <item>famiglia</item>
+        <item>colleguo</item>
+        <item>compagno</item>
+        <item>amico</item>
+        <item>sconosciuto</item>
+    </string-array>
+    <string-array name="search_voice_assistant_suggestion">
+        <item>帮我找出身份证的照片</item>
+        <item>我想看在三亚拍的照片</item>
+        <item>找出有小米文字的图片</item>
+        <item>搜索去年春节的照片</item>
+        <item>帮我搜我和妈妈上个月在海边的合影</item>
     </string-array>
     <string-array name="season">
         <item>Primavera</item>
@@ -332,10 +505,6 @@
         <item>Nonno materno</item>
         <item>Nonna materna</item>
     </string-array>
-    <string-array name="spinner_list">
-        <item>px</item>
-        <item>mm</item>
-    </string-array>
     <string-array name="sports_title">
         <item>Andare avanti</item>
         <item>Pieno di energia</item>
@@ -348,6 +517,6 @@
         <item>Ultimi weekend</item>
         <item>Giorni da ricordare</item>
         <item>Eventi giornalieri</item>
-        <item>Ordinario e Straordinario</item>
+        <item>Ordinari e Straordinari</item>
     </string-array>
 </resources>

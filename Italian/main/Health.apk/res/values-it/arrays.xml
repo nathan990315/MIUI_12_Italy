@@ -16,36 +16,6 @@
         <item>Salto della corda</item>
         <item>Allenamento</item>
     </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="arr_prompt_label">
         <item>Ragionevole</item>
         <item>Lungo</item>
@@ -53,31 +23,17 @@
     </string-array>
     <string-array name="arr_sedentary_reminder">
         <item>È ora di muoversi!</item>
-        <item>Maggiori informazioni</item>
+        <item>Scopri di più</item>
         <item>Bevi un po\' d\'acqua e fai una passeggiata.</item>
-        <item>Maggiori informazioni</item>
+        <item>Scopri di più</item>
         <item>Sali una rampa di scale</item>
-        <item>Maggiori informazioni</item>
+        <item>Scopri di più</item>
         <item>"Non stare seduto troppo a lungo"</item>
-        <item>Maggiori informazioni</item>
+        <item>Scopri di più</item>
     </string-array>
     <string-array name="arr_time_label">
         <item>1 ora</item>
         <item>2 ore</item>
-    </string-array>
-    <string-array name="blood_types">
-        <item>A</item>
-        <item>B</item>
-        <item>AB</item>
-        <item>O</item>
-        <item>A(-)</item>
-        <item>A(+)</item>
-        <item>B(-)</item>
-        <item>B(+)</item>
-        <item>AB(-)</item>
-        <item>AB(+)</item>
-        <item>O(-)</item>
-        <item>O(+)</item>
     </string-array>
     <string-array name="contact_relation_array">
         <item>Non impostato</item>
@@ -90,19 +46,10 @@
         <item>Collega</item>
         <item>Compagno</item>
     </string-array>
-    <string-array name="energy_unit">
-        <item>" kcal"</item>
-        <item>" kJ"</item>
-    </string-array>
     <string-array name="gender_array">
         <item>Non impostato</item>
         <item>Maschio</item>
         <item>Femmina</item>
-    </string-array>
-    <string-array name="length_unit">
-        <item>" cm"</item>
-        <item>" m"</item>
-        <item>" km"</item>
     </string-array>
     <string-array name="normal_blood_array">
         <item>Non impostato</item>
@@ -135,7 +82,7 @@
         <item>Pollock, Michael L, Gaesser, Glenn A, Butcher, Janus D,等. ACSM Position Stand: The, Recommended Quantity and Quality of Exercise for Developing and Maintaining Cardiorespiratory, and Muscular Fitness, and Flexibility in Healthy Adults[J]. Medicine &amp; Science, in Sports &amp; Exercise, 30(6):975-991.</item>
         <item>Tahara Y, Moji K, Aoyagi K, Tsunawake N, Muraki S, Mascie-Taylor CG. Age-related pattern of body density and body composition of Japanese men and women 18-59 years of age. Am J Hum Biol. 14(6):743-52, 2002</item>
         <item>Wang ZM, Pierson RN Jr, Heymsfield SB. The five-level model: a new approach to organizing body-composition research. Am J Clin Nutr. 1992 Jul;56(1):19-28.</item>
-        <item>Linee guida WHO sul BMI</item>
+        <item>Linee guida WHO per BMI</item>
         <item>儿科学辞典. 北京科学技术出版社. 2003</item>
         <item>临床医学概要 第2版 第二章 体格检查人民卫生出版社</item>
         <item>苏亮，陆峥. 2017 年中国失眠症诊断和治疗指南解读[J]. 世界临床药物, 2018, 39(4).</item>
@@ -175,10 +122,6 @@
         <item>Limita attività in background</item>
         <item>Interrompi dopo 10 minuti</item>
         <item>Mai</item>
-    </string-array>
-    <string-array name="speed_unit">
-        <item>" km/h"</item>
-        <item>" m/s"</item>
     </string-array>
     <string-array name="stand_guide_page_content1">
         <item>"Stare seduti non giova alla tua salute. Anche se non si riesce a ridurre il tempo che si passa seduti, alzarsi ogni tanto è una buona idea."</item>

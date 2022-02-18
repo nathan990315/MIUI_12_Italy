@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_wifi_tether_enable">com.android.settings/.wifi.tether.TetherService</string>
+    <string name="disable_tether_notification_message">Contatta il tuo amministratore per maggiori dettagli</string>
+    <string name="disable_tether_notification_title">Tethering disattivato</string>
+    <string name="notification_channel_tethering_status">Stato hotspot e tethering</string>
+    <string name="tethered_notification_message">Tocca per configurare</string>
+    <string name="tethered_notification_title">Tethering o hotspot attivo</string>
+</resources>

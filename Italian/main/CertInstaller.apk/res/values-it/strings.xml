@@ -2,7 +2,7 @@
 <resources>
     <string name="action_missing_private_key">Chiave privata necessaria per installare un certificato</string>
     <string name="action_missing_user_cert">Certificato richiesto per installare una chiave privata</string>
-    <string name="app_name">Gestore installazione certificati</string>
+    <string name="app_name">Installazione certificati</string>
     <string name="ca_cert_is_added">Certificato CA installato</string>
     <string name="ca_certificate">Certificato CA</string>
     <string name="cert_missing_error">"Installazione fallita: file del certificato non trovato."</string>
